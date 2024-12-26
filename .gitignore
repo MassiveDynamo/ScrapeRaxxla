@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ScrapeRaxxla/DesignTimeBuild
+/.vs/ScrapeRaxxla/FileContentIndex
+/.vs/ScrapeRaxxla/v17
+/bin/Debug/net8.0
+/.vs
+/obj
