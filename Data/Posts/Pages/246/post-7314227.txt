@@ -1,0 +1,9 @@
+SpocksOddSocks
+Jan 4, 2019
+#4,906
+Han_Zen said:
+I did a reboot/repair. That shuts down everything.
+
+Just fyi, but ctrl+alt+g turns off your hud as well.
+Reactions:
+Han_Zen

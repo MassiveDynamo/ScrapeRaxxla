@@ -1,0 +1,6 @@
+Rochester
+Jun 1, 2022
+#26,304
+simulacrae said:
+Im using Sketchup - importing data from eddb or in the case of the codex maps im just using the ingame grid map to get locations then putting them in a table (csv) and importing into Sketchup - then once ive got the points placed i take it into Photoshop to pretty things up.
+Nice. I’ll give it a try. My PC is mothballed at present, and I’m looking for a CAD/GIS that’ll work on IPhone / tablet until I have the PC operational.

@@ -1,0 +1,13 @@
+Robert Rockbite
+R
+Feb 3, 2022
+#25,226
+Don't worry, Your code "works" as intended.
+However, your compiler or OS probably does not.
+With gcc on Linux (and %lu instead of %I64u) I get:
+
+Code:
+ID_Base=                                                      1887439211    , ID_Overflow=                                                      2528116736     , buffer=                                                      2528116736   
+*** stack smashing detected ***: terminated
+Reactions:
+Adel

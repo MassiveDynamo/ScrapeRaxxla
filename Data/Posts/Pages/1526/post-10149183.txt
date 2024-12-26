@@ -1,0 +1,33 @@
+Jorki Rasalas
+May 24, 2023
+#30,517
+Garand1987 said:
+I was having a gander at the Raxxla symbol in the game again. I can’t help but feel that the center circle and dot represents the sun. It is the symbol for the sun and considering everything else that the devs have done there’s no way they don’t know that and they know that’s what people will see it as.
+But then there’s the three circle segments around the sun. I suppose those can be interpreted in various ways and indeed they have.
+But, the only thing I’m aware of that exists only in a set of three in the solar system is triaxial ellipsoid dwarf planets. They are Makemake, Eris, and Haumea.
+The dotted outer line could represent the orbit of Persephone, a planet oddly added into game that we don’t actually know exists.
+Persephone is of course, the parents grief and the livers woe.
+When she’s gone hades in the winter, Demeter, her mother, grieves her being away and causes winter. And in the warm months Hades is aggrieved by her absence as well.
+Persephone ate 6 pomegranate seeds and there are six outer shapes to the symbol. Kinda looks like a cut pomegranate too.
+Click to expand...
+Well, see a couple of my immediately preceding posts above for an explanation of the three arcs!
+I’ve noted the pomegranate reference in the past, but I’ve done Persephone and found nothing out of the ordinary, if you discount the fact that it’s extraordinarily bright out at that distance from the sun.
+
+In the Edifying Will episode with Exo, Will let slip a hint that could imply it’s likely to be in an asteroid belt/planetary ring, hence my focus on Sol’s planetary rings. DB seemed to be particularly impressed with the Voyager missions (which visited the gas giants), and his voice is included in-game as part of the Voyager broadcast. Apart from Saturn’s rings, as I discussed above, from the Princess anagram it might be in alpha (0.149 ls), eta (0.157 ls) or delta (0.161 ls) rings of Uranus (Father Sky in Greek myth, husband to Mother Gaia, astronomical symbol dot & circle with arrow)...but Neptune ties in with Triton permit lock & image of the Triton figure (triton is Neptune’s astronomical symbol) in MB’s tattoo. Voyager 2 imaged Neptune’s rings. However Neptune’s rings are very difficult to see in-game.
+
+Edit
+For triangular arc resemblance see the Hilda asteroids https://en.m.wikipedia.org/wiki/Hilda_asteroid.
+Also searched for those in the past but found nothing.
+
+I’m not hung up on Sol & Saturn, though I think the Mars alien artefact, plus logo’s three arcs, hexagonal shape & IRL hexagonal polar storm named “omphalos” are pretty strong pointers, as is the good fit for Anthe and Pallene ring arcs as sub-anagrams of Princess Astrophel book title.
+Wherever it is, if its in a planetary ring then the location in the Journal should be of the form “At XX ring in YY”
+where XX is the ring name and YY is the system name, so the anagram solution should be of the same form. I need to brush up my programming skills. I was working on a subanagram solver against dictionary of system names for a given string in libreoffice, but my programming fu has weakened with age (& it never was much cop).
+
+P.S.
+The Hildas are in Jupiter’s belt system. Augustus Brenquith’s message capsule “was recovered from outside the orbit of Jupiter” (TB 0216); in the film 2001 Space Odyssey (clearly an influence on DB with the Blue Danube music playing during docking in-game, in both ED and Elite 1) the alien monolith was located at Jupiter, though in Asimov’s original book it was at Saturn. Jupiter Hildas might explain the arcs, though unconvinced, but doesnt explain the hexagon. And cant see any relevance to the anagram.
+
+P.P.S.
+Mmm, apparently Jupiter also has a hexagon, and also Neptune!!
+Last edited: May 24, 2023
+Reactions:
+Rochester and BluWolve

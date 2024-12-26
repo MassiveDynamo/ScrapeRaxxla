@@ -1,0 +1,41 @@
+stg213
+Apr 2, 2019
+#7,181
+Something just struck me while reading new and new ideas on the wild goose-chase of Raxxla. This might sound stupid at first but bear with it and you will see where i'm going with this.
+
+The big assumption/question going forward in this post is: has FDev f***d up the storyline of the Raxxla quest? Going by the assumption they didn't we can narrow down a lot of possibilities:
+
+1) How does a myth get started ? I mean ingame, as lore logic, not our tinfoil myths.
+
+There needs to be a source to every myth... some discovery that triggered it all. This discovery is then told and retold by word of mouth until it gets distorted into myth, 50% fact 50% fiction.
+
+If we consider the age of the myth, the original discovery was made in the early years of hyperdrive or previously -> the idea is that the discovery is ~100ly range from Sol (not Raxxla but the original discovery) because that's how far ships went at the time of the first confirmation.
+
+1.1) only from the above we can conclude that either
+
+a) TDW did discover Raxxla or somebody discovered Raxxla which led to the formation of TDW as a means to protect the location or to find it again if it was lost
+b) Raxxla was never found, it doesn't exist, it is entirely made up => it cannot be ingame
+
+2) If a generational ship found 'it' then that ship must have made it back to occupied space in order to spread the rumor and start the myth =>
+
+a) the discovery was NOT made by any of the stranded generational ships as they could have not start the myth
+b) there are no clues in their distribution as they were discovered recently and the myth is far older (it is like supposing that TDW made up their toast based on a discovery that was centuries in the future)
+
+3) Since there is a myth, access was had and lost (either by an individual, organization, etc). The knowledge (or claim) was there but for some reason couldn't be checked by others.
+
+(or again it's all made up and there is no Raxxla)
+
+4) The names of systems should not be related to the location as they were named before the myth came into being*.
+
+a) TWD might have based their alleged trials on existing system names but it shouldn't be inferred that just because there are systems like Nyse and Persephone in the game the Eleusian Mysteries are involved. Rather, TDW as an organisation could have used the pre-existing system names to design a puzzle.
+
+5) the shape of the codex entry about the first mention shows that the myth was present even at the time but not taken seriously. Rewritten the codex entry would sound smth like "yea... why don't we find Atlantis too while we're at it".
+
+a) this implies that the myth was already old at the time
+b) that the information about it was already very thin
+
+6) the mars object hypothesis: this discovery is old enough and real enough (ingame) to be a potential candidate. An object is found... of unknown properties (maybe it leads to Raxxla, maybe it IS Raxxla, maybe, maybe...) then it is hidden, some information is leaked but very little... -> this can be the premise to start a myth.
+
+The list could go on but that is not the point i'm trying to make. The idea is simply to frame questions within this frame: is the Raxxla story consistent in the ED universe ? If we suppose: yes, then this eliminates several theories and narrows down the search. If no... then FU Fdev and we're back to square 0.
+Reactions:
+JethroGuardian

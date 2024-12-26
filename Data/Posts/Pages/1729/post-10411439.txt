@@ -1,0 +1,13 @@
+Han_Zen
+Aug 7, 2024
+#34,566
+This is an interesting hypothesis: https://arxiv.org/pdf/2407.09560
+
+It's about the possibility of the solar system having gravitational equilibrium points (like lagrange points) with the galactic centre. In the case of Sol, these would be 3.81 ly towards or away from Sag A.
+They discus the possibility that rogue planest and other interstellar objects (page 9) may get permanently captured at these locations.
+
+It's a nice solution to the problem of placing a far away body in a fixed location (not orbiting).
+
+The paper is brand new. FD would definitely not have been aware of it, at the time of development. Still, the idea might have been around for a while.
+Reactions:
+Victor acae Romanov, Dox Paradox and simulacrae

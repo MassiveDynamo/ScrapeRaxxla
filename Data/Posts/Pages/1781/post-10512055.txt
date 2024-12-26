@@ -1,0 +1,18 @@
+Ozric
+Volunteer Moderator
+Dec 17, 2024
+#35,611
+Louis Calvert said:
+Hello!
+
+Short: Comets do not exist in game.
+
+Long: There's a 'placeholder' that appears in-game for comets because they were originally planned to be in game. When Fdev ran stellar forge to create the galaxy procedurally, it therefore created the "space" for the comets, but they were never, have never, maybe will never, be present in game in any form other that the 'data trail' left by that galaxy generation over a decade ago.
+
+There's ton of info on this on the forums if you use the search function, you'll be able to find people that have been able to "orbit" a 'comet', and there's literally nothing there at all.
+Click to expand...
+As Nezzie has been in touch with me about Pareco and I see this is the reason for the contact I've been reading through and thought I should correct this (or perhaps make it clearer is more accurate).
+
+Comets are 100% in the game, they do exist and are modelled accurately by the Stellar Forge. There is just no visual representation of them.
+Reactions:
+Jorki Rasalas, The Phat Waffle, Ian Doncaster and 2 others

@@ -1,0 +1,10 @@
+simulacrae
+Sep 5, 2023
+#31,502
+Jorki Rasalas said:
+The system address is given in EDSM if you look up a system. E.g. look up Hel and you’ll see:
+Hel [#2175124097379].
+It’s also reported in the Journal file.
+Ahh thanks
+Reactions:
+CMDRCorrMorningstarFelian and Jorki Rasalas

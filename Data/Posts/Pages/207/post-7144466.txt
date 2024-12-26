@@ -1,0 +1,25 @@
+Jorki Rasalas
+Nov 5, 2018
+#4,129
+Thatchinho said:
+May as well drop in a few things.
+
+Vela Dark is part of the remnant of the Vela SN.
+
+IRL, the Vela Pulsar is just over 11,000 yrs old, see https://phys.org/news/2016-02-glitching-vela-pulsar.amp
+
+In game, the age of the Vela Pulsar is 2 MYrs. (See https://www.edsm.net/en/system/bodies/id/491743/name/Vela+Pulsar )
+
+Which is quite an odd discrepancy, especially given that the Vela Pulsar is right in the thick of the Guardian bubble, and the time the Guardians were around was 2 MYrs ago.
+
+The Vela Pulsar is just under 1,000 ly from Sol.
+
+Mmm, what’s the betting it’s no coincidence!?
+
+Edelgard von Rhein said:
+This is the place to go to find which real nebulae (including dark nebulae) are in ED:
+https://forums.frontier.co.uk/showt...-List-of-(real)-Nebulae-and-Galaxies-in-Elite
+There are no known procedural dark nebulae (big shame!). The closest dark nebula to Sol is the Taurus Dark Region but see the list at the top of the OP in the thread above as there are several others within 1 KLY or so.
+Regarding log files, those are separate between beta and live - no need to delete anything. I've been running EDD the last couple of weeks as in live I've been on the Lightning Strike Expedition, whilst my beta save has been in between Colonia and the Bubble and there has been no conflict or confusion.
+
+So is it easy to delete all the beta files once released?

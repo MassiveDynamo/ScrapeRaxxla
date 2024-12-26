@@ -1,0 +1,15 @@
+madbilly
+M
+Feb 26, 2018
+#1,839
+I was looking into this for other reasons but the answer is still relevant.
+
+In ED, I think almost any type of planet can have no atmosphere, but this does not mean they are landable. To be landable they must be rocky, icy, or metal-rich and have no atmosphere; nothing; 0% any gas; and no surface pressure listed at all, not even 0.00 earth atmospheres.
+
+What about the other planets without atmosphere?
+
+Well, gas giants are listed as having no atmosphere! "WHAT?!" I hear you cry! Yes, that's right, no atmosphere, no surface pressure, because their "surface" is the top of their uppermost gas layer, which for any planet with a solid core would be the top of the atmosphere. So, this is a technicality, but it's pretty obvious you can't land on them anyway.
+
+There are water worlds and ammonia worlds without atmospheres, which is very strange, but I believe it's possible if the surface is frozen and any released gases immediately disperse.
+
+However, most bizarrely, there are earth-likes without an atmosphere. This must be a bug, but according to EDSM it's very common.

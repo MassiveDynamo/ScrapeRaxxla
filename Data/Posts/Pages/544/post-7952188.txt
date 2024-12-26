@@ -1,0 +1,11 @@
+alexzk
+A
+Aug 17, 2019
+#10,877
+If EDSM can be searched for objects with eccentricity e>1 and turns up anything, that would be the jackpot. It would also mean that the system has been 'jonked'. If the EDSM search turns up nothing, then I'm going to suspect that I'm either completely wrong (most likely), or that it's in a permit-locked system close to Sol, or that the rogue planet must be found from other means than the FSS (so that it might still lurk in a fully scanned and mapped system near Sol).
+
+I use EDSM since 9th aug and already found 2 things:
+1. You can download 24 hrs old (at most) nigthly build (5 Gb+ file) and do a search whatever you want.
+2. Not everybody upload logs - and this is annoying problem. Currently I changed my vision of exploration. Now My main goal is to supply quality logs to edsm.
+Because it's fast. You just see unknown star - relog, upload log, and now edsm does full search on it in 3 s later - seems like magic.
+For example I supplied around 10 NS new close to bubble in direction sol-> eta carine (that area). So when I run urgent back - NS plotter already knew fast route.

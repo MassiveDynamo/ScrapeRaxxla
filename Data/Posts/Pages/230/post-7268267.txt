@@ -1,0 +1,4 @@
+SpocksOddSocks
+Dec 18, 2018
+#4,598
+And also, you don't get anything to select. Your composition scanner gauge just goes from the red "nothing found" status to a blank blue status, then you can use it.

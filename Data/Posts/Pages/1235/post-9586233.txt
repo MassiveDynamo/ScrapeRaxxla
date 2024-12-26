@@ -1,0 +1,35 @@
+Jorki Rasalas
+Nov 2, 2021
+#24,681
+yelboc said:
+I didn't mean literally everything is found by FSS, but bodies and signal sources are found up to infinite radius within a system, unlike the old discovery scanner that had limited range. So if a system is honked these days, then all bodies and signals are shown. It cant show things that only exist within an instance such as the recent hidden megaship, and comets don't really exist as bodies in game even if things can orbit their non-existency (which is weird..)
+
+The crystals found near Jupiter were sent by a remote probe as far as I recall, so no wormholes required. All old tech sub-light-speed travel, which limits the total range. So from Ackwada, >158 yrs to get the data if it goes at c..
+
+The date of discovery can be calculated as 39 years after Rockforth was founded on Ackwada - 2673. So 2712 - so well after 2296 when Art Tornquist was chiding Cora. No data about when Berenquith was exploring that I can find, so cant say when he set off. Even at 0.5c, the dispatch of the crystal is well after 2296.
+
+Beacon: Ackwada Discovery [Ackwada]
+
+The official discovery of this system and its habitable planet is nowadays is credited to Augustus Brenquith, although the Rockforth Corporation claim the land deeds and development rights to the system. Thirty nine years after the Corporation declared the system its own; an ancient message capsule (a common way for sending messages at the time) was recovered from outside the orbit of Jupiter in the Sol system.
+
+The discovery aroused considerable interest amongst archeologists on Earth at the time while the capsule was in transit to the New Delhi University there was heated debate as to whether the artefact should be opened or not. When the capsule was studied, the seal was seen to be broken, so the matter was resolved. Inside the capsule was a message crystal with the log of the second five years of Augustus Brenquith's solitary search for new worlds, his 'glittering lagacy', included in the list of planetary systems that he had stumbled upon was that of Ackwada.
+
+--------------------
+Beacon: Rockforth Corporation Founding [Ackwada]
+
+The Rockforth Corporation was founded on Ackwada by the Rockforth Family in 2673, the family that first settled the world.
+
+The Rockforth Corporation began by running Ackwada earning significant foreign exchange from tourism and 'genuine ground-grown food' which it sold far and wide, making very significant revenues. It has since grown into a powerful interstellar corporation, still specialising in agriculture and tourism, with the corporation running giant corporate farms on habitable worlds across especially Federal human space. It has also become quite acquisitive, buying up many of its client companies.
+
+--------------------
+Click to expand...
+Yes, was just tweaking your tail a little! Put it down to my old age! Though I think I’ve always had a weird sense of humour
+
+Augustus Brenquith returning his discoveries back to Sol via a data crystal conveyed by old style probe makes sense of it being found out at Jupiter...old style ftl drives arrived on the outskirts of a system.
+
+Not sure however about the fss not detecting things hidden in an instance, re the megaship in question. It can detect other megaships! But this is exactly my suspicion about Raxxla-it exists in its own instance (“galaxy”) which can only be accessed via the Omphalos Rift’s “tunnel” (i.e. hyperspace transition). But since a Rift is effectively a hole in space-time then would the fss detect it? I suspect not.
+
+@simulacrae : yes, that passage about Brenquith’s “legacy” has always struck me as a bit strange. Perhaps it is an invitation to research!
+Last edited: Nov 2, 2021
+Reactions:
+simulacrae

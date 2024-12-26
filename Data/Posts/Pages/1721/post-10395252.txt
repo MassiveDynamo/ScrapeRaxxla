@@ -1,0 +1,15 @@
+CMDRCorrMorningstarFelian
+Jul 3, 2024
+#34,406
+Ian Doncaster said:
+There's no in-game assignment of population to factions at all [1], so all this means from an Inara perspective is that those factions don't control any systems in the BGS.
+Since only one faction can control Alioth and all of the other nearby systems are unlocked and available for players to change the controlling faction, it's almost inevitable that most of Alioth's native factions control no systems themselves.
+
+
+"Natural Growth Party" is the faction name.
+
+[1] Or if there is, it's entirely invisible and likely done at the station level. Station populations aren't directly visible and are rarely practical to deduce indirectly either, so Inara can't estimate that, but there's nothing particularly unusual about a faction not owning stations either, especially in systems where players are deliberately moving station ownership (though both of those factions do own some, as it happens)
+Click to expand...
+The only time I have seen 0 population figures outside or lore important minor faction (e.g. Achilles Corporation in Thule*) is the case of prison systems. It doesn't seem based on stations because in some systems like Fomalhaut have insanely low population figures for the amount of stations and settlements.
+
+* - I presently have no viable explanation for Achilles Corporation being in Thule unless the Alliance is attempting to disguise what they are doing. However, implications there are this is being coordinated with the Empire as Thule is solidly Imperial (all natives are Imperial).

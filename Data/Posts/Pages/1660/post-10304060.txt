@@ -1,0 +1,20 @@
+Pyroboros
+Jan 26, 2024
+#33,184
+Little correction if i may
+SOL is at 49985,40985,24105 rel. to the grids origin. It is a -Masscode- D (80ly) System in the Wregoe Sector (39*1280 + 0*80 ; 32*1280 + 0*80; 18*1280 + 13*80 )
+
+-The overall Grid from (-49985, -40985, -24105) to (113855, 40935, 139735) which spans a volume of 163 840 ly * 81 920 ly * 163 840 ly = 2 199 023 255 552 000 ly³
+-The GalMap Boundary from (-49985, -15985, -24105) to (50015, 9015, 75895) which spans 100 000 ly * 25 000 ly * 100 000 ly = 250 000 000 000 000 ly³
+-At -65X the faces of e.g WREDGUIA and WREGOE touch.
+-Since the X and Z Coordinates of the overall Grind and the GalMap Boundary are the same we can assume that the at the edge (-49985, Y, -24105) is a Sector edge.
+We can test this, by calculating that the Boxel face of WRGEOE would be at 39*1280 = 49920 which is 49920 + (- 49985) = -65
+The same holds true for Z as OUTOTZ touches WREGOE at -1065 Z 18*1280 = 23040 -> 23040 + (- 24105) = -1065
+However we need to take in to account that SOL is a D System and 13 D Boxels further north than the Sectors face: 13 *80 = 1040 -> -1065 + 1040 = -25
+for the Y it is similar but we need to assume that Sol is centered within the overall Grid. whit that assumption: 32*1280= 40960 -> 40960 + (- 40985) = -25
+-> SOL is at (65, 1065, 25) from its Sector's (WREDGOE) origin and (65, 25, 25) from its Boxel's Origin
+The closest Grid Lines to Sol are 5ly in each axis which means SOL is right smack in the middle of an -Masscode A- Boxel (10ly)
+Trivia Sag A* is despite its enormous Mass just a G System.
+-Why i think this important and relevant in the quest: The Codex Logo locks to me like a representation of that Octree BoxelGrid. As FD said a long time ago in a Discovery Scanner Video about Planet Generation that all in the game starts as a cube
+Reactions:
+Robert Rockbite, Han_Zen and Quaero

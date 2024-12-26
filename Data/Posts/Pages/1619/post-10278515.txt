@@ -1,0 +1,130 @@
+El Saico
+Dec 6, 2023
+#32,366
+Louis Calvert said:
+During my recent audio survey of witch-space, I stumbled across something else that seems highly significant. I've been investigating it for this last week.
+
+Apologies for the long post, I'm trying to keep this as short and to the point as I can
+
+
+Witch-Space Transit times are very consistent:
+
+
+
+It's exceptionally easy to, all you need is any kind of stopwatch. When your spool-up FSD timer hits zero, start the clock. When you "whump" at the star, stop the timer. The spool-up and cooldown at the end are irrelevant. Buckyballers and explorers who talk about this refer to the whole time from when you press 'jump' until your drive finished cooldown, but for us we only care about . My research shows this has been consistent since at least 2015, (with exceptions). , , .
+
+For my investigation I round-up the jump times to make it easier to chart. So these are "14 second jumps", or "normal jumps", insitead of recording 13.76, 13.81, 13.42, etc.
+
+On jump you spend just under 14 seconds in witch-space...
+
+... except when you spend there, and is what I discovered:
+
+When you jump to certain stars, you spend longer in witch-space. This timing is 100% consistent: For example, when I jump to the star Eta Crucis I spend 29-30 seconds in witch-space - . This is fully repeatable with completely consistent transit times, and can be repeated at any time to test it.
+
+Further, I have catalogued several consistent categories of Long-Jump Stars: 17, 21, 26, 30, 43. To clarify, all these are rounded-up, so a "21" star, is a star that takes between 20 and 21 seconds in witch-space to jump to, consistently, .
+
+
+
+"Long-Jump stars" to appear in clusters. 17s are the most common, and usually when I found a 17 there was a higher number within 15-20 lightyears (and vice-versa). For example (numbers in brackets are the jump times):
+
+Eta Crucis (30)
+Crucis Sector IH-V B2-4 (21) - 8ly from Eta Crucis
+Bentin (17) -10ly from Eta Crucis
+Bhil Mina (17) -12ly from Eta Crucis
+
+This means the Eta Crucis group (as all the others so far discovered) to be isolated into discreet clusters.
+
+The largest cluster, and the highest witch-space transit time I've discovered so far is in the Pleiades:
+
+HR 1185 (43)
+Maia (43)
+Pleione (17)
+HIP 17034 (17)
+Pleiades Sector KC-V C2-0 (17)
+Pleiades Sector DL-Y D69 (17)
+Pleiades Sector IH-V C2-16 (17)
+
+To date I have travelled over 13,000 lightyears over 800 jumps testing this. I have identified over 30 Long-Jump Stars. What's more, when a long-jump occurs, the background 'stars' in witch-space spiral incredibly rapidly, it's unmistakable... spiralling stars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+everyone here tries this out for themselves to prove/disprove it. All you need is a stopwatch. Testing methodology is below.
+
+Most recently I have started checking all systems within a volume based on target stars, so far in addition to travelling around and charting jumps, I have completed:
+
+
+(Near Jump List is the list on your navigation panel). You can see all these on my spreadsheet, so if you want to test it easily, go to any of the marked Long-Jump stars and test it out.
+
+
+My method is to jump, time each one using a stopwatch: When the spool-up FSD timer hits zero, start the clock. When you "whump" at the star, stop the timer. If I find a long-jump star I jump to any nearest star on the nav panel list, then back. Do this at least twice. This is enough to eliminate any false-readings from lag.
+
+
+I do not know if this phenomena is related to some underlying coding in the game (like the way the systems are arranged in the code or something?). The more I've found, the more they seem to be intentionally placed and they way they appear in clusters feels significant, but it's also quite early-days in testing this. I don't yet know if anyone else can replicate these results.
+
+There's more I can say about this from my observations, but for now I'd really like other people to test this phenomena and verify it on a range of different computers and connections and suchlike.
+
+Looking forward to seeing what comes of this one
+
+Questions? - please ask.
+Click to expand...
+After a search on EDSM I can see a pattern:
+21s systems have multiple stars
+26-30s systems have a lot of stars
+Eta Crucis has 3 main stars and 4 brown dwarves (total 7)
+Jackson's Lighthouse has a neutron star and 5 brown dwarves (total 6)
+Tiapalan has 3 main stars and 3 brown dwarves (total 6)
+43s systems have a truckload of stars
+HR 1185 has the titular B star, 8 T Tauris and a black hole (total 10)
+Maia has the titular B star, a red dwarf, 6 brown dwarves and a black hole (total 9)
+Since both Maia and HR 1185 are controlled by AXI (the former even being its home system) I suspected deliberate Thargoid shenanigans, but the equally controlled Asterope at 14s soon demolished my initial hypothesis.
+Last edited: Dec 6, 2023
+Reactions:
+Edelgard von Rhein, Ian Doncaster, Han_Zen and 2 others

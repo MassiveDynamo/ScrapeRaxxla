@@ -1,0 +1,19 @@
+Bran Lucius
+Mar 7, 2019
+#6,413
+Han_Zen said:
+Sounds fishy. How can a station orbit the dark side of a moon that orbits a gas giant?
+
+The gas giant is not a light source. You would need a very peculiar set of orbital resonances to keep the station in eternal shadow form the moon.
+
+The station in the codex would be brightly lit by the red star. It also looks to close to the star to fit a gas giant, in addition to the moon in the picture. I don't think the picture is of the actual Dark Wheel station. At least if the eight moon thing is true.
+
+I cant do astrophysics math but my guess is something to do with tide locking. Like if the moon is tide locked to the gas giant and its orbit is slow enough, it would always be on the dark side.
+
+Also if this is true that it doesnt show up in things like the Full System Scanner even when close, then if anyone is using shader fixes for whatever reason they need to delete this one:
+
+e29d91120fc28c8e-ps_replace.txt
+
+Because that shader fix removes the glowing orbs of ships/stations.
+
+My assumption is that the FSS can detect it like it could detect the Zurara. Although with the Zurara I wasnt able to scan it from afar for some reason I had to get much closer to the planet for the scan to work, but maybe the scanner was bugged or I didnt have the view I thought I had.

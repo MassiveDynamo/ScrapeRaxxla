@@ -1,0 +1,11 @@
+Thatchinho
+Jan 3, 2023
+#28,782
+SergMx said:
+What I can not understand why it was necessary to redo the base that was accidentally discovered ahead of time.
+What did it do ...
+It's a good question. Though IIRC correctly the reset didn't happen until quite a long time after the discovery, and after the first Ram Tah mission had already been completed.
+
+The first Ram Tah mission was pretty bugged to start with, and was only completed when it was due to those bugs (specifically, extra logs being returned in Open than were supposed to be present at each individual site). Perhaps the change of site layout was just part of the bug fixing and was done so that the mission had to be re-solved from scratch after the bugs were fixed. I'm just speculating there though.
+Reactions:
+Crimson Echo, Louis Calvert, SergMx and 1 other person

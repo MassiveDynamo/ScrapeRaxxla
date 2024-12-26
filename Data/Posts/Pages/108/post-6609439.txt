@@ -1,0 +1,13 @@
+Comandante
+Apr 9, 2018
+#2,155
+[DS]_Skol said:
+Hm i remember this thing from some russian forum - guy said he found it on spectrogram. On question where is it he said "You must do it yourself, otherwise there is no fun in it - but when you find it be ready to run really really fast out of there"
+
+Jaiotu said:
+By "spectrogram" do you mean the ZX Spectrum? If so then the guy in that forum is blowing smoke. A lot of people claimed to have found Raxxla back in the day playing the original Elite but those folks are/were Trolling. It's been confirmed many times by both David Braben and Ian Bell that Raxxla didn't exist in any of the game ports of the original Elite. In fact the name "Raxxla" wouldn't have been possible from the lookup table used by the original game to generate system names. Here's an old interview with David Braben confirming that Raxxla was not in the original game:
+http://www.atlantis-prophecy.org/recollection/?load=interviews&id_interview=37
+
+There was the ZX Spectrum Elite 3 version (see worldofspectrum.org, Archive -> E -> Elite 3), adapted by Vladimir L. Kladov. I actually emailed him a few years back about the version, and he was kind enough to reply. I've actually got a snapshot of that version with my old Elite character. It's a neat version, too - missions keep spawning after you become Elite for every RoC, and there's a host of new missions in-game that are really cool. Also, Python's launch fighters as do rock hermits if you attack them. When heading out of a system, the further you go, the more chance you've got of finding asteroids if you want to mine. I strongly suggest reading the document that comes with it.
+
+However, I do not think Raxxla is in it.

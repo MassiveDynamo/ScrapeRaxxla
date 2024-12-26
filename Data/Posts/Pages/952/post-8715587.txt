@@ -1,0 +1,7 @@
+CMDR Temunjin Boras
+Sep 24, 2020
+#19,036
+Q Hung said:
+That's... a lot of JSON. Like, 8.6 gigabytes or some such thing. I'm trying to get it to load into XCode at the moment but I'm having a hard time confirming if it's even formatted correctly.
+
+Programming button pushed, I can't resist ... You should use a tool built for searching large files. If you're familiar with grep there's the silver searcher (ag) which is similar but designed for speed. It can search through a 10gb file in a second. With mac it should be on homebrew.

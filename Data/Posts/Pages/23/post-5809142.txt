@@ -1,0 +1,14 @@
+Jorki Rasalas
+Aug 9, 2017
+#457
+Panzertard said:
+Nice update and well concluded. I think I'm a fan of this theory.
+Especially now after looking through the code & testing the name-generator for the old Oolite / Elite universe.
+I discovered it has no way of generating a name with "RA" + "XX" + "LA" simply because the double-x variant doesn't exist in the generators strings. And it cannot use single letter-combinations in any variant from what I can see.
+
+Hence I like your idea that it may be in the current game somewhere as homage to Mr. Holdstock.
+And in context to what you wrote, then the original "Raxxla" construct have no sublime message including coordinates in it's name or anything either, so then any conversion of the letters to any number format is just a waste of time.
+
+We're back to keeping our eyes peeled for anything that can give us a hint ingame as to where this homage is.
+
+I've seen Raxxla spelt as RaXXla, could it be that the XX should be substituted by another digraph to get the true name/coordinates?

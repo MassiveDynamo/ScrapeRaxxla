@@ -1,0 +1,8 @@
+Oseris
+Jul 26, 2019
+#9,852
+DrewCarnegie said:
+I think permit locks are the best way to hide something you don't want finding
+
+Also, regarding the 'gap' - make sure you don't have any filters applied to the GalMap. I've got excited before now, then realized I've got M-type stars deselected
+Didn’t have any filters on, I encourage everyone to have a look and decide if it looks suspicious.

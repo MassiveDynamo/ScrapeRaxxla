@@ -1,0 +1,12 @@
+Adel
+A
+Mar 12, 2022
+#25,635
+Jorki Rasalas said:
+Ah, so you only "detect " them by dropping out of SC at missing BodyID locations that you've targeted via the searchbar exploit, they dont show on scanners at all.
+I begin to understand...
+
+but must walk the copawlot now....
+You can see them in nav panel AFTER targeting them, then used the scanner to detect the signal
+Reactions:
+Jorki Rasalas and Rochester

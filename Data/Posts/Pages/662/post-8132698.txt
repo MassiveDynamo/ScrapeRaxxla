@@ -1,0 +1,31 @@
+Six6VI
+Nov 10, 2019
+#13,228
+Rochester said:
+Its not the Anemoi nor the Tower of the winds, but its still a little bit curious...
+
+In Greek myth the Anemoi (Greek Ἄνεμοι, "Winds") were wind gods each ascribed a cardinal direction from which the respective winds originated.
+
+Boreas - north wind (in game)
+Kaikias - north east
+Euros - east wind (in game)
+Apeliotes - south east wind
+Notos - south wind (in game)
+Lips- south west (in game)
+Zephyros - west wind (in game)
+Skiron - north west wind
+
+The tower of the winds was an Pentelic clocktower in the Roman Agora in Athens, obviously not related to Raxxla as thats a hexagon, but the above gods do appear within the game, but only: north, south, east, west, but none of the others (except Lips, but that could just be because its named Lips and its just one of those odd named systems).
+
+Does this mean something? Likely it doesnt as in game these compass points dont line up in relation to each other let alone anything else I could find. The Raxxla logo doesnt seem to use any compass points (unless its north, south, SW, SE, NW and NE.
+
+Anyway I thought it odd they are in game, but dont seem to line up correctly, nice that their there after all.
+
+Click to expand...
+This table might help, it has twelve divisions showing the winds, Latin and Greek. As the cardinal directions relate to the sky and see-Suns you should be able to lay this wheel onto the zodiac as viewed from Sol but it might take a bit of mucking about to get them aligned to the ecliptic plane.
+
+If that's not working try using the four fixed stars, Aldebaran in Taurus (E), Regulus in Leo (N), Antares in Scorpio (W) and Fomalhaut in Aquarius (S). All four of these stars are in the game, form a rough cross converging on Sol and should help tilt your perspective to the comparative viewing angle.
+
+Confused? Don't forget precession. The zodiac wheel rotates backwards one degree every 72 years.
+Reactions:
+Hanerib, JulesD, Rochester and 4 others

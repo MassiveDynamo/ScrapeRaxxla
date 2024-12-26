@@ -1,0 +1,10 @@
+Oseris
+Apr 5, 2020
+#15,920
+Lest said:
+The "pshhh pshhhh..."s ounds like a noise (pink, white,...?) passed through a low pass filter modulated by a LFO. What you can get from it could be:
+-The frequency of the LFO (which is variable here): pass the sound through a high pass filter untill you can only hear the high frequency noise, then mesure each periods. As the LFO modulating the filter's frequency could easily be modulated by another LFO to give this sweeping effect, there might not be much to find here.
+-Information hidden into in the noise (once the filter is fully opened): a spectrogram should do the trick.
+I've been too lazy to mess with the speed of the audio. Im sure I can do it in logic but thats not something i ever need to do so idk how to do it on there. And just too lazy to go find other software to do it lol. I figured id let the more experienced people do the audio analysis.
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

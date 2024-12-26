@@ -1,0 +1,11 @@
+lorrad
+Jan 31, 2018
+#1,602
+CMDR_Cole said:
+Hmmmm...Thanks, CMDR! I think I just found my first exploration plan to do a shake down of my DBX I'll hopefully have by the weekend. Finally getting involved! Any tips for a newb?
+
+Following Sol-Sirius line out towards the rim doesn't look too promising because the angle heads downward at about 45 degrees from the galactic plane and heads out of the galaxy about half way to the rim. The good new is you don't have to go 25,000 lys to find nothing. Found another online calculator and this one seems to work http://www.ambrsoft.com/TrigoCalc/Line3D/Line3D_.htm . I plugged in a bunch of values for t (t=distance between sol and sirius in this case) and bookmarked them on the map to see if the thing is working properly and it is for this one. Sol btw is 0,0,0 and I got Sirius from EDSM 6.25, -1.28125, -5.75 which should be precise enough.
+
+As for hints for a first time explorer,,,
+you'll figure it out,,,
+Last edited: Jan 31, 2018

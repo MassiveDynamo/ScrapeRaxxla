@@ -1,0 +1,17 @@
+John Stoutbeard
+Mar 13, 2020
+#15,654
+Jorki Rasalas said:
+Mmm, hadn’t thought about having to do a sequence of ev3nts within 30 days. Always assumed that the 30 days was just a timer for how long it would stay in your inbox before automatic deletion.
+Tried again after lunch. One time it rescanned the logs, after that it said the datapoint was already scanned. Seems a bit hit & miss.
+
+Filthymick420 said:
+Also, ive been told if your ship explodes it resets certain data you've obtained but dont have any real confirmation of this or what all data that effects.
+
+Yes, it may be a bug that you can rescan after a relog or so, not sure. I would expect you should be able to rescan after 30 days and the message archival though.
+"After ship destruction" should certainly allow a rescan.
+
+But again, in case Fdev has been clever perhaps we need to perform the 'the set of actions' within a timeframe of 30 days so it will be harder to discover the correct sequence.
+If there is a set of sequences that is.
+Reactions:
+[PS4] Filthymick420

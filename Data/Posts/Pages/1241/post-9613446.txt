@@ -1,0 +1,13 @@
+Jorki Rasalas
+Nov 18, 2021
+#24,811
+No, I think Han_Zen is right and the missing body is Halley’s Comet, which is searchable in the Galmap to Sol.
+But does it show on the FSS scan??
+Otherwise how do we find it? Since we dont know the current stardate for Sol’s planetary orbits (see previous page) we can’t get an approximate position from Stellarium to start a search.
+
+Actually, are the other in-game comets (Pareco??) detectable via FSS?
+
+Edit: I could imagine Halley’s Comet causing the merriment in DB’s voice when he said “but you don’t know what it is” !
+
+Edit2: have we had any lore about size of bodies the FSS can/can’t detect??
+Last edited: Nov 18, 2021

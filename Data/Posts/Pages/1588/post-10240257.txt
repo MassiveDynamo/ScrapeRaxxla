@@ -1,0 +1,44 @@
+Louis Calvert
+Oct 15, 2023
+#31,746
+Decoding the Codex (failed attempt record)
+
+Note: Sadly this idea didn't seem to go anywhere, but I feel like maybe some bits of this idea might be worth another look. I'm putting it here for anyone else that's thinking along the same lines and/or in case anyone else can see ways to improve this or correct errors.
+
+Assumptions: 1) The Raxxla Codex is intended as a clue, or clues. 2) The Codex is intended to be solved with no extra input from Fdev using commonly available tools.
+
+The Toast:
+I read the toast as being three "to..." statements. Assumption here is that each can be decoded to give a location.
+
+1) To the jewel that burns on the brow of the mother of galaxies!
+2) To the whisperer in witch-space, the siren of the deepest void!
+3) The parent's grief, the lover's woe, and the yearning of our vagabond hearts. To Raxxla!
+
+While examining options, I considered various answers. 1) has always been mostly considered to be Zeta Cassiopae, or somewhere in Cassiopea. 2) is tricky, but I wondered if it might be the Landscape Signal, maybe Sag A* itself, etc. 3) has always been hard since it's complex, but I've been doing a lot of Greek myth reading over the years for the Raxxla hunt and I recalled something:
+
+The Odyssey:
+In the Odyssey, Odysseus spends 10 years trying to get back home to Ithaca (after being away for 10 years in the Trojan war). At home, during his absence his wife is beset by suitors who cause all sorts of troubles, Odysseus' mother died of grief and his father becomes a semi-hermit from grief. When Odysseus finally gets back to Ithaca the god Athena disguises him as a beggar (a vagabond) and he goes to see his wife to test her love for him, she expresses woe that the vagabond didn't being news of her long-lost husband. Odysseus then goes to see his father and learns of his grief at the loss of his son.
+
+To me, it fits very, very well indeed. So that got me thinking, since Sirens are mentioned in the Toast too, maybe the Toast is all related to the Odyssey.
+
+At the start of the Odyssey: "Odysseus' protectress, the goddess Athena, asks Zeus, king of the gods, to finally allow Odysseus to return home". Athena was born from the forehead of Zeus, Zeus is the ruler of all creation. In giving birth to Athena he's a sort of mother, so maybe we could consider 1) to be Athena. This is a weak connection, but it's the best I can do right now. There is a system called "Athena".
+
+The second part literally namedrops Sirens, one of the many things that Odysseus encountered on his journey home: "They skirted the land of the Sirens. All of the sailors had their ears plugged up with beeswax, except for Odysseus, who was tied to the mast as he wanted to hear the song.". I couldn't think of anything specific for this, but there is a system called "Siren", so why not?
+
+For 3) I've already discussed how it seems to be referring to Odysseus's return to Ithaca: "Athena disguises Odysseus as a wandering beggar to learn how things stand in his household." "Laertes (Odysseus' father) stays away from Odysseus' home while Odysseus is gone. He keeps to himself on his farm, overcome with grief over Odysseus' absence and alone after his wife, Anticleia, died from grief herself. Odysseus finally comes to see Laertes after he has killed all the suitors competing for Penelope. He finds his father spading a plant, looking old and tired and filled with sadness." The goal of Odysseus' 'vagabond heart' was to get back to Ithaca, and there is a system called "Ithaca".
+
+All these three systems are in the bubble and relatively close together: Athena, Siren, Ithaca.
+
+
+As per my post a while back I wondered if the Codex Raxxla logo was an indication of a location defined by six pairs of systems:
+
+So for the other three I used Artemis, Tau Ceti, Persephone - these three taken from the Art Tornqvist paragraph. My assumption was that maybe Omphalos is being used in its meaning as "the centre", rather than a direct clue.
+
+Rochester very kindly mapped these six systems and sadly they didn't seem to make anything useful, no suspicious crosses or interesting alignments:
+
+
+I'm going to keep working on this since I feel like the Odyssey fits that last part of the Toast so very well, but the other parts are shaky assumptions at best. Also there are other potential system names mentioned in the Codex that I ignored (Atlantis, for example).
+
+Anyway, as with so many things, this didn't really seem to go anywhere useful.
+Reactions:
+simulacrae, Edelgard von Rhein, El Saico and 3 others

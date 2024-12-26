@@ -1,0 +1,20 @@
+selbie
+Jan 26, 2024
+#33,176
+Ian Doncaster said:
+[1] I mean, I'm somewhat suspicious - there are oddities in the way the boxel grid is constructed and SagA* is positioned that are a bit odd given that it's apparently a human-centric coordinate system.
+- the grid is aligned so that Z points towards the galactic centre, but SagA* has a non-zero X-coordinate. I don't know if that's realistic (SagA* is also orbiting the galaxy's centre of mass at a small distance) or not
+- the positioning of the sector boundaries relative to Sol seems really arbitrary: having the Y-boundaries line up roughly to the galactic plane makes sense, but the X- and Z- ones don't appear to line up with anything; neither Sol nor SagA* is at the centre nor the intersection of the grids
+
+Whether this is a secret clue or just that the grids were put on with some other Stellar Forge criterion (e.g. to make them roughly symmetric about the galaxy's mass) and Sol is where it is, I don't know - but even then it's still a bit weird that the X-alignment of the grid is at -65 relative to Sol and -90 relative to SagA*
+
+Why does the coordinate grid come really close to using a Sol-SagA* line as the one arbitrary baseline it can definitely pick ... but not quite actually do it?
+
+(It's probably nothing; the Thargoid's have based their probe's measurement system on Merope 5c for apparently equally arbitrary reasons)
+Click to expand...
+Sector Naming - DISC Wiki
+disc.thargoid.space
+
+It's probably related to their proc gen system for the Forge. Maybe the coordinates are encoded which results in a slightly different value.
+Reactions:
+Emperor, Quaero and CMDRCorrMorningstarFelian

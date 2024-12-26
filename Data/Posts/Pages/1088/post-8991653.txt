@@ -1,0 +1,10 @@
+clavain
+Mar 9, 2021
+#21,751
+Rochester said:
+Anyone tried calculating some of the larger asteroids locations based on ED dates, or just their actual current locations. FD plotted the Voyager probes somewhat correctly, if these are in game, and not obfuscated or trapped inside Sol via a bug, would’ve FD lovingly hand place them - where they are supposed to be.
+
+And on similar subject anyone tried using the primary version 1 module scanner (eyes) by flying out of system and looking for oddities... sorry can’t access game at present, so living ED vicariously through others.
+Stellarium could be useful for this maybe? Not sure which, if any of the asteroids it may track though. You can even change the date in it to get the predicted position for any year/date, including ED years, and the view from a specific location IIRC.
+Reactions:
+Rochester

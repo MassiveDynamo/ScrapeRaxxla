@@ -1,0 +1,27 @@
+CMDRCorrMorningstarFelian
+Sep 11, 2023
+#31,587
+simulacrae said:
+No i was just talking about the map in elite- you can often type in the alternate HD and HIP names for stars and it will take you to it even if it is named differently.
+These are the only valid names for that system that GalMap should possibly utilize (and I doubt Elite Dangerous uses Gaia mission catalogues).
+
+Lave
+2MASS J13341896-3631253
+CD-35 8810
+CPC 18 6514
+CPD-35 5830
+Gaia DR1 6164379780412418944
+Gaia DR2 6164379784707817216
+Gaia DR3 6164379784707817216
+GSC 07277-01609
+HD 117938
+HIC 66219
+HIP 66219
+LTT 5245
+NLTT 34475
+PPM 291547
+SAO 204604
+TIC 165636116
+TYC 7277-1609-1
+Reactions:
+Han_Zen and simulacrae

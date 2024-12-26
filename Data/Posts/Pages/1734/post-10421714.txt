@@ -1,0 +1,15 @@
+CMDRCorrMorningstarFelian
+Aug 29, 2024
+#34,672
+If it isn't an exact right triangle there are other formulas that will work. That was a guess at what type it would be. Equilateral seems to be unlikely. This may also be restructured because of relative positions of Sol, Delphi, and Trapezium (causing a bent shape in 3D). Trapezium Cluster has star lovers. Perhaps we need several:
+
+Human:
+Sol, Polaris, PMD2009 48
+Sol, Sol's True North Star, PMD2009 48
+
+Thargoid (Thargoid or Guardians are likely the initial builders)
+Delphi, Polaris, PMD2009 48
+
+Though knowing the Thargoid "home" would be nice. Sadly, there are doubts that is a thing. 3-D space unfortunately has a knack for complicating any idea similar because differing distances for stars (and position relative to the disk).
+Reactions:
+simulacrae

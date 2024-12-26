@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+Jan 9, 2024
+#32,946
+selbie said:
+Another 'Princess Astrophel' curiosity:
+Going with my earlier connections with Henrietta Leavitt, she also discovered T Pyxidis, a recurrent nova in the constellation Pyxis, located above the stern of Argo Navis.
+The problem is, even its alternate names in simbad don't show up in maps. Does it go by a unique name? or does it not exist as a system
+Search EDSM or INARA as a starting point. I say this as someone all too familiar with compromised navigation beacons. Systems with a compromised navigation beacon do not show in GalMap search even if you have been there. A.O.E. Allied Order of Exemplars home system is like this. You either have to know where it is visually on GalMap or have it bookmarked as searching for stuff in-system simply doesn't work. Functionally, it is like a lite version of a permit lock. You can route there provided you can find it. That doesn't mean Universal Cartographics intends to make it easy. We're a theocratic faction/squadron and there seems to be certain faction types that the second they gain control of a system it gets taken off the Universal Cartographics indexing service. For a normal populated system with a normal navigation beacon, you can search POIs on GalMap without having to manually search.
+
+
+
+Last edited: Jan 10, 2024
+Reactions:
+selbie and Emperor

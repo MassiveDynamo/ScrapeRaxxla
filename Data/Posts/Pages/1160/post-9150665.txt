@@ -1,0 +1,10 @@
+Crimson Echo
+May 9, 2021
+#23,185
+It does seem the pre release lore bible has been chucked out the window wholesale, and much of what was planned lore/storywise will never come to fruition. However, I suspect stuff that got added in the early years is still there. (if it is broken or bugged is another issue entirely.) It seems unlikely that MB would move on before Raxxla was sorted in at least a place holder fashion. MB used spreadsheets to do the real star catalog import stuff, and presumably spreadsheets were used to build the raxxla puzzle. If Raxxla could also be solved with spreadsheets it would constrain the problem considerably.
+
+Many of the early puzzles were either sound, orbital mech, or vector based. The vector and orbital mech puzzles can at least in principle be handled in a spreadsheet.
+
+Looking back at galnet from the early days with new eyes may give us the breadcrumbs we need.
+Reactions:
+[PS4] Filthymick420 and Vetinari

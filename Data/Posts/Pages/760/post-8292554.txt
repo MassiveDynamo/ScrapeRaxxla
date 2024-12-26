@@ -1,0 +1,62 @@
+Noobilite
+Feb 13, 2020
+#15,182
+Astrophel and Stella - Wikipedia
+en.wikipedia.org
+I was going over constelation stars for the heck of it and put in the word jewel. This brings up the jewel box sector. Then I looked up the sonnets and low and behold there is a sequence of special stars with no last number named fly. In the sonnet one of the references near cupid is:
+20
+
+Fly, fly, my friends, I have my death wound; fly!
+See there that boy, that murthering boy I say,
+Who like a thief, hid in dark bush doth lie,
+Till bloody bullet get him wrongful prey.
+So tyrant he no fitter place could spy,
+Nor so fair level in so secret stay,
+As that sweet black which veils the heav'nly eye:
+There himself with his shot he close doth lay.
+Poor passenger, pass now thereby I did,
+And stayed pleas'd with the prospect of the place,
+While that black hue from me the bad guest hid:
+But straight I saw motions of lightning grace,
+And then descried the glist'ring of his dart:
+But ere I could fly hence, it pierc'd my heart.
+Click to expand...
+
+And here is Jewel Box Sector FL-Y D20. It is part of a whole sequence of stars. Just type in the name with D0-whatever.
+
+One of the brightest/whitest most obvious star in the sector.
+
+Source: https://imgur.com/a/dwShc9y
+
+Is anyone near it and willing to check? I'm 7k out atm.
+
+Right next to NGC 4755 also.
+
+https://www.reddit.com/r/EliteDangerous/comments/a74m34
+Source: https://www.reddit.com/r/EliteDangerous/comments/a74m34/raxxla_two_leads_in_the_codex/
+
+mb34i
+
+28 points · 1 year ago · edited 1 year ago
+
+Sonnet 19 mentions Cupid's Bow. Cupid's Arrow is in game, bow possibly also in-game (the greater nebula in which the arrow is located).
+The line of O class stars that make up the Arrow points to the Bubble, and is actually not a line as much as a triangular barrel (possibly spiral - more like a spring). I didn't have a chance to do the coordinate math to figure out which star in the Bubble it's aimed at.
+
+I think you can use coordinates and figure out the line. treat it like a triangle then find an intersecting point. You can even find distance easily enough. Can you use delphi or zues as a third point? You can divide and intersect any circle with lines to make triangles.
+
+If you draw it out and keep making right angles you can eventually find the line and where it is aiming. Just use basic math like A^2+B^2=C^2.
+
+Distance is: Sqrt(|A1-A2|^2+|B1-B2|^2+|C1-C2|^2)
+
+And probably this: https://mathcs.clarku.edu/~djoyce/java/elements/elements.html
+
+I wonder if the eagle nebula could have anything to do with it. How many other things have the name eagle in them in the game?
+
+I did a simple test by using the last star and zooming backwards to the first star in the set and then zooming back to the bubble. Went past Inra and on the other side Charick drive. So, it may be pointing towards sols direction. This is very inaccurate though obviously.
+
+Can you use the above to extract points on a line and find a system? You could probably find it at x point every x ly and then look for things. Maybe with an average of the distance of the objects and find the points per say and a direction.
+
+The more of those innacurate things I do the more it seems to point in the direction of sol. Or something nearby. if anything it makes a vertical line going straight up and down through sol from alioth/kuk down to achenar and hits a bunch of engineering planets. I wonder if the engineering planets mirror the ones in NGC 7822.
+Last edited: Feb 14, 2020
+Reactions:
+John Stoutbeard, [PS4 Pro - PC] earthtone99, Dr. Lexus and 4 others

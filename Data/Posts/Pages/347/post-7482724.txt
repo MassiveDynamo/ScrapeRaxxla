@@ -1,0 +1,10 @@
+Spaceman Si
+Mar 21, 2019
+#6,939
+Oddly enough, I was at the Jameson Cobra last night.
+
+It did appear for me as a listed PoI in the nav panel after I mapped the planet though, and I was able to select it and glide down to it. It was even labelled “Jameson Cobra Crash” or something equally helpful.
+
+There is a bug at the moment (I know, who would have thought it?!) whereby a targetted planet PoI is not shown on the HUD after entering glide, and has to be deselected / reselected again from the nav panel, which causes some difficulty when trying to find stuff.
+Reactions:
+Edelgard von Rhein

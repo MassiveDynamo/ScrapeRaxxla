@@ -1,0 +1,9 @@
+Pyroboros
+Aug 6, 2022
+#26,601
+Jorki Rasalas said:
+@Pyroboros @Adel : I was under the impression from previous posts that comets appear in the logfile when you signal scan the whole system or download the nav beacon, but that didnt happen for me. From this search comets only seem to be identified and inserted into the logfile as such when I drop out of SC at them, is that correct?
+They do not appear when scanning the System. However the scanned bodys IDs are in the logfile. IDs seem so far consecutive Starting from 0. So we look for gaps between IDs. Some of the gaps can be explained whit Barycenters and Rings or Clusters. the missing IDs that are not a Barycenter, Ring or Cluster are then Comet Candidates.
+So the initial System Scan is is essential, but does not give any direct intel about comets. Look for what is missing not what is there.
+Reactions:
+Han_Zen and Jorki Rasalas

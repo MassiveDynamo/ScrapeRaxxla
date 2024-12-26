@@ -1,0 +1,38 @@
+Crassus
+Jan 31, 2019
+#5,648
+Jorki Rasalas said:
+Calling old FRifters! Got to post here since the FRift thread was locked.
+[...]
+Any ideas what to look for? Whereabouts? I suspect there may be at least one other megaship- makes sense to have one per expedition....
+[...]
+Any thoughts?
+
+I have looked at the Conflux area and vicinity quite thoroughly. I can give you a list of earthlikes I found - but I found no beacons.
+
+- 10.10.2017 18:09 - FLYAE EAEC LD-Z D1-358 C 2 POS( -3449, -122, 9365)
+- 24.11.2017 10:22 - SKAUDE AQ-V D3-408 3 POS( -4161, -183, 9548)
+- 26.11.2017 19:57 - SKAUDE FR-T D4-289 5 POS( -4279, -222, 9632)
+- 02.12.2017 16:37 - SKAUDAI WU-E D12-4 B 4 POS( -5287, -569, 10265)
+- 05.12.2017 19:56 - SKAUDE RV-C D13-111 A 4 POS( -4942, -598, 10365)
+- 08.12.2017 21:36 - SKAUDE GY-G D11-18 1 POS( -4644, -394, 10150)
+- 09.12.2017 19:14 - SKAUDE YC-V C18-3 A 2 POS( -4524, -366, 10008)
+- 22.12.2017 21:09 - PRU AIM TA-W C15-1619 4 POS( -3778, 8, 11145)
+- 12.08.2018 11:59 - EODGORPH PN-B D13-938 A 9 POS( -5375, 129, 11642)
+- 16.08.2018 17:45 - CROOKAAE QH-V C2-171 A 4 POS( -4762, 104, 11886)
+- 26.08.2018 07:27 - CROOKAAE CU-I C9-447 2 POS( -4451, 92, 12167)
+- 26.08.2018 09:34 - CROOKAAE JQ-P D5-282 B 1 POS( -4067, 98, 12269)
+- 27.08.2018 12:28 - BLEAE AESCS UV-S B31-40 1 POS( -3456, 67, 12432)
+- 30.08.2018 19:23 - PLOI AIM KX-J C22-167 B 4 POS( -3093, 19, 10145)
+- 15.09.2018 20:14 - PRU AESCS WJ-I D9-414 3 POS( -3198, -8, 8701)
+- 15.09.2018 20:29 - PRU AESCS OX-L D7-219 5 POS( -3197, 33, 8608)
+- 16.09.2018 18:53 - PRU AESCS NC-M D7-266 D 2 POS( -3164, 82, 8564)
+
+
+There's this story about the Anaconda, that came too close to a neutron star and had to be abandoned (Conflux Delta logs). I searched about 30 neutron stars but didn't find anything. Maybe you're more lucky than me :-/
+
+[Edit] I'm still wondering, why one of the sites (Conflux Gamma and FR Delta) have that strange, from pieces assembled gate - the other three have the one with the name of the site on it. Maybe mapping this planet may give some additional POIs. But I think, someone posted, that mapping the FR sites has not given any additional clues
+SPOILER
+Last edited: Jan 31, 2019
+Reactions:
+Jorki Rasalas

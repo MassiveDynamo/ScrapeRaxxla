@@ -1,0 +1,40 @@
+Louis Calvert
+Jul 3, 2024
+#34,411
+selbie said:
+First and foremost I am certainly not trying to dissuade you from your investigation. If investigations reveal a clearer signal that has a similar intensity and clarity as the LS itself which proves beyond doubt there is something there, that is beneficial for everyone. I no longer have my own recordings because there was nothing to me that showed any noticeable improvement in the signal readings - this included tweaking the spectrogram settings. I am aware that does not help your investigation, so I apologise for not considering sending those through at the time.
+
+Some clarification on what I actually did, so as to mitigate any misrepresentation:
+I took multiple ~5-10 min recordings around 2000-2500 LY both east and west of the bubble.
+They were pointed directly toward Sag A* and were in high quality FLAC format.
+My camera was over 1000 metres from the ship, located far away from the local star and placed the star behind me to avoid any potential interference.
+I had also studied your siren recordings from 2023, even the ones facing away from the signal. This included checking left and right channels independently.
+These are the recording file names so you can check the audio I'm referring to:
+A
+A1
+A1:2
+A1:4
+A1:-2
+A1:-4
+A1:A
+A1: D
+A1:-Y
+A1:-W
+B1
+B
+C1
+C1:2
+C1:4
+C1:6
+C1:8
+C1:B
+
+I would advise that your specified of 8192 window size in my view is hindering any potential visibility because a higher window size only enhances the very low frequencies.
+1024, 2048, and 4096 are the sweet spots for the upper, middle and lower zones of the signals respectively.
+
+I also checked dozens of your hyperspace recordings of 28 Nov 2023 to see, like you say, if hardware was a factor in somehow revealing it differently, and to independently look at it with different eyes. Nothing was visible to me in the background noise that wasn't a product of pareidolia. So at the very least, you can take this information as a data point for your investigation regardless of its validity in your eyes.
+Click to expand...
+
+Thanks for the reply.
+
+I suppose time will tell.

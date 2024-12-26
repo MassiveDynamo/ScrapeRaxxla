@@ -1,0 +1,17 @@
+CMDRCorrMorningstarFelian
+Apr 22, 2021
+#23,015
+Oh by the way Omphalos means 3 things relevant to the game and none of the them are the Delphi system (aka Pleiades Sector IR-W d1-55). Those are:
+-Omphalos Rift
+-Ompholos Stone of Delphi
+-The center of whatever is relevant to find Raxxla (i.e. the dead center between whatever represents Astrophel/Astrophil (meaning "star lover") and Stella.
+
+I am using this as my first attempt only to absolutely confirm or deny any association to that system but my intuition says it isn't it for several reason. Nothing built there that references back to Delphi, Greece and the Omphalos Stone of Delphi was was built in the 22nd century. It all came about after 3300 (over a millennium later). Secondly, the myth that Delphi's Omphalos getting there first appears in a work highly critical of the Oracle of Delphi and more particular the whole geocentric model. I personally now ascribe that based on history in the game alone that Sol is the center reference point (which fits nicely with FDev's comments that they "had to make it a little bit obvious". Hello the coordinate are 0,0,0.
+
+
+"De Defectu Oraculorum" or "The Obsolescence of Oracles"
+(Περὶ τῶν Ἐκλελοιπότων Χρηστηρίων) by Plutarch
+https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_defectu_oraculorum*.html
+Last edited: Apr 22, 2021
+Reactions:
+Crimson Echo

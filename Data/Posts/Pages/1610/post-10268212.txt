@@ -1,0 +1,7 @@
+SergMx
+Nov 26, 2023
+#32,183
+Jorki Rasalas said:
+I've long thought FD put a lot of design effort into those beacons for the only result being an Ancient Key...might be worth further research! Perhaps we were just taking the key out of the keyhole?
+as far as I'm concerned, these mechanisms keep track of what you have in stock. For example spires, if you don't have the fungus for infection in hand, you're asked to take the object. If you have the fungus, then the mechanism is empty and you have to put it in there.
+Maybe later there will be something that you need to insert into the mechanism of the guardian beacons.

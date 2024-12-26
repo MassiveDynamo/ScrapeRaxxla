@@ -1,0 +1,11 @@
+clavain
+May 22, 2021
+#23,357
+ComSordan said:
+The star with e should be HD 34019, the other one HD33654 if I'm not mistaken. They and 9 Aur match up to the drawing.
+
+The best way of checking alternate star catalog designations when you have one that can't seemingly be found on the Galaxy Map is looking that designation up in SIMBAD, which will then give you a list of other catalog designations for it that you can check against the Galaxy Map.
+
+SIMBAD: Query by identifiers
+Reactions:
+Vetinari

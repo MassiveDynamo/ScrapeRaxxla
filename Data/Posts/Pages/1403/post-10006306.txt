@@ -1,0 +1,27 @@
+Jorki Rasalas
+Nov 26, 2022
+#28,049
+@Rochester
+“Mother of Galaxies”
+Mate, you’re forgetting an important Greek deity -Gaia!
+
+From Wikipedia Gaia was “the ancestral mother of all life” (perhaps a poetical way of saying the universe?), and
+she was explicitly the mother of “Uranus the sky”, where galaxies are situated. She was also one of the Greek Primordial Deities “These deities represented the fundamental forces and physical foundations of the world and were generally not actively worshipped” (Wikipedia again).
+
+Now the “mother of galaxies” is in reality Gravity, a fundamental force of nature. Though from another another perspective “mother of galaxies” could also be perceived to be the supermassive black holes which form them (no, stay with me, don’t take a leap to inferring Sagitarius A*!)
+
+Mother Gaia is explicitly mentioned in-game as the major faction in Sol. IMHO Gaia is being highlighted in the game design as a clue.
+
+I pointed out last week in my posted Gravitational Wave theory (perhaps not very clearly, I was very tired!) that (love Wikipedia) “Gaia is a space observatory of the European Space Agency, launched in 2013 and expected to operate until 2025. The spacecraft is designed for astrometry: measuring the positions, distances and motions of stars with unprecedented precision”. One of the key research areas for the Gaia satellite is to measure the positions and rotational frequencies of pulsars.
+
+Pulsars are rotating neutron stars emitting colossal amounts of visible and radio energy in conical beams, & since they’re rotating the beams spiral, as can be strikingly seen in-game, and they might possibly be hinted at by “Astrophel and the Spiralling Stars”. That Gaia astronometric data on pulsars is being used IRL to look for Gravitational Waves, since those would affect the apparent position and rotational frequency of the pulsars.
+
+Now consider the interaction between reality and the ED game universe. The views and preferences of FD personnel must have affected the game design, it is in the nature of things. We have seen many reports of David Braben‘s personal love of astronomy, also his interest in keeping ED as scientifically accurate as possible, and as CEO of FD when the game was designed he would have been the major influencer on that. Moreover Raxxla is his personal easter egg. So, my hypothesis is that David Braben is “Astrophel” (Greek for ‘lover of stars’). “Mother Gaia” faction and “mother of galaxies” are hinting at the Gaia satellite and Gravitational Wave research.
+
+So I’m hypothesising that in-game Raxxla is hidden at/associated with a potential source of gravitational waves. Gravitational wave sources are IRL compact binary pairs of black holes and/or neutron stars. There are many of these in-game. I’m currently searching for these with my two accounts, one is only 3 jumps from a promising candidate system, might get there today if reality doesn't encroach yet again...
+
+Since we don’t know what Raxxla is, and we have a (I think reliable) rumour that the system containing Raxxla was visited but Raxxla was not detected, it follows that Raxxla is probably not obvious when you enter its system, but is hidden in some way. Putting all this together I believe the most likely thing is that Raxxla will be instantiated from FD’s servers when some lucky pilot triggers the “Omphalos Rift” hinted at in the codex. The Omphalos Rift could be hidden in a black hole, or it could be triggered by boosting at a particular neutron star.
+
+The Alleged Toast was first documented in the codex which was introduced in ‘Beyond Chapter Four’ 11 DEC 3304 (2018). FSD supercharging/boost was introduced with ‘HorizonsThe Guardians’ (2.2) on October 25, 2016. So boosting was available well before the “alleged toast” was released. Hence I think a BH or NS solution are equally probable solutions. I personally lean towards BH as the most likely, since they have been in-game from the beginning. It would fit the old (deleted) E/F mission description “Place that is not a place”, and the Omphalos Rift would be a wormhole gateway “door that is also the key” to Raxxla. IRL the ancient greek Omphalos Stone had a conical hole, and when a black hole is selected the cockpit hud shows it is spiralling into its central point. I’ve previously posted that a rotating black hole might form a wormhole in space (see https://en.m.wikipedia.org/wiki/Ring_singularity). With DB’s love of astronomy I’m sure he would have been aware of these concepts when the game (including Raxxla) was designed....
+Reactions:
+CMDRCorrMorningstarFelian and Rochester

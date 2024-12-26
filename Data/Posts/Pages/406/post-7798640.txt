@@ -1,0 +1,10 @@
+Han_Zen
+May 16, 2019
+#8,106
+Rochester said:
+Excellent find. What about triangulation of those systems, anything there?
+I haven't looked at it much. I'm currently experimenting with alignments in the Lave cluster (Galaxy 1, the mother of all Galaxies in Elite).
+
+If you skip LHS 112, you get a plane that is very close to Sol and probably intersecting Tau Ceti. I haven't calculated the distances, but I think Tau Ceti is about a quarter of an ly of the plane. UV Ceti looks spot on.
+Reactions:
+Rochester

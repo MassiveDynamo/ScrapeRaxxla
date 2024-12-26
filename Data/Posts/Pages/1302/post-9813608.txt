@@ -1,0 +1,42 @@
+Robert Rockbite
+R
+Apr 16, 2022
+#26,035
+Jorki Rasalas said:
+Ive been browsing my notes again (always a hazardous thing to do as it gets my brain wondering off on a few more hypotheses) and had a thought. There is, in the Guardians 2.2 release trailer
+
+a green light source used to illuminate the titles, & the green colour matches (to my eyes) the Raxxla icon/Guardian beacons. Perhaps best seen in the final few frames; I meant to capture that video and have a look at the star background -might be a clue, or might be marketing hype!
+Click to expand...
+
+Great find!
+I'd say the colour resembles Raxxla green alright.
+And I wouldn't be too surprised if Raxxla would actually look like that.
+
+
+Hm. Copy-Paste neutron star, make it green, modify stats?
+Increase jump range modifier and damage to FSD, please.
+Almost. Make the exclusion zone bigger.
+There. Raxxla. Done. Let's have lunch.
+However, with the strategy of recreating large parts of the game with Odysee, I am not quite sure if the efficient reuse of assets is a common practice at Fdev.
+
+In the background of stars, the same patch repeats 4 times, like the notorious tiling on planetary surfaces in Odysee.
+I would assume it's probably a random result of "We need a (generic) background of stars".
+It's probably from a common place like Shinrarta Dezhra or Sol.
+
+Could the background of stars reveal something by accident?
+No. Not if there are 4 tiles and the stars look cheap, all stars white / grey.
+
+Could the background of stars contain a deliberate hint? Oh yes. Would it? I doubt it.
+On the off chance that it contains a deliberate hint, it could be a subtle difference in the 4 tiles shown.
+Or it could be the location (not quite) in the middle, where all 4 tiles meet.
+
+Could a neutron star in Raxxla green be a deliberate false trail?
+Maybe.
+
+Jorki Rasalas said:
+Yes, I regularly do this now, but there’s only up to around 10 asteroids in each cluster, and not many clusters, so not a great hiding place. IMHO a planetary ring is the obvious place for FD to have hidden it cos they’re so hard to search....
+
+I have been searching in clusters, too. But usually there are miners and pirates, even at rather remote systems.
+Would be somewhat anticlimactic if I would discover Raxxla in an asteroid cluster while a pirate would scan me for cargo.
+Reactions:
+Adel

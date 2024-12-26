@@ -1,0 +1,26 @@
+alexzk
+A
+Aug 25, 2019
+#11,296
+Noobilite said:
+I think you are doing it correctly but it's doing it with the one coordinate with a possitive putting in the wrong direction. The rest is correct.
+
+It took me a bit to find the error. I corrected it in the above post. I edit alot so stuff I type gets delayed in appearing sometimes. 8)
+Okey, new coords:
+const static Point A{4.3125, -1.0625, -27.90625};
+const static Point B{ -81.78125, -149.4375, -343.375};
+const static Point C{-2426.84375, 295.03125, -1323.625};
+
+Hmm..even more good matches:
+
+https://www.edsm.net/api-v1/sphere-systems?x=-1798.8438&y=-191.4375&z=349.3750&radius=20; max error: 0.00378418
+https://www.edsm.net/api-v1/sphere-systems?x=-1781.8438&y=-152.4375&z=326.3750&radius=20; max error: 0.0090332
+https://www.edsm.net/api-v1/sphere-systems?x=-1835.8438&y=-276.4375&z=399.3750&radius=20; max error: 0.0117188
+https://www.edsm.net/api-v1/sphere-systems?x=-1818.8438&y=-237.4375&z=376.3750&radius=20; max error: 0.0119629
+https://www.edsm.net/api-v1/sphere-systems?x=-1815.8438&y=-230.4375&z=372.3750&radius=20; max error: 0.0126953
+https://www.edsm.net/api-v1/sphere-systems?x=-1761.8438&y=-106.4375&z=299.3750&radius=20; max error: 0.0170898
+https://www.edsm.net/api-v1/sphere-systems?x=-1801.8438&y=-198.4375&z=353.3750&radius=20; max error: 0.0181885
+https://www.edsm.net/api-v1/sphere-systems?x=-1852.8438&y=-315.4375&z=422.3750&radius=20; max error: 0.0186768
+https://www.edsm.net/api-v1/sphere-systems?x=-1764.8438&y=-113.4375&z=303.3750&radius=20; max error: 0.019165
+
+Pick responses by "distance", lower "distance" is close to calculated point, or ser radius=10 in link to filter.

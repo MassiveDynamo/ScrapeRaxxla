@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jan 8, 2020
+#14,534
+Well, running out of ideas. On the hypothesis that the codex pic could be a straightforward instruction (astronomical symbol for Sol, surrounded by a belt, and 33 blobs) I’ve scanned all Sol Tourist Beacons out to Jupiter, then moved to start (from EDSM 1027ls), finish (from EDSM 1632ls) and centre (from system map 2.66 AU=1327ls) of the asteroid belt and D-scanned 33 times at each position.
+Nothing to report!
+
+It’s rather strange that there is no asteroid belt to select and travel to! Nor any roids instanced. I’m sure there used to be when Jorki (now Questing as Tyko) first got the Sol permit couple of years ago but it was in the wrong position between Sol & Mercury & I raised a bug report on it.
+Last edited: Jan 9, 2020
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum, simulacrae and 1 other person

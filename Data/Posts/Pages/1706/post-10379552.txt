@@ -1,0 +1,26 @@
+simulacrae
+May 22, 2024
+#34,114
+Jorki Rasalas said:
+mmm, still pondering anagrams and playing with my spreadsheets investigating same. But Ive found an interesting thing-since starting (a couple of weeks back) my investigation with data for systems within 60 ly of Alioth I've realised I'd forgotten to include the number of bodies in each system. Trying to add the #bodies back in today I did another Spansh systems search for 60ly from Alioth & found a few systems seem to have disappeared from both EDSM and the Spansh system searches :
+LHS 2921- unknown permit required
+Blu Thua EK-Y b2-0
+Traikoa VX-W b30-2 49.4ly - suspiciously all at same distance??
+Traikoa VO-R e4-5 49.4ly - " " "
+Traikoa FV-D b55-0 49.4ly- " " "
+Byeia Thaa LS-Y c28-9 49.4ly- " " "
+LHS 3091 57.99ly - unknown permit required
+
+Anybody heard any reason why these should have been deleted?
+Click to expand...
+
+Took a look in game - Traikoa VX-W b30-2 exists, its at approx coordinates (-1588.5/295/4720) - much more than 49ly from Alioth. I suspect that and the others were from the early days of manual input into the database and are possibly done in error?
+
+Traikoa VO-R e4-5, Traikoa FV-D b55-0 are also out near the first one.
+
+Byeia Thaa LS-Y c28-9 is also in game but fairly far out so shouldnt have showed up in the search i think
+
+
+LHS 3091 is in game and close to alioth but permit locked... we were able to manually enter triangulated locations even ones you havent been to - maybe this one was never done that way? same goes for LHS 2921 i suppose.
+Reactions:
+CMDRCorrMorningstarFelian and Jorki Rasalas

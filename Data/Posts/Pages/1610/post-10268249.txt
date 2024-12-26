@@ -1,0 +1,27 @@
+selbie
+Nov 26, 2023
+#32,185
+.
+..
+So unless I've missed someone else's analysis in my searches of the Landscape Signal - one small, tiny little detail seems to have been overlooked...
+
+The Landscape Signal could be from a Living, Breathing Entity!!
+
+Landscape Breath Audio (you will have to unmute the video player)
+In this recording the original signal audio duration has been compressed by 3x, and notch filtering has been applied to remove the musical humming ( ie. the strong horizontal lines seen in the original spectrographic image below). This leaves the vertical bars - the last two of which are much stronger, and align with the 'landscape' shapes.
+
+
+
+This means the search could involve finding a stasis pod / life raft / derelict vessel floating somewhere in the void.
+It also raises many questions like what lifeform is it coming from? An escaped Guardian from the ancient civil war? A human explorer from the Quirium Drive era? A sound designer with a cheeky sense of humour? Are the 'mountain' lines perhaps related to the atomic composition of the entity's breathing?
+
+For the technical aspects of this audio and the image:
+Audio below 200Hz was cropped out to remove the deep humming sound - using the Spectral Delete tool.
+The frequencies removed with the notch filtering were - 875Hz, 1167Hz, 1401Hz, 1765Hz, 2350Hz, 2788Hz, 3282Hz, 3546Hz, 4676Hz
+The spectrographic image above was generated using Audacity - with the following spectrogram view settings:
+SPOILER: SETTINGS WINDOW
+SPOILER: VIEW WITHIN AUDACITY
+The left and right channel images were then overlaid with each other and the top image had a Lighten layer blending filter applied to help 'merge' the images.
+Last edited: Jun 30, 2024
+Reactions:
+Emperor, Louis Calvert and Adel

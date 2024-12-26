@@ -1,0 +1,53 @@
+Louis Calvert
+Nov 21, 2017
+#1,088
+Thatchinho said:
+There's no need to call on the faraway network or 7ly drives for explanation. FD have already provided plenty.
+
+Colonisation and exploration are very different things. The bubble marks the extent of major known colonisation. FD have talked about the models they used and the factors around it and it's well thought out.
+
+Colonising other planets and systems is not cheap or easy, particularly if terraforming is needed. Transport of large numbers of people needs to be available. Even large numbers transport-wise are not going to be large in terms of planetary populations. Those populations will take a considerable amount of time to grow to the point where there's any population-level drivers to colonise another system.
+
+
+
+Probably best all round if you leave saying what I'm doing to me, ta.
+
+So, to be clear I am doing the calculations based on what we know, and in addition I am fleshing what we know.
+
+I have at no point said we have always had the capability to travel like we do now in terms of range. My view is that we are our current commercially available travel capability is considerably in excess of what we've had before, and consequently we are experiencing a renaissance and golden age of exploration following a dark age after the loss of quirium.
+
+I've already shown that the total distance coverable per unit time was hundreds of times greater for type 1 drives than type 2bs.
+
+That was based on a 7ly jump range.
+
+FSD is better again, even for a 7ly jump range. Arriving in proximity to the star means the arrive-scoop-jump process will generally be quicker than for a type 1. It's also trivial to show that the general jump range is higher for FSD too - just compare an off-the-shelf Cobra MkIII's jump range to its 7ly jump range with a standard type 1 drive.
+
+So, FSD is the best commercially available multi-use hyperdrives we've seen.
+
+However, there's also non-commercially available and single-use hyperdrives to take into account. Galactic hyperdrives are myth so that's a bit up in the air, but what's 100% lore is Jacques big jump - that was intended to be to Beagle Point so that's a jump of more than 65,000 ly. Even with the jump only going to Colonia that's still in the 10s of thousands of ly. I've not done the working on this part though.
+
+But just looking at normal hyperdrives, the point is that yes, there has been nearly a thousand years of travel. And we have it confirmed that from early days, probes were being sent out and pioneers using it regardless of safety concerns.
+
+
+
+That's not a fact, that's just what you think.
+
+What is fact is that in our current wave of exploration, when we have gone into the distant reaches of galaxies we have found large areas that are permit locked. That provides a pretty strong counterpoint to the idea that we are only discovering those areas for the first time.
+
+Can't see anything robust to support your feeling I'm afraid.
+
+This only applies to colonisation, and it only applies to what equates to in-game public knowledge of the extent of colonisation.
+
+Exploration is different.
+
+Again we have the permit locked areas. Then there's the asteroid bases which are fairly far out. All the exploration caches that can be found. The Wayfarers Graveyard...
+
+The travel distance per unit time was very low for type 2b as I've said before. 100s of times smaller than that of a 7ly jump range type 1 and getting towards 1,000s of times smaller than that of an engineered FSD exploration ship.
+
+Sorry, but as covered above that's not a valid extrapolation.
+
+Doubly so for this, as even if the previous extrapolation was valid, the fact that Raxxla's location is generally unknown means that it's more likely to be out where virtually no one has been, not less likely.
+
+I respect your views, but I strongly disagree. I think it's pretty self evident that given the opportunity to explore and colonise, humanity does, will and can. The only reason humans haven't colonise, explored and charted the galaxy in the past 1000 years of interstellar travel is that it simply wasn't possible.
+
+The fact that it's very clear in-game that humanity has only just started to explore outside the bubble is self evident in the actual game itself, regardless of your disagreement with Lore sources and evidence in game.

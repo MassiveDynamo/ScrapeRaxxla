@@ -1,0 +1,18 @@
+Grens404
+G
+May 4, 2023
+#30,277
+CMDRCorrMorningstarFelian said:
+Note: Elite Dangerous coordinates are x,z,y
+
+Where...
+x is left or right of Sol
+y is below or above Sol
+z is further from core or closer to the core than Sol
+
+Click to expand...
+Ohh did not know that. So spansh has Delphi as (-63.59 -147.41 -319.09) and that's (x,z,y).
+
+Still - would like to find a program to visualize these
+Reactions:
+CMDRCorrMorningstarFelian

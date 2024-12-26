@@ -1,0 +1,19 @@
+Jorki Rasalas
+Sep 4, 2022
+#27,088
+Dox Paradox said:
+What would be cool is request a stellar system database via an API.
+I don't know how third party tools have populated their database. Is it only with user inputs, or do they have access to data provided by Frontier's API ?
+If yes, we could query directly the database bypassing Galmap and speeding things up immensely. Don't think it would be allowed to query 400 000 000 000 systems in one go tough, but there may be a legitimate use-case...
+Another approach would be to use a tool like WireShark. Maybe the data we are looking for are sent by the server in one go once we jump in (like, all the body ID's of the current star system).
+Maybe worth a try, but personally I'm reluctant to resort to this sort of methods because it is so "out of the game".
+The EDSM database has several API. It is populated by player submitted data, nowadays automatically via tools such as EDDiscovery etc, but in the old days it was manual and several measurements had to be taken to trilaterate system positions...and there are a lot of systems still to be discovered; dont think we’ve found even 1% of the total as yet!
+
+Nobody has access to the in-game FD database, apart from FD.
+
+Quite, I was initially very reluctant to use Pyroboros’ method as it is so external to the game, but needs must. FD have always encouraged use of tools external to the game, e.g. audio analysis tools.
+As I understand things the StellarForge software is part of the game running on your own client. The FD servers are notified where you are going at the start of a jump & during the hyperspace transition sequence the system is generated locally and overwritten by any FD-manual data for the system downloaded during that sequence. So I think Raxxla/Omphalos is disguised as something commonplace (e.g. comet or black hole) and not labelled as such. When a player “finds” it that will trigger a hyperspace jump and the FD server to download the system data for Raxxla, so it cannot be datamined-of course many have tried (not me! I adhere to the EULA!) but not found anything. This is the way (Mandalorian!) I’d do it.
+
+Comets are not instantiated, their bodyids only become disclosed in the journal file when you (SupercruiseExit event in the journal description) drop out at them. So I dont know if they would be generated on the initial run of StellarForge, or only when you drop.
+Reactions:
+Ataxia, Dox Paradox and Rochester

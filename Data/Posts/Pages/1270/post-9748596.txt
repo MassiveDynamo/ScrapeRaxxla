@@ -1,0 +1,26 @@
+Jorki Rasalas
+Feb 20, 2022
+#25,383
+Adel said:
+Regarding Shinrarta's logs, i have this:
+
+SPOILER: SHINRARTA DEZHRA'S LOGS
+
+The crash at ID 68 doesn't only happen in this system, but even to others (i still doesn't figure out why, it's not related to station type)
+Hope it can help
+
+Edit: Once you done all stations, the next ID to search crash the galmap, so stations are the last 'objects' to be detected.
+Click to expand...
+Mmm, 12 comets in Shinrarta seems a bit excessive! Not seen the “SmallBody” data type mentioned before, but then not looked in the journal specification for a long time, it’s probably been updated...
+
+Edit: have you got a journal specification later than v32? In 3.2 the only body types enumerated are:
+
+15.7 BodyType values
+"Null" (eg the barycentre of a binary star system)
+"Star"
+"Planet"
+"PlanetaryRing"
+"StellarRing"
+"Station"
+"AsteroidCluster"
+Last edited: Feb 20, 2022

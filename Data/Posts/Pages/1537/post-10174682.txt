@@ -1,0 +1,26 @@
+CMDRCorrMorningstarFelian
+Jul 3, 2023
+#30,734
+It might be worthwhile to plot an approximate route for the Mayflower 97 (Sol -> Tau Ceti -> Achenar) and see if discovery of Raxxla didn't happen enroute to Achenar. In which case, Marlin Duval's death may have happened when she went back to find it. There are two planets named Discovery in Antares and Exphiay.
+
+Sol -> Achenar: 139.45 LY
+Sol -> Arcturus: 36.71 LY
+Achenar -> Arcturus: 169.67 LY
+Sol -> Exphiay: 313.90
+Achenar -> Exphiay: 225.72 LY
+
+I suspect Marlin Duval's desire to get as far as possible from Sol should be reasonably factored into this, too. Arcturus is discovered too late to be a candidate at 3304. Exphiay I don't think we have good data on and I am pretty sure I haven't been there, yet.
+
+Mayflower 97 could get 0.6 LY/year which means by 2296 the maximum distance is as follows:
+
+(2296-2097) * 0.6 lightyears/year = 119.4 LY
+
+Back to the Mayflower 97..
+
+Sol > Tau Ceti: 11.94 LY
+
+119.40 LY - 11.94 LY = 107.46 LY
+
+The other implication here is Marlin Duval did not get to Achenar or my mathematics here is screwed up.
+Reactions:
+John Stoutbeard and Rochester

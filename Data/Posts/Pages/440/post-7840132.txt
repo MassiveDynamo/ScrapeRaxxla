@@ -1,0 +1,24 @@
+[Diplomacy] Carnegie
+Jun 9, 2019
+#8,793
+90% certain there was a bug involved.
+98% certain it's nothing to do with Raxxla.
+But, this is the weird experience I had last night...
+
+DrewCarnegie said:
+So I've just finished proximity scanning the bodies orbiting an L class star, orbiting an A class about 6,000 Ls out and I'm heading off towards by next jump, just about to fire up the FSD when I'm dumped out of hyperspace with the 'Too close' message.
+
+I check the system map and the nearest body (the L class) is 132 Ls away. I look around and there's nothing here. Except... what's that little cluster of 3 white blobs over there? And look, another smaller (more distant?) one over there.
+
+Being an explorer, I turn on my shield and head over to the largest cluster to investigate. Cautiously at first, because by AspX is made of paper and my hull is at 80%. I fly for a while, and then my Mass Lock pings and I start seeing little rocks fly past. The 3 light cluster isn't really doing anything, so I kick the boost a couple of times and it starts to grow. Still nothing on the scanners so I boost again and click, the lights go out. Weird. Try night vision. Nope, nothing showing.
+
+Naturally, I pick another cluster and repeat the process. Initially the clusters are just lights, but as I get closer the NV outlines come on, until again, click, nothing showing.
+
+Logout, login, pick another cluster, same result.
+
+Okay, I'm bored with this now, time to leave. Oh. Mass locked. Hmm. Check System Map. L class has a ring with a semi-major axis of 0.27 AU. Does math. 1 AU is 8 light minutes, that's 480 seconds, so a quarter of that is 120 Ls, so yeah, I clipped the ring. So I'm stuck in the dark, somewhere in a ring with no asteroids trying to figure out what direction to fly in to break the mass lock. Targeted the L class, stuck it at the top of my mini-radar and hoped. Made it out, eventually.
+
+So I figured out what I hit, but has anyone ever seen the weird disappearing asteroid thing before?
+Click to expand...
+Reactions:
+Rat Catcher, Scytale and PeteACarter

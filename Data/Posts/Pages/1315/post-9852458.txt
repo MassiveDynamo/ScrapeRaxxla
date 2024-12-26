@@ -1,0 +1,10 @@
+CmdrKafka
+May 31, 2022
+#26,284
+SergMx said:
+Key. There's the story of Salvation. Who would have found this chain of bases without the first post ?
+I'm not familiar with the Salvation story, is there a good summary I can read? What I did notice last night was this....
+
+COL 70 seems to be entirely locked and is within the area we are looking right now (@Macros Black 's Operation Bubble To Barnard's Loop) ... or is it entirely locked? I spent far too long just clicking around the galaxy map trying to find any Col 70 systems that were not permit locked, didn't find any but I am quite sure I missed alot, was very hard to keep track. Does anyone know, are there any 3rd party tools to somehow look at this or are we restricted to using the in-game galaxy map for this analysis? I also could not find any filters or settings that would show permit vs. non-permit, you seem to just have to click on it to see if it's locked or not. My hypothesis is there could be gateway way into a large permit locked area consisting of a single system or chain of systems.. perhaps Raxxla is the first star or perhaps it is further in, but that a route plotter well never find this because it is a dead-end with no way out. It's possible that Col 70 and other areas that became entirely permit locked more recently needed to become that way because of fleet carriers increasing the max jump to 500ly might have provided another way in.
+Reactions:
+Macros Black

@@ -1,0 +1,6 @@
+CMDRCorrMorningstarFelian
+Jan 24, 2023
+#29,021
+CMDRCorrMorningstarFelian said:
+Passive scan: Oldest scanner mode and dependent on body type and distance from the body. Passive happens any time you fly close enough but only gets orbital parameters. As you fly close to stars, planets, moons, stations, installations, and fleet carriers initial data will be added into navigation computer (if not present).
+Worth noting: Oldest scanner mode has a very noticeable hexagon that looks suspiciously like the icons from Active Guardian Obelisk (made up of many smaller triangles). This further happens with SRV composition scanner, Odyssey bio-scanner, discovery of new materials (ship, SRV, on foot), and when stepping out of ship in Odyssey.

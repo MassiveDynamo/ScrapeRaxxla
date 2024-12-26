@@ -1,0 +1,15 @@
+Jorki Rasalas
+Dec 20, 2018
+#4,640
+Rochester said:
+I mean really?
+
+https://photos.app.goo.gl/qUFFL6npRSDAZAuo8
+
+There isn’t anything unique (e.g. nebulae, O types) in the two start menu screenshots, otherwise I would have found them by now. The only way to triangulate these few stars would be to code something like http://ancs.eng.buffalo.edu/pdf/ancs_papers/2006/star_id06.pdf and run it against all the known star positions (available from eddb.io).
+
+It would likely not be definitive with so few stars in the images, but would give you some search areas. I’m no coder so if anyone would like to have a go then please let me know!
+
+I’ve been out in the black searching star patterns for around two months now, seen some nice sights & found a few biologicals & geological signatures since the fss appeared in my Asp, but haven’t got time to explore those. What I really need is a cockpit hud overlay to get the angular distances between stars & a means to transfer those into galmap. There have been so many times that I can see things from the cockpit but I can’t identify them in the galmap.....it’s extremely frustrating!!!!! :O:O
+Reactions:
+Louis Calvert, Rochester and CMDRGURU951

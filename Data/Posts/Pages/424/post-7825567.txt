@@ -1,0 +1,34 @@
+Thatchinho
+May 31, 2019
+#8,463
+AzoreanOutkast said:
+Yep readed what i wrote and i see the issue.
+
+Basically in the systems i had this was basically, honk it says there is X bodies, i then use FSS and find the ones it had said in the honk, and them i go for the mapping part and in the case of the one that had a gas giant 561k from me, i selected it in the nav panel, used supercruise assist and let the ship do the route, when i was really close to it i honked again and the result was diferent, using the FSS it revealed the other bodies that previously i couldnt see even using the FSS. (the 1st time when i entered the system)
+
+Not the 1st system i get this, i have already quite the number of systems that at 1st glance was already discovered and mapped by other commanders, that had left 1 or 2 bodies unmapped cause of their distance, and when i got there i not only mapped those as i discovered more of them.
+
+Basically what i stated and am telling with all this is, if u see a sun that is 500K or more away from u, its worth flying out there and using the FSS again, cause i can say in 5 of this situations only 1 of them didnt had nothing new to discover...
+Click to expand...
+Sorry for questioning again, but I just want to make sure I'm following you correctly. Are you saying you:
+
+1. Entered the system
+2. Honked
+3. Entered the FSS mode
+4. Searched for bodies in the FSS mode until there were no signals showing on the signal bar
+5. Got the System Scan Complete message
+6. Could see the number of bodies scanned as 100%
+7. Flew out to a distant body
+8. Honked again
+9. Got a message saying that more bodies had been detected
+10. Entered FSS mode again, and saw a new set of signals on the signal bar
+11. Searched for bodies in the FSS mode again until here were no signals showing on the signal bar
+12. Got the System Scan Complete message again
+
+What happened to the % of bodies scanned at 10? Did it change down from the previous 100%?
+
+With apologies again - just trying to make absolutely sure that nothing else is going before we get excited and/or start suggesting bug reports.
+
+For reference I've just checked my FSS scan history, and I have detected bodies at more than 550kls (not many though).
+Reactions:
+[PS4] Filthymick420

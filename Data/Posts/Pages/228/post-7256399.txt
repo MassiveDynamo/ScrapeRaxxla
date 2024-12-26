@@ -1,0 +1,7 @@
+Jaiotu
+Dec 15, 2018
+#4,558
+CMDRGURU951 said:
+Was able to reproduce the strange signal in the system, Star Of India, also in the Cygnus constellation. Chalking this up as Solved as bug.
+
+Are we back to mistaking bugs for content again?

@@ -1,0 +1,15 @@
+Han_Zen
+Dec 16, 2019
+#14,101
+Machina Ergo Sum said:
+That's odd. I've only ever heard of the galactic coordinate system with Sag A as galactic center and galactic north at Coma Berenices.
+Coma Berenices is the galactic north pole, as viewed from earth. It's 'UP' in the galactic plane, like Polaris is 'UP' in the celestial sphere.
+The 'other' North is flat in the galactic plane. It's a top down view of a 2D galaxy.
+
+It's a bit confusing with three norths.
+
+l: 0 b:0 is sometimes north (Sag A)
+l: 90 b: 0 is sometimes north (in Cygnus)
+l: 0 b: 90 is sometimes north (in Coma Berenices)
+Reactions:
+simulacrae, Machina Ergo Sum and [PS4] Filthymick420

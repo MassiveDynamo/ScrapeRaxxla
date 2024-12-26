@@ -1,0 +1,10 @@
+djadjok
+Mar 20, 2021
+#22,212
+Ravenl0ft said:
+as @TrillClinton mentioned the definition of brow should be taken as forehead, not eyebrow nor the other meanings. I wonder how it could be interpretted from other languages? I know a lot of cmdrs speaking Spanish and Russian, may be they can enlight us about the Raxxla codex interpretation in their language?
+I strongly advise against relying on differences in the original and translated texts. Localisations are just "translations", that's not a "redesigned" text entries. Yes, the work have been done professionally (I'm not speaking here about UI elements) and I'm sure that this have been done by third party companies - on outsource - i.e. by someone who is probably completely unaware of the subject. The latter is based on my own comparison of dozens of Tip Off related text using all 6 "officially" supported languages.
+So, one must stick to original - English - texts if trying to find "clues" in in exact wording . And that even if we don't take into account that there is at least one POI already discovered, that do produce "logs" for English-client users, and renders "nothing" to any other (and I mean really "nothing" - no any "signs" at all, no "empty page" or non-translated text).
+Imo, the only point when translated texts can be of any particular interest - is when we need to track down the evolution of original text along time axis - to track down eventual "corrections" that are not reflected in translated versions.
+Reactions:
+Vetinari, Ravenl0ft, Crimson Echo and 3 others

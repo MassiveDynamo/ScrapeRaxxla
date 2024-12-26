@@ -1,0 +1,28 @@
+Jorki Rasalas
+Dec 20, 2021
+#25,003
+If you don’t like theories, delusional or otherwise, you’re definitely in the wrong thread! Theorising is the major part of the fun!
+But then, your belief that Jameson Memorial vector can be extrapolated to give a location is in itself a theory! (Actually a hypothesis since you have no evidence to support it).
+
+The English version of the Codex does not mention anything about a planet; it is interesting if the Russian version mentions one. This could be a mistake by FD in letting through a clue, or it could be a mistake by FD in giving out false information. You should raise a bug report on it.
+
+In the original Holdstock novella http://www.iancgbell.clara.net/elite/dkwheel.htm (that accompanied the Elite 1 game package) Raxxla was said to be a planet. But we dont know anything about how FD have implemented it in ED (the first time it has been implemented). Indeed in one livestream David Braben said with emphasis we dont know WHAT it is.
+
+Yes, early last year I conducted a colour correction on the station picture in the Raxxla codex entry, by comparing it with Aulin Enterprise, a similar (Orbis) station. Having done that image manipulation I believe the star it shows is a red subdwarf (M VI). Whether that image is supposed to be decorative art or an in-game image of something relevant to the Quest for Raxxla is something only FD could answer, and they refuse to answer any question on Raxxla.
+The Quest To Find Raxxla
+this adamastor? Hercules-class bulk cargo hauler Here's a shot so it's more recognizable
+forums.frontier.co.uk
+The Quest To Find Raxxla
+Is it regarding Raxxla, I hope by Zeus’s beard it isn’t but experience teaches if something seems too good to be true, it probably is, so it works in reverse here. Odyssey ... something something, personal journey something .... I do think our friend Theta 7 is a bit of an Odysseus figure ...
+forums.frontier.co.uk
+
+The star type you mention is a Carbon Star. There are many carbon stars in-game, such as
+Gl 288 B
+53 Aquarii C
+HIP 75691
+
+If you can’t see them in galmap you can identify them by searching on third party tools such as https://spansh.co.uk/bodies/search
+The galmap search only seems to search on the primary star in a system.
+Last edited: Dec 20, 2021
+Reactions:
+Exekrator and Rochester

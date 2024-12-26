@@ -1,0 +1,9 @@
+Jorki Rasalas
+Aug 15, 2019
+#10,698
+Macros Black said:
+@PeteACarter: I have a SQL query for you: How many bodies in a radius of 300Ly from SOL have no discovery tags. I'd like to pay them a visit
+
+It would be nice if we could access Stellar Forge to check. Unfortunately all we can access is EDSM where the data has been reported by pilots. Some of those pilots may have died before they could submit their data to Universal Cartographics, but there is no way to do a comparison of the two databases. I too wish the game provided an “unexplored” tag which could be filtered in the galmap, it would make searching so much easier (which is probably why we haven’t got it!)
+Reactions:
+[PS4] Filthymick420, PeteACarter and Macros Black

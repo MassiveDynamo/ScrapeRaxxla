@@ -1,0 +1,19 @@
+Djidjel
+Jul 5, 2021
+#23,904
+Jorki Rasalas said:
+Nope, it’s been raised many times. It’s only the bookmark for the main asteroid belt that shows in the sun. I raised that in a bug report back in 2016 when I got the Sol permit. I guess it’s possible that its a programming way of putting the asteroid belt into system as a real thing while having such odd properties. IRL it is is very sparse, with huge distances between asteroids. In game there are “asteroid clusters” which are detectable, but if you drop out of SC at one then nothing is there! But one of the space probes IRL detected several (around 8 IIRC?) asteroids and that number matches the number of asteroids shown in the FSS?
+
+There was an idea that Ceres was crashed into/mined for its water during Mars terraforming, but I dont think FD ever confirmed that. I suspect the lore explanation is that they didnt want to spend a couple of years programming all the bodies in Sol!
+
+But Sol is definitely a puzzle!
+Click to expand...
+Maybe the big asteroids are in-game, but in the same way the ancient probes were. Those were found only if you knew where to look and appeared as a signal source only when very close, therefore very easy to miss at high SC speeds unless you were right on top of them. Since there is no lore mention of Ceres (DW posted a pic from FE2 that showed Ceres in-game in 3250, but i heard FE2 isn't canon), and FDev keeps a curious silenzio stampa about the big asteroids I think it's a very good line of investigation. I got this weird feeling about Ceres after I saw some NASA pics of Occator crater, with its bright blue spots (Cerealia Facula - facula means little torch in latin) and the smaller but just as bright Vinalia Faculae in its vicinity.
+
+
+
+The big problem about finding the big asteroids in the belt is that their orbit has a pretty wide interval, it's hard to cover just by lil' old me.
+
+Another interesting thing I found is that in ancient greek, "omphalos" also means "umbilical cord". Ummm, umbilical cord? Ceres? Her daughter, Proserpina? Both big asteroids, both allegedly missing? Come on, there's too many coincidences here. Either FDev has to 'fess up what they've done with 'em or it's a HUGE clue.
+Reactions:
+Jorki Rasalas

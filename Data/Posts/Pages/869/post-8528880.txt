@@ -1,0 +1,14 @@
+Darth Ender
+D
+Jun 14, 2020
+#17,371
+Dane Icaza said:
+That's not what data mining is.
+
+Recording what the game parses like audio data into a file so you can parse it externally is no different than if you went into the folder holding game data files and found audio files and did the same thing. This would be no different than slipping into the game's loading of meshes to save them and finding that it loaded a certain mesh when you entered a system to discover a given alien or whatever was in the system that you otherwise wouldn't know. It's the same process. Hell, it even runs extremely close to the kind of cheating that people do when they run third party tools to live-analyze audio and overlay reticles where the source of the sound is in relation to your character. It's a step beyond macro tools since a player not parsing this data with external tools would never get the encoded info and that info was directly useful in uncovering the plot of the narrative at the time.
+
+If fdev is consistent with one thing, it's not being consistent. Whether it's rules, lore, or upcoming features, etc. Anyway you slice it, the hiding of clues in data that had to be saved and processed external to the game runs afoul of the same exact things described in the eula as being against the rules, and was a stupid way to go about the in-game mystery. I mean, after doing that intentionally, how could you not expect players to search for clues across the entire game not just in audio but meshes/textures/maybe even network chatter? How would anyone know where the next clues could be hidden once you open the data the game is using to external analysis like that? I doubt anyone would side with fdev on any kind of data mining tos infraction after that. They encouraged it early on.
+
+Not that raxxla is in any danger of being found by grepping the client. Not only does the location of things not get stored in the client, but it's highly doubtful fdev would ever risk custom assets for raxxla. The first person who finds it, if it's ever found, will likely find an existing asset placeholder. Only the narrative has a chance of being data mined, and raxxla will never be part of the narrative.
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,5 @@
+Cmdr Delmonte[VR]
+Jan 4, 2019
+#4,924
+You don't see stars or assets if you SC to another system
+You MUSt jump for the assets to load, The 'Jump' screen is a loading screen o7

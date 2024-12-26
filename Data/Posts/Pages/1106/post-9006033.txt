@@ -1,0 +1,8 @@
+clavain
+Mar 17, 2021
+#22,119
+Jorki Rasalas said:
+That’s why I run video capture (Windows Gamebar) of the last 5 minutes. The trouble is I never remember to press the key combination after an event!
+Yeah I used to have the Nvidia equivalent of that setup (it may even still be, I should check). Had the same issue with remembering to turn it off at the right time so it doesnt overwrite though.
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,70 @@
+Louis Calvert
+Nov 5, 2022
+#27,662
+NOTE: I've since edited this with some info at the bottom that seems to suggest most of these travel time numbers aren't right I've left the post the same though for posterity
+
+Rochester said:
+my point being if there is a link then what could link Tau Ceti with Delphi, in game, or visa versa; other than knowing you classics from school!
+
+Alright then, I've never thought about Tau Ceti before so let's take a fresh run at this Maybe my total noob idiot approach might jog something that might be helpful to you! This is all just from in-game sources as usual.
+
+Tau Ceti from the Galmap description:
+"First colony outside the Sol system, where the first alien life was discovered. Unfortunately the last remnants are now in zoo enclosures for tourists. Crops cover most of the surface."
+
+The Tourist beacons at Tau Ceti detail the history of the first extrasolar colony. The last dated entry is 2242.
+In early 2240, hours before the Earth fleet arrived in Tau Ceti, the main settlement changed its name to Taylor Colony and voted for independence from Earth. Without the starships to give battle, the colonists targeted the Earth fleet dropships as they attempted to land. Neither side could gain an advantage and so diplomacy resumed. With some bitterness on both sides, a negotiated settlement was reached and in 2242
+
+That's 54 years before the 2296 Raxxla codex date from Art Tornqvist. We know that before 2159 (The first date in the Tourist spots) Tau Ceti was colonised using early FTL systems described as 'slow and inefficient'. How slow?
+
+Early FTL speed:
+The Tourist Spot says:
+Further ecological transgression by Tau Ceti colonists was uncovered in 2228 when an undercover documentary found its way back to Earth... Earth sent a military task force to the system with orders to revoke its colonial charter.
+
+In early 2240, hours before the Earth fleet arrived in Tau Ceti...
+
+So if we assume (because we have to) that the Earth Fleet left immediately in 2228 and went at best possible speed, they reached Tau Ceti in 12 years. Tau Ceti is 11.94ly from Sol, so that means early FTL travelled at approximately lightspeed, and we can assume military FTL was probably as good as anyone could make.
+
+Therefore by 2296, how far could anything containing Raxxla actually be from Earth?
+
+FTL Radius by 2296:
+The Tourist spots show that Tau Ceti was the first colony, and by 2159 it was established and self-sufficient. So let's say for argument and ease that Footfall was 2150. The fact that it's the first (known) colony means that we could start the distance/time calculation from 2138, the assumed launch date of the Tau Ceti colonisation ships given that it took them 12 years to reach Tau Ceti.
+
+Galnet tells us that Hyperdrives were invented in the early-22nd Century, which puts the launch of the Tau Ceti mission extremely close to the first successful Hyperdrive test, it could be within a few years even. Galnet later tells us that Hyperdrives weren't commonly available to civilians until the 2800's so that means, if these older Galnet articles are still to be considered vaguely accurate, that the spread of human exploration and discovery by Art Tornqvist's time was considerably under the 157 lightyear radius we get from the assumption of the 1ly per year travel time of early Hyperdrives from the Tau Ceti tourist spot. 157ly assuming a ship launched in the same year as the Tau Ceti mission and just kept going.
+
+Raxxla must have been discovered, then leaked, before 2296 in order for Art to write about it. And, aside from assumed test-ships, we know there weren't civilians like us zooming around in early hyperdrives. Given that ships took 1ly per year to move, they were likely all pretty massive too, having to support crew for years, even if they were in stasis.
+
+Conclusion:
+To me, this heavily suggests that early Raxxla as known by Art Tornqvist must have been relatively near Earth. Certainly closer than 70ly (assuming a ship travelled out there, then turned back and reported Raxxla, then that news got to Tau Ceti for Art to journal about it in a very offhand way. I'm assuming the little colony of Tau Ceti wasn't launching interstellar exploration ships yet so the news would need to travel to Tau Ceti from earth, so 157/2)-12=66.5, rounding it up to 70 for ease.
+
+Given that 70ly away would mean 70 years, and assume a ship left at the same time as the Tau Ceti mission, that's very unlikely, so that to me suggests it would limit the range very considerably.
+
+The Tourist beacons do mention FTL probes, but we have no information on how fast they were or how long they travelled to reach Tau Ceti, so we need to assume that they also move at 1ly per year - hyperdrive is hyperdrive regardless of what it's pushing? If we assume unmanned probes are faster, which is very reasonable, then maybe we could expand the range a little given the news of Raxxla may then travel faster than the people discovering it, or it was discovered by probes - but again, we have no info on that so it's impossible to guess. Going by only what's in-game, we can assume a 70ly limit at maximum.
+
+What's next?
+We can assume that ships back then wouldn't have been sent randomly to every system within 70ly, especially since the Tau Ceti beacons tell us that probes were used to assess the viability of the system first. It was probably crazy expensive and so they would prioritise habitable (or profitable) star systems within that range and ignore the rest entirely.
+
+It's also a valid assumption to say that even probes may have been crazy expesnsive. Maybe they used telescope-based methods like we do to determine the likely composition of a star-system before assigning probes to the most likely. That would even further reduce the possiblity of an accidental discovery that would lead to some secret mission. Of course, it's possible Raxxla was discovered pre-hyperdrive - like maybe some astronomer studying nearby stars saw something that couldn't have been natural and so when Hyperdrive became possible a secret expedition went there to explore. We have no info on anything like that, so we can't include that here though.
+
+I suppose making a list of attractive systems less than 70ly of Sol and, starting with the nearest and working out, then check them for clues like POI's or beacons and the like. I assume that's been done and found nothing, so, other than that, I've no idea what any of this could possibly mean, other than Raxxla is closer to Sol than most people are looking.
+
+This set of assumption jenga obviously is flawed, but unless my maths is bad (which is usually is!) the general numbers are correct given in-game info.
+
+Other things? connection of the less obvious kind? Tinfoil?:
+The only other thing I could think of is the Martian Relic (Galnet). The Tourist beacon says it was discovered on Mars in 2280, that's only 16 years before Art Tornqvist's journal entry. Given the assumed 12 years travel time for news from Earth, that means Art was writing his entry within 4 years of maybe the first non-human artefact discovered, on Mars no-less!
+
+Galnet makes a firm link by association between the Martian Relic and Thargoids, we could question why Fdev did that if they're not actually linked. Obviously that's old Galnet though so may no longer be a valid source.
+
+I could make a case here that given the connections and timescale here, maybe Raxxla is linked to the Martian Relic and therefore the Thargoids, which means that Tau Ceti's Art Tornqvist journal entry might be simply another thing pointing to Tharogids. What if the Martian Relic was called Raxxla back then...
+
+Galnet (Martian relic of 2280): "Indeed, there is so little concrete information in the public sphere that some have questioned the Relic's very existence. But leaked Federal records confirm that the object, which was sequestered by the Federal government shortly after its discovery, is very real."
+Art Tvornquist 2284: "... Maybe we should go find Raxxla while we're at it!"... (date adjusted for 12year lightspeed delay)
+
+Maybe Raxxla is "R-XX-1a" A catalogue number for the Martian Relic, conspiracy theorists started calling it Raxxla because it's easier to say!
+
+EDIT: I have just discovered that most of this might be very wrong with regards the early FTL. Apparently the Tourist beacons also say this:
+"Taylor was elected civilian administrator in 2161 and immediately pushed for the colony to become fully independent from Earth. In response and at the behest of the mission's corporate backers, Earth sent a delegation to Tau Ceti 3 to scrutinise its practices. What they found was widespread active destruction of the planet's native ecosystem. The Authority for Ecological Control issued guidelines for habitat conservation and recommended a second mission be sent in twelve months to judge if any improvements had been made. When this arrived in 2163 and found the situation had grown worse, trade sanctions were recommended and imposed. "
+
+This heavily suggests that it's possible to travel between Earth and Tau Ceti in a year or less. I'm not sure really how that fits with the later info that suggested a 12-year travel time between Tau Ceti and Earth.
+Last edited: Nov 5, 2022
+Reactions:
+Rochester and Allen Stroud

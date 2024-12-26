@@ -1,0 +1,16 @@
+John Stoutbeard
+Jan 1, 2023
+#28,742
+I just need to write this down, at least for myself.
+
+Notes on 'un-discovered POI' mechanics
+I just jumped to "DG Canum Venaticorum", it was already fully mapped by my flight computer. Nothing new to scan.
+I did NOT see the "Iraxon Lane" INRA base as POI in my NAV while checking from 900LS. (As expected)
+However it shows as 'Human (1)' in the FSS even before I have done a surface scan. Unexpected.
+I had previously assumed I had to get close enough to do a Surface Scan (and generate the POIs by being close enough) before it would reveal any clues at all.
+
+This is good news I guess - we can discover things even if it's quite far away.
+I just need to make sure I was certain about the mechanics, how it would treat these kind of 'non-discovered POIs' for a pilot.
+Last edited: Jan 1, 2023
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

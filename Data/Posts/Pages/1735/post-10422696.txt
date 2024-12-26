@@ -1,0 +1,17 @@
+Ian Doncaster
+Aug 31, 2024
+#34,686
+simulacrae said:
+Nice - ya we do tend to stick to certain paths. I imagine there are quite a few still undiscovered above and below the main routes.
+Curious what your method is- im always assuming a scan wont show it so I try to find ways to identify a “dark” station by visual… which is frustrating to say the least.
+To be honest, not much more than a scan-and-map. I'm carrying a SAP 8 and two Trinkets just in case they're relevant, and having a quick look around visually in case something shows up on parallax, but I could easily miss something.
+
+My logic is roughly:
+- where a space object is very close to a planet, you need to map the planet before it shows on your navigation panel (there are a couple of examples in the Kinesi system)
+- these systems are largely far enough from Sol that they haven't had every little moon mapped yet (slightly over half of the candidate moons so far, because I'm definitely not the only person specifically checking 8th moons, but even then)
+- to be honest, given how obvious "8th moon of gas giant of red giant" is an interpretation of the Codex entry and yet there's no sign of anyone having systematically tried it before, I'm not ruling out "this was supposed to be the easy bit" and "map the right moon" is all the protection it needs versus someone who isn't actually looking
+- or, given that they were added in the same release as the Codex and the picture looks unusually dimmed, maybe there's a NSP near the moon and it's inside that.
+
+That's enough to get to "there is a plausible reason this could be the answer and yet not found by anyone else" to be worth trying, for me.
+Reactions:
+simulacrae

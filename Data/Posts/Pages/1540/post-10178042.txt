@@ -1,0 +1,20 @@
+Rochester
+Jul 10, 2023
+#30,799
+OK so here we go. Below I have calculated the midpoint between Tartarus and Persephone. And the distance between these points, them being a ‘hypothetical’ one flat line of a standard hexagon.
+
+Persephone: 31.59, -104.53, 8.06
+Tartarus: 65.03, -113.84, -19.06
+Distance: 44.05
+Midpoint: 48.31 , -109.185 , -5.49
+
+Calculate distance between both flats across the hexagon.
+1.732 x 44.05 = 76.2946
+
+Calculating the midpoint of this distance is equal to the centre of the hexagon.
+76.2946/2 = 38.1473.
+
+So theoretically the centre of the hexagon ought to be 38.1473 away from the position 48.31 , -109.185 , -5.49?
+Last edited: Jul 10, 2023
+Reactions:
+simulacrae

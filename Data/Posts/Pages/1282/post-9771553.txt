@@ -1,0 +1,34 @@
+Adel
+A
+Mar 12, 2022
+#25,629
+Jorki Rasalas said:
+OK
+so how do I see/detect these comets?
+Ive just arrived in Shinrarta, honked & FSSd, and they are not showing in my journal file!!
+
+
+Mmm, I see from the journal file all the Tourist Beacon title spellings of Pilots Federation have been corrected. Was it all too obvious???
+Might visit them to check spelling in the contents. There's got to be some clue in SD!
+I think i found something in ShinDez BUT i don't want to put too much hope on people.
+It's a strange thing: i posted ShinDez system bodyIDs some weeks ago, pointed that there were 12 comets in the system but as i only was looking for bodies, i didn't pay much attention to ... stations!
+
+SPOILER: LOOK AT THAT (SHINRARTA DEZHRA)
+
+SPOILER: NOW LOOK AT JAMESON MEMORIAL STATION
+
+Do you see what is missing? (look at BodyIDs)
+
+SPOILER: SPOILER
+
+So i think now, as some people, that there is indeed something in Shinrarta Dezhra, and it should be located between the Star A and Founders World!
+The problem is that targeting ID68 just crashed the game, ID69 (Jameson Memorial too but we can Supercruise Exit to it).
+
+I looked for Sol too but there is no gap between BodyIDs, so either there is no hidden station in Sol or it should be after Titan City (BodyID:55)
+
+BodyID68 is:
+a comet (but cannot reach it as it crashed the game)
+a body, but the nav beacon should see it unless it appears at specific time so you have then to scan the beacon to go to it.
+a station between ShinDez A and Founders World (not a surface station)
+Reactions:
+Jorki Rasalas, Rochester, John Stoutbeard and 1 other person

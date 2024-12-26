@@ -1,0 +1,4 @@
+Count dEstard
+Jul 9, 2019
+#9,497
+So I‘m trying to reproduce the effect azoreanoutkast reported with that crash site. Unfortunately it doesn't show on DSS so I have to land at the coordinates which I am as proficient in as my Klaxxian is fluent.

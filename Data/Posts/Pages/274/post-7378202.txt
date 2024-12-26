@@ -1,0 +1,23 @@
+Comandante
+Jan 25, 2019
+#5,461
+publicstaticvoid said:
+The figure enters the bar after 3 years of exploration, handing you a list of steps
+
+Gain Elite Status
+Land on Shinrarta Dezhra A 1
+Take multiple photographs fixated on various stars in the night sky (Be sure to record your planetary coordinates and timestamp each screenshot.)
+Come back to the same spots in 5 days time.
+Photograph the same stars again at the same locations.
+Stack the Photos you've taken and look for moving objects.
+
+Click to expand...
+
+I am mathematically-averse and highly deficient in trigonometry (had to look up how to spell it lol), BUT...
+
+Isn't it the case to be able to do that, the rotation of the planet must always be facing the same location such that you always get the same view? Otherwise the view will change. Plus it also depends on which side of the planet you're on, right?
+
+I just had a look and the system data says A1 is tidally locked - which must mean it's NOT facing the same direction (in relation to the stars, not the central star), right?
+
+Astronomy buffs, mathematical genii, help me out here!
+Last edited: Jan 25, 2019

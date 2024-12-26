@@ -1,0 +1,9 @@
+Jorki Rasalas
+Apr 19, 2022
+#26,053
+LumpTheNoLeggedDog said:
+Hexagonal shape of south and north poles on gas giants are something to be expected. These shapes are created because of strong storms that are present and no land mass, there are no natural obstacle like mountains to disturb their path and for that reason a hexagon or symmetric circular shape is created. Size, shape and color will be effected by gases that are present on given planet and pressure under which these storms are created.
+Yes, the question is why didnt FD implement that hexagonal storm when they were drawing up or updating the hand-crafted Sol system?
+
+Apparently a series of smaller storms interact with the larger system, squeeze the jet stream and confine it to the top of the planet & that squeezing process warps the jet stream into a hexagon. It was first discovered on Saturn in 1981. One was found by Juno on Jupiter’s South pole in November 2019. Cant now remember if Saturn’s is implemented in-game? Don’t think it was originally implemented. But the Jupiter find was too late.
+Last edited: Apr 19, 2022

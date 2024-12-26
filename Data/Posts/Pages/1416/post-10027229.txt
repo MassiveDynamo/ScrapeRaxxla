@@ -1,0 +1,6 @@
+Sunyavadin
+Dec 8, 2022
+#28,318
+I wonder if it's pulling the destination planet from the system map of the destination and preloading that as some kind of placeholder that's meant to billboard on arrival to hide it popping in?
+Reactions:
+Louis Calvert

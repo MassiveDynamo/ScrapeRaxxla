@@ -1,0 +1,19 @@
+RaNaketh
+Jan 24, 2020
+#14,782
+I've been delving into some of the historical videos available from the official Elite Dangerous YouTube channel to see if there are any tip-bits in chats/releases/updates that might help us out a bit.
+
+During this video:
+Join the Elite - Everything You Need to Know About Exploration
+Source: https://youtu.be/Gaoem7l1Qwg?t=1587
+
+
+Michael Brooks makes an interesting point about SagA* (time ~26:30m ) being a special case, which I don't have context for, so I'm reaching out for collective ideas since I don't quite get if the reference. Is he referring that SagA* is actually different for known scientific reasons, or is it a special case because FDEV have decided to make it so?
+
+He also mentions that another system was renamed, but deliberately they both choose not to reveal the original name (time ~36:30m).
+
+Thoughts on these comments?
+/Ra.
+Last edited: Jan 24, 2020
+Reactions:
+Machina Ergo Sum, Hanerib and [PS4] Filthymick420

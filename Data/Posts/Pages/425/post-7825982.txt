@@ -1,0 +1,13 @@
+Han_Zen
+May 31, 2019
+#8,493
+AOpsyche said:
+I like what you're thinking about here, although i doubt the game systems would need actual holes in system boundaries to make rogue plantes work. In fact, if we assume that a rogue planet moves on some trajectory (parabolic or otherwise) through the galaxy, it actually would be EXTREMELY unlikely to ever enter any systems, unless specifically programmed to. In this case, it would HAVE to be a one time occurence. If the planet entered a system more than once, it would have to be in some sort of regular orbit, no longer considered rogue.
+
+A rogue planet would not move very fast. Even one ejected by a dramatic event would travel at only a small fraction of the speed of light.
+If there are any in ED, they are probably in the same system as they were on release.
+
+In ED all systems are infinitly big. A rogue planet is either part of a regular system or it is it’s own system.
+Switching it from one system to another could be done on server ticks, bu it would bee extreemly rare.
+Reactions:
+Midian Cabal, AOpsyche and Thatchinho

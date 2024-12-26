@@ -1,0 +1,8 @@
+Crimson Echo
+Jul 5, 2018
+#2,889
+https://imgur.com/a/NsnhSHD
+
+From the Log it looks like it was an npc. I tried to catch the wake, but it disapeared just before i could get to it.
+
+{ "timestamp":"2018-07-03T19:04:14Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rob Holdstock;", "From_Localised":"Rob Holdstock", "Message":"$Propagandist_Patrol05;", "Message_Localised":"Get combat bonds today, fight for the winning side!", "Channel":"npc" }

@@ -1,0 +1,31 @@
+yelboc
+Jul 1, 2022
+#26,416
+Nezzie Muso said:
+from memory, no ,. more like the outline of it. it was a nav panel icon, so thin lines. like the "unknown signal" square, but a hexagon instead.... so actually - like the middle of that icon. like an engineer symbol but flat side down rather than point down. of course, my memory could be wrong. i couldn't see the symbol in the hud list in the beginners guide at the time; and then later when i saw the raxxla symbol (which you've posted) it immediately reminded me of the unknown icon i'd seen when exploring
+Let me introduce you to EDDiscovery (there are other tools like this, but this is the one I've used for years)
+
+Home
+Captains log and 3d star map for Elite Dangerous. Contribute to EDDiscovery/EDDiscovery development by creating an account on GitHub.
+github.com
+
+This is a 3rd party tool - it can scan your player journal files and will show you past history on its 3d map. You will need to tell it to synchronise all player journals, but its fairly easy to use.
+
+Also if you leave it running whilst the game is going it will auto upload your path to EDDB which is a long standing player database that has all player submitted systems. This is what is used by most of the other 3rd party tools like the very useful ones at spansh:
+
+Elite: Dangerous Index
+spansh.co.uk
+
+Ans also the very handy EDSM (which is lately plagued by intrusive ads, but hey thats life in the 2020s)
+
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+All of these are essential tools for a wannabe Raxxla hunter.
+
+All the above assumes you havent switched PCs and that you are not a console player. Your visited star cache is stored on your machine, so if you move pcs then they are forgotten. Likewise for the journal files which are also locally stored.
+
+Good luck retracing your steps, and hopefully you will have the tools in place for future exploits
+Reactions:
+simulacrae

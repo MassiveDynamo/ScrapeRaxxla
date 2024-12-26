@@ -1,0 +1,20 @@
+Jorki Rasalas
+Jul 12, 2023
+#30,831
+Shadowsnog said:
+thats connectivity issue afaik...
+But disappearance of the game menu from the Escape key at the same tIme seems to suggest a game bug, & not connectivity issue which is pretty good normally for me (125Mbps ethernet). Connectivity problems normally come up as Beige Cobra or similar weird codename. Since I was playing in Solo and just trying to start up fsd for in-system travel shouldn't have required any comms...the system would already be loaded in my PC.
+
+I’m remembering DB’s chortle when he said “that’s a strange one, is Raxxla in-game? of course! but you dont know what it is”...I wouldn't put it past him to implement Raxxla as a joke bug!
+
+I’m also remembering the BSOD when we first encountered the FRift bases which didnt load as they should have.
+
+I’ll retry, still in the same system, probably after lunch. Copawlot is eyeing my ankles hungrily.
+
+I dont seriously think this was it. Looking at the dots of the logo I suspect it’s hidden 556656 ls out in deep space!
+
+Edit
+The system was Persephone. The bug didnt happen again.
+Last edited: Jul 12, 2023
+Reactions:
+Macros Black and Rochester

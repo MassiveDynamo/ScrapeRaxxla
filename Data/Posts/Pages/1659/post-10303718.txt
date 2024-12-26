@@ -1,0 +1,24 @@
+D7
+D
+Jan 26, 2024
+#33,171
+CMDRCorrMorningstarFelian said:
+Original text:
+
+
+Independent Raxxla Hunters decoded it as...(Thanks to @El Saico).
+
+This is a monoalphabetic cipher, the substitution alphabet starts with "jpl". Here's the plaintext:
+
+
+Then we let Google Translate work some magic...
+
+
+Any thoughts as to is this FDev saying we found something important. It seems like a lot of trouble to have to gone through otherwise.
+
+The Ilion reference seems oddly specific:
+Click to expand...
+llion is an ancient city in Epirus Greece. Interestingly, Epirus is an earth-like planet in a system in the game. The earth-like planet has a landable moon. I have taken a look at the moon , but I didn't find anything related to Raxxla or the Dark Wheel that jumped out at me.
+Last edited: Jan 26, 2024
+Reactions:
+CMDRCorrMorningstarFelian and Quaero

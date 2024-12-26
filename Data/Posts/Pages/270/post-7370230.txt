@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jan 23, 2019
+#5,394
+Thatchinho said:
+They don’t show up on the NavPanel or HUD prior to mapping the planet, but it should have done after. Just to double check, did you fully map the planet (as opposed to just probing the relevant area)? And did you try switching from Analysis HUD Mode to Combat HUD Mode after mapping the planet?
+
+I definitely did a full map with the probes ‘cos that’s the first time I used them. Fairly sure I switched to Combat mode fater the scan to check for any signals. That’s when I was surprised the base didn’t show up. I had the coordinates from Canonn page so homed in then it showed up.
+
+As I say, may be a bug. But worth testing if there are other bases that someone hasn’t visited before. It would be a real pain if this mechanism isn‘t actually doing its job, we’re relying on it for DW2, and Raxxla Questing....
+
+p.s. thought I might see some of the old FRifters on DW2, surprised you’re not involved, but I think the only other is Spock. What’s everyone up to nowadays?
+one of the reasons I signed up for DW2, apart from having missed the first one & never having done an organised expedition before, was because I suspect FD might release some new storyline out in the black. I took weapons because I’m half-expecting to encounter AI (rogue human or Guardian) or something else of significance. Though I may be wrong
+Last edited: Jan 23, 2019

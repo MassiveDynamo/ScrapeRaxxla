@@ -1,0 +1,13 @@
+[Diplomacy] Carnegie
+Jul 11, 2018
+#2,968
+Noobilite said:
+I was going through the raxxla systems in edsm and found a few oddities:
+
+Ooscs Bra XX-L a7-1 <- Non dwarf star! Also has an asteroid belt around the star. Someone should mine it for s and giggles. (And if player bases every become a thing this should be the new headquarters for raxxla hunters.)
+Ooscs Bra XX-L a117-0 <- Gas Planet!
+Dryu Bra XX-L a35-0 <- Gas Planet!
+
+I think someone mentioned these, but it's kind of interesting. Shouldn't the sun at minimum be a dwarf star like the rest because of the generated name?
+
+The letter part of ProcGen names isn't directly dependent on the star TYPE. It's something else, probably mass. So a star with an 'a' name is light, but there are some M class stars that are light enough to get that name. Equally, some brown dwarf stars are heavy enough to fall into the 'b' name category. It happens all over the galaxy, but most people don't notice because they're filtering in KGBFOAM and not paying attention to the name.

@@ -1,0 +1,24 @@
+Dartay
+D
+Apr 4, 2019
+#7,236
+Thatchinho said:
+No probs. And yeah it's quite similar, but 5 would have to move. And because it's in the middle layer it can't do tat independently.
+
+Basically what happens is you try to adjust your location so that this happens:
+
+View attachment 126734
+
+
+But because of the relative locations of the stars, if you try to do that, what actually results is this:
+
+
+
+Oh, and looking at the main image again, there's actually another important point - the 3 - 2 line in the image is approximately parallel to the galactic plane. In the Crux it's roughly perpendicular to the galactic plane. So via that just on it's own, I think we can definitely say it's not the Crux in the main image.
+Click to expand...
+
+Looking at the main image (overlaying the numbered representation), it seems that 5 is still slightly above (to the right of) 2 - 3. Maybe the slight difference could be explained by small discrepancies in the stellar forge?
+
+Your final point seems quite conclusive.
+
+But, if there is a small chance that the main image in fact does contain a representation of Crux, could we take this as an indication that the title screen background does not represent an in-game location? I.e.: Fdev plastered some random constellations in the background to make it look nice, as opposed to using their engine to generate an astronomically correct background?

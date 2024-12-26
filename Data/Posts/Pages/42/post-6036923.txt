@@ -1,0 +1,93 @@
+madbilly
+M
+Oct 15, 2017
+#836
+Thatchinho said:
+Can we narrow down an area of space for where Cirag should be?
+
+Update (see edits below for working).
+
+As a first rough estimate, Cirag should be within say 25-30 ly of Crucis Sector DL-Y d163.
+
+I doubt there's anything to actually find though.
+
+
+
+Edit - 19 ly from Xezoar. Which also isn't in game...
+Edit 2 - No systems within a 4 ly radius of Cirag
+
+Edit 3 - Location of Xezoar in Elite:
+
+Xezaor (146,112), {36,62,110,145,150,200,230,237} within 7.0 LY. Radius 3474 km.
+Multi-Government, Rich Ind. Pop. 4.3 B, Prod. 20640 MCr. HC: 8, TL: 11, Human Colonials.
+The world Xezaor is most well known for its hoopy casinos.
+
+Lave (20,173), {39,46,55,129,147,255} within 7.0 LY. Radius 4116 km.
+Dictatorship, Rich Agri. Pop. 2.5 B, Prod. 7000 MCr. HC: 6, TL: 5, Human Colonials.
+Lave is most famous for its vast rain forests and the Laveian tree grub.
+
+Reorte (19,151), {7,27,72,147,155,165,192,193} within 7.0 LY. Radius 6419 km.
+Dictatorship, Poor Agri. Pop. 3.1 B, Prod. 5208 MCr. HC: 8, TL: 6, Black Fat Felines.
+This planet is mildly fabled for its inhabitants' eccentric love for tourists but plagued by deadly earthquakes.
+
+Riedquat (3,181), {7,55,147,155,255} within 7.0 LY. Radius 6403 km.
+Anarchy, Poor Agri. Pop. 2.0 B, Prod. 1920 MCr. HC: 5, TL: 4, Harmless Rodents.
+This planet is most notable for its fabulous cuisine but beset by occasional civil war.
+
+
+Calculating....
+
+Edit 4 - none of the systems within 7y of Xezoar are in EDSM.
+
+Interpolating co-ordinates...
+
+
+Edit 5 - Ok, interpolating co-ordinates isn't going to work completely as there's changes in relative position between Elite and ED.
+
+However, first try gives:
+
+
+Xezoar co-ordinates: 101.51, 48.75, 81.81
+
+Nearest known system is: Crucis Sector DL-Y d163
+
+
+This is calculated from the positions of Lave and Reorte, but it's definitely not going to be completely right as I've used Riedquat as a test:
+
+Predicted Riedquat co-ordinates: 72.28, 48.75, 69.30
+Actual Riedquat co-ordinates: 68.84, 48.75 69.75
+Good thinking. I did once try to list all Elite systems that are also in ED. I didn't complete the effort, mainly because there are over 2000 to check! It's a small % though, however some are from galaxies other than galaxy 1 which is interesting.
+
+clavain said:
+BTW, who is the designated Children of Raxxla mole on the thread? Anyone?
+I actually thought that all of you rifters were also CoR. However on reflexion that would be a contradictory mix of thinking out loud and total secrecy!
+clavain said:
+OK, so here is the full scoop on the possible rogue planets from the Wikipedia link posted earlier.
+
+tl;dr
+the only two that seem to be in-game from that list are WISE 0855-0714 (discussed above) and UGPS 0722-05 (which has no system info available as I have not visited it, yet.) It is possible that some of the others are on the Galmap under an abbreviated identifier format, but I tried as many as I could, and some do not even appear in Simbad as far as I can tell, although someone with more Simbad-fu than I may want to confirm those ones.
+
+Here is the long version of my search results for anyone who might want to follow up on them:
+
+"NOT FOUND" below means not found under any of its Simbad identifiers on the Galmap, including some speculative shorter formats I tried out based on existing survey identifiers in Galmap (i.e. SDSS J1110+0116 for SDSS J111010.01+011613.1)
+
+
+OTS 44 - NOT FOUND
+S ORI 52 - NOT FOUND (cannot actually find S ORI 52 in Simbad at all, only other identifier found online was S Ori J0540092-022632 which also is not in Simbad or on the Galmap. S Ori cluster does not appear to be in their database and may be being cataloged as [BZR2011] not S Ori)
+Cha J110913-773444 - NOT FOUND
+UGPS J072227.51-054031.2 - UGPS 0722-05 on Galmap. System information not available.
+[MPK2010b] 4450 - NOT FOUND
+CFBDSIR 2149-0403 - NOT FOUND (in Simbad under full designation CFBDSIR J214947.2-040308.9)
+MOA-2011-BLG-262 - NOT FOUND (in Simbad as MOA 2011-BLG-262, without the first hyphen)
+PSO J318.5-22 - NOT FOUND (not found in Simbad also: PSO is a survey identifier in Simbad but no database entries for it yet apparently)
+2MASS J2208+2921 - NOT FOUND (not found in Simbad also, should have longer formal designation)
+WISE J1741-4642 - NOT FOUND (not found in Simbad also, should have longer formal designation)
+WISE 0855−0714 - on Galmap as that designation, but dwarf system with three planets (not a rogue planet)
+2MASS J12074836–3900043 - NOT FOUND
+SIMP J2154–1055 - NOT FOUND (not found in Simbad either, even under formal designation SIMP J21543454-1055308)
+SDSS J111010.01+011613.1 - NOT FOUND
+2MASS J1119–1137 - NOT FOUND (in Simbad as TWA 42)
+WISEA 1147 - NOT FOUND (in Simbad as 2MASS J11472421-2040204 )
+
+Edit: I'm off to UGPS 0722-05 to check it out.
+Great check. I checked this myself a while ago because of the "Rogue Planet" exotic star type in the player journal API. Shame they're not actually called Rogue Planets but instead brown dwarfs. Makes one wonder what systems are classed as Rogue Planets (AFAIK nobody's found one yet).

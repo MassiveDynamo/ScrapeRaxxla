@@ -1,0 +1,22 @@
+Jorki Rasalas
+Mar 6, 2022
+#25,552
+Adel said:
+Yes the 64bit ID is the number in "SystemAdress".
+To go to Halley's comet:
+Go to SOL (else it won't work)
+Open Galmap and enter in search bar "Wregoe AC-D d12-22020096" without quotes.
+If it is far, use scanner to target it (concentrated signal sources, at right of unidentified signal sources frequencies)
+IF you have a spuercruise assist, you can go in without having to do a loop of shame.
+
+For Pareco, I'll post after finishing the listing of comets in the system Medusa (28 comets for the moment, heading to the 29th...)
+Click to expand...
+Mmm, thanks but I’m no programmer!
+What I dont understand is how to go from the body you’re trying to select, in this case “Halley’s Comet” , to “Wregoe AC-D d12-22020096”, and how you calculate this string for any other body of interest.
+Why can’t you just type into the search bar “Halley’s Comet” or the body ID (10477373803 for Sol+21 for Halley’s Comet=10477373824, https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9726705).
+Apparently you can enter ”Halley’s Comet”, but I don’t know if it is then targeted if you enter the system https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9590496).
+
+Mind I’ve not yet tried any of this ingame!
+
+Edit: mmm, looking at http://disc.thargoid.space/ID64, the bodyID is the most significant 9 bits of the ID64, not the least significant as I’d assumed.
+Last edited: Mar 6, 2022

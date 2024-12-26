@@ -1,0 +1,15 @@
+alexzk
+A
+Oct 9, 2020
+#19,236
+Updated this plugin in last 2 days:
+https://github.com/alexzk1/EDMC_EDSMStatus
+
+What it do, when you select system on map it talks (plays mp3 there) if your current selection is known for EDSM. Also it is shown in "Jump to".
+Today I added automatic distancing. If you click 2 stars on galaxy map and both are known to edsm it will calculate distance and show there.
+So cool tool to measure of farmost sides.
+
+When I say "click" I mean "select as jump target".
+
+Also on Linux you can regulate volume in settings. Did not implement on win/mac as I don't have them.
+Last edited: Oct 9, 2020

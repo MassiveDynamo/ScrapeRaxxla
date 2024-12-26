@@ -1,0 +1,10 @@
+simulacrae
+May 4, 2023
+#30,278
+Grens404 said:
+I'm really having a difficult time finding a program that will translate my CSV file of systems with their (x,y,z) coordinates into a 3d space. This would allow me to look at the relation between the systems, especially by proximity. Does anyone know of such a program?
+
+Im using an older version of sketchup with an xyz input extension… but i imagine there are many 3d softwares out there that can do it.
+And yes i have to format it differently for input (i put mine in z/x/y to get it right) - always good to ground truth your data after you input. See if things aligning right.
+Reactions:
+CMDRCorrMorningstarFelian

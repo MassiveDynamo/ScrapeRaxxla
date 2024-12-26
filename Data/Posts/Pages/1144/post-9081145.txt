@@ -1,0 +1,26 @@
+Han_Zen
+Apr 11, 2021
+#22,865
+Vetinari said:
+Update: Asteroid Belts & FSS & Close Range (1,000 LS)
+
+Its been confirmed by 2 people now at least that the POI for the Megaship did not show up on the FSS even when they zoomed in on that specific Asteroid Belt. p50 of the Adamastor / Hesperus thread I posted above. Also didnt show within 1,000 LS like the old hidden objects, actually had to drop out of SC at the specific Belt to see it.
+
+So things can be hidden in Belts that dont show on FSS, at least Megaship sized anyway, and its engine was active so not 'turned off' or silent.
+
+Its doubtful imo (or is that hopeful) that Raxxla could be hidden in a Belt but now certainly not impossible now depending on what it is. But it is entirely possible that a low power station could be hidden there and if the Codex is believed then thats what the DW station is. So it seems that there may be more to the Belts than previously thought and things are certainly hidden there not visible from FSS or SC at all. Don't know the 'maximum' size of an object that can be hidden, may depend on the size and number of asteroids in the belt, but at least Megaship sized and in principle they could hide anything there and not make it appear.
+
+At least we know now for sure one way or the other. The FSS is not 'infinite' as MB said and I understood it, it does not resolve everything, just 99.99%....and that 0.01% is possibly where the DW Station and Raxxla are. Still not certain but almost certainly adds credence to it as a good hiding place not to appear on scanners.
+
+There may be other stuff out there as well in the Belts, but to reiterate, you need to physically go to the Belt and drop out of SC at each one to have a chance of finding them if they are there, there is no other way for the scanners to pick it up.
+
+gl
+Click to expand...
+The FSS does not resolve ‘cold’ objects, smaller than 135 km radius.
+Objects in a cluster are the exception. Perhaps the hole count as one?
+
+Our ships are a good example. Unless we turn on a beacon, they are ‘cold’enough to go undetected, in normal space.
+
+The FSS can see big things and things with considerable emission. That’s it.
+Reactions:
+TrillClinton, Crimson Echo, Jorki Rasalas and 2 others

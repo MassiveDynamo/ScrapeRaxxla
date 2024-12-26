@@ -1,0 +1,13 @@
+Jorki Rasalas
+May 20, 2020
+#16,524
+Merlin StWahgwaan said:
+so, im wondering if anyone is any good at, or knows a place I can, triangulate a star system based on 3 other systems.
+
+So for example, I have 3 known points in space, they make a near perfect equalateral triangle in space, but a rather large one, on an angle, not just on the galactic plane. I want to figure out exactly which system is as close to dead center from all 3 points as possible.
+
+Ive had a therory for several days but have not been able to come up with a system or group of systems to check because im having difficulty finding a center point....
+
+This has cropped up before. The trouble is that there are several “centres” for a triangle. Quick google just brought up centroid, orthocentre, circumcentre; for some triangles these may be coincident, others not. There are some online calculators, but I used centroid in my searching around Heart &Soul for Raxxla based on TDW toast, as I think its the simplest way. Get the XYZ coordinates of your star locations (e.g. from EDSM), then I think you just add the X coordinates & divide by 3, then same for Y & Z, to give an XYZ coordinate triple which you can search for visually on the galmap, though EDDiscovery has a route planner that gives you the nearest star to a set of coordinates you type in. Seem to remember thats what I used.
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and Han_Zen

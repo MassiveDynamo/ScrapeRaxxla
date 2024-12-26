@@ -1,0 +1,22 @@
+Louis Calvert
+Dec 24, 2023
+#32,742
+selbie said:
+Thank you for this! Yes currently I am only using the flac audio file from Canonn's page. If you can share some small 1-2 minute clips of those variants that would be great I plan to get back into the game at some stage to explore more of these interesting clues. First I need to get my theory structured to make any sense.
+I can see differences in the low frequency imaging (the red/white band) as well, indicating that it likely also forms part of the Signal.
+
+To clarify the 'heartbeat' is only in the low frequency range. There are many layered aspects to this audio (likely deliberate to obfuscate something) - so hopefully this might help others dissect the different features for their own independent analysis. In this diagram pay close attention to the Hz ranges.
+
+View attachment 379145
+I have attached the sub-200Hz audio that I separated out from the Canonn audio file and applied noise filtering to.
+This audio is sped up by 3.5x (which increases the freq to around 600Hz).
+
+The real test will be to see if this is unique to the LS or if it is just a repeating sample used by the audio designer. I'm leaning towards unlikely to be a repeating sample, because all the other aspects of the audio are unique and well blended across the entire audio clip.
+Click to expand...
+Here you go. This link is my latest recordings. It's quite big, almost 4gb. There's a text file in there to explain what each track on the audacity file is and where it was recorded.
+
+From what I've seen so far it's pretty typical of the general span of recordings, I'm still trying to get a 'top quality' recording, but maybe that's not possible, who knows.
+
+Have fun
+Reactions:
+selbie, Rochester, Edelgard von Rhein and 1 other person

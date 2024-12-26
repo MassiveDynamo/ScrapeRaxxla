@@ -1,0 +1,12 @@
+Jorki Rasalas
+Jul 3, 2024
+#34,416
+Macros Black said:
+OT Serpentis was a bust for me. Searched the belt clusters, little activity with miners/pirates nothing major. System has lots of degraded emissions threat 0 only.
+
+Sending Silent Sphere Song to Dahan...
+Yes, I've spent a week or so investigating both systems...but OT Serpentis ABC1 A ring has 33,863km - 46,455km radii, so mean is 40,159km, so mean circumference is 252,326km. At a speed of 400m/sec in normal space it would require 630,815 seconds (i.e. 175.22 hours) to fly round. Honking occurs every 16 seconds, during which time at that speed you've travelled 6.4 Km. I don't believe the range of the scanner is "infinite" for Raxxla, I think it will be very close; how close do we think we have to be to detect it? And then you have to shift over your track by the width of that detection distance and travel around the ring again....& repeat as required to cover the whole belt. And what if Raxxla has an RNG function built into it's detectability? Maybe it needs N honks to show up, where N could be totally arbitrary.
+
+Basically I think I've found the system it's in (either OT Serpentis or Dahan), but I think actually finding it will be pure fluke...UNLESS we can get more information from the garden designs and/or logo!
+Reactions:
+Rochester

@@ -1,0 +1,14 @@
+Vektorboson
+V
+Jan 30, 2021
+#20,814
+Mrrshal said:
+The problem with axis and teleportation on map might be related?. Would explain it for me
+
+Difficult to say, it might be if they both are using the same math functions.
+
+A few days ago I found a possibly related problem when in the FSS. Sometimes it's not possible to zoom in on a star/planet while in the FSS-screen. When you zoom in, the camera immediately turns away and you can't get your cursor on the system body. It is very dependent on your orientation/position/distance to the system body in question. To me it looks like it might be a "gimbal lock"-problem, see the Wikipedia-page: https://en.wikipedia.org/wiki/Gimbal_lock
+
+If they (FDEV) do have a gimbal lock problem in their 3D-math then some of these problems can be explained by it.
+Reactions:
+Fiera, Mrrshal and [PS4] Filthymick420

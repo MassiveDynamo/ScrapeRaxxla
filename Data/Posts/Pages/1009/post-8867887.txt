@@ -1,0 +1,24 @@
+CMDR Temunjin Boras
+Dec 22, 2020
+#20,164
+The Golden Knight said:
+I'm sure someone thought of this already, but what if...
+
+Raxxla is some kind of cosmic coordinates? What does "RA" translate to in space GPS? What does "XX"? And "LA?" More like, longitude, latitude, and vertical. Not sure if that's how it works, but I presume X axis is "RA", Y axis is "XX", and Z axis is "LA".
+
+And also, what if The REAL Dark Wheel is not a space station, but a burnt-out Generation Ship? This thing certainly has the darkness and the rotation of a Dark Wheel. No, I did NOT find their literal headquarters, just THE Generation Ship Artemis made me think...
+I'm a fan of this lead. It's one of those hiding in plain sight kind of clues. I tried to follow this over the summer and didn't get anything but it's still interesting.
+
+To get GPS style coordinates in space there's right ascension and declination. I thought this article was super helpful for learning how this worked. It's also really neat to learn real life astronomy!
+Right Ascension & Declination: Celestial Coordinates for Beginners
+Once you understand right ascension and declination — celestial coordinates akin to latitude and longitude — you can find your way on the sky.
+skyandtelescope.org
+
+For converting Raxxla to coordinates, there's RA for Right Ascension which is used for mapping actual stars. That uses hours, minutes, and seconds as the hour angle so RA 10h 10m 50s would be a possible angle. Then it needs the declination to be an actual point in space. Reusing the +10 10 50 or -10 10 50 could work there. The A part at the end would denote the first star in the system.
+
+Searching on SIMBAD for likely candidates helps. It allows for setting the ICRS (International Celestial Reference System, alternative to J200) epoch to 3300. That offsets for Earth's precession. Here's the coordinate search page:
+SIMBAD: Query by coordinates
+
+I didn't see any good matches for 3300 or the current time (J2000). It also needs to be a point in the bubble or really close to it so that probably won't line up with those coordinates.
+Reactions:
+Exekrator and dysonl

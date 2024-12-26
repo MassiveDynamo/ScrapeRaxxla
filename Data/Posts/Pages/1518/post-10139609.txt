@@ -1,0 +1,13 @@
+Emperor
+May 9, 2023
+#30,351
+Elite Dangerous Update 15 Release Notes - Elite Dangerous
+Greetings Commanders. Update 15 is upon us and we're excited to share the full update notes for you here today. The Elite Dangerous 'Live' serve...
+www.elitedangerous.com
+
+Ancient active Guardian Obelisks will no longer display a randomly moving pattern which caused difficulties with decrypting the correct items for Ram“red herring”Tah's mission.
+Ticket reference: ID 52006
+
+Guess that sorts that mystery...
+Reactions:
+KrabMister, Rochester and CMDRCorrMorningstarFelian

@@ -1,0 +1,6 @@
+yelboc
+May 29, 2019
+#8,338
+Free rock, not revolving around a star - surely an impossibility (in the music world ). Trouble is there is no game mechanic to jump to such a place - we can only jump to stars, so the only way to get to one is if it is loaded into the current system upon entry to the nearest star. However it should then appear in FSS, no matter how far from the star as far as we know.
+
+So you'd need to know exactly where it should be if its moving fast.

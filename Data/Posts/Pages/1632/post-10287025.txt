@@ -1,0 +1,10 @@
+Louis Calvert
+Dec 19, 2023
+#32,633
+How about this:
+Complete List of (real) Nebulae and Galaxies in Elite
+This is a growing list of all the REAL (i.e. not procedural) nebulae and galaxies found in game. We have found 141 nebulae and 32 external galaxies as of writing. The first table is the list of all nebulae visible in the sky from the bubble, with several sky charts (taken from Sol) indicating where they are. In the second table, the galaxies are listed, with links to real images, followed by sky charts of their locations in the sky taken from the game. The third table contains all other reachable nebulae, and the last table contains the unreachable ones. At the end is a list of some real Nebulae that are notably not in game. Distances are given, as well as if there is a central star to jump to for the smaller planetary nebulae. Every nebula has a real image and an in-game screen shot as well.
+
+Several of these have a central star listed. Maybe this can help find a particularly bright nebula?
+Reactions:
+Adel

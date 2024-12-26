@@ -1,0 +1,10 @@
+Jorki Rasalas
+Aug 6, 2019
+#10,295
+FrozenLaughs said:
+Yeah, I know. I meant to say that I orbited and never saw anything as well, it's late and that sentence somehow just fell off. It's a really small moon, just one of my probes mapped it completely.
+
+I suppose a station with a really huge Orbit might have been overlooked, would it not have an Orbit line either? I honestly expected a moon with rings, and an asteroid base to be the most logical location if this rumor is indeed true.
+
+No, TDW station is an old wheeled station (Coriolis? Presumably smaller than current ones from what I remember of the Wiki); can’t be an asteroid according to the Codex entry. If it’s small then it should orbit closer to the moon than normal stations would. Must check out some orbital distances... except both Tyko & Jorki are way away from the bubble. Can someone check this out for a few cases-we need station orbit height, station type/name, & mass of planet/moon. Don‘t think we are told station mass, but a few cases should drop that out of the equation.
+Last edited: Aug 6, 2019

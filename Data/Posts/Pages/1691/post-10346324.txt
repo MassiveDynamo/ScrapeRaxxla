@@ -1,0 +1,28 @@
+Han_Zen
+Apr 8, 2024
+#33,818
+Rochester said:
+Yup how true.
+
+The compass points for North / South I initially thought were just applicable to ‘up and down’ it’s just so odd that these do correlate with the positions of ‘higher gods and lower gods’ aspects building an upper area and a lower area…
+
+But you’re correct, in my only recent reading I now acknowledge that all the compass points ought to align on a 2D plain, from the view point of ‘god’ looking down.
+
+This is why it’s integral to sense check this data. Is it correct; how can we make sure it’s accurate; did the devs do this intentionally; is this broken?
+
+Remember that FD turned off the original PF/DW missions…
+
+Remember there are lots of errors in star positions and various bugs in game.. what is intentional by design, what is simply wrong by accident?!
+
+It’s still very peculiar…why; or am I simply looking for affirmation in game where there isn’t any?
+
+Irrespective the one thing I dislike about this puzzle is the glaring hole in the process; but that is our primary problem, we are dealing with an allegorical puzzle with basically no fixed reference points, in a haystack made of needles, where the ‘obvious’ reference points (DW) turns out to be either broken or simply a lie.
+Click to expand...
+I don't think anything is directly broken. I suspect you have way to much data included in your model and it gets cluttered. Remember that FD and MB had a very short time to implement hand-written data in galaxy. Mysteries was not a high priority at release. Releasing a semi-functional game was the priority.
+
+I would love to see what you end up with, if you peal of everything that isn't directly relatable to the codex, in-game data, the mission texts or the TDW book.
+
+Edit: I would be extra interested in how it looks when viewed from Sol. It would be interesting if they actually made something that makes sense, when standing on earth, watching the night sky.
+Last edited: Apr 8, 2024
+Reactions:
+Rochester

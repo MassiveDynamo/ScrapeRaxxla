@@ -1,0 +1,57 @@
+Emperor
+Jan 7, 2024
+#32,903
+Jorki Rasalas said:
+The Milky Way stars are (mostly) located in "spiral arms", so I suppose they could be described as "spiralling",
+I mean as soon as you start accepting poetry as valid clues then literal meaning flies out the porthole...
+
+Nice to see the Landscape signal being further explored, though don't see how it fits any of the clues. Also more investigation into Guardian beacons...the name always struck me as odd, what are they "illuminating"? Why "beacon"?
+
+I think the Brooke Memorial Tour is being undersold. I suspect there's a reason for the route, and particularly for it ending in a system which is embedded in the highly visible string of stars leading to Orion...might well be FD are fed up with us waiting to solve the puzzle and are giving more clues... can't imagine anything else that so closely resembles "a golden chain". The final TB message quotes the Milton passage for heaven's sake.
+Click to expand...
+"Nice to see the Landscape signal being further explored, though don't see how it fits any of the clues." - Because it's the maths/science stuff MB liked to do and from Drew's footnotes posted on the Formidine Rift we know how devious some clues can be?
+
+Anyway...I'm still thinking of the tour amongst other things ;-)
+
+"I suspect there's a reason for the route, and particularly for it ending in a system which is embedded in the highly visible string of stars leading to Orion" - it doesn't actually end Jorki, it's sends you back to the beginning (or round and round... then bend ) and so it's infinitely long (or less literally, it's sending you back the way you came)....
+
+
+Ouroboros - Wikipedia
+en.wikipedia.org
+
+Mattius discusses the number 8 and infinity which is interesting (including some of the more recent discussions here about Argo Navis and lots of mythology which I know is one of you're favourite investigations! ).
+
+RAXXLA = 8 (or infinity at the end of Vid 2... )
+
+Why SAP 8....?
+
+Source: https://www.youtube.com/watch?v=efTy1EVj1H4
+
+Source: https://www.youtube.com/watch?v=9uNIicxPYCw&t=203s
+
+
+Guru gets a few shouts in part 2 too
+
+Returning back to the tour....
+
+SPOILER: DREW'S FOOTNOTES
+
+
+
+
+
+
+
+
+
+
+
+
+
+I've often wondered over the years how RAXXLA could limited to MB and DB whilst being hidden from Devs when they have full access to the code base, but when I read the footnotes it made perfect sense to me.... "Michael Brookes didn’t want the rest of fdev to know about it either as he thought it might get stopped, so it was a bit of a secret pact!" - He had control of the Galaxy and shaped it how he liked and didn't need to worry about the Devs or coding, he had God like control over the positioning, placement, naming and any system descriptions. He also hid clues in the Galnet articles and obviously wrote the early missions too...
+
+"EBP is a -13 caesar cipher which gave “ROC” – Right on, Commander".... if you use a -12 or +14 Caesar Cipher on SAP 8 you get GOD 8
+
+When i get 5 mins, I think I'll loop through the other combinations and see if they relate to any known star systems, regions...and I'm wondering if there's any ciphers used on the nos/text on these tricky things
+Reactions:
+Louis Calvert and Adel

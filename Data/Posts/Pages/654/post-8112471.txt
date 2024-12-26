@@ -1,0 +1,11 @@
+Han_Zen
+Oct 29, 2019
+#13,069
+If the earth vanished in a snap, the moon would continue in the direction it was traveling. This trajectory would then be affected more or less only by the the pull of the sun. As the moon doesn't have enough speed to escape the sun even at the point of the point of the orbit where it moves fastest in relation to the sun, it would eventually settle in a stabile orbit.
+This orbit would probably not be exactly the same as earth, but not to far of.
+
+Mean orbital velocity of Moon: 1 km/s
+Mean orbital velocity of Earth: 30 km/s
+Escape velocity at the Earth/Moon distance from the sun: 42 km/s
+Reactions:
+[PS4 Pro - PC] earthtone99, Machina Ergo Sum, Six6VI and 4 others

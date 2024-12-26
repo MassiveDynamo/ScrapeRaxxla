@@ -1,0 +1,12 @@
+Jorki Rasalas
+Sep 5, 2023
+#31,498
+No, bodyids seem to pertain only to physical bodies orbitong in each system. (Edit:yes, the bodyids are the same on each visit. Theyre part of the StellaForge and are reported in the Journal file, downloading from a nav sat gives you all ( apart from comets etc) in the system).
+
+Signal sources dont have them, though I guess there could be a "permanent signal source" for the omphalos rift device? I always check to see if there is no timeout (not found one yet!!)
+Still in Hel, drinking a cold beer (the road is slippery!!) and have checked out 5G and 5GA as "7/8th icy moons". 5G has an orbiting "Green Pines Health Service" installation with two satellites strangely positioned that dont seem to emit any signals. Might be worth sitting by them for an hour to see if one or both transmit on a schedule, but I no longer have the patience with this game! Hve docked at & checked the approach lights and external obverse view of Jones Orbital but nothing found.
+
+ALso dropped out honked and visual search of 5F since there is a vacant bodyid between 5F & 5G....nothing found! but if its a comet youve got to be withing 50km to stand a chance
+Last edited: Sep 5, 2023
+Reactions:
+CMDRCorrMorningstarFelian, Han_Zen, Rochester and 1 other person

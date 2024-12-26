@@ -1,0 +1,18 @@
+Deleted member 38366
+D
+Dec 22, 2019
+#14,305
+Quick follow-up on the Asteroid Belt Clusters :
+
+Seems their in-game representation is bugged, since they nowhere near represent their total Mass as shown in the System Map.
+
+Example (very high Mass distributed amongst only 4 Resource Belt Clusters total) :
+
+
+However, upon checking those 4 (which should be massive), I only saw the standard generic low-Asteroid count ones that are found everywhere.
+Seems like a Bug, since back in the V1.x era this used to be different. Drop-out was as far as 100km out, with many thousands of Asteroids offering good Mining Grounds.
+All that is apparently gone.
+
+If anything, I'd say a 5-10 Asteroid count Belt Cluster would make for an exceptionally poor hiding place for stuff - and it seems that's all they offer now, all of them.
+Reactions:
+Six6VI, Machina Ergo Sum and [PS4] Filthymick420

@@ -1,0 +1,8 @@
+yelboc
+Jul 27, 2022
+#26,513
+Ataxia said:
+FDev said no clue's. But what if they out right said how to find it...
+
+Who all has tried 7-9 jumps counter clockwise around Lave in a cobra 3?
+Pretty sure that was an early hoax.. certainly in E84 no such thing existed in the code which been analysed (the original source code is available)

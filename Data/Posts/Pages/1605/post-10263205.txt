@@ -1,0 +1,23 @@
+Ian Doncaster
+Nov 18, 2023
+#32,086
+Jorki Rasalas said:
+I've been saying this for years! Why has ED put a Wolf Rayet in LAWD26? It is a huge astronomical anomaly in a game for which DB professed accuracy.
+A lot of the semi-hand-placed systems are a bit weird once you get past the specific hand-placed elements.
+
+There's the suppression cross (not supposed to be a cross) in place which normally stops ultra-high mass stars showing up in visible range of Sol.
+
+I suspect the answer is something along the lines of:
+- the suppression cross works by capping the total mass of a system
+- obviously, the suppression cross can't be applied to hand-edited systems as it would then destroy Betelgeuse
+- whatever procedural system LAWD 26 was overridden to be would have been an ultra-high-mass one
+- the primary white dwarf doesn't take up enough of that mass
+- so the Stellar Forge goes "what have I got that's really heavy?" and adds a WR secondary to use up the spare mass (but it inherits the ancient system age from the primary WD, of course)
+
+...and as a more general rule, semi-hand-placement is going to edit the primary star mass away from what the Stellar Forge wanted, so lead to odd distributions of objects in the rest of the system. The spare black hole at Maia or the many spare ones in the NGC 7822 cluster, the Helium Gas Giants in the bubble, the highest G no atmosphere planet (by a massive margin) is in a HIP system, etc.
+
+And there's 20,000 inhabited bubble systems plus another few million uninhabited ones within (intended) suppression range of Sol, so
+- little chance of a stray WR being discovered unless they specifically think to run "checks for odd secondary objects", which if no-one happened to visit LAWD 26 in testing they might not
+- by the time the mistake is discovered by players it's far too late to fix because it'll invalidate the contents of a substantial number of other bubble and near-bubble systems too
+Reactions:
+Jorki Rasalas

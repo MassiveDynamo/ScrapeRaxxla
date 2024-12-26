@@ -1,0 +1,21 @@
+Macros Black
+Jul 31, 2019
+#10,071
+TotallySirius said:
+I stumbled upon something odd while playing with the galmap. It's probably just a bug, but it seems to line up with a couple of things. If you search "HD 1337" it takes you to AO Cassiopeiae, which is just a different designation for that star. However, if you search again it will move a few light years away from it and just stop there. No star near that spot. I mess around with the map a lot, but I have never seen it do this.
+
+I know some stars below and above the galactic plane will shoot you back to an empty spot, but this just moves over as if something there. A lot of people have linked the Raxxla mystery to Cassiopeia, and "A place that isn't a place" seems to fit this situation.
+
+Once again, probably just a bug, but it made me add a few extra layers of foil to the hat.
+Click to expand...
+Deserves a bug report. Continuing the search brings you to:
+
+HD 133704, HIP 73849, HIP 73928, HIP 73974, 5 Trianguli, HIP 73765, HIP 73793, HIP 73874, HIP 73906, HD 133729, HIP 74053, HD 133738
+HD 13374, HD 133740, HIP 73877, HIP 73912, HIP 73957, HIP 73987, HD 133755, HIP 10108, HIP 73474, stopped searching here.
+
+Strangely enough, I've visited none of these systems.
+
+Edit: One idea is to look in the nav-panel for a system listed there, but not visible in the Galmap (the one you mention)
+Last edited: Jul 31, 2019
+Reactions:
+[PS4] Filthymick420, Scytale, TotallySirius and 1 other person

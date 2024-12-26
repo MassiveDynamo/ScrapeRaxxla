@@ -1,0 +1,10 @@
+Koben
+May 3, 2021
+#23,119
+Ok, just figured out what's the (!) signal at the "Asteroid Belt" FSS range is... "Resource Extraction Sites"
+The number of them present in the system matches the number below the (!) signal.
+Special attention to Maia system which initially shows 3 (!) signals and the 4th only appear when you FSS scan a gas giant at 367.000ls off... then the count matches all 4.
+
+Having said that, this still has nothing to do with actually missing "Asteroid Belt/Clusters" in New Yembo and Sol... so, the search continues!
+Reactions:
+Macros Black, clavain, simulacrae and 3 others

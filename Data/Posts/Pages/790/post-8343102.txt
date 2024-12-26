@@ -1,0 +1,9 @@
+Noobilite
+Mar 25, 2020
+#15,789
+Panzertard said:
+Zoom in on Sol via the map, realistic mode. Some constellations are broken, but if you look around you'll see a few of them.
+You don't need to be at Sol, just have selected it so it's center.
+Also, if you are at another location you can see it if the current zoom location is within a certain distance from sol. Being pointed and zoomed into sol is just the easiest way to accomplish this.
+Reactions:
+John Stoutbeard and Machina Ergo Sum

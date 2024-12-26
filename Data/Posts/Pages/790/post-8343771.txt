@@ -1,0 +1,42 @@
+GURU-951
+Mar 26, 2020
+#15,800
+If you go to the Algol star system and the "Treasure Hunt Comes To An End" Tourist beacon there (I believe this had to do with a FDev employees test), you will find the piloted npc cobra named Cetus' Bane in an unresolveable USS there as well. His ship name changes often, as does his faction. He always has a Medusa paint job as well.
+The beacon describes how in 3302 a CMDR Orvis solved the treasure hunt by going to Avalon and the Persephone Station, and then to the Bard system and Arrhenius Terminal, and by doing these things he found the objects at the center of the puzzle, presumably the Earth Relics floating around Cetus Bane, or the two in his cargo hold.
+
+I recently brought a fuel limpet controller to his ship and discovered he will high wake into a neighboring system. I came back with a wake scanner and a little extra fuel. He will typically bring you to a brown dwarf system and will either drop near an unremarkable planet, or in an asteroid belt (which brings pirates due to how close to the bubble it is), or he might even just stop in supercruise. But he will eventually lead you a station, which changes regularly. You just need to refuel him and wake scan him.
+
+The first 2 attempts at this didn't seem like much. Or not from what I can tell.
+But the third attempt piqued my interest because he led me to the Momus Reach star system and the Ralphus station.
+First off, He will always make you jump through a bunch of brown dwarf systems, specifically on the 3rd attempt. This almost seems like he's trying to stop you.
+He's led me from 8 to 13 jumps on the 3rd attempt before leading me to a station. Mind you you lose fuel per jump and per refuel.
+Once he drops at a station you will lose him no matter what.
+
+3rd attempt's the charm, though I have not tried more than that in a day.
+
+Why's Momus Reach peculiar?
+In the treasure hunt he was to go to Avalon and the Persephone station.
+The Avalonia was the name of Jason Ryder's ship.
+And Nemesis was the name of Alex Ryder's ship.
+Nemesis is an ELW in Momus Reach, along with the hmc Pandora.
+It also has the stations Tartarus Point and Ralphus.
+Tartarus was a realm in Hades, and the prison of the Titans.
+Ralphus I remain clueless with.
+
+Algol itself is the right eye of Medusa's decapitated head which Perseus holds in his constellation. It is known as the Demon Star.
+And Cetus' Bane always has a Medusa Paint Job, which will disappear after the first jump into another system.
+
+It just seemed peculiar. But myself and another CMDR have not been able to replicate the jump sequence back to Momus Reach.
+
+I've attached my journal entry of the event and have the entire thing recorded, just haven't made the video yet.
+As well as some images of Cetus' Bane and the Perseus constellation.
+Attachments
+tumblr_inline_pjejj8dqAh1shrb8p_540 (1).png
+168.6 KB · Views: 292
+359320_20200204164112_1.jpg
+386.8 KB · Views: 296
+Flight Logs Settings EDSM - Elite Dangerous Star Map (1).png
+71.6 KB · Views: 133
+Last edited: Mar 26, 2020
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum, Rochester and 3 others

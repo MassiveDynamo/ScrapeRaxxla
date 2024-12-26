@@ -1,0 +1,23 @@
+Rochester
+Dec 30, 2022
+#28,678
+Edelgard von Rhein said:
+Really love the education I am getting in this thread, even without finding Raxxla! o7
+
+A number of recent lore summaries, especially relating to the fact we now have a Codex with a wealth of information, not least the Toast, have led me to look up a few things and I want to ask about something before I end up heading down the proverbial rabbit-hole:
+
+Has there been any attempt to perform a steganographic analysis on the Codex, either in general or relating to particular articles?
+
+Here, I am referring to the possibility that there may be information encoded into the text, or even the audio(!) of the text, that is not obvious and requires you to be specifically searching for it or to have knowledge that allows you to notice it. e.g. if you substitute H for X, you will see I have used a very simple version in this post! Some searching I can do by eye and ear but it could be time-consuming and I do not want to start using external tools for spotting hidden information.
+
+Large amounts of information can be encoded but the more you encode in a small amount of data, the more obvious it becomes. Even so, I would hope that there is no need for 3rd party tools, unlike the Thargoid signals where images were encoded into sound files.
+
+An example previously used in Elite Dangerous was when Drew Wagar put in hints using Greek myths, with articles containing such references needing to be collected together to derive a system name, along with the keyword 'Rebecca'. (I think this was how it was supposed to work but I know Spock Oddsocks nearly found the Zurara a year earlier than it eventually was, as he passed through the adjacent system - it could have been found by following the Reorte-Riedquat line). It was pretty obscure, not least because Rebecca was a character from his own fan fiction, whom we now know was introduced into the canon (you can hear her logs at the Zurara).
+Click to expand...
+Some have attempted this but likely to no avail, not sure how experienced those attempts were?
+
+I wouldn’t let supposed historical attempts stop your investigations, a fresh perspective can reveal a lot.
+
+Go for it 07
+Reactions:
+Zieman and CMDRCorrMorningstarFelian

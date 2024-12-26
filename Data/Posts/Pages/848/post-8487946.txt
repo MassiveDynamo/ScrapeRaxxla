@@ -1,0 +1,10 @@
+Koben
+May 31, 2020
+#16,960
+Just to call out for some help... if anyone have tried it before, please, let me know your findings.
+
+Hidden Messages from Installation Antennas
+A few months back I had an idea about using Amateur Radio decoding software (SDR) to try to get something, anything from installation antennas we can find across the bubble. I used these videos and a couple of others as base to get it done: Source: https://www.youtube.com/watch?v=Je2WUfYY0xI...
+forums.frontier.co.uk
+Reactions:
+[PS4] Filthymick420

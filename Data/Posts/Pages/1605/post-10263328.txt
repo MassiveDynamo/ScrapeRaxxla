@@ -1,0 +1,20 @@
+Ian Doncaster
+Nov 18, 2023
+#32,093
+CMDRCorrMorningstarFelian said:
+The reason it isn't visible in daylight is most emissions are ultraviolet instead of the visible light spectrum.
+
+From Wikipedia on Wolf-Rayets:
+All Wolf–Rayet stars are highly luminous objects due to their high temperatures—thousands of times the bolometric luminosity of the Sun (L☉) for the CSPNe, hundreds of thousands L☉ for the population I WR stars, to over a million L☉ for the WNh stars—although not exceptionally bright visually since most of their radiation output is in the ultraviolet.
+
+The naked-eye stars Gamma Velorum and Theta Muscae, as well as one of the most massive known stars, R136a1 in 30 Doradus, are all Wolf–Rayet stars.
+"Not exceptionally bright visually" is a relative term. Not exceptionally bright visually for something thousands of times more luminous in total emission output than the sun? Sure. Still really bright compared with most stars.
+
+So: Gamma Velorum, distance 1000+ LY, apparent magnitude 1.83 in the visible spectrum (even if it is brighter in ultraviolet). Fairly bright as night sky stars go.
+Hypothetical Gliese 293 B, distance 26 LY, isn't going to be dimmer visually than Gamma Velorum - it's 40 times closer so by inverse-square law it would be around 1600 times as bright as Gamma Velorum is ... if it existed.
+
+... so, 5 magnitude steps is 100x brightness difference, so 1600x brightness difference on a log scale would be 8 magnitude steps, so the apparent visual spectrum magnitude of a Wolf Rayet at 26 LY would be -6 to -7. That's significantly brighter than Venus, even before you get into it being even brighter in UV. We'd have noticed. And also panicked about the "supernova close enough to completely irradiate the biosphere" potential.
+
+[1] Which, yes, for a star that massive is relatively low as a visual spectrum thing: Beteleguse is -5, Rigel is -8, Polaris is -3 but relatively small for a supergiant, Antares is -5 (on average). But you'd still notice one next door.
+Reactions:
+Jorki Rasalas, Louis Calvert and CMDRCorrMorningstarFelian

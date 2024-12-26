@@ -1,0 +1,12 @@
+Emperor
+Nov 17, 2023
+#32,074
+Rochester said:
+It’s easy.
+
+You discovered X in game, but can’t actively engage with it. However there is no element in game to state X is inactive according to in game information it is active eg it’s go no lock upon it. It has not been logged via ticket as it cannot be identified as a bug. Please acknowledge if X is intentionally locked or if this is a bug. If X is not a bug, nor locked then evidently it’s accessible. What in game mechanics are advertised to access it.
+I rest my case
+
+And will use it as a template on my next ticket
+Reactions:
+Louis Calvert and CMDRCorrMorningstarFelian

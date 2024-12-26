@@ -1,0 +1,10 @@
+Hanerib
+May 25, 2020
+#16,737
+Filthymick420 said:
+Yesterday i learned you can actually initiate a misjump. We were fighting goids in a wing out near asterope. Because of wing bugs one of our squad kept blue screening out of game (ps4) as soon as the jump would start. any ways the first time when he logged back in he was 34k ls out into his destination system. The second time he was in a nearby system just a jump away but a completely wrong system from where he was targeting. Each of these jumps were only a few ly away, 10 max. Imagine if it were a neutron boost jump....
+
+I know game closing is against the rules for pvp but i wonder how this counts if one were to intentionally close the app to create misjumps.
+It's a bit obscure how it works. I believe the next hyperspace-interdiction is already decided upon entering a system, and initiates on the next jump. Thus, connectivity issues sometimes can make you miss the sequence, and make you appear where you would be after the jump, on returning to the game again. It would be the last system player was at, never any new unplotted system. Then, of course there would be chance for the hyperspace-interdiction switch turning on, which for some recently Thargoid infested systems would be quite high, lower for other. Probably also taking into calculation when the last interdiction happened (string which probably caused the constant hyperdiction bug). Old timey hyperinterdiction likely was separate event from the modern hyperinterdiction event, and might have had different parameters.
+Reactions:
+Machina Ergo Sum, PeteACarter, Han_Zen and 1 other person

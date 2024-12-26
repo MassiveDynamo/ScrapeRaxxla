@@ -1,0 +1,10 @@
+yelboc
+May 26, 2020
+#16,755
+Jorki Rasalas said:
+Of course.
+Also much of the star data FD used is good on angular accuracy but less accurate on distance, as you’d expect. I think this is why the Broken Heart “Nebula” (IC1802 I vaguely recall) is located between NGC 7822 and the Heart Nebula, wheras in practice it should be located at the heart () of the Heart Neb. IRL it’s bright stars are creating the cavity at the centre of the Heart Neb. This was one of the factors that led me to investigate that area, that and the fact that Broken Heart is a great solution to the Parent’s Grief and Lover’s Woe. I also investigated Broken Heart Cluster, which is a long way in the opposite direction, towards Col70.
+
+I could be wrong, but I think the nebulae are all in the wrong places because they forgot to adjust the co-ordinates to J2000 epoch when entering them. LBN625 and other planetary nebula are all a bit offset from their host stars too.
+Reactions:
+Hanerib, [PS4] Filthymick420, PeteACarter and 2 others

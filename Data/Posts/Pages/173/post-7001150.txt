@@ -1,0 +1,15 @@
+Jaiotu
+Sep 10, 2018
+#3,448
+bluecrash said:
+It has been indicated that Raxxla was in all the versions.
+
+Indicated where?
+
+The code for the original Elite has been combed through and there's no hint of Raxxla. The lookup table used by the original game's procedural generation to seed the galaxy's with system names would make it impossible for system named Raxxla to have existed. David Braben confirmed in an interview that Raxxla did not exist in the original Elite: http://www.atlantis-prophecy.org/recollection/?load=interviews&id_interview=37
+
+When Elite: Plus was released in 1991 it was without The Dark Wheel novella. Instead it came with a novella called Imprint which contained no hint of Raxxla.
+
+The original Elite game was almost entirely complete when Robert Holdstock was hired to flesh out the game universe by writing a very colorful instruction manual and accompanying novella. Holdstock incorporated ideas from his previous works in doing so. GalCop, Raxxla, Thruspace drives, etc. were entirely ideas of Holdstock's. "Thargoids" (a homage to Captain Kremmen) and naming ships after snakes came from Braben and Bell.
+
+Frontier: Elite 2 and Frontier First Encounters basically rebooted the Elite universe and very little from Holdstock crossed over to either game.

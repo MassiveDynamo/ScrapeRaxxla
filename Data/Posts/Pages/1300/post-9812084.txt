@@ -1,0 +1,23 @@
+Robert Rockbite
+R
+Apr 15, 2022
+#25,989
+As for the graphics glitches in the system map, as of Yesterday they were still there (in Alpha Cygni and Horizons, at least).
+I had two glitches, one usually as a point, the other one more like the pictures, but sometimes both look complicated, one is white, they other more grey.
+They grow when a CME (Coronal Mass Ejection) at the star grows and they fade with it.
+They disappear when leaving the system map and returning to it.
+So the system map is clean when opening it and over time some information from the CMEs spills over to the map and gets projected to a small region.
+Therefore, I agree: Probably a graphics glitch related to CMEs.
+
+As for CMEs having the same colour as the star, there might be exceptions, at least by visual appearance due to lighting.
+I encountered a greenish CME in HIP 35102 that looked so weird that I had to take a screenshot - although by the time I found the button it was almost gone.
+
+Oh, ah, new hypothesis:
+Raxxla could be a green CME that is very rare and/or could be triggered by a specific chain of events.
+And when you fly through such a green CME you can, eh, supercharge your FSD to 100.000 LYs - and after such a jump the FSD is toast?
+
+Edit: Went back there, it's HIP 35102 C, actually. Got a better picture. Flew through a few of these greenish CMEs. Nothing happened.
+And they probably appear greenish, because the surface temperature of the star is 5700 K.
+Last edited: Apr 15, 2022
+Reactions:
+Adel and Jorki Rasalas

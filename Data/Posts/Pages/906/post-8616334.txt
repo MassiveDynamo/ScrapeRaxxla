@@ -1,0 +1,11 @@
+alexzk
+A
+Jul 27, 2020
+#18,102
+Filters are weird those days. For example I open system map remote and see 5 carriers in, but filter shows wrong color - "no carriers", manual check by jump there confirms 5 carriers.
+Same thing happens for other filters. Also they may relay if system was discovered or not by you personal or UC in general.
+For example, I was driving FC through semi known space. For some systems I could buy system data remotely (20ly) from my carrier, i.e. it is "visited", came there and got first discoveries for all. Next one I couldn't buy data from carrier "no data", once I came there - everything was mapped and had 1st names on map.
+
+So filters look a bit weird for me except star class & visited.
+Reactions:
+[PS4] Filthymick420

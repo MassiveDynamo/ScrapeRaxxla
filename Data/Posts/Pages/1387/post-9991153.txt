@@ -1,0 +1,24 @@
+Louis Calvert
+Nov 7, 2022
+#27,727
+Since we're talking about early exploration and hyperdrive and it's relation to Raxxla. I think there's something really interesting in the Dark Wheel codex:
+
+"Those who believe in the existence of the Dark Wheel consider it to be a continuous and clandestine organisation, operating since the very earliest days of interstellar travel. "
+
+"..the original group was based in a disused starport orbiting the eighth moon of an unnamed gas giant. The station was toroid, hence 'wheel', and operated with a minimal power output so as to avoid detection, hence 'dark'."
+
+The Raxxla codex:
+
+"The legend of Raxxla has been circulation, in whispers, for centuries. The quest for this mysterious place, the location of which is a deadly secret, was said to be the principal aim of the Dark Wheel, a putative fraternity of legend-chasers from the early days of interstellar travel."
+
+I will assume that the Codex entries are true and I'm reading them at face value for now.
+
+This means that "in the early days of space travel" a starport became disused (for whatever reason), and the early DW started to use it for reasons of secrecy. Also, it continued to operate 'dark' to avoid detection - implying that there was the ongoing possibility of others detecting it (deliberately or accidentally).
+
+This is pretty conclusive evidence that (at least) the myth of Raxxla existed "in the early days of space travel" strongly enough for the Dark Wheel to hunt for it and keep an entire wheel-station secret - recall this is several hundred years before civilians had casual access to FTL ships.
+
+Given our discussions of early interstellar travel, I feel like the codex is telling us that the DW wasn't operating that far from Sol, maybe even in Sol itself.
+
+Saturn IRL has 8 major moons. Only 6 of them are in Elite Dangerous, does anyone know why Mimas and Hyperion aren't represented? I understand why all the smaller moons and orbital objects aren't, but... I can't figure why not those two??
+Reactions:
+CMDRCorrMorningstarFelian

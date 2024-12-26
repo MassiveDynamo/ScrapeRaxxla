@@ -1,0 +1,94 @@
+Jorki Rasalas
+Sep 7, 2022
+#27,157
+I got fed up yesterday hunting comets, as you may have gathered, and decided to have a rethink...Ok, latest hypothesis:
+
+"tiny little bit obvious"
+"place that is not a place"
+Princess Astrophel & Spiralling Stars
+Omphalos Rift
+"for those with eyes to see"
+From the codex first rumour Raxxla should be within a few hundred LY of Sol.
+"To the jewel that burns on the brow of the mother of galaxies, to the whisperer in witch-space, the siren of the deepest void"
+
+first two could relate to a comet (type 'SmallBody' from the journal, and they dont exist in game though they do, sort of), but could also refer to a Black Hole's singularity, or a neutron star's core.
+Mother of Milky Way is Sag A*, a supermassive BH, around which stars spiral.
+
+In the past we have tried to decode the toast as a specific set of directions, but I wondered if it perhaps is instead a salutation to significant types of things involved in the quest for Raxxla. So the Jewel as a BH salutation? and whisperer+siren might then be a salutation to Neutron Stars? since Pulsars have been described as sirens of deep space.
+Incidentally a couple of references I found via Google also referred to "gravitational whispers" from a collision between a BH and NS...
+
+I also found a reference that said "in the case of a charged or rotating BH it is possible to avoid the singularity ...hypothetical possibility of exiting the BH into a different spacetime with the BH acting as a wormhole"
+
+The centre of the Raxxla logo might indicate a BH with the ring as an exclusion zone/accretion disc (though those are not implemented in-game!).
+
+So I did a body search...Beta Hydrae (310ly from Sol) is a system with a B primary, and an orbiting pair of BH+NS 186,000ls out- enough to keep uninterested early explorers away. It's out towards the Coalsack Neb, where a Thargoid force seems to be located (& where did that bit about Thargoids also looking for Raxxla come from?)
+
+So I swapped my explorer Phantom for my beefier combat Krait (Raxxla location is a deadly secret- hostile faction, or astronomical danger?) and went out for a look-see.
+
+Now this is where things got interesting. On arrival I couldnt see anything other than the three bodies, so thought I'd look for comets (!). Using the method of @Pyroboros I generated the search strings but immediately found it seems not to work for this system. I switched from Horizons to Odyssey but it still doesn't work! The BH (star B) was in the journal as bodyid 3, but nothing else. I tried putting the search strings into the galmap search bar as usual...for what should be bodyid 0, the barycentre of the triplet, when I select it actually targeted body C the NS! Bodyid 1 I found, and the barycentre for B&C. But searching for bodyids #4 & above only got "no results found" in EDO, whereas if there are no bodies like comets or stations the search usually crashes the program. I entered the BH but couldnt get past the exclusion zone & can't target anything further than usual (boosted range is 142ly). In the end I approached the NS perpendicular to the (spiralling!) relativistic jets & dropped out at the exclusion zone (to see if Raxxla was a station/etc hidden there-nowt!) which finally identified its bodyid in the journal. I supercharged the fsd and went SC around the system to try & see if anything appeared. Went as far as 186,000ls from the primary in the opposite direction from B/C to see if anything there. Nothing else detectable anywhere.
+
+When I looked at my ship parameters I'd lost the supercharge, that never happens with any other NS boost, it lasts until an fsd jump, you can even log out of the game & ii's still supercharged!
+
+Beta Hydrae body search
+system address
+221905198
+Body#
+SearchString
+0
+Wregoe EG-Y g0-3
+Bookmark it & then select the BM-it targets star C!
+1
+Wregoe EG-Y g0-536870915
+Beta Hydrae A
+2
+Wregoe EG-Y g0-1073741827
+barycentre B+C
+3
+Wregoe EG-Y g0-1610612739
+Beta Hydrae B
+4
+Wregoe EG-Y g0-2147483651
+Beta Hydrae C but searchbar gave "no results found"
+5
+Wregoe EG-Y g0-2684354563
+"no results found"
+6
+Wregoe EG-Y g0-3221225475
+"no results found"
+7
+Wregoe EG-Y g0-3758096387
+"no results found"
+8
+Wregoe EG-Y g0-4294967299
+"no results found"
+9
+Wregoe EG-Y g0-4831838211
+"no results found"
+10
+Wregoe EG-Y g0-5368709123
+"no results found"
+11
+Wregoe EG-Y g0-5905580035
+"no results found"
+12
+Wregoe EG-Y g0-6442450947
+"no results found"
+13
+Wregoe EG-Y g0-6979321859
+"no results found"
+14
+Wregoe EG-Y g0-7516192771
+"no results found"
+15
+Wregoe EG-Y g0-8053063683
+"no results found"
+
+something is weird about this system! but I cant see anything obviously Raxxla-related! I even tried to fly into the spiralling jet to see if I could get all the way through to achieve Raxxla, but got thrown out by the motion....
+Might go back for an explorer ship & try some other systems...
+
+Edit: and the darn galmap wouldnt let me use the supercharge!!!
+
+Edit2: just remembered a very strange thing -an npc jumped into the BH after I had! Didnt stay long though!
+Last edited: Sep 7, 2022
+Reactions:
+Han_Zen, Ataxia, simulacrae and 4 others

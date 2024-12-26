@@ -1,0 +1,12 @@
+Rochester
+Oct 29, 2024
+#35,141
+Jorki Rasalas said:
+Is there a way to get the download benefit of my 1Gbps internet speed? The last update just trickled in at around 10 Mbps for over an hour. I gather Steam can support fast download, but my ED is from FD.
+I had the same issue, the FD link through your desktop is to a specific location in the UK, in my understanding it’s is a rather old and limited link which is prone to slow connection based upon locality.
+
+The Steam key, does not actually replace your desktop, it’s just a launch window.
+
+FD obviously supply these 3rd party apps with updates, and in my experience are probably better supported than the official link.
+
+When my PC worked the steam key was my preferred access point, and updates took seconds rather than minutes/hours.

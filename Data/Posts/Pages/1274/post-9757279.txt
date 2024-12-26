@@ -1,0 +1,39 @@
+John Stoutbeard
+Feb 28, 2022
+#25,477
+CMDRCorrMorningstarFelian said:
+"A place that is not a place, a door that is also the key"
+
+Just an an update: I think I found a map and details of the system where Raxxla is located. Go to any big station: Orbis, Coriolis, or Ocellus. Dock and go to camera suite. Get images of the following: engine barriers of the landing pad (you should be able to see this even when laying flat), front of the station with the toaster and ATC plus the outer ring, get a similar screenshot of the rear of the station. The engine barriers are consistent across outposts and the big stations - listing is as follows: 1a, 1b, 2a, 2b, 3a (these are likely the landables in the system). Based on the front and back of the stations, I'd say we looking for system with a gas giant with rings in a system with 3 inner planets and either 5-6 outer worlds. Regardless, if you look at the engine barriers and both ends of the station we are likely looking for something surrounding "planet" 6 (interpret planet as loosely as possible here). The gas giant could be a brown dwarf which is not really a planet but not a star either. I suspect we are looking for the 8 moons in addition here but that is very much a guess. Also, still very much refining this idea. There are lights on ATC (the edge of the ATC) and the outer ring of both ends of the large stations that may mean something. It is consistent and repeated on every large station I have been to.
+
+NOTE: Align your ship like the Raxxla Codex image and you will notice that view of either end of the large stations shares an uncanny resemblance to the Codex image.
+Click to expand...
+
+SpaceGoblin said:
+Found it!
+
+
+
+Click to expand...
+
+I've recorded the radio transmission tower in the middle of the stations for quite some time. Hours and hours of records, but I've not been able to decipher the code from the towers.
+Note: Not all towers transmit anything, but it seems 60-70% of the stations have some kind of transmission.
+I forgot about this until you mentioned the link between the images, I was investigating this as a separate mystery
+
+It may look something like this in Audacity
+
+
+I have however categorized some of the symbols, example collection:
+SPOILER: SYMBOLS
+
+I've shared this with Cannon & other folks previously, but usually I've got comments like "spacemadness", "stay away from the onions"
+
+I hope someone else can make more sense of it.
+Note: I don't have my old recordings anymore, as it is very easy to record those transmissions. (Use Audio->Night mode + external cam)
+
+EDIT: Found a 6 year old recording of mine on twitch. The problem back then is that we didn't have external cam I think:
+
+I hadn't quite set up the logarithms and filtering quite well, something we did in later attempts.
+Last edited: Feb 28, 2022
+Reactions:
+Adel, Macros Black and CMDRCorrMorningstarFelian

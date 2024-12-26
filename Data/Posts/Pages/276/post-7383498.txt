@@ -1,0 +1,22 @@
+Noobilite
+Jan 28, 2019
+#5,514
+Macros Black said:
+The Horizon main menu background shows an Orbis Starport in a system with an A class star (or O class, it is very bright) and 2 or more bodies, 2 of which are very close. Eddb.io lists 3,964 systems with an Orbis Starport.
+
+However, doing this
+
+SELECT COUNT(DISTINCT(SystemName)) from [dbo].[tblEDStations]WHERE [Type] = 'Orbis Starport'
+
+on my local copy I get 1,991 systems. Better than 3,964, but still too many systems to search.
+
+
+I've found no easy way using edsm or eddb to narrow it further down using this guess for a matching system.
+
+Other than importing the edsm nightly dumps for Celestial Bodies and doing a local custom search.
+Click to expand...
+
+Is there anything that might give away a general direction or any thing to widdle down where it might be in anyway? Even if it's unusual or seemingly unimportant. I'm not good with any of the subjects probably related to this type fo search. 8)
+
+Is there any odd way to predict where you get a system with two planets that close? Or any other part of the situation? I'm not familiar.
+Last edited: Jan 28, 2019

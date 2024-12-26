@@ -1,0 +1,23 @@
+[Diplomacy] Carnegie
+Jul 30, 2019
+#9,964
+CMDR Maylor Rom said:
+Well, there are two stars in 27 Cass, the main star "A" and a neutron star "C". According to Elite's wiki, there should be a barycenter for this system, between "A" and "B/C". I think there may be a bug here.
+
+Barycentre
+A barycentre is a mutual centre of mass around which two or more bodies orbit. They can be seen on the System Map as lines forming three sides of a rectangle, linking the bodies indirectly. If anything else is orbiting those bodies collectively (as opposed to individually), the barycentre is...
+
+Let me check some other systems on EDSM and see if I can find one to compare with this one.
+
+In any event, no Raxxla here. Moving on....
+
+o7....
+Click to expand...
+
+There IS a barycenter between A and BC. A is in a circular orbit around it, whilst BC is in a much more elliptical one - at least judging from the image, but again 2d v 3d.
+No bug, just a regular old system.
+
+Edit:
+The fact that A has an orbit at all, tells you there's a barycenter. In single star systems the primary doesn't orbit. In binaries and above, both stars show orbits.
+Reactions:
+Deleted member 52630

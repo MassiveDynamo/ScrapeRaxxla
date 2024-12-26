@@ -1,0 +1,21 @@
+Jorki Rasalas
+Jan 22, 2021
+#20,499
+Han_Zen said:
+I've always liked the idea that Raxxla may be in Sol. I've never really considered the asteroid belt, but I lke it.
+In ED the asteroid belt is listed with a total mass of 0.0553 Moon masses. RL data lists about 4% of the mass of the Moon. That leaves room for an object about the mass of Ceres.
+Ceres was of cource possible to land on in FE2/FFE. In ED it's not there. I don't know why. It's well above the minimum radius of 135 km, that seems to be the min limit in Stellar Forge.
+
+The asteroid belt orbital inclination in ED is set to 4° (ring in Orrery). Real asteroids are distributed with up to 40° inclination. It might be an idea to go of the plane to check, as well.
+
+I'm uncertain about the DB quote. It doesn't quite work out to have an 'Elite requirement' in Sol. There is no gate-mechanic in the game to use there. Having the object (Raxxla) not spawn for non Elites, would be to silly. Non silly Elite gates in the game are basically limited to Shin Des, missions and potentially the Dark Wheel.
+Click to expand...
+
+I’ve (inadvertently) tried above & below the plane of the asteroid belt as shown in the orrery view, but I think from the instances in my videos (see earlier post) I think it’s within the plane of the belt. Yes, the inclination of the belt is a bit of a pain. When I first started searching I just flew at 1327 ls radius (middle of belt) from Sol inline with Jupiter’s orbit line, but things started to happen after that showed a slight downward curve (with Pluto showing below that, see videos). That started me thinking that the instance is only triggered when you honk within a short range of its position, and when I’d already flown past. There might also be a timeout once it’s attempted to instance- I suspect this is intentionally hard. I’ve tried this for 30 days and only had about 12 instances.
+
+I am undecided about the supposed DB quote. I’ve tried searching for it and it can’t be found. But I do myself vaguely remember him saying something like that, but it’s so long ago that I’m a little sceptical that is an incorrect memory. I was also pondering that “Elite” requirement this morning. It doesn’t make sense in itself, however if the green glow is Omphalos which is a gateway to Raxxla then DB could have designed it as a proper tribute to Holdstock & the original novella said something like “Raxxla is populated by a set of evil Elite pilots” and that could pose the requirement -for the discoverer to stand a chance of survival. So I did a bit of searching yesterday in an agile Eagle instead of my exploration Phantom and with the full expectation that if I do open Omphalos and get through to Raxxla I won’t last long. I’ll try to remember to trigger video recording first!
+
+However it could also be that the original intended gameplay to get there was to follow the Shin Dez Elite missions which would lead to appropriate clues, & so would make sense, but I suspect they might have thought that was too difficult (!) and retconned that gameplay path.
+
+But until someone can get that green glow to trigger and home in on it ....I suspect a Wing is the only practicable way, which fits in with the supposed quote.
+Last edited: Jan 22, 2021

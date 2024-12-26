@@ -1,0 +1,28 @@
+Pyroboros
+Feb 5, 2022
+#25,239
+Jorki Rasalas said:
+The question is whether it is acceptable to make use of an exploit, via the system search dialog and system logfiles, and in particular to automate that exploitation as recent discussion has implied.
+There is no automation. Only a Spreadsheet were u still have to manualy enter a Number that you get from the public Logfile or from EDSM or any other Database. Also we manualy enter the result of a calculation that one can also do by hand in the Searchbar.
+We can not get any Information for Systems one has not Viseted. In fact you need to be present in the system of interesset. even if you viseted the system befor, you would need to visit it again, and seach while u there.
+There is no Software in use. We use a Spreadsheet.
+
+Only claryvication we may need is if it is unintentional to be able to klick on "SetTarget". wich also does not happen automated and again u need to be present in that system.
+
+Jorki Rasalas said:
+P.S. In any case I don’t think it’s going to find Raxxla. I’m pretty convinced that Raxxla is disguised as an ordinary object and won’t be revealed until you perform some specific action-e.g. enter a tunnel (“omphalos”?) in an installation
+I fully agree here. However, we can rule out things that are just not in the game but still made some looking in the wrong direction.
+I don't think we can find RAXXLA with it, but we can rule out NONRAXXLAS.
+
+Edit: to also be clear about the GalMap Search. It is not a bug to seach for bodys or station via GalMap. just try and search for Pluto or any Station
+The Galaxy Map is designed to work like that. Only thing we do is convert between a number and the Name (Alias). The Number is public and the names are also public it was just a matter of brain to find out how they convert in to eachother.
+
+Edit Edit:
+Using the word overflow may had set of some alarm bells. But there is no overflow happening. There is a bug in Game were u can overflow the GalMapSearchbars buffer resulting in a number > 1.8446744e+19 wich would override the values stored next to the ID64 any causes a Memory Access Violation Error (GameCrash).
+However only a few ppl on this planet would be able to find out what to write to exploit this.
+We stay under 2^64-1 and so we do not overflow the ID64. The ID64 is always 64bit long but can seen a a composition of 9 values but this is also true for any StellarForge generated name WREGOE AC-D d12-0 is one value whit 9 sub values [WREGOE] is 39x, 32y, 18z [A] = 0*26^0 [C] = 2*26^1 ....
+it is not an exploit to have figured out how a number is repessented.
+Or do u thing knowing that 1*10^0 + 2*10^1 + 3*10^2 = one hundred twenty three?
+Last edited: Feb 5, 2022
+Reactions:
+Adel

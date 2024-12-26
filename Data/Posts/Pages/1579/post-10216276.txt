@@ -1,0 +1,29 @@
+El Saico
+Sep 11, 2023
+#31,577
+Rochester said:
+Agree, in game searching is the preferred method.
+
+Third party tools only show data submitted by Cmdrs.
+
+The placement of Raxxla - being undiscovered means logically it cannot be found outside of game, as there might be some unknown identifier, unless it’s hidden in plain sight.
+
+However, various 3rd party tools are still extremely useful in applying wide brush strokes, to identify potential hotspots of interest. QED such anomalies like the Lost Realms or Yggdrasil, pull in our attention and make us question why they are there… are they hand placed?
+
+Others may know more on this than myself, but I do recall a number of statements from various persons, that Brookes personally hand crafted a lot of systems, via a spreadsheet, the details of which are not clear but if correct it informs that a certain percentage of the galaxy was certainly handcrafted.
+
+The existence of the lost realms and various other correlations, eg the Yggdrasil systems advocate a logic to their structure which cannot simply be explained away as arbitrary in my opinion.
+
+If that were so I would presume there would be a huge level of uniformity, where as in reality there is logic to their placements which correlates.
+
+Post in thread 'Should I be able to play Elite Dangerous without nine spreadsheets?'
+
+
+Post in thread 'What is the most efficient way to crowdsource the 3D system coordinates'
+There are two necessary, but perhaps not sufficient, conditions that handcrafted systems must follow:
+They're not present in any real-life star catalog
+Neither its current name, or any previous names it had (see: Colonia, Delphi), follow Stellar Forge conventions
+The late EDDB was the only third-party database which allowed filtering by #1 - fortunately, there's a full dump available for those willing to trawl it.
+https://edgalaxydata.space/EDDB/
+Reactions:
+CMDRCorrMorningstarFelian

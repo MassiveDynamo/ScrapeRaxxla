@@ -1,0 +1,7 @@
+madbilly
+M
+Feb 27, 2018
+#1,844
+Thatchinho said:
+Hmm, so Exbeur 1 says No Atmosphere, but does have a very slight surface pressure, 0.0004 Atmospheres. Presumably it's just down to a difference in the rounding used for the No Atmosphere status versus the one used for landable status.
+That's what I tried to clarify above, but I didn't do a very good job. Any planet with any surface pressure reading in its stats is not landable, AFAIK. It is the absence of a surface pressure stat that really indicates a planet is landable, not "No Atmosphere".

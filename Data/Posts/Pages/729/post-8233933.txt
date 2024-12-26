@@ -1,0 +1,11 @@
+ExoForce
+Jan 9, 2020
+#14,565
+CmdrMcGreen said:
+Guardian doors: Has someone tried to use the external camera and possible clipping errors to look behind those doors?
+(Even if FDev somehow lazy loads the complete content behind the door when the door opens, there might be something to see. First part of a hallway?)
+Hm, I don't remember seeing doors at all ... have to travel to some Guardian location next..
+
+I was more impressed with the look-a-like lock some short distance in front of the doors. Does not fit visually with other objects.
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,10 @@
+Jorki Rasalas
+Feb 8, 2019
+#5,831
+Noobilite said:
+Has anyone figured out if there is a reason behind permit locks besides FD wanting to. Maybe there is an in game mechanic at play that causes this to happen. And maybe a way to reverse it.
+
+Cmdr-Wotherspoon said:
+It's to provide fDev with scope for game expansions in the future. If everywhere has been explored or at least travelled through, it makes it difficult for fDev to drop in that amazing new alien civilization in season 8 or whatever. The amount of permit locked space increased significantly a couple of years after launch, presumably because fDev firmed up plans for future content and because exploration was proceeding much faster than originally expected.
+
+Indeed. We have firm hints in-game of other alien species that are likely to rear their tentacles at some stage: Guardian AI, at least two Guardian factions (I suspect not all of them died out), rogue human AI, Halsey’s Caretakers of the Galaxy, Dynasty project base logs in FRift and Conflux hint at something alien out there. FD will be keeping sectors locked off so we can’t access that content before they are ready. It seems that FD may have originally intended goids to come from Bovomit, but changed their minds and moved them to Col70 around 2.5 years ago, locking areas (e.g. Cone Neb) that some explorers had already visited.

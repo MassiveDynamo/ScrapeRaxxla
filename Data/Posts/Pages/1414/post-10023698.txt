@@ -1,0 +1,17 @@
+John Stoutbeard
+Dec 6, 2022
+#28,261
+Too many different variants to really conclude.
+I see some
+"timeouts to the backend, waiting for the new system, so we're just going to leave you here in witchspace until the server can respond" kind of issue.
+"entering system, but backend didn't deliver all the details yet, so the client will spend some more time at the rendering/init part where you land at the star" kind of delay.
+The ED client is kind of robust in these situations, it will wait and wait for the backend (and internet) to provide the data. It may never give up, this is why you sometimes have to kill the game.
+
+However, I can not see how a full planet (it's a complex model, not just a simple texture) is rendered. It can be a bug, adress issue / reference issue.
+The clue to being a bug is that it's "not the same planet twice", but this could also be explained with different versions of ED.
+I'd defintively like to see someone reproducing this 'planet' on demand (same pilot, same ship, same location).
+
+I work (NOT in Frontier ofc) with client/frontend/api/backend & infrastructure & software - but not with Graphics, so I can't be sure how such a rendering issue would happen otherwise
+Last edited: Dec 6, 2022
+Reactions:
+Evoflash, Sunyavadin and Louis Calvert

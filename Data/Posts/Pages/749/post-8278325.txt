@@ -1,0 +1,9 @@
+Jorki Rasalas
+Feb 3, 2020
+#14,966
+Darth Ender said:
+I've scanned a number of systems where the discovery scanner honks and says that x number of orbital planes have been discovered but when you goto the system map, nothing but the single star shows ...no roid belts or anything.
+
+If only the primary star shows in the system map after you’ve honked then it’s a system that nobody else has discovered and any objects are beyond the ship scanner range (object size-dependent but around 60ls). You then have to move round the system orbits using the fss and zoom in on each signal to scan the planet/roid cluster/uss.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

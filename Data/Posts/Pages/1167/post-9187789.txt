@@ -1,0 +1,10 @@
+Jorki Rasalas
+May 21, 2021
+#23,336
+I've raised an Issue Report on this (well, actually two cos I think I've supported my own bug report instead of just adding further info- the Issue Tracker interface confuses me!!).
+
+My Commander ranks for Fed & Imps are shown when running EDOdyssey (ViceAdm 18%, Duke 88%) but not when running either Basic ED or ED Horizons, when the rank is omitted and both levels are shown as 100%. My second account is the same but I didnt purchase EDO for that account so cant fully confirm. But it does look like a programming/server bug after the EDO release. My EDSM account and EDDiscovery are both showing incorrect data to match, so suspect a problem with the Player Journal data.
+Annoying because I'm getting my second account near his Fed Corvette; got past Post Captain 3 days ago & did a fair few Rep++++ missions after that. Now dont know whether to contine running missions or whether it would be a waste of time & just leave off playing until they (hopefully) fix it. A few other people are reporting the same problem. Tempted to just delete and reinstall, but installation was a right PITA!!
+Confused of Mu Leonis
+Reactions:
+Vetinari

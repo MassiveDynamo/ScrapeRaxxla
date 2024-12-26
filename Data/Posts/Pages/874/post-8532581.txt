@@ -1,0 +1,17 @@
+Thatchinho
+Jun 15, 2020
+#17,476
+SkyRock said:
+Not certainly in that way)
+the question is how to determine whether a celestial body passed through a system. that is, how could a celestial body affect the system after the celestial body left the system?
+Well if a celestial body has left the system, then it's no longer effecting the system. So that means looking for changes that happened due to when it was in the system.
+
+Which means looking at how that could be detected in terms of how the Stellar Forge works.
+
+Key question is when. Essentially, the Stellar Forge sims up the system to a day 0 (which is round about 3300 IIRC), then fast forwards the orbits from day 0 to the current game date to get the system at the point of entry.
+
+AFAIK, the random events part is in the 'sim up to day 0' part and doesn't factor into the second part. (That's just my understanding of it though, and I don't have an explicit statement from FD saying that.)
+
+So in that context you're looking for unusual orbits and things like that. Not sure off the top of my head quite how you would distinguish the effects of a rogue body from other possible causes. Captured rogue bodies can potentially be tentatively identified by having elements which are absent in the rest of the system (or at odds with where they theoretically should be in the system).
+Reactions:
+PeteACarter

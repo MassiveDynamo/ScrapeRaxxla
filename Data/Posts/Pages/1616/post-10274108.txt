@@ -1,0 +1,21 @@
+Suhurrat
+S
+Dec 3, 2023
+#32,319
+CMDRCorrMorningstarFelian said:
+Factoring this in - we have two ultra-important systems:
+
+- Charick Drift: Contains a white dwarf which would have been around in 2296. Yes, jumping by white dwarf is definitely for the moderately space mad or suicidal. It is only 28.60 LY from Sol. There are also LAWD 26, Sirius, and Van Maanan's Star with white dwarfs. Full list of those within 200 LY of Sol. So this is a viable way of getting far quickly (albeit dangerously) - total of 11 systems have white dwarfs within the viable range with all those less than 150 LY:
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+
+- Jackson's Lighthouse: This system is a binary that collapsed into a neutron star in 2672. It is also outside of 100 LY bubble from Sol. There are no neutron stars within 100 LY. However, starting at 139 LY there are 5 systems within 200 LY with a neutron star.
+Click to expand...
+I'll add an quote from the wiki here.
+
+FSD supercharging from a white dwarf gives a 50% (1.5x multiplier) range bonus, while doing the same with a neutron star provides a 300% (4x multiplier) bonus
+Technically, you can jump both long and not so long distances. If we take into account that hyperdrives existed a long time ago, just made in different ways and using different fuel - then it is quite possible to assume that someone crazy thought of charging their engine from a neutron star, get lost in space, found out raxxla and etc.
+
+I mean all of this from a lore perspective. After all, we know that the raxla was found long before the modern FSD.
+Reactions:
+CMDRCorrMorningstarFelian

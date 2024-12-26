@@ -1,0 +1,42 @@
+Emperor
+Jan 28, 2023
+#29,071
+And from the man himself in the pre-launch news letter...
+
+Fri, 14 Nov 2014
+
+Elite: Dangerous Development
+From David Braben:
+
+The team here have been doing an excellent job developing what is almost certainly the largest game ever created, with a framework of frequent publically released builds executed to such a high quality. It has been an amazing achievement. Their enthusiasm, professionalism and grace under pressure with which they have carried it out is to their eternal credit. I know for a fact they are spurred on in their efforts by the great reaction and enthusiasm you have shown for their work - as am I.
+
+In addition to creating features and content, there has always been an amount of unseen, unglamorous but vital ‘work under the hood’ that has necessarily gone on as we optimize, refactor, fix and tweak to increase frame-rate, stability and general quality of experience. There is an even greater temporary emphasis on such tasks at the moment, to get the game ‘shippable’ with countless fixes, polish and tweaking and fewer features (although of course we still have some surprises left up our sleeves for you leading up to the 16th December!).
+
+Also, as those of you have followed us from the start know, we have some grand plans for the future.
+
+After the 16th December we will continue to update with more polish and content such as the playable ships we committed to in our Kickstarter campaign – in fact I’m delighted to be able to tell you that we are now planning to eventually have 30 playable ships in Elite: Dangerous, 5 more than we committed to in Kickstarter. And most exciting of all, we will start the work on a longer term roadmap that includes getting you up out of your pilot’s seats and out of your starships.
+
+
+These additional features will come post-launch, as we have always planned. That is solely because we want to make sure it is done correctly and to a quality we are proud of and that matches the other aspects of what we plan to be an incredible experience that we will deliver on 16th December.
+
+We will continue to fully and openly engage with you.
+
+Continuing to grow the game past the launch date as we plan would just not be possible at all with the constraints of physical disc manufacture and distribution, and is made possible only by the online nature of Elite: Dangerous.
+
+When we set out on this journey, our ambition was to make Elite: Dangerous as large a technical step forward today as Elite and Frontier were in their time. The way the game embraces and pushes forward the online aspects of technology has been a particularly exciting aspect of that for me.
+
+The basic fact of being able to interact online with our community during development has been tremendous. Just as in a film, based on feedback some of the things we originally thought would work have been left ‘on the cutting room floor’. We have also added unplanned features which I think are fundamentally key to the experience, and have made the game all the better. For example shifting design emphasis towards fantastic major new features such as supercruise, outposts and multiple ship ownership, to name just a few.
+
+We have also been able to create a connected experience which lets you play your own story whilst in a dynamic, ever unfolding galaxy that is constantly reacting to what you and every other player is doing, be that trading, combat, exploration or missions. This has become fundamental to the whole experience.
+
+Going forwards, being online lets us constantly both curate and evolve the galaxy, with stories unfolding according to the actions of commanders. Exploration is also a key factor, too, and it is important that what a single player explores matches what other players explore whether single or multiplayer – a complex, coherent world – something we have achieved. Galaxy, story, missions, have to match, and it does mean the single player has to connect to the server from time to time, but this has the added advantage that everyone can participate in the activities that can happen in the galaxy. A fully offline experience would be unacceptably limited and static compared to the dynamic, ever unfolding experience we are delivering.
+
+If you were able to offer me on the 3rd January 2013 what we will deliver on the 16th December 2014, I would have grabbed it with both hands. It is fantastic what the team have done, and are still doing – a phenomenal job.
+
+I’m really looking forward to meeting those of you who are able to come to the Premiere event on 22nd November to help celebrate that achievement, and thanking you for helping to make this possible.
+
+And more importantly, I’m looking forward to seeing you and many, many more out in space on the 16th December and for a long time afterwards.
+
+Right on, Commanders.
+Reactions:
+Han_Zen, CMDRCorrMorningstarFelian and Rochester

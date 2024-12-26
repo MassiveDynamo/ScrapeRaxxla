@@ -1,0 +1,9 @@
+simulacrae
+Apr 2, 2021
+#22,604
+digitaldreamer81 said:
+Just a word of advice.. my design of the triangles is very intentionally crafted to remove as much ambiguity on the z-axis as humanly possible. Given the equidistance but opposite direction you can keep things in a relatively easy to work 2D plane. Even then, I am going to have to probably look up some stuff to validate that the z-axis portion gets calculated sanely.
+
+Ya i just wanted to see how close it was to a 45/90 triangle. Thankfully im getting a little help with 3d plot to make it easier . If you have some points you want mapped just let me know. - always a sucker to make a map
+Reactions:
+Vetinari, Jorki Rasalas and CMDRCorrMorningstarFelian

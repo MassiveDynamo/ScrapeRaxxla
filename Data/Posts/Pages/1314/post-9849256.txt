@@ -1,0 +1,11 @@
+HansAcker
+May 27, 2022
+#26,262
+Macros Black said:
+Using the edsm api gives 750 systems
+
+If you're looking for a named planet, it might be better to filter out all systems already fully known to EDSM (otoh, I don't see an option to search for planet names in EDSM, so maybe not?)
+
+If it's a signal source (because "it's a journey that everyone has to travel for themselves"), that won't help, though.
+Reactions:
+Macros Black

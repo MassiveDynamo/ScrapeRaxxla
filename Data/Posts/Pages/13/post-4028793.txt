@@ -1,0 +1,57 @@
+Macros Black
+Jun 5, 2016
+#253
+Hunting permits & materials
+
+Back from DWE (no, did not find Raxxla), and are now using exploration data to gain system permits.
+
+System permits:
+PI Mensae - Walgan
+Isinor - LTT 5053
+
+Materials:
+Materials Name System Station Amount
+Modular Terminals Monoto Reed Dock 4
+Specialised Legacy Firmware Walgan McMullen Colony 1
+Magnetic Emitter Coil Walgan McMullen Colony 4
+Strange Wake Solutions Monoto Reed Dock 1
+Polonium Brandano Lenoir Depot 1
+Magnetic Emitter Coil Brandano Lenoir Depot 4
+Modular Terminals LTT 5053 Virchow Depot 4
+Specialised Legacy Firmware LTT 5053 Virchow Depot 1
+Specialised Legacy Firmware I Carinae Somerset Station 1
+Specialised Legacy Firmware Vucub Huan Walter Prospect 1
+Magnetic Emitter Coil Vucub Huan Walter Prospect 4
+Modular Terminals Lei Zi Macedo Station 4
+Polonium Beronii Howard Dock 1
+Pharmaceutical Isolators Fujin Futen Spaceport 1
+Chemical Manipulators Fujin Futen Spaceport 1
+
+Note: If mission reward is commodities, make sure you have room for it in your cargo hold or else the reward mission will not show.
+
+CNB:
+Vucub Huan
+Theotokos (near Eurybia)
+LTT 464
+LHS 1226
+Brandano
+Toci
+51 Arietis
+HR 4734
+
+HazRes:
+Belarsuk
+Lawd 27
+Oeng
+51 Arietis
+Katta
+HR 4734
+GCRV 1526
+
+Capital Ships
+Inti
+
+PS: The Python is the best mission ship.
+Last edited: Jun 26, 2016
+Reactions:
+M. Grey

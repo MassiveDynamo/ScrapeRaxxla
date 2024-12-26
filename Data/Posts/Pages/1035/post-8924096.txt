@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jan 28, 2021
+#20,689
+Djidjel said:
+I could only see something useful in CMDR Falconscreech's vid, it said 924 kLs from Sol. Asteroid belt is 1.1 - 1.6 kLs (my calculations, not FD's). Could be the closest belt limit, don't know exactly where FD put it in-game.
+When checking for the green-glow source, it might be useful to have Sol selected in order to get an accurate distance reading, so other cmdrs might use it to try to replicate.
+
+edit: typos
+The main asteroid belt has inner radius 1027 ls from Sol outer radius is 1631 ls, so middle is 1327 ls.
+If you want to see the asteroid cluster symbol shown in the hud then you mustn’t have anything selected. It’s easy enough with a headtracker to keep glancing over at Sol to check the distance, or a quick look in the nav panel if Sol is at the top of the list.

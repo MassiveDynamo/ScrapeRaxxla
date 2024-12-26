@@ -1,0 +1,12 @@
+John Stoutbeard
+Mar 1, 2020
+#15,532
+Thatchinho said:
+Nicely spotted.
+
+Could do with someone with VR to check and confirm, but that looks to me like the blue circle is on the 'dashboard' and not part of the radar projection.
+It is, I have both VR & TrackIR. I would say it's a feature of certain ships. I'm in the conda now.
+
+In the station, nothing on sensors due to station menu, but the ring is still there.
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and Thatchinho

@@ -1,0 +1,11 @@
+Han_Zen
+Nov 3, 2021
+#24,686
+electro said:
+Example of what it cant detect?
+In addition to the comets that are kind of invisible, it can't detect ships in normal space. Ships needs a beacon to be detectable (is this the case for fleet carriers as well? ).
+According to the codex even stations will go undetected, if the emissions are low enough.
+
+For natural objects it seems that 135km is the minimum size for a single object. Smaler objects are only detected if they are part of a cluster or ring.
+Reactions:
+Jorki Rasalas, Rochester and electro

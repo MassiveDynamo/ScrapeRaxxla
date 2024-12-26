@@ -1,0 +1,16 @@
+CMDR Alexander Sarethi
+C
+Mar 3, 2021
+#21,586
+Yea, Raxxla as jumping ship is a good idea:
+1) Fit to Elite Dangerous engine capabilities
+2) Interactable without horizons update
+3) Easy to control, you can hide it without additional permit locks
+4) Explain why DW lost it. Stellar object like planet is hard to lost, but jumping algorithm...
+5) Without knowing what are you doing it is almost impossible to find it, brute force is useless as ship will jump out.
+
+So we just need to figure out where it jumps
+
+PS: Gateway to another galaxies is not needed, I think long jumps like few sectors could be already powerful.
+Reactions:
+Exekrator and [PS4] Filthymick420

@@ -1,0 +1,24 @@
+Thatchinho
+Mar 1, 2020
+#15,531
+Hey, @Macros Black
+
+OT for the actual search, but am doing some fixing of a few links that were broken in the forum change.
+
+Went to the FP of this thread as I knew there were some links that were in the right format there, but spotted a couple have the same issue as mine, so just thought I'd drop in how to fix them (also posting in the thread just in case anyone else needs to know).
+
+Ones that are in the old format no longer work, and will just link back to the FP.
+
+Example of old format below:
+
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/#post7463500
+
+The fix is to drop the '#' and add a '-' between 'post' and the post number.
+
+See fixed version below:
+
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-7463500
+
+Hope that's useful!
+Reactions:
+Edelgard von Rhein, Eckee, simulacrae and 5 others

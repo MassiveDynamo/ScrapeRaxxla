@@ -1,0 +1,19 @@
+Spaceman Spiff
+May 1, 2021
+#23,088
+Rochester said:
+If this occurs regularly, then it’s likely a bug, report it, FD probably are aware of it but keeping quiet, like many of its other stellar forge issues. Unless they say ‘as intended’.
+I have no idea why this is so easily the default position... it truly baffles me.
+
+I get that the long-standing community has had to deal with some ridiculous stuff in the past, has seen X amount of bugs. And I can see how that has to weigh on considerations going forward.
+
+However. I can also see that it has clearly jaded a certain portion of the community to the point of being essentially blind to anything that is not either "normal" or "proven". Honestly, and I say this respectfully... at this point I think that the part of the community that feels this way could almost stop looking for Raxxla? I mean, if everything that has been tried up to this point has proven fruitless, we are going to just continue doing the same stuff and call anything else a bug?? Never gonna find it this way.
+Should we not be paying attention to things that we haven't paid attention to yet, without immediately assuming every new observation is a bug?
+
+To me, this is a visible, obvious-once-you-see-it detail. This works for me, as opposed to chasing theories hinged on brute-force, abstract, metaphor, and flat-out guessing. I can see it, I can track it, and it makes sense to me in terms of story, lore, related observations, and more. To me, this is the type of thing that MB was talking about when he said "I think you have to make some of it a tiny bit obvious, just so people know what they're doing".
+
+I hope this doesn't come off as defensive, I just truly get frustrated when we have about ZERO faith in Fdev and their ability to be intentional about anything at all. I see it differently, I have the luxury of coming in later in the game and don't have all the baggage. I think if I felt like that, though, I probably wouldn't play anymore... at least not for the mysteries.
+
+This all said, I have no problem with anyone reporting it as a bug and seeing what comes back. But I have enough confidence in my own personal ability to weigh out what may be a bug, and what likely isn't, that I don't feel the need to do this. I don't think this is a bug.
+Reactions:
+[PS4] Filthymick420, clavain, Koben and 1 other person

@@ -1,0 +1,31 @@
+Louis Calvert
+Dec 1, 2022
+#28,193
+Suhurrat said:
+Part of the lore. Also Space madness.
+
+
+
+Is there any concrete evidence?Because I am based on my programming experience and from the logs that the game itself keeps. According to the logs, the jump from system to system occurs in the simplest way. Player at point A - jump initiation - objects unloading - objects loading - server cluster switching if necessary - exit to the generated cluster.
+
+It is for this reason that some people got stuck or complained about too long warp jumps, because the engine loads the necessary assets while you are in a state of transition. That is, in a hyper-jump.
+
+
+
+These are the usual generation bugs. I myself have encountered them when you have a jump exit going straight into the texture of a star, when you have planets or stars spawning right into each other, and so on. The same goes for navigation. The map works with a stretch, and we have already discussed this above for a couple of pages. Procedural generation and a huge database of names. it's just buggy when searching or generating objects.
+
+So I don't want to upset you, but Witchspace is nothing more than a transit loading screen. As I wrote above, until the developers change this and make it a full-fledged space.
+
+Especially after the last patch, my game is sometimes buggy and I see the boundaries of the skybox in the game. The skybox moves with the player, but does not load assets of other systems without jumping.
+
+There was a wonderful bug in horizons when some stations were not loaded, and instead of being in front of the station, you found yourself in an empty space.
+Click to expand...
+....i just...
+
+
+
+... you know what.. nevermind....
+
+Interested to see the results of your pulsar idea!
+Reactions:
+Suhurrat and John Stoutbeard

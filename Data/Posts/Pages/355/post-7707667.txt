@@ -1,0 +1,52 @@
+Djidjel
+Mar 29, 2019
+#7,089
+Hello CMDRs.
+A 75k ly exploration trip through the Milky Way gave me a lot of time to read/think about Raxxla. I think The Codex is the best place to look for clues, so here's my 2 cents. Most likely to be proven wrong when/if Raxxla eventually gets found (I think The Braben LOLs all the time when he reads what we post here).
+
+TL,DR - Possibility of a connection between Raxxla and pulsars/neutron stars. Arguments below.
+
+1) The jewel that burns on the brow of the mother of galaxies. Pulsars burn bright pretty much anywhere and can be seen from tens of light years away; it might also refer to the importance and value of Raxxla. Brow means "forehead" or "bridge" (i.e. the plank that sailors use to get to shore from a moored ship). Earth is located in the Orion Arm of the Milky Way, also named the Orion BRIDGE or Orion Spur. In-game, the Inner and Outer Orion Spur regions. Mother of galaxies - maybe it's the whole damn thing, the whole Milky Way.
+
+2) To the whisperer in witch-space, the siren of the deepest void. Something related to sounds it seems. In Audacity I recorded a few hyperspace transitions from/to neutron stars, between regular stars, to/from black holes. Well, mid-jump sounds seem to be just a 7-second loop that keeps repeating until the target system loads. Waveforms and spectrograms were looking similar to my untrained eyes, but there were some subtle variations in dB levels in hyperspace jumps to black hole/pulsar systems. Nothing conclusive though. However, pulsars have that humming sound when near them, so one might consider that as whispering. (on the left side, each graph has these annotations: BH=black hole; P=pulsar; O,B,F,K,M=star classes; OC=FSD overcharge ex. K-M: jump from K-class star to M-class)
+
+SPOILER: WAVEFORMS
+
+SPOILER: SPECTROGRAMS
+
+Also, I think that the graph above the fuel gauge might not be related to ship heat, but to ship NOISE. I came to this conclusion after comparing the graph mid-jump vs silent running. Mid-jump the graph was high, "agitated", with a lot of spikes, and ship heat was only 53%. In silent running, ship heat was almost 88% and the graph was constant and in some places "calmer" than it was mid-jump, getting wider and wider as heat and noise increased (the high-pitch noise gets louder as ships gets hotter). I had to stop silent running at different levels of heating in order to see this.
+
+SPOILER: MID-JUMP
+
+SPOILER: SILENT RUNNING 53%
+
+SPOILER: SILENT RUNNING 88%
+
+
+Maybe that graph is the best tool we've got for seeing those mysterious "whispers" and I was looking at it the wrong way.
+
+3) Lover's woe, parent's grief. Pulsars destroy ships piloted by someone's loved one or child when they get careless or unlucky. Easy one.
+
+4) Yearning of our vagabond hearts. Many want to find Raxxla, nobody knows what we're gonna find. Must be that fernweh thing.
+
+5) Cora. In my opinion not important, because she is after the pirate stash, she doesn't mention Raxxla. Raxxla is mentioned by...
+
+6) Art Tornqvist. That's an interesting one. Why that particular name? Art/Arthur means "bear", Tornqvist literally means "thorn branch". So we have something that "bears branched thorns" (like the ones on the acacia trees). Metallic crystals are very similar to the acacia branched thorns. Aside from that, there's an interesting theoretical astral body (and exotic for that matter, since game files do contain exotic bodies) called a Thorne-Zytkow Object. TZO's are pulsars inside red giants or supergiants, ocurring in globular clusters or as a consequence of a supernova explosion. Also, again, pulsars.
+
+7) Omphalos. The Omphalos Stone is a hollow, cone-shaped rock. But in the Codex, the Omphalos is mentioned as a Rift, an alien artefact, not necessarily an object, but definitely of alien origin. Ever used the neutron highway? Of course you have. What's the shape of the neutron star ejections we use to supercharge FSD? Conical. And hollow(ish).
+
+8) Astrophel. In my opinion it's very important to make a clear distinction here. If you LISTEN, not just read the Codex entry for Raxxla, you'll notice the way it's pronounced. Not Astro-phel, but A-strophel, or even better, As-trophel. In greek, "trophein" means to feed, and "trophi" are related to the mouth organs of rotifers (microscopic organisms). Something related to feeding and mouth. Or a maw perhaps? Maybe that maw looks like a rift?
+
+9) The Spiralling Stars. As in more than one. Pulsars are spinning, and the ejection cones clearly show a spiral. Imagine a binary/multiple pulsar system where the magnetic and gravitational forces are so great that the interference creates a tear in space/time. Or a wormhole.
+
+You might have noticed I didn't say anything about Astrophil and Stella. While i may have enjoyed the 400-year-old lamentations, in my opinion there is NO connection between Sir Philip Sidney and Raxxla. The sonnets are just too vague to be of any use.
+
+Tinfoil bonus: maybe Raxxla is INSIDE a BH. After all, there is a video on youtube of a cmdr who went inside one in E: D and lived.
+
+That's it. What do you think?
+
+o7
+
+edit: typos
+Reactions:
+Fiera, Nerix and Han_Zen

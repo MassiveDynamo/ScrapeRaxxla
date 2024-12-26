@@ -1,0 +1,14 @@
+Han_Zen
+Apr 13, 2020
+#16,043
+Filthymick420 said:
+How would one use RA and declination to find a location? For example, how would i use Right Ascension is 21h 45m 53s and the Declination is -12° 01’ 05 to find asteroid 19 Fortuna? Chasing a lead....
+The only practical way to do this in ED, is to find a star with aproximately the same RA and DEC and ai for that.
+
+Simbad http://simbad.u-strasbg.fr/simbad/ is a good place to start, because it has cooridinate search. You can fine tune by checking stars in the right direction, in EDSM.
+
+It takes a bit of fiddling in the gal map, but you wil find an ok star to head for.
+
+Good luck.
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and PeteACarter

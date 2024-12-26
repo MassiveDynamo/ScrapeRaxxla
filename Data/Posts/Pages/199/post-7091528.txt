@@ -1,0 +1,29 @@
+Jorki Rasalas
+Oct 19, 2018
+#3,961
+Scytale said:
+Something like ... https://en.wikipedia.org/wiki/Mythago_Wood ???? And remember, in Oolite Raxxla is the very witchspace itself. So not a recent idea.
+
+
+(Doc, any idea about this RH's work?)
+
+
+
+As I already asked here, can some Game Dev geek say if it would be possible to implement that Raxxla thing in the game without the team of part of it knowing about it ? I doubt MB and DB would do the programming by themselves...
+The hypothesis was DW's tweet. "". But things may have changed since.
+
+Ah I’ve never been a Twitter, did DW really say that? Wasn’t aware of it. It’s quite possible since I suspect that the handmade systems are not “programmed” per se but inserted into the Stellar Forge as a database entry that may then be manually tweaked, though I’m sure that DB/MB are capable of programming or setting up a SQL query while nobody else was in the room. From the Ch3 livestream it looked like Ed didn’t know the details of Raxxla, but it might make sense for Adam & the Executive Producer to know.
+Just musing.....
+
+Stinja said:
+Or you could say DB just Opened The Door
+
+
+
+Looks exactly the same (well when not highlighted, this is obviously inversed colours) as the new right panel -> Ship -> Pilot Preferences tab-option:
+
+
+
+So either TDW refers to "your personal journey", linking back to your ship and pilot, or maybe it's just re-used assets
+
+Well spotted!

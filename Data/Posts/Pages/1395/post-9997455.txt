@@ -1,0 +1,36 @@
+Louis Calvert
+Nov 15, 2022
+#27,898
+Yuki Estelle said:
+Since the Raxxla logo has been brought up again I just wanted to dredge a few points from past studies that I find relevant:
+
+The center symbol (the circle with a dot in the middle ☉) was used during Renaissance Europe to depict the sun.
+The three outer arcs resemble one of ED's target reticles.
+As previously mentioned, dotted lines appear to indicate something in the background, or behind. This also occurs in ED when targetting bases and stations behind planets/moons.
+The 6 strange black shapes on the outside are presumed to utilize negative space, rather than indicating actual shapes themselves. Train your eyes to see the space in between them and you are presented with 6 rectangles radiating outward. This could potentially represent a station, such at the one we see in the Dark Wheel Codex entry or the backside of a normal station interior.
+
+When placed together, these symbols prompt a number of interesting theories. If we take them at face value using their proposed functions, it could translate into something like, "A targetable Ocellus or Oribis station hidden behind a sun."
+
+More abstractly, since a weapon reticle is used we could interpret it to mean the only way to find the station/object hidden behind the sun would be to complete a series of combat missions or tests, which falls in line with the Dark Wheel's motif.
+
+When stripped of all presumption we are left with some wild theories. Safely assuming the circle with a dot at it's center is still the sun, we could be looking at a Dyson Sphere enveloping it. Or a giant Guardian construct. The whole image could even represent an astroid base.
+
+At the end of the day this is all speculation, but I feel like it's an important addition since the symbology used appears to be commonly recognizable.
+Click to expand...
+
+These are all excellent points. I hadn't made the connection with #3 "when targetting bases and stations behind planets/moons", that's a good insight!!
+
+@Rochester yes that's a good point about the dotted line too, it's almost certainly "missing" or "hidden" or... something 'not there'... or something like that.
+
+@Allen Stroud thanks, that's always good to know. I think people need reminding that Elite Dangerous is the Primary Source - as you put it so well - as often as possible. I'm still seeing people quoting the 7ly jump range because of original Elite
+
+I do think there's symbolism in the logo, but as we've pointed out, it's probably relatively simple and only one part of the larger puzzle.
+
+I have a ton of updated thoughts, I am compiling an updated version of my Saturn idea, need to bash my notes into shape; but I'm just waiting on the final CS message on Mimas so I can share that in its entirety with you all first.
+
+For now: CS confirmed Mimas is missing deliberately (not a bug/accident/forgot to add it) - I'm just waiting on confirmation of a couple of clarifications I asked for.
+
+Question: Is the green of the Raxxla logo important, do you all think?
+Last edited: Nov 15, 2022
+Reactions:
+Rochester

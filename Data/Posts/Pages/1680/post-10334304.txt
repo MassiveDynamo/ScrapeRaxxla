@@ -1,0 +1,36 @@
+selbie
+Mar 17, 2024
+#33,581
+Been searching around places to find archival screenshots of these Tourist garden stations. I found a post on 3 April 2015 with some decent shots of the gardens.
+Leonard Nimoy Station and the Imgur gallery linked there.
+System: LHS 3006 -> Vulcan
+Station type: Orbis
+As you can see these are simpler designs - more 'plaza-like' and not overly symbolic.
+
+Commenters around that time period also mention garden stations:
+M.Gorbachev, Abe Lincoln, Li Qing Jao Stations - Sol
+Galileo Station - Sol
+Mars High - Sol
+Gareth Edwards Park / Vonarburg Co-operative Station / Bokeili Station - Wyrd (whichever the "main station" there is)
+Benlivia Station - Futhorc
+Barker's Horizon Station - Futhark
+Irkutsk Station - Alioth
+
+[[Music Warning]] - timestamped video shows the full interior of M.Gorbachev Station at Earth. Video was posted 22 December 2014.
+
+These 'palm tree' type garden stations like MGorbachev have definitely been covered over in more recent iterations.
+
+SPOILER: EXAMPLE FROM 2020
+
+Could this indicate FDev steering us to specific tourist stations, so players don't get sidetracked with these plainer wealthy stations. The systemic nature of their spawn conditions in the game - system type, population, economy etc, points to their locations being irrelevant to any "mystery" they may be pointing to. This would narrow it down to the Milton garden being a more generic clue.
+
+Six station interior types for Coriolis, Ocellus, and Orbis stations are:
+Standard / Industrial,
+Wealthy / Service, - formerly a garden type with simple lawn + lake designs
+Tourism, - the Milton garden type
+Refinery / Extraction,
+High Tech, and
+Agriculture.
+Last edited: Mar 17, 2024
+Reactions:
+Shadowsnog, SpaceGoblin, Rochester and 1 other person

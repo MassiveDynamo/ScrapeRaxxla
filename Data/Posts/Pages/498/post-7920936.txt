@@ -1,0 +1,17 @@
+[Diplomacy] Carnegie
+Jul 29, 2019
+#9,958
+sam23694 said:
+I'm in 27 cass again now, here's the orrey:
+
+
+
+
+Just like 27 cass A orbiting nothing, both B and C do. And by nothing I mean their common barycenter. To take it a step further B and C orbit a common barycenter, and both together share a barycenter with A.
+Click to expand...
+
+You can tell when stars are orbiting each other from the System Map too - they'll each have their own 'row' on the map. So in 27 Cass there'll be 3 rows, one each for A, B and C - incidentally, that's why they're labelled that way. If everything was orbiting the primary they'd be A, A1 and A2 - you'll most often see this with 'Big Blue' stars (O and B-type) which frequently have smaller stars orbiting them. Sometimes those orbiting stars will be as large as K-types, but usually they'll be non-scoopables.
+
+You can even tell from the Gal Map when a system contains multiple stars with a shared barycenter since it'll list all the stars which have their own row - though it won't indicate how they're arranged. Hence Tra X1 shows 'Black Hole, Black Hole, Black Hole', without indicating they barycenter layout.
+Reactions:
+Jorki Rasalas

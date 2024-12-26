@@ -1,0 +1,6 @@
+yelboc
+Aug 7, 2019
+#10,342
+darkflemish said:
+Ok, I don't know that, just playing around and try to see things different ;-)
+This is the danger of java tools like this which dont describe how they work inside..

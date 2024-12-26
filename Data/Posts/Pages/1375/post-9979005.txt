@@ -1,0 +1,24 @@
+Allen Stroud
+Oct 22, 2022
+#27,483
+CMDRCorrMorningstarFelian said:
+Can you please confirm if it has always been intended that Lave was a dictatorship at the time of the first game? If so, that has some rather interesting complications it brings to the lore. I believe "History of Lave" beacon states Dr. Hans Walden does not come to power until 3174. This places events in the first game in the series as post-First Thargoid War which should have ended in 3151. Also, we have Thargoids in the first game but they were supposed to have vanished shortly following the war per GCS Saravasti. This may also mean Quirium really is just hydrogen fuel produced by and large by Sirius Corporation and is no more exotic than the most basic element in the Universe. It also means that weird date conflict regarding development of Mycoid would be solved by INRA being the Imperial Navy Reserve Arm which I believe was hinted at via First Encounters journals.
+
+In other words, the Elite series is one continuous Universe. Also, it would allow for the Holdstock version of Raxxla to be a viable option as "Alien World: A Complete Illustrated Guide" written under the pseudonym Steven Eisler very much depended on Earth being central to the story. I just don't yet know what the "butterfly effect" of these changes will be but they are fairly non-trivial. Also, , while we are at it can you confirm if Raxxla is the entirety of the Elite Universe (where "definite place" per Michael Brookes is perhaps a loose interpretation)?
+Click to expand...
+Okay, so this is a tricky one.
+
+The discussions on establishing the background of Elite Dangerous did initially include some discussions about attempting to incorporate more of the Elite mileu into the Frontier Elite timeline. Dave Hughes was particularly keen on this. However, as this progressed, it was clear this wasn't going to happen. See my previous post about the Old World document.
+
+All attempts to reconcile Elite with Frontier, beyond what you see in game and in the official fiction aren't viable. The tone of the first game is very different. The inclusion of the Old Worlds region and a tiny bit of the background (Jameson, ships, etc) are a retconned tribute and new narrative. Essentially, the Elite (original game) narrative, context and content has been cherry picked for things that were liked, and that could be included without disturbing the existing Frontier: Elite 2 context too much.
+
+Some elements were carefully tweaked. I think when I wrote the Corporations document, I offered a narrative for pretty much every ship builder from the first game. Some got bought out, others went bust, others continued.
+
+I would say clearly, any attempt to reconcile the main narrative of Elite (original) with Elite Dangerous beyond how it is already connected is only an exercise in personal canon. That's a perfectly viable exercise though. I wrote a paper about it some years ago:
+https://www.academia.edu/35932187/Inspecting_the_Canons_Divergent_Stories_in_Popular_Fiction
+
+There are some nice homages. T James wrote a Cobra Mark I into his book. Lave Revolution maps the timeline of the planet and explains what happened to the tree grubs, why Viper Mark Is and IIs were decommissioned ('coffin rockets') and even has a little reference to indigenous life on the planet.
+
+So, I'm sorry, but other than as your personal narrative, there isn't a direct in game in fiction narrative explanation for Elite's original 1984 context being so different to the current game, because a decision was taken that it wasn't needed.
+Reactions:
+Andrew Gaspurr, Rochester and CMDRCorrMorningstarFelian

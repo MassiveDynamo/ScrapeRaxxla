@@ -1,0 +1,17 @@
+Louis Calvert
+Dec 17, 2023
+#32,577
+@Han_Zen @Jorki Rasalas @Emperor
+
+Well. Time for me to eat humble pie... again
+
+
+What I was seeing as rotation in sequential still images was in-fact the animation of the flare playing through a loop, you guys were right. The flare objects are themselves '3D' objects, but not in the way I thought. They are indeed misplaced solar flares/solar activity.
+
+I think I need to take a rest, there's too many windmills out here...
+
+Apologies again!
+
+o7
+Reactions:
+Merlin StWahgwaan, selbie, Rochester and 1 other person

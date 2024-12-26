@@ -1,0 +1,25 @@
+Jorki Rasalas
+Nov 15, 2024
+#35,320
+Emperor said:
+All things Frontier Developments at E3 2014!
+Think it might be "Paradiso Outpost", then an illegible (to me) line and "Independent Jurisdiction" on the line below. Your guess is as good as mine re the build no. It is indeed Paradiso Outpost - it's a deep space exploration support station. Michael
+forums.frontier.co.uk
+View attachment 408625
+This one has always bugged me.... and not in a Thargoid way...
+
+and this....
+
+
+"Planets begin life as a disc orbiting with a a newly formed star at its centre. “The disc has material density and temperature information which reflects how lighter materials tend to get pushed further away from the star by the radiation pressure,” says Ross. “This has an iterative process applied to it as epochs of time are simulated, based on the rough known age of the system.”
+
+Stable orbits are then determined for objects formed from the materials in the disc clumping together. , to disrupt the orbits and create fledgling planets and moons."
+Click to expand...
+I think both parts of that are sensible if you consider those sources were not necessarily speaking specifically about ED the game, but about actual IRL astrophysical processes that FD aimed to simulate within the game (albeit the game is set many millions of years after the systems were formed).
+
+A cloud of stellar gas and dust collapses under the effect of gravity, and naturally forms into a rotating disc through the effect of conservation of momentum. Clumps of higher density within that disc will grow to form planets and (if large enough to reach thermonuclear ignition temperature) stars, and I think would naturally be in an ecliptic plane with identical directions of rotation. If/when a star ignites then it will exert radiation pressure that will tend to blow lighter materials away first, hence the gas giants tend to be further out with rocky bodies closer in to the system centre. However orbital resonance effects can affect the planets causing their orbits to move around the system, or to be ejected entirely from the system as rogue planets, together with smaller intersystem "comets"/asteroids. Those rogue bodies could later influence the orbits of bodies in other systems. Impacts of planets within a system can affect the surface of planetary bodies, and perhaps alter their direction of rotation. FD built a simulated Milky Way galaxy that represents all/some/most of these processes. Look at the orrery view in a few systems- some bodies are clearly representing captured rogues since their orbits are inclined at significant angles to the ecliptic.
+
+Now only FD know whether, after all the time since their simulated galaxy formed, rogue planets are still wandering around or whether they have all been captured. We know the specification allows for them to still exist, but as players we cant be sure (until we've explored all the systems in the game- at 72 I suspect I wont be around to see that!). Is Raxxla a rogue planet...maybe, maybe not. No sé quien no sabé!
+Last edited: Nov 16, 2024
+Reactions:
+Rochester and Ian Doncaster

@@ -1,0 +1,11 @@
+Jorki Rasalas
+Oct 8, 2020
+#19,197
+Djidjel said:
+I'm using EDDiscovery and the download is so slow I'm starting to lose it. Is there a faster way?
+
+If you’re using EDD and installing/replacing its database it’s a slow job. Took around 7 hours for me (full database, 4.2 Gb), but apparently is faster if you put it onto an SSD; if you cancel it then it causes an error which prevents the full download, you have to delete the database and restart & just leave it-clear your machine’s Sleep timer!
+
+If you’re downloading via the API to do some galactic analysis then I have no idea. You’re going to be limited by your machine speed, your internet connection, and the server speed....
+Reactions:
+[PS4] Filthymick420

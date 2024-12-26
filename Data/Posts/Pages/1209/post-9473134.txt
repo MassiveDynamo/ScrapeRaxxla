@@ -1,0 +1,33 @@
+CMDR Davanix
+Aug 20, 2021
+#24,172
+CMDR Davanix said:
+Heres one i havnt seen mentioned as a theory yet, could the Raxxla logo represent Ring Topology in networking, if you read a description for ring topology it almost sounds like you are explaining how the FSD works
+
+View attachment 257248
+View attachment 257249
+
+FSD system to system jump through Ring Topology:
+
+In ring topology each device is connected with the two devices on either side of it. There are two dedicated point to point links a device has with the devices on the either side of it. This structure forms a ring thus it is known as ring topology. If a device wants to send data to another device then it sends the data in one direction, each device in ring topology has a repeater, if the received data is intended for other device then repeater forwards this data until the intended device receives it (Permit lock within fsd systems).
+
+
+Thargoid Interdiction described through Ring Topology ;-)
+
+A node failure or cable break might isolate every node attached to the ring. In response, some ring networks add a "counter-rotating ring" (C-Ring) to form a redundant topology: in the event of a break, data are wrapped back onto the complementary ring before reaching the end of the cable.....(When you get hyperdicted you end up back in the previous system only at a fair distance away from the star)
+
+Now heres a fun test, just as you jump disconnect your network cable.....even though you went to the other system and the server would have picked up your jump you will be back where you where before the jump when you log back in
+
+I wonder...just like you could force a missjump in the older games to get you into witchspace...have fdev added a way to missjump into whichspace using modern technology and Raxxla is there waiting..........or could you maybe even find the location using wireshark or some other form of sniffing tech...I know long shot and right up the thinfoi alley, however a new one
+
+
+Or is it a Star topology and Fdev are basically saying the centre of said topology is the hub we all connect to, swapping us from system to system, hub to hub etc...and that the Elite server we all connect to is infact..Raxxla which makes it not only in the game but very much apart of it and a journey we all must take when we play, They had to make it a little obvious ofcourse.........
+
+Click to expand...
+Hmm...coincidence or not???? My profile was viewed by Michael Brookes yesterday and now this is released
+
+Conspiracy Theorist Finds Network Home - Elite Dangerous
+Independent journalist Flint ‘Firemaker’ Lafosse has announced that the Rewired network will broadcast Kit Fowler’s conspiracy-laden show End Times. L...
+www.elitedangerous.com
+
+Independent journalist Flint ‘Firemaker’ Lafosse has announced that the Rewired network will broadcast Kit Fowler’s conspiracy-laden show End Times.

@@ -1,0 +1,12 @@
+MrMatt-V
+M
+Nov 28, 2017
+#1,199
+Bathuzad said:
+Alright this was interesting; went to Lave to see about that asteroid cloud where the first moon was supposed to be. when trying to get to the second cluster I found the approach taking weirdly long... only to later notice it was stuck on 9.9ls and constantly resetting to this distance.
+
+Probably nothing but a desync, still curious though
+
+Edit: it's happening again, with my ship seemingly just drifting around it, being pushed away
+
+New CMDR here. I was able to replicate this on PS4 Horizons version. Won't let me get within 8.4M of the cluster, before slowly pushing me back.

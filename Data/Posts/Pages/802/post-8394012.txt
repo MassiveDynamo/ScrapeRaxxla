@@ -1,0 +1,11 @@
+PeteACarter
+P
+Apr 13, 2020
+#16,033
+Filthymick420 said:
+Once i have the distance, how do i find my heading though?
+
+Also, you know how when you have your destination targeted in system and it shows the time to get there at present speed? Is there some way i could get the distance out of the 21h 45m 53s?
+I like your thinking with this. I had exactly the same thoughts last year, but couldn't ever work out how to get the RA+Dec accurate. Tips I got were all PC based but I'm PS4 and I think you are too right?
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

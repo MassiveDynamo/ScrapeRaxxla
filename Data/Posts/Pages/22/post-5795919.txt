@@ -1,0 +1,37 @@
+John Stoutbeard
+Aug 4, 2017
+#436
+Jaiotu said:
+The answer you're looking for just might be found in Robert Holdstock's original The Dark Wheel novella which was released along with the original Elite in 1984.
+
+It's a short read and can be found all over the internet with a quick Google.
+
+Here's a link to one of the many pages that have the novella archived: http://www.elitehomepage.org/dkwheel.htm
+
+-------
+
+This also brings to mind a theory that's been swirling around my head this week. Perhaps the journey to find Raxxla is a literary one.
+
+A while back I had a short exchange of conversation in email with Ian Bell, co-creator of the original . According to Bell, Robert Holdstock had a very specific concept behind what exactly Raxxla was intended to be and that, now that Holdstock is dead, Bell remains the only person alive who knows what Holdstock's original imagination of Raxxla is or was. According to Bell:
+
+
+
+
+
+
+
+It stand partly to reason that if Ian Bell is aware of what and where Holdstock intended Raxxla to be that David Braben would likely have been aware as well. It seems odd that Holdstock would have withheld that information from one half of the orignal creative team. If so then it is possible that David Braben has placed Raxxla in the Elite: Dangerous galaxy as an homage to Robert Holdstock ... a "thank you" to his memory and all that he did to help breath life into an 8-bit vector graphics video game.
+
+Holdstock reused "Raxxla" and "The Dark Wheel" from in novella. Is it possible that there are other hints hidden away in some of his other literary works? Perhaps finding out what Raxxla meant to Holdstock will lead us to unlocking the mystery in the game.
+
+Nice update and well concluded. I think I'm a fan of this theory.
+Especially now after looking through the code & testing the name-generator for the old Oolite / Elite universe.
+I discovered it has no way of generating a name with "RA" + "XX" + "LA" simply because the double-x variant doesn't exist in the generators strings. And it cannot use single letter-combinations in any variant from what I can see.
+
+Hence I like your idea that it may be in the current game somewhere as homage to Mr. Holdstock.
+And in context to what you wrote, then the original "Raxxla" construct have no sublime message including coordinates in it's name or anything either, so then any conversion of the letters to any number format is just a waste of time.
+
+We're back to keeping our eyes peeled for anything that can give us a hint ingame as to where this homage is.
+Last edited: Aug 4, 2017
+Reactions:
+madbilly, Jaiotu and M. Grey

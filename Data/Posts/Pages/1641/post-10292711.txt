@@ -1,0 +1,25 @@
+Merlin StWahgwaan
+Jan 1, 2024
+#32,812
+Bushido Brown said:
+Louis, you said you were recording while flying around - have you got a handy setup where you can watch a spectrogram on one monitor as you play? because that sounds like a great help.
+Not sure about Louis,
+
+but I've done something similar to that for other reasons in life, years ago, cant even honestly remember why,
+and I had to re-Google the instructions just now on how to do it, and I'm not sure if it works with Audacity because I don't use it and have no idea if Audacity does Spectrum from live Microphone input...
+
+But for anyone, including yourself who wants to try, you can do this in Native Windows;
+
+SPOILER: SPOILER
+
+
+
+
+
+
+
+
+
+
+Reactions:
+Louis Calvert, CMDRCorrMorningstarFelian and Bushido Brown

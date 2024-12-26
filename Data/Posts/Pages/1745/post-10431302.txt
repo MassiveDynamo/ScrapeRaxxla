@@ -1,0 +1,16 @@
+Virtual Yoda
+Sep 19, 2024
+#34,889
+Ian Doncaster said:
+That's quite some distance from where the sound is currently coming from - about 10 LY in X and about 5 LY in Y, going by the work done to narrow down its position so far.
+
+Do you mean "should be" in the sense of "the sound should be coming from there but isn't"?
+Just looking at where the signal is strongest from my point of view, that's where it lands ISH -
+IMO it is the point you are looking at it from that is more important, as we cant get to it, we have to think about why it is in that location, and view point is the only thing we can change.
+
+Bit like Stargate, it doesn't work with out the home symbol at the end.
+
+Correction, Your right - its 15.8125, -25.20625, 25894.5025 ish, no idea how i got to the other one, but i repeated it and got that instead.
+Last edited: Sep 19, 2024
+Reactions:
+Ian Doncaster

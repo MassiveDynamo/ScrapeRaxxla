@@ -1,0 +1,12 @@
+Adel
+A
+Jul 14, 2022
+#26,445
+Jorki Rasalas said:
+Mmm, got fed up of not doing anything to keep cool. Powered up ship in Horizons and am hunting comets. In Pareco, just left Crown Orbital. Entered “Wredguia PC-D d12-2097240” in galmap to select comet 2, nothing happens! No comet/USS selected! Entered SC & repeated, nothing happens! What am I doing wrong?
+Also tried with Wredguia PC-D d12-1048664 for Comet 1. I’m obviously not doing something correctly!
+(https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9762174)
+
+Edit: where’s @Adel or @Pyroboros ?
+1) ALWAYS search in galmap when you are in supercruise. Else you will have to repeat the same operation you did before entering supercruise (target selection is resetted for comets, idk why).
+2) Wredguia PC-D d12-1048664 is indeed for comet 1. Stupid question but i assume you targeted it in galmap? Have you tried to target another system then search again in galmap for the comet and target it?

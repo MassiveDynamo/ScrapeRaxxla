@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jan 13, 2019
+#5,141
+Toothsaw said:
+Aw, come on! You don’t really expect us to believe you can’t map 3 axes and a bunch of buttons to a HOTAS for using the FSS, do you??
+Those controls don’t interfere with standard flight ones. Just use the X and Y stick axes to pitch and yaw, the stick’s Z axis or the left/right paddle on the throttle to the tuner axis, two buttons for zooming in and out, two for fine zooming in/out, the honk button and the exit button. You don’t need anything else.
+
+It’s actually more complicated to set a functional control scheme to drive the SRV IMHO.
+
+I’ve been using this arrangement simce 3.3 droped and it is getting easier to use, but the pitch & yaw is too slow. We need a sensitivity control to increase, it seems if you use mouse for this then that’s got a sensitivity control. HOTAS discrimination again!!!
+
+And the hink is still there-just map the discovery scanner to a control & use it when you arrive in-system!
+Last edited: Jan 13, 2019

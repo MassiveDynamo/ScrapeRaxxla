@@ -1,0 +1,7 @@
+yelboc
+May 4, 2023
+#30,279
+Try gnu octave if you program. Has 3d plotting, and vectors are its thing - it's a free impersonator of Matlab - very useful!
+Last edited: May 4, 2023
+Reactions:
+CMDRCorrMorningstarFelian and simulacrae

@@ -1,0 +1,12 @@
+Jorki Rasalas
+Nov 16, 2021
+#24,796
+Since my hands are too painful to fly I’m re-reading OOTD at the moment. Anyone else noticed that EDSM seems to have this wrong. On the system description for Peregrina it says “
+Habitable zone:
+Metal-rich body (2 to 34 ls), Earth-like world (541 to 811 ls), Water world (444 to 1,718 ls), Ammonia world (1,122 to 3,054 ls), Terraformable (421 to 841 ls)”
+
+But that doesnt tie in with the system bodies tab descriptions. Yes, there’s one ELW and one MRB, but the others don’t match. From what I remember of the story there’s nothing to explain this difference.
+
+Edit:
+Ah, confusing! Had a response on the EDSM discord “The habitable zone is the zone where planets of that type, if they are present, would potentially be habitable. It does not mean that there are bodies of that type at those distance ranges.”
+Last edited: Nov 17, 2021

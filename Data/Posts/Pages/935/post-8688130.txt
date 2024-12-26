@@ -1,0 +1,8 @@
+Emperor
+Sep 7, 2020
+#18,690
+Jorki Rasalas said:
+I liked Djidjel’s post yesterday trying to decode the name. I suspect the end character A might indicate Raxxla is, or is at, the primary star, which just leaves RAXX. I tried to decode this yesterday, using ROT1-13, then used the code workbench with Holdstock, Braben & a few other things as the key but didn’t come up with anything.
+hope you tried "Fernweh" and "Farsickness"
+Reactions:
+[PS4] Filthymick420 and PeteACarter

@@ -1,0 +1,10 @@
+Comandante
+Feb 26, 2018
+#1,838
+Jaiotu said:
+I'm sure you're right ... I've just never given much thought as to what that "cut off" happens to be.
+
+Yeah... Best bet is to take a look at Sol, and see which planets are not landable based on their 'thin' atmosphere - Mars might be a good bet. You can then look at the landables like Enceladus etc. and see what the atmosphere percentages are. We can't count the moon, because technically I think it's landable because of it's low atmosphere, but FD want to map it so that is an exact copy - that's what I heard, not sure if that's the real reason...
+
+Post edit: I didn't realise Mars had been terraformed in-game, so we can't check for it's (current real-life) percentage in-game.
+Last edited: Feb 26, 2018

@@ -1,0 +1,13 @@
+AOpsyche
+A
+May 31, 2019
+#8,460
+Tacticus2711 said:
+Is there a development list where you frontier state what they did to the game so we can identify when and if they took those out and if they did when did they put them back in?
+There is separate changelogs and documentation for the journal files. The most recent of these can be found here: https://forums.frontier.co.uk/index.php?threads/journal-docs-for-v3-4.508702/
+
+Finding older versions of the journal docs and changelog can be a bit more tricky. For some reason, i can only ever get the most recent one to show with this forum's search function, but the old threads still exist. Your best bet is to modify the download link in the post i've cited. For instance, this most recent download has two places with the number "25" in the link. Replace these with any number from 11-25, i believe.
+
+Edit: could probably do a better job by googling "elite journal docs for (insert update number here ie: 2.2, 3.4, etc)"
+Reactions:
+Tacticus2711

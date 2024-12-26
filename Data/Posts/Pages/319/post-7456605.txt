@@ -1,0 +1,19 @@
+Han_Zen
+Mar 5, 2019
+#6,365
+What's wrong with Tau Ceti?
+
+Tau Ceti was first system where life was discovered off Earth. It was one of the first major human colonies.
+
+From the History section of the Federation codex, we can read: "The year 2162 saw a dispute between the colony of Tau Ceti 3 and the Federation authority, centered on the colonists' repeated refusal to limit the damage they were inflicting on the alien ecosystem."
+
+In ED Tau Ceti 3 is Bell's Wreck. This is wrong. The story of the colonists happened on the earth like world Taylor Colony (Tau Ceti 2). This is confirmed by Tourist beacon 0169.
+Taylor Colony and Bell's Wreck has switched places since Fe:2, so this is an understandable mistake. Still sloppy, for such an important system.
+
+A bigger problem is that Taylor Colony is marked as Terraformed in ED. It's strange that a planet where the alien ecosystem triggered the establishment of the Federation and was colonized 140 years before the first ever terrafoming, is tagged like that.
+
+The same problem exist with: Reagan's Legacy in Delta Pavonis, Homeland in Beta Hydri and Biggs Colony in Altair.
+
+All of them are marked as terraformed, in contradiction with both old and new lore.
+Reactions:
+yelboc and CMDRGURU951

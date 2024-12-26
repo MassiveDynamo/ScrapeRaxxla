@@ -1,0 +1,9 @@
+Jorki Rasalas
+Dec 17, 2020
+#20,064
+Han_Zen said:
+Gating the instance seem like a poor game design. It should at least involve some form of equipment, that allows detecting the station.
+I would guess that gating the docking access, would be more logical and in line with existing mechanics.
+Finding a station only by parallax, is really dificult. There is not much risk that anyone finds it, until the right hints are understood.
+
+Yes, I remember reading in one of the books about station doors being closed and expected to see it in-game, that possibility does seem to make more sense than instancing it.

@@ -1,0 +1,12 @@
+Han_Zen
+Jul 20, 2019
+#9,672
+Scytale said:
+Sorry for coming with a trivial and technical question...
+Was messing around with the GalMap and I stumbled on a bookmark, one of these 'in-system', but then, when looking at the system map, the main star appears as "unexplored" . Is that possible ? Because of a auto-destruction ? But the bookmark remained, aswell as the possibility to enter the system map... Empty system, no info. Appears as not visited.
+So how can I have a system body bookmark put on? And zoom into ? Buggy/inconsistent game mechanics ?
+(I must precise I never earned a Hutton free Conda )
+In the old system before FSS, you had to actively scann the main star.
+It’s probably a system you visited before the change.
+Reactions:
+Scytale and [PS4] Filthymick420

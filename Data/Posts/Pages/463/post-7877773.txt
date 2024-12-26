@@ -1,0 +1,6 @@
+Tacticus2711
+Jul 2, 2019
+#9,241
+PeteACarter said:
+Talking of code samples...I have nearly all of the EDSM json files shredded into a SQL DB. Just the 90GB bodies file to go, that one is proving a bit challenging. I'll let you know when its finished, then if you have any galaxy questions, I will be able to run ad-hoc queries against it, if it helps.
+Is there any mention of exotic star classes or rouge planets

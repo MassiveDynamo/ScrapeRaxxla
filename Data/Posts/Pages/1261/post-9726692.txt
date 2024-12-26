@@ -1,0 +1,31 @@
+Pyroboros
+Feb 2, 2022
+#25,211
+Adel said:
+While you can still do this, can you figure out Isinor pls ? It has strange logs (or lot of comets):
+more like lots of (23) comets:
+
+EDIT: only now realized half the Isinor system are comets that are not in Game
+
+SPOILER
+
+Nothing fancy found today, only empty Space.
+Still this method allows to wipe some of the suspects from our lists.
+I will try and explain how it works later.
+
+One can argue that it is an bug and should not be used to try to solve our puzzle
+One can also argue that this is indeed the solution. It is a tool that allows access to things that are extremely if not impossible to access without it.
+However, I leave this up to everyone to decide for themselves.
+
+- Here is the issue i reported 18 month ago that makes this posible.
+
+Here some observations:
+-A Belt has the same Center as its parent. If a Belt gets selected via SystemMap it will target the first Cluster e.g SomeStar AB Belt Cluster 1.
+-However, if the Belt has no Clusters it will target the Center of the Belt, so it seems the Belt is in the center of its Star. e.g SOL
+-I have not seen any NPCs at the "Comets" but i have seen them entering SC from those locations as i was approaching.
+-Some Systems i could not targed any Body whit this. But since they have all been Layer 7 (H massCodeSystems), i may just have done some convertion wrong
+
+Another thought i had today while looking up Fullerene C60 was. One can argue it looks alot like the RAXXLA Logo from the Codex (aka my Next target since there is a System called like that)
+Last edited: Feb 2, 2022
+Reactions:
+Rochester and Adel

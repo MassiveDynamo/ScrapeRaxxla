@@ -1,0 +1,7 @@
+[Diplomacy] Carnegie
+Jun 13, 2019
+#8,895
+Thatchinho said:
+It’s both. There’s the long time SF issue (which isn’t really fixable). However, there’s another issue which directly effects the skybox. The skybox one gets worse jump after jump, but restarting reverts the skybox to normal (according to reports).
+
+Never seen that one

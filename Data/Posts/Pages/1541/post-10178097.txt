@@ -1,0 +1,15 @@
+Rochester
+Jul 10, 2023
+#30,805
+Jorki Rasalas said:
+darn it, cant pm a file!
+but you can obviously work it yourself.
+
+Mmm, thought the centre point was the hypothesis for Raxxla location?
+But I got 325 systems with search range from 0 to 39 ly from that point. Just redo the Spansh search with range 38 to 39ly.
+Remember that 38.1473 represents the numerical points in distance of the XYZ central point. I don’t know if this relates directly into game as light years.
+
+Oh hang on it does, it is 38.1473 light years.
+
+Currently not in game to test this…
+Last edited: Jul 10, 2023

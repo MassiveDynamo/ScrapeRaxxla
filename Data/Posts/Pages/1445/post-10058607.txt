@@ -1,0 +1,18 @@
+Edelgard von Rhein
+E
+Jan 13, 2023
+#28,883
+Emperor said:
+Well I was hoping it might spark some discussion on the toast in terms of stenography... Been reading up on it and it seems there are a few ways of hiding messages in text... Just something weird about it... Or obvious.... I'm hoping someone might see something
+
+! Is often used as a logical "Not" operator in coding, not sure on negative notation...
+This is great out-of-the-box thinking o7
+
+I've been creating some senryu for a creative project recently and this made me think about hiding numbers in the syllable counts of the toast, which are:
+17,
+8,8
+4,4,10
+3
+These make no sense to me as letters (R, H, H, D, D, J, C) but if they were co-ordinates, thus xyz 17,8,8 and 4,4,10 with 3 meaning a body within a system or a length component of a vector passing through those co-ordinates, maybe (once I can check in-game on the Galmap) it will point somewhere.
+Reactions:
+Emperor, CMDRCorrMorningstarFelian and John Stoutbeard

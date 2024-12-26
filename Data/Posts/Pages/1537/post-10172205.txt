@@ -1,0 +1,24 @@
+Jorki Rasalas
+Jun 28, 2023
+#30,724
+Off-topic question.
+Just upgraded the PC 256Gb system SSD to 2Tb. What’s the best way to use that extra space? I’ve currently got the new C drive partition extended to 1Tb and was wondering whether to add in an extra drive in the unallocated space or instead extend C out to fill it....
+I know just enough about computers to be dangerous!
+
+Edit
+Just been googling and found “Generally, around 10-20% free space is recommended to allow the SSD to perform its internal operations, such as garbage collection and wear leveling, efficiently.”
+
+So, leave 200Gb to 400Gb unallocated on a 2Tb SSD?
+
+edit2
+oooh, the Crucial Storage Executive utility has an option for "Over Provisioning"... need to read more!
+
+edit3
+mmm, web consensus seems to be that SSD Over Provisioning is overcomplication & not necessary if the total used is less than 60% or so...
+now to decide if I should have one large partition or two separate...
+
+Edit4
+Went with one large partition
+Last edited: Jul 2, 2023
+Reactions:
+simulacrae

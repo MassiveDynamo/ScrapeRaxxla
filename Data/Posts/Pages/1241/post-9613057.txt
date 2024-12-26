@@ -1,0 +1,8 @@
+Frankymole
+Nov 18, 2021
+#24,804
+yelboc said:
+Stellarium also accounts for the motion of the galaxy, something which is not modelled in E: D at all, so the skybox in E: D wont match Stellarium accurately either. Elite has the star positions as they were in the year 2000, apart from nebulas which are as per 1950
+
+[edit: must say I prefer the other VSOP ]
+Actually, they are where they were when observed in 2000 (or whatever star catalogue observations were used), but being thousands or tens of thousands of LY away, they're already thousands of years of space velocity away from where they are now, in real life.

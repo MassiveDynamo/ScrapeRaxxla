@@ -1,0 +1,29 @@
+Pyroboros
+Mar 12, 2022
+#25,649
+Adel said:
+I think i found something in ShinDez BUT i don't want to put too much hope on people.
+It's a strange thing: i posted ShinDez system bodyIDs some weeks ago, pointed that there were 12 comets in the system but as i only was looking for bodies, i didn't pay much attention to ... stations!
+
+SPOILER: LOOK AT THAT (SHINRARTA DEZHRA)
+
+
+Do you see what is missing? (look at BodyIDs)
+
+
+So i think now, as some people, that there is indeed something in Shinrarta Dezhra, and it should be located between the Star A and Founders World!
+The problem is that targeting ID68 just crashed the game, ID69 (Jameson Memorial too but we can Supercruise Exit to it).
+
+I looked for Sol too but there is no gap between BodyIDs, so either there is no hidden station in Sol or it should be after Titan City (BodyID:55)
+
+BodyID68 is:
+Click to expand...
+Here you go. managed to find a workaround
+
+Search like usually but make a bookmark target something else select bookmark than u can set as target without killing the game.
+
+{ "timestamp":"2022-03-12T22:44:04Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "Body":"Shinrarta Dezhra AB 3 Comet 1", "BodyID":68, "BodyType":"SmallBody" }
+
+To bad just another nomet
+Reactions:
+Koben, Adel and John Stoutbeard

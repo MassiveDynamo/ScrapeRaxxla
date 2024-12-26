@@ -1,0 +1,9 @@
+Jaiotu
+Mar 10, 2019
+#6,474
+Thatchinho said:
+Pretty sure Drew didn’t actually say that 7 ly was the limit of very early hyperspace jumps.
+
+The 7 light year hyperspace limit was based purely on the amount of quirium fuel that the Cobra Mk III was capable of carrying. From the Space Trader's Flight Training Manual: "The ship is highly maneuverable, has a good C-holding factor during hyperspace transit, can hold sufficient Quirium H-fuel for a 7-light-year single jump". The ship was also capable of performing a Galactic Hyperspace jump.
+
+I would presume that for other ships the jump range would be constrained by how much fuel they could carry. Basically, we don't have sufficient information to know exactly what that generation of thruspace drives were fully capable of.

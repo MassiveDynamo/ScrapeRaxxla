@@ -1,0 +1,13 @@
+Han_Zen
+Jun 15, 2020
+#17,455
+The convoys that were added to permit locked systems in patch 1.2(Wings), are in all likelihood the UA convoys. 1.2 cam out in April 2015 and included the Unknown Artefact. By the end of April, the mysteries gained huge attention in this legendary thread: https://forums.frontier.co.uk/threa...r-permit-sector-and-dbs-cryptic-hints.141038/
+The patch notes we debated: https://forums.frontier.co.uk/threa...dbs-cryptic-hints.141038/page-15#post-2165550
+
+The afternoon of May 4th, FD released the convoys to a few other systems and the first UAs were liberated form the convoys. This was not communicated by FD, but was obviously controlled server side. Spawn frequency for the convoys went up and down for about the next month, but they were still very rare. Three were captured on the first day, one were lost and a few duplicates appeared due to a multiplayer bug. After the first day only a couple were found, despite massive efforts by the community.
+Only a select few had first hand experience with them. There were no corrosion resistant cargo racks, so a few were lost in cargo hatch malfunctions.
+
+After about a month, free floating UAs were found in the Pleiades. These were equally rare and people sat days by the black holes to get one.
+I strongly suspect that FD added the convoys to permit systems first, for test purposes. And then released them to the public.
+Reactions:
+Vetinari, [PS4 Pro - PC] earthtone99, simulacrae and 7 others

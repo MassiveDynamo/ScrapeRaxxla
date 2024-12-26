@@ -1,0 +1,119 @@
+Jorki Rasalas
+Jul 10, 2018
+#2,946
+Noobilite said:
+I said this somewhat jokingly, but if you (can) plot out all the Braxxla systems can/do they make a particular pattern? Maybe it reveals something. They looked like they were all in the same area. Or many were. It would be funny if they make an arrow or a bullseye or something. Or an image that looks like the wheel of raxxla. No reason not to exhaust the idea. 8) (I would do this but the game is not working on linux atm and I don't know of any websites that would let you do this easily and I don't knwo for sure what all of them are.) I think if anything else you could try to make sure the image is perfectly lined up and edit in a paint thing. The one website does use an actual image of the galaxy. Might have to zoom in a bit though which might be tricky. Or can you put in several locations in EDSM maps or use a plotted course in game if they are close enough?
+
+I know. Likely a wild goose chase.
+
+Is it possible for two systems to have the exact same name? Or are all system names unique?
+
+(I can locate in this thread.) (I stopped at page 170 going backwards from here.)
+
+PHOOE BRA XX-L A76-0 (Checked by rOmiLaYu)
+
+
+HYPAO BRA XX-L A7-0 (Checked by rOmiLaYu)
+
+
+DRYU BRA XX-L A7-0 (Checked by rOmiLaYu)
+
+DRYU BRA XX-L A21-0
+
+
+DRYU BRA XX-L A63-0
+
+
+
+
+(Checked by rOmiLaYu)
+
+
+
+
+
+
+
+
+
+
+
+
+Edit: 28 systems counted!
+
+There are a few that don't have hyperlinks. This is from literal copy paste and then putting them in the master list. So those might not have been visited. Or I missed a link or there wasn't one for someone visiting those systems. Obviously the ones visited by rOmiLaYu are likely visited. Unless I oops.
+
+
+
+
+Edit: 26 systems counted. Unless They are overlapping. Might be missing 2 compared to the above list.
+
+Looks like someone already did .(including the picture above.) I completely missed that post.(Does it have them all at that point?) Still interesting. Maybe if seperated into OOSCS and DRYU etc... (I know busy works. 8p) Or at different angles. It could be like connect the dots.(I'll get a paint program. NVM, can't see enough names.)
+
+Interesting note: There is 1 of each A76-0 for each type of system: PHOOE BRA XX-L A76-0, HYPAO BRA XX-L A76-0, DRYU BRA XX-L A76-0, OOSCS BRA XX-L A76-0
+
+Except hypi that is. I didn't notice hypi was a different name.
+
+There are also alot of repeats like 117, and 21, etc.
+
+
+
+
+
+DRYU BRA XX-L A7-0 (Checked by rOmiLaYu)
+HYPAO BRA XX-L A7-0 (Checked by rOmiLaYu)
+(Checked by rOmiLaYu)
+
+
+
+
+
+
+
+DRYU BRA XX-L A21-0
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRYU BRA XX-L A63-0
+
+
+
+
+
+PHOOE BRA XX-L A76-0 (Checked by rOmiLaYu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+This means there are 13 or 16 groups of unique numerical references so far. 13 if you count the repeating -1&2 as the base number and 16 if you count them separately.
+
+
+BTW, the looks more like the to me. But with a long extended thumb looking from a slightly downward angle. Like god saying. Damn right! I made the universe! ><
+
+Is there a simple program that could take the generic numbers of the system locations and use those to draw lines etc and map them out just from those references? Example:
+Those are just grid locations. Just fairly large ones. I can't think what common program could do that off hand. Is there one in linux windows or mac anyone knows that could quickly input those numbers and do things like connect lines without having to go in game?
+
+I found something called and it was installable from my fedora repositories. Still figuring out how it works and if I can make it do what I want. Does anyone know how to do this? I'm assuming it's not too hard if you know what you are doing. I think you can plot points and then connect lines in this program, but I haven't quite figured out how to do it yet. I don't use stuff like this so I'm unfamiliar.
+
+I'm installing freecad with it to see if it's needed for it to work. I'm not likely to get this working though any time soon. So, if anyone wants to give it a shot we could have a nifty quick downloadable file with the points plotted out and possibly ways to view them by name.
+
+I like the cut of your tinfoil!

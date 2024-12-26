@@ -1,0 +1,21 @@
+yelboc
+Jan 13, 2023
+#28,879
+Emperor said:
+If you mean much thought about encrypting messages they have form...
+
+The Hunt For Theta Seven - You Could Win 750,000,000 Cr!
+Greetings Commanders, The hunt for Theta Seven is on! The Affiliated Counter-Terrorism unit (ACT) has acquired an encrypted message that may reveal the location of Theta Seven, the de-facto leader of the NMLA group responsible for attacks across the bubble. Full details can be found in this...
+forums.frontier.co.uk
+Click to expand...
+Difference here is that we dont have a nice clear puzzle like that one - If the is a nice clear ciphertext then you have something to work on - history shows that such things are usually solved in a couple of days. But here we aren't sure if we even have a cipher in play let alone an obvious ciphertext. Also breaking ciphers with very short messages can be very difficult.
+
+I set the following puzzle some years back (Christmas 2017 in fact) for a bunch of bright folk, highly numerate etc. They didn't solve it and to this day it remains unsolved - it was an object lesson to me how easy it is to set a puzzle that's just a bit too hard for the target audience:
+
+christmas17
+
+Part1): wmvskovhdtpmgjfhjxfcntwswjlapqrcwdjebeqmjbhurwlbhwfhecmfqrlssynkgvsqsvnrdglvxbouhhskzwplemmfmrndkzwzqwtc
+
+Part2): 6, 23, 3, 13, 21, 10, 6, 76, 4, 9, 3, 33, 9, 1, 50, 5
+Reactions:
+CMDRCorrMorningstarFelian, John Stoutbeard and Louis Calvert

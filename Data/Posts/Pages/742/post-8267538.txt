@@ -1,0 +1,26 @@
+Noobilite
+Jan 28, 2020
+#14,827
+Why are there differences in the given information in the side screen. Why doesn't PC give that info when you look at the station. Was I targeting it differently? And then does it change with state of system or the biggest owner or is the graphical nature different in general between versions of the game?!
+
+If so could we use different versions of the game to see it in different states at the same time.
+
+Is the same BGS in all versions?!
+
+I'm on PC running in linux via wine. Did I loose any graphics? It's possible some don't show because of translation from DX to Opengl. I didn't think there was much in elite, but I could be wrong. Sometimes in other games with wine it changes surface textures.
+
+There was that weird surface texture that looked like a bunch of nobs painted on in the middle of the back center shape. Maybe that is a graphics glitch.
+
+I'll add a close up pic of the center. It's hard to see in the one I took.
+
+If these are odd graphical glitched this may make raxxla hunting harder for me. Or in a rare case easier, but it useually just puts on random weird graphics on to other surfaces. Like a mountain covered in feathers texture for instance.
+
+Source: https://imgur.com/a/doD6QcI#LuUmyeR
+
+
+Added two more pics. And it does show that data in some circumstances. But why is the back texture different. The lack of those bumps that look like the raxxla image is disappointing. If it's just me that might be an interesting feature.
+
+And it's the same state so that might throw out different bgs...
+Last edited: Jan 28, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Dr. Lexus, Cunder and 2 others

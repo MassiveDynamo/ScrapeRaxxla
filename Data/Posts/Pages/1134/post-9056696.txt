@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+Apr 4, 2021
+#22,665
+Here's preview of what will be posted later. The candidates for Astrophil are as follows:
+
+Carl Sagan 578.15625 / -421.9375 / -1040.3125
+Tycho Brahe 604.6875 / -442.15625 / -1091.21875
+Isaac Newton 611.71875 / -446.4375 / -1100.71875
+Friedrich Bessel 616.78125 / -446.75 / -1105.53125
+
+In game, the systems are by last name only (especially if they are important). These are the some of the most influential astronomers in regards stellar research and public awareness of such. As you can see, they form a nice relatively compact bubble of space so we should get a very narrow search region or an exact hit off of one of these four. Of note, the Sagan system is particularly interesting with 3 stars, an Earth-like, Water world with Nitrogen atmosphere, Water world with Ammonia atmosphere, and the mythical unnamed gas giant with 9 moons (yes I am aware the 8th one is the important one).
+Last edited: Apr 4, 2021
+Reactions:
+Spenceuk99, clavain and Vetinari

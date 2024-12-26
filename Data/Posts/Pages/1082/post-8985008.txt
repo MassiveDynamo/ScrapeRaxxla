@@ -1,0 +1,8 @@
+Deleted member 38366
+D
+Mar 5, 2021
+#21,632
+Jorki Rasalas said:
+I’ve prepurchased the Elite Dangerous Odyssey Alpha but never played an alpha version before, when it comes out how do I prevent the alpha testing phase messing up my EDD and EDSM commander history & statistics?
+
+It's good habit not to launch the usual uplink/API tools (EDMC, EDdiscovery etc.) when logging into an Alpha or Beta unless you have a good reason to.

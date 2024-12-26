@@ -1,0 +1,10 @@
+Ian Doncaster
+Sep 17, 2024
+#34,851
+El Saico said:
+My suspicion is: whatever FDev uses to "position" distant audio sources like this one is not granular enough to take individual systems as origins, only boxels, so they used the closest possible approximation to Sagittarius A*, which means it's indeed the intended target. The problem being, what to do from there...
+That seems ... highly implausible, to say the least. What coding would possibly require galaxy-level sound sources to be attached to a corner of a boxel? Why would anyone do it that way in the first place when the maths to locate a sound in space is exactly as easy - easier, since it doesn't have a superfluous rounding step! - when using full-resolution coordinates, and they have to be able to calculate the direction of out-of-system objects more precisely than "nearest boxel" anyway to stop the starbox looking very silly.
+
+Yes, ED has some weird bugs which occasionally imply disturbing things about the underlying code, but this doesn't feel like the sort of mistake they (or anyone else!) could possibly have made.
+Reactions:
+CMDRCorrMorningstarFelian, Louis Calvert and Neestar

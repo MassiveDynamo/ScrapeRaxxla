@@ -1,0 +1,14 @@
+Jorki Rasalas
+Mar 11, 2021
+#21,896
+[PS4] Filthymick420 said:
+Usually around 20 mins sometimes a little longer.
+
+
+The misjumps I discovered require a game crash to occur naturally but can be forced by closing the app. The repeatable result I've experienced is instead of ending your fsd jump at the main star as you would normally, you arrive in the destination system somewhere in deep space. I'm assuming it's random as I've not yet noticed a pattern.
+
+Mmm, I suppose you stopping the software partway through a jump is consistent with FD statement that misjumps aren’t implemented in-game!
+
+And I misunderstood what you said, I thought you meant you ended up in a different system. So you end up in the intended destination but at a random location instead of the normal drop point? Come to think of it I think that has happened to me on PC in the distant past when the game crashed.
+Reactions:
+Vetinari and [PS4] Filthymick420

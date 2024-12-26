@@ -1,0 +1,31 @@
+Jorki Rasalas
+Jun 26, 2023
+#30,707
+Rochester said:
+That’s always a possibility.
+
+Literally all historical FD statements are affirmations pointing towards Raxxla being in game, more so the inclusion of the Codex. However, all historical statements are still open to interpretation, so at most it a definitive maybe; because ‘in game’ can equate also to narrative content.
+
+There does exist spacial relationships of specifically named systems in game which potentially marry those metaphorical descriptions in the Codex and concentrate upon a specific focal point, but these are at best projections, other parts of the puzzle avoid defining.
+
+One simply needs to ask ‘why’ you quest? For many it facilitates a reason to actually play the game, above the base ‘shoot stuff and grind’ mechanics.
+Well, I know you have a different interpretation, but to me it is clear
+DB: Beyond - Chapter Two - Launch Livestream
+m.youtube.com/watch?feature=youtu.be&t=13m43s&v=-f7Zx7WUwF0
+At 13:45, DB said “does Raxxla exist? There’s an interesting one. What a silly question! Of course!....you don’t know what it is though!“
+
+I think this message is clearly DB saying Raxxla is in game, but we don’t know what it is.
+I think the latter bit suggests it may not be a planet of any form (rogue or otherwise), contrary to Holdstock’s original, but of course we won’t know what it is until we find it.
+
+Now some have interpreted this clip as DB talking to Ed Lewis saying Ed didnt know what it is. But that misses the point that DB was responding to an off-screen chat question, & was still answering that question although Ed had broken into his response. However the message is the same. Whether Ed knew or didn't know DB clearly said “Raxxla is in-game” (& MB said the same).
+
+I suspect the CM do actually know more about the Raxxla secret than they let on (Ed looked a bit miffed)...why would they reveal the secret? My reason for this belief is in the “Edifying Will with EXO” video where at 31:40 EXO said they were really looking for Raxxla, and Will zipped his mouth then said “you are looking in the right place, you’re looking in an asteroid...” and cut off. He did not say anything like “I don't know anything about Raxxla” which would have been the obvious response for a CM kept in the dark on Raxxla.
+
+However my fear is that FD have hidden it behind an RNG function that we may in all practicability be unable to crack. This was evident in the early game where material gathering etc was too difficult and they had to tone the RNG mechanism down; I suspect they did not do that for Raxxla.
+
+It seems to me very probable that (to prevent file divers) Raxxla is stored on FD servers and will be download to the player’s machine only when a trigger event is tripped. That trip event likely is dropping out at the trigger (“omphalos”) position within 50Km (the instancing distance for comets, which are also invisible-MB’s “you have to make some of it a tiny little bit obvious”). Now dropping out of SC (even at minimum 30km/s speed) at the right point to end up within 50Km of a comet is difficult if you don't know precisely where it is (try practicing at Pareco, where several stations are orbiting a single comet). I suspect with Raxxla there is no obvious sign for the trigger point location (whether or not it is in a planetary/asteroid ring).
+
+It also strikes me that “omphalos” means “navel”, but also “centre” or “focal point”. So my brainwave yesterday (while watching Glastonbury on TV) was that it could be referring to a barycentre.
+Last edited: Jun 26, 2023
+Reactions:
+Shadowsnog, Darrack, CMDRCorrMorningstarFelian and 2 others

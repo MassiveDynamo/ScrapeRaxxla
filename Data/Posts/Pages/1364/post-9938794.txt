@@ -1,0 +1,8 @@
+Jorki Rasalas
+Sep 12, 2022
+#27,278
+Bushido Brown said:
+Can't say I'm seeing the same result on EDD. They all showed up when I honked. Are you running an up-to-date version? I'm on 15.1.1.0
+Yes, the same, though I downloaded 15.1.2(?) update Saturday I haven't installed it yet. But I dont think the version of EDD is relevant here, the problem is ED and the journal file for Beta Hydrae.
+
+Have you looked at your journal file entry for the system? Are you a new visitor or been there before?

@@ -1,0 +1,8 @@
+Ataxia
+Jun 10, 2024
+#34,197
+Perhaps there is a github repository for the pi that uses the pi to decode audio in real time for viewing on a second screen.
+
+I'm going to take a peek in guthub.
+Reactions:
+Louis Calvert and CMDRCorrMorningstarFelian

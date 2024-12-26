@@ -1,0 +1,18 @@
+Jorki Rasalas
+Aug 18, 2023
+#31,290
+appletonpunk said:
+Is this a bug?
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+Just means the discoverer only bothered to scan that moon in that system before moving on, though unusual to have no star reported, so might be a server glitch.
+EDSM is an attempt by players to reconstruct the galaxy in a map which can then be interrogated more deeply than FD’s galmap. EDSM is populated only by data reported to them, most people use an automated tool for that reporting (e.g. EDDiscovery, which is very useful in its own right), but some data may have been reported incorrectly (when EDSM first started a lot of effort went into triangulating star positions from player reports, some of that may be wrong, but safeguards were built in to minimise error, however that became redundant when FD introduced the player journal file which had system coordinates) or not at all.
+
+There’s an EDSM Discord server to raise questions & report bugs, and a forum thread
+Release - EDSM - Elite Dangerous Star Map
+https://www.edsm.net/api-v1/system?systemName=Col%20285%20Sector%20MT-G%20c11-11&showInformation=1&showId=1 Found the problem: i'm stupid :D Thanks
+forums.frontier.co.uk
+Last edited: Aug 18, 2023
+Reactions:
+simulacrae and appletonpunk

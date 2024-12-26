@@ -1,0 +1,22 @@
+Jorki Rasalas
+Mar 27, 2023
+#29,553
+Han_Zen said:
+'for those with eyes to see' is clearly related to the chilenen's story. Without the story, I don't think it's very relevant.
+
+The question is how do we find a copy of Princess Astrophel and Spiralling Stars?
+
+Is it an RL story that has had a name change, in the ED universe?
+Is it an in game story that can be found by discovering the right log somewhere?
+Is it available in the Dark Wheel library?
+
+We need to find the text. Then we can use our eyes to see.
+Click to expand...
+It doesn’t crop up in any RL search, so I think it’s imaginary. All we have in-game is the title “Princess Astrophel and the Spiralling Stars”, plus the phrase
+“some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.”
+
+We do not (cannot since it is imaginary) have access to the text of the book, but the book (if it did exist) would contain its own title, hence my belief that the title is itself the clue and implies an anagram of some of the letters of that title.
+
+However treating the title as an anagram and checking against a body search-generated list of systems with increasing distance from Sol led me to over a hundred possible solutions that are valid system names within the game, at which point I got fed up with the process. I am confident that more solutions are feasible if you have the stamina!
+Reactions:
+Rochester

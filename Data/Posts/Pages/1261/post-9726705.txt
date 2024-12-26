@@ -1,0 +1,20 @@
+Pyroboros
+Feb 2, 2022
+#25,212
+electro said:
+Do you have the name of the other unknowns in sol?
+What other unknowns in sol? the only thing missing as i know was Body21 all Body IDs are used.
+
+So i have this
+SPOILER
+
+I can check if there is something beyond 46
+
+EDIT: why i have not done it in SOL everywere eles i looked past the highest ID
+"StarSystem":"Sol", "SystemAddress":10477373803, "Body":"Daedalus", "BodyID":47, "BodyType":"Station" }
+thats the first time i see a Station whit an ID like that.
+
+EDIT EDIT: nevermind seem normal for Station to have an ID just was mostly in Systems whitout any Stations.
+Last edited: Feb 2, 2022
+Reactions:
+Adel

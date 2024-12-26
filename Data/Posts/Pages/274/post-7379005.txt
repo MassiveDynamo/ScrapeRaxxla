@@ -1,0 +1,20 @@
+Noobilite
+Jan 26, 2019
+#5,475
+Found something interesting. Probably partial and incorrect. But interesting..
+
+https://www.reddit.com/r/eliteexplorers/comments/3rekys/star_system_name_meanings_sector_subsector/
+https://forums.frontier.co.uk/showthread.php?t=196297
+
+Raxxla!
+
+If you take H and it is 1280... Each value above it is 2x just like below is /2.. this means R would be 1310720. I'm assuming this implies a larger area. This is the starting letter R. But if you take this apart it comes to something a little more interesting. 1310720=1280x1024. This is screen resolution. Coincidence?
+
+Still trying to figure out how to read Raxxla as proper coordinates according to those links.
+
+The galaxy map is something like 99,865: 20,000: 100,000 ly. Assuming coordinates on the map are all 1ly each. That would make Raxxla in a grid of 1,310,720ly cubed... Unless it can be disected. Or it is a distance starting from sol. This would put it far from our galaxy. How far away are our nearest galaxies. Maybe it's pointing to one of the ones we can't get to. And maybe it provides a hint. We know there is stuff outside our reach already with a few known systems.
+
+Or am I misunderstanding the whole thing?
+Last edited: Jan 26, 2019
+Reactions:
+Scytale

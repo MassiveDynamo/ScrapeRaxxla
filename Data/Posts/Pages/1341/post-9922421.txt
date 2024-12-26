@@ -1,0 +1,14 @@
+Jorki Rasalas
+Aug 24, 2022
+#26,805
+Jorki Rasalas said:
+Yes, looks like they were introduced in 2.2, augmented in 2.3 and extra interactions added in 3.1
+So I can stop checking out space installations!
+Unless FD did a Raxxla retcon!?
+BUT
+I really must check again this afternoon in the logfile. IFF installations exist in-game in a system but don’t have bodyid numbers assigned from Stellar forge then I’m missing a load of information on the game mechanics!
+Raxxla (or the Omphalos Rift link to it) must be implemented in-game somehow.
+The omphalos rift was described in the codex as perhaps a tunnel, and installations are the only thing in-game that have tunnels, afaik.
+
+Edit: mmm, on hindsight for tunnels- black holes, witchspace, anything else?
+Last edited: Aug 24, 2022

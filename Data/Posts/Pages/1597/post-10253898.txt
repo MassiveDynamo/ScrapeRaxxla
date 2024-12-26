@@ -1,0 +1,13 @@
+Yure
+Nov 3, 2023
+#31,937
+Louis Calvert said:
+I agree, I'm pretty sure the Toast's reference to the jewel is actually talking about Raxxla itself, as the 'precious object' in the galaxy.
+
+"To the jewel that burns on the brow of the mother of galaxies!" = Raxxla, the most precious thing in the Milky Way.
+
+
+There are no comets anywhere (unless it's a new sneaky thing they added). There was planned to be, there are comet placeholders in the game that sometimes show up weirdly, and I believe they do/used to show up on some external sites when you look at the bodies in certain systems. There is/used to be comet placeholders in Lave, Tau Ceti, Sol, etc. They've been there since the early days, I think it was in Tau Ceti that a station used to orbit nothing cos it was supposed to be orbiting a comet, can't fully recall the details.
+There comets in game. They are not modeled, but they are accounted for and can be seen and targeted. By seen I mean just their marker. Parelco specifically a player has dropped in on and shared the screenshot. The mechanics are there for Raxxla to exist as some far away object that does not pop up on FSS and does not have a physical model. Raxxla may as well be the same, probably to avoid file dippers from finding it.
+Reactions:
+CMDRCorrMorningstarFelian

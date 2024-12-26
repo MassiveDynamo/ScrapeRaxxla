@@ -1,0 +1,26 @@
+Darth Ender
+D
+Dec 16, 2020
+#20,059
+Jorki Rasalas said:
+But don’t we need to pass the recruitment test to be able to visit the stealth station?
+I suspect it wont instance until you do.
+
+A station is a station. If you're in the system, it will be instanced in the system. If it's a station, with a population, it'll also initiate npcs if nothing else is doing so.
+There are game engine limitations and they dont seem to have conditions on a per-unit basis. We learned that from Jaques.
+So if it's a station, it'll behave like every other station.
+
+It would also not look right if you went to a physical location and something wasn't there but magically was if you happen to be elite - not to mention if you were winged with non-elite players or a non-elite player followed your wake etc (or why an alien artifact cares about your pilots fed ranking and associations).
+
+if they wanted to hide it behind ranking or interactions with a certain group, they would put it behind a permit block. Either at the system or (more likely) stellar object level. Planets/moons etc in a system can be blocked from getting within range to instance with it by permits and these would be something you wouldn't notice unless you were in-system (so making it less likely to farm from the galaxy map).
+
+The alternative is that it's a ship. ships can instance based on conditions and not trigger all of the automatic things the engine triggers when you have a station. You wouldn't necessarily even be able to detect it from supercruise - unlike stations.
+
+Raxxla as ship makes it much easier to hide. Raxxla as a station is still hideable but less so even than raxxla as a stellar object.
+
+Because of the inconsistencies that would arise from ranking/relations with factions being a predicate to finding raxxla, i think fdev didn't hide it using those things.
+
+Like anything else in the game, random behavior could find it. but unlike everything else, there are no clues to really give you a non-random plan. just educated guesses. And really, that plays into Fdev's plans completely. It does nobody any good to find raxxla. Only the search for it benefits the game.
+
+raxxla is a carrot that keeps us going from pointless system to pointless system where otherwise there would potentially be no reason at all to do anything in the black. That's it's purpose. Being told it's definitely there vs previous games where it was definitely not ...has only one purpose. And i highly doubt Fdev is prepared with content regarding the discovery of raxxla or with a follow up carrot to get players interested in exploring at the same level that raxxla does.
+Last edited: Dec 16, 2020

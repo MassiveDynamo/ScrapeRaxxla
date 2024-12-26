@@ -1,0 +1,24 @@
+Macros Black
+Jul 23, 2015
+#15
+Spatial References
+
+This entry lists spatial references related directly or indirectly to Raxxla. All maps are stolen from the Galactic Mapping Community Project.
+
+Name: moon of Lave
+Description: Ancient history believed the moon of Lave to be Raxxla;however Lave has no visible moon.
+References:
+
+
+Name: Outer Rim
+Description: Upper left corner of the GalMap. Covered by map 6 & 7?.
+References: The mission name "Obfuscated In The Outer Rim" is supposedly a direct reference to this region of space.
+
+
+Name: Soontill
+Description: Known Thargoid location?. Visited, all bodies explored, including all 9 belt clusters, nothing found.
+References:
+Grid reference: 250 : -46 : 121
+Last edited: Aug 3, 2015
+Reactions:
+[PS4] Filthymick420

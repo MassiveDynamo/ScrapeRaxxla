@@ -1,0 +1,20 @@
+Adel
+A
+Mar 10, 2022
+#25,594
+Jorki Rasalas said:
+I notice the comets only seem to be associated with event "SupercruiseExit". Perhaps that's why they dont show up on scans. Must check Halley's & Grey's for event type!
+
+Edit: mm, also “SupercruiseExit"
+Don't waste your time with that.
+Even if you exit supercruise anywhere, you will drop at the nearest body (could be main star, the planet in front of you,...).
+The nav beacon/honk give us the bodies but not installations/stations at first and don't show at all comets BEFORE you target them with galmap.
+Comets are associated with SupercruiseExit event because it's the only way to come closer to them.
+
+For this:
+"Mmm, yes-Grey's comet tracks to Lave. But then how does the search know what is searchable and what is not??
+e.g. I assume both Pareco comet 1 and Grey's Comet are "SmallBody" type, not visible in game"
+
+=> I think that if the comet has a different name than its system, it shows in the search.
+Reactions:
+Jorki Rasalas

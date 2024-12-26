@@ -1,0 +1,18 @@
+bluecrash
+Aug 1, 2019
+#10,102
+Macros Black said:
+Deserves a bug report. Continuing the search brings you to:
+
+HD 133704, HIP 73849, HIP 73928, HIP 73974, 5 Trianguli, HIP 73765, HIP 73793, HIP 73874, HIP 73906, HD 133729, HIP 74053, HD 133738
+HD 13374, HD 133740, HIP 73877, HIP 73912, HIP 73957, HIP 73987, HD 133755, HIP 10108, HIP 73474, stopped searching here.
+
+Strangely enough, I've visited none of these systems.
+
+Edit: One idea is to look in the nav-panel for a system listed there, but not visible in the Galmap (the one you mention)
+Click to expand...
+
+the ghost system for 1337 is somewhere between the left and right point... added video of search and bug here(if it is a bug) : https://drive.google.com/drive/folders/19U2JsxlOiq0XFqySHi73gqSIMxekZ4ye?usp=sharing
+Attachments
+ca.JPG
+222.4 KB · Views: 213

@@ -1,0 +1,54 @@
+CMDRCorrMorningstarFelian
+Dec 23, 2021
+#25,019
+It appears there is bit more to this thing than meets the eye .. I only wish I were kidding on that front. This mystery has evaded solving for years. Unfortunately, there is much we don't know. This is the latest attempt to prevent scope creep.
+
+First of all the knowns:
+-2296 is the year "Raxxla" as a term is written down and this happens in Tau Ceti. It should be noted there is a very curious mention of pirate cache even before Raxxla is mentioned in the Tornvquist journal:
+Cora comes home soused and raving with wild stories, a new one every night. She claims she's found a map to some pirate stash, and all I have to do is loan her my ship so we can go dig it up. Maybe we should go find Raxxla while we're at it!
+— From the journal of Art Tornqvist, circa 2296
+
+Now for some perspective:
+Tourist beacon#236 - History of Lave:
+System: Lave
+Distance to Sol: 114.54 ly
+Distance to Arrival: 279 ls
+Situated: Orbital
+Body: Planet Lave
+
+One of the oldest colonies of the sector, Colonial Deep Space Cruisers Herschel and Oberon reached the system then designated L-453 in 2412. Lave has been a Dictatorship from before the fall of the Galactic Cooperative. In 3174, Dr. Hans Walden came to power.
+
+Walden established an authoritarian Dictatorship. The previous economic hardship brought about by the fall of the Galactic Cooperative were still remembered. Under Walden there was stability, just not prosperity.
+
+Walden's rule was very long, and rumored to involve genetic manipulation as he greatly extended his own life, with his eventual death at the hands of an assassin triggering a revolution.
+---
+What does this tell us:
+-Discovery was either via pre-hyperspace technology or the very beginnings of human hyperspace capabilities.
+-Raxxla is very likely within 115 LY of Sol.
+-Raxxla predates even the very first game by at least 116 years and very probably much more (difference between 2412 and 2296 is 116).
+-Raxxla discovery happens sometime in the first 199 years after we left Sol (Galactic News: Generation Ships - 19 AUG 3302 - https://community.elitedangerous.com/galnet/uid/57b6f0089657ba686d4f8629) as the first ship departs Sol in 2097.
+
+I'll post more on the piracy angle in a while (it's fairly extensive). For now I'll leave you with these thoughts:
+-It is very likely fairly close to Sol.
+-The piracy angle means piracy starts very, very early on.
+-Raxxla predates all the first games and happened during the generation ship era or at its very end.
+-All of this the above holds true if, and only if, dredgers haven't entered picture (which is presently unknown). However, it is worth mentioning the following from a much more recent GalNet (Galactic Mysteries: Dredger Clans - 12 APR 3307 - https://www.elitedangerous.com/news/galnet/galactic-mysteries-dredger-clans):
+
+
+Erik Gunnarson of the Wallglass Investigations Agency discusses the nomadic tribes that wander the galaxy in converted dredger megaships.
+
+“It’s well known that there are many traveling communities – groups of people who prefer to live on the move rather than settle anywhere. Proudly independent, they survive on the fringes of civilization and tend to avoid interacting with the authorities. Those commonly known as the Dredger Clans are among the most successful.”
+
+“Dredger-class bulk cruisers convert both natural and man-made minerals into raw resources, to sustain themselves on deep-space voyages. Improved hyperdrives and fuel-scooping systems made this design redundant long ago, but some were taken over by nomads and kept operational.”
+
+“These dredgers are now a type of generation ship. Each hosts tens of thousands of people, whose cultures have evolved – or devolved – over decades or centuries. Some are true loners while others have formed alliances, or occasionally gather to increase their gene pools.”
+
+“Typically these clans act as scavengers, quickly passing through systems to steal anything not locked down. Several take what they need in more aggressive ways, such as raiding unprotected outposts.”
+
+“A few have even darker reputations. I remember being told as a boy: ‘If you don’t behave, the Phagos take you away in your sleep and eat you up.’ All my childhood nightmares came surging back when I discovered there may be some truth to that story.”
+
+“More recently, I’ve heard rumors that a rarely seen Dredger Clan has resurfaced. Naturally, Wolfe has rushed off to find out more. Hopefully she’ll be able to increase our limited knowledge of these mysterious tribes.”
+
+----
+It has been at least 1,011 years since Raxxla's discovery.
+Last edited: Dec 23, 2021

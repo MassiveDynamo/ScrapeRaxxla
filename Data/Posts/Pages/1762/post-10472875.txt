@@ -1,0 +1,8 @@
+Emperor
+Nov 5, 2024
+#35,231
+Beng_Ammon said:
+Thats the "stars", from when you select a system with multiple stars. Any system with multiple stars, if you're zoomed in like that, will show the secondary star. It wont be selectable.
+Thought that before but the first system has 3 stars and two showed and then one disappeared...
+
+Probably a bug... Will go back and check at some point...

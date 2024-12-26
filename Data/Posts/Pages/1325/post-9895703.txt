@@ -1,0 +1,18 @@
+[Diplomacy] Carnegie
+Jul 25, 2022
+#26,500
+Pyroboros said:
+I made some experiments:
+Flying in normal Space aiming away from a Station towards its orbital center will eventually get you out of the SOI of that Station. There are the things that can happen now.
+1.) Getting in the SOI from another Station (the SOI "Nav" panel will the show that Station)
+2.) You get in the SHIPPING LANE whit nonzero relative velocity too the stations and the SOIs around you (have a look at the distances to the stations) and you are fast some times even put u back in one of the SOIs
+3.) You hit the SOI of Pareco Comet 2. the SOI panel will show SHIPPING LANE, but your Ship is stationary relative to the other SOIs
+
+To confirm i dropped right at Pareco Comet 2 by directly targeting it and i had the same result. I was stationary relative to the Stations but had SHIPING LANE showing as my reference Body. I then flew 50km ~perpendicular too the orbital plane (just giving upwards trust) and the SOI stayed at SHIPPING LANE but i got instant rel. vel. to the Stations.
+
+TLDR: SHIPPING LANE can obstruct the real reference Body.
+Click to expand...
+Talking of Pareco, did anyone try bouncing around the 6 stations in the segmented hex pattern from the Raxxla logo in the Codex?
+Maybe that unlocks the center point?
+Reactions:
+Ozric and Jorki Rasalas

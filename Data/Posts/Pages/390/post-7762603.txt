@@ -1,0 +1,11 @@
+Han_Zen
+Apr 29, 2019
+#7,800
+[DAX] said:
+Most probably you are correct. I think it behaves like Voyagers and will reveal itself in contacts in close proximity only. In this case it can be in any system, even in the Bubble or nearby.
+
+The codex basically tells us that the Dark Wheel station is unscannable. Asteroids does not show up at all, but act as gravity wells that objects can orbit. Voyagers and Guardian sites now show up on scan, but the old mechanic suggests that detection range is an adjustable parameter.
+
+Any system is a candidate, when you look at it this way. The further out you get, the more 1000 ls bubbles you can fit. At Oort cloud distance, it's basically impossible to find anything by coincidence.
+Reactions:
+[DAX]

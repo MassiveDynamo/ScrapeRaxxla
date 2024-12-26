@@ -1,0 +1,20 @@
+sam23694
+S
+Jun 12, 2019
+#8,876
+Filthymick420 said:
+Ok so I'm back in the bubble. Hate to be THAT guy, but, almost ZERO spinning during fsd jumps. Lots of spinning out near Orion nebula.
+
+Just to clarify, that's normal according to whom?
+
+Just saying, that poopoo ain't normal on my game. No spinning ≠ lots of spinning
+
+I've been thinking about the spinning as well, I'm reluctant to eliminate the possibility until I do some research myself and I haven't been near the area for a while. I have two overall ideas about it.
+
+First, the spinning occurs normally when you are in the Tunnel long enough, slow network connection for example. Maybe near the bubble systems load quicker, further from the bubble the ED backend has to retrieve unexplored or rarely visited, systems which take a few seconds longer. This would explain why some here don't think it's abnormal, given the vast distances from the bubble they travel regularly or perhaps their slow internet speeds. Maybe systems adjacent to permit locked systems do "extra checks" during loading, taking a bit longer. Have you tried timing your hyperspace travel? Do non-spinning jumps take less time then spinning jumps? You could also download a third party program to throttle your bandwidth, see if your Tunnel takes longer and spins when playing with kbps speeds.
+
+Second, it is abnormal and a clue to some kind of mystery. Do all systems near Orion spin? Have you seen spin anywhere else in the galaxy? Does the spin occur every time you travel between the same systems, ie: is it repeatable? If you compile a list of the jumps you take where spin occurs is there anything similar between them? Jump distance, jump direction, connected to permit locked systems? Some of this might depend on your ship's jump range. If the game calculates the list of systems in your nav panel you can jump to as the system is loading, then perhaps the connected systems that are permit locked cause a slightly slower travel time due to how it's coded.
+
+The questions I have are some things I'll test myself when I get the chance, just to put the issue to bed for me. If were FD and going to use the tunnel spin as a method of providing a clue, I would make it spin faster and faster depending on the direction and distance you are from whatever the destination is. Theoretically, if that were the case you could use the linked systems where spinning occurs to calculate a vector pointing to that location.
+Reactions:
+PeteACarter, [PS4] Filthymick420 and Count dEstard

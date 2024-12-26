@@ -1,0 +1,12 @@
+Thatchinho
+Apr 21, 2022
+#26,080
+LumpTheNoLeggedDog said:
+Even 3D modeling wouldn't make that mistake because the way it is in the game you wouldn't see most of the stars at the end of that star cluster trail. Must have being done on purpose.
+They’re stars from the 2 Micron All Sky Survey (2MASS). Only clusters were used from 2MASS because the location data was generally considered to be to innaccurate.
+
+As @Han_Zen says the position measurements are more accurate than the distance measurements for 2MASS, so when put into the game and viewed in 3D, that results in the shape seen.
+
+The orientation towards Sol is because the measurements were done from Sol, and so the more inaccurate distance data is always in a radial direction from Sol.
+Reactions:
+CMDR Davanix, Rochester, Han_Zen and 2 others

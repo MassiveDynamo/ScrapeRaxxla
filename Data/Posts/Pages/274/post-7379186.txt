@@ -1,0 +1,10 @@
+Han_Zen
+Jan 26, 2019
+#5,480
+I'm not sure that parallax works at all, on the sky box.
+
+I once tried to align Sol and Ross 128, in the skybox of Van Maanen's star. I flew perpendicular to the two stars for about 0.1ly, without noticing any relative movement.
+
+0.1ly may be to short, but the sky box may also be fixed in a system. This should be checked further, before committing significant time to tests.
+Reactions:
+Edelgard von Rhein

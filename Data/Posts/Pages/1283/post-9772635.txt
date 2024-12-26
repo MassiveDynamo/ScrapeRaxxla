@@ -1,0 +1,24 @@
+Adel
+A
+Mar 13, 2022
+#25,658
+Jorki Rasalas said:
+I must say that I dont at all understand this “searchbar overflow” mechanism. Nor why it doesnt work if you tyoe in the body name or BodyID number. And where does the Wregoe... come from?
+For the Wregoe/Synuefai and all these names, they are the REAL NAMES of systems we travel between.
+Fdevs renamed lot of human bubbles systems.
+
+When you type a body name that is DIFFERENT than the renamed system, galmap searchbar won't find it!
+
+Example 1:
+Real Name = Wregoe AC-D d12-0
+Renamed Name = Sol
+
+=> When you search for "Mars" or "Earth", galmap searchbar shows it.
+
+Example 2:
+Real Name = Wregoe FP-E c25-14
+Renamed Name = Shinrarta Dezhra
+
+=> When you search for "Shinrarta Dezhra A" (main star), galmap searchbar returns "No result".
+Reactions:
+Zieman and John Stoutbeard

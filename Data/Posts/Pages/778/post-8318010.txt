@@ -1,0 +1,56 @@
+RaNaketh
+Mar 3, 2020
+#15,543
+Hi Macros,
+
+I was re-reading the FP entries (again, ... again) and noted Tau Ceti system(s) which confused me for a second, so I checked up the Game Codex, and noted it was 'system'. So I thought I better re-scan the text and get anything else I noticed fixed in case it is actually important.
+
+Hope you don't mind adjusting the following for accuracy?
+
+Things to fix in the Raxxla 'Spolier' entry in the FP.
+-----------------------------------------------------------------------------------
+The earliest recorded mention of Raxxla dates from 2296, from the journal of Art Tornqvist,
+a shipboard mechanic based in the Tau Ceti systems.
+replace 'systems' with 'system'.
+
+She claims she's found a map to some
+pirate stash, and all I have to do is load her my ship so we can go dig it up.
+replace 'load' with 'loan'.
+
+Meybe we should go find Raxxla while we're at it!
+replace 'Meybe' with 'Maybe'
+
+The earliest document stories tend to agree on several points, however: that Raxxla is a
+definite place and that it holds a mystical secret.
+replace 'document' with 'documented'
+
+that Raxxla is a definite place and that it holds a mystical secret.
+add comma ... definite place, and that ...
+
+Commentators have compared this sensation to 'fernweh'. the unaccountable longing for a place one has never seen.
+change period to comma ... to 'fernweh', the unnacountable ...
+
+Things to fix in The Dark Wheel 'spolier' entry in the FP
+-----------------------------------------------------------------------------------
+I've never met them, but I know they're oout there.
+lose the extra o in out there.
+
+Those who believe in the existence of the Dark Wheel consider it to be a continuous and
+clandestine organisation operating since the very earliest days of interstellar travel.
+add a comma, ... organisation, operating since ...
+
+
+-----------------------------------------------------------------------------------
+Interstingly I also noted in the Codex that it's
+- Felicy Farseer, explorer
+and not what I would have expected FDev to write in the Codex
+- Felicy Farseer, engineer
+
+Not sure it means anything particularly, but just struck me as odd since we all know her as an Engineer (for FSD's). I might need to re-visit and see if there is any other odd text when at her base.
+
+Keep up the awesome work maintaining the thread.
+
+Fly Dangerously!
+/ Ra
+Reactions:
+Dr. Lexus, Machina Ergo Sum, Macros Black and 4 others

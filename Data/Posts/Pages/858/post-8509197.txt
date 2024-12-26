@@ -1,0 +1,15 @@
+Deleted member 38366
+D
+Jun 8, 2020
+#17,142
+PeteACarter said:
+I had the same thing the 1st time I went out bug zapping. Handed in my bounties to PF and they congratulated me on becoming an allied. Think it must be a bug.
+
+That was my thought back then as well, I simply assumed this would be just a String Error and simple oversight.
+
+Just the separate Reputation thing would be a different thing (already being Allied), which is what caused most of the confusion on my side.
+I believe doing Tasks based off Pilots Federation Rescue MegaShips (SAR, Thargoid Combat Bonds) was a new code segment to the Game, which possibly introduced a separate new Reputation Branch - at least that's my best theory.
+
+The ASCII String error alone wouldn't be surprising, I'm used to those (i.e. getting pulled by a Pirate NPC while holding uncommon Cargo such as Deep Space Salvage : also results in the NPC Text demanding what looks like placeholder Strings that someone simply forgot to fill)
+Reactions:
+PeteACarter

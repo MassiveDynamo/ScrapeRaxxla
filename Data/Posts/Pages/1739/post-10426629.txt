@@ -1,0 +1,13 @@
+Han_Zen
+Sep 10, 2024
+#34,761
+Ian Doncaster said:
+Do you happen to have the list of which names are used still?
+
+I didn't see any obvious clumping for the Greek ones besides the general "deities only seem to appear 45-85 LY from Sol" restriction, but it'd be good to do some more thorough checks.
+I haven't done any systematic checks but from what I can see, all the Motif-index lists have been used.
+The main western religions Greek, Norse and Egyptian are best represented, but the clumping is easier to see when you get hits on the less represented religions.
+Many deities are listed in several categories. I suspect all the data was pulled and put in one big mythology list, that was washed for duplicates and strange characters, before import.
+Similar list have probably existed for Science figures, astronomy, literature and historical characters.
+Reactions:
+Ian Doncaster

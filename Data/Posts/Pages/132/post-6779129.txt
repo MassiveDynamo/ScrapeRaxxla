@@ -1,0 +1,12 @@
+EvilCreamsicle
+E
+Jun 12, 2018
+#2,635
+Jaiotu said:
+See! If my "theory" from a couple of pages back is correct (that Raxxla is just stepping away from the game screen and enjoying real life) then you just found Raxxla! Game crashed forcing you back into the real world, lol.
+
+lol maybe so.
+
+The thing that gets me is that there was an actual HUD element designed and created for this. it wasn't a popup game error message, like when the servers crash or you turn your controller off or something, it was literally a ship hud element that said 'scan data corrupted'.
+
+Is there already a known in-game use of this HUD element? Like some scenario that its known that the scanner fails?

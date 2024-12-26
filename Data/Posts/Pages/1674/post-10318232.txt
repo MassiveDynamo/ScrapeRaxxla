@@ -1,0 +1,13 @@
+Ian Doncaster
+Feb 21, 2024
+#33,474
+D7 said:
+"and keeping an exact course between the planet and the star would be tricky too"
+Why tricky? fly from Tionisla orbit pointed directly at the sun and go about 3.64 Ls from New Caledonia's surface...
+Tricky because you're trying to hit something 1000km in radius at a distance of 3.6 Ls (~1,000,000km), and really need to hit the inner part of that to actually stand much chance of seeing it as a POI before you flip out again. The planet has a radius of just over 6000km, the star has a radius considerably larger than that, so figuring out where the cylinder you need to fly down is to sufficient precision is not going to be easy: you'll need to line up with sub-pixel accuracy.
+
+The exact distance measure is imprecise because we don't know the planet or star mass exactly, plus the orbit isn't perfectly circular, so the search area for that 1000km radius is probably around 50,000 km long given the imprecision
+
+And, of course, everything is orbiting ... so your target is itself moving sideways at around 30km/s relative to where that straight-line course was when you departed, so even if you did line up perfectly when you set off, you'll miss completely if it takes you more than about 30 seconds to get there (but if you're travelling that fast, you've got a good chance of skipping right over the zone without seeing it, because you'll pass through it in about 1/20th second even if you hit dead centre)
+Reactions:
+Han_Zen and D7

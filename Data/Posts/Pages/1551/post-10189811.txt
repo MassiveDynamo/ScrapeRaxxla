@@ -1,0 +1,49 @@
+CMDRCorrMorningstarFelian
+Jul 31, 2023
+#31,014
+Rochester said:
+LHS 142 is a red dwarf, this marries that DW reference about red dwarfs and dark systems. We know from previous articles and comms off FD that dark systems were to be part of the undeveloped exploration mechanism, those references also hinted it was in such systems that the majority of mysteries might be found?
+Adding to this an astronomy angle that is likely relevant: asymptotic giant branch stars. This is a period of stellar evolution undertaken by all low- to intermediate-mass stars (about 0.5 to 8 solar masses) late in their lives. The dominant star classes are M, F, G, and K. These are the star types where life is most commonly found in Elite Dangerous and all three of the major species are linked to them. Later in the cycle, they often become variables. Much later in the cycle, this very peculiar stellar evolution pathway (which can have multiple main sequence periods) produces Wolf-Rayet stars. Notable, that Technetium is only produced via S-Process in these stars. It is unstable and will only last a few millions of years. Technetium was part of the Soontill myth.
+
+Then there was the fog.
+
+Robert didn’t know how else to describe it. He'd never heard of space fog, but there it was, an elongated cloud, like a giant comet's tail, deep inside the maze of rock. The fog was barely transparent. He could make out the shadow of a shape within, perhaps a planet, but he couldn't be sure.
+
+Gunn cursed and slammed her palm against the sensor suite. ‘Can't get any readings.’‘None?’
+
+He checked his own console. The brown dwarf emitted near infrared radiation, the random rocks were some ‘itium’ metal he’d never heard of, and the cloud—
+
+—was nothing. A discrete band of nothing surrounded the proto-star, as if the fog had left anti-sensor residue in its wake. There weren't any ships, there wasn't any space dust, there wasn’t any mass at all.
+
+There was just nothing.
+
+‘Have you ever seen anything like this before?’ Robert asked.
+
+‘Never,’ she said. They were alone on the bridge but with open communications at the Mortician’s insistence. Brown and Blond’s ships were visible from the viewport.
+
+Pleiades - asymptotic giant branch
+Soontill - asymptotic giant branch
+"dark systems" predominantly AGB
+Gamma Velorum - AGB
+Theta Muscae - AGB
+
+More information:
+Asymptotic Giant Branch (AGB):
+Asymptotic giant branch - Wikipedia
+en.wikipedia.org
+
+S-Process Nucleo-synthesis
+(slow neutron-capture process):
+s-process - Wikipedia
+en.wikipedia.org
+
+Wolf-Rayet stars:
+Wolf–Rayet star - Wikipedia
+en.wikipedia.org
+
+Technetium:
+Technetium - Wikipedia
+en.wikipedia.org
+Last edited: Jul 31, 2023
+Reactions:
+Rochester

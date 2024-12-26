@@ -1,0 +1,8 @@
+simulacrae
+May 20, 2021
+#23,325
+CMDRCorrFelian said:
+Align your ship nose with the main dish.. the it points directly at Polaris (this is only true of New Horizons and Voyager 1 - Voyager 2 cannot point at anything as it had a real-life gyro failure right before the game released). I had numerous people double-check just to make sure I was seeing things right and at the time vetted it with Stellarium for Android and aligned everything exactly using Cassiopeia and Ursa Major as reference points. Multiple CMDRs have confirmed the observations.
+Interesting - ya should be pointing back at earth. I can see how Voyager 1 might be pointing generally towards polaris because i think t is kind of inline with where it should be pointing ... not sure about new horizons .... something to play with tonight
+Reactions:
+[PS4] Filthymick420, Han_Zen and Rochester

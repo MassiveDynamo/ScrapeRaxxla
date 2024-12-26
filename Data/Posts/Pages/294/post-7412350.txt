@@ -1,0 +1,14 @@
+Jorki Rasalas
+Feb 10, 2019
+#5,861
+oblackhando said:
+I don't think this article is a clue however, it does show that in game and now lore they have the tech to prevent detection. What I took from this, is that would rule out the possibility of being able to just FSS a system to find Raxxla and you would need to as they say have the Access Codes.
+
+Well how “undetectable” is undetectable? We need to investigate this mechansim since it is likely relevant to the Raxxxla quest. It will be instructive to fss scan Luna from the star and see if this base shows up as a signal source, then fss again at the moon, then use DSS probes; I suspect “undetectable” means it will only show up when within a short distance as we’ve already seen that mechanic & it should be easy to change the detection threshold from 1000ls to say 20km. Or maybe it wont show on fss but will with dss. We need to know the detection distance!
+
+I think this is FD giving us an in-game hint....I am reminded of my first fss & dss experience when ch4 release dropped; I went to 12 Trianguli and scanned for the INRA base there as I hadn’t visited before so it was unknown to my ship systems. I had an fss human (actually showed as guardian due to the known bug) signal report then probed, however the base didn’t show in my nav panel until I dropped out of glide. Have checked again recently at Conflux bases & they showed before the glide started, but a couple of times lost the target lock during glide & I had to reselect.
+
+The INRA bases may have been early users of stealth technology. Does this match with anyone else’s experience?
+Last edited: Feb 10, 2019
+Reactions:
+Ton618 666 and Rochester

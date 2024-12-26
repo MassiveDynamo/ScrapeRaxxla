@@ -1,0 +1,23 @@
+alexzk
+A
+Feb 5, 2022
+#25,240
+Fixed that for you
+C++:
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>                                       // I need this to use the pow() function (power)
+#include <string.h>                                      // i need this to convert number into string
+#include <inttypes.h>                                   // uint64_t is defined here
+#include <iostream>
+
+int main()
+{
+    uint64_t ID_Base = 10477373803;                             // Sol system adresse
+    uint64_t ID_Overflow = ID_Base* (static_cast<uint64_t>(1) << 20);                            // Sol_adress*(2^20)
+    std::cout << "Base: " << ID_Base << "; ID_Overflow=" << ID_Overflow;   
+    return 0;
+}
+Last edited: Feb 5, 2022
+Reactions:
+Adel

@@ -1,0 +1,16 @@
+Ko Shiji
+Feb 17, 2019
+#6,068
+Eckee said:
+Can you post better pictures of it as an imgur album if you're near the site? From different angles like, front, back, from any side etc.
+
+Imgur Album.
+
+Image 1 shows how close the two planets (Ross 859 B 1,2) are to each other and to the star. The ship orbits planet 1, and in theory it would be possible to get planet 2 between the ship and the star, similar to the Dark Wheel shot, but unfortunately the ship's engines seem to always point towards planet 1, and it's impossible to get just the engine section and planet 2 pointing at the star, without the close surface of planet 1 showing.
+
+The ship is within the orbital flight radius of planet 1 (orbital flight UI activates). Best way to take screenshots is to set your ship horizontal to the surface of planet 1 (hover mode), and then fly around with the camera. Ross 859 B 1 is a 1g world, so trying to fly your ship around to take screenshots is as difficult as landing on a high-g world.
+
+EDIT: There are multiple other images of it; Canonn has some, the wiki has a 360 movie with the logs as sound, and I've seen a couple youtube videos.
+Last edited: Feb 17, 2019
+Reactions:
+Eckee

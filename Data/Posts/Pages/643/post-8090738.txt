@@ -1,0 +1,14 @@
+Jorki Rasalas
+Oct 17, 2019
+#12,854
+alexzk said:
+I still insist on 1 postulate, "nobody will do extra programming just to hide raxxla", which means any idea must fit/use already existing game play parts (oldest ones). Which u should see in everyday play. Example, if u can't enter BH in everyday play then raxxla will not be hidden inside BH.
+
+I tend to agree that Raxxla is likely to be accessible through normal game mechanisms available since the gamma release, however with the proviso that Raxxla is the biggest Easter Egg in the game so I think it’s quite possible that FD could have put extra effort into that from the outset. We don’t know anything about it so we don’t know what they did relating to it!
+
+Pilots have always been able to enter black holes in ED, there are plenty of YT videos on this going back to the early days, but you can’t get past their exclusion zone. Actually I seem to remember entering my first BH (Maia or Merope?) a couple of years ago and not seeing an exclusion zone limit, just trundled around until I got bored & headed back out, so perhaps the exclusion zone is a later addition? Han_Zen will know.
+
+As a possible mechanism it would be quite easy from a programming viewpoint to replace that exclusion zone limit by a hyperspace transition for one specific “gateway” BH. I did try that hypothesis for some 30-odd suspect BH, just because I didn’t find it doesn’t mean that mechanism doesn’t exist. However I’m currently pursuing a quite different hypothesis using normal mission mechanisms & trying to gain the trust of TRDW.
+Last edited: Oct 17, 2019
+Reactions:
+[PS4] Filthymick420 and RaNaketh

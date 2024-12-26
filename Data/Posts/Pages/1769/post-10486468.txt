@@ -1,0 +1,10 @@
+Ian Doncaster
+Nov 19, 2024
+#35,368
+I find it unlikely that apostrophe placement would be significant, if only because the other officially supported languages don't all indicate the possessive in the same way and therefore couldn't have been given the same clue.
+
+Or alternatively, one would expect to find parallel changes in their texts, which should be checked for.
+
+(It has been a useful way of telling the difference between "encoded text" and "random static" in other puzzles)
+Reactions:
+Rochester, Han_Zen, Jorki Rasalas and 2 others

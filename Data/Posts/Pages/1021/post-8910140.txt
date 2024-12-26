@@ -1,0 +1,21 @@
+Darth Ender
+D
+Jan 19, 2021
+#20,419
+Emperor said:
+I read the guy's post on a site (not reddit) who found the bug and I'm not comfortable with what he's trying to do...
+
+I also note other posts have been deleted as they referenced something that breaks the ToS around this subject.
+
+I will say from what I read and other things he quoted in his post, I don't think this is relevant to this hunt and from the other examples he quoted it looks like hard coded systems that have been added when something has happened in game. I would suggest it's a location that was a left over from a story line that wasn't played out in game (or at least I hope so).
+
+However, based on the help he was seeking it is clear in my opinion that he is trying to find the answer to Raxxla by undeniably cheating.
+Click to expand...
+
+it would hardly be the first time that players in this game have cheated to "solve" mysteries or discover new things. (it's also interesting how rampant cheating is in elite judging by threads on that website and entirely unsurprising)
+
+and pulling strings out of the game's memory is pretty basic stuff. I would hope fdev would have the foresight at least that much to not hide things that way as it's usually one of the first means of data scraping.
+
+It's very unlikely raxxla is going to be uniquely named at the system level as that would make it easier to find - assuming it's a system or some stellar object unless it's being hidden in plain sight as something that's already known. I still think it's far more likely that raxxla is going to be something artificial and likely a ship type object so that certain station related effects do not become triggered by the stellar forge.
+Reactions:
+Ravenl0ft, Rochester and [PS4] Filthymick420

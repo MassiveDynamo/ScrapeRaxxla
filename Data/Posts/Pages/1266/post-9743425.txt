@@ -1,0 +1,28 @@
+Sethioz
+Feb 15, 2022
+#25,304
+CMDRCorrMorningstarFelian said:
+FSS scanning can reveal dark nebula and other denser patches of the sky from a fairly good distance away. There is the that whole line on the Alleged Toast of the The Dark Wheel which reads: "To the jewel that burns on the brow of the mother of galaxies!" which could be related to this. FSS scans may pick up areas where dark nebula are. Also, "jewel on the brow of the mother of galaxies" could be a system that appears to be located on the galactic plane itself from a particular location. This effect is highly dependent on your location in the galaxy and noticeably changes as you jump systems. Given that The Dark Wheel was rumored to have gotten its start possibly as far back as the 21st century I wonder if this has to be done from Sol or Tau Ceti?
+
+For clarity: this worked from a good 300 ly away and ended up taking me on a journey to an area called the Lupus Dark Region B. I had noticed the effect shortly after leaving Coalsack region when doing FSS scans as I was jouneying out towards the Holloway Bioscience Research Facility 15.
+I was under the impression that The Dark Wheel is also near Sol? possibly in one of the core systems. how many players do you think float around looking for stations visually? I'd say 0. If it won't show up on your navigation panel or in system map, then nobody would notice.
+I'm not sure what you mean by using to find stations that are not in navigation panel or system map, you mean hover around the moon where TDW could be and then use too look around?
+
+I also went thru the systems that are in both, Elite 1984 and ED. Ra system has gas giant with 8 moons and Tionisla has 7+1 (which I doubt is correct).
+
+I haven't done much research oh TDW, so not sure about it. Only line I know is that it orbits 8th moon of a gas giant.
+
+
+
+Anyway in case people missed what I suggested about Raxxla in my previous post, I quoted out my own messages that might be significant clues to finding Raxxla.
+Sethioz said:
+Now to think of it, maybe we can use "procmon" (free tool) and make a filter and see which files Elite Dangerous accesses when playing it, then cross reference it vs ALL the Elite Dangerous files. So most likely the files that ED does NOT touch, are related to this puzzle. Long shot, but who knows, right? This wouldn't be against EULA either and it sounds more reasonable as this message specifically mentions "wipes memories" and "neat and tidy". So maybe those terms are also part of the clue, that you should sort ED files and once you have them "neat and tidy" as in "filtered out", then you should hex edit the remaining mystery file.
+
+Sethioz said:
+OH HELL .. I might have just gotten it! What if you go scan Zurara and monitor packets (with packet editor)? Perhaps the Zurara's message itself has to be viewed in HEX view in packet editor and it would reveal something? I'm gonna go try .. soon'ish (if nobody beats me to it).
+
+Also I just visited the beacon in Tionisla and it says that some of the message is encrypted with unknown encryption and rest is in plain text "The vain queen rides a giraffe that remembers her daughter's hero".
+Did this message refer to where to find Zurara? I read something about, that "Vain queen" is apperently Rebecca and "giraffe" is some kind of sign and it apperently points to something.
+
+But what caught my eye, is the encrypted message. Where is that encrypted message?
+If this beacon was clue to find Zurara, then there's a high chance that "hexedit" directly refers to decrypting this encrypted message, but where is it?

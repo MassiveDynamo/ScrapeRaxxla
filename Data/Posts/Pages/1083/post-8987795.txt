@@ -1,0 +1,29 @@
+Jorki Rasalas
+Mar 7, 2021
+#21,652
+Spaceman Spiff said:
+Raxxla IS STILL IN SOL!
+(Again with this? Yes, AGAIN!!!)
+
+
+
+<snipped!>
+
+Mmm, theories need to be questioned-that’s the scientific method!
+I agree with the “no time travel” bit. I don’t personally like this topic, it gets rapidly into insoluble paradoxes and moreover I’m fairly convinced DB doesn’t like it either. Someone (probably Drew Wagar) said the authors had been told to stay away from 2 topics- Raxxla and time travel.
+
+Not sure the 32 segment asteroid belt in orrery view only applies to Sol. Someone said it exists elsewhere, but I didn’t check that and I think this investigation was the first time I’d used orrery view to any great extent.
+
+The point about Sol permit lock to prevent loads of noobs concentrating in an important system is good, hadn’t thought of that, but it could also apply to several of the other permit locked systems.
+
+Like the point on 8 missing asteroids from the fss, (but how do you arrive at 8? Perhaps I’ve missed something about fss operation! Will check when I get there, hopefully after copawlot morning walk).
+
+Yes, lack of Ceres, and DB not talking about it (he noticeably avoided it during his interview with Scott Manley who mentioned it-see my FDev quotes thread if you can’t find it) is moot.
+
+Not yet convinced by the Sol endless scanning behaviour as it occurs for me so often at so many stars (until yesterday when scanning suddenly sped up significantly) that I can’t decide if it’s a bug or significant. But bookmarking the asteroid belt, selecting the bookmark then viewing it (it’s at centre of Sol!!) seems very significant.
+
+I’m undecided about the visual resemblance of Gallia to Raxxla. May be a thing, may not be. Not surprised FD didn’t (apparently!) implement 148 Gallia in the belt cos it’s a smallish rock, but still large enough to be a Guardian ark ship!
+
+Should get back into Sol testing today with any luck. Getting fed up with IRL DIY & need a break!!
+Reactions:
+TrillClinton, Vetinari, djadjok and 2 others

@@ -1,0 +1,7 @@
+[Diplomacy] Carnegie
+Jun 29, 2018
+#2,819
+rOmiLaYu said:
+Quick question, as I've never used edsm before, can you tell if the system is discovered or not?
+
+As I understand it, EDSM is generated from user data - so it ONLY shows discovered systems.

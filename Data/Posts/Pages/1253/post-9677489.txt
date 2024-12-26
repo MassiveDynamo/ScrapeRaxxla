@@ -1,0 +1,225 @@
+CMDRCorrMorningstarFelian
+Dec 28, 2021
+#25,044
+Event
+Date
+Details
+NASA Apollo Program
+1961 – 1975
+United States of America has the Apollo Program ( https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html )
+Voyager 2 Launch
+08/20/1977
+Voyager 2 is launched from Kennedy Space Center @ Cape Canaveral, Florida, United States of America
+Voyager 1 Launch
+09/05/1977
+Voyager 1 is launched from Kennedy Space Center @ Cape Canaveral, Florida, United States of America
+New Horizons Launch
+01/19/2006
+New Horizons is launched from Cape Canaveral’s US Air Force Launch Complex 41
+Starman Launch
+2/6/2018
+Launch of the SpaceX Falcon Heavy with a Tesla Roadster and Starman wearing a SpaceX astronaut suit.
+Permanent settlement of Moon and Mars
+2080-2099
+Ancient History
+System: Sol
+Distance to Sol: 0.00 ly
+Distance to Arrival: 505 ls
+Situated: Orbital
+Body: Earth
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0165
+
+Mankind's first ventures into space were tentative and gradual. The early part of the 21st century saw the first manned spaceflights beyond the moon, but it took major population and economic problems to stimulate enough commercial commitment to start settlements beyond Earth.
+
+The Third World War saw this exploration expenditure dragged back again and it wasn't until the very end of the 21st century that colonies on Mars and the Moon became truly permanent and viable.
+
+After the war, the dominant power was the United States of the Americas, and as the remaining other countries joined it over the next few decades, it was renamed the Federation of the United States and later "The Federation" as the implied reference to one of the pre-war powers was a block to the remaining countries joining it. It had a constitution and laws derived from the earlier powers, but much simplified.
+Mayflower 97 Launch
+2097
+Source: First Encounters gazettes ( http://www.dream-ware.co.uk/first-encounters/journals/all/ )
+COLONY SHIP DETECTED S.L.A.M Astronomers using Excessively Long Baseline Interferometry (ELBI) to conduct a survey of distant radio sources believe that they may have detected the "Mayflower 97" slower-than-light colony ship, which was launched from orbit around Luna in 2097. ELBI remains a somewhat inexact science, because receiving stations are placed so far apart that considerations of simultaneity become an issue in interpreting the results, but the patterns received by the Distant Radio Survey group do indeed appear to show radio emissions characteristic of a Bussard ramjet moving with a relativistic velocity of almost 60% of the speed of light. The "Mayflower 97" carried nearly a thousand passengers and crew, plus domestic animals and extensive gene banks to aid in the colonization of Earth-like worlds which were presumed to exist around nearby stars. Archaeological evidence suggests that it did indeed successfully reach its first port of call at Tau Ceti, but the fate of both ship and crew thereafter was unknown until now. The ship's tremendous speed in real space makes it Impractical to attempt a rendezvous, so the "Mayflower" will presumably be left to continue on its way, bearing with it any descendants of its original complement.
+
+Galactic News: Generation Ships
+19 AUG 3302
+https://community.elitedangerous.com/galnet/uid/57b6f0089657ba686d4f8629
+
+Relevant Text:
+
+"The first generation ship was launched in 2097, and in the centuries that followed, many more set off into the vastness of space. Most of these ambitious expeditions were funded by large corporations, and the penalties for interfering with them were severe, given the enormous cost of mobilising them."
+
+Frontier gazette: http://www.dream-ware.co.uk/frontier/books/gazetteer/
+Achenar
+This system consists of ten major bodies only one of which, Achenar 6, has habitated planets in its vicinity. It is one of the only systems with three worlds with a breathable atmosphere, although two are terraformed. The most notable feature of this system is that it is the base of the Empire and Emperor Hesketh Duval whose seat is on the natural world Achenar 6d (known as Capitol to locals). The Emperor is of the Duval dynasty decended from Marlin Duval. She was a wealthy woman, disenchanted with the Earth administration and authorities, who set off with her own colonising fleet to Achenar 6d because it was so far from Earth. Her leadership ended when her brother, Henson oversaw a flying `accident' in which she perished. The democratic government changed abruptly to one of strict Imperial rule, and from then on the family assumed leadership. Female children in the family are prevented with genetic techniques such is the vehement hatred of Marlin Duval's principles and vision of a world living in peace.
+
+In the past the Federation has tried to get various emperors to agree to joining them but this has been met with derision. The population growth necessitated the terraformation of Achenar 6b and Henson oversaw the eradication of a reputedly sentient race on Achenar 6d and began to influence other systems, enraging the Federation. This led to the first large-scale space war, from which Achenar emerged victorious and, swelled with success the Empire spread to other worlds. Sporadic battles were fought for many years until finally, leaders of the Empire and the Federation signed a treaty pledging to stay on amicable terms. It was not worded so tightly that hostilities could not continue in the outer reaches of territories while leaders displayed solidarity in public.
+
+Tourists, once they have amassed the documents required to visit the Achenar system, flock to see the Emperor's palace on Capitol (6d). The building is a vast structure of a pink glass-like material which shimmers in the sun and glows as it re-emits the energy at night. Foreign visitors are welcomed by palace staff who use subtle pro-Empire propaganda in an attempt to undermine the Federation. This greeting is not extended outside the palace grounds, where a person with a Federation accent is met with scom unless money can be made out of them. The accent of the Empire has evolved out of Achenarians trying to mock the standard Federation diction by accentuating certain vowels. To the foreigner their speech sounds rather like a whine.
+
+Such is the capitalist way of life, there are not many items that are illegal to buy or sell, quite why the line is drawn at radioactives and nerve gas is a mystery - perhaps they could pose the most significant threat to the Emperor, should anyone feel ambitious?
+
+
+key pieces here:
+-Marlin Duval funds trip to Achenar
+-launch in 2097 in agreement with gazette
+-most but not all were launched by corporations
+Arrival of Mayflower 97
+2150
+Travel Time: 53 years (estimated travel speed: 0.2253 LY/year)
+First Interstellar Colony
+2159
+First Interstellar Colony Overview
+System: Tau Ceti
+Distance to Sol: 11.94 ly
+Distance to Arrival: 394 ls
+Orbital Body: Taylor Colony
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0167
+
+Tau Ceti was the first colony established outside of Sol. Tau Ceti 2 (now called Taylor Colony) had long been determined viable for habitation with life already present (due to free oxygen detected in the atmosphere absorption spectra) - though observation and probe data confirmed this. By 2159, the settlement was largely self-sufficient and able to elect a civilian administrator.
+Tau Ceti Ecological Loss/Tau Ceti goes independent
+2161-2165
+Ecological Loss
+System: Tau Ceti
+Distance to Sol:11.94 ly
+Distance to Arrival: 394 ls
+Orbital Body: Taylor Colony
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0169
+
+The issue of what to do about alien life became a question of real significance the day humans first set foot on Tau Ceti 2. The early colony found itself battling to survive and adapt in a challenging environment. The priority of preserving the indigenous life was secondary to preserving the lives of the colonists themselves, and indigenous life was suffering due to being out-competed by imported but feral Earth life forms (both intentionally (pets, crops) and accidentally (disease etc.) imported). This hardy 'survival' attitude did not abate as things grew easier and the colonists, led by John Taylor, saw the environment as something to master. When automated agricultural systems came online, hunting, which had been a necessity, became a trade. Taylor was elected civilian administrator in 2161 and immediately pushed for the colony to become fully independent from Earth. In response and at the behest of the mission's corporate backers, Earth sent a delegation to Tau Ceti 3 to scrutinize its practices. What they found was widespread active destruction of the planet's native ecosystem. The Authority for Ecological Control issued guidelines for habitat conservation and recommended a second mission be sent in twelve months to judge if any improvements had been made. When this arrived in 2163 and found the situation had grown worse, trade sanctions were recommended and imposed. This further strengthened the hand of Taylor who in 2165 proposed a referendum on independence, which was narrowly defeated in the colonial forum.
+Early Colonies
+2190-2230
+Early Colonies
+System: Delta Pavonis
+Distance to Sol: 19.93 ly
+Distance to Arrival: 689 ls
+Orbital Body: Reagan's Legacy
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0168
+
+Other colonies followed soon after. Delta Pavonis, Beta Hydri and Altair were all explored and settled between 2190 and 2230, and an uncontrolled expansion followed, with corporations and all sorts of groups of private individuals heading off into the stars. There was a 'wild west gold rush' atmosphere to it all, as news of vast tracts of land, huge wealth, giant dinosaur-like beast, and heroic acts filtered back to Earth, with the romance of the process causing many to want to leave the mother planet.
+New Leadership (Sol)
+2200
+New Leadership (Sol)
+System: Sol
+Distance to Sol: 0.00 ly
+Distance to Arrival: 505 ls
+Situated: Orbital
+Body: Earth
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0171
+
+However, the 23rd century saw new leadership and initiative. The Earth Environmental Recovery Programme to restore the polluted and radioactive regions of the planet was much more successful.
+Sirius Corporation Founding
+2200
+Sirius Corporation Founding
+System: Sirius
+Distance to Sol: 8.59 ly
+Distance to Arrival: 980 ls
+Orbital Body: Waypoint
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0179
+
+By 2200 corporations had a stranglehold on a great many aspects of life, and this didn't stop during colonisation, though there was quite a delay before the first wholly corporate system was settled. The colonisation of Sirius by a solely corporate mission in 2339 and its rapid rise to become the premier supplier of drive fuel to first the Federation and then the Empire led to much corporate profiteering between the two powers. Throughout this period, conflicts of interest were raised by congressmen backed by corporate interests. However, eventually Sirius Corporation delegates were also responsible for initiating negotiations between the two powers.
+Interplanetary Road Trip/SpaceX Starman Retrieval
+March 2218
+Interplanetary Road Trip/SpaceX Starman Retrieval
+System: Sol
+Distance to Sol: 0.00 ly
+Distance to Arrival: 505 ls
+Situated: Orbital
+Body: Earth
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0715
+
+In the early third millennium, a high-profile business magnate made headlines by launching a car into space. Although the launch was seen as a whimsical gesture, the vehicle itself soon acquired the status of a valuable cultural artifact.
+
+Several hundred years later, a consortium of cultural institutions lobbied to reclaim the car and place it in a museum. After an extensive period of bureaucratic wrangling, a mission was launched to recover the vehicle.
+
+Unfortunately, when the mission reached its destination the car was nowhere to be seen. Its precise fate has never been determined, but the prevailing theory is that it was stolen by pirates.
+Alien Transgressions/Tau Ceti Charter Revoked
+2228
+Alien Transgressions
+System: Tau Ceti
+Distance to Sol: 11.94 ly
+Distance to Arrival: 394 ls
+Orbital Body: Taylor Colony
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0173
+
+Further ecological transgression by Tau Ceti colonists was uncovered in 2228 when an undercover documentary found its way back to Earth. In it, Tau Ceti colonists were seen flouting Earth decrees and guidelines on a variety of matters, most notably native ecological preservation and the exploitation of natural resources. Mindful of the failure on Mars and the continual inflammatory role played by John Taylor, now well into his eighties. Earth sent a military task force to the system with order to revoke its colonial charter.
+Federal Accord (Federation of Star Systems)
+
+This is still functionally “Federation of the United States”. Modern Federation is not a thing, yet.
+2240
+Federal Accord
+System: Tau Ceti
+Distance to Sol: 11.94 ly
+Distance to Arrival: 394 ls
+Orbital Body: Taylor Colony
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0174
+
+In early 2240, Hours before the Earth fleet arrived in Tau Ceti, the main settlement changed its name to Taylor Colony and voted for independence from Earth. Without the starships to give battle, the colonists targeted the Earth fleet dropships as they attempted to land. Neither side could could an advantage and so diplomacy resumed. With some bitterness on both sides, a negotiated settlement was reached and in 2242, the Federal Accord was announced. This was effectively an extension of the constitution of the Federation, which briefly changed its name to the "Federation of Star Systems" - but this did not stick, and the term "Federation" returned.
+
+The Federal Accord granted independent rights and membership to each system that signed it, provided they met certain development goals. Initially each of the signatories (including Earth) did not meet the goals, as the core principle of the agreement made at Tau Ceti was to eliminate the political games that had been played in the previous century.
+Marlin’s Republic Founded
+2250
+GalNet – Birth of an Empire ( https://community.elitedangerous.com/galnet/uid/559fe59e9657ba1b5a47e853 )
+Non-human Relic on Mars
+2280
+Non-human Relic
+System: Sol
+Distance to Sol: 0 ly
+Distance to Arrival: 751 ls
+Orbital Body: Mars
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0175
+
+In 2280, the first nonhuman relic was found in space. The object was found buried on Mars; it was no bigger than a child's hand and is still surrounded in secrecy, even in 3300. No information has ever been circulated as to the properties of this item or its origin, other than it is nonhuman.
+Accidental Extinction at Delta Pavonis
+2182
+Accidental Extinction
+System: Delta Pavonis
+Distance to Sol:19.93 ly
+Distance to Arrival: 689 ls
+Situated: Orbital
+Body: Reagan's Legacy
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0170
+
+In 2182, fragile indigenous life, still at an early stage of its evolution, was discovered in the Delta Pavonis system and through a bacteriological accident, completely wiped out in the same year. When further alien ecologies were discovered in the Beta Hydri and Altair systems, and with the failure of the project to terraform Mars, it looked like humanity would bring the cosmos to its knees, much as it had managed to do to its own planet.
+Second Terraforming Attempt
+2291
+Second Terraforming Attempt
+System: Sol
+Distance to Arrival: 751 ls
+Orbital Body: Mars
+Group:Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0176
+
+In 2291, the second attempt to terraform Mars was eventually successful. The techniques employed were crude by later standards and the project had taken nearly a hundred years, but finally, humans could walk on the surface and breathe without the need for oxygen suits or respirators.
+Marlin Duval dies
+2296
+Source: Elite Encounters RPG
+Raxxla first mentioned in Tau Ceti
+2296
+Cora comes home soused and raving with wild stories, a new one every night. She claims she's found a map to some pirate stash, and all I have to do is loan her my ship so we can go dig it up. Maybe we should go find Raxxla while we're at it!
+
+— From the journal of Art Tornqvist, circa 2296
+Last edited: Feb 2, 2022
+Reactions:
+Exekrator, simulacrae, Macros Black and 3 others

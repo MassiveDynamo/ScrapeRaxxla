@@ -1,0 +1,12 @@
+Pyroboros
+Aug 13, 2022
+#26,680
+Cunder said:
+To add in the odd detail of the system the Orbital period between both suns are exactly the same
+
+CD-73 253 A Orbital Period is 3,979,757.4 D
+CD-73 253 B Orbital Period is 3,979,757.4 D
+Nothing odd at all. this is how 2 bodys with comparable masse (0,9258 vs 1,3359) orbit each other. And because each Body orbits the other the period is exactly the same.
+CD-73 253 A is a bit heavier so it is Closer to the Barycenter. Draw a straight line between the Stars it will always go through Barycenter, so the Stars are always 180° off each other.
+Reactions:
+Vasquess, Han_Zen, Cunder and 2 others

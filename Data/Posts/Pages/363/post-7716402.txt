@@ -1,0 +1,23 @@
+Dartay
+D
+Apr 4, 2019
+#7,246
+dezpe said:
+I am not so sure if using Stellarium helps. Stellarium shows us the view from Earth. If TDW station isn't really close to Earth, the stars will look different.
+
+My initial thoughts when looking at the main menu screen were:
+Star class from the system is a white one. I read that someone found out its probably "A".
+The station is an ORBIS one, orbiting an icy moon/planet.
+There is another planet/moon really close (too close actually for ingame but might be a hint regardless) in the foregroud with the SRV. This means either a binary moon constellation or really close orbits.
+Together with the info that it is thought to be "orbiting the 8th moon of an unnamed gas giant" I assumed this would help to narrow the possible systems down significantly. I furthermore assumed that the system is within 1000ly of the bubble due to the fact that early hyper-drives were not so potent, which means that there is a good chance the system was already scanned by someone.
+
+However, the image from the CODEX shows that the Dark Wheel Orbis station is in close proximity to a star, which is a contradiction to the main menu. My feeling is that we should give the image in the CODEX more weight, as it was put in later and probably for a reason.
+Click to expand...
+
+Am I wrong in saying that the system could contain both stars? As in: both the white coloured star from the title screen background and the red/orange star from the Codex image?
+
+Remember we can say with fair certainty that the title screen background was not screencapped in-game. Rather it seems the devs composed the image themselves, as demonstrated by the extremely low orbit of the station, and the fact that nothing in the video loop actually moves -- besides the station itself. Even though it is not a screenshot of an in-game location, it could still be a representation of one.
+
+Assuming that this is the case.. Due to the many physical impossibilities in the title screen background, I would not discount the possibility that the red/orange star shown in the codex is present in the location that the background was (possibly) meant to represent.
+
+Regardless, if we assume that the image from the Codex disproves the notion that the title screen background refers to the same location, I would still be very interested in finding out if the Devs DID hide something in the title screen, and whether or not it has anything to do with Raxxla.

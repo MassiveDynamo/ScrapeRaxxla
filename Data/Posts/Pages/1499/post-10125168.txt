@@ -1,0 +1,10 @@
+yelboc
+Apr 14, 2023
+#29,979
+Dox Paradox said:
+Well Schedar is in the game. Empty quaternary system...
+The deciding factor in most cases is whether there are distance data for a star as of 2014. Schedar does, and tycho SN (cas B,SN1572) does not.
+
+The Simbad database online is a good tool for that sort of thing. Also it gives all the names of a star.
+Reactions:
+Dox Paradox and CMDRCorrMorningstarFelian

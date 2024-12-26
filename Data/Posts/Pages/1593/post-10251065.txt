@@ -1,0 +1,77 @@
+Emperor
+Oct 30, 2023
+#31,854
+Ruby_Empress said:
+Don't you guys think lft 509 should be the key to finding raxxla.
+I dont think we should be able to just stumble upon it without finding the dark wheel
+That's why Ross 54 / HIP 34104 has interested me for some years and I keep coming back to it as it just seems wrong.....
+
+I can search for them both and they appear as their own system in the galaxy map (Ross 54 being the main name), but you can't plot a route to them however you can try and jump to them but the game crashes for me.... and they both (Ross 54 & HIP 34104) are LFT 509 anyway......
+
+Post from earlier in this thread "The System's stars are so far apart, many times longer distance than hutton orbital, that it appears to pointing at empty space."
+
+Why Ross 54/HIP 34104 are noticeably not in LFT 509 (or why they exist at all on the galaxy map!) I don't know, but I agree it would be about .92 LY out from LFT 509 and somewhere good to hide a dark station or Raxxla?
+
+SPOILER: ROSS 54 AND LFT 509... WHY TWO SYSTEMS?
+
+When I raised a ticket about HIP 34104 not appearing in the galaxy map but still being searchable (https://issues.frontierstore.net/issue-detail/16947) the response was:
+
+"STATUS BY DESIGN
+Greetings commander, As this is a child star and not a system in itself, it will not appear in the galaxy map. Fly safe! o7"
+
+Could this be...
+"As this is a child star and not a system in itself" - "A certain celestial body. Place that isn't a place"?
+"it will not appear in the galaxy map." - "door that is also the key."?
+
+
+
+
+The only other mention of LFT 509 in the game that I know of are in the release notes for the 1.2 Wings release where it mentions LFT 509 and two other systems.
+
+N.B. I'm excluding the leaked pictures of the LFT 509 system through the Carrier exploit for purchasing system data!
+SPOILER: LEAKED PICTURE
+
+1.2 Wings Release Notes: "Adding valuable salvage convoys to three permitted systems: LFT 509, Isinor, Witch's Reach"
+
+Why add in valuable salvage convoys to a system you can't enter?
+
+Outside of in game official FD LFT 509 references there was the turning the wheel exercise to get the Dark Wheel faction to expand in to LFT 509 (or grant a permit to the system by being within 20 LY) .... Which was admirable and failed to spawn anything..... (Which I thought needed the Pilots' Federation to be pushed out there myself )
+
+SPOILER: WHO LOCKED IT?
+
+It's also a bit weird you can buy the market data for it... Which i did
+SPOILER: MARKET DATA COST
+
+
+Then there's EDSM... Did CMDR IRREGULAR HUMAN honk and leave?
+(going by the 1 celestial body recorded on there he went to the 7th Moon of an un-named gas giant! LMAO)
+
+
+
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+
+
+Finally I have raised a ticket for not being able to plot a route to Ross 54 (and it not loading the star types in the info), feel free to try it and confirm it and it may get a response and whether it's by design or not! : https://issues.frontierstore.net/issue-detail/62106
+
+Just some thoughts!
+
+
+
+EDIT: Forgot this is cool.... LFT 509 - Sagittarius Eye
+"Baddest Jerk Face's" posts that are mentioned in the podcast
+https://www.reddit.com/r/EliteDangerous/comments/9swf1r
+Source: https://www.reddit.com/r/EliteDangerous/comments/9swf1r/oh_look_tinfoil/
+
+https://www.reddit.com/r/EliteDangerous/comments/haxvri
+Source: https://www.reddit.com/r/EliteDangerous/comments/haxvri/lft_509dark_wheel/
+Attachments
+1698699047532.png
+251.9 KB · Views: 53
+1698699818104.png
+481.8 KB · Views: 57
+Last edited: Oct 30, 2023
+Reactions:
+Adel, Louis Calvert, CMDRCorrMorningstarFelian and 2 others

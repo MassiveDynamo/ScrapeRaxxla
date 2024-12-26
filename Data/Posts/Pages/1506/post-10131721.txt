@@ -1,0 +1,21 @@
+Han_Zen
+Apr 25, 2023
+#30,118
+Jorki Rasalas said:
+XX could be wildcards so another option is something like Raksla. Sounds the same but different letters. Part of my current conjecture (cant even dignify it by calling it a hypothesis!) & hence need for an anagram solver. I need to test a string of letters against all known system in-game names. An online anagram resolver is of no use since they’re based on a standard English dictionary not a database of ED system names.
+About a year ago I manually tested “Princess Astrophel and the Spiralling Stars” for anagrams against a Spansh search for systems within about 100ly from Sol & was overwhelmed. Need to automate that testing.
+Anagrams are funny and “Princess Astrophel and the Spiralling Stars” is a long title. Some form of code is usually more FDs modus operandi.
+
+It's still enjoyable to play with anagrams. I like to combine these to online solver tools, when I play with them:
+Internet Anagram Server / I, Rearrangement Servant : anagrams, wordplay, solve, crossword, transmogrify, pangram, shuffle, fun
+Discover the magic of anagrams with the Internet Anagram Server
+wordsmith.org
+https://boulter.com/anagram/
+
+They give a balance of between solving huge anagrams and the ability to add 'custom' words.
+
+An example of what you can get from “Princess Astrophel and the Spiralling Stars”: SCAN ALTAIRS THIRD PLANET SENSORS RIPPLES GH
+
+The GH at the end is a bit iffy, but I interpret it as ' Good Hunting'
+Reactions:
+CMDRCorrMorningstarFelian, Quinbad, Darrack and 2 others

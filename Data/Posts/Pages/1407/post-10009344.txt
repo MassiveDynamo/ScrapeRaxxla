@@ -1,0 +1,11 @@
+John Stoutbeard
+Nov 29, 2022
+#28,126
+Maidor said:
+Yes, should be there since very early versions.
+The problem is that we still don't have any confirmation it can be accessed. It has been stated it exists, but not what it is - what kind of resource/asset it is, whether it is any asset at all. And that kinda makes it hard to understand whether it's accessible.
+Being accessible or not also depends on which version, what kind of asset, resource, location, permissions etc.
+
+So it's hard to conclude one way or the other where it will be - it depends on all the mechanisms to make it available, and if those mechanisms are in place. And which version it happened (or will happen in the future).
+Reactions:
+Rochester and Louis Calvert

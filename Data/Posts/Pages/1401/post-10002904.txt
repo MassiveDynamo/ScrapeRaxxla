@@ -1,0 +1,36 @@
+Louis Calvert
+Nov 23, 2022
+#28,012
+cmdr_imonix said:
+Thank you so much for heading out to the system. The circles are a brilliant way of illustrating what's going on.
+
+To note: there is a trinary on the background approximately 180 behind the screen shots. When that trinary is approached, the stars on your screenshot disappear and vice versa. The binary in your screenshots is somewhere on the background behind the B star, the Trinary is somewhere on the background behind the A star. (see all of my short four videos to see both the Binary and Trinary) - the Binary in your screen shots is in the first red circle on the left. Needless to say, I have been looking for a third single background star on the radius exactly between the binary and trinary to be able to triangulate from.
+
+I created the flashing by entering normal space at equidistant between the binary and trinary. This point seems to coincide with the Barycentre of star A and star B of the system. You can see this position on the Orrery in the Galaxy map.
+
+I suspect the difference in your view and my view is where you end up at the Barycentre. For example, I can approach the Binary with the systems star A at my back and fly straight towards star B approaching the binary (first red circle on the left) until it disappears or I can fly away from star A to point X and then head towards the same binary until it disappears. In each example, if I rotate 180 degrees, I will see the trinary (near M32 below Andromeda) and can fly towards that until it disappears.
+
+Thank you so much for updating the Issue Tracker with FDEV.
+Click to expand...
+No problem, happy to help.
+Thanks for the updated directions. I tried my best to follow them and wasn't able to reproduce the blinking (though my stellar dead reckoning navigation is less than optimal
+I also matched the disappearing star from your first video too, same steps and frames as before:
+
+SPOILER: STARMATCHING THE VIDEO
+
+
+
+
+
+
+
+I also re-checked the 'blinking stars' line against planets in system, just to make sure that they weren't transiting bodies (they're not ).
+I'm absolutely sure I wasn't in the same exact location as you, but I tried to get somewhere close. What I wouldn't give for some sort of space GPS system
+
+I don't know enough about the skybox distant stars technique to be able to call this a bug. I can say that you see stars that I didn't, and it seems some stars were visible for me that weren't in your videos (as per previous post). It's definitely weird!
+
+@Jorki Rasalas trying to identify the star/direction is a great idea. I tried my best with this one since it's a single star, the closest I got was COL 359 Sector CU-H C10-3 (38.2ly). It's definitely not that star, but it's in the ballpark direction. I wasn't able to narrow it down any more.
+
+Given the relative magnitude of the apparent star (it appears to be pretty big/bright), I couldn't see any suspect stars on Galmap in that direction that were close. Either way, if someone else goes there to confirm at least this will help narrow the direction for this check.
+
+SPOILER: MISSING STAR APPROX DIRECTION

@@ -1,0 +1,5 @@
+John Stoutbeard
+Jun 29, 2023
+#30,726
+Idea - perhaps we could take out our own Cobra Mk.III - rename registration it with "JJ-386".
+Then fly over to Jameson's wrecked Cobra in HIP 12099, scan the data packages/core/beacons. Then fly round to the important places (Delphi, Sol, Sirius, INRA bases, TDW etc) to see if we get any additional hints.

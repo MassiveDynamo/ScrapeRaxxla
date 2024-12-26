@@ -1,0 +1,17 @@
+Jorki Rasalas
+Jan 11, 2020
+#14,596
+CmdrMcGreen said:
+Is the galaxy map dynamically updated as we explore, or are all guardian structures already available in the map?
+I'm checking nebulae from time to time and try to find guardian systems. This would be useless, if they only show up in the map, when someone visited and scanned the system.
+I use bookmarks in the galaxy map to easily see the guardian systems, hoping to see if they went or came from somewhere by looking at the map from above.
+
+System "Ra". It's one of the old systems. I saw nothing suspicious there, but I wasn't looking that hard..
+I've visited the old systems multiple times. Once I tried to travel to all of them in a certain sequence. Starting from Lave and jumping only to the next system in the list, which had the shortest distance. (Having the limited jump range of the old game in mind). Didn't trigger anything though.
+
+Guardian doors / "key"-hole. This looks so promising. But again we don't get the slightest information what to make of it. I still can't believe that the game is designed to say: "there are billions of stars .. go figure it out.".
+Click to expand...
+
+As I understand it the systems are largely procedurally generated, with some handcrafted ones in the bubble. I think planet poi, the structures, goid bases etc are downloaded during the system entry hyperspace sequence. But they aren’t detected until you approach within 1000ls (might be longer range if you’re pointing at the planet) or fss.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

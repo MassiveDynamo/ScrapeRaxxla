@@ -1,0 +1,10 @@
+Han_Zen
+Dec 13, 2019
+#14,013
+Six6VI said:
+Did you allow for leap years and seasonal variances due to precession (1 degree every 72 years)?
+I didn't. I know it's an acknowledged problem. It's said to annoy Braben quite a bit.
+
+Precession only affects the angle of earths rotational axis. Not the position in orbit and not the position of Polaris.
+Reactions:
+Ararera, [PS4] Filthymick420, Six6VI and 1 other person

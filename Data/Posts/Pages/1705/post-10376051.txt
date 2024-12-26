@@ -1,0 +1,22 @@
+Louis Calvert
+May 15, 2024
+#34,096
+I have re-written an intro to my solution to the Raxxla mystery. I'm copying it here for those that didn't make it through my original OP (understandable) and since no-one seems to have come up with anything new in the last few months, I would like to remind you that this is a real thing that actually exists that everyone can be investigating right now.
+
+
+Overview: I discovered that there are hidden images within the audio signal known as the "Landscape Signal" that originates from near the centre of the galaxy, from a point near the system Stuemeae JM-W C1-5825. Those hidden images are viewable using Audacity, and anyone in any ship, with no other requirements, can right now see them. They depict creatures that resemble dragons/serpents, and other things.
+
+However, they are hard to see. They are deliberately obfuscated by a clever system of dynamically generated noise, and the images are 'weak' in the first place - meaning that they require someone to really study the spectrogram and tune it to get the best image possible - and even then they are hard to see.
+
+Most of the OP in my thread is detailing why this is Raxxla, or rather how this relates to Raxxla as it appears in-game.
+This later post explains that Raxxla is an easter-egg made by (as far as we know) one person, or no more than a small team, at a time when the game was being built, so people expecting Raxxla to be massive and complex are sadly mistaken.
+This later post contains a little more guidance on one of the 'creatures' and what it looks like (sort of), to help people get the idea.
+This later post expands on some of the points I skimmed over in my OP trying to be brief, but later I realised I needed to explain a little better, including the connections between Halsey, the FR logs, and Raxxla.
+This later post has more information on tuning Audacity and working with SpaceGoblin to try and get a better image.
+This later post addresses common concerns with this solution, including "why isn't it easier to see" - and goes into detail about the methodology that obfuscates the "Landscape Signal" content, including how the signal is obfuscated by the background sound of the galaxy, and explores my research on how the audio works in the Cobra game engine.
+This later post I remind everyone that Fdev confirmed that the "Landscape Signal" is working as intended, and is where it's supposed to be.
+Summary: Raxxla is the name of a myth. The reality is that it's a few different - related - things that all essentially point towards either something in Hyperspace, Hyperspace itself, or more specifically the location near Stuemeae JM-W C1-5825, which seems to be the site of the "Omphalos Rift", which is a thinning between universes.
+
+I don't think what I found is the 'end', I think it's what we were always supposed to have found way back. Unfortunately I've hit a dead end, so I'm hoping that others can pick up from here and figure out how to resolve the images more clearly so everyone can se them, as I think Brookes intended.
+Reactions:
+simulacrae, El Saico, Rochester and 2 others

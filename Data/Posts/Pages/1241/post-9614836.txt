@@ -1,0 +1,12 @@
+Frankymole
+Nov 19, 2021
+#24,819
+Han_Zen said:
+The minimum size for planets (moons) in ED, seem to be about 135km radius (137km are the smalest found). Smaller rocks seem to require an instance, like a cluster or a ring.
+I think there are known bodies in Sol with a radius larger than 135km, that haven't been implemented.
+
+According to Wikipedia, 2060 Chiron may have a radius as large as 135.69 km.
+
+I think the missing Boy ID in Sol is Halley's comet though. It's confirmed and even searchable. Perhaps we get to see it, when the engine is ready to handle smaller bodies?
+Ceres has a mean radius of 469.7km. It's the largest minor planet in the asteroid belt in Sol, is it in the game?
+Last edited: Nov 19, 2021

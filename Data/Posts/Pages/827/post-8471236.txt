@@ -1,0 +1,13 @@
+Merlin StWahgwaan
+May 21, 2020
+#16,537
+simulacrae said:
+The way I like to do these is get the XYZ coordinates from EDDB then import them into Sketchup (a free 3d design program) - then some touch ups in photoshop. Its relatively painless - just keep an eye on the XYZs as they can be interpreted differently by various software.
+
+
+And LOL, i love how you put "import them into sketchup"" and "relatively painless" lmao i cant even figure out how you would create what you did, lmao, I just tried to recreate what you did, but I dont see any place to input direct coordinates for the corners lmao
+
+EDIT: I can find the text tool to SEE the coordinates, but cant find a place to enter them to move the triangle
+Last edited by a moderator: May 21, 2020
+Reactions:
+simulacrae

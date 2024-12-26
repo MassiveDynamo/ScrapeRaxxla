@@ -1,0 +1,11 @@
+alexzk
+A
+May 22, 2020
+#16,573
+Merlin StWahgwaan said:
+AND BTW, thanks for the link, i finally got 5 min to sit down and use it, edit it with my coordinates, but THANKS, huge help, now I can triagulate from any 3 systems I want, I've got a few I wanted to try, but its been so long I gotta look em all up again, lol
+
+But thanks, I got a different result for centroid using your code than the picture I was given, so im going to check out about 20 or so systems around each one... they are not far far from each other, but slightly off...
+check main at bottom, code can do 2 different calculations - "center of inner circle" and "mass center" which are different points. mass center is commented out by // there. Remove that sign to have that link too.
+Reactions:
+Machina Ergo Sum

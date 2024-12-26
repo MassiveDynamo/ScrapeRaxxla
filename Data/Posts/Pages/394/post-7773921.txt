@@ -1,0 +1,23 @@
+CMDR Hardinger Weizen
+May 3, 2019
+#7,879
+Hello, this is my first time writing in this forum, and I'm still fairly new to the Elite universe.
+
+I've been trying to solve the riddle by Drew Wagar all day long.
+In this reddit thread HERE we discusses some ideas but didn't get anywhere just yet.
+But I think I got something that's important for solving the puzzle.
+In a recent Twitter post, Drew mentioned the following:
+
+"[...] It was designed to defeat the techniques typically involved when encountering a puzzle. I'm fairly confident a brute force attempt will not work. It's requires a little subtlety in the approach, but all the clues are there. The previous clue (the one I used to obfuscate the start point of the Salomé event) used a similar technique. This one is a bit more complex."
+
+The riddle he refers to is this "46 Eridani" puzzle:
+Source: https://youtu.be/pIv-tYJNBAU?t=125
+
+To solve it, you needed to know this: "'At Phaeton's Reach' hints Eridanus, 46 is the result of Fi(0) SUM(10,7,5,3) => 34+8+3+1 = 46, so they came up with 46 Eridani. "
+So it was a mix of mythology and math (fibonacci sequence).
+
+Then recently we got this post (Soliloquy) from Drew Wagar on his site. He mentions "Dihya", who "was a Berber warrior queen and a religious and military leader who led indigenous resistance to the Muslim conquest of the Maghreb, the region then known as Numidia." (From Wikipedia)
+
+There is no system called Numidia as far as I know, guess that would have been too easy.
+
+So for the old riddle that Drew describes as similar to the new one (the text on the right we haven't uncyphered yet) you needed Greek Mythology. Maybe mythology can help us again with this riddle. Anyone got more useful information on Dihya?

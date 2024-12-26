@@ -1,0 +1,12 @@
+Ian Doncaster
+Dec 17, 2024
+#35,614
+Ozric said:
+There is just no visual representation of them.
+Not just visual - they also don't currently show gravity to get a supercruise slowdown, and don't appear as either Body or NonBody contacts in the journal.
+
+Jorki Rasalas said:
+I'm starting to get the feeling that we should have investigated much more deeply those DB statements about players not playing the game as they were expected and missions are designed to take you around the bubble...
+In that respect - and notwithstanding the Support comment - a chain of tip-off missions would certainly take a player around the bubble!
+Reactions:
+Louis Calvert, Jorki Rasalas and Rochester

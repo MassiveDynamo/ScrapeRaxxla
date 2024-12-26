@@ -1,0 +1,10 @@
+alexzk
+A
+Sep 24, 2020
+#19,037
+Not sure what "subdwarf" means >: Like body? But then main star must be huge O/B like and list is short.
+For API limit was 100ly around, so doing next:
+Center: Sol
+Radius: 100ly
+Main star: M dwarf
+Must have at least 3 giants.

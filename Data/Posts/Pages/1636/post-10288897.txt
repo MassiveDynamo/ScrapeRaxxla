@@ -1,0 +1,12 @@
+Ian Doncaster
+Dec 23, 2023
+#32,709
+Emperor said:
+When did they introduce the PMF System descriptions?
+Relatively early, but probably after the very early additions where they realised letting people add PMFs to systems which already had descriptions was a mistake.
+
+The Colonia systems are a bit of a special case - Valac is the only one with a description, and that was added retrospectively in early 2020 - but I think the PMF process for the bubble had them by the time of the CEI.
+
+There is apparently the occasional mistake where the system description and the PMF aren't in the same system, presumably because the PMF had to be moved to a reserve system at the last minute but the description had already been entered.
+Reactions:
+Emperor

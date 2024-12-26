@@ -1,0 +1,12 @@
+Ian Doncaster
+Jun 29, 2024
+#34,370
+RemusLt said:
+Has anyone scanned the Data Link from Hidden Mountain Estate installation in Tau Ceti.
+What does it say. I want to take a look at it.
+I am at that location ATM trying to download it. Still unsuccessful.
+I haven't been to that specific installation, but a lot of installation layouts have Data Links that (unlike megaships) don't have any default content, so do nothing if you try to download them. There's at least one megaship class that has two Data Links and in general only the first does something (the usual itinerary)
+
+It certainly sounds like a generic procedurally-added installation from the name, though that of course could be deliberate.
+Reactions:
+Rochester

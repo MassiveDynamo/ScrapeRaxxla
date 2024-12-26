@@ -1,0 +1,39 @@
+Noobilite
+Apr 26, 2019
+#7,751
+I didn't put together the name fits the number of sides. I realized it was 6 and that the hexagon had six but didn't think that out.
+
+That leads to another idea. A hexagon is also a 2d representation of a cube at an exact angle. This means anything hexagonal could also represent and does automatically(without intent, IE mathematically) a cube. Which could have to do with dealing with the game map and 3d finding of a location or similar. IE triangulation or any spot in a 3d space. Hell it could represent the very method of doing so. If TDW were explorers Raxxla could have to do with how to navigate fundamentally and not forgetting it. Especially as you travel the galaxy.
+
+We already have this to some extent with the last 6 values in all system names. It's always 4 letters and two numbers. It's just that the two numbers can be compound numbers. IE, more than one digit.
+
+Example:
+
+LL-L L#-#
+RA-X X12-1
+
+I've been trying to find Raxxla based on those numbers. Using both the direct number and the spiral cipher.
+
+Spiral Cipher is always number +29
+
+RA-X X12-1
+RA-X X12-30
+RA-X X41-1
+RA-X X41-30
+
+Not gotten very far past the letters though. Still have to figure out the layout of systems based on the letters. I occasionally get RAX-X but more likely only RA-X only.
+
+I've also tried rotating:
+RA-X X#-#
+AX-X L#-#
+XX-L A#-#
+XL-A R#-#
+LA-R A#-#
+AR-A X#-#
+
+I haven't tried mixing up letters yet. It's just too complicated. I won't do that until I have a firm grasp on where these things relate to 3d space etc. Once I figure out the location of objects in 3d space based on their name or how they are setup I will do more complex things. I did find stuff in game to help figure this out though. I just haven't gotten back around to dealing with them. But there are things in game to make this easier. And it makes decent exploration money! ;p
+
+I'm pretty sure the game is guiding us to this conclusion with these things in game.
+Last edited: Apr 26, 2019
+Reactions:
+Han_Zen

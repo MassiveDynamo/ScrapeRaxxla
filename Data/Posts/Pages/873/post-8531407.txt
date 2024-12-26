@@ -1,0 +1,16 @@
+Machina Ergo Sum
+Jun 15, 2020
+#17,446
+Mrrshal said:
+Friends, I have maybe important message regarding LFT 509.
+Today, 5 minutes prior of this message I logged back in to elite to check the invisible system near LFT 509 and confirm it on issue tracker Invisible system. Searching
+Hip 34104 truly points to empty space near LFT 509.
+
+But then I suddenly realized, looking at galmap, that I have old bookmark on LFT 509 with ARROW POINTING DOWN with means I bookmarked an object in this system. Hastily checking the list of all bookmarks in galmap I found LFT bookmark WITH CITY icon!
+SPOILER: CITY BOOKMARK IN LFT 509
+edit. Please report to me if you can't see attached image
+Click to expand...
+
+The surface installation icon is a "bug". This is the same "bug" as the Polaris surface installation icon which made everyone think that there is a population on Polaris. IIRC you can simply replicate this by using your left panel to bookmark it when you are next to the system in question.
+Reactions:
+turkwinif, Hanerib, PeteACarter and 1 other person

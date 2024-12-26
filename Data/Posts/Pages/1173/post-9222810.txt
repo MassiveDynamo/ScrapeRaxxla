@@ -1,0 +1,13 @@
+Jorki Rasalas
+May 27, 2021
+#23,454
+simulacrae said:
+Ya the start screen was initially a coriolis station i think(?)... getting fuzzy .... then with horizons we got the buggy and the orbis station(?) - Then later we got the ship in the hanger and now of course the fancy cinematic.... speaking of which - frontier does put their logo over that moon in the sky...
+Let us not talk of Odyssey! I’m still waiting for my pre-alpha ordered OST download to become available; it was still “access locked” yesterday!
+
+I finally got a 3 metre usb lead delivered last night, so today might get around to connecting up my old Xbox controller and trying EDO again..I couldnt control the arc cutter adequately with hotas and gave up on the training vid!
+
+Yesterday I did manage to prove that the superpower rank is still increasing within Horizons after running Rep++++ missions, even though there is a bug with its display in the internals panel/superpower status tab. When I then went into EDO the superpower status was correctly shown and level had increased by a few %. But I suspect this bug may mean that rank up missions will not appear in Horizons until the bug is fixed...Tyko wants a Corvette for his clone day!!
+Last edited: May 27, 2021
+Reactions:
+Vetinari, simulacrae and [PS4] Filthymick420

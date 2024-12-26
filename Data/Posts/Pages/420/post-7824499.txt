@@ -1,0 +1,11 @@
+[Diplomacy] Carnegie
+May 31, 2019
+#8,399
+Exocortex said:
+Speaking of rogue planets, I wonder if it's possible that they're already in Stellar Forge, but unimplemented. It wouldn't be unprecedented, since we have instances of stations orbiting comets that have no physical representations in the game. I would be sad if Raxxla turned out to be something that technically has been in the game (or at least in the code) since Gamma, but is effectively undiscoverable.
+
+I think it's reasonable to assume that FDev aren't willfully screwing over their playerbase by not actually implementing Raxxla.
+
+A bug which stops it appearing, on the other hand...
+Reactions:
+Crimson Echo, DevilFistX and Exocortex

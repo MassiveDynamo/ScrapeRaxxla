@@ -1,0 +1,24 @@
+Louis Calvert
+Jul 4, 2024
+#34,427
+Ataxia said:
+I found 10x 4 character long sequences that appear twice each in the file.
+
+YBYC: 361 characters
+39LG: 179 characters
+C7L7: 3680 characters
+8NVT: 1871 characters
+G1WL: 3883 characters
+: 1381 characters
+
+Each pair is seperated by the number of characters listed.
+
+This is from a 'translated' 6 hr audio file from one of the stations.
+
+their combined hex is - 16 9b 3e 60 74 ff 2b 56 54 69 70 e5 42 59
+Click to expand...
+That's very interesting! Do you have any thoughts on what it means?
+
+I suppose it's a big ask at this stage, but have you been able to compare that 6hr audio with one from another station to see if they're the same?
+Reactions:
+simulacrae, Darrack and Ataxia

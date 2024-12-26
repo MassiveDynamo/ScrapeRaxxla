@@ -1,0 +1,16 @@
+Koben
+Mar 9, 2021
+#21,747
+Jorki Rasalas said:
+However it does raise a further question- for these “sectored asteroid belt” depictions in other systems is it possible to actually find the asteroids? In Sol it is not possible. You can detect an “asteroid cluster” in the left hud display but when you drop out of SC nothing is there even though that “asteroid cluster” is still showing in the hud. Spaceman Spiff also spotted that in Sol if you fss then a count of 8 is shown against the asteroid part of the spectrum window but there is no signal there by which you could locate them. Is this behaviour unique to Sol?? If unique then it is suggestive when coupled with the possible visual resemblance in Greek of “Gallia” to the word “Raxxla” since there is IRL an asteroid named 148 Gallia (as others have pointed out many times).
+The reason it's hard to find the actual asteroids, is because we're dropping at the "asteroid belt region" (remember we're not targeting/locking on the signal source) and this might be the clue for it.... the search area is a flat disc about 650ls long and positioned in between Jupiter and Mars orbits.
+
+If we fly in normal space close enough to the actual asteroid cluster we may find the rocks... or maybe a hidden station, a dredger... but it is worth going there and fly around honking until we find something.
+
+Yesterday I was passing by it again and the speed in SuperCruise started to drop whilst over the Asteroid Belt region (gravitational pull), decided to drop to normal space, but again, the search area is just massive.
+
+So, let's us meet next Sunday and we can focus the search on the Asteroid Belt region.
+
+Cheers!
+Reactions:
+TrillClinton, clavain, Macros Black and 3 others

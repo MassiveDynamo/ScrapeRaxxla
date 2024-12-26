@@ -1,0 +1,20 @@
+yelboc
+Feb 2, 2021
+#20,871
+Vektorboson said:
+Does anyone know if the constellations are correct for 330x? Or do the positions of the stars correspond to current day in real life?
+
+No - the galaxy is as per yr 2000 (except for some objects like nebula which are J1950 and therefore a bit in the wrong places). The stars are , I believe static too - no proper motion.
+
+Vektorboson said:
+Then: An alien artifact was found on Mars. This does have huge implications since the question is: When did the aliens visit the Sol-system?
+Did they have contact with ancient civilizations? Or did they visit before Homo Sapiens existed?
+
+we know nothing more that the Galnet post and the Tourist-Beacon - yes I think its important.
+
+Vektorboson said:
+There is so much data you have to collect! Are specific NPC-names a hint? There is for example the "Trading Beacon" which spawns a NPC where the ship has the name Ariel. I've seen in screenshots of other players that Trading Beacon-ship is named Ariel, too. So you start researching Ariel, which leads you to "The Tempest" by Shakespeare, where Ceres is also mentioned. Ariel was also imprisoned by the witch Sycorax. And then you must be careful not to start getting confused by The Expanse since it does reference The Tempest, too, through the name Caliban ("Caliban's War").
+
+The game is a play-park for confirmation bias. NPC names seem to be proc-gen - Ariel and other names appear quite often, but maybe a bug or proc-gen artefact.
+Reactions:
+Fiera, Han_Zen and [PS4] Filthymick420

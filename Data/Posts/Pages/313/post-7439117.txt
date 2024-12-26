@@ -1,0 +1,30 @@
+yelboc
+Feb 24, 2019
+#6,260
+The chinese valentines day mentioned by Han Zen:
+
+Princess star-lover links to the Qixi Festival where star crossed lovers meet on the 7th day of the 7th moon of the year in Chinese and Japanese tradition.
+
+Zhinu - represented by Vega, and Niulang represented by Altair, seprarted by the milky way as punishment. They meet once a year on a bridge of magpies that forms across the river.
+
+Qixi is pronounced 'KEY-she' !
+
+Vega is call Orihime in japan.
+
+The story is also mentioned in carl sagan's novel 'contact'..
+
+Maybe we have to go on the day ? :|
+The bridge of magpies.. no idea how that could happen in game, but maybe the point midway between Altair and Vega is the 'meeting point'
+
+BTW Vega was not the pole star in 1200BC for the ancient greeks.. see my earlier post, or check for your self in Stellarium (which has a full precession model)
+
+Ancient Greece dates from 1200BC not 12000BC (when Vega was pole)
+
+Also, 1ly = 31,557,600ls. Even at 2001c, a ly takes 4.38hrs. Hard going .. do we have any reason to beleive that FSS doesn't show all bodies in a system? I have had it pick up outer bodies >500,000ls easily enough.. Stikes me that folk were missing stuff and that FDEV gave us the FSS so that we might find the things overlooked.
+
+Doing exploration at the moment (trying to grind to 3x elite.. I may be a while..) and suprising how many systems have not had their outer planets found - liekly there is stuff in the bubble yet to be FSS'ed where distant things have gone undetected in the past..
+
+YB
+Last edited: Feb 24, 2019
+Reactions:
+Han_Zen and Edelgard von Rhein

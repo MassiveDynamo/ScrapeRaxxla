@@ -1,0 +1,21 @@
+Adel
+A
+Feb 7, 2022
+#25,245
+electro said:
+why would the answer to Raxxla be in an overflow? That seems like a non logical assumption.
+The point is to know the composition of a system with the logs, overflow lead to the signals from left panel.
+But, some are hidden like comets, barycenter, belt origin.
+
+The overflow just help to understand (for me) what are the missing "BodyID". As comets were unable to detect before, now i just know where to look, drop in, get the line in logs and find system composition. But there is still a work to do: sort information, understand how some systems are coded (currently i'm stuck trying to understand 25 Nu Cassiopeiae as it has very strange BodyID order and ID 2&4 crash the game, as if there were nothing. But IDs go to 16).
+
+We don't use a hacking method (brute force or whatever), as like Cmdr Pyroboros said, we still have to go to the system.
+
+Personnaly i don't think we could find Raxxla with this method because of 2 theories of my own:
+
+Raxxla is triggered server-side with currently unknown requirements
+Raxxla may/may not be in game but it is just unaccessible (i'm sure Polaris and LFT 509 would lead us to clues when/IF unlocked)
+
+So for now, i think fdevs are just laughing to us while watching us try to find anything
+Reactions:
+Jorki Rasalas and Rochester

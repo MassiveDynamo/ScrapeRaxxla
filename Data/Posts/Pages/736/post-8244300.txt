@@ -1,0 +1,16 @@
+Vetinari
+V
+Jan 15, 2020
+#14,706
+RaNaketh said:
+I've just dropped over to Maia, ostensibly to check 5A's colour for TDW station (which is close, but no bodies close enough to generate the picture from the Codex), and so I was having a closer look at nearby bodies.
+
+When I DSS Maia A 6 B (non-landable) I received (4) Notable Human signals? I thought you could only get those from 'landable' bodies?
+
+In the past they have included or for some reason not included - conflict zones, space stations, anything on the planet, Listening posts and similar or Installations so could be almost anything and not always consistent...or theres a lot of hidden stations in my game.
+
+Since the update I noticed it may be more accurate as in counting only certain things all the time (seemingly excluded Conflict zones) but didn't see enough to confirm the theory or exactly what was counted, fairly sure it missed a station last night so may be a bit bugged but haven't seen enough to decide whats happening.
+
+Edit: just realised you DSS it, in that case any 'finds' should show up as POI or Stations or Surface Bases under the body in the Nav Panel, should be indented slightly to show on or 'attached' to that body. Should be 4 of them.
+Reactions:
+Machina Ergo Sum

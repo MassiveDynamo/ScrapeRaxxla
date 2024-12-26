@@ -1,0 +1,20 @@
+Thatchinho
+Jun 16, 2020
+#17,535
+PeteACarter said:
+Sorry for slight off topic, but disappointed to learn atmospheric landing is "tenuous atmosphere only" so still no 100% garuntee of being able to land on Raxxla.
+
+Even more of a shame given "last addition, really, in terms of going from space all the way down to the planet surface." Meaning we may never be able to visit an ELW or WW. Let's hope Raxxla isnt one of those!
+
+This news brought to you by Arthur Job.
+On a slight other note - I hate to be the bearer of bad news (and when I say 'bad news', what I actually mean is 'something realistic but which might not be what's wanted to be heard' ), but it's very likely that ELW's are a long way off.
+
+Essentially there's a bit of a hierachy of atmospheric bodies in terms of the complexity and difficulty in procgenning them in the way that they need to be done for ED. The complexity and difficulty effectively goes up in orders of magnitude as you go up through the levels of the hierachy. ELWs are right up there at (or near) the top.
+
+WW's cover a wider range than ELWs, and so different kinds of WW will be at fairly different levels of the hierarchy.
+
+(This isn't official FD info btw, it's just taking the principles used for ED and extrapolating it. A full run through's probably something for another thread though. Or for giving a link to if I can dig out a relevant post. )
+
+FWIW, with legs being rumoured, I personally wasn't expecting atmos landings whatsoever in the new era update, so getting even tenuous atmosphere's was a nice surprise!
+Reactions:
+Hanerib and PeteACarter

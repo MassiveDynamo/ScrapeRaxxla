@@ -1,0 +1,24 @@
+sam23694
+S
+Jul 30, 2019
+#9,966
+CMDR Maylor Rom said:
+Well, there are two stars in 27 Cass, the main star "A" and a neutron star "C". According to Elite's wiki, there should be a barycenter for this system, between "A" and "B/C". I think there may be a bug here.
+
+Barycentre
+A barycentre is a mutual centre of mass around which two or more bodies orbit. They can be seen on the System Map as lines forming three sides of a rectangle, linking the bodies indirectly. If anything else is orbiting those bodies collectively (as opposed to individually), the barycentre is...
+
+Let me check some other systems on EDSM and see if I can find one to compare with this one.
+
+In any event, no Raxxla here. Moving on....
+
+o7....
+Click to expand...
+
+Just to really drive a nail into this, in my understanding 27 Gamma Cassiopeiae shows B and C orbiting a common barycenter, and then that barycenter "orbits" a common barycenter with A. In the image you provided those planets are not in orbit of any star, but in orbit of the barycenter itself.
+
+Correct me if I'm wrong but this is different to how reality works. ED treats barycenters like an object itself to orbit, probably to reduce that amount of complexity when generating systems in the stellar forge. I doubt ED wanted to simulate the N-body problem during development, so they made barycenters into objects.
+
+Either way this system has sent me on an interesting journey.
+Reactions:
+Fiera, Deleted member 52630 and [PS4] Filthymick420

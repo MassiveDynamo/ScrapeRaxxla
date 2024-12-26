@@ -1,0 +1,37 @@
+Thatchinho
+Oct 25, 2018
+#4,057
+Edelgard von Rhein said:
+This is a very important point.
+There are some historical facts that are canon (at least at the time of Drew's lore articles and there was a summary of Hyperdrive tech in Galnet that should still be canon) that are worth mentioning again here:
+Raxxla was a myth even in the early 32nd Century.
+Interstellar travel was accomplished in that time by the Faraway jump lanes and riskier hyperdrives (used by some Generation Ships, amongst others).
+The Faraway network of jump lanes had to be built up through normal space travel - it took centuries to set up.
+This often leads me to think that Raxxla, or the clues to its existence found by Jason Ryder, had been around and discoverable before the early 32nd Century. The original discoverers of Raxxla would therefore have had to encounter it by one of three methods:
+A misjump is uncontrolled and probably not repeatable. In either of the other two cases, there would be something to aim for.
+When Jason Ryder talked about putting an expedition together, there would have been some objective to aim for and possibly something that he, an Elite pilot though he was, could not accomplish alone. There is also a line in The Dark Wheel about unaccompanied hyperspace jumps that springs to mind (though it might not be canon) that says something like it being exceptionally dangerous to jump beyond 0.1 LY but that up to that distance it was fairly safe. That often makes me think that Raxxla, or evidence for it, might actually be lurking in the Bubble up to 0.1 LY from one of the systems connected to the Faraway network. If that is the case, this is a clue that might be discoverable with the new scanning mechanics in 3.3. If Raxxla or the evidence for it required a longer hyperspace jump, though, then it could be anywhere - the range of the Galactic Hyperdrives is unknown.
+
+I think it's always worth bearing in mind that Faraway was just the first hyperspace transit mechanism open to general consumers.
+
+Hyperspace travel had been going on for ~675 years by the point of Faraway being commercially available.
+
+In the early days, automated vessels were being sent out and pioneering pilots were risking jumps (according to Michael Brooks).
+
+I took a look at what we could work out in-game a while back, and we can infer quite a bit from the colonisation of Achenar which was in the mid 2200s.
+
+Here's an image from Galmap, looking at Achenar from Sol:
+
+SPOILER
+Key points:
+
+- Distance - 139.45ly
+
+- Minimum jump range needed is just under 8.7 ly (8.74ly was the lowest jump range I was able to plot a Sol -> Achenar route with.)
+
+So that's a full colonisation expedition via hyperspace, covering those distances, arriving around 120-140 years after hyperspace tech was first invented.
+
+That's 550 years before Faraway being used.
+
+Consumers might have been restricted to the limitations which have been discussed around Faraway, but it certainly seems that non-consumers weren't necessarily so restricted.
+
+This is massive speculation, but my suspicion is that in earlier times safe independent hyperspace travel was reliant on AI but when whatever happened with them happened, things took a big step back, necessitating a much more regimented and corralled mechanism to be built which is where Faraway came in.

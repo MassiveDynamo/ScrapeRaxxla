@@ -1,0 +1,20 @@
+Jorki Rasalas
+May 21, 2023
+#30,494
+Ive previously posted my reasons for thinking Raxxla may be hidden in Saturn’s rings (boosted by recently reviewing the video Edifying Will with EXO). Spent a few hours yesterday afternoon flying in Saturn’s E ring, or rather where it should be, because I spotted in the Tourist Beacons list https://docs.google.com/spreadsheets/d/1eu30UyjpQrWexAglwD1Ax_GaDz4d7l8KD76kSzX4DEk/htmlview#
+around 13 quotes of “Some icy geysers are powerful enough to create rings, such as Saturn's E ring in the Sol system”. That repetition might be significant, but the E ring should be at 0.600-1.601 ls and I dont think there is any ring system implemented there. It’s also a huge area (IRL the E ring is 300,000 Km wide) to search if we need to be within 50Km (drop out distance for comet positions) for it to be found. If there’s a probability, or a honk counter that has to be exceeded then......
+
+Also spent a few hours searching around 0.45ls from Saturn...because MB said
+“It’s something in the game world (not text) and very hard to find”
+“It’s not a random thing”
+“Anyone can find it, and more than once”
+
+So there ought to be some reference marker to its location. But searching aimlessly in Saturn’s (or any other planetary) ring system is arduous... there’s so much space to search that if not in supercruise I think it’s practicably impossible. So there ought to be at least one reference marker. Tourist Beacons would be the obvious solution.
+
+There’s a TB “FIA Responsibilities” at Saturn & from that TB list it should be at 2991 ls from Sol, but is actually located at Saturn at 4907 ls. I’m wondering if the “storyline” to Raxxla is based on similar discrepancies that we should be spotting.
+I wondered if “FIA” meant midway between F and A rings, hence the 0.45 ls search radius. Headed to that TB, then dropped down to the level of the rings and headed in to that radius , then dropped out of SC & started honking at full speed. Even at 387m/s top speed in my Phantom I didnt cover much ground....
+
+Has anyone with crypto skills looked at the TB and their descriptions to see if any Raxxla (bearing in mind “xx” might be “??” wildcards) clues are embedded? FD did seem to be very keen on cryptograms at the outset, and they still seem to crop up occasionally....
+Last edited: May 21, 2023
+Reactions:
+Quinbad, BluWolve, simulacrae and 2 others

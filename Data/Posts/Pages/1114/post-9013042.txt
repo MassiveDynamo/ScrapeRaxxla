@@ -1,0 +1,6 @@
+clavain
+Mar 21, 2021
+#22,263
+Jorki Rasalas said:
+Don’t forget HIP 84605 though!
+Yeah, I hit it on the way back in (see note above about its designation in Simbad).

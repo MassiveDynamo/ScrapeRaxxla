@@ -1,0 +1,28 @@
+Macros Black
+Mar 1, 2020
+#15,533
+Thatchinho said:
+Hey, @Macros Black
+
+OT for the actual search, but am doing some fixing of a few links that were broken in the forum change.
+
+Went to the FP of this thread as I knew there were some links that were in the right format there, but spotted a couple have the same issue as mine, so just thought I'd drop in how to fix them (also posting in the thread just in case anyone else needs to know).
+
+Ones that are in the old format no longer work, and will just link back to the FP.
+
+Example of old format below:
+
+
+
+The fix is to drop the '#' and add a '-' between 'post' and the post number.
+
+See fixed version below:
+
+
+
+Hope that's useful!
+Click to expand...
+FP updated. Please let me know if you find any other broken links on the FP.
+Last edited: Mar 1, 2020
+Reactions:
+Thatchinho, RaNaketh, Machina Ergo Sum and 2 others

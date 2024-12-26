@@ -1,0 +1,97 @@
+Rochester
+Jun 21, 2024
+#34,274
+Jorki Rasalas said:
+Thought for the day...
+
+I've been pondering What Raxxla may be, while also pondering Where, and How to find it.
+
+From the logo, I suspect Raxxla is an orbiting space station, probably old type Coriolis so smaller than current version. It might also be a Guardian ark ship, realisation based on the same Coriolis 3D model. I suspect, from the Li Qing Jao garden design, that it is orbiting in a planetary ring which has 6 mineral hotspots. The circular arcs of the logo were (still are?) seen at the entrance to asteroid bases, & several of those exist in-game in planetary rings. To my mind the black shapes on the logo suggest the outline of diamonds, so it is possible that at least one of the hotspots is LTD. If it is hidden then a clue to localising it might be that it will have cleared a path, so there will be an associated gap in the planetary ring...that fits with the possibility that it has accreted valuable minerals on its hull over a long time, so that would fit with FD's (Arthur?) suggestion that "it should be a huge payoff". My reasoning here is based on visual similarities between aspects of the logo and this diagram of various cuts of diamond.
+
+
+
+
+
+How to actually find it? I'm still puzzling over this question!!!... I think it's clear ship sensors will not detect it at range in the usual fashion ("the system it's in has been honked but it was not detected"). So does it exist in normal space, and we just have to poottle around blindly honking to detect it at very close range? Or do we have to drop in on it out of hyperspace? (In which case how would we know when to do that if its invisible?- "comets" have an instancing range of around 50km or so & you have to be very close to drop in on their instance. I've been searching around a contender system for a few days now-it's boring gameplay! I've set up my Joystick Gremlin profile to hold the scanner fire button permanently to reduce strain on my painful hands!
+
+There's another possibility that came to mind-it might be a solid LTD asteroid, possibly engraved with DB & MB faces...that would fit DB's amusement in the livestream when he said we "don't know it is"...but I suspect this is just my DB bobblehead envy showing through.
+
+Does any Spansh (or alternative) report give the number and type of mineral hotspots in a ring? I've flown to around 25 systems visually checking with my surface scanner, but want to check out another 25 or so.
+Click to expand...
+
+Yup - I’m liking the visual association toward jewels too, that could well be it regarding the logo. Great insight.
+
+Apologies if I’m repeating myself, much of this I’ve already gone over historically, but below is my current impression of what it might be:
+
+The first line of the toast I do believe is a take on the Miltonian quote FD associated with Brookes memorial; it being a reference to Eden/Paradise being like a pendant jewel hanging from the brow (hill steep curve) of heaven.
+
+I still have some faith the garden map design might be a candidate, simply from the strong similarity to historical illustrations of the above.
+
+It would be an elegant method (in plain sight for those with eyes to see) as if we were sure of the general area, it ought to reduce the probability of which system it might be in and equally give us a visual cue to look out for it. Again the hypothetical ’someone honked if’ might as you ascribe, not rule out the fact lots of Cmdrs have visited the location and not actually perceived it; remember there was a video comment from the Dev team ages ago which gave the impression FD were at that time a little astonished no one had found it (although equally that could have been in jest).
+
+Personally I think the Codex is giving us two locations? I’m still not certain.
+
+The toast I speculate is a triangulation clue, find these systems and it’s at the centre; it’s a good puzzle because it can be linked to a hundred different sources so in theory it’s just knowing which source to use, again I feel unlocking other aspects of the codex might assist with that.
+
+As I’ve postulated previously, I suspect that first segment identifies the pendant jewel hanging from the Empyrean, which I’ve already proposed is someplace along the North or East wall of heaven. So from a Miltonian perspective it’s a physically contained pocket universe.
+
+If we accept the garden design map, the location is actually a system, and Raxxla exists around a large body with a ring, possibly one moon, in a system with 3 other bodies; or one body and 4-5 moons.
+
+The rest of the codex, I think tells us another location, and again tells us what Raxxla might be.
+
+The reference to Tau Ceti and the date, I believe draws a sphere of influence, Tau Ceti also may contain another clue, which I’ll touch on later…
+
+The talk of Cora etc is an illusion to the myth of Persephone; that I feel is likewise reflected in Brookes Elite Legacy by her absence. Ultimately this I speculate is intended to draw our attention to the Greek Underworld zone in game where she resides as a system.
+
+The part of the codex revolving around the talk of Atlantis etc, I feel is literal and it identifies a location beneath the Greek underworld in game I coined as the Lost Realms, ultimately this is a huge Robert Holdstock easter egg right there.
+
+Holdstock is incredibly important in this quest because I believe the whole mystery is a homage (in part) to his work.
+
+I think the talk of an Omphalos and a children’s story is telling us more info on what and where Raxxla is.
+
+The children’s story I strongly suspect is a reference to Brookes Legacy and Julia childhood book, I think this is likewise backed up by FD inclusion of the memorial, which talks of burial methods promoted in that text!
+
+The children’s story is the fictional book in Elite Legacy; however I now don’t feel it’s telling us that book holds any literal clues, but that the book actually is Elite Legacy itself.
+
+As I have previously hypothesised, I speculate Brooke’s (Hammer) was telling us the ‘general’ area, by talking of the Beaumont system.
+
+Of all the systems mentioned in that book this system in omitted but he gives us a very specific locational description of it. I find that highly suspicious, considering firstly the word Beaumont is used in game several times, but not for an actual name of a system; then Hammer (Brookes) tells us it’s actually far below Achenar.
+
+This general area is where many of the Lost Realms also sit, and it intersects with the Brookes memorial.
+
+Now back to the Omphalos, I don’t think it’s actually a direct reference to the historical stone of Delphi; however I suspect it’s something else, however I might speculate the Delphi system is a directional clue, as is the station Donars Oak, in that maybe they’re intention is to seed the concept into our perception, to bring our attention to the Lost Realms zone via the world tree Yggdrasil…
+
+Omphalos can also denote a hill or high ground (navels in antiquity may have been more out than in). This reference is used numerous times historically. In Dante’s and Milton’s texts paradise is on top of a hill / mountain. So my assumption is that’s its use in the codex is to allude to a mountain / hill.
+
+This I believe is a coagulation of themes denoting the Celtic concept of the Otherworld. This was a liminal place, a paradise that existed alongside our own but upon a higher dimension. As in that history, mountains could be used as passages to it. So could the term omphalos rift denote a passage through a mountain?
+
+This is a theme which repeatedly appears throughout Holdstocks, including his creation Raxxla, which he describes as a liminal space, an Otherworld!
+
+The term Beaumont means beautiful mountain, so is the clue, look for the beautiful mountain below Achenar?
+
+This theme may tenuously link back to Tau Ceti mention within the codex, in that the system holds the ‘Mountain Estate’. Is this another literal clue, like above, to look for a ‘hidden mountain’?
+
+This would I believe make sense because the Yggdrasil systems I identified previously converge upon the Lost Realms and of Axi Mundi. And in another Celtic belief, referenced by Holdstock, was that Otherworld existed at a fulcrum at the base of a tree?
+
+So I speculate something is either in the Lost Realms zone or / and in the Empyrean zone.
+
+I do believe this is the grand mystery FD are alluding to and could be the actual mystical secret, that Raxxla is a liminal place, in a certain system and it is a doorway to the otherworld.
+
+I think also this all ties in with Brookes book, The Space In between.
+
+In that as I have presented previously Brookes outlines his plot, being that the universe is made from the corpses of older gods, and those who truly created it slumbered in a zone between reality, until humans woke them up.
+
+The Miltonian model which I’ve identified in game, I believe is the architecture for that story, being as it’s ‘shape’ is identifiable by the names of gods and goddesses, those higher up and those below…
+
+It should be noted that Brookes wrote several Drabbles, some of these I believe are representative in game, likewise Brookes confirmed in his blog his book was already written, there existed a first draft. So it wasn’t a hypothetical concept, I would also speculate the book design is a very loose / abstract map of the Miltonian model with ‘heaven gate’ in the relative position it ought to be - to the East of the great tree (Yggdrasil)..
+
+So the question I’m stuck on why two locations?
+
+It seems as though part of the toast could allude to something similar to a Miltonian model, backed up by the garden design and the memorial denoting it's higher up!
+
+Whilst the codex could allude to a Celtic concept backed up by Legacy and the Lost Realms etc, that it’s lower down!
+
+Currently I’m drawn and upon which it might be, or it simply might paint the entire picture and Paradise/Raxxla is in the Lost Realms, and the Miltonian concept Im has been used but expanded upon by Brookes to fit his Space in between model?
+Last edited: Jun 29, 2024
+Reactions:
+Ataxia

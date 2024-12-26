@@ -1,0 +1,8 @@
+Garand1987
+G
+Mar 6, 2019
+#6,386
+Spaceman Si said:
+Considering they still haven’t fixed the “planet already scanned” bug with the DSS, and the FSS had some fun times with repeating evey scan of an asteroid cluster, my money would be on a bit of a bug
+
+Yeah that’s something I wish would be changed. When you honk a system with a ton of asteroid belts in it you get the 5 min roll of ‘discovered belt system blah blah’ over and over and it’s not like it’s small. Perhaps stick them in the little notification panel to the right like the old ADS used to.

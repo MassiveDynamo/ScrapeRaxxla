@@ -1,0 +1,17 @@
+alexzk
+A
+Feb 5, 2020
+#15,020
+Jorki Rasalas said:
+No, all NS rotate, at high rates due to conservation of angular momentum from the parent star. The mass of this one is a bit high, but as Han_Zen said it may be in a transition phase. https://en.m.wikipedia.org/wiki/Neutron_star
+Ok, listened NS lecture again ... extra fast spinning NS may avoid being BH for some time, because being or not BH depends on density inside star. Current models predict easy 3 sol masses.
+However, I still doubt about ingame 13 Sols ... as there are speed limits. At some rotation speed:
+1. speed can be more then 1st cosmic speed and matter just fly out in space
+2. "sound speed" may be more then light speed and then matter gets crazy and unstable.
+all depends on initial radius-mass.
+
+Huh, 1 more fun fact, minimal mass of NS must be 15% less then white dwarf, otherwise explosion will do dwarf. So it's around 1.1 SOL to 2.1 SOL. And I see plenty of NS of 0.3-0.6-0.7
+...
+Last edited: Feb 5, 2020
+Reactions:
+Machina Ergo Sum

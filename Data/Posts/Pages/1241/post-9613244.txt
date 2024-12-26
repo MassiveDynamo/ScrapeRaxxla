@@ -1,0 +1,18 @@
+Zieman
+Nov 18, 2021
+#24,809
+Han_Zen said:
+Are you sure? I'we never seen any ecliptic orbits, except in Sol and a few other inner core systems. These are probably hand coded.
+
+The proc. gen. systems all seem to have circular orbits, even when they are way of center.
+
+This could of course be just the visuals of the orrery and that Sol has more small bodies, that makes it look that way. They could be slightly elliptic, without it being obvious.
+Yes, I'm quite sure.
+
+There's a parameter called "orbital eccentricity" in astronomical bodies' stats.
+Most of planetary (and their moons) orbits in game are pretty circular (OE zero or near zero), but there are planets with OE well over 0.9 around, one famous example being "The World of Death":
+
+
+One other, (much) less famous, and not as extreme (OE less than 0.9), is this lone Ammonia World:
+Reactions:
+Han_Zen and Adel

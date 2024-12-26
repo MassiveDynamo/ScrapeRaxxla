@@ -1,0 +1,72 @@
+Edelgard von Rhein
+E
+Jul 23, 2019
+#9,708
+This is the more in-depth report of my survey of the sector Phaa Chrie in The Void region. I apologise that some of the numbers are approximate, as I did not take screenshots of my stats until I had been there for about a day. Also, I relied upon screenshots for some recordings and did not take as many as I probably should, see below for when this caused inconvenience. There is a bug that can affect my laptop causing a lockup when viewing the system map, so I did not take any screenshots of those, except when using the family desktop.
+
+The purpose of the survey was to find anything that might correspond to 'the siren of the deepest void'. As such, there was a heavy bias on bright and massive stars. My technique for finding them was to set the map view to realistic and to zoom out as far as I could whilst still being able to see the stars around my current location, then to move around and look for larger stars or stars which seemed to be visible from farther away, or which appeared strongly blue. I also tried setting the map to map view and showing non-sequence stars only but found this was inefficient as the region in which stars are rendered was too small - I found the two neutron stars by accident (there are also some in neighbouring sectors).
+
+As mentioned before, nothing related to Raxxla was found.
+
+No Notable Stellar Phenomena were found. Six systems with surface biological signals were found. At least one biological signal was visited on every planet that possessed them. Three types of biological life were found: Crystalline Shards, Roseum Bioluminescent Anemones and Rubeum Bioluminescent Anemones. The most interesting of these systems was Phaa Chrie HR-N e6-0, which has one of the brightest stars in the region, with four bodies with Roseum Bioluminescent Anemones, all found on high-g worlds. Three of those worlds co-orbit and planets 3,4 and 8 also have rings, providing some of the more spectacular views of surface life in the region.
+
+Seven Earth-like Worlds and seven Ammonia Worlds were found, with four of the Earth-like Worlds having been previously discovered. It was clear that multiple CMDRs have been through the region and it was not unusual to find tagged systems. The Dead Ends Circumnavigation Expedition may have been partly responsible, as there were relatively few mapped bodies when tagged locations were found.
+
+Upon my return, the first page of data was turned in at The Print Works in Millese (just under 20 MCr) but the rest was turned in at Neumann Camp in Shinrarta Dezhra (approximately 600 MCr). I have a Deadly-ranked fighter pilot who will have taken some of the profit, however.
+
+Currently, I am working on surveying a corridor of stars about 10LY wide and 725 LY long for signs of the Mayflower 97. Fly safe!
+
+Systems Visited: ~550
+Distance Travelled: ~26,500 LY
+Time in-game: ~31 hours
+Brightest stars (7):
+SPOILER
+
+
+
+
+
+
+Neutron stars (2):
+Phaa Chrie FF-R d4-3: Neutron Star, M7 VA
+Phaa Chrie FL-Y d2: Neutron Star, M4 VA
+Systems with Biological Signals (6):
+SPOILER
+
+
+
+
+
+Earth-like Worlds (7): (with noteworthy/unusual features)
+SPOILER
+
+
+
+
+
+
+Ammonia Worlds (7):
+SPOILER
+
+
+
+
+
+
+Other noteworthy systems / worlds (5):
+SPOILER
+
+
+
+
+Selected screenshots:
+SPOILER
+
+SPOILER
+
+SPOILER
+
+SPOILER
+
+Reactions:
+Xaintly, [PS4] Filthymick420, AOpsyche and 8 others

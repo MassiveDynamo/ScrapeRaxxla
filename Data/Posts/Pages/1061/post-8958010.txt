@@ -1,0 +1,35 @@
+Crimson Echo
+Feb 19, 2021
+#21,206
+Tionisla Graveyard:
+The spiralling stars may be a reference to the Tionisla graveyard as the Dark Wheel novella describes it looking sort of like that on aproach. If memory serves DW mentioned they planned to put it in game but never seemed to. I suspect it is in game with no uss/poi to point to it, and that the location does not directly fit the novella's description. The way orbital info is presented in game is odd. Orbital elements like true anomaly, and Longitude of the ascending node are missing and have to be calculated manually( which position the orbit it self ,and the planet's angular postion in the orbit. The argument of periapsis is not enough. ) Binary planets like Tionisla 2 &3 and Tionisla 6 & 7 do not include star centered data so everything about them needs to be calculated by hand. This oversight seems to big to miss, and may be done intentionally to make it hard for data scrapers.
+
+Convoy Beacons/bugs:
+The convoy beacons and trade beacons may be a hit at this. They do not behave like normal USS. If you log out in them the ships will still be there. With USS the ships wreckage etc will normally be gone.
+
+The trade beacons and convoy beacons seem to function as NPC generated Wing beacons of a sort. While trying to drop into a trade beacon the game dropped my in real space at my wing mate's (who was still in supercruise, and neither of us had wing nav lock engaged. We both did have our wing beacons on, and both had separate trade beacons spawning. The current version of wing nav lock should not work at that range anyways.) wing beacon location 2 million ls away instead. This seems to suggest more is going on with these trade/convoy beacons that simple uss and there are using old wing nav lock code for some reason.
+
+In the original version of the trade beacons they could respond to cargo drops. (stations were not needed way back when) You would manifest scan then, and then bring more of that cargo they had in their hold, and get top dollar paid for the cargo you dropped. (if memory serves anyways. that was a long time ago.)
+
+Odd NPC Behavior:
+When i am doing lots of combat an a typically amount of the time an icourier in a wing is the first thing to spawn. It may be useful to pay attention to both cobra's and Icouriers. DW FE2 streams have driven home the point that the icouriers are nearly as iconic as the cobra.
+
+Does the name Bjorn Norberg mean any thing to you? I have had an npc spawn with that name repeatedly over months at this point, and across multiple accounts. (at least 1 in 5 npcs that try to interdict me (no related to missions) have this name. The ship they are in is either a dbx, alliance trio, or federal trio. Faction seems to vary. Other npcs do spawn with random names, but this one keeps trying to attack me, and i have no good explanation why it would keep getting generated other than as a reaction to the cargo both accounts are carrying.
+
+Leeloo Catfish said:
+They can change systems within limits. I believe that they can only add to the outer bounds of a system , so they couldnt add a new planet between A1 & A2. Cant remember who said this , might have actually been MB.
+It messes with exploration data some how. Unexplored systems could presumably still be changed. (if memory serves)
+Vektorboson said:
+Regarding space-dust biting theories:
+
+I'll try to finish the Isis-puzzle although I'm a pessimist about it being related to Raxxla. Drew appearing in this thread kind of makes me think that he had a hand in designing Isis.
+There's still the obvious possibility that The Club is the cabal as mentioned in the Raxxla-codex.
+
+For now my biggest hope is the Dahan-system, which others already failed at decoding.
+
+Otherwise there are some mysteries like the disappearing ships in Ququve/Zelada/Aimyia and of course the creepy Generation Ship Thetis, where I'm currently trying to decode the audio (ring modulation seems to be a promising approach).
+Click to expand...
+
+I have had npc ships disappear without a trace in a lot more systems than that. (Tionisla as a recent example) There is barely enough time to scan them and see that their name and ship id do not match, and then they disappear with no wakes or anything not even the light typical of ships in supercruise. This has happened as a separate thing to the zero throttle = disappearing npc sensor return mechanic.
+Reactions:
+Ravenl0ft and TrillClinton

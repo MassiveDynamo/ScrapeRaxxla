@@ -1,0 +1,25 @@
+Thatchinho
+Aug 29, 2018
+#3,314
+Han_Zen said:
+If we assume that Raxxla actually is a celestial body, is obfuscated on some 'outer rim' and has been possible to access/see/discover since launch, we don't have that many options.
+
+- Raxxla is a regular planet in a far away system that is hard to spot. The system is what is obfuscated.
+- Raxxla is a planet orbiting one of the mysterious 'Exotic stars'. Exotic stars are apparently a star class in ED, that no one has found.
+- Raxxla is a very smal planet. Stellar Forge seem to have a 100km radius minimum size. It could still be possible to manually insert smaler bodies. These may not be detectable by discovery scanner.
+- Raxxla is a comet. Comets are in the game and have been since launch. They exist as a point with gravity. Some stations orbits them, but they are invisible.
+
+Please add more options, that are compatible with what we know about the game engine.
+
+Hmm, the thing for me is that if we’re going off TDW, then Raxxla isn’t just something that’s difficult to find, it’s something that is being actively concealed by people with a great deal of power and influence. Hence, I’m not sure to what extent we can consider it discoverable.
+
+But it must have been accessed at some point in human history, since which point it’s had it’s accessibility artificially reduced.
+
+Do we actually know what the story is with Beta Phoenicis?
+
+Also on a mild tangent, has anyone else noticed the language shift towards the use of the word ‘construct’ in game to describe things related to the Guardian AI?
+
+(Just a note on the Guardian AI vs Construct situation - in the first set of Guardian logs, the origins of AI are discussed and at that point they appear to be essentially beings of the Guardians interstellar network (and who are there to assist the Guardians in it’s management) but they don’t have their own physical forms except when being hosted by a Guardian with a brain implant. The use of the word Construct then comes to the fore with the second set of logs and generally seems to pertain to them having more of a physical presence, with a separation between those which are military and those which are civilian.)
+
+Edit - somehow managed to miss the post where you mention the use of the word ‘construct’!
+Last edited: Aug 29, 2018

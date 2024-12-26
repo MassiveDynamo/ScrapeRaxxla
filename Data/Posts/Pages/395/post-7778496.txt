@@ -1,0 +1,15 @@
+xzanfr
+May 5, 2019
+#7,896
+Noobilite said:
+Something practical to work on. ....
+In a similar vein to you I've been thinking about to the way that the planet names were created in the original elite and a possible link with Raxxla in E : D.
+As far as I understand each galaxy had a seed that fed in to an equation that gave the planet name, position and reference number.
+Possibly there may be a seed is hidden somewhere in E : D that produces the name Raxxla, then gives it a planet number (e.g. 123). All of the planets numbered 123 in galaxies 1 to 8 could then be checked to see if they are in E : D.
+A spreadsheet for the galaxy creation for oolite is here - this should also be the same as the one for BBC B elite: http://wiki.alioth.net/img_auth.php/6/6a/Galaxies.zip
+General description of the planets and links for further resources are here: http://wiki.alioth.net/index.php/Oolite_planet_list
+Hopefully some of these may help in your investigations - I draw pictures for a living so all the maths is getting a bit beyond me
+
+Noobilite said:
+As I haven't played the originals I wouldn't know this, but are there other landmarks besides system names usable to find the other system and identify them in ED? Assuming there is anything.
+The only other thing I can think of is the planet description. I understand that this was also generated from seed in the original Elite and may have been copied over to systems in E : D. It might be possible to scour the planet descriptions in something like EDSM for keywords that were used in the original elite - e.g. the edible poets and hoopy casinos.

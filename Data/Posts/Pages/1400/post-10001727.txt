@@ -1,0 +1,41 @@
+Louis Calvert
+Nov 21, 2022
+#27,987
+See also: Historical Comparison of the Saturnian System 2000s to 3308.
+
+TLDR: Jupiter and its moons appear to have been very carefully recreated, discrepancies are minimal and consistent with resource depletion due to human activity. If anything, the differences are quite minor considering ~1300 years of colonisation and exploitation! Jupiter's atmosphere is visually impressive and very recognisable. There's no 'red flags' here that I can see.
+
+Comparison of Jupiter and its Moons
+
+Note: Jupiter has many smaller moons that are irregular in shape and non-spherical. Fdev seems to have included all the major spherical moons, otherwise known as the Galilean moons.
+Overall Appearance of Jupiter's Moons:
+There is a broad visual similarity between the four major moons when comparing them in 3008 to late 20th/early 21st C. images. Significantly Europa, Ganymede and Calisto all appear to be significantly less 'icy' than they did in the 2000s. Calisto is still heavily pock-marked with craters, Ganymede is still criss-crossed with fissures, and Europa still shows broadly the same colouration and surface features. Io appears almost identical. All the moons have the same radii, and occupy the same orbits.
+
+Composition Comparisons of Jupiter's Moons:
+As we saw with Saturn's Moons, there is overall significantly less Ice present than in the 2000s. Specifically Ganymede and Calisto seem to have lost all their ice, being listed in 3308 as "Rocky Bodies" only. It's unclear how Galmap treats the presence of a subsurface ocean, but Europa is listed as an Icy Body with no mention of liquid water, while it's difficult to find accurate percentages in the 2000s data, the composition in 3308 suggest Europa may have lost its ocean. Io seems unchanged over the last millennia.
+
+Overall Appearance of Jupiter:
+Jupiter's atmosphere appears virtually unchanged over the last millennia. There are still significant coloured bands and complex vortex storms, there is even evidence of "The Great Red Spot", although smaller - it's unclear if this is the same great storm or a similar one that emerged later. Jupiter's radius is identically the same as it was recorded in the 2000s.
+Composition Comparisons of Jupiter's Atmosphere:
+Records from the 2000s indicate that Jupiter's atmosphere has decreased from 89% Hydrogen to 73% Hydrogen by 3308, and accordingly the 10% Helium recorded in the 2000s has risen to 26.3% in 3308. There seems no other significant changes to Jupiter's atmosphere.
+
+Comparing Jupiter's Rings:
+In the early 2000s it was noted that Jupiter's rings "contains significant amounts of dust with 0.1–10 μm particle sizes" the rings are consistently described as being mainly composed of dust and other tiny particles. Jupiter's rings are only visible in certain lighting conditions and via non-optical detection. It was noted that probes were able to physically fly through the rings to measure the particle density.
+
+By 3308 Jupiter has a much more substantial ring system that's visible in all lighting conditions. The Rings are composed of rocky mineral rubble, not unlike other rings.
+
+Conclusion of this Historical Comparison:
+As we saw with Saturn, the Jupiter system seems to have undergone changes over the last ~1300 years. It's unknown whether these are natural or man-made, but generally the changes to Jupiter's moons are consistent with what we saw with Saturn's - reduction in Ice. Similarly Jupiter's Atmospheric composition saw a reduction in Hydrogen which may well be due to Hydrogen mining for industry.
+
+Unlike Saturn, Jupiter itself seems very recognisable as the same planet in the historical records from the 2000s, even down to it's size and major atmospheric features. The more substantial ring system may be the result of Jupiter's smaller moons colliding, or being deliberately demolished for mining, or accidentally destroyed, or it may be the result of captured asteroids breaking up under Jupiter's gravity - we simply don't know.
+
+Overall, the Jupiter system is less significantly changed than the Saturn system. It's moons show recognisable features, and there is no 'missing' major moons.
+Remaining Areas of Study:
+Determining how Galmap deals with subsurface oceans may help to understand Europa. Aside from that there seems to be no unaccounted irregularities that I can detect.
+
+Edit: Now I think about it though - how do you extract all the ice from a planet without changing its mass or size at all? Ganymede, Calisto, and Saturn's Iapetus are all missing Ice that made up at least 50% of their mass according to the data from the 2000s - either that info was completely wrong, or?? what??
+
+Uranus and Neptune and associated moons to follow later.
+Last edited: Nov 21, 2022
+Reactions:
+cmdr_imonix and Rochester

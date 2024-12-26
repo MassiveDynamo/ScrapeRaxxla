@@ -1,0 +1,8 @@
+Ian Doncaster
+Sep 6, 2024
+#34,731
+Dox Paradox said:
+How painful would it be game-play-wise to test dozens of systems?
+Probably no less painful than any brute-force search attempt where you've no idea where it is or if you're even on the right lines. The key would be that if you were right up to that point you'd only need to do it once.
+Reactions:
+Dox Paradox

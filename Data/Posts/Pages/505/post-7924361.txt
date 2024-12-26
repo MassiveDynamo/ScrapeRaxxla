@@ -1,0 +1,29 @@
+[Diplomacy] Carnegie
+Aug 1, 2019
+#10,095
+CMDR Maylor Rom said:
+Granted, this is most likely a bug in the galaxy map, but I wonder what the search would reveal if we used the names of systems from the original game (1984) or if we used system names from Greek mythology. One thing I taught in cyber warfare is to find a bug in the system and then figure out if you can exploit it to your benefit.
+
+To me, the system list may be a trail, if the right system name was used?
+
+Maybe Frontier hid the path in the Galaxy Map.
+
+I have nothing better to do, I will play with this "bug" for awhile.
+
+This may not be a bug, but a search list.
+
+
+
+
+
+
+
+
+
+
+o7....
+Click to expand...
+
+GalMap searches for more than just system names - it also returns planets, stations and possibly other stuff. In addition it returns partial matches where the start of the name matches the search string, so "Lave" will return "Laveykin Station" and variations thereof and "Lavender" if that happens to be a thing.
+Reactions:
+[PS4] Filthymick420 and simulacrae

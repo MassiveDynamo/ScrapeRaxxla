@@ -1,0 +1,44 @@
+Vektorboson
+V
+Feb 2, 2021
+#20,867
+Crimson Echo said:
+The similarity to the astronomical symbol for sol (as used in orbital mechanics etc) and the center circle and dot of the raxxla symbol is uncanny. DB seems to be rather the Astronomy fan (presumably anything raxxla needed to be approved by DB, and the similarity to the sol symbol would not be lost on him. So it is likely intentional) ,
+
+The symbol for gold (in alchemy) is also the same symbol. We must take into consideration that the most obvious solution might be misleading. The symbol could mean Sol, the symbol could mean gold, the symbol could mean both.
+I found there is a lot of ambiguity, like for example the naming of the "Two Ladies"-system.
+
+and the game pays special attention to get the constellations near earth correct.
+
+Does anyone know if the constellations are correct for 330x? Or do the positions of the stars correspond to current day in real life?
+
+The people developing the raxxla mystery seemingly likely do not do so in a vacuum. Popular media both modern and historical related to space and aliens would presumably not escape their study. Media like Contact, 2001, Mass Effect, Star Trek and Stargate could have very easily shaped the dev's approach to raxxla.
+
+The big problem is: Which are ones are actually hints? Which are just popculture references?
+There's so much literature/media. For example I wondered why the system "Ix" is called that; well I guess it could be named after Ix in Dune. Funny thing: Apparently the "Ixians tried to develop general AI in secret" which is funny since there is a corporation ingame that is accused of exactly that. Is this just a reference or is this actual lore and the reference (in this case the name Ix) is a hint?
+
+Think like a Vegan: 2D image that is really a aspect of a 3d or higher dimensional construct/representation. (hexagon=cube? etc)
+Dial the Gate: 6 reference points plus a point of origin (presumably sol?) to compute a location in space. (the other black shapes vaguely resemble chevrons like on the gate). (particular references yielding a location/direction.)
+Ancient Alien Anthropological Observers/Ancient Caretaker Civilizations like to Litter: Systems near sol with Earth-likes (that many or may not a look like a forest near Vancouver or a desert near Hollywood...)(or ancient mars-likes in light of the fossils discovered on mars) were probably also of interest to these ancient civilizations. These civilizations tend to litter a lot.(Stargates, Mass Relays/Protheans, Monoliths, Mars fossils, Guardians Ruins). Space Odyssey series spoilers: (on something of a side note the Monolith's supervisor Monolith was ~(469-500) ly from sol (can't remember if the signal was sent in 2001, 2010, or 2063, but the response at light speed was due in 3001) and would make one really awesome easter egg if fdev put it in game.)
+Click to expand...
+
+Regarding 1/2: It's so difficult to figure out what those thing could stand for. Could the hexagon stand for the Winter Hexagon? https://en.wikipedia.org/wiki/Winter_Hexagon
+Then you need to investigate, but you don't know what to actually look for. Do you need to align the winter hexagon with the sun? From which vantage point do you need to align it? And when you have aligned it, what are you going to do now?
+Then there are the things that look out of place or are weird and you don't know if they are related to the puzzle. The Isis-system is weird; is the naming of the system's planets some cultural reference? Is it a left-over from the previous games? Are the copy&paste-planets an error or are they a hint?
+Then you find more systems where the Orrery shows a single planet to behave completely different to the others; you find that it might have been a rogue planet. But what to do with this information?
+You find a system where every planet has a ring and the distribution of the planets shows a pattern. Well, the outermost planet is an exception, it does not have a ring. Is it just a curiosity?
+
+Then: An alien artifact was found on Mars. This does have huge implications since the question is: When did the aliens visit the Sol-system?
+Did they have contact with ancient civilizations? Or did they visit before Homo Sapiens existed?
+
+Conjectures:
+The Raxxla symbol indicates sol is important, and that there are reference points we need to identify. (possibly 3 nearby, and 6 more distant. Possibly stars, pulsars, or extra galactic objects.)
+Searching systems like sol and surrounding systems that harbored sentient or semi-sentient life is worthwhile as there may be leftover 'litter' around. This included the old worlds and their various tree grubs etc.
+Establishing a base line for NPC builds, spawns, and behavior in a wide range of conditions including active missions and cargo carried by the player. (Trading beacon missions spawns, and rare cargo like sap8, trinkets, and antiquities seem reasonable places to start.) Due to the semi-random nature of the npcs a large sample size will be needed to reach concrete conclusions. We need to be able to identify atypical npc/mission board/uss spwan/surface poi behavior and determine what the source or the behavior is.
+Click to expand...
+
+There is so much data you have to collect! Are specific NPC-names a hint? There is for example the "Trading Beacon" which spawns a NPC where the ship has the name Ariel. I've seen in screenshots of other players that Trading Beacon-ship is named Ariel, too. So you start researching Ariel, which leads you to "The Tempest" by Shakespeare, where Ceres is also mentioned. Ariel was also imprisoned by the witch Sycorax. And then you must be careful not to start getting confused by The Expanse since it does reference The Tempest, too, through the name Caliban ("Caliban's War").
+
+You correctly mention that we need to look for everything that looks out of place or behaves different than expected. But it is so damn difficult to discriminate between "that was intentional by FDev", "that is a popculture reference" and "that is just a bug".
+Reactions:
+Fiera, Dr. Lexus, simulacrae and 4 others

@@ -1,0 +1,14 @@
+John Stoutbeard
+Mar 8, 2022
+#25,568
+MrSuction said:
+Has anyone experimented with sap 8?
+Many has, but at the right place, the right time, with the right methods is hard to say.
+We probably need a methodical approach to all these 'container & commodity tests'. There are more artifacts that are interesting to test in methodical manners.
+
+How? Just keep it in the inventory? Drop & listen? Shoot at it? Offer it to someone? Sell it on the market?
+Where? Suggestion of places? Stations? Megaships?
+When? At a specific time? At a specific event? In a system state such as War or Boom?
+
+I'm just spitballing how we could approach this more methodical. Ideas?
+Last edited: Mar 8, 2022

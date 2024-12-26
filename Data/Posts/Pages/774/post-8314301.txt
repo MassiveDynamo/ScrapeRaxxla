@@ -1,0 +1,14 @@
+yelboc
+Feb 28, 2020
+#15,476
+Someone mentioned FTL travel and star locations not being reliable.
+
+You dont have to worry about that. No FTL corrections in ED, and the star positions are fixed to J2000 epoch. This means that all star positions are fixed as they are in the year 2000 with no corrections in their locations for it being 3306. In addition, older star catalogues have been shifted to look like J2k epoch, as far as I know, so HIP stars line up with J2000 and other recent catalogues.
+
+If you want to go and find out more about this, I can recommend tapping up the amazing folk on the EDSM discord, from where this information was gleaned.
+
+The upshot of this is that you can use external star catalogs to find things in ED.
+
+It seems that nebulas are displaced in the game, and this may be due to them not being updated to j2k epoch correctly.
+Reactions:
+Crimson Echo, alexzk, Machina Ergo Sum and 1 other person

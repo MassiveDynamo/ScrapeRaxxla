@@ -1,0 +1,12 @@
+Redster
+R
+Sep 10, 2023
+#31,575
+So, just because we don't want to leave anything to chance, a cmdr here noticed that in the word "Raxxla":
+Ra has atomic number 88
+XX
+La has atomic number 57
+And I noticed that it appears that there is exactly one system with coordinates exactly 88, <something>, 57 here: ICZ OI-S b4-3
+I have no idea if that system is related to Raxxla, but it is quite uncommon to find a system with the first and last exact coordinates as integers without decimals, and even more rare that the two coordinates are also the atomic number of the chemical elements represented by the first and last part of the word Raxxla. So I thought about mentioning it here.
+Reactions:
+Han_Zen, El Saico, CMDRCorrMorningstarFelian and 1 other person

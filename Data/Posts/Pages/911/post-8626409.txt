@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 2, 2020
+#18,214
+I thought Stellar Forge ran on FD’s servers, and then when a pilot jumps towards a system the system description (rng seeds) is provided by Stellar Forge to the pilot’s client and expanded into what we see during the hyperspace transition sequence?
+
+Edit: and “Astrophel and Stella”?
+
+Edit2: and step 2 is split into two parts-first decide what Raxxla is, then implement it!
+Last edited: Aug 2, 2020
+Reactions:
+Spike78 and [PS4] Filthymick420

@@ -1,0 +1,8 @@
+CMDRCorrMorningstarFelian
+Apr 19, 2024
+#33,916
+Astro13 said:
+Originally Elite was written on the BBC micro, which was the computer the UK commissioned the BBC to create. At that time the UK was quite behind on the whole computing thing, And the Micro was meant to be cheap. I have looked into the code of the original Elite, It is impressive. Now I wonder if anything in the source code for Elite points to Raxxla, I would not be surprised if FDev is trying to reference something in the original code, Or they snuck something into the emulated one you can get for free on the store.
+The original Elite is available for free on Frontier's website at FDev digital merchandise store.
+Reactions:
+Ravenloft45

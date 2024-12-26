@@ -1,0 +1,28 @@
+CMDR Deano The Imperial
+Feb 2, 2021
+#20,869
+After keeping looking at the RAXXLA logo and a system map in game both ordinary and orrery modes, I'm becoming more and more convinced that the RAXXLA logo is a representation of the system map where RAXXLA is located. Simple and genius at the same time.
+
+Let me try to break it down.
+
+The 6 large shapes on the edge are 6 main planets in the system.
+The 33 dashes are the number of moons in the system.
+
+The things that struck me as hard to decipher where the CIRCLE and 3 point semi CIRCLE that seemingly surround the dot in the middle.
+
+I was looking the "Minot" (just a random star system) system, system map last night trying to replicate the apparent lighting bug, which I now think is definitely a lighting bug with the coloured glow. To replicate, in the orrery map select a target body, zoom in enough on the star it's orbiting to bring up the grided wheel surrounding the star and then quit off map to cockpit view. Whatever the colour of the grided wheel then that will be the colour of the glow. What I found was that when you quit to the cockpit the orrery instantly disappears but for whatever reasons beyond anyone's control the colour sometimes lags before disappearing by a few seconds, thus causing the apparent glow. That's what I find is causing it. Doesn't happen all the time but it happens. I'm on an Xbox One X so I don't think it's home hardware related (probably server side) as it's been reported on PC also.
+
+Anyways back to the RAXXLA logo...
+As I was saying the CIRCLE and the 3 point semi circle surrounding the dot in the centre had me stumped. But I think I've figured it out. They (the circle and 3 point semi circle surrounding the dot) are representations of a system map both orrery and normal. The 3 point semi circle is the cursor in an ordinary system map and the solid circle is the cursor in an orrery system map. I checked in game.
+
+So to recap
+The RAXXLA star system is a Star that has 6 main planets orbited by 33 moons. That star may be part of a binary system and may be millions of light seconds off the main star when entering the system. Thus a very big possibility that the RAXXLA star system could have been visited at least once or maybe even a thousand times or more and nobody would have even noticed.
+
+RAXXLA may be an orbiting station or landable mega ship or Alien/Guardian construct that could remain hidden until you got near enough for it to suddenly appear on the nav panel.
+The green background of the logo could be representative of the colour of the planetary body of which RAXXLA is orbiting.
+
+So there you have it. My theory of the RAXXLA logo.
+
+Just got to find which star system it is, gulp.
+Reactions:
+Fiera, RaNaketh, simulacrae and 2 others

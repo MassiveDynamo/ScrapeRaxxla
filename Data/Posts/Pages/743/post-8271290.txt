@@ -1,0 +1,57 @@
+RaNaketh
+Jan 30, 2020
+#14,850
+RaNaketh said:
+I've been delving into some of the historical videos available from the official Elite Dangerous YouTube channel to see if there are any tip-bits in chats/releases/updates that might help us out a bit.
+
+During this video:
+Join the Elite - Everything You Need to Know About Exploration
+
+
+
+Michael Brooks makes an interesting point about SagA* (time ~26:30m ) being a special case, which I don't have context for, so I'm reaching out for collective ideas since I don't quite get if the reference. Is he referring that SagA* is actually different for known scientific reasons, or is it a special case because FDEV have decided to make it so?
+
+He also mentions that another system was renamed, but deliberately they both choose not to reveal the original name (time ~36:30m).
+
+Thoughts on these comments?
+/Ra.
+Click to expand...
+
+In the same vein as my previous post, I'm continuing my research to aid our collective wisdom in attempting to find the elusive Raxxla, and have reviewed the "2.2 Release Celebration Video.
+Source: https://youtu.be/9wZvsPerJD4?t=4215
+
+
+During the video the key points I noted were:
+
+1:10:15 our good friends are discussing the new introductions in 2.2.
+I assume they're referring to 'Guardian Sites' when mentioning the players will need to collect things and place them to unlock new lore. Any idea what the several other things were (or are?)?
+
+At 1:17:20 they're clarifying that 2.2 added in new stuff for 'Cannon Research' to get involved with, but that previously added stuff hadn't been found.
+In my view that confirms Raxxla (or something else we're missing) was in-game before 2.2. and hadn't been found at its release time.
+
+At 1:25:15 the comment for saying in the chat was "Mysterious Things Added" which doesn't mean much in the video so here are the references to Mysterious Things in the game changelog for reference (sure it's probably been called out before but doesn't hurt to refresh it in the thread occasionally).
+
+v2.2 "The Guardians" & v1.7 - 25th Oct 2016
+(Horizons) New surface features: biological entities, fumeroles & geysers, persistent POIs, and "mysterious things"
+
+v2.3 "The Commanders" & v1.8 - 11th April 2017
+New wreckages, USS scenarios & "Mysterious Things"
+
+v2.4.09 & v1.9.09 - 6th Dec
+Mysterious improvements
+
+v2.4 "The Return" & v1.9 - 26th September 2017
+Mysterious and exciting things added...
+(Horizons) Mysterious and exciting things added...
+
+Note: Yes there are two 'mysterious' things in the same changelog. One Horizons, and one not.
+
+1:30:43 A Genship/satellite/HaulerClass or something? Can anyone confirm this image from experience?
+SPOILER: SHIP/SATELLITE NEAR SUN?
+
+Nothing concrete (obviously), however even timelines and tip bits might help us all.
+
+Fly Dangerously
+/ Ra.
+Reactions:
+Dr. Lexus, Machina Ergo Sum, [PS4 Pro - PC] earthtone99 and 4 others

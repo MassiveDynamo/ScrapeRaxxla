@@ -1,0 +1,34 @@
+Han_Zen
+Jan 31, 2024
+#33,260
+Louis Calvert said:
+I would counterpoint to that by reminding everyone of the Thargoid mystery, most particularly the UA's which were so obfuscated as to be one of the very few examples where Brookes had to drop a pretty major hint after the community wasn't able to solve it. Even after that, it took the combined efforts of quite a large group and quite a lot of time to actually figure out the entire thing.
+
+The Thargoid mystery used a very complex set of nested mysteries, and fully used all the (then) available systems in game - and out of game - in order to resolve, almost all of it done without any clues or hints: First players had to notice the Fed convoys carrying mysterious Cargo and squawking odd comms chatter. Then they had to successfully pirate them to recover that cargo (they were Elite level, IIRC, so not easy). Then after getting a UA, it caused caustic damage, so players had to figure out how to 'care' for them to keep them in cargo (this was long before meta-alloys and CRCR). After that the investigations stalled, and the major use for them was UA bombing for a while! It took a comment on the forums from Brookes to galvanise the direction of investigation ("have you tried listening to them", or something to that effect). After that many more people got involved and lots of smart people started analysing the audio recordings - out of game - before things started to come together.
+
+I can't recall exactly how long all this took but I think it was months between first finding a UA and figuring out what they did. Then after that there were additional mysteries with combining them with the Probes and Links later on which also included planetary searches and listening posts spitting out timed and coded audio clues etc. but by then the "method of solving" had been discovered - and n any way simple! I doubt a single player could have solved the whole thing by themselves.
+
+Also consider the Rift mystery; which was a different and simpler type of puzzle (a classic treasure hunt), which no-one actually solved - because quite frankly looking for drifting anaconda wrecks amongst thousands of stars is harder than finding a needle in a haystack. Thousands of people searched very, very hard and the area was just too big with only a vague directional heading to go off.
+
+The Rift was Drew's baby, but he only proposed it and helped direct it - Fdev did the actual implementation within the game's systems. And bear in mind it was very much an easter-egg tie-in to one of the novels, unlike the Thargoid mystery which was baked into the narrative progression of the Thargoid reveals and used the full resources of Fdev to develop.
+
+So yes, the Rift "very simple" in that it was literally a findable POI location discoverable by a 'treasure map' of verbal clues - the UA's and Thargoid mystery weren't by simple! Yet even the massed community struggled to solve both.
+
+These two examples, I feel, are the best examples of the "mystery adventure quests" Fdev was playing with regarding deep mysteries in the early game - and we know Raxxla was implemented at the creation of the game, so it can use systems and interactions similar to both of these.
+
+I think Raxxla is a of these two styles of mystery-puzzle. Clearly there were no clues originally (like the UAs). But unlike the Thargoid mystery, Raxxla was the work of a small team, or possibly only Brookes himself, and it's little more than an easter-egg, and was implemented at a time when everyone was super-busy building the game! So it's more likely to be closer to the Rift mystery, but with elements of the complexity and challenge we know Brookes thought very highly of. We can expect it to use the same game systems as the Thargoid UA mystery and the Rift mystery (because frankly they cover the full range of what was possible at the time). We as investigators have to consider what's it's likely to be, given the resources and technology in use.
+
+What does this tell us? That any/all/combination of things are fully possible in relation to the Raxxla mystery:
+I suspect it's very much like the Rift mystery in that the bracket of what Raxxla might be is just so wide, it's hard to know if you're even in the right area - the Codex helped with that to some degree. And like the Thargoid UA mystery the puzzle is on the edges or fully outside what most people expect. Because if it wasn't, it would have been found already by the thousands of folks that have tried over the last decade.
+Click to expand...
+The UA mystery was long and hard. It wasn't overly complex in the beginning, but it was hard to pick out the morse code.
+MB actually dropped the 'have you tried listening to it' hint well before we found the first UA. There was a lot of searching, due to the WIngs trailer.
+On mai 4th 3301 FD tweaked something that made the convoys spawn. At least three UA were captured that day. Due to a multiplayer bug, these actually multiplied. Quite a few commanders had one and a lot of recordings were made. Nothing came from the extensive sound analysing.
+The mores code was discovered by commanders Jmains and QorbeQ (who had a friend with practical morse experience), by listening to the recordings. The code spelled 'Sega Port'. The name of the station instance where the recording was made.
+The community was later able to extract the graphical representation of each letters dash and dot sequence, but this was done manually by listening.
+
+For each update after that, the UA evolved. They started to point to Merope (5C). They started spawning in the wild (first in the Pleiades, then in a 50 ly shell around Merope). Finally they started to morse the layout of our ships, if we were close enough.
+
+All this happened while we didn't know if it was Thargoid or something else.
+Reactions:
+Quaero, Jorki Rasalas, Vasquess and 5 others

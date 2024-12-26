@@ -1,0 +1,19 @@
+Bushido Brown
+B
+Dec 11, 2023
+#32,447
+Louis Calvert said:
+I also pointed out that the alignments don't make sense. If The Thetis passed Shamash "15 light years ago" they why is Shamash further away from Sol than the Thetis is?
+Shamash is 56ly from Sol.
+Nefertem is 53ly from Sol.
+Thetis doesn't need any trajectory overlap with Shamash. A simple solution would be an overlap of the lines Sol>Nefertem & Sol>Shamash, no?
+
+The thetis picks up the signal back there somewhere, and in modern times someone else finds it.
+Modern jump tech makes the Shamash location more or less meaningless, but in a meta interpretation FDev used Shamash intentionally. So a coincident trajectory would be a way to expect players to solve it.
+
+I might be interpreting something wrong, but don't we just need to go to this overlap?
+
+Edit: I see that they might not overlap, but that's ok. It's the overlap of the Sol>Thetis trajectory & a reasonable sphere of influence from Shamash which matters.
+Last edited: Dec 11, 2023
+Reactions:
+Rochester and Jorki Rasalas

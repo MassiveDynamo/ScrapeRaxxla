@@ -1,0 +1,6 @@
+Crimson Echo
+Jul 9, 2021
+#23,944
+If memory serves the t0 for the orbits is the j2000 epoch (january 1st 2000 at either noon or midnight. I can remember which off hand.) So the orbits should be around their 2007 locations in the game presently. The relative angles of the outer planets should be able to confirm 2000 era vs 3300 era locations. Without knowing the resolution, approximations, and methods they are using to compute the orbits it will be tricky to get an exact location to search for Ceres. Backing out the needed parameters should be possible with sufficient measurements over time of the other planets etc. With only a 4.6 year orbital period we would need to nail down t0. (presumably either the start of beta, gamma , or release?)
+Reactions:
+Jorki Rasalas and Djidjel

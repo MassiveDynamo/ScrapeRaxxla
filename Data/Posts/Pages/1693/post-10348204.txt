@@ -1,0 +1,21 @@
+simulacrae
+Apr 11, 2024
+#33,841
+Sorry filthy IRL has been keeping me busy...
+I have been playing with the witchspace sounds off and on for a while now. I still dont see any obvious signs – however I have not given up hope. Here is my current working structure for the makeup of the sounds of a standard “witchspace jump”:
+
+First off – I think the sounds are broken up into two distinct types… The Whispers and the Flybys as described by FDEV in their 1.3 Patch Notes “Improved mix on hyperspace tunnel whispers and flybys” . The whispers are of course the part we are interested in… however I will give my supposition for the source of the Flybys here.
+
+
+
+I think the Flybys have been taken from the British Antarctic Survey Sounds of Space which were brought to the attention of the Sound Team and who indicated that they were incorporated into parts of Elite Dangerous sound tracks (Discovery Scanner). If you compare the flyby shape and frequencies from my recording of jumping into ThorsEye (above) with the waveform of the “whistlers” of the British Antarctic Survey (below) – they look fairly similar. You can go to the Sounds of Space page and listen to the sounds yourself.
+
+
+
+So on to the Whispers…. they dont seem to match the other sounds of space although the flybys seem to overlap the whisper sections a little (I do think the chours sound and whistlers are used in the system scan as well). I am not seeing an obvious symbol or code like we have gotten in the past. I believe that if there is to be such a symbol or code it would be as "visible" as the previous ones were. I am currently going under the assumption that the "whispers" section is a placeholder sound that is standard for all jumps – unless we get close to something… when I imagine it would change… but this is all conjecture. All the jumps I have recorded have been the same. The whispers seem to be more prevalent in track1 (left ear I think) and track 2 seems to have better flybys (right ear?). The waveform for ThorsEye jump im showing above is from the track1 and I have included a blowup of the first whispers section below…
+
+
+
+Ya thats all ive got for now.
+Reactions:
+selbie, Han_Zen and Rochester

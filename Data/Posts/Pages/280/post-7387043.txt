@@ -1,0 +1,10 @@
+clavain
+Jan 29, 2019
+#5,585
+Macros Black said:
+[...] and I got the sql select right.
+I've heard that knowing how to use a UNION operator, along with INNER JOINs and subqueries, is a key requirement of Dark Wheel membership... ;-)
+
+Seriously, nice work.
+Reactions:
+Macros Black

@@ -1,0 +1,6 @@
+Jorki Rasalas
+Dec 29, 2019
+#14,403
+The problem is the limitation on number of objects due to the way they’ve implemented instancing. I hope, but don’t expect!
+Reactions:
+simulacrae

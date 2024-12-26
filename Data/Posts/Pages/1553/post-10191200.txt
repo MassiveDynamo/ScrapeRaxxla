@@ -1,0 +1,28 @@
+Han_Zen
+Aug 2, 2023
+#31,046
+Well the Milton quote at least gives som useful info on possible locations:
+
+Of living sapphire, once his native seat;
+
+"And fast by hanging in a golden chain
+This pendent world, in bigness as a star
+
+Of smallest magnitude close by the moon."
+
+Big as a star and close to the moon.
+
+Close to the moon should mean that it's close to the moons orbital plane. The moons orbit is 5.14° of the ecliptic plane. That's quite close, but we have the moons orbit lines in the game, so we don't really have to settle for second best.
+
+Faint but visible.
+
+Smallest magnitude visible to the human eye is 6. Magnitude 6 could mean a bright far away star og a close dim star. Sapphire comes in many colours (mostly blue), so that does not help much.
+
+In orbit.
+
+hanging in a golden chain
+This pendent world
+
+This could mean a secondary star, but it could also mean in orbit around Sol. The second option is perhaps most fitting to the text?
+Reactions:
+CMDRCorrMorningstarFelian and GURU-951

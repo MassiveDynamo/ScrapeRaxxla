@@ -1,0 +1,20 @@
+RaNaketh
+Feb 5, 2020
+#15,045
+Jorki Rasalas said:
+Looking at the Codex Cmdr stats & taking screenshots is an inefficient way to note the current stats. Is there a better way? Are they in the journal logs; if so anyone have some code to extract them?
+Does EDD show them? (There’s so much in EDD & I only use it to track travel history & convert screenshots )
+
+I just got around to checking this out. EDD will do it for you.
+
+Go to History, hit the Filter section, select 'none' to clear them all and then go and select Rank, Reputation, Progress and anything else you're interested in. Looks like the log has an 'unknown' but unsurprisingly I don't know what that is...
+
+SPOILER: EDD - FILTER ON PROGRESS/RANK ETC
+
+What it doesn't do though from what I can tell is allow us to track Minor Faction status (i.e. Allied). I can't see that anywhere, so it may be only an FDEV stored value.
+
+Fly Dangerously.
+/ Ra.
+Last edited: Feb 5, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Jorki Rasalas and Machina Ergo Sum

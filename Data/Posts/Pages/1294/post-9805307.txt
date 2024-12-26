@@ -1,0 +1,9 @@
+Jorki Rasalas
+Apr 8, 2022
+#25,873
+anyone else playing Horizons having problems?
+After the Taurus mining CG got back to Jameson, picked up my hangar & SRV from Outfitting storage, got to my destination, moved out in the SRV, to find I cant use either the data link scanner (doesnt even show on screen when turret deployed) nor the gun. Both are enabled in weapon groups & both have power enabled. Logged out to desktop & back into game, still not working.
+Weird!
+Looks like finger trouble with option settings!
+Though how the srv fire primary/secondary controls got unbound I have no idea!!!
+Last edited: Apr 9, 2022

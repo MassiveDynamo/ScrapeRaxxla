@@ -1,0 +1,8 @@
+Jorki Rasalas
+Dec 7, 2022
+#28,280
+Whoever is going to run with this hypothesis needs to gather details of all the various hardware configurations used, including the graphics card, RAM, game version, start location of jump, end location of jump, network load etc etc. Since the hyperspace transition sequence duration is dependent on network traffic (yes, like most players I’ve experienced endless jumps and had to end the game to stop it, but not for a long time now) might it be related to that? - a prolonged jump sequence due to poor network connection pulling up an image that should have been deleted &/or possibly partially amended/overlaid with a texture map that just makes it look similar to other examples? I’m just freewheeling here, as I said I’m no graphics expert.
+
+Just being pedantic...I cant say in 7 years of play that I’ve ever experienced this effect!
+Reactions:
+cmdr milesred and Rochester

@@ -1,0 +1,22 @@
+Ughkoff
+Nov 28, 2023
+#32,215
+El Saico said:
+Here's the thing though: Raxxla was not a Braben invention, but a Michael Brookes one.
+
+And, as Drew Wagar said in his memorial tour (which I'm watching right now) he loved to make his puzzles as complex as possible. The Thargoid Probe was cited as an example - when placed in a planetary atmosphere, it emits an audio burst containing binary-encoded data of the planet:
+Some attributes (temperature, gravity, radius) expressed as a fraction of those of Merope 5 c
+The atmospheric, represented by each molecule's composition (number of atoms of each element + its atomic number) and its percentage expressed as a fraction
+The distance to Col 70 Sector FY-N c21-3, in terms of the distance between that system and Merope
+Canonn's article has a guide to decode this information, it's quite a read:
+
+Since Raxxla was designed as his magnum opus, and a secret he literally took to his grave (Braben is supposedly the only other person to know its location), a very convoluted solution is to be expected.
+Click to expand...
+Not in that sense. Even if Michael Brooks is behind it, it won't be something very complex, and so deeply connected to the legends. it will be something that was on the game's release (the Thargoid probe came much later). These will be some kind of markers that point to this place, for example Tau Ceti, a star spiral (aka Wolf-Rayet Stars), some kind of rift, etc. This is something that can be visited on initial ships with a jump of up to 15-20 light years (aka Cobra 3). This is something on a scale, similar to the player first opening a closed system in order to be able to rob a convoy and get only 10,000 credits. this will not be a generated world, this will be something made by the hands of programmers. That's what the developers were inspired by at that time. A puzzle that the player could put together and reach the goal
+
+For example, where is the codex about the Dark Wheel, this is a kind of explanatory moment for a new player on how to get into Shinrarta. where the conditions for contacting them are explained. A new player must go a long way, go through his story, raising his rank. And finally receiving the coveted Elite rank, pilot received access to the most Elite place in the game (at that time) and touched the Dark Wheel. (Initially, raising the rank was very difficult and took a long time, plus the money was ridiculous). With Raxla there will be something in the same sense, but maybe more complicated and requiring more attention
+
+Most likely, not only Braben knows this secret. At a minimum, the Game Designer should know this
+Last edited: Nov 28, 2023
+Reactions:
+Jorki Rasalas

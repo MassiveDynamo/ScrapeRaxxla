@@ -1,0 +1,13 @@
+[DAX]
+Apr 28, 2019
+#7,791
+WeComeInPeace said:
+Do we know, roughly how much of the galaxy has been explored now? I was a little stunned to see in the Codex that I had visited 3000 systems, without exploring too much, mostly inside the Bubble. I consider myself a newbie. I know the galaxy is huge, but how many systems are accessible? Is it literally hundreds of billions?
+
+In that case, if Raxxla was located at the far side of the galaxy, it seems that it would take some time to find it, unless someone was very lucky?
+Accordingly to EDSM:
+0.009639% of the galaxy has been discovered on EDSM, it will take 39,934 years, 8 months, 9 days to discover it entirely.
+EDSM listed only stars reported by 3d party software directly from commanders who use it, but this is exactly that rough estimate you wanted to see.
+So, if we exclude all permit-locked regions, we can estimate roughly 20 000 years to find Raxxla by brute-force exploring
+Reactions:
+WeComeInPeace and [PS4] Filthymick420

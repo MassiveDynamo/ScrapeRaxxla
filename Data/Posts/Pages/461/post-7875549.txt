@@ -1,0 +1,34 @@
+simulacrae
+Jul 1, 2019
+#9,208
+Saool said:
+I made a post in the exploration forum about trying to find the centre of the Galactic map, as it is clearly not centred of Sag A*. It was one of two location I wanted to explore in the off chance they might be Raxxla related. The problem is finding such a point. I started by looking at where the lines on the map intersected, and then trying to find the 'middle' plane of the Galaxy. But this still left an area containing thousands of stars.
+
+I eventually came around to thinking that JUENAE CL-Y G3 might be the centre system for the map. It is a T-Tauri that has a visible halo both on the map and in space. However the system proved unremarkable.
+
+I have another idea, but will need to wait till I get back to the bubble to start looking at that, as I need a view point from Sol.
+Click to expand...
+
+
+I have a csv dump from EDDB I did a few months back ... Just did a quick check of the max and mins for the coordinates
+
+The up and down from the galactic plane have some real outliers in EDDB so I tossed them and just went with a good ole zero after eyeballing it
+
+SPOILER: BETWEEN SYSTEMS
+
+
+
+center coordinates might be something close to:
+
+-855 / 0 / 24365
+
+or somewhere near Zunae QK-E C25-2666
+a little south of Sag A
+
+
+SPOILER: PIC
+
+ya doesn't really match up with the map grid but was a fun little exercise
+Last edited: Jul 1, 2019
+Reactions:
+PeteACarter

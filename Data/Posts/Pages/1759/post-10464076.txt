@@ -1,0 +1,15 @@
+Emperor
+Oct 30, 2024
+#35,166
+Jorki Rasalas said:
+Ah. Didnt understand it! but currently installing to sdd C:/ whereas FD original is on hdd D:/
+Looks like its downloading at 100MB/s from the progress counter...set display download rate in bps in Steam settings but cant see anywhere showing that...
+Edit
+Looking in the wrong window... it's showing on the library list at 500-600Mbps!
+Definitely better than FD Launcher download speed!!
+When you're happy it's working in steam you can uninstall the other FD copy and free up some space!
+
+Edit: you can also move your steam installations folder and move elite to D: from within steam if you need to put it back on your other drive and free up space on C: - there will be loads of YouTube videos on how to do it if you need to...
+Last edited: Oct 30, 2024
+Reactions:
+Jorki Rasalas

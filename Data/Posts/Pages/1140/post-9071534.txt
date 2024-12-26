@@ -1,0 +1,13 @@
+Jorki Rasalas
+Apr 8, 2021
+#22,792
+@simulacrae :
+Ah yes, found it https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8994414
+I suspect you misinterpreted the Adamastor’s route. The Galnet said she had travelled out to the Synuefe LP past HIP 39748 and HIP 33386 not via them. So I interpret this as an indication her route was actually along a straight line near those two systems. I took the average of their coordinates and took that as the actual route travelled out to the LP; it’s very close to 90degrees to the route she took from Coalsack to HIP 69200 where the incident occurred and Carver departed the ship. Remarkably close at 88 or 92 degrees to it, and closest point of approach is something like 5ly, which is practically touching! Methinks there is a reason for this but I couldn’t figure it.
+
+She was originally enroute from Chukchan to an Azimuth secret base out toward BLoop. It doesn’t make sense for her to stop at the LP unless it was enroute to that base, so that base should remain to be found along that line. I think the 370 ly original fuelling is a bit of a red herring, since the LP is 365ly from Chukchan clearly she could refuel by scooping enroute (I’m assuming her jump range was around 150ly or so going by comparison with other megaships).
+Now why did she travel back via HIP 69200, presumably towards a different Azimuth base, certainly not toward Chukchan.
+
+Just still pondering over this- the new Galnet post about a message from Hesperus has retriggered my interest in this puzzle.
+Reactions:
+[PS4] Filthymick420, clavain and simulacrae

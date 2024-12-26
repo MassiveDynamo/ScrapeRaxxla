@@ -1,0 +1,9 @@
+Burning_Scull
+Jan 28, 2021
+#20,668
+After experimenting for a while with overlaying the Raxxla logo I ran into some alignment issues, namely that the corridors never appear to totally line up with the Orrery view regardless of it's rotation. Here are two examples:
+
+It's probably just an artistic technique. This is the Raxxla logo, made by an artist, not an engineer. If you divide the logo into designs, it turns out that there is a circle and there is an equilateral hexagon with one center. The logo is the image of the map, not the map itself.
+
+Reactions:
+Yuki Estelle, [PS4] Filthymick420 and Rochester

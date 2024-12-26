@@ -1,0 +1,47 @@
+CMDRCorrMorningstarFelian
+May 11, 2024
+#34,035
+Jorki Rasalas said:
+Yes, Raxxla built into a station might be the whole point of the logo...resembling one view of a Coriolis dodecahedral station, and that is the oldest type of station.
+For clarity, per the original manual, it actually states Dodo and Iconic Coriolis are TWO different designs.
+
+
+The design in this game is apparent "Dodo" not "Iconic Coriolis". Furthermore, we have an even newer variant with newb-hammers to demolish unwary CMDRs.
+
+That said, the current game lore only deals with "Coriolis". From the Brewer Corporation entry:
+
+Best known for the iconic Coriolis, the Brewer Corporation has been synonymous with starports since 2752.
+
+The first Coriolis, designed by Timothy Brewer to elevate the standard of offworld living, took nearly four years and one billion credits to complete. Though crude and angular to look at, it was relatively simple to assemble in space, with heavy components that could be manufactured locally from low-grade materials. It boasted several innovative features: a self-regulating biome, living facilities comparable to those of planetside outposts, first-rate medical services and an innovative cylindrical docking system. By 3200 Brewer was the galaxy's primary starport manufacturer.
+
+After decades of rigorous testing, Brewer debuted its second design, the Orbis. Envisaged as an advanced, lightweight counterpart to the Coriolis, the Orbis's construction was less dependent on local metallic resources. The design retained the docking cylinder while featuring additional 'full gravity' areas.
+Click to expand...
+Strictly speaking, via very careful and deliberate linguistic gymnastics this doesn't invalidate ANY of the prior lore. Which leads us back to some interesting observations:
+
+Timothy Brewer is apparently an alias of Jaques as he built the first Coriolis per "..All that Glisters".
+Similarly, GASEC or "Galactic Astronautic Astronautic and Space Exploration Centre" is an alias for Brewer Corporation. Brewer Corporation is ANCIENT.
+Brewer Corporation/GASEC is an Imperial Corporation.
+Jaques is QUITE A BIT OLDER than he claims. I believe in "..All that Glisters" he claims to have been "born some three hundred years before, and had been a cyborg for over two hundred and seventy of those years". In 3200, that would only put him back to 2900. However, the first full scale station was built in Lave in 2752. GASEC R&D of the design occurs before 2752. At a very minimum, this puts good ol' Jaques at somewhere around 500 years old in 3200.
+All stations currently in use appear to have originated under the Imperials.
+GalCenter G1 was not the Federation - it was the Empire. Everything is centrally run by the Imperials at the time of the first game. Current lore between the Hengist Duval codex and "Tyrell Biggs Election" beacon in Sol puts the unification thereabouts of 3008. However, this would have happened under Gaylen Trasken Duval.
+The Coriolis is described this way by the "The Dark Wheel" novella: "A Coriolis station is nothing less than a vast city built on six planes and spread, around the wide empty sky of its interior, facing inwards. From South City, the roof on the world is North City. At night, the lights that glow above your head are the lights of streets and buildings.". Six sides means approximately like a cube (not exactly but close).
+
+Per the Knowledge base, though, we have this: "According to self-professed Dark Wheel expert Lyta Crane, a conspiracy theorist and 'people's journalist' who has painstakingly assembled an archive of relevant data, the original group was based in a disused starport orbiting the eighth moon of an unnamed gas giant. The station was toroid, hence 'wheel', and operated with a minimal power output so as to avoid detection, hence 'dark'.
+
+Toroidal pretty much torpedoes it being an Iconic Coriolis. Toroid would be approximately donut-shaped. I think we are looking for a Stanford Torus.
+
+Stanford torus - Wikipedia
+en.wikipedia.org
+
+Extending this to the Omphalos Rift and stretching the structure with 6 giant pylons with the exterior side covered solar panels and the interior covered in living space (basis is Raxxla logo) and you get Citadel from Mass Effect or something exceedingly similar.
+
+Raxxla logo (looking inwards towards the central ring):
+
+
+
+Comparison to Omphalos Stone:
+
+
+
+Though, strictly speaking a Halo Ring or supergate isn't out of realms of possibility.
+Last edited: May 11, 2024

@@ -1,0 +1,11 @@
+Han_Zen
+Sep 3, 2018
+#3,371
+Jaiotu said:
+Another odd thing about Lucifer's orbit is that it is specifically called out in the Gazetteer. It seems odd that Frontier would botch the job implementing a planet's orbit that had been so clearly described in the accompanying media from Frontier: Elite II.
+
+In Fe:2 and FFE Lucifer has an orbit period of 99 hours. This is very close to what it should have(according to Kepler) and matches the 4.9 days rotational period.
+
+In ED the orbital period is 99 days. This looks like an error in translating the data from the old games.
+
+It's not a typo in the system info though. Lucifer uses 99 days to orbit Sirius B.

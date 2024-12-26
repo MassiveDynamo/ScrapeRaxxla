@@ -1,0 +1,19 @@
+El Saico
+Apr 18, 2024
+#33,912
+CMDRCorrMorningstarFelian said:
+Back in that era, we had the Intel 8086 with a data width of 16 bits and maximum addressible length of 20 bits. 64-bit came much later.
+
+Intel 8086 - Wikipedia
+en.m.wikipedia.org
+
+Do we have the video clip of the relevant portion so it can be assessed for alternative solutions.
+
+The first thing that obviously comes to mind is alternative spellings such as Tornquist instead of Tornvquist. Immigrants sometimes change family names when they move to a new area.
+
+Click to expand...
+Elite was written on the much cheaper, 8-bit MOS 6502, with a 16-bit address space.
+
+This is what made porting to the NES even possible in the first place, as a lot of assembly code could be reused with focus going to the I/O - a monumental task on its own.
+Reactions:
+Ravenloft45 and CMDRCorrMorningstarFelian

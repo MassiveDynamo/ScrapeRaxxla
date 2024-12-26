@@ -1,0 +1,18 @@
+Han_Zen
+Dec 22, 2023
+#32,684
+Merlin StWahgwaan said:
+Slightly off-topic but related:
+
+Are the HIP stars in game, supposed to be at their real location, RA/Declination they are at in the HIP catalog IRL?
+
+Because I only just noticed one that isn't... it was complete chance that I bothered to check, but there is an HIP star IRL that is also in-game, but at a different RA/Declination... just wondering if this is common or strange and figured CMDRs here would know best XD
+
+Edit: or would systems have moved due to the time between now and 3308? By enough to seriously alter the RA/Declination location displayed in-game?
+Click to expand...
+All catalogue stars in ED have been imported into the game using galactic coordinates (Not RA / DEC) and distance. Most will get pretty accurate values for RA / DEC, when you calculate back from game coordinates. You are typically a few percent off. The closer you are to the celestial poles the greater inaccuracy on RA.
+ED is mostly based on J2000 data, bu some stars are probably fro older data. The sky in ED has not been adjusted to year 3300. Polaris is still the north polestar, in ED.
+
+If you see catalogue a star that is in a totally wrong position, it's most likely due to an import error. Thousands of stars were imported and some data are just wrong. Quite a few stars were imported twice, from different sources. There has been clean up fixes, but I'm sure there are still plenty of bugs.
+Reactions:
+Merlin StWahgwaan, Rochester and Emperor

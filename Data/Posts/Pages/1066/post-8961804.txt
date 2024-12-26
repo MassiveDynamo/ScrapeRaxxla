@@ -1,0 +1,25 @@
+Vektorboson
+V
+Feb 21, 2021
+#21,308
+Sifi KO-G b24-5 looks hand tuned to me. Here are a few notable things:
+
+the star is 256 M years old; 256 always screams at a programmer, also 256 is a square number (16*16)
+there are 49 bodies, which is another square number (7*7)
+there are 7 landable small high metal content worlds in sequence
+then there are 9 planets with an atmosphere; again 9 a square number (3*3)
+the 7 high metals and the 9 with atmosphere together are 16; again a square number (4*4). The only problem I have is the moon around the water world which would break my crazy numerology scheme
+4 gas giants; square number (2*2)
+gas giants moons:
+1st gas giant has 5 moons
+2nd gas giant has 6 moons
+3rd gas giant has "7" moons (well, the 6th moon has its own moon, I'm grasping at straws here)
+4th gas giant has 8 moons
+the 8th moon of the 4th gas giant has a ring, like a big f*** you
+the pattern breaks occur on the number 7:
+the water world is the 7th in the sequence of atmospheric planets
+the "7th moon" of the 3rd has giant is actually a moon of the 6th moon
+
+So, does anyone else think this system is hand tuned?
+Reactions:
+TrillClinton and [PS4] Filthymick420

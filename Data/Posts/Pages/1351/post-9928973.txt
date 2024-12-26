@@ -1,0 +1,21 @@
+Jorki Rasalas
+Sep 1, 2022
+#27,009
+Broken_One said:
+you have to actualy look at the stations distances. Look at the stations statistics. It is orbiting a point in space. -- It also crosses the other planets paths. -- If it is not orbiting a comit it may be orbting a LaGrange point.
+
+--
+
+EDIT: Its been year since I have been there. I see above someone says they poped some planets in to fix the issue.
+Yes. Avogadro Enterprise is now most definitely orbiting Tau Ceti 4. Maybe FD corrected a previously glaring mistake? or maybe they obfuscated a glaring clue to Raxxla? Since the first (only?) “detailed” rumour originated from an engineer in Tau Ceti, it is logically the first place that should be thoroughly searched!
+
+However if Raxxla’s there it doesnt seem to be hidden as a comet. Yesterday I visited all the comets detectable in that system by Pyroboros’ method, reversed back (you always overshoot by 550m!) then honked three times while carrying a load of Trinkets of Hidden Fortune. Of course the latest storyline development demonstrates that there is hidden complexity in the game mechanics, so Raxxla could be hidden in Tau Ceti...but if so I dont know how to find it!
+
+The trouble is that not only do we not know what Raxxla is, or how it is hidden, we do not know how to find/unlock it. We have blithely assumed it will be detectable by our ship’s scanners when we arrive ‘close enough’ (apply own criteria here!) at its location. What if it isn’t? What if its set up as one of those awful Dungeons and Dragons puzzles that used to be implemented? (Yes, I’m old enough to remember playing, and constructing a few bad puzzles myself). What if its only detectable by going through some obscure sequence of actions- rotate the ship widdershins seven times while flashing in Morse code “pizza and beer for everyone” on the ship’s lights and playing the Blue Danube through the comms?
+
+Up until now we could legitimately hypothesise that Raxxla might be a rogue planet but from the Journal spec that a rogue body (bodytype: RoguePlanet) had to be implemented as a type of star in a system. Now we learn that isnt true for this new object (the “Slightly Nearer God”)...it has a hitherto unknown bodytype (which may have been around for a while...)
+
+I like puzzles. Ive been chasing this one for a few years now. But I’m losing faith that Raxxla is soluble!!
+I think its now time for a little more information on the “Raxxla Rumour”! What was it rumoured to be? How was it originally detected, How frequently was it detected? and where?
+Reactions:
+Macros Black, Ataxia and Rochester

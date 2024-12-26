@@ -1,0 +1,6 @@
+CMDRCorrMorningstarFelian
+Jan 15, 2023
+#28,921
+Jorki Rasalas said:
+(I had thought maybe DB might have played a trick on us & perhaps changed the pulsar map to Sol to show Raxxla’s location). Voyager 2 is tumbling. Voyager 1 is fixed & the dish is pointing away from Earth but I havent decided where it is pointing to at present (this might be a clue, however no other satellite that Ive seen in-game points anywhere meaningful so I suspect this is not a clue). BUT on the back of Voyager the dish support struts have a hexagonal shape
+I had checked all the probes and had multiple CMDRs cross-validate conclusions. I believe Voyager 1 and New Horizons point at Polaris. We used Stellarium for iPhone / Android and were able to deduce Polaris once we recognized the position of Cassiopeia.

@@ -1,0 +1,9 @@
+Han_Zen
+Jan 4, 2019
+#4,911
+turkwinif said:
+Nope. I've only had it happen that one time, relogging didn't fix it, and it went away after the 2.2 update dropped.
+
+I've tested this on three different computers, with different graphics cards and drivers. Looks the same on all of them.
+
+Looks the same in VR, as well.

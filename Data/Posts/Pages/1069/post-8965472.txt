@@ -1,0 +1,37 @@
+Jorki Rasalas
+Feb 23, 2021
+#21,372
+RaNaketh said:
+Dredging up a thread from a while back @Jorki Rasalas, as I just received notification that I've become an Ally of PilotsFederation in my 'inbox' and took a screen shot for you as I recalled you'd posted about it a bit ago. I'm also suspicious as there is no details, nor can I find where that ranking is stored?
+
+SPOILER: PILOTSFEDERATION - ALLY
+
+
+
+I checked my log, and there is no entry for the message, just the kills, and the hand-in bond reward.
+
+{ "timestamp":"2021-02-23TZ", "event":"FactionKillBond", "Reward":10000, "AwardingFaction":"$faction_PilotsFederation;", "AwardingFaction_Localised":"Pilots' Federation", "VictimFaction":"$faction_Thargoid;", "VictimFaction_Localised":"Thargoids" }
+
+{ "timestamp":"2021-02-23TZ", "event":"RedeemVoucher", "Type":"CombatBond", "Amount":336000, "Faction":"PilotsFederation" }
+
+Not only that, I've been tracking my minor faction adjustments to see if anything note worthy might occur that might help identify potential TDW (rings?). Now aside from fighting for Jupiter & Silver legal in the recent CG, I haven't done or touched anything for the rest of the factions in the image below (to the best of my knowledge). All I have done, is equip my Krait MK2 for AXI and fly lots of hops to Asterope where I've started my initial steps of defending against the Thargoid threat for humanity.
+
+This is when I received the allied notification, but doesn't explain the reputation changes below, unless they are perhaps aligned fore and against the PilotFederation? Unfortunately I don't have a screen shot to perform a delta against to show the % +/- of the change below to help narrow that possibility.
+
+
+So questions arise:
+1. I assume others have also received 'ally' status for PilotFederation? Was it also fighting Thargoids, or doing something else at the time?
+2. Has anyone else tracked a change in minor faction rep that might highlight a 'common' faction from my list, specifically when they've been doing other things elsewhere that are un-related directly to these factions?
+
+Fly Dangerously,
+/ Ra
+Click to expand...
+
+Well done!
+I think you get this “invisible” PilotsFederation ranking through either Thargoid bashing or Rescuing passengers from burning stations; I did some of both. Read that somewhere, didn’t investigate it.
+So you decreased rank with two factions on increased rank with PilotsFederation? Seems odd!
+From the spelling differences and organisation types it looks like there may be from 4 to 6 “versions” of PF. It would be interesting to explore via missions in AY Indi etc to see if operations there make any difference.
+I suspect PF is a hidden superpower, linked to the AI of the Guardian emigrants (from the triangular/hexagonal symbol’s that flash up on the nav panel before alphameric text appears). Wonder if there’s a way to explore this?
+Last edited: Feb 23, 2021
+Reactions:
+[PS4] Filthymick420, Rochester and RaNaketh

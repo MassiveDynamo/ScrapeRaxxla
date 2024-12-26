@@ -1,0 +1,9 @@
+madbilly
+M
+Sep 26, 2017
+#691
+Jaiotu said:
+I believe that the "wandering planet" mythos of Raxxla goes back to Drew Wagar's Oolite Saga and no further. If so then Raxxla's "mobility" is entirely a work of fan fiction and not, therefore, canon.
+However there is a star class in the game called "Rogue Planet". It's one of the possibilities from the Scan event in the player journal. So far I don't think anyone's found one, so perhaps there is only one or they're not implemented in game yet or there are billions but we've not yet worked out how to find them.
+
+Note that it is a Star class not a Planet class, so if you go hunting for these don't waste your time scanning planets, only look for things that appear in GalMap or in the System Map don't tell you a distance from entry point.

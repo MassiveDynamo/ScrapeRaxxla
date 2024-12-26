@@ -1,0 +1,18 @@
+Macros Black
+Jan 28, 2019
+#5,510
+The Horizon main menu background shows an Orbis Starport in a system with an A class star (or O class, it is very bright) and 2 or more bodies, 2 of which are very close. Eddb.io lists 3,964 systems with an Orbis Starport.
+
+However, doing this
+
+SELECT COUNT(DISTINCT(SystemName)) from [dbo].[tblEDStations]WHERE [Type] = 'Orbis Starport'
+
+on my local copy I get 1,991 systems. Better than 3,964, but still too many systems to search.
+
+
+I've found no easy way using edsm or eddb to narrow it further down using this guess for a matching system.
+
+Other than importing the edsm nightly dumps for Celestial Bodies and doing a local custom search.
+
+SPOILER
+Last edited: Jan 28, 2019

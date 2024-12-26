@@ -1,0 +1,6 @@
+Macros Black
+Nov 5, 2017
+#940
+I see a couple of options, none of them limited to nebulas:
+A hidden system, only visible from the Nav tab.
+An invisible body not detected by the ADS, hidden like the Voyager probes, you have to be within 1000Ls to see it.

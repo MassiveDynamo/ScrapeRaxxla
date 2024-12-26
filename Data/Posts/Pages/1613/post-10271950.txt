@@ -1,0 +1,30 @@
+Louis Calvert
+Nov 30, 2023
+#32,257
+Following up on Investigation #2
+Hyperspace Whispers Audio Investigation #3
+Comparing "old" hyperspace jump sequence audio to the current 2023 Odyssey 4.0 Live iteration.
+
+Well... those of you who suggested this deserve a pat on your backs, I wouldn't have thought of this and it was very interesting.
+
+
+
+Links to the source vids: Archangel, S.Fisher, TheProRockPL, Youda008. Thanks to them for uploading their vids
+
+As you can see - yes, the older versions did indeed have different audio. The version from Beta 3 is considerably different in both the sounds and the way they occur in the track. The 2018 sample sounds much more like the present version, but the waveform shows it's clearly different. I did try another vid from 2018 and the waveform was the same, I only showed S.Fisher's though because it was much cleaner. Interestingly that old audio is still present in the Horizons version running in Odyssey.
+
+In the Beta 3 vid it sounds like you're skimming past massive objects! Pretty awesome
+
+Conclusions:
+What I think is most interesting is that there's a big and clear difference here between the left and right channels of the pre-Odyssey recordings, but in Odyssey that difference is considerably smaller, so much so as to be almost irrelevant. If you compare the 2018 right channel with the Odyssey recordings, they seem very similar to me. It seems like this difference was implemented in Odyssey as far back as the alpha in 2001.
+
+On the image below I've highlighted in white the "thickenings" of the waveform so you can more easily see the differences between 2018 (top) and 2023 (bottom). It almost looks like the Right Channel from the old mix is being used as the template for both in Odyssey. EDIT: On consideration, I think maybe the old channels have been mixed together and used for both channels in the Odyssey client?? It's odd that this seems to me to be objectively worse (less 3D and immersive).
+
+
+
+.... I dunno what to make of all this, but hopefully someone will
+
+Edit: See this post for the conclusion of this investigation.
+Last edited: Dec 4, 2023
+Reactions:
+Han_Zen, Adel, Rochester and 1 other person

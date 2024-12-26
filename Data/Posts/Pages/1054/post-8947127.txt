@@ -1,0 +1,8 @@
+Jorki Rasalas
+Feb 12, 2021
+#21,076
+I dont see the point of the KWS as currently implemented. It might detect bounties on the target placed by other systems than the one you’re in to increase your bounty payment, but it doesn’t give you that information! If you scan a target then select it on the contacts page it just shows the bounty value and the name of the target’s faction which is already shown in the hud left display.
+
+I wanted to try scanning to detect if the factions in those inhabited but self-contained locked permit systems had placed a bounty on miscreants in nearby systems
+Reactions:
+CMDR Davanix

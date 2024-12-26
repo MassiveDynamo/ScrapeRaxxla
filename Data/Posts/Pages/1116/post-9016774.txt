@@ -1,0 +1,20 @@
+clavain
+Mar 23, 2021
+#22,310
+Some more Sagitta factoids...
+
+It directly borders the Great Rift
+It directly borders Vulpecula Dark Region (and that constellation), which oddly was not listed as part of the Great Rift
+Bayer's representation of it attached here has Gamma, the brightest star, where the paw of Vulpec is grabbing the arrow, and the tip of the arrow is closer to Eta, while the arrow itself points to Theta (just above the tip). Ptolemy of course had Gamma as the tip of the arrow.
+Using Simbad, and looking at stars near Gamma in the Aladdin viewer, it would seem that Eta is what is being pointed at, if Gamma is the tip of the arrow of course. Gamma is marked in the Aladdin screenshot with a small green cross, the bright yellow star left and above of centre. Eta is the smaller bright white star to it's left, and I think Theta is the even smaller star up above it (not confirmed yet, but easily done by moving that cross onto the star in question, getting the coordinates in the top left, and popping them into a coordinate search in Simbad)
+Edit: and here is what it looks like on Galmap with most of the brightest stars bookmarked. Sham is Alpha. There are also named systems on the edge of the Bubble around Eta and Theta.
+Edit: HIP 99351 is Theta B (* tet Sge B in Simbad terms). I think this is probably the unamed star immediately above Theta in Bayer and on that stargazing link that was in the first post.
+Note: The Galmap stellar objects in each system of course do not match the real life stellar objects (and in a couple of instances known planets). So far at least.
+
+Exploration and theorizing continues...
+Attachments
+sagitta.png
+943.4 KB · Views: 89
+Last edited: Mar 23, 2021
+Reactions:
+SergMx, [PS4] Filthymick420 and TrillClinton

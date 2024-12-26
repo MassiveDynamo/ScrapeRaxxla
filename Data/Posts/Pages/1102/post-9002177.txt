@@ -1,0 +1,28 @@
+clavain
+Mar 15, 2021
+#22,036
+Thatchinho said:
+It was less than a day. Nothing curious about it though. Well not in the 'strange or suspicious' sense, anyway. Here's what happened...
+
+Someone posted the logs from the Adamastor.
+
+Someone else posted the local Galnet news.
+
+From the info in those, I worked out roughly where to look for the K Class, and posted a K Class system as a starting point, and posted that.
+
+
+
+(Others had worked out similarly and got slightly different starting systems.)
+
+People started heading to and searching the area.
+
+Someone found the right system. (I'd been one system away from the right one at one point while searching, but had jumped off in another direction.)
+
+Once you get enough people checking in roughly the right area, things get found very quickly (assuming they're things that show up distinctly anyway). It's just a matter of numbers.
+
+
+(Happy to elaborate on how to do the working, but basically it's just calculating the vector between Chuckchan and the specified HIP, and the extrapolating that vector out to the specified distance.)
+Click to expand...
+Cool. Just means it is pointless trying to do things as an individual independent pilot pretty much. As usual.
+Reactions:
+Exekrator, [PS4] Filthymick420 and SergMx

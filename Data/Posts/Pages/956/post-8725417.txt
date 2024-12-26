@@ -1,0 +1,16 @@
+alexzk
+A
+Oct 1, 2020
+#19,114
+just do direct API query to edsm
+
+Like that
+
+Code:
+std::string createEDSMLink(const Point &point)
+{
+    const auto params{stringfmt("x=%0.4f&y=%0.4f&z=%0.4f&radius=20", point.x, point.y, point.z)};
+    return stringfmt("https://www.edsm.net/api-v1/sphere-systems?%s", params);
+}
+Reactions:
+PeteACarter, Dr. Lexus, Vetinari and 1 other person

@@ -1,0 +1,58 @@
+CMDRCorrMorningstarFelian
+Apr 22, 2021
+#22,997
+Change of plans .. going full disclosure .. this ends now (we can find Raxxla in weeks to months via this). I am giving the keys to the kingdom to finding this in the hope it helps others .. just please credit the creator of the method and if you find it first practice full disclosure and tell everyone. The other beauty of the this is the solution set is self-limiting given the layout of the galaxy and the timelines of human expansion. Just remember, test one variable at a time and the variables are the location of Omphalos and the location of Astrophel/Astrophil or "star lover". We are solving for Stella/Raxxla (see attachment for how this is done).
+
+Candidates for Astrophil:
+
+Carl (Sagan) 578.15625 / -421.9375 / -1040.3125
+Tycho (Brahe) 604.6875 / -442.15625 / -1091.21875
+(Galileo) 608.40625 / -442.125 / -1091.28125
+Isaac (Newton) 611.71875 / -446.4375 / -1100.71875
+Friedrich (Bessel) 616.78125 / -446.75 / -1105.53125
+
+What you need:
+
+Calculator for distance between any two 3d points: https://www.calculatorsoup.com/calculators/geometry-solids/distance-two-points.php
+
+Average of all locations for Astrophil:
+603.950 / -439.88125 / -1085.8125
+
+Calculation for plunge:
+= arcsin ((z2 – z1) / distance)
+
+Calculation for azimuth:
+= arctan((x2 –x1)/(y2 –y1))
+
+Theta = Plunge
+Phi = Azimuth
+
+X coordinate value for Stella/Raxxla:
+x = radius * sin(theta) * cos(phi)
+
+Z coordinate value for Stella/Raxxla:
+z = radius * cos(theta)
+
+Y coordinate value for Stella/Raxxla:
+y = radius * sin(theta) * sin(phi)(edited)
+
+Coordinates in Elite Dangerous are (x,z,y)
+
+X - Distance left / right from Sol. Negative values are to the left.
+Z - Distance up/down from Sol. Negative values are below the galactic plane.
+Y - Distance towards/away from the galactic core from Sol. Negatives are further away from core than Sol.
+
+Stella Candidates (under assumption of Delphi is reference point):
+Wredguia IJ-J c25-0
+Wredguia CI-L c24-0
+
+Be aware Delphi was probably a red herring. The next best candidate is Sol itself as omphalos (the center). For this setup you need the info on Astrophil provided above, the coordinates of Sol (0,0,0) and the coordinates of Polaris -322.6875 / 194.59375 / -212.4375. Hit me up if you need help understanding the process. I will answer anything. I just want this found so we can unlock those region locks that are dependent on this being found. Working together this will be found this year.
+
+I am still working to either confirm or permanently exclude Delphi system as the omphalos.. but regardless don't like some assumption. Change one variable and test it but everything must match something in game and must fit the stories that were used to explain the logic of how to find it.
+
+This is just the the Pythagorean theorem expanded to 3D space.
+Attachments
+Method to Streamline and accelerate the search for Raxxla.txt
+2 KB · Views: 121
+Reactions:
+Quartz_in_a_nutshell, TrillClinton, Han_Zen and 2 others

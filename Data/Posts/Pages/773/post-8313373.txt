@@ -1,0 +1,13 @@
+alexzk
+A
+Feb 27, 2020
+#15,447
+Jorki Rasalas said:
+Yep, what Thatchinho & Alexzk said, however RA is defined from Sol/Earth so that start point is a given:
+“the angular distance of a particular point measured eastward along the celestial equator from the Sun at the March equinox to the (hour circle of the) point in question above the earth.” (Wikipedia)
+
+Yes, yes ...except game does not have any real tool for angles. Try to target Voyager without FSS scan. Direction and distance is known...
+...or whatch old utube about.
+...and to catch something in big galaxy, you need precision for parts of second of angle ... not possible to do like "turn left a bit more".
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

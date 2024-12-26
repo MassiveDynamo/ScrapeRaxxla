@@ -1,0 +1,13 @@
+selbie
+Jan 1, 2024
+#32,819
+Regarding the Landscape Signal studies:
+One thing I had noticed with the signal recordings is that there was a sine wave present in the waveform view with a frequency of about 0.2Hz (5 seconds).
+
+
+So I used the high pass filter with a frequency of 0.4Hz to help cancel that wave out and was left with a more 'straight' waveform to see what was happening.
+(images are not the same scale)
+
+It appears there is a constant cycle of noise fluctuating every 25 seconds or so, and the primary mountain lines appear in a slightly different phase to this cycle (1 minute 49s).
+Reactions:
+Merlin StWahgwaan, CMDRCorrMorningstarFelian, Edelgard von Rhein and 2 others

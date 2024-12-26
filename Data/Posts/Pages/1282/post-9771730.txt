@@ -1,0 +1,14 @@
+Adel
+A
+Mar 12, 2022
+#25,640
+Jorki Rasalas said:
+Yes, I see BodyID 68 is missing, and it is likely to be a station since Jameson Memorial is BodyID 69, but are you sure they are numbered consecutively? Because from the Start Menu pic I would have expect a hidden station to be at one of the twin moons of the AB planets.
+
+Why does targeting it cause a crash? Probably some logic to prevent exactly this way of finding it!
+But there must be another Way! ( darned Mandalorian!)
+Yes, station IDs are consecutive regarding how close from main star they are.
+For the crash, either someone else like Pyroboros who understand the mechanisms of overflowing search bar can explain us OR i don't know atm.
+The crash occurs whatever the station is an outpost, asteroid base, orbis, coriolis or ocellus station (no pattern).
+Reactions:
+John Stoutbeard and Jorki Rasalas

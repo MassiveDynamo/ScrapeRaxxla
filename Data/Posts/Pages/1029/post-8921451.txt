@@ -1,0 +1,9 @@
+Jorki Rasalas
+Jan 27, 2021
+#20,580
+Sparklepaws said:
+I was actually going to recommend Shadowplay if you're using NVIDIA, it's the primary way that I retroactively record videos and encounters. Very helpful since you can adjust settings to save your last x minutes of gameplay. I've also had issues with mine in the past but it appears to be working fine now, even if it does sometimes take a minute to render the clip.
+
+I have such frustration and annoyance with NVIDIA software that I won’t use it again. A shame since I got the NVIDIA card on the basis of ShadowPlay. But wait until they bring out another update and you spend 2 or 3 days trying to get it working again, then multiply by well over a dozen times; that’s why I won’t use it!!!
+Reactions:
+Ravenl0ft, [PS4] Filthymick420 and dysonl

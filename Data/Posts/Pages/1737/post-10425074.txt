@@ -1,0 +1,10 @@
+Ian Doncaster
+Sep 5, 2024
+#34,724
+Consistently near is fairly easy - the L4/L5 of a moon will be the same distance from the moon as the planet it orbits, so if the moon is large enough to be seen clearly from the planet it'll be fine for the L4 point as well.
+
+The trouble you'd have with the Codex image is that from the L4/L5 you wouldn't be able to see the planet and the moon that close together - by definition they'd be 60 degrees apart.
+
+Of course, it's possible to get clouds which are not at Lagrange points - the Titan clouds are an obvious example, but there are some artificially-constructed human examples near Colonia (none large enough to contain a moon, though!)
+Reactions:
+selbie

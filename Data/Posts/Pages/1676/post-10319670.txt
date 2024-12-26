@@ -1,0 +1,13 @@
+Ian Doncaster
+Feb 24, 2024
+#33,511
+ajg007 said:
+It was on the cartography cash in screen saying congratulations, might have been first footfall?
+Ah. That's an old bug, and has tripped up a few people over the years in this thread and elsewhere.
+
+If you fully map a system - which with a 3-star 1-planet system is pretty easy, of course - you'll get a "first to fully map" bonus award screen when you hand in the data.
+You get this whether or not you're actually the first. Various people have reported getting it for Lave over the years, long after it was implausible that no-one else had thought of mapping both the planets.
+
+Whether the bug is "you should only get it if you're actually the first" or "it should just say 'full mapping bonus' without implying 'first'" I don't know.
+Reactions:
+Louis Calvert, Quaero and Macros Black

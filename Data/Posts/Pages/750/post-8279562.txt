@@ -1,0 +1,11 @@
+alexzk
+A
+Feb 4, 2020
+#14,996
+ED Astrometrics: Maps and Visualizations
+OK, here's the first step. I have the wider version of the graph here now: https://edastro.com/mapcharts/heightgraph2W.png That lack of white dwarfs on the right side, before getting to 1000 ly, really is quite striking. Sure enough, there aren't many in the data: mysql> select count(*) from...
+forums.frontier.co.uk
+
+More stars to check ...seems all PSR's as well, Btw a lot of them are outside range, like +/-10000 below/above plane.
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

@@ -1,0 +1,18 @@
+Ian Doncaster
+Sep 22, 2024
+#34,924
+Rochester said:
+Now what I find astonishing, is the line of site runs exactly inline with the signals midpoint!
+
+Angle between E-M and T-S lines: 85.5 degrees
+
+E-M line closest approach to Shamash: 14.63 LY
+E-M line closest approach to Nefertem: 14.69 LY
+E-M line closest approach to T-S line: 12.47 LY
+
+Closest point on T-S line to E-M line: [42.83, 29.56, -15.20] (almost at the midpoint, slightly on the Shamash side)
+Closest point on E-M line to T-S line: [36.80, 38.30, -8.63] (again slightly closer to Shamash than Nefertem, so shortly after it's crossed the equidistance plane) - point CPEM.
+
+It's not quite exact but it's close to within a fairly small fraction of a LY both ways. LFT 729 is the closest actual system to the CPEM point (at 1.82 LY away, rather further out)
+Reactions:
+Rochester

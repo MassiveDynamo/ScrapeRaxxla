@@ -1,0 +1,44 @@
+CMDRCorrMorningstarFelian
+Jan 21, 2023
+#28,965
+Jace Harriman said:
+I'm still not happy about the "too hot" thing (temperature in space is far too complicated for that), but I don't think it actually matters too much in this situation, because you're making a huge leap of logic:
+
+Why does the Polaris system need to be habitable for Thargoids in order for them to have a base there?
+
+Yeah, it's entirely possible that Polaris does not have a world that would be habitable for the Thargoids. But since when does habitability stop Humans from sticking a base somewhere? Literally every accessible base in the current game is in a location that is not inherently hospitable for Humans. We've got planets where the external temperature is inhospitable (in either direction), but you're safe from that whenever you're in your ship or inside the outpost. Heck, our ships are so well shielded that we can park ourselves close to the outskirts of a star and skim off fuel without roasting in our cockpits - it doesn't seem like a stretch to consider that the Thargoids might have the same technology.
+
+I've done some digging on the Thargoid "base" in FFE. I can't confirm the validity of first-hand, but it does seem to be where a lot of the rumour/speculation is coming from. A couple of things of note:
+
+a) The Thargoid base you encounter is a space station. If it is safe/survivable for Thargoids to be there in their ships, it is plausible for the same to be true of a station.
+
+b) The Thargoid base . You first encounter the Thargoids (via a Thargoid shuttle) in orbit of Polaris 3d, but then you're somehow transported to a nearby unexplored system called Miacke (I've seen it spelled Miackce elsewhere) - this is the location of the Thargoid station, not Polaris itself. Which again, makes the habitability (or not) of Polaris somewhat moot.
+
+c) First Encounters presents a very different depiction of the Thargoids. You are invited aboard their station under friendly circumstances, the Thargoids give you a quest, and you receive a Thargoid ship as a reward. Very little of this feels compatible with the lore of Elite Dangerous: even if it were possible to have a peaceful/friendly interaction with the Thargoids, ED presents a narrative where Humans and Thargoid tech do not mix well - I don't think this jives particularly well with Project Seraph / D-2 / etc, so I would not be inclined to put too much weight behind it.
+
+Of course, everything from First Encounters is non-canon unless Elite Dangerous decides/shows otherwise. But since there must be some sort of reason for Polaris to be permit-locked (and assuming that the linked wiki provides an accurate enough account), we can at least consider the events in First Encounters from an Elite Dangerous perspective, and think about what FDev might want to extract/reference from it.
+
+The first thing we might conclude is that the presence of a Thargoid base cannot be the reason that Polaris is permit locked, because Polaris is not where the Thargoid base was located. That's a valid reason for the Miacke system to be permit locked, but it does not hold true for Polaris: all that was there is a Thargoid shuttle, which presumably was no longer there after it was used to transport the player to the Miacke system. So, there must be something else in Polaris that we are being prohibited from.
+
+The second thing I notice is that the brief recap describes: "Upon your arrival in Polaris, you will get the usual message about trespassing on military territory." It also references a satellite - I assume this is a Military Defense Satellite (MDS) like those referenced elsewhere - which seems to be the source of the transmission. It's possible that the MDS is there as a response/reaction to the Thargoid Shuttle, but there's not necessarily a reason to conclude this: the MDS seems like a fairly standard way that military (I assume INRA) control/presence is expressed in the game, and there's nothing to suggest that it is new. It's entirely possible then that Polaris was already under military (INRA) control prior to popping up in FFE. The current permit lock could be a residual of this: as far as we know (I think?) the Polaris permit isn't linked to an existing major faction, but there are plenty of reasons why the major powers might agree to keep a system and it's contents off limits.
+
+The third thing that comes to mind is: "How might FDev try to reinterpret what happened?". I would suggest that the specific/exact events of FFE probably didn't happen: it doesn't really fit the lore, and there aren't necessarily enough players familiar with the game first-hand who would appreciate the reference to their past exploits to make it worth shoehorning in. But, there are a few interesting tidbits. The FFE player moves between Polaris and Miacke pretty darn quick, enough for it to seem surprising. In their shoes, I might reinterpret this as a human experiencing the Thargoids' superior FTL technology, potentially being a way to satisfy the "FSD was reverse engineered" idea while still having Hyperdrive tech originate on Earth. To steal from Star Trek for the sake of analogy - Zephram Cochrane may have invented warp drive, but not all warp drive is equal; alien technology (Vulcan, Klingon, etc) at the time was vastly superior. Or, I could see it being reinterpreted as some sort of external factor, a portal/wormhole/etc - that has a decidedly more Raxxla-adjacent flair to it, but I don't think there's necessarily anything to drive that conclusion - it's easy for a puzzle piece to fit in the absense of the rest of the jigsaw.
+
+
+Am I right in understanding/concluding that there's not really a clear/direct link between Raxxla and Polaris, though, it's just a case of "Polaris is permit-locked and that's weird", combined with the FFE Thargoid connection that has people wondering if there's somethign Raxxla-adjacent there?
+Click to expand...
+The apparent trick to a lot of it is confusion from names of places which is possibly why we have "Church of the Path" in the Shibboleth system. Shibboleth is basically a cultural passphrase that can readily be used to determine if someone is part of a group. They have been used throughout human history to find traitors, spies, etc. It works by someone mispronouncing a word or saying the wrong word or phrase to describe a place, thing, or person. The manauls are gold mines for this kind of thing (especially the older ones). There are basically three core naming schemes in Elite Dangerous:
+
+Federation: Astronomical based name scheme
+
+Imperial: Mythological naming
+
+GalCop/Alliance: Procedural generated names with some science base names
+
+The catch is most famous spots have a system station, or well known bit or lore that can be used to identify between the mixed culture references. What you have been taught to believe is actually pretty far from what happened. Example, INRA (Intergalactic Naval Reserve Arm) is not founded until 3193 but Mycoid predates it in 3125. Also, the Thargoids vanish in 3151. The first game apparently happens after the First Thargoid War once Lave is a dictatorship. It is established that Dr. Hans Walden takes over as dictator in 3174. There are claims that Lave was a dictatorship prior to this but the only things that are certain is Old Worlds Coalition came first then Galactic Cooperative (neither of which were dictatorships). I have reason to believe that Mycoid was used more against humans to purge us of androids, cyborgs, and artificial intelligences. This storyline is bolstered by both the Jaques story, Military Base Established beacon in Facece (which implicates Alioth as a robotics hub), stories of Sohalian Fever in First Encounters, and Cerberus Plague in Elite Dangerous. Yes, that was very probably Mycoid. It also implies Palin is a cyborg per GalNet entry "Community Goal: Wilkes Orbital In Need" (given Mycoid cannot infect a normal human). The attached document basically goes through the history of what went down with Mycoid and INRA/Azimuth Biotech. Oh and Stack (one of the INRA bases) is a mere moon over from Jameson crash.
+Attachments
+The case for Salvation being brought to justice-1.pdf
+677.4 KB · Views: 94
+Last edited: Jan 23, 2023
+Reactions:
+Jace Harriman

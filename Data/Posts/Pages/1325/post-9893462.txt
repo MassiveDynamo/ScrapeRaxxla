@@ -1,0 +1,9 @@
+Han_Zen
+Jul 22, 2022
+#26,484
+Jorki Rasalas said:
+Just re-reading previous messages about comets. They may not have visuals implemented, but they are in the code/stellarforge/universe as points (but presumably with no mass). IMHO I think that means they’re in-game, but that’s just semantics.
+
+What puzzles me is that some people have seen them as a pop up notification on the nav panel (e.g. https://forums.frontier.co.uk/threa...ormal-space-close-to-them.350586/post-5486213), but I cant seem to drop out of SC at it after targeting the USS and getting the drop-out message.
+The comets have mass. Just no volume.
+Without mass, nothing would orbit them.

@@ -1,0 +1,14 @@
+Adel
+A
+Jul 17, 2022
+#26,465
+Jorki Rasalas said:
+Just re-reading previous messages about comets. They may not have visuals implemented, but they are in the code/stellarforge/universe as points (but presumably with no mass). IMHO I think that means they’re in-game, but that’s just semantics.
+
+What puzzles me is that some people have seen them as a pop up notification on the nav panel (e.g. https://forums.frontier.co.uk/threa...ormal-space-close-to-them.350586/post-5486213), but I cant seem to drop out of SC at it after targeting the USS and getting the drop-out message.
+What they saw in the bottom the hud (front panel, not left) is the closest body from the ship.
+It is a usually thing but we never pay attention to it.
+Sometimes there is for example "Isinor 2" because we are in its influence zone; sometimes there is just "deep space" when we are not in influence zone of any body in the system.
+AND sometimes, very rare due to the size, we can see either "Asteroid belt" (for SOL) or if very lucky "Pareco Comet 1".
+
+It's in the code of the game and they cannot hide a body if we are close enough to it (influence zone).

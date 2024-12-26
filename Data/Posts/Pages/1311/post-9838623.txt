@@ -1,0 +1,6 @@
+CMDR Davanix
+May 13, 2022
+#26,215
+Noobilite said:
+You only need 3 to triangulate. And possibly find the circle. Circles are just a point with 6 even points around it made up of triangles, but with straight lines. Not sure how to translate that into 3d or 4d though.
+looking at the 3 it may be more of a direction then a center system if this is infact a method, it would point you just left of CANPUS under Guardian ruin locations and beyond

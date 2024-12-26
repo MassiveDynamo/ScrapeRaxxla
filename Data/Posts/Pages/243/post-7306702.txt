@@ -1,0 +1,9 @@
+{SAS}Stalker
+Jan 1, 2019
+#4,853
+Edelgard von Rhein said:
+Delphi Control Chapter is a Security Installation. There is a short-range exclusion zone but it didn't stop me getting very close and I can safely say that there were no Ship Log Uplinks or logs to download. No scenario was active. Getting close to the Pluto-Charon system revealed a Crashed Ship permanent POI on Charon but this seems a regular crash site, with a ship data core granting a voucher worth just over 110K Cr. It's awkwardly placed on the side of a mountain and it was lucky I was in my Viper 4, as this can find places to land even in rough terrain.
+Primary Transport Authority is a Government Installation. There was no exclusion zone and no logs to download. No scenarios were active.
+
+Yar, I did them the other day. There is a hackable maintenance hatch, coms relay and two coms transmitters which you can scan but they do nothing. I wondered if they were part of a mission target?
+Last edited: Jan 1, 2019

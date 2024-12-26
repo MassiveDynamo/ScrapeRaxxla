@@ -1,0 +1,7 @@
+Rochester
+Aug 2, 2021
+#24,088
+I cannot find my original bug report but, I did ask FD about spellings and spelling errors regards these. And their response was something along the lines of ‘all spellings are correct’.
+
+I would suggest where such anomalies occur we raise them as tickets as a litmus test, but always to provide a context,
+Last edited: Aug 2, 2021

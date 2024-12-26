@@ -1,0 +1,15 @@
+Vektorboson
+V
+Feb 24, 2021
+#21,395
+FullM3talX said:
+how long does a full orbital cycle of all planets around a star take in elite? is it running in real time? or is it running in an accelerated time?
+
+this would be important to answer because if it's running in an accelerated time (say an hour or so), it would be worth it to stay in a system and experience the entire cycle before leaving. this would explain why we haven't found raxxla yet even though we have explored pretty much the entirety of the bubble and the space around it.
+Have you made an interesting observation about planet orbits you want to share?
+You can calculate how fast a planet must go around its star (and adjust your throttle accordingly); you can also compare the "age of periapsis"-value in the system map at different times. And if there is a mismatch that would be kinda interesting.
+
+EDIT: I had a brain-fart. It's "arg of periapsis" not "age".
+Last edited: Feb 24, 2021
+Reactions:
+FullM3talX and [PS4] Filthymick420

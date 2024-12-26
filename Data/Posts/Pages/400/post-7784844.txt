@@ -1,0 +1,106 @@
+Noobilite
+May 8, 2019
+#7,999
+Someone wanted a list of all procedural possibilities or Ra XX la. From the one wiki at least.
+
+Oolite planet list - Elite Wiki
+wiki.alioth.net
+
+RAXXLA:
+
+"ABOUSEITILETSTONLONUTHNOAL" (used by the planet description string)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and " ' 'LEXEGEZACEBISOUSESARMAINDIREA'ERATENBERALAVETIEDORQUANTEISRION" (Planets and systems)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click to expand...
+
+Note: RA and LA are only in the system+planet lexecongen. There is no RA or LA in the planet string which is the first set of names. So, I'm assuming the first list is mute.
+Last edited: May 9, 2019
+Reactions:
+Han_Zen, xzanfr and TruthSeeker

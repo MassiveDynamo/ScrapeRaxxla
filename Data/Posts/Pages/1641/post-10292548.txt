@@ -1,0 +1,13 @@
+Hanerib
+Dec 31, 2023
+#32,801
+Jorki Rasalas said:
+I suspect there may be a reason why comet hunting was banned.
+Is comet hunting banned? There isn't really much to see, or do around them, so I can't say I would have been involved in such activity really. But I have a pair of eyes. Sometimes when seeing many signal sources concentrated in a relatively small area, I suspect there could be a comet there, but that's as far as it goes. Uninhabited systems in relatively close proximity to the bubble seem to have signal sources evenly distributed along the orbital plane. In a way it's a miracle Voyager probe was found when it was, just visiting it old school style pre-fss was really difficult.
+
+Louis Calvert said:
+I believe the Landscape Signal might be a (partial) map.
+READ THIS TLDR: I've drawn lines over a composite of dozens of recordings of the Landcape Signal taken from many different locations and under many different conditions (total of about 10 hour of recordings). I've picked out the details that occur in the majority of spectrograms. This is, at best, an interpretation of what I'm pretty sure is actually there - but I can't say for sure that I've got this right. I encourage you ALL to do this for yourself. All the software I used is completely free and the rest of this post details the methods I used. Please, please do test this yourself. The below is a work in progress:
+
+Click to expand...
+?

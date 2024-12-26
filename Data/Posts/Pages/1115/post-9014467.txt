@@ -1,0 +1,14 @@
+clavain
+Mar 22, 2021
+#22,282
+Ha! Found it. Simbad designation is Canis Major Dwarf Galaxy. Unfortunately it has no child objects, so the catalog if it exists is not in the database apparently.
+
+Canis Major Dwarf Galaxy
+
+Other identifiers for it also at the bottom. None of them include the ones referenced on the Wikipedia page unfortunately. Clicking on its siblings though will give you a list of every other galaxy in the Local Group I believe, for anyone who then wants to click on their children to generate a list for each, and check each listed identifier of a child against the Galaxy Map to see if any of them are in game... ;-)
+
+
+[Edit: that said, clicking on display for the CMa references will generate a list of articles, some of which will have a "Simbad objects" link under them for those stellar objects referenced that are in the database, so it may be possible to check some - the first article listed for example has 17 Simbad objects, unfortunately all galaxies or clusters and the like and no stars. ]
+Last edited: Mar 22, 2021
+Reactions:
+TotallySirius and [PS4] Filthymick420

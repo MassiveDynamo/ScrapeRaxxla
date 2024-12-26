@@ -1,0 +1,13 @@
+alexzk
+A
+May 31, 2020
+#16,963
+Merlin StWahgwaan said:
+anyone know if its posible anywhere to search the galmap for specific stars?
+I mean outside of the filters list?
+
+Specifically, I want too look for Class M stars with "VI" or "VA" level luminosity....
+1. In-game map
+2. User maps like EDSM. Some people do copy of EDSM and can run own sql query on this like you need. Check explorers subforum. There is 1 guy doing that there, like drawing maps of W-R stars etc.
+Reactions:
+[PS4] Filthymick420 and Merlin StWahgwaan

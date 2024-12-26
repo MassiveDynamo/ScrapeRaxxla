@@ -1,0 +1,12 @@
+Jorki Rasalas
+Jan 1, 2021
+#20,239
+Chris Cuttner said:
+i can't select it either, but (on the ps4) i can bookmark it when i hover over the belt in the system map. and via the bookmark it is then selectable.
+
+Mmm, didnt try to bookmark it without selecting it, didn’t know that worked. Will try out later
+
+edit: yep, can bookmark it without selecting it in sysmap, then select it on the bookmarks tab and it shows at the star. Presumably a coding bug since there is no cluster shown or selectable at the asteroid belt.
+Last edited: Jan 1, 2021
+Reactions:
+Chris Cuttner

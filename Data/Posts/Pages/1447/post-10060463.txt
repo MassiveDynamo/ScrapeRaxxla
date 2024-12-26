@@ -1,0 +1,13 @@
+CMDRCorrMorningstarFelian
+Jan 16, 2023
+#28,939
+I've reconstructed the audio from Horizons probe with the files provided by @Louis Calvert. There may be something there but seeing if this probe had a specific type of communication method. FDev rarely puts effort into something for it to mean nothing. Will report back if I find some information that helps further looking into the audio. It is more complicated than morse code, but I have a hard time accepting they put this much effort into the sound for it to be absolutely nothing. There's at least 2 layers to this as left and right audio are not identical.
+
+
+
+
+
+If you are interested, reconstructed audio file is located here (3.9 MB): https://drive.google.com/drive/folders/1cRKbiDEwRxnW3moaT66o0pe439aaetzT?usp=sharing
+Last edited: Jan 16, 2023
+Reactions:
+John Stoutbeard, Rochester, Macros Black and 1 other person

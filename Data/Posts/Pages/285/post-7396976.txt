@@ -1,0 +1,16 @@
+Han_Zen
+Feb 3, 2019
+#5,699
+Teronis1746 said:
+Not even remotely. The thargoid probe's image is most likely the details of a specific planet, but as to which planet no one knows for certain. As for the Device image: http://remlok-industries.fr/wp-content/uploads/2017/06/ED-Arteregn-Thargoid-map-handtraced.png
+
+All that is known for absolute certain is that the system on the left is Merope, and that Thargoid Sensors always point at Merope (The star specifically). The system on the right is undetermined, but in the game probes point at Merope 5C. I have personally taken a Sensor, Link, and Probe to Merope and oriented the three to where they would line up with what is on the map, and tried a variety of activation techniques but nothing new happened. If the probes work anything like the links, we may need to bring the probe to the system it is pointing to before it provides a different reaction. This theory was most likely worthless given that Merope 5C is orbiting.
+
+Many theorize that the system on the right is in fact the Thargoids' home/origin system, and the image from the probe details exactly which planets either A. The thargoids are from or B. The probes are from. My personal theory is that we are unable to read or understand the map because we do not have the capability of wormhole travel like they do, making it impossible for us to actually follow the map even if we did understand it.
+Click to expand...
+
+The system on the right is Col 70 Sector FY-N C21-3. Cmdr Wace decoded that from the probe sound.
+
+The three numbers are distance to: Col 70 Sector FY-N C21-3, Merope and you current system. That gives the possition of the target system(and one dud possition).
+
+This works 100%. There might be some ‘fine print’ in the map that we haven’t figurer out, but the main function is known.

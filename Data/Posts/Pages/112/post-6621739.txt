@@ -1,0 +1,12 @@
+Han_Zen
+Apr 13, 2018
+#2,223
+Been checking a bit more on the Lucifer oddities form this post: https://forums.frontier.co.uk/showt...-Find-Raxxla?p=6368699&viewfull=1#post6368699
+
+I landed on Lucifer, with Sirius B directly over head. After two days, Sirius B was on the other side of Lucifer. This seem to correspond with the data listed in the system info(4.9 days rotation, 99 days orbit).
+This does of course not match Kepler's laws. Lucifer should not be able to maintain such a slow orbit, without falling into Sirius B. This is probably a bug due to manually input data, but i'll keep an eye on it.
+I also bug reported it a while back, but haven't heard anything: https://forums.frontier.co.uk/showthread.php/404652-Wrong-planet-info-for-Lucifer
+
+I'we also checked all the Lagrange point between Sirius and Sirius B, using this 'finder': http://orbitsimulator.com/formulas/LagrangePointFinder.html
+
+Didn't find anything, but the tool may be useful.

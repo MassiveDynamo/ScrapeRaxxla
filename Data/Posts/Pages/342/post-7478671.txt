@@ -1,0 +1,38 @@
+Six6VI
+Mar 19, 2019
+#6,839
+mach10 said:
+All this Greek mythology people are spewing... to date has there been a puzzle of ED that was solved by knowledge of Greek mythology? Thargoid Sensor, Probe, Link, Data and Maps all unraveled with math and science, stop trying to push Greek myths.
+
+Yeah, but...
+
+In the grand narrative of a large number of classical adventures there is a distinct pattern known as the "Monomyth" or "Heroes Journey" which can essentially be boiled down to the TWELVE trials of Hercules, TWELVE steps of Horus (hours of "dais"-light), TWELVE disciples of Christ, TWELVE step alcoholics anonymous program, TWELVE inches in a foot etc, etc... (Where do you think all this stuff comes from?)
+
+It's been said that if you, as a writer would like to sell your script to Hollywood (ancient druidic lore claims that timber from the holly tree is favoured when creating magic wands - see Harry Potter), the studios will not even read it unless it follows this basic story flow, so it might be wise to incorporate Herculean mythology for it's intrinsic connection to the zodiac, especially when we now have a "Gorgon" Research Facility in the NGC 7822 nebula (Cupids arrow, mentioned above).
+
+Prophecies from the Oracle of Delphi were written on leaves, which grow on the "limbs" of trees, and we also see the curved edge of any celestial "disk" referred to as the "limb". Relevant? No idea. Limb can also refer to the upper and lower arms of a bow in archery, so there's a connection to, at the very least, Orion, Artemis and Sagittarius, the fabled hunters.
+
+In Elite, a space faring game, we're exclusively dealing with astronomical phenomena and it would therefore seem prudent to be mindful of the zodiac, and it's covert influence on almost every facet of modern life. Those who run the world be-LIE-ve in astrology, or the politicians and kings / queens wouldn't consult it on matters of timing for their hegemonic activities. Since they have all the money, and make all the major decisions based on planetary alignments it may be unwise to handicap one's self by ignoring such ancient systems, even if the powers that should never have been like to tell we plebs it's all superstitious nonsense so they can keep it for themselves.
+
+To 'illuminate' a little further on this subject, there are four "hinges" or, Cardinal (yes, like the Vatican) points, the equinoxes and solstices, placed at the beginning of each of the Cardinal signs, Capricorn, Aries, Libra and Cancer which correspond with the cardinal directions, aka north, east, west and south respectively or, NEWS (from the four corners of the world).
+
+There are also four "fixed" or, to the ancient Persians "Royal" stars which do not appear to move along the ecliptic at quite the same rate as wandering planets do, and maintain position relative to each other, from our unique viewing perspective here on Earth. These are Aldebaran in Taurus, Regulus in Leo, Antares in Scorpio and Fomalhaut in Aquarius, none of which are overly distant from Sol.
+
+Worthy of note is that Antares, while the furthest away at roughly 550Ly is also a red supergiant (~Sol mass x12) with a binary companion. I haven't been there to look (yet), but given the ED mantra that the door of any given station faces the host it orbits, could the station in the DW codex entry not be shown from the perspective of this companion star, with Antares visible behind it?
+
+I'll go look for myself at some stage but to save time, has anyone already been out there? EDDB.io seems to think someone has discovered it already, and the in-game version does have a binary companion but no recorded stations.
+
+The bottom line, we're dealing with stars. The same ones that were visible to the ancient civilisations that named them, made up a bunch of stories about their exploits in relation to each other and how their influence affected life on Earth (then promptly renamed some of them to protect the guilty). "Day's of our Lives" wasn't on TV back then, it played out in the heavens, where everyone could see it as they laid back to relax after dinner.
+
+If FD want ED to be a success: As above, so below...
+
+[Edit: Antares B9H orbits a Y-Type Dwarf, not a gas giant]
+
+[Edit, edit: If the Codex is correct in it's statement that this elusive TDW station runs on low power it would seem sensible (regardless of what system it's actually in) for it to be placed at the L1 position relative to the body it may be orbiting, since this would place it between the body it orbits, and the larger host, creating a gravitational near-equilibrium, and therefore requiring less energy to maintain orbit. This would also mean the larger host would ALWAYS be visible directly behind the station when viewed from the smaller object it's closer to, as in the Codex image.]
+
+[Edit, edit, edit: Something else that might be worthy of mention from here, is this (at time of writing). Quote: "Frontier: Elite II (1993) and Frontier: First Encounters (1995), computer games written by David Braben et al. Hundreds of light-years away from populated space, the Antares system will remain unpopulated for the foreseeable future since it has no planets. The binary companion Antares B is present in the game, but the characteristics of its orbit (a period of 140.8 years and a radius of 75.2 AU) are far below actual estimates." End quote. (Apparently also the location of Krypton in the Superman canon)]
+
+[One last note: I'm assuming the celestial mechanics of the Stella Forge incorporates the gravitational anomalies at the lagrangian points between any pair of objects, although I did go and check where the Jovian L4 point should be (in Sol) and the expected "Greek Camp", a vast field of planetary debris, wasn't there, where they really should be. I haven't found any of the new lagrangian clouds (in the Codex - yet) so I haven't been able to compare where they're placed in-game against where the gravitational anomalies that 'should' support the accumulation of gasses, dust and rocks of varying sizes (in considerably more, if not EVERY system of two bodies, including Earth and our Moon) actually occur compared to astronomical reality which DB seems to prefer for his games. (I did check the L2 point in SD at AB2H (eighth moon orbiting a gas giant)) - nothing found)]
+Last edited: Mar 19, 2019
+Reactions:
+Non Grata, Rochester and Hanerib

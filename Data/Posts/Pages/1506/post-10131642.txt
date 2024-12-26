@@ -1,0 +1,16 @@
+Jorki Rasalas
+Apr 25, 2023
+#30,116
+Dox Paradox said:
+R a x x l a
+D e z r h a
+--------------
+Razrla => Radium/Zirconium/Lanthane (elements : 88 40 57)
+"xx" could be a placeholder, doesn't Frontier absolutely love placeholders?
+XX could be wildcards so another option is something like Raksla. Sounds the same but different letters. Part of my current conjecture (cant even dignify it by calling it a hypothesis!) & hence need for an anagram solver. I need to test a string of letters against all known system in-game names. An online anagram resolver is of no use since they’re based on a standard English dictionary not a database of ED system names.
+About a year ago I manually tested “Princess Astrophel and the Spiralling Stars” for anagrams against a Spansh search for systems within about 100ly from Sol & was overwhelmed. Need to automate that testing.
+Edit
+I had 90+ matches within 64ly of Sol....
+Last edited: Apr 25, 2023
+Reactions:
+CMDRCorrMorningstarFelian and Dox Paradox

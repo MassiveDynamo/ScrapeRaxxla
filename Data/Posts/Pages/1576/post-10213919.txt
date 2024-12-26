@@ -1,0 +1,15 @@
+Jorki Rasalas
+Sep 6, 2023
+#31,515
+Well, thought I'd try out Starfield for a little light entertainment since I'm stumped on Raxxla Questing...
+I have an 8 year old PC so was dubious but ran PCUserBenchmark a week ago which assured me I could run it at lowest settings...
+so bought it last week via Steam, preloaded onto my PC, took around an hour to preload, thought there was something off as it's supposed to total around 125Gb but at my download speed and duration thought I'd only got around 77Gb - odd!
+started it at 15:45,
+Steam started up and ran a download (odd thought I!), half an hour later the download finished,
+then it started to download content (???)
+15 minutes later...
+
+PCUserBenchmark had lied!..
+my GTX1080 is not powerful enough to run it even at lowest settings
+Reactions:
+Han_Zen and simulacrae

@@ -1,0 +1,16 @@
+Mecrutio
+M
+Jan 25, 2024
+#33,167
+selbie said:
+This is definitely encouraging because ice has come into my radar a few times while investigating a theory. Try taking a short recording and see if anything appears in the spectra
+I made a few recordings and I need help. I've zipped up the files but still can not attach here. How can I share these? Can someone point me to how to use Sonic Visualizer?
+
+All recordings are done with Nvidia and in camera mode placed in front of the ship.
+Stuemeae KM-W C1-2965, Bodies A5 and A8. A5 was recorded twice, not facing the L. signal and facing the L. signal. Body A8 matched the mass requirement (1.03 Earth Mass) but was a little small in the gravity. (.68G) A8 was included to show that there is a difference between Ice Worlds.
+
+A5 - 10,031.57 Atmos, Water Geysers, Methane rich, 33.2% Ammonia, Methane, Nitrogen
+A6 - 17,371.09 Atmos, Water Geysers, Methane rich (same comp. as A5)
+A7 - 0.38 Atmos, Water Geysers, Neon Rich, 97.6% Helium, 2.4% Neon
+All 3 make a sound.
+A8 - 0.22 Atmos, Water Geysers, Neon Rich, 97.6% Helium, 2.4% Neon (no sound)

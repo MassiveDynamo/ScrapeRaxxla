@@ -1,0 +1,26 @@
+ironshirt
+I
+Sep 19, 2020
+#18,988
+An addition to my post above:
+
+It just occurred to me, that there was even more game mechanics which did work for me last time (in 2019 on Windows), but not this time.
+
+I am speaking of chain missions. Sometimes upon completion of a "kill x pirates", "kill pirate lord x", and mssions like "deliver item x" and so on, I received the message that there is a follow up mission for me on the board.
+Unfortunately quite often the mission simply did not appear. But I found a (partial) solution for this. If you wait in normal space, or in supercruise, for at least 30 minutes , you might be able to trigger these follow up missions. They appear in your inbox. But this does not always work - sometimes you just receive a standard mission. The more you wait, the more mission contracts may appear in the inbox. Also Ariel, The Mineral Magpie and a third trader (can't remember the name... something something Commodities) can be triggered this way.
+
+The follow up missions of "kill pirate lord x" is often "X had partners... please kill them". If you complete this there may be another follow up mission, which is also the one which may appear if you do "kill x pirates" . Something similar to "Now please cut off the head of the snake". And upon completion of this mission there may even appear another (probably the last) follow up mission. And this one is quite interesting - it even does not appear in your mission list, you just have the message in your inbox and 2 or 2,5 hours left to complete it . You need to kill the new leader of the pirates. I think I was able to complete this back in 2019 (at first by accident) and IIRC it also triggered the message from "A friend". I located the target by scanning a part of a surface installation back in the days - the same way you locate a terrorist in "kill terrorist x" missions. Unfortunately this time I wasn't able to find the mission target (tried it 3 or 4 times). Even checked supercruise, stations, belts, planets in the target system.
+
+Here is the screenshot of the last mission (again, in german language):
+
+SPOILER: PIRATES - NEW LEADER
+
+SPOILER: TRANSLATION
+
+
+
+
+I'm sharing all this because I believe getting contacted by "A friend" has to do with TDW invite.
+As a confirmation that 'they' are watching us and that the commander is on the right track. Remember "They will find you"
+Reactions:
+Fiera, yelboc, PeteACarter and 5 others

@@ -1,0 +1,16 @@
+Vetinari
+V
+Jan 12, 2020
+#14,610
+Alerta Antifa said:
+Pretty sure tht syatems not showing on Galmap are a bug mentioned to be fixed in Jan update, maybe wrong but too lazy to check on listed bug fixes.
+
+From the Update Thread, First one is pretty general so could be included in that.:
+
+Fixed an issue that prevented the search function on the Galaxy Map from working correctly.
+Localisation/Text
+
+Fixed incorrect system description for 'Alioth'.
+Fixed a small typo in the description of "HR 7221 Wheat"
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

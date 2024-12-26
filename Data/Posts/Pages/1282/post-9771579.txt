@@ -1,0 +1,14 @@
+Adel
+A
+Mar 12, 2022
+#25,631
+Jorki Rasalas said:
+I still dont see how you're getting comets in SD in your journal file, cos they aint showing in mine!
+In my journal, after nav beacon scan, i sorted the BodyIDs.
+Those missing first are either barycenters, belt origin, belt clusters or rings.
+
+Then i have some gaps: 27, 29, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55.
+To find what are these gaps, i use the Cmdr Pyroboros's spreasheet to target the BodyID and once i drop in the signal (this is why you see "SupercruiseExit" in logs), i get the line in my log file and copy/paste it to fill the gap.
+And i repeat until i crash the galmap searchbar, which until now, indicated that there was nothing more over that ID.
+Reactions:
+Rochester, John Stoutbeard and Zieman

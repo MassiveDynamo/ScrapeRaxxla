@@ -1,0 +1,14 @@
+Merlin StWahgwaan
+Jan 23, 2021
+#20,527
+Filthymick420 said:
+Do any of the 3rd party tools let us search for a list of systems by specific distance from a location, For example a list of every system exactly 235 ly from shinrarta?
+
+Only one I know of, works off of EDSM, but it works for anything in their database....
+But shows ALL systems within the shpere, so youll probably want to copy and past it in to Excel or somthing and sort by distance or w.e. you want
+
+https://www.edsm.net/api-v1/sphere-systems?x=-318.4625&y=-6.9191&z=-283.0745&radius=20
+
+Just replace the X Y Z coordinates with the ones from EDSM for your center system and change the radius (ly) (XYZ is same order on EDSM 123 for coordinates)
+Reactions:
+bluecrash and [PS4] Filthymick420

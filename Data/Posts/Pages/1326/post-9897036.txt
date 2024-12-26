@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jul 27, 2022
+#26,512
+Ataxia said:
+Today I verified (more for myself) that a discovery ie star system does not sho up until it has been discovered. Though you can find systems in game, Inara will not search the system until it has been found.
+
+This is huge, even in the game if something is not scanned it does not show up (bodies within a system). This pushes the potential of Raxxla's site to not have been found potentially because it shows as a signature that people are less likely to scan or that certain actions are required in order for the frequency to populate.
+
+
+This does follow several popular ideas.
+Click to expand...
+Dont think I follow I your logic here, though it is early and my breakfast coffee has not yet taken effect.
+We do not have access to the in-game star database other than via the galmap search bar. I think Inara and other third party tools rely on the EDSM database that contains a player-reported view of the galaxy; they cannot search the in-game database. FD say we have only discovered a small fraction of the in-game galaxy. It is likely that many systems discovered by players in-game were not reported to EDSM since that is a voluntary activity, though other tools such as EDDiscovery automate that reporting process and I highly recommend it.

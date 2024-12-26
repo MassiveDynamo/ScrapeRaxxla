@@ -1,0 +1,7 @@
+Jaiotu
+Jan 4, 2019
+#4,903
+Han_Zen said:
+I recommend going to Antares and take a look.
+
+Interesting stuff. You could test to see if the black disk is part of the HUD by having someone blow out your canopy. HUD elements don't appear inside the REMLOK

@@ -1,0 +1,9 @@
+Dox Paradox
+Apr 30, 2023
+#30,221
+I've just discovered there are activable doors on some (all?) orbital installations. Maintenance tunnels that open upon contact with the ship.
+The actionnable doors are marked with a glowing red triangle.
+It looks like a CQC thing, but since we mentioned passing through doors as a gateway to Raxxla or something else I felt like mentioning it.
+Maybe it is well known but I never heard about it myself .
+Reactions:
+CMDRCorrMorningstarFelian and Jorki Rasalas

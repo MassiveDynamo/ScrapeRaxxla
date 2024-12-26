@@ -1,0 +1,30 @@
+Emperor
+Dec 2, 2023
+#32,281
+Rochester said:
+Yes these are god-modes the Devs use, there are hackers out there who’ve accessed them to exploit infinite jumps or fly Thargoids etc.
+
+The ‘galaxy’ is not really a spacial entity, we don’t physically travel anywhere, Cmdrs dial up that data and it loads into an instance. So logically ‘distance’ or ‘fuel’ are simply game-logic limitations.
+
+Looks like there is (or was) no god mode on the public servers.... I guess the vids I saw were dev or test builds.... unless the admin suite does that stuff, which I doubt based on the comment below, and having had a Conda reimbursed once (back when they were really expensive!) when recalling it from a planet and watching it pile straight in to the surface, I guess it's for that kinda stuff ;-)
+
+Do FD staff have "God Mode"?
+We have separate development, testing and public servers - playing on public is generally on a normal account. I always use my normal account for that, but I have different accounts for the other servers as needed. Michael So, do you mean that you don't need to block regions with an unknown...
+forums.frontier.co.uk
+
+"The public facing builds don't support any of our trickery as the developer console is compiled out, so no god mode ingame.
+
+We could cheat progression by using the admin suite that support uses to help stuck players, but that would be... cheating... (Also it's audit logged on the live envronment, so not worth the risk)."
+
+
+Also noted MB responded to a question about Unknown permits being used for testing content:
+Do FD staff have "God Mode"?
+We have separate development, testing and public servers - playing on public is generally on a normal account. I always use my normal account for that, but I have different accounts for the other servers as needed. Michael So, do you mean that you don't need to block regions with an unknown...
+forums.frontier.co.uk
+
+
+"So, do you mean that you don't need to block regions with an unknown permit to include content in it, as you can do that first on separate development servers ?"
+
+"We can, but we also have a fair idea for where things are going to take place, and we've had those locked off from the start, as well as some speculative areas as well."
+Reactions:
+Louis Calvert, CMDRCorrMorningstarFelian and Rochester

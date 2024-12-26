@@ -1,0 +1,16 @@
+Ian Doncaster
+Aug 27, 2024
+#34,651
+Jorki Rasalas said:
+Spanish reports 622 systems within 40ly of CD-73 253
+406 with zero population.
+40 with an M6 star...someone needs to check those out for gas giants...
+Gotta walk the copawlot
+Within 40 LY (cubic) radius of CD-73 253, the systems with both an M6 star [1] and a body with at least 8 moons are:
+Valhoujem
+HIP 28452
+T'u Tu
+Laukese
+[1] All luminosity V dwarf stars with sub-Sol radii, in this case.
+Reactions:
+CMDRCorrMorningstarFelian and Macros Black

@@ -1,0 +1,14 @@
+yelboc
+Aug 7, 2022
+#26,620
+Jorki Rasalas said:
+Peaks in the middle of craters are very common. It’s the same effect as when a drop falls into water-the surface depresses then rebounds, only with land it freezes into a mountain.
+
+I’d be surprised if there are caves though. It was widely circulated at one time that the game engine cant do caves, though I kept asking in that case how are Thargoid bases generated...nobody resolved that question!
+
+Edit: if it gets too hairy you could boot into the base game so would be placed into planetary orbit, then land again and retry.
+So as far as I can tell the terrain in Horizons, and also Oddy I believe is a simple surface with no possibility of creating caves. The Thargoid bases are an object built separately and placed on the terrain, so are like a building with an inside and doors. In that way caves are possible, but not as part of the terrain.
+
+I have a suspicion that the reason for the wholesale re-write of the terrain generation in Oddy was to allow it to create large flat areas for the bases to go on, which was probably difficult with the old terrain generator - the terrain around planet ports in Horizons is pretty iffy and sometime you can clip under the building into the void underneath.
+Reactions:
+Jorki Rasalas and Crimson Echo

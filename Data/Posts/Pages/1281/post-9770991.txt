@@ -1,0 +1,46 @@
+John Stoutbeard
+Mar 12, 2022
+#25,618
+CMDRCorrMorningstarFelian said:
+C_mm_ Lo_ 000.0.00 ….k.l……h.m……..l……………….
+The missing letters was analyzed in this post: https://forums.frontier.co.uk/threa...etis-investigation.350810/page-4#post-9006404
+Aka.
+cyNickalCyn said:
+The end section of the 'Final Log' title has the lettering "….k.l……h.m……..l………………". Going with the statement made in previous log entry, 908.7.34, regarding the content of the 'Unknown Transmission', "Kill Them All", the lettering appears to fit this phrase; k(i)l(l) (t)h(e)m (a)l(l).
+
+Adjusting the broken title entry for the 'Final Log' it should read as such:
+C(o)mm(s) Lo(g) 000.0.00 ... k(i)l(l) (t)h(e)m (a)l(l)
+Comms Log 000.0.00 ... kill them all ...
+
+The missing letters in order are: O S G I L T E A L
+Thinking this series of nine letters may be an anagram of some sort I attempted to re-sort them, but the best I can come up with are eight letter words which are: Galliots, Tillages, and Tollages. Since no nine letter words can be formed from the provided letters, I abandoned this specific pursuit.
+
+Curiously, for each of the words in the phrase "Kill Them All" >two< letters are missing from each word and are: I L T E A L
+Smiling to myself and thinking this may yet be a further chance to discover some form of anagram, I explored this possibility for fun.
+Click to expand...
+
+From what I can see, it is possible to get the anagram:
+GALILEOST, as in either 'ST' for station, Galileo for name.
+
+John [Panzertard] Stoutbeard said:
+Oh darn! Hmm.
+GALILEO ST?
+ST GALILEO?
+
+1. Station (ST), Galileo in Sol?
+2. System 'Galileo' 1,325.34 LY from Sol. Unable to search the system in EDO. You can search by using the starforge-name 'Oochorrs NW-C b58-36'
+But there is no STation in that system.
+
+Abbreviations for 'TX' (transmission), 'B' for beacon and similar things have been used before in previous mysteries. For example, see notes at the end of the page for Proteus
+
+What does this mean then?
+I don't know.
+Jewel, still refers to Sol (As in the Simguru Pranav Antal speech on galnet)
+Thetis appear stronger in the case being 'the whisperer'. If "Galileo Station" is to be believed to be a back reference to confirm the previous step?
+... now what?
+EDIT:
+3. Also noticed in Wikipedia that "55 Cancri b (abbreviated 55 Cnc b), occasionally designated 55 Cancri Ab (to distinguish it from the star 55 Cancri B), also named Galileo"
+However, this is not present in EDO with those names. HIP 43587 can be found, which is Rho Cancri
+Last edited: Mar 12, 2022
+Reactions:
+Adel and Rochester

@@ -1,0 +1,26 @@
+Jorki Rasalas
+May 19, 2021
+#23,312
+Well, downloaded the EDO update, twice, cos when I'd spent 30 mins downloading at 18;00 (it said "Update" and EDO was listed at the top!) I then got "Install" which I then did- over 2 hours download!
+Logged off the PC and revalidated....
+But still cant connect to the server to make my first footfall!!!
+
+Edit: Aha, this looks promising...
+but alas an edlessly spinning ship icon with some really annoyingly unhelpful tips!!
+
+aAnd...connection error, Taupe Cobra
+
+Annd the network connection's up again
+
+Aand, endlessly rotating ship icon... and network connection gone again...connection error, Taupe Cobra
+Think those servers need some WD40 and maybe an extra couple of cooling fans??
+
+looking at Task Manager my network is 0%, but GPU maxing at 100%. WIll lower resolution!!
+
+dropped from usual 4K down to 1920x1080....GPU at 97+%...connection error Orange Cobra
+well at least its no longer taupe! what sort of colour is taupe??
+REAL spacers love Orange!!
+I'm going to bed!!!
+Last edited: May 21, 2021
+Reactions:
+[PS4] Filthymick420

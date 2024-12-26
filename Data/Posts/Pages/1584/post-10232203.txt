@@ -1,0 +1,47 @@
+El Saico
+Oct 1, 2023
+#31,666
+Edelgard von Rhein said:
+Simulacrae's thoughts above on the Axis Mundi resonate with something from Rochester's recent posts, specifically the line "The axis is the pillar of sacrifice and at the foot of the pillar the "navel of the earth" ". (My emphasis). Together these suggest looking below the lost realms area, following the axis that passes through the Axis Mundi system from Sol.
+
+I guess this means looking for systems that are as close to that axis line as possible (rather than making the journey in supercruise in the Axis Mundi system). This also reminds me of the way the Zurara was found to be surprisingly precisely aligned with the Reorte-Riedquat line.
+
+Right now my mouse is acting up and the replacement is due in a few days, so I am out exploring the edge of Barnard's Loop looking for more Guardians sites but when I have it this will be my priority. (Though I am still not sure how to look, I shall at least look with what wits I have.)
+Well, I just crunched a few numbers here...
+
+The closest system I found to that imaginary line is Col 285 Sector VT-I c9-12, at a mere ~0.218ly off and quite far below in the galactic plane with y=-260.8125.
+
+EDIT: only now I realized that, since this line passes through Sol, it's far easier to go by galactic coordinates...
+
+x y z lon lat
+ICZ LH-V b2-2
+61,59375
+-157,6875
+17,125
+285,5376
+-67,9313
+Synuefe QQ-S b50-0
+99,0625
+-260,8125
+28,09375
+285,8331
+-68,4558
+Axis Mundi
+43,6875
+-114,1875
+12,59375
+286,0806
+-68,2888
+Col 285 Sector VT-I c9-12
+82,6875
+-216,59375
+24,0625
+286,2253
+-68,3173
+
+EDIT: just processed the full EDDB system dump and sorted it by average distance of galactic coordinates, here are the best results:
+
+SPOILER: THE 50 CLOSEST, AS DISTANCE APPROACHES 1
+Last edited: Oct 1, 2023
+Reactions:
+simulacrae, CMDRCorrMorningstarFelian and Edelgard von Rhein

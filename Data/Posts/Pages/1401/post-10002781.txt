@@ -1,0 +1,19 @@
+Jorki Rasalas
+Nov 23, 2022
+#28,010
+cmdr_imonix said:
+Thank you so much for heading out to the system. The circles are a brilliant way of illustrating what's going on.
+
+To note: there is a trinary on the background approximately 180 behind the screen shots. When that trinary is approached, the stars on your screenshot disappear and vice versa. The binary in your screenshots is somewhere on the background behind the B star, the Trinary is somewhere on the background behind the A star. (see all of my short four videos to see both the Binary and Trinary) - the Binary in your screen shots is in the first red circle on the left. Needless to say, I have been looking for a third single background star on the radius exactly between the binary and trinary to be able to triangulate from.
+
+I created the flashing by entering normal space at equidistant between the binary and trinary. This point seems to coincide with the Barycentre of star A and star B of the system. You can see this position on the Orrery in the Galaxy map.
+
+I suspect the difference in your view and my view is where you end up at the Barycentre. For example, I can approach the Binary with the systems star A at my back and fly straight towards star B approaching the binary (first red circle on the left) until it disappears or I can fly away from star A to point X and then head towards the same binary until it disappears. In each example, if I rotate 180 degrees, I will see the trinary (near M32 below Andromeda) and can fly towards that until it disappears.
+
+Thank you so much for updating the Issue Tracker with FDEV.
+Click to expand...
+You can precisely locate a barycentre using the comet hunting method by selecting its bodyid number. Though when you drop out at it you find that it moves away from you faster than your thrusters can catch.
+
+@Macros Black : hi mate. It might be worth putting a description of the two comet hunting methods on the front page of the thread. I can pm you a text if you’d like.
+Reactions:
+Macros Black

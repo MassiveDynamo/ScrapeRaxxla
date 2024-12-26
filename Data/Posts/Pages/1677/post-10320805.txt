@@ -1,0 +1,13 @@
+varonica
+Feb 26, 2024
+#33,530
+Ian Doncaster said:
+Certainly, since only about 5-10% of total activity and maybe 33% of long-range exploration activity is fed to it. The first discoverer/mapper on EDSM often will be the second or third or tenth in-game.
+
+You can also get situations where a system was scanned/mapped on EDSM but the CMDR never made it back to sell so it remains unmapped in game. But that's far rarer, of course.
+
+Still, Emperor's screenshots are I think fairly conclusive for "this system has been surveyed extensively".
+
+Millions of systems where the data is either incomplete or just not existing, just run EDMS with RSE (Red Star Eliminator) anywhere in the galaxy and you won't lack for targets. ED Astro lists 1.8m systems without coordinates and over 17m systems with no main stars listed, and that's just what's actually sent in through EDDN. I've been working my way through them but it may take a few weeks to get that 17m down!
+Reactions:
+Macros Black, LemingIrski and Ian Doncaster

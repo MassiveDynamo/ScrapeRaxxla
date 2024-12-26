@@ -1,0 +1,19 @@
+selbie
+Jun 10, 2024
+#34,190
+CMDR Davanix said:
+Can i just point out Guardian ruins glyphs...notice anything similar from Ian Bells personal website ;-) now i know Ian Bell was only original Elite however why does his mathematics page show the exact glyphs shown on ruin sites.......
+
+Maths
+Maths for (Games) Programmers
+www.iancgbell.clara.net
+Click to expand...
+It's a mathematical pattern known as the Sierpinski triangle, so it makes sense that he would feature it in a guide for programming math.
+Although it's not a direct clue, I have long suspected the Guardian secrets are based around math and programming. For instance the obelisk transmissions are likely encoded radio frequency modem tones transmitting data packets and error correction signals. The sentinels and beacons also appear to transmit some kind of WiFi 802.11 or Bluetooth protocol.
+
+Thargoids were scanning us from the very beginning for a reason.
+
+
+SPOILER: SOMETHING ABOUT EYES AND EARS...
+Reactions:
+AnchorWriter, Jorki Rasalas, Louis Calvert and 1 other person

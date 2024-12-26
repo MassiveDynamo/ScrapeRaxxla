@@ -1,0 +1,9 @@
+Pyroboros
+Feb 3, 2022
+#25,228
+The Id to overflow is the SystemID not the 64bitAddress.
+To get the bits for the Body by adding something to the 64bitAddress you would need to add BodyID* 2^54 (BodyID is always the 9 bit MSBs of 64bitAddress)
+
+To get the SeachString
+Reactions:
+Han_Zen and Adel

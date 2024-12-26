@@ -1,0 +1,50 @@
+Allen Stroud
+Nov 27, 2021
+#24,885
+Rochester said:
+O7 Cmdr Stroud so honoured to have you here on this roll of tin-foolery.
+
+What are your thoughts on how FD have handled the story behind Raxxla. Are there any particular theories which have tickled your fancy, good or bad? And what are your personal ideas on how Raxxla and the Dark Wheel ought to have been implemented in game?
+I can't claim to have more knowledge or experience on these things, but I do have a way I would have (or would look to) implement(ed) The Dark Wheel and Raxxla.
+
+Phase 1
+
+1. Recruit a Dark Wheel group under NDA. I'd probably contact a selection of playtesters that Frontier already used (outside of the general playing audience) and give them a modified game character/account. This modified account would have a very specific (and limited) progress chart that offered advancement only for completing key goals of the The Dark Wheel. Whether that would be anti-Thargoid related activities, or something else, that would depend on establishing these goals in the design team. No more than six people I'd say.
+
+2. Grant the group a carrier-type station (Raxxla). This would look totally different to the existing carriers, but fulfill most of the same functions.
+
+3. Insert the group into an under utilised area of space that is connected to the existing narrative on The Dark Wheel.
+
+During this part of the process, it would be crucial to ensure the 'play' of this element of the NPC faction was very carefully briefed, so the individuals taking part did not break character and were well armed with knowledge of the existing backstory.
+
+Phase 2
+
+1. Implement initial Dark Wheel agenda missions and assets. These would be added under pseudonym factions, but always look to further the DW agenda. These missions would be 'tags', so player characters who completed the missions would be traced.
+
+2. Ramp up Galnet and other disseminated information coverage. This would include false trails. Lots of false trails.
+
+3. Introduce a key anti-TDW pathway. This would come from some organisation keen to find and destroy Raxxla etc. I'd probably use INRA or 'Javelin' Saunders, or both.
+
+Phase 3
+
+1. Recruit. Each DW NPC is tasked to recruit a player character as a 'handover'. The progression base for a DW character would be sufficiently tested by this point. By assuming the role, the player character would end up with a modified account that restricted their progress specifically towards the DW agenda. It would be possible to leave, but this would incur a specific retaliation (semi-permanent bounty, etc).
+
+2. Retire. Each DW NPC would then be phased out. A couple might be used in fairly 'showy' narrative events, but others would just fade. This would make them usable later if needed.
+
+3. Recruit opponents. Once the initial player group was established, I'd then role out the same model with a set of different agenda. Some groups would be anti-TDW others competitive or complimentary etc.
+
+
+Rochester said:
+It’s apparent a lot of love went into the game at the beginning, that’s evident from the work put in from Michael Brookes and yourself, but there does seem to have been a sharp turn of events following the introduction of the Codex, which has a lot of us still confused; mainly because we’re still tipping at the windmills prior to this date.
+
+Thanks. Yes, we were keen to preserve anything that we could. Frankly, I was keen to offer some sort of plausible pathway for any old lore I could find, even the weirder stuff from Frontier First Encounters (Jjagged Bbanner, disappearing wonders, Maenads, Tsionla). If you read some of my EDRPG stories, available for free on their site, you can find possible narratives for all sorts of old lore, writing it into the existing game. https://spidermindgames.net/product-category/edrpg/
+
+Worth making the point that I stopped playing regularly when Wings came in. My love for the game has been intrinsically tied into my experience of it - good and bad. Also, life happens. Opportunities took me in different directions. So, when it comes to efforts made after my time, I'm not as clued into them as I was.
+Rochester said:
+I do agree the path to Raxxla, and essentially this thread, is very likely more interesting than the finished article, but I’d still like to understand how it applies itself within the game, because it seems without any evidence, the majority of our searches are firmly set outside of the game.
+A good point. One of the concerns in the early design was to try to ensure that the game didn't become a playground between two wikis. I think every game with a revelation based story to impart runs a risk of becoming that, particularly if you seek to reward individuality, as happened with the first Thargoid encounter. Amazing moment, most amazing for the first player, and gradually the moment loses its emotional lustre as it is shared more and more on Youtube etc.
+
+As an aside, if you are interested in the perpetuation of an Elite/Frontier mythology beyond the game, then searching for the name "Dentara Rast" online is an incredible experience. I wrote about what happened to the Frontier character in "Live Bait" for EDRPG (you can find the story available for free on their website) and did an article for Parallel Worlds on the use of the name in other games. Turns out, Dentara turned up in Eve Online and was responsible for a pretty major heist!
+Last edited: Nov 29, 2021
+Reactions:
+Jorki Rasalas, Machina Ergo Sum, Rochester and 2 others

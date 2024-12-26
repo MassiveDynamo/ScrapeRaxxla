@@ -1,0 +1,45 @@
+Merlin StWahgwaan
+Dec 21, 2021
+#25,014
+Han_Zen said:
+On day one, there weren't anything like asteroid stations in the game. Also the object files were not encrypted. Players could see all station types in the game, in plain text.
+
+If Raxxla still is the same as it was on day one, it has to be a regular mundane object.
+
+If I were to bet,my money would be on:
+Small planet
+Very long orbit
+Not scannable
+
+These are things that does not require any special objects / models. It's just settings that can be flipped on a standard body. It also means you can put it in any system you like, without real danger of anyone bumping into it.
+
+FD may of course have switched to a more exotic object, at a later stage.
+Click to expand...
+
+I dont disagree with anything you said, infact it still aligns with what I said basically... ( and I love the debate, it helps to refine and disprove my own theories often, lol)
+
+Just take it in like this for a second...
+
+If fdev, day one, had done similar to using the anaconda models for the mega ships, then they also could have used a standard Coriolis station model for example, and a small planet/moon model, and used them together, just stuck the station inside the planet model.
+
+Then no special objects/models needed to exist in the game files at that time. Everything could have been done with standard ones, just used in a custom way that wasn't its own object/model in the files but an overlay of multiple ones.
+
+As I said before, then "We would see what could very well look and act like a planet from outside/a distance, but when you approach, could have had a large doorway on one side ect, that you could infact just fly into like a station, and the "planet" itself, would just be cloaking/artwork...."
+
+This could have been done before astoriod stations were actually ingame, and could even be the basis/idea for them to be added later....
+
+Then everything you said can apply.
+It could look like a small planet/moon, have a very long orbit/be a rogue, and have any custom settings they wanted, including being able to orbit in SC or not, the planet/moon being tidal locked/no rotation, not scannable, no planetary boundary, station running on low power/no detectable signals inside, ect. .... anything they wanted to turn on or off they could, especially if it's a rogue, as we have no idea what mechanics in game can apply to them......
+
+The only thing this would have done in game on day one, would have made this one 'planet station' the only planet in the game, on day one, that did not/would not have a planetary boundary (which would make it abit obvious, and hidden very well).... but in every other aspect, until you actually tried to approach the 'planet', it would appear to be just like some other random planet, so unless you actually were flat out in orbit or attempting to reach the planet/moon, you would have no idea that there is anything different or anything until you randomly didn't hit that invisible boundary or found the door/mailslot/entrance to the station from space....
+
+Now of course, as you said, things could also have been changed/updated as time has progressed, but if this is how it was implemented on day one, there wouldn't need to be much of anything done to update it over time, except the station interior/model being changed/updated ect, and the requirements to actually gain access either to the system its in, or to enter the planet/station itself without being fired upon.....
+
+
+Unless there is some reason fdev couldn't have merged multiple standard models and crated a custom 'planet/moon' with a station inside, that didn't show as its own model, but I have no reason to believe they couldn't do that from day one, especially if it was the only one they had to make out-of-the-gate. They just need to call multiple models to the same location with the same settings and no collision, and they could overlap and move together..... since we've gotten so many other custom things added since, I have to believe it was always available to them to make somthing using the existing models over lapped on eachother, just weather it looked very good would be the question, but with proper alignments and small adjustments, I'm sure someone could have made a more than decent starting 'raxxla' for day one, in this manner....
+
+Add-on;
+We also know stations like Jacques and The Oracle have "moved" in game, which then allows for the game mechanisms to do this with a 'station inside a planet/moon', and have it traverse multiple systems over time, ect, as my main theory still suggests
+Last edited: Dec 21, 2021
+Reactions:
+simulacrae, Han_Zen and Exekrator

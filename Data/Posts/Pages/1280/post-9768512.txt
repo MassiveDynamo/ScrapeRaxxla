@@ -1,0 +1,19 @@
+CMDRCorrMorningstarFelian
+Mar 11, 2022
+#25,595
+Adel said:
+Q1:
+"So perhaps we're just running around in circles, when really all we have to do .. is sit still in right place and wait for Raxxla to come to us."
+=> Nice thought! But Raxxla either would be dependant on celestial body's gravity (so moving) or the system's star/barycenter (moving too). The right position is just impossible to get .
+
+For the hexedit with Zurara's logs, someone found a long time ago that it can lead to a system named Kwati or Kwatis (can't remember which one). At that time, we had some server issues on a planet: clue?
+
+Q3: "Has anyone decrypted / unpacked Elite Dangerous game files and looked for any reference to Raxxla?"
+=> Tried with notepad++ for both Raxxla and TDW, the only result i get are the codex entries.
+
+Facts 2. "It cannot be detected by scanners, so you have to visually find it (like Dark Wheel)."
+=> Pulse Wave Scanner can help us. At original release of this module utility it was said that it can detect "anomalies". Btw, you can see things with the pulse when triggered, even in the black!
+Click to expand...
+You have no idea how close you are -- read my post that I'm adding to the end of the never-ending Raxxla thread.
+Reactions:
+Adel

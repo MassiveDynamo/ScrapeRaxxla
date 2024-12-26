@@ -1,0 +1,14 @@
+Louis Calvert
+Nov 30, 2023
+#32,252
+Han_Zen said:
+Great work with the sound analyses!
+
+We should look for three systems that are as close as possible to being on the same vector. This way we can see if the sound changes, when we jump through a system.
+If systems A, B and C are on a line we jump from system A to system C passing through system B on the way.
+
+Per Codex, Raxxla is a definite place. It should have coordinates. Passing close enough, may trigger something.
+
+Edit: Orerve <-> Diso with Leesti in the middle, aligns quite well. It's not that much flying to make it perfect.
+Click to expand...
+Great idea, I've added that to the list.

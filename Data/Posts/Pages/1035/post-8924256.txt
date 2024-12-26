@@ -1,0 +1,5 @@
+Alexium67
+Jan 28, 2021
+#20,696
+May anyone check that green glow with the external camera with some angles? I remembered old bug with supergiant stars and large star systems when that star showing with dark circle at the center. At the some distance from the star. And also there was the special external camera angle that allow to view the star in fully glow (without the dark circle). Some special box of effect placed around the ship but this box causes that bug. May someone look at the Sun with external camera for example? The Sun should be near the screen edge for it.
+Last edited: Jan 29, 2021

@@ -1,0 +1,28 @@
+John Stoutbeard
+Jan 8, 2023
+#28,811
+Jorki Rasalas said:
+resulting damage to my hands so I can’t forget it.
+lol, same issue here - left index finger, due to using it for "thrust down" HAT switch on the Hotas while cold orbiting. It's been out of action for two weeks now
+Jorki Rasalas said:
+Pilots’ Federation in the Shinrarta Tourist Beacons
+Notice that some events in the journal (when things need to be displayed in the client) offers localisation (transform the output).
+Handing in vouchers doesn't - it just references the ID of the faction.
+
+I think the Beacons themselves are just pulled from a 'bank of stories', incorrect things there need to be updated with the correct localised story. Regular authoring being done.
+Bounties and interacting with a faction requires the ID of the Faction. In some cases, while being displayed on screen the event (journal) supports localisation for other languages.
+In other cases it just records what change happen to which faction without localisation.
+
+Rochester said:
+Support response was that there were no spelling errors it was intentional
+I have two thoughts about this.
+If it was a Beacon, it was from the "story bank", and regular authoring had to be done. Perhaps it is fixed.
+
+As for interacting with PF in Shinrarta Dezhra, we should be able to see this from the logs and the faction ID (not what being displayed on screen, which is the localized thing).
+
+I wonder if we should :
+1. test loss of rep with the SD PF
+2. and then handing in more Tharg bounties while avoid handing them in to SD-PF
+Just to to see if the PF rep (Inbox notification) comes back or not.
+Reactions:
+Rochester and Jorki Rasalas

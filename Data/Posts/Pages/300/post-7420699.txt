@@ -1,0 +1,12 @@
+yelboc
+Feb 14, 2019
+#5,984
+Tools for viewing the sky from earth: I recommend Stellarium - free and beautiful, and has all the catalogues, star names and constellations. For ED, turn off the ground and the daylight and switch on the constellation lines and images..
+
+In principle you could even set the date correct.
+
+The UI is a bit odd - tabs appear at the edges with various control panels.
+
+YB
+Reactions:
+Ton618 666 and Ulaidian

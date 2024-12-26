@@ -1,0 +1,27 @@
+Jorki Rasalas
+Nov 27, 2024
+#35,436
+And dont forget EDSM (though IIRCthat now removes systems if not revisited in 2 years, so IMO much reduced value ), however Spansh (I believe) uses the full database of visited/discovered/explored systems.
+
+Edit
+And I can't see how any such app could help since we don't know what we're looking for, we don't know what it's detection range is for ship's scanners, we don't even know if it will show on ship's scanners at all. We have seen instances of ships hidden in asteroid fields that were not detected until someone dropped out of SC there.....
+
+The report of MB saying the system that contains Raxxla had been visited and honked but Raxxla was not discovered is flawed:
+1) it is uncorroborated, he may have said it or he may not (I personally tend to believe it likely he did, but...)
+2) every time this rumour is repeated there is a lack of critical thinking, assuming Raxxla will be easily detected. It may not! MB said it is very difficult to find, hence it is very likely hidden.
+
+It may be hidden in a planetary asteroid belt, or as a camouflaged ship or other object that is undetectable by scanners; it might have to be detected by Mk1 eyeball, within a kilometre or so, or by some other means (anybody ever investigated gravitational wells?). We know that comets are implemented in-game but do not have visible representations-why? We have seen over the years possible hints to various things in Galnet posts and one has always stuck in my mind, the Antares memorial sculpture
+Galnet News | Elite Dangerous Community Site
+community.elitedangerous.com
+If meta materials can bend light to highlight the sculpture then they could be used to bend it around an object to make it essentially invisible. So FD have told us invisibility cloak technology exists in-game.
+
+I suspect there are Raxxla-related clues hidden in Galnet posts that we have not understood. It might be worth setting up a Galnet analysis scheme to reassess all historic posts? Especially from 2014-2018 (I think that's when MB left ED).
+
+On this basis Raxxla could be anywhere in the galaxy, including anywhere within the human bubble, and could even be in a heavily populated and visited system such as Sol, Lave etc etc etc. OR it could be hidden far away e.g. in Lyra's Song region. We have discussed this many times before. We have to hope that amid all the obfuscation, lore, myth and codex clues we have something that will truly point towards it, and some day we will crack it.
+
+Edit2
+It may seem off-topic, though if @Rochester 's hypothesis about Titans and Raxxla has any merit (Ive always thought Raxxla would be a Guardian relic/survivior/AI/ship/station, the name sounds alien, however it could also be Thargoid by the same
+argument)... watched the livestream last night (at least the ED part which started about 75minutes in). Twas interesting, but it ended with a very broad hint that Thargoid-related news would be released today, and from the tone of Arthur's voice I suspect it won't be good for humanity.
+Last edited: Nov 28, 2024
+Reactions:
+Rochester and Macros Black

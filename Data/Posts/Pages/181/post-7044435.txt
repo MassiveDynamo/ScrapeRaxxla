@@ -1,0 +1,13 @@
+Jorki Rasalas
+Sep 25, 2018
+#3,619
+Scytale said:
+Well...what I meant is "is it a star or is it a planet" ...
+
+Was I not clear? A rogue planet is a planet. My point was that it might form a “dark system”, as per the fiction, and therefore would be a viable jump destination, but that if so it should be distinctly named in the nav panel since current jump destinations are systems named in accordance with the class/energy output (A, B, C, D) of their main star, and of course a rogue planet would have no accompanying star.
+
+But if it is not a jumpable destination in its own right it could be a part of an extant system and might therefore be named/numbered in accordance with that system’s makeup (or it could be named entirely differently). The only distinguishing thing would then be that its orbit might well be highly inclined to the ecliptic since it would not have formed from the spinning dust disc that formed everything else there.
+
+i think there is currently no third alternative, since that would require that we be able to exit witchspace during a jump sequence somewhere other than the original destination, and that doesn’t seem to be possible in this game (unless interdicted by Thargoids, and that usually leaves you at the edge of the source system).
+
+We need to be able to visit a known RL rogue planet to be able to distinguish between these possibilities. Edit: is there a way of sorting through EDSM to see if anyone has found a rogue planet?

@@ -1,0 +1,28 @@
+Jorki Rasalas
+Jun 15, 2020
+#17,454
+Mrrshal said:
+Further investigation yielded following:
+Using this web site http://simbad.u-strasbg.fr/simbad/sim-id?Ident=GJ+263 I found that the LFT 509 has also following identifiers:
+
+SPOILER: TABLE
+
+
+
+The invisible system name was HIP 34104 and searching it on galmap shows empty space, but this table shows that LFT 509 is also known as HIP 34104 and
+Ross 54!
+Cycling trough Ross 54 on galmap correctly points at the end to LFT 509, but HIP 34104 to empty space.
+This web site says that -- High proper-motion Star''
+Gal map says LFT 509 is binary.
+
+My hypothesis is that searching by HIP 34104 the galmap locks on the second star of LFT 509 binary! The System's stars are so far apart, many times longer distance than hutton orbital, that it appears to pointing at empty space.
+
+
+Click to expand...
+
+This may be relevant
+Release - EDDiscovery 18.X is now out! New modules panel upgrade and Engineering
+EDSM now does that calculation but spot-checking a few well-known stars makes me think they might have got the transformation a little bit off (assuming of course that it is meant to be Epoch 2000). They're presumably just transforming the C34th coordinates and getting the Epoch 3300 (since...
+forums.frontier.co.uk
+Reactions:
+[PS4] Filthymick420, Han_Zen and Mrrshal

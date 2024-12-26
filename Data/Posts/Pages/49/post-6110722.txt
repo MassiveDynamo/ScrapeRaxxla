@@ -1,0 +1,14 @@
+[Diplomacy] Carnegie
+Nov 7, 2017
+#961
+Thatchinho said:
+Does sound like a bug. Possibly an effect of searching for a system that isn't in game? I've had all kinds of weird things happen on the Galmap when I've made a mistake in the system name.
+
+Might be worth trying a few variants like changing HD to HE or swapping the numbers and seeing if similar things happen.
+
+HD references usually work - I've visited around 100 Carina systems using a list of HD numbers from Wiki.
+The 'invisible' HD 93359 system is in the right general area - it's in the Carina constellation at the correct approximate distance from Sol.
+
+It's like they put the object at the right location but forgot to define what it is.
+Reactions:
+Scytale

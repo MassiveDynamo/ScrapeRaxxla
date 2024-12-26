@@ -1,0 +1,10 @@
+Jorki Rasalas
+Nov 17, 2019
+#13,354
+Zieman said:
+AFAIK they are not in the game. I suppose they were meant to be (as the canonical fiction uses them), but for some reason they were not implemented.
+
+A rogue planet is one that has been ejected from its parent star system and wanders deep space. In the lore they are called Dark Systems and appear in a couple of the ‘official’ books. ED allows for them in the logfile format specification (page 66 section 12.2 http://hosting.zaonce.net/community/journal/v15/Journal_Manual_v15.pdf), so we should be able to jump to one, but we have to find it in galmap/nav panel first. I speculated ages ago that such a planet would have a galmap designation ending in A0, since the star system numbering scheme goes by the mass of the primary and a rogue planet should be very low mass compared to even the smallest red dwarf. But there are a lot of red dwarves to go through if you’re randomly dipping into galmap!
+Last edited: Nov 17, 2019
+Reactions:
+Vetinari, [PS4] Filthymick420 and Six6VI

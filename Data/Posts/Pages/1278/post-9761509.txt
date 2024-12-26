@@ -1,0 +1,21 @@
+Adel
+A
+Mar 5, 2022
+#25,545
+Jorki Rasalas said:
+I’m intrigued by these invisible comets. Can one type, for example, Halley’s comet, Pareco comet 1 or Pareco comet 2 into the galmap search bar to target select it?
+
+Or do we have to use the 64bit ID?
+
+Is that 64bit ID given in the journal file when we enter a system? Is it the “SystemAddress"? E.g. apparently Shinrarta has "SystemAddress":3932277478106 from https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9748589
+Because the example I saw to calculate it wouldnt work for a named system since it required the XX-X designation in the system name.
+Yes the 64bit ID is the number in "SystemAdress".
+To go to Halley's comet:
+Go to SOL (else it won't work)
+Open Galmap and enter in search bar "Wregoe AC-D d12-22020096" without quotes.
+If it is far, use scanner to target it (concentrated signal sources, at right of unidentified signal sources frequencies)
+IF you have a spuercruise assist, you can go in without having to do a loop of shame.
+
+For Pareco, I'll post after finishing the listing of comets in the system Medusa (28 comets for the moment, heading to the 29th...)
+Reactions:
+John Stoutbeard

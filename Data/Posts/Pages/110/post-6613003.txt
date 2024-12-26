@@ -1,0 +1,64 @@
+Thatchinho
+Apr 10, 2018
+#2,188
+Cmdd_Legendie said:
+Anyone know the type of Hyperdrive during the events of The Dark Wheel book? From what I understand, it was the quirium drive? I may be wrong, it's a bit early for me to dive down into this rabbit hole before my coffee so I'm sure I'm gonna miss a thing or two. As we all are, I'm trying to find Cirag. In the dark wheel novel, they're in one place and suddenly they drop out of hyperspace before the planet.
+
+Although sometime before, they're in ''South City''. It states that it's a section of a Coriolis station. So there's no exact way of locating their previous destination except that there is only one South City in Elite: Dangerous and it's in the system HURUKUNTAK as an outpost, there is only one Coriolis station in that system. (I'm sure that trail has been picked up sometime in the past few years). When Elite: Dangerous was made, I believe even Drew had to change the locations of a few places in a book I believe, since the positioning of the galaxy in the older games wasn't accurate. Nevertheless, i think Cirag is within the systems of the old worlds.
+
+Here's my effort to work out where Cirag should be from a fair way back in the thread:
+
+Thatchinho said:
+Can we narrow down an area of space for where Cirag should be?
+
+Update (see edits below for working).
+
+As a first rough estimate, Cirag should be within say 25-30 ly of Crucis Sector DL-Y d163.
+
+I doubt there's anything to actually find though.
+
+
+
+Edit - 19 ly from Xezoar. Which also isn't in game...
+Edit 2 - No systems within a 4 ly radius of Cirag
+
+Edit 3 - Location of Xezoar in Elite:
+
+Xezaor (146,112), {36,62,110,145,150,200,230,237} within 7.0 LY. Radius 3474 km.
+Multi-Government, Rich Ind. Pop. 4.3 B, Prod. 20640 MCr. HC: 8, TL: 11, Human Colonials.
+The world Xezaor is most well known for its hoopy casinos.
+
+Lave (20,173), {39,46,55,129,147,255} within 7.0 LY. Radius 4116 km.
+Dictatorship, Rich Agri. Pop. 2.5 B, Prod. 7000 MCr. HC: 6, TL: 5, Human Colonials.
+Lave is most famous for its vast rain forests and the Laveian tree grub.
+
+Reorte (19,151), {7,27,72,147,155,165,192,193} within 7.0 LY. Radius 6419 km.
+Dictatorship, Poor Agri. Pop. 3.1 B, Prod. 5208 MCr. HC: 8, TL: 6, Black Fat Felines.
+This planet is mildly fabled for its inhabitants' eccentric love for tourists but plagued by deadly earthquakes.
+
+Riedquat (3,181), {7,55,147,155,255} within 7.0 LY. Radius 6403 km.
+Anarchy, Poor Agri. Pop. 2.0 B, Prod. 1920 MCr. HC: 5, TL: 4, Harmless Rodents.
+This planet is most notable for its fabulous cuisine but beset by occasional civil war.
+
+
+Calculating....
+
+Edit 4 - none of the systems within 7y of Xezoar are in EDSM.
+
+Interpolating co-ordinates...
+
+
+Edit 5 - Ok, interpolating co-ordinates isn't going to work completely as there's changes in relative position between Elite and ED.
+
+However, first try gives:
+
+
+Xezoar co-ordinates: 101.51, 48.75, 81.81
+
+Nearest known system is: Crucis Sector DL-Y d163
+
+
+This is calculated from the positions of Lave and Reorte, but it's definitely not going to be completely right as I've used Riedquat as a test:
+
+Predicted Riedquat co-ordinates: 72.28, 48.75, 69.30
+Actual Riedquat co-ordinates: 68.84, 48.75 69.75

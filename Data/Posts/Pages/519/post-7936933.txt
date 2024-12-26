@@ -1,0 +1,14 @@
+Han_Zen
+Aug 8, 2019
+#10,374
+PeteACarter said:
+Are you a government agent? I just get
+Forbidden
+You don't have permission to access /coordinate_calculator on this server.
+
+https://en.wikipedia.org/wiki/Galactic_coordinate_system Yes. I found this. This was the link that convinced me my math skills were not capable of doing the conversion. Unless we are talking set theory/multi bag theory, I'm a bit useless with maths
+
+You dont have to calculate much. The easy way is to find a known system with the correct equatorial coordinates(RA, DEC). Then you enter them in Excel. One line with 0,0,0 for Sol and one for your chosen system. Then you mark all six cells and drag down as far as you want coordinates.
+Not 100% accurate, but it's close enough to keep the line, in the galaxy map.
+Reactions:
+PeteACarter and Scytale

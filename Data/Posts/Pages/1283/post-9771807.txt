@@ -1,0 +1,11 @@
+Koben
+Mar 12, 2022
+#25,648
+Jorki Rasalas said:
+Mmm, bug or hint???
+Frontier also fixed this with the new UI! Now only shows the system name where the module is located!
+(Used a MacMini to load the Elite Dangerous non-Horizons game)
+
+
+Edit: a positive fix is now I can see the station name in the "current location box" whilst flying in SC once closer to 1000km from any station... this approach is the very same method I use to drop in the Asteroid Cluster in Sol.
+Last edited: Mar 12, 2022

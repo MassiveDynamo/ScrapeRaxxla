@@ -1,0 +1,8 @@
+Jorki Rasalas
+Mar 18, 2021
+#22,126
+clavain said:
+Yeah I used to have the Nvidia equivalent of that setup (it may even still be, I should check). Had the same issue with remembering to turn it off at the right time so it doesnt overwrite though.
+I used to use Nvidia ShadowPlay. It was good software which turned into unreliable bloatware. Every update stopped it saving video & usually took me a day or so to resolve. In the end I ditched it and after trying a couple of different apps I settled on the Windows Gamebar. Already in Windows10 and pretty reliable. The only thing I’d complain about is that there seems to be limited choice over the key combinations to control it .
+Reactions:
+simulacrae and SergMx

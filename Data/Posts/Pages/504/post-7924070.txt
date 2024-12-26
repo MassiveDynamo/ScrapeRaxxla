@@ -1,0 +1,10 @@
+PeteACarter
+P
+Jul 31, 2019
+#10,079
+Scytale said:
+AWS = Amazon Web Services ?
+Yeah. And EC2 = Elastic Compute Cloud. Basically a bunch of virtual machines sat on Amazon's modified Xen hypervisor. You only pay for them when you are using them under some payment models. They could have an auto scaling group, configured to allow 0 or more servers, sitting there idle, ready to host a new galaxy, until such time as we find it. At that point, the ASG scales up, we get a new galaxy and FDs operational costs increase!
+Last edited: Jul 31, 2019
+Reactions:
+[PS4] Filthymick420 and Scytale

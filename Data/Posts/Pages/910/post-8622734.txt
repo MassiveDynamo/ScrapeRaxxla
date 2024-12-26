@@ -1,0 +1,30 @@
+John Stoutbeard
+Jul 30, 2020
+#18,192
+Crimson Echo said:
+The existence of systems like HIP 13044 (and the one of the PSR clusters way below the galaxy) makes that 'dark' system near lft 509 even more interesting. There seems to be a limit of ~3000LY above or below the galactic plane where systems behave like the psr cluster or HIP 13044. (some seemingly manually added stars are an exception to this. Some of the Swift catalog if memory serves are some of the exceptions.) This could mean a bridge might be able to exist, and just not be displayed or searchable. However a vector or heading pointing at the start of the bridge would be needed.
+
+From DW's lore streams it seem that how to hide things etc was discussed at length among MB and DW etc. I suspect some parallels between MB mysteries and DW's Formadine rift mystery. In DW's work the two key words were Heart and Soul. In MB's work i suspect they are 'Dull and Quiet'. These two words both appear in legacy rather out off place only a paragraph before the only out of the only mention or raxxla in all of Legacy.
+
+I suspect these are references to 2 systems with hidden system descriptions that only show after visiting the systems: LP 413-18 and LTT 11159.
+The system descriptions read like someone was trying to force these two words in the system decription of otherwise empty, uninhabited systems. Other systems have dull and quiet in there descriptions, but as far as i am aware these are the only 2 that are hidden until visited that are near each other.
+
+The audio team working on Elite has proven to be world class. I suspect they are more than capable of hiding things in the audio in many very clever ways beyond what we know of so far. Has any one dumped audio from the game into a oscilloscope in xy mode?
+Click to expand...
+
+Ah those two interesting candidates, yes. Allow me to bring some of the info from the discussions over at Canonn #raxxla_research.
+FDev still have left two systems a bit down there (bug reported several times according to some sources, no action taken to correct these by FDev).
+Been like this since launch:
+1. with 0 population
+2. having an economy or allegiance (Federation).
+3. leaving them with galaxy map descriptions (since 2014).
+LP 413-18 and LTT 11159
+
+Source: https://i.imgur.com/XNgqnKJ.png
+
+
+One of them produces normal 'Degraded Emission Signal' USS only (what to expect), the other one however produced High Grade Emission signals (back in May/june). Which is unusual as I've not seen this in any unpopulated systems ever. However this may be just a sideffect from the USS generator using the system-metadata to spawn USS.
+
+These are the day to day mysteries we can still investigate, there's plenty of small digressions left to look at.
+Reactions:
+Fiera, GURU-951, Jermainwelch and 3 others

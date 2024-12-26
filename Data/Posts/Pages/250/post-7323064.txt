@@ -1,0 +1,13 @@
+ironshirt
+I
+Jan 7, 2019
+#4,984
+For those of you who haven't already noticed - The Dark Wheel faction indeed expanded to LFT 926.
+They now appear on the mission boards there.
+The ground bases however show The Pilots Federation Local Branch as the controlling faction (2 of the 3 bases).
+I guess this might be a bug and due to the changes FDEV once made to Jameson Memorial in Shinrarta D, which was controlled by TDW for a long time, but now has TPFLB as controlling faction.
+
+While TDW is currently in war, for the first time ever (as far as I remember) this is a really good oportunity to test, if getting hostile to them (for at least some weeks) leads to something.
+In my opinion, getting hostile to them has always been much more difficult than getting allied. And I think most, if not all of CMDRs have never tried it?
+Reactions:
+Jaiotu and Hanerib

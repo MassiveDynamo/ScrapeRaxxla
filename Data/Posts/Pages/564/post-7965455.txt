@@ -1,0 +1,22 @@
+Noobilite
+Aug 25, 2019
+#11,280
+More exact coordinate:
+
+Maia - Chi Orionis center line: -38 / -75/ -185
+S171 34: -2,426.84375 / 295.03125 / -1,323.625
+
+approx 890ly from center line directly towards S171 34:
+2389/370/1139=SR(7141542)=2672ly-890=1782ly...
+123^2+796^2+380^2=SR(793145)=890.... 8\
+
+Wrong maths^:
+
+-38+-796=-834; -75+123=48; -185+-380=-565
+
+So: -834 / 48 / -565
+
+Could have made mistakes though. But this may be generally the location.
+Last edited: Aug 25, 2019
+Reactions:
+simulacrae

@@ -1,0 +1,15 @@
+Adel
+A
+Mar 6, 2022
+#25,553
+Jorki Rasalas said:
+Mmm, thanks but I’m no programmer!
+What I dont understand is how to go from the body you’re trying to select, in this case “Halley’s Comet” , to “Wregoe AC-D d12-22020096”, and how you calculate this string for any other body of interest.
+Why can’t you just type into the search bar “Halley’s Comet” or the body ID (10477373803 for Sol+21 for Halley’s Comet=10477373824, https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9726705).
+Apparently you can enter ”Halley’s Comet”, but I don’t know if it is then targeted if you enter the system https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9590496).
+
+Mind I’ve not yet tried any of this ingame!
+
+Edit: mmm, looking at , the bodyID is the most significant 9 bits of the ID64, not the least significant as I’d assumed.
+Click to expand...
+I'm not pro programmer, i just use the spreadsheet to list potential interesting systems (bodies & non-bodies though i still don't understant the last one).

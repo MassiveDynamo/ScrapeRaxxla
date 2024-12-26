@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Apr 6, 2021
+#22,712
+Heads up folks: I haven't posted again only because I realized calculations for 3D coordinate grids are much more complicated to calculate with than standard 2D planes. That being said, I determined where things went awry and am adjusting my numbers. Also, figured out a way last night should allow me use several tools that will make the whole thing easier. Hopefully, will have some idea where we are once I have valid calculations.
+Attachments
+bc83a39192c5af8280b431f98c6e033f--awesome-quotes-inspiring-quotes.jpg
+21.6 KB · Views: 82
+9f42d43ab2709cc2ab1ff9c346ef90e2.jpg
+184.1 KB · Views: 83
+Reactions:
+Vetinari

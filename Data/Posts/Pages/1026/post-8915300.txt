@@ -1,0 +1,11 @@
+Jorki Rasalas
+Jan 22, 2021
+#20,513
+electro said:
+I sadly think there is a bug in orrey map with the location of the player spaceship. I have seen this a lot of starsystem and I have reported that bug.
+webapp
+issues.frontierstore.net
+
+Just added support to your bug report on the orrery view apparent ship positional jumping
+Reactions:
+[PS4] Filthymick420

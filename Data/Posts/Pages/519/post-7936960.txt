@@ -1,0 +1,10 @@
+Scytale
+Banned
+S
+Aug 8, 2019
+#10,376
+Han_Zen said:
+You dont have to calculate much. The easy way is to find a known system with the correct equatorial coordinates(RA, DEC)..snip..
+Would that be kind of like having a known vector (with the corresponding right RA and Dec) and then multiplicating it by small steps until meeting a system close to it ?
+Reactions:
+PeteACarter

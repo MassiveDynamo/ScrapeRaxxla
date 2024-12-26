@@ -1,0 +1,45 @@
+selbie
+Sep 15, 2024
+#34,819
+Ian Doncaster said:
+SPOILER: SCREENSHOT
+
+Well, 4 Cassiopiae was nearby, so I gave it a go - I think this is a pretty good match for the Codex picture in terms of relative scales (I left my Orbis at home so had to substitute a Krait). You can see the gas giant whose 8th moon I'm orbiting would be a bit out of shot on the Codex crop. Playing with colour balances and brightness curves can match the actual picture even more closely.
+
+This is at about 1500Ls from the red giant, and I think it would be possible to get away with being further out - maybe out to 4000Ls or so depending on the exact size of the giant star.
+So I've been playing around with the DW codex image and have stumbled on a potential way to narrow the candidate stars (ever so slightly!), perhaps even rule out the 8th 'h' moon search entirely. The trick might be in the 'bokkeh effect' lens artefact texture present in the game's camera.
+This effect only seems to appear within a certain close distance from a star depending on its size, magnitude etc. Notice in your sample screenshot above the effect is not visible. An extreme example here is at Epilon Circini - a K type Orange Giant. The drop distance is around 111Ls from the star and it was impossible to get the bokkeh effect to show. Notice also the fine-grain texture of the star's surface which reinforces that the DW image star is small.
+
+
+
+These dots are where I started from.
+
+Those fuzzy blobs are potentially part of the lens artefact texture, which gives us a frame of reference for how the image was captured.
+Here is a sharpened adjusted image for clarity.
+
+
+The other aspect to the lens effect is that it can be more or less intense depending on your zoom level.
+As an example below, I am at SWOILZ JM-G B3-11 B - an M class Red Dwarf. The camera exposure dips in the 3.0x range as I get to 3.9x zoom, making the lens effect weaker. This could indicate whether the codex image was taken at a high zoom, or at a lower zoom to maintain the 'brighter' silhouette effect.
+
+
+
+It took me a while to find the artefact, but I eventually found it and realised the DW codex image doesn't have to be a 1:1 original screenshot.
+The codex image is possibly rotated and cropped - likely to help disguise any stars that a Mensa-level genius can triangulate from. As you can see below, background stars are clearly visible through the glare of the star.
+
+
+
+Now that I have the anchor point I can easily align the DW image and determine what the original screenshot image may have looked like.
+Circle = approx DW star diameter.
+
+
+With the original red image overlaid.
+
+There are 1 or 2 other lens artefacts that come close to this pair of dots, but this pair seemed to fit the closest. Others are more to the side of the screen which can lead to warping of the star's shape - and as the star in the codex image appears fairly circular, it would have to be near the centre of the screen to match correctly.
+I attempted to check if blurred background stars could be another option, but it would mean finding the perfect pair of red-shifted stars.
+
+The fact that the lens artefacts are a fixed static texture on our screens means that with some careful data gathering you could possibly narrow down the star size and what systems have moons at such a close orbit. In this case small red dwarfs or young T Tauri stars where the lens effect appears at a distance that allows for a moon to fit somewhere in orbit. If that's even possible.
+
+From a lore perspective, it would make sense that this dark station is jammed up against a star to provide maximum concealment. This would therefore mean the star it is orbiting cannot be the primary navigation star.
+Last edited: Sep 15, 2024
+Reactions:
+The Phat Waffle, Han_Zen, Louis Calvert and 5 others

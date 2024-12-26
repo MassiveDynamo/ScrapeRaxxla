@@ -1,0 +1,12 @@
+Merlin StWahgwaan
+Feb 23, 2022
+#25,442
+Well there was at some point a removal of duplicate named systems that was causing bugs when targeted.
+
+It's likely this system was included in that.
+
+Even if the names weren't identical, the fact it was very similar and bugged might have gotten it included in that duplicate system removal...
+
+Otherwise yea, idk... I doubt it was removed on its own tho, likely with other systems, or possibly just renamed to not search with the old name... so it could be in a generalized patch note about system names corrected, or duplicates being fixed/removed.... who knows...
+Reactions:
+Adel

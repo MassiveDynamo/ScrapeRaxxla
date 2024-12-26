@@ -1,0 +1,10 @@
+Emperor
+Apr 15, 2024
+#33,882
+Jorki Rasalas said:
+"Raxxla" is an unusual word. Does the X imply a wild character? It certainly sounds alien....
+
+I'm no mathematician nor Cryptographer, but over the years I've made a few attempts at putting "Raxxla" through the cypher toolbox ( https://www.hanginghyena.com/solvers_a/substitution-cipher-workbench), and once again last week. The latest reason being I revisited the Tourist Beacon in Gateway (as part of @Rochester 's Paradise Lost theory) where it explicitly says the system used to be named OLITQU (another very strange name, and 6 letters just like Raxxla) and was used as a staging post in Fed war against Alioth...I've previously posted that the DW unused station might be a forgotten military base leftover from a war. As keys I attempted "Princess", "Astrophel", "Princess Astrophel", "PASS", "PAATSS", "HOPE" (planet 1, and 'Shinrarta Dehzra' derivation from 'in life she saw hope'), and with various Caesar rotations. But nothing decyphered "Olitqu" into "Raxxla" or anything else that provided illumination.
+OLITQU was imported from FFE I believe...so probably procedurally generated I would imagine
+Reactions:
+Jorki Rasalas

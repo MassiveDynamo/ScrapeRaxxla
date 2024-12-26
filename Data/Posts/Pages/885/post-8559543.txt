@@ -1,0 +1,33 @@
+John Stoutbeard
+Jun 27, 2020
+#17,694
+I still suspect we have sevral game-loops and ways to progress this mystery and others. I'm trying to work as many of them as we can (TDW expansion and the other reputation and other activities).
+
+I've been pondering a bit about the "Sol Starways" which I can't seem to find as a true proper faction.
+Perhaps it's a bit like some of the 'hidden factions' (in quotes, because we can find them, they are just as apparent as the regular factions).
+
+Context:
+The NPC event where they talk about "Sol Starways" always happens at installations, mostly Scientific installations though. The NPC always immediately jump out. Without looking really hard at it, I think I see the majority of these events at Installations near Sol 50-100 LY bubble at least.
+You can follow these NPC as much as your heart desires, but it never takes you directly anywhere. And by chance it may always swing by some of the 'mythological' names systems or other 'high profile places'. Just due to the number of mythological names and places there is no way to escape this pattern. No other obvious pattern emerges for me.
+(Note: Some folks may react when such NPC fly by Fibbonachi Lab or some similar high profile named settlements, but there's just too many of these high profile myth to get a point in the right direction.)
+
+This is what got me thinking a bit more:
+What if these event are meant to teach us to take note of these installation types and find the 'right one' or right ones?
+Whats the next stage when we find the installation?
+Hacking perhaps?
+Granting Permission to systems perhaps?
+
+What if the installation is one of the kind that controls Pilot Federation access or some other kind of noteworthy installation to trigger progression through events?
+
+
+Picture: Just a sample really, I know we've tried things at these installations previously. I'm now thinking in the lines of "first we need to allow the NPC Events to start, and then fly to the correct installation and do stuff".
+
+Last observation:
+From my older post it seems FDev have 'fixed a problem' we didn't know was a problem.
+Old problem was that the "Sol Starway" event went away after the NPC jumped to the next system, "NPC pilot started chatting in line with generic system state", No-more-war and such.
+Now I've seen they stay with the Sol Starways chat-lines as they jump again. (Not if you scan them though, they will see this as an act of Piracy and run).
+
+(PS, all my ships have the name Tinfoil so you have to excuse my rambling).
+Last edited: Jun 27, 2020
+Reactions:
+PeteACarter, [PS4] Filthymick420 and Jorki Rasalas

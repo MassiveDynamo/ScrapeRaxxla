@@ -1,0 +1,26 @@
+Jorki Rasalas
+Apr 5, 2023
+#29,762
+Rochester said:
+All bodies in game, unless tidally locked rotate and orbit in real time, for these stations to point someplace the antenna surely would need to move / rotate in alignment, unless they communicate with an orbital structure.
+
+Have you attempted a time lapse?
+
+FD (ironically) like to attest to real world principles, a future technology for pointing somewhere in space, would not logically reside on a planetary body, but in space.
+
+Surely it’s best to pop a tracking system in deep space. On that logic alone, I think this theory is too reliant on foil…
+
+Lovely side note about foil, during the 20th century lunar missions, the lander had to be so light they left physical gaps within its structure, so in some areas the crew were only protected by a few mm of gold foil,.. amazing and crazy,
+
+Space is large and scary
+
+
+Around 36:36 there is a view of the bodies in Sol moving in time lapse. Fascinating considering that we don’t see all this content in game (that map is from pre-Alpha but looks awfully full of extra solar bodies!)…
+Click to expand...
+15 bodies if my eyes arent deceived. 10 planets + Luna & a few other moons....
+Wish he was still around, I’d like to ask him about the in-game depictions of the TT, L, Y & T stars as I dont think they're realistic. Too purple, should be dull red to black!
+Edit: stars as approximate black body radiators
+Blackbody Radiation
+Anything cooler than ~4000K should be red, then cherry red, ruby red & black (actually in the infrared hence black to the human eye) not purple!!
+Was this something decided in the early Design Decision Forum on “cosmetic” grounds??
+Last edited: Apr 5, 2023

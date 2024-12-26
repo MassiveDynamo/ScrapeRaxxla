@@ -1,0 +1,14 @@
+[Diplomacy] Carnegie
+May 31, 2019
+#8,468
+AzoreanOutkast said:
+Well, like i just answered to another post here, the 1st time this happened to me was during the time we had that awfull bug with the FSS going sideways and didnt let u scan the systems, and that was how i ended up finding that this happened, cause i from that event onwards everytime i see a sun or planet that distant i tend to fly there to check if there isnt anything else, on some i end up finding new things, in others i get bumped cause there is nothing there...
+
+As the percentage goes, that i recall it readjusted, but i cant say with 100% certainty since i wasnt really paying attention to those finner details.
+
+I need to go to my pc log in and check what is in the history of what i did so far, but last trip i did and found this events, was to the left of the bubble, went 10k out before coming back in always on economical planning and i didnt saw that many, so far i got 7 situations like this that i found.
+But i have found alot of systems where the system was discovered already by someone, and mapped and still i use the FSS and find new stuff, reason may just be that those systems were visited before the FSS was introduced? So older discoveries and somehow something failed when they switched over but i cant tell ive been playing since January so i only know the FSS and nothing else.
+Click to expand...
+
+How stable/fast is your network connection?
+With the ADS and my shonky download speed I'd occasionally get incomplete responses from the initial honk. A second honk would show up additional bodies that the first didn't. I knew when it occurred because it took an unusually long time to return the results from the initial honk.

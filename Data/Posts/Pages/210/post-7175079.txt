@@ -1,0 +1,16 @@
+Jorki Rasalas
+Nov 14, 2018
+#4,192
+Malicron said:
+The Coriolis numbers were indeed accurate. As a result, she's shaping up to be an AspX killer.
+
+Might be a good exploration ship after all, if FD uprade the fuel tank, three hops is too low.
+
+Jorki Rasalas said:
+Yes, it would fit that part of the riddle, assuming the riddle was a clue to Raxxla. But you can’t SC from one system to another, the fsd jump is needed for instantiation. If you SC from one system to another there would be nothing there when you arrive, people have done it.
+
+So an exotic star must be in a system with a normal main sequence star (or BH or NS) to allow the game to instantiate the bodies, but if an exotic star is not detectable by radiation then it would be invisible, so I’m guessing hidden in a USS? Can’t see any other way it could be coded.
+
+edit: we’ve already discussed Rogue Planet instantiation, a system might conceivably have only a single rogue planet that would be “wandering” the galaxy, but would not in practice move in RL timescales. It would be a low mass “A” type system, and I suspect might only be visible to ship sensors on the nav panel within a very few ly. I guess an exotic star could be invisible but have planets orbiting since it would still have a gravitational field.
+
+In afterthought, as pilots how would we be able to tell an exotic star from a Black Hole? Surely the visible effects would be identical

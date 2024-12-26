@@ -1,0 +1,21 @@
+Adel
+A
+Mar 13, 2022
+#25,651
+Pyroboros said:
+Here you go. managed to find a workaround
+
+Search like usually but make a bookmark target something else select bookmark than u can set as target without killing the game.
+
+{ "timestamp":"2022-03-12T22:44:04Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "Body":"Shinrarta Dezhra AB 3 Comet 1", "BodyID":68, "BodyType":"SmallBody" }
+
+To bad just another nomet
+Click to expand...
+Noooooooo ^^
+And did you try ID70?
+Now we know ID68 is a comet, if there is something else at SD it can only be a station now, so ID70.
+If not, searching anything at SD will be a waste of time.
+
+@Jorki Rasalas I said that it could be either a comet (now proved by Cmdr Pyroboros) OR if it was a station it will be definitly between primary star and Founder's World.
+Reactions:
+Jorki Rasalas

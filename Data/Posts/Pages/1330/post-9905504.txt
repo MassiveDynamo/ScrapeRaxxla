@@ -1,0 +1,19 @@
+Jorki Rasalas
+Aug 6, 2022
+#26,600
+Well, I got fed up waiting for an Adder to turn up with Trinkets in Plendovii, so have visited Zearla...why?
+Well:
+1) according to the lore ( Elite2 gazeteer but is also in Alen Stroud’s PhD thesis for ED) in “3163 Naomi Jameson, Peter’s daughter the explorer, crashed into a planet in the Zearla system while chasing a comet and bankrupted the family in the process.” This seems to be a rare mention of a comet in the lore....
+2) From EDSM Zearla was first visited in Dec 2014 so might fit MB’s alleged “system honked but Raxxla not discovered”
+3) Zearla might fit “Raxxla” if rearranged and XX are character substitutions for ZE.
+4) Tourist Beacons 217, 218, 219, 668 mention Wreaken Mining wrt Zearla, and Wreaken seem to be up to no good...
+5) The city of Jeffries on Fraser houses the head office of Wreaken Construction and Mining (http://www.dream-ware.co.uk/frontier/books/gazetteer/).
+6) I think comets are the most likely means that FD would have for hiding Raxxla
+
+Using Pyroboros’ spreadsheet Ive found Zearla comets 1 through 5. Again, none of them are labelled as such in the nav panel when I drop out at them. I’ve hovered 0m away from each and honked several times but the omphalos has not activated.
+
+Hands are hurting...
+
+@Pyroboros @Adel : I was under the impression from previous posts that comets appear in the logfile when you signal scan the whole system or download the nav beacon, but that didnt happen for me. From this search comets only seem to be identified and inserted into the logfile as such when I drop out of SC at them, is that correct?
+Reactions:
+Crimson Echo and Rochester

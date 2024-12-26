@@ -1,0 +1,37 @@
+CMDR Zulu
+Nov 26, 2020
+#19,826
+John [Panzertard] Stoutbeard said:
+Regardless how you want to use that information, the statement "the system has been visited" being true or false, where does it take you?
+I'm not trying to be antagonistic here, just rather practical.
+
+Problem 1: "System has been visited. When was it? 2015? 2016?". We can't tell if a system was discovered in 2015 vs 2020 if it's not registered in EDSM at the same time.
+Problem 2: Do we have a record of it as well? EDSM may not have the record, only 10-20% contribute to EDSM perhaps (I'm guessing, trying to make a point).
+Now you have it in EDSM and on record. Now what?
+
+1. Is it (one of the) permit locked (quite likely) one?
+2. Search all non-permit locked. For what? Where? For a rogue planet? For Com-beacons? For any other clues?
+Are we really sure it's there, visible for all to see, in full view?
+
+No, I don't think this gets us anywhere.
+We still need to correlate the other information we have and put together some of the pieces of information and at least get a general direction.
+Perhaps then, at a later the information be useful. Or perhaps in retrospect.
+
+I don't see how it's useful at this stage. It being this dubious I would put it at the very lowest tier of information I would use some time in the future.
+
+Furthermore, on the topic of rogue planet I'm just using a couple of images from DB & MB statements from 2014. Whether this still hold any truth at all anymore (2020) is hard to say.
+I hope you can see them even if they are coming from the Canonn discord:
+
+
+Click to expand...
+@Jorki I’ve spent the better part of 2 hours trying to get into the old Design Discussion Archives with no luck, all links I found are dead, I’m going off my recollection of that DDF topic and another forum user who remembered it similarly. But I came across an old post on this thread where a user quoted David Braben and Michael Brookes regarding Dark Systems and Rogue Planets see quoted post. Braben states Dark Systems will not show-up until someone locates it (so how do you locate one if it doesn’t display on the map?), scans it, and sells the data. Michael Brookes stated “Not all planets have stars” here on the forums. We also have the Star Classification of “Rogue Planet” in game files. I believe Rogue Planet is in the codex too as a discovery but that’s just off my flawed memory. I also read that a user made a big report on Rogue Planets and got a response stating that they would not comment on things not discovered by players.
+
+I wish I could provide more substantial evidence but given what we have access to currently I’d still go out on a limb and say that Galmap is missing these things purposefully and will not lead you to a dark system or Rogue Planet. Perhaps that reason is because we haven’t gotten close enough to one of these things and used our Nav panel to travel to them.
+
+It does sound very tedious I admit but if some of us just take the time to check our Nav Panel more often then who knows? Maybe we could get lucky and locate one of these things.
+
+The bubble may be easiest to experiment in because the further out you go the more uniform the system names become thus making it even harder to distinguish between actual systems or Rogues, etc.
+
+I didn’t expect to cause such commotion with this idea so I apologize for any ruffled feathers, that wasn’t my intention.
+Reactions:
+[PS4] Filthymick420, CMDR Deano The Imperial, Han_Zen and 3 others

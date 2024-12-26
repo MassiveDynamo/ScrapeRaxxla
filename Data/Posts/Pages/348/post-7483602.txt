@@ -1,0 +1,26 @@
+Six6VI
+Mar 22, 2019
+#6,955
+Garand1987 said:
+Apparently on the FDEV stream when asked about Raxxla the reply was “well you’re looking in an asteroid belt, so you’re looking in the right place”. Whether that means Raxxla is in a belt or clues to its location lie in one idk. But would make sense that they would remain hidden in those as nobody really ever bothers to go into asteroid belts.
+
+But, are we talking about a continuous "belt" of asteroids encircling the full 360 degree perimeter of any given celestial object's gravitational influence or, a "field" of objects that have been trapped within the gravitational influence of ANY TWO celestial objects?
+
+Under the 2006 IAU definition that saw Pluto demoted from it's "planet" status, being:
+
+Quote: "(1) (c) has cleared the neighbourhood around its orbit."
+
+Jupiter does not qualify as a planet either, due to the existence of MASSIVE fields of "Trojan" objects found at the L4 and L5 points of his orbit, relative to Sol...
+
+
+
+We've seen FDev's tactic of hiding things beyond the 1000Ls sensor range when flying between remote star systems but do we know if they're applying real world dynamics within local systems?
+
+I went and checked the Jovian L4 for the "Greek Camp" and found nothing, nothing at all, when there really should be a GIGANTIC field of debris that SHOULD (FDev - pay attention please) be registering in the new Codex...
+
+The fact they've now added "Lagrangian Clouds" is great, but why do they seem to be tens of thousands of Ly from Sol when there really should be such anomalies in every single system containing two or more bodies, due to the gravitational effects that should be supporting their formation?
+
+Either way, these might be specific points worth checking in any system considered a worthy candidate for the low powered TDW toroid that's trying to avoid detection since this gravity assist phenomena is well known by the folks at NASA for reducing fuel consumption while maintaining a stable position, as utilised by the James Webb telescope. (And others - note the hexagon graphics on this page... Never A Straight Answer - Why did they do this?)
+
+Yes, hexagons are important, but not in the way we might be thinking in terms of the Raxxla mystery. Legrange points are places, where they occur is very specific and will not have changed since gamma so perhaps we should include the phenomena in any given search pattern, just in case FD / DB and the Stella Forge engine are astronomically accurate?
+Last edited: Mar 22, 2019

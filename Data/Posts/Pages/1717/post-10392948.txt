@@ -1,0 +1,27 @@
+selbie
+Jun 26, 2024
+#34,331
+While searching I did stumble upon this web archive:
+This amazing person has scanned all of the magazine editions - it was originally titled BBC Micro User, then changed to The Micro User, then Acorn Computing.
+I have looked at a few (note: the site will probably throw up insecure download flags but nothing bad has happened so far )
+Nothing stands out to me from the 1990 editions but there are some other shiny nuggets.
+
+In this 1987 edition Braben talks about his work on Elite - page 16
+
+
+Synopsis quote:
+...Since finishing Zarch, a revolutionary and thoroughly unique Archiemedes game for Superior Software, he is now working on a follow-up to Elite
+Braben:
+I had been working on various 3D landscape algorithms on the (old) BBC Micro for the Elite sequel, each being either too slow, or not looking good. I realised what could be done on the ARM with these routines, so I wrote Lander.
+
+In the 1987 edition Volume 8 No 3, page 34 there is a section on player tips - talking about anti-xeno strategies against Thargs
+When entering Witch Space, accelerate to maximum speed and take on the mother ship at 2 o'clock high. Accurate fire should destroy it quickly. Let the shields absorb incoming fire more than one would normally allow. The naval energy unit really performs better than one would expect.
+
+If anyone has time to dredge through the entire catalogue there might be some other tidbits about Elite. Like Morningstar says, around 1993 would be roughly when Frontier gets media attention. It might also help rule out the validity of this anonymous wiki quote.
+
+Edit: There is a lift-out Elite guide in the January 1986 edition Vol 3 No 11 on page 95 but for some reason it seems to be missing from this scan.
+
+Edit 2: Nevermind! Someone had a copy and posted it on the forums here
+Last edited: Jun 26, 2024
+Reactions:
+Nowski, CMDRCorrMorningstarFelian, Han_Zen and 1 other person

@@ -1,0 +1,10 @@
+Crimson Echo
+Mar 6, 2021
+#21,638
+This is probably just a weird bug, but It seems pseudo misjumps might be possible.(outside of hyperdictions) On jumping to UBV 8670 I got dropped at the wrong star. Have not been able to replicate it despite multiple attempts.
+SPOILER
+Attachments
+Screenshot_1280.jpeg
+187.6 KB · Views: 359
+Reactions:
+simulacrae, Djidjel, Macros Black and 1 other person

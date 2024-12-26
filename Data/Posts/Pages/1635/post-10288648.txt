@@ -1,0 +1,39 @@
+Emperor
+Dec 22, 2023
+#32,696
+Enzix said:
+From the game you can't tell if its a player or non-player faction, only on Inara or maybe from journal files.
+
+I'd have to check the latter when I login with my alt account (main is 20kly out)
+
+Edit: there is this post and they are not on the list
+
+Registered groups
+Click to expand...
+{ "Name":"The Link", "FactionState":"None", "Government":"Theocracy", "Influence":0.225451, "Allegiance":"Independent", "Happiness":"$Faction_HappinessBand2;", "Happiness_Localised":"Happy", "MyReputation":0.000000 }
+
+Yeah nothing I can see in the journal file for player faction...
+
+Update 15, the Upcoming Feature Rework and More - Elite Dangerous
+Greetings Commanders, We trust that you have been enjoying Update 14 and all the action the Thargoid War is bringing to the bubble. Amidst everyth...
+www.elitedangerous.com
+
+"23 MARCH 2023
+Greetings Commanders,
+
+We trust that you have been enjoying Update 14 and all the action the Thargoid War is bringing to the bubble. Amidst everything going on, we are taking a moment to update you on our upcoming plans.
+
+.....
+
+Player Made Factions: Applications Closing
+
+Player Made Factions have played a key role in expressing your will over the shape of the bubble. This goal is at the heart of our plans for Elite and reflected in the Thargoid War. Our focus is now turning to investigate how upcoming systems will allow every player and player group to have a meaningful impact on the galaxy’s landscape. This means we will be closing applications for PMFs, however we will process any remaining applications."
+
+Didn't realise PMF registrations stayed open that long... memory plays tricks!
+
+And I guess the replacement was never announced.... it was rumoured to be base building at one point....
+
+Source: https://youtu.be/xg6UquHecW0
+Last edited: Dec 22, 2023
+Reactions:
+Merlin StWahgwaan

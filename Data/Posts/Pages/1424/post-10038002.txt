@@ -1,0 +1,36 @@
+CMDRCorrMorningstarFelian
+Dec 17, 2022
+#28,475
+HunterwithGreenScales said:
+I'm gonna copy/paste the summery of my theory regarding Raxxla, Halsey's visions, the Guardians, etc. That addresses this very thing:
+
+Alright. I'm gonna blow some minds with my theory as to where RAXXLA is: Its in CD-37 10033.
+The logic goes like this; The short of it:
+Guardian Civ + Wclass stars.
+Reading though the old data from guardian obelisks, it implies very subtly guardian connections to Wolfs. Particularly how the stars cooling affected their evolution, and rise of civilization.
+Guardian "Bubble" is mostly centered around a Wolf, "Gamma Velorum".
+Second Guardian "Bubble" is also centered around a Wolf (Hen 2-333) as well.
+Guardian AI constructs are missing from history.
+Guardian Constructs gone somewhere far.
+Constructs speak to humanity via dreams.
+Dark Wheel know this, spent centuries gathering up "evidence" from affected individuals, records at hidden station, never actually found physical Raxxla.
+Jasmine Haley and Gan Romero have dreams recently.
+Jasmine says; "I saw a place of extraordinary beauty. A paradise. It was truly wonderful. This was no dream – it was a glimpse of something very real. We must find this place. It could be our future".
+She also describes them as "architects of creation" Romero records; "an area of space, not black but radiant…glowing like heaven"
+Systems inside single system nebulas have a sky bright and radiant (like Bubble Nebula).
+CD-37 is a Wolf-Rayet inside such a nebula.
+Click to expand...
+Your idea is good but is no factoring in two key pieces of data:
+
+1) Time
+2) Ability of a system to maintain life
+
+So, before we go through this, you are on the right track but your focus is too narrow.
+Wolf-Rayet stars are big and hot. So hot, in fact, life is no longer possible. This is where time comes in the picture. That is what the star is NOW but not what it would have been then Guardians lived millions of years ago. Guardians favored temperature slightly warmer than humans with lower gravity. They still needed water to survive having similar blood to our own. What you are looking for is particular stellar evolution sequence known as the asymptotic giant branch which happens with M, F, G, and K stars between 0.5 - 8 solar masses late in their lives (that are almost always variable stars). Their worlds when they lived there would have been closer to Mars as it appears in-game. What we see are dried up versions of planets cooked by the weirdest stellar evolution sequence that often has a star phase in and out of main sequence multiple times before becoming a Wolf-Rayet star then either a white dwarf or neutron star depending on how massive it started out. Guardians we're from stars similar to Sol but with a twist because they evolve weirdly. More info here: https://en.m.wikipedia.org/wiki/Asymptotic_giant_branch
+
+Specifically, we are looking for long period variable stars: https://en.m.wikipedia.org/wiki/Long-period_variable_star
+
+When Guardians were living, these stars would have seemed at the time closer to our sun at least for awhile. Keep in mind that time changes everything. Sol is still in the much longer stable stage pre-asymptotic giant branch but will go through the same stages as it evolves.
+Last edited: Dec 17, 2022
+Reactions:
+John Stoutbeard

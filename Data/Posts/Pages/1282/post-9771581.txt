@@ -1,0 +1,9 @@
+Jorki Rasalas
+Mar 12, 2022
+#25,632
+Ah, so you only "detect " them by dropping out of SC at missing BodyID locations that you've targeted via the searchbar exploit, they dont show on scanners at all.
+I begin to understand...
+
+but must walk the copawlot now....
+Reactions:
+Adel

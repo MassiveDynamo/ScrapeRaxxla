@@ -1,0 +1,11 @@
+[Diplomacy] Carnegie
+Jun 14, 2019
+#8,939
+Darkfyre99 said:
+Thanks for the heads up on this, Drew.
+
+Okay, as one of the few explorers (that we know of) that’s using parallax on a consistent basis, along with a hefty dose of FSS analysis (as opposed to “tune and zoom”) I can’t think of a single instance where I encountered something like this. I also can’t think what could possibly cause something like that either.
+
+I'm pretty sure it's not Raxxla. If it is, it's a hell of a disappointment
+
+The system configuration is unusual, with the star at 275 kLy and the planet in a 26 kLy orbit perpendicular to the star's rotation, so that may have some bearing on why the FSS got confused and why you've not seen anything similar. I intend to check some of the bodies I've located by parallax to confirm that the FSS is behaving itself - especially in the weirder systems.

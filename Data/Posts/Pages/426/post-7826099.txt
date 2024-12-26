@@ -1,0 +1,19 @@
+Thatchinho
+Jun 1, 2019
+#8,509
+ScolioTheMost said:
+First of all:
+the discord is https://discord.gg/pgebTcr
+
+Second of all:
+I think it would be reasonable to think at first hearing that this is part of galactic background noise, however it can be triangulated from every point of the game and exists between three systems (not reachable by super-cruise, Xaintly & Public Static Void have tried). There is a video on youtube (link) that makes it appear this signal comes from the specific body Sag A though they only checked from one angle. The investigators have tracked this signal between three system 10 light years from Sag A. In case it is a bug we filed a bug (link to bug) which has garnered no attention from Fdev. It either makes me think that there is something significant there or Fdev is buried in work and has no way to even give a thumbs up/down if this is intended behavior.
+Click to expand...
+I will try and see if I can figure out where I'm remembering this stuff from, but what I'm saying is consistent with what you guys have found.
+
+There's a RL radio source near Sag A which doesn't have an otherwise detected object. In simulating that FD would have to tie it to a location in interstellar space, not to a specific star system.
+
+So it does make sense, but I could also be misremembering.
+
+Anyway... very sensible putting the bug report in. Hopefully you'll hear something back! (And in the meantime if I can remember where I would have heard what I did, then I'll try and fish it out, and see if it can clarify things one way or the other.)
+Reactions:
+simulacrae and ScolioTheMost

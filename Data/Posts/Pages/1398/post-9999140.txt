@@ -1,0 +1,11 @@
+Burning_Scull
+Nov 17, 2022
+#27,949
+SongOfTheVoid said:
+As the greatest scientist the Empire has ever had its my duty to know more on my own than the collective masses of those outside the empire... In this case you should probably investigate HIP 95951, and I do mean HIP 95951 not the faked system using its name that is displayed nearby. (Spoilers this isnt a super secret its just a max stage hidden, 'requires a special server flag' to jump to one.. as Crash to desktop means there's no Exception error message thrown by the client which means its triggering a different crash from a server request. 15yrs working for AAA Games companies developing MMORPGs give you a appreciation for some of the mechanics going on under the hood as it were.)
+*PS: You can generally find stars using many names despite ones shown, while compiling my own research into the extent of ThePilotsFederation and other organisations hiding information from CMDRs ingame i investigated several hundred if not thousand systems who did NOT appear in the public API list but do exist ingame to be found, commonly under multiple systems using variations of different indexes used. Which for the record is not the three alone people assume it to be but is select systems from several more indexes or notable scientific papers. Thus in the HIP95951 Case we have a star system that isnt (Or wasnt at the time) in the API index, but when checks were done for its numerous designations it provided the system information from a nearby (and wrong) system...
+Click to expand...
+
+I confirm the words of this gentleman. As part of one of the expeditions, many copies of systems were found that were not shown on Galmap.
+Reactions:
+SongOfTheVoid

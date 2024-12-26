@@ -1,0 +1,149 @@
+Noobilite
+Jul 11, 2018
+#2,958
+I was going through the raxxla systems in edsm and found a few oddities:
+
+Ooscs Bra XX-L a7-1 <- Non dwarf star! Also has an asteroid belt around the star. Someone should mine it for s and giggles. (And if player bases every become a thing this should be the new headquarters for raxxla hunters.)
+Ooscs Bra XX-L a117-0 <- Gas Planet!
+Dryu Bra XX-L a35-0 <- Gas Planet!
+
+I think someone mentioned these, but it's kind of interesting. Shouldn't the sun at minimum be a dwarf star like the rest because of the generated name?
+
+Ooscs Bra XX-L a35-0
+
+And this is apparently a green system. I'm assuming that has no significance.
+
+I wonder if the age of the planets/stars could mean anything. The Phooe star is 12+million years old and one of the dryu is 280 million years old. In fact do we know the age of the raxxla star/whatever or anything surrounding it?
+
+
+Dryu Bra XX-L a7-0 <- 1.5 billion years. And planets with thing neon. I wonder if they are neon collored like a sign. 8)
+
+Another is 3 billion years old actually.
+
+Phooe Bra XX-L a76-0 <- Oldest Braxxla?
+Ooscs Bra XX-L a7-1 <- Youngest Braxxla?
+Dryu Bra XX-L a36-0 <- Second Youngest Braxxla?
+
+They also have some interesting stated features like water geysers.
+
+Also noticing this weird pattern of 8 planets and 1 moon. If it has moons in the dryu sectors it has either 6 or 7 planets or 8 planets and one moon in the system. Except for one of them. Ooscs tend to have multipel moons. But nothing past a moon. so no double satelites. Only single moon per planet on any of them.
+
+I put this in my old post but I'll stick it here also in case anyone is interested:
+
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And if they ever allow player controlled sectors, these(the Braxxla sectors) would be fun to grab and own solely as a small faction of players. Call it something like the, "Brothers of Braxxla!" 8) (or BoB for short! ><)
+
+We could call them BoB stars.
+
+Also, didn't one of the planets have a station on it?! I can't find it on EDSM, but I swore one of them had a planetary station or something like that.
+
+And what happened to that Robert Holdstock npc. did anyone every find it again? Has anyone bothered to follow him to plot out where he goes. Maybe he has a set of destinations he goes to. Same with other raxxla related npc names. Might reveal something to plot his goings and see what makes him/them tick.
+
+I'm assuming this is also well known: Raxxla wiki convos
+
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And similar statements. (Derp, just read it completely, I thought it was something different at first.) I think someone was talking about this, but did anyone ever visually spot anything at the poles of Tionisla 9 or 9D? I think someone was talking somewhere about trying to see despite them having atmospheres. if you can find something on a known planet you might then more easily find it on an unknown planet. There is a bit of an oddity here. Type 9 is kind of similar to Tionisla 9...
+
+And if there was supposed to be a battle maybe that means there would be a:
+
+Ship Graveyard!
+
+Is it hard to find these. And if you can have they all been checked for raxxla hints. Checking the poles of those planets might reveal stuff. Not to mention checking the wreckage for clues or interactibles. And it would be sad if those are generated debri and players can/have dispersed them by bumping into them. That may make clues impossible to find if they were mixed in there. Let alone just checking out for fun. The guy who made the video says there were toxic waste cans and that he destroyed them. I wonder if it's possible for hidden items and clues to exist.
+Last edited: Jul 11, 2018

@@ -1,0 +1,71 @@
+Vasquess
+Oct 3, 2020
+#19,150
+Vasquess said:
+Collecting body data starts to pay off. I have a substantial list of systems with at least: M Dwarf; Belt; Class III GG
+not an optimised tour (100Ly)³ cube
+Collecting data continues. For those who are interested there are new M Dwarf; Belt; Class III GG in the (100Ly)³ cube around Sol
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This should be the shortest tour through all 170 system (2243Ly): See next post from alexzk
+(Probably I have to read more docs for that TSP solver....)
+Last edited: Oct 3, 2020
+Reactions:
+Fiera, Dr. Lexus, Jorki Rasalas and 1 other person

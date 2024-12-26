@@ -1,0 +1,4 @@
+Zieman
+Apr 13, 2022
+#25,952
+And AFAIK some CG search goal was hidden in one (belt cluster), not visible by scanning the cluster(s), you had to enter the cluster to find it.

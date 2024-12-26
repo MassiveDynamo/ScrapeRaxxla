@@ -1,0 +1,21 @@
+CMDRCorrMorningstarFelian
+Feb 25, 2022
+#25,449
+Here's the updated Raxxla timeline (stumbled on this while moving ships to a new base of operations). Hyperspace is viable for finding Raxxla between 2230 - 2296 per Delta Pavonis "Early Colonies" beacon. That's 66 years. I thought I had managed exclude it from possibilities but alas that wasn't the case. This probably means most of the Frontiers systems discovery and subsequent colonization happens in that 66 years. Back to looking for overlooked leads. This sadly greatly expands the search zone. So much for best laid plans . Back to the drawing board and making sure I don't have any ignored leads. Currently, I believe the following are the best bets for finding something more definitive:
+
+-Something in or near Tau Ceti leading to the pirate cache (Tornvquist was a shipboard mechanic based out of Tau Ceti). Meaning the journal wasn't necessarily written there.
+
+-Finding the trail of Augustus Brenquith (discover of Ackwada) and possibly most of the systems from Frontiers gazette. From the tourist beacon in Ackwada: "Inside the capsule was a message crystal with the log of the second five years of Augustus Brenquith's solitary search for new worlds, his 'glittering legacy', included in the list of planetary systems that he had stumbled upon was that of Ackwada." It should be noted: Brenquist sent capsules back to Sol. The capsule that was analyzed was already opened (as the seal had been broken). See https://eddb.io/attraction/73015 . Someone found that capsule before the Sol authorities did. I am half wondering if Tornvquist didn't intercept the Brenquist capsules (he sent several batches back to Sol).
+
+-Missing systems from the Frontiers gazettes (there are 4-5) that aren't properly accounted for. Also, I strongly suspect Ackcanphi is intentionally mislabeled.
+
+-Someone was chasing someone in/near Alpha Centauri and wanted them dead for unknown reasons (see listening post in Alpha Centauri).
+
+-Discovery of Raxxla happening in or near Achenar or Capella. Capella is a suspect because of a moon name Duval's Grave).
+
+Migrating this to Google Docs for readability sake: https://docs.google.com/spreadsheets/d/1fO6_y2QOxErhrC6GugcuAuyi-GgDaoLZbuFAxcunCRA/edit?usp=sharing
+
+Still need to add in more details on the current suspected pathways to get more information. Also, notable presidents and notable Duvals lore may not start until after 2296. If so, will be migrating that to a secondary document. Regardless, for 66 years hyperspace in some primitive form is reasonable to build theories around and is supported by the official lore.
+Last edited: Feb 25, 2022
+Reactions:
+simulacrae, Spenceuk99, Rochester and 1 other person

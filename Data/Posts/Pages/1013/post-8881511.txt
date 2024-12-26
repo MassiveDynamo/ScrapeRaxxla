@@ -1,0 +1,14 @@
+alexzk
+A
+Jan 2, 2021
+#20,241
+Hmm, this system shows to me as VISITED and NOT visited, both:
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+depends on checkboxes in filter. Very weird bug. Could it be something hidden there?
+Set filter to "not visited" and jumped in:
+SPOILER: MAP
+However remote view and edsm show there some blue star too.
+Last edited: Jan 2, 2021

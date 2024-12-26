@@ -1,0 +1,24 @@
+Vetinari
+V
+Mar 5, 2020
+#15,567
+I don't recognise any of those but havent done them all by any means. If they are codes from the Beacons then I have bad news for you, they are written down wrong, they need spaces to define letters and words or it wont work.
+
+Some have keywords hidden at the beginning or nearby that you will need.
+
+Try here first:
+
+Canonn Decryptor
+kayahr.github.io
+
+Replace RAGAZZA with text in INPUT. Add keyword if known or can 'crack' to brute force. Can add or remove layers of encryption.
+
+If still totally stuck try here, find the beacon system, it will give you the answer so if you don't want to know read slowly to get the solution but not the answer. I warn you though, all the beacons in this category are here in one list so you may see something you didn't mean to.
+
+Listening Posts | Canonn Research Group
+Listening Posts have been largely found in systems on the frontier of the bubble. Their origin is not known for sure, but it is possible that they are deployed by the Sirius Corporation. Locating When
+canonn.science
+
+Ive also found one Beacon not registered on Canonn, but 100% assume that just nobody updated it rather than its not been found yet, kinda following that trail now while doing other stuff at the same time.
+Reactions:
+John Stoutbeard, [PS4] Filthymick420 and Machina Ergo Sum

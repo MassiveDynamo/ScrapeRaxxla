@@ -1,0 +1,44 @@
+Jorki Rasalas
+Oct 27, 2021
+#24,619
+I am coming round to the viewpoint that Raxxla can only be triggered once TDW have been joined. Hence I’ve spent the morning analysing the codex entry on them & have some thoughts ( numbered within the codex text, edit: some repeats but a couple of new thoughts too) for discussion:
+
+Codex
+"Oh, they're out there alright. I've never met them, but I know they're out there. Think about how well known the stories are. Now think about how easy it would be for some two-bit band of hucksters to pass themselves off as the Dark Wheel and start trading on their reputation. Doesn't happen, does it? Not for long, anyway (1). Whenever someone tries to usurp the Dark Wheel name, sooner or later they get quietly shut down. And that's how I know"
+- Felicy Farseer, explorer
+
+The Dark Wheel is the name given to a legendary group of adventurers, explorers, investigators and treasure-hunters (2), the existence of which is so lacking in corroborative evidence that it is generally considered a myth. The group is often mentioned in connection with the equally unsubstantiated 'Raxxla'.
+
+Those who believe in the existence of the Dark Wheel consider it to be a continuous and clandestine organisation, operating since the very earliest days of interstellar travel (3).
+
+According to the lore, only a handful of the bravest and most competent pilots (4) of each generation are honoured with an invitation to join the group. It is futile to attempt to contact the Dark Wheel on one's own initiative, however - it is always they who initiate contact, initially in disguise, revealing their true identity only once a suitable test of courage and skill has been discreetly administered, and passed (5).
+Opposing theories assert that new members are selected on the basis of lineage, with existing members covertly training their children (6) and revealing the fact of their membership only when the child is ready. Conversely, some members are believed to go to great lengths to prevent their children from ever become involved, the group's secrets are dangerous.
+
+According to self-professed Dark Wheel expert Lyta Crane, a conspiracy theorist and 'people's journalist' who has painstakingly assembled an archive of relevant data, the original group was based in a disused starport orbiting the eighth moon of an unnamed gas giant (7). The station was toroid, hence 'wheel', and operated with a minimal power output so as to avoid detection, hence 'dark'.
+Crane believes that this starport is still in use, and is the only means whereby the genuine Dark Wheel can verify its identity; new inductees can examine the record and artefacts preserved there, and thus satisfy themselves that the group has indeed been operating for centuries. No such starport has ever been found, however, and rival experts have accused Crane of forging her evidense in order to maintain the revenue from her billions of followers.
+
+Over the years, many people have claimed to be members of the Dark Wheel, to have identified some or all of the group's members, or to have discovered the group's location, but the contradictory nature of these claims suggests that most of them, if not all, are untrue.
+In 3300, a group identifying itself as the Dark Wheel emerged in the Shinrarta Dezhra system, which is not accessible to pilots of lower than Elite rank. It is not apparent if the group is a legitimate descendant of the original Dark Wheel, a reconstruction, or merely an opportunistic imitator.
+
+Jorki’s Thoughts:
+1 - TDW faction in Shinrarta are still in existence & haven’t been shut down. Are they real thing/maybe “outer rim of wheels within wheels”? They could (until recent BGS manipulations) only be accessed by becoming Elite (in-game “personal journey”?)
+
+2 - so these missions likely to be emphasised in the test, unlikely to promote assassination?
+
+3 - so likely to be found in Sol & Old Worlds?
+
+4 - how do we prove bravery & competence to such a group of adventurers?
+
+5 - membership test likely to involve adventure, exploration, travel, treasure
+
+6 - so Liz Ryder (TDW led by Ryders) likely a member, but so may Felicity Farseer (explorer, achieve Scout explorer), Selene Jean (former prospector), Lori Jameson (descendent of famous adventurer family, combat Dangerous), Elvira Martuk (“Long Sight” Base, initial reqt Travel 300LY from starting location), Ram Tah (Phoenix Base, Surveyor explorer rank), Prof Palin (Travel 5,000LY)
+
+N.B. “Long Sight”=“Farseer”?? Phoenix = Elite symbol!! Some interesting similarities here!
+
+7 - this may be obfuscated! She is “self-professed”, implying deceitful or unreliable info. Rival experts accuse her of forgery. Her sources may have spoken half-truths or lies.
+
+There are two possible candidate locations for TDW’s coriolis station. Apparently in FFE (dont have this so cant check) Fort Donald station was in Achenar; and in And Here The Wheel in a system which
+“registered explored on the maps, but was sufficiently far from civilisation to be of little interest; a common-as-hydrogen red dwarf star, an asteroid field behind them and a blue-green gas giant hovering in space ahead. And apparently orbiting the gas giant was Gunn’s Circle base.” And that rotated to produce imperial standard gravity so likely in Imp space.
+Last edited: Oct 27, 2021
+Reactions:
+Exekrator, simulacrae, Macros Black and 2 others

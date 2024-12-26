@@ -1,0 +1,19 @@
+Dartay
+D
+Apr 4, 2019
+#7,251
+yelboc said:
+agree with much of this - stellarium is earth bound, but those stars are mostly distant so, although some variance to be expected, you would still expect to see those two stars in view if you're in the bubble. I keep meaning to do some stargazing in a few places and check this sort of thing. But in addition, the deep sky objects are also in the wrong places.
+
+Star class in the menu would be A/B/O -i.e. a white star. and yes this is in contradiction to the Codex - except - if the codex shows a T proto star, then some of these are classed as gas-giants and so could be a satellite of the white star, but even so you expect to see the red glow, which you don't.
+
+The image might be possible, if its highly zoomed in compressing the perspective - this means the shot has a narrow field of view, and spotting stars then very hard indeed.. The default zoom is 1x on which you base your feel.4x is max in gu, but who knows if they cant zoom in further in the graphics dept.
+Click to expand...
+
+With regard to Stellarium, I've actually been messaging the mods of r/askastronomy to see if they could help us out with this matter (more on that below), they mentioned using something called SpaceEngine to figure out the location. Apparently it lets you travel the milky way in a manner vaguely similar to the ED galaxy map. I haven't looked into that software myself yet.
+
+With regard to what you said about the title screen image, see my post above. The videoloop clearly was composed by the devs, as evidenced by the physical impossibilities shown and the fact that nothing moves besides the station itself. I think it could still be a representation of an in-game location. To make a pretty (and inconspicuous) title screen, filtering out any red glare from stars outside the picture would make sense.
+
+And even if it doesnt refer to the same location, the location it does (possibly) refer to could hold interesting secrets nonetheless!
+Reactions:
+CMDRGURU951

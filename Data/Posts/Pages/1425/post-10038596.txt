@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+Dec 17, 2022
+#28,491
+Ozric said:
+The information that is on 3rd party websites and applications can only have got there from in game sources. They all have the same available data.
+
+I would advise against saying you know how to search game files for non-public data again.
+
+Now back to the topic at hand please.
+Gladly. Though, people really need to understand there are no shortcuts that would actually even help. You want to get ahead in the search, you had better be prepared to but in the investigative work.
+
+The more salient point is the game's puzzle and mysteries are structured such that without going to look yourself you won't recognize what is important from not. It is precisely why it is a fool's errand. We have 3 major naming convention schemes between Federation (mostly astronomical), Imperial (mythical), Alliance/Old Worlds/GalCop which utilized heavily proper names for planets, stations or settlements, and a mix of procedurally generated names. If you don't understand which cultural group is referring to a place and the necessary context you cannot even locate most historical locations in the Bubble. Outside of that, there is the complication small details help isolate things from science perspective (which systems would support specific forms of life) and which resources are available where and why. The lore is structured in a way such that without going to a place and understanding its history and how it developed you will be lost.
+
+This is not even factoring in political upheaval which buried some places in multiple layers of references from different groups as the boundaries of the superpowers have changed multiple times (especially once you factor BGS in on top of this). Searching for Raxxla requires not just understanding science and stellar development (past, present, and future), human history and cultures, Thargoid history and culture, and Guardian history and culture. This is why I was making the point that searching EDSM is only of very limited usage unless you have much more additional context. Details matter especially when parts of the past are obscured through changing references and details that may point an investigation in a different direction entirely.

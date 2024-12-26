@@ -1,0 +1,71 @@
+CMDRCorrMorningstarFelian
+Mar 11, 2022
+#25,612
+Rochester said:
+Thread '[Canonn Science Report] Generation Ship Thetis investigation.'
+https://forums.frontier.co.uk/threa...-generation-ship-thetis-investigation.350810/
+
+It is suspicious, and this is another area Im keen to explore (one of many), now granted there are no direct links towards Raxxla, but it does occurr within the sphere of influence set out by the date from Tau Ceti, and it’s pretty peculiar.
+
+We have no concrete evidence to state otherwise, but if it were on a direct line of sight trajectory from Sol, then we need to look for a system (at that time uninhabited) 15lyrs away, in line with Sol. And then apply a 15lyr bubble around it to search.
+
+If relevant it could provide a temporal hotspot within the sphere of influence - if relevant.
+Click to expand...
+This is going to be spoiler heavy so expect heavy usage of spoiler tagging to protect those who don't want to know this without going there themselves:
+
+Listening post @
+SPOILER: LISTEN POST SYSTEM LOCATION
+
+SPOILER: LISTENING POST TRANSPONDER SIGNAL
+
+
+
+
+
+SPOILER: LOG 1 OF 5
+SPOILER: LOG 1 OF 5
+
+
+
+SPOILER: LOG 2 OF 5
+SPOILER: LOG 2 OF 5
+
+
+
+SPOILER: LOG 3 OF 5
+SPOILER: LOG 3 OF 5
+
+
+
+
+SPOILER: LOG 4 OF 5
+SPOILER: LOG 4 OF 5
+
+
+
+
+SPOILER: LOG 5 OF 5
+SPOILER: LOG 5 OF 5
+
+NOTE: Re-evaluation is likely to alter initial guess re: Unauthorized installation at Gendalla.
+
+Likely path: Sol -> {straight line} ->
+SPOILER: SYSTEM OF LISTENING POST
+{flight-path deviation occcurs} ->
+SPOILER: SYSTEM WHERE THETIS IS FOUND
+
+Nearest system on first leg:
+SPOILER: SYSTEM CLOSEST TO INITIAL PATH TO LISTENING POST
+
+Dating system: years.hours.minutes (supposition based on calculated speed - Mayflower 97 was capable of 0.6 LY/year)
+Distance of first leg: 33.27 LY
+Distance of second leg: 27.46 LY
+Total Distance: 60.73 LY
+Speed estimate based on latest date stamp: 60.73 LY/908 years = 0.06688325 LY/year
+Location of nearest unauthorized installation: Wormfast Camp @ Ross 154 (20.71 LY from reference system on first leg)
+
+WARNING: HIGH DEGREE OF UNCERTAINTY:
+Last date stamp in log 4 of 5 indicate either a time anomaly or somehow clock is altered as it is earlier than log 3 of 5.
+Last edited: Mar 11, 2022
+Reactions:
+dysonl, Macros Black, Rochester and 2 others

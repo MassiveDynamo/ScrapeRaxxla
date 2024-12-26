@@ -1,0 +1,20 @@
+PeteACarter
+P
+Jun 3, 2019
+#8,557
+AOpsyche said:
+Those are dynasty expedition satellites. The translations are in the video descriptions.
+
+Interestingly, though, 'fernweh' is the same amount of characters as 'hexedit' and both appear in quotations (not in game, so cant confirm, but afaik hexedit used single quotes, while fernweh used double). There was never any reason to think 'hexedit' was to be used as one of the three fields in Vigenere cipher, but if we must, then 'fernweh' is a much more viable entry for one of the other fields than 'raxxla' or 'kwatis' (vigenere has equal length for key, cipher, and plaintext. Cipher and plain MUST be equal, key could be truncated or expanded by repetition). I've tried a few different Vigenere variants in both directions using these two words, but haven't found any cool results yet.
+
+Edit: i think there is probably some encryption fun to be had on the search for raxxla, but i personally dont think use of vigenere is implied by the use of quotes around words. I think if there is encrypted info, we will have strong indication that a puzzle actually exists. Essentially, you can make an encryption puzzle around any two strings, so you have to make it 'a bit obvious' or else people will find patterns in everything, even where they aren't significant.
+Click to expand...
+Probably searching for patterns that are not there, but "Princess Astrophel and the Spiralling Stars" is also in double quotes. Run that through a Beaufort cipher with "FERNWEH" as the keyword. Now take the results and stick it into Google Translate. It detects it as Igbo (Nigerian) and translates it to: "Welcome to Zyonhutjaq Monnz"
+
+Zyon is used as a synonym for Jerusalem.
+
+A couple pages ago, somebody was asking where Jerusalem would be in space (I cant remember their lead) but they got knocked down with "In Jerusalem " and left it.
+
+So I will ask myself - Where would Jerusalem (or Zyon) be in the Milky Way? Any ideas?
+Reactions:
+CMDR Zulu, Midian Cabal, Count dEstard and 2 others

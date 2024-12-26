@@ -1,0 +1,28 @@
+Thatchinho
+Jul 23, 2018
+#3,088
+Jaiotu said:
+Yes but more seriously ... just what is a "SAP 8 Core Container"?
+
+Is it a container for SAP 8 cores or is "SAP 8 core" the name of the kind of container?
+
+Why does it matter? Well ... if "SAP 8 core" describes the container then it is possible that a SAP 8 Core Container could contain something other than the crystal shard described in the object's text. If, however, SAP 8 Core refers to the crystal inside the container then it is descriptive. What the heck is a SAP 8 core?
+
+When I'm not flying around the galaxy I'm using piloting my way though either a Linux or Unix filesystem. When I think of a "core" I think of a memory dump ... the recorded state of memory from a program. Core files get their name from the now long-obsolete magnetic-core memory planes used in computers back in the 50s, 60s and 70s. Today's RAM uses electricity so once a computer powers down the memory state is lost. These old magnetic cores used magnetism so even the computer lost power the last state of memory would remain intact. You could, conceivably, physically examine the RAM to debug what caused the computer to crash.
+
+SAP-8 Core Containers contain a "crystalline shard of unknown origin". I can't help but wonder if these shards are some form of memory but, instead of magnetic, these memories store their ones and zeroes in crystalline structures. I'm thinking of something similar to the crystal holographic memory squares used by HAL 9000 in 2001: A Space Odyssey. The ones that Bowman removed to disable HAL as the movie came to a close. If a SAP-8 Core does contain a memory state then the question is "how do we access them"? According to the description any attempt to breach the containment field will cause the container's destruction and, I assume, the loss of the crystalline shard itself. I think the key is going to be in figuring out what "SAP-8" indicates. If we knew a little bit more about what these cores are then we might have a chance of figuring out what to do with them.
+Possibly 8 is actually infinity viewed from 90 degrees. It would then tie to the ‘self-sustaining’ part of the description.
+
+A couple of other ideas.
+
+Anything with unknown origins and an 8 always hints at Thargoids so it could be something Thargoid related, although that’d be a bit mundane.
+
+But semi-inspired by that, perhaps SAP-8 is something Protocol-8.
+
+Standard, Sentient, Significant, Serious, Sirius...
+
+Artefact, Alien, AI (ok, a touch dodgy I know, but acronyms of acronyms do happen! ).
+
+So, whatever combo of S and A, then either Protocol-8 core container, or Protocol infinity-core container.
+
+Could even be Protocol infinity, as in contain indefinitely - which is what it would appear to do from the description...

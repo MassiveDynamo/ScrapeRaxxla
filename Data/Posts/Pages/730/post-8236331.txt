@@ -1,0 +1,35 @@
+Machina Ergo Sum
+Jan 11, 2020
+#14,592
+Noobilite said:
+Update on the HD 144218 star:
+UGC 5944 (Galaxy)
+UGC 5944 (Galaxy)
+in-the-sky.org
+
+The game goes to the same blank spot when entering:
+78821
+144218
+
+It's apparently 8-sco? If this is a major star why is it not there? Or is this a dim star?
+
+Given that hutton orbital is the nearest star and whatnot. I'm starting to wonder if raxxla isn't literally the hutton orbital joke....
+Click to expand...
+Noobilite said:
+Yea, but from what I've looked you can't see it in game. It's the invisible spot those two references point you too. Has anyone found beta 2 scorpii? is it just referencing the wrong location?
+Cunder said:
+That's actually kinda cool a system with no star but unable to route to though the location exists. I recall something of people talking about systems with no stars or dead stars or something of that nature.
+
+It's possible that the galaxy map could be bugged might wanna submit a ticket see if you can get this verified as a bug or as intended. If it's not a bug then it becomes a more interesting system from most we seen so far.
+
+This is the same issue with HD 1337 (1337=Elite ) if I'm reading you guys correctly.
+
+Disclaimer: Not a programmer and just my theory
+
+So ED is proc genned initially and then partially Hand Authored subsequently for gameplay reasons. Rather than to shift everything about once the galaxy is formed, would it not be easier to overlay the Hand Authored portions on top of pre existing systems in order not to disturb the realistic generation of the systems?
+
+Hence there will be 2 sets, with Set A mapping to Set B which you see in the galaxy map. However in the translation, some systems names would be either be accidentally lost or deliberately hidden. If deliberately hidden, there is no way to select it in the galaxy map, however you might still see it in the left panel when you are 1 system away. It is possible that this is a mechanic (either deliberate or accidental).
+
+For those who prefer metaphors, think of it as a Palimpsest (also an interesting plot device used in Contact and of course comparative mythology).
+Reactions:
+Hanerib and [PS4] Filthymick420

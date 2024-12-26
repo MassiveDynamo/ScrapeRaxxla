@@ -1,0 +1,12 @@
+Jorki Rasalas
+Nov 26, 2020
+#19,821
+Han_Zen said:
+There may be rogue planets in systems with stars. Rouge just means the planet isn't gravitationally bound to the other bodies, in the system. It will at some point, leave the system. It just depends on how FD have implemented it.
+It could even be that they have the option for both 'visitors' and autonomous rogues.
+
+True, a rogue body could be visiting a normal system (which should be in galmap), but then the only way to see it’s a rogue would be to check the orbits in the orrery view to see if one is hyperbolic. Of course the orrery view was not implemented (was this delay on purpose??) until relatively recently, certainly well after MB had (reputedly) made the statement about Raxxla system having been visited but it was not recognised, which would agree with Raxxla being a rogue body. But the alternative view of a rogue being its own system that is not in galmap is also worth looking out for; the question is can such a check on the nav panel be made any easier to make it practicable? I did try it at one stage, but gave up after a couple of systems on the grounds of tediousness!
+
+This is posited, of course, on the reported Design Forum statement on “rogues only being seen in nav panel when relatively close” being valid. I’ve never seen it so really want to check it out first.
+Reactions:
+Dr. Lexus, [PS4] Filthymick420, Rochester and 1 other person

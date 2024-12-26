@@ -1,0 +1,69 @@
+Louis Calvert
+Jan 15, 2024
+#33,009
+Emperor said:
+"I personally assume that maybe it does, it's just some people are affected more and some less, and some are really affected.
+My guess is that it has been influencing the entire space-faring portion of the human race the whole time.
+Imagine what someone might do if they were able to leverage the power of the siren song?"
+
+That would be "covert dominance" indeed and especially if you could direct individuals as well as mass hysteria, I guess that's not beyond the realms of science fiction and has been used in the last two Halloween events? ....
+Yeah It's pure speculation, but what if someone was testing what you could make it do by targeting a lost generation ship with a modified version of it?
+Emperor said:
+And as D7 said "So I have a counter proposal to the landscape signal question. First off, lets be clear that there really isn't any such thing as sound in space since sound energy requires a medium of matter to disturb. Therefore, sound can't actually travel in a vacuum. Putting these minor details aside, one could propose that the game may be using the signal as a way to point us to a clue, but is not in and of itself the clue."
+
+It could be a sound inside the ship/ship instruments that looks like it's coming from Sag A* area?.... which is why I have added to my list of things to do to see if the onboard ship noises are affected by the landscape signal or interacts with it in some way, the signal itself may only be one half to a clue?
+This is one reason why I think the "Landscape Signal" is an in-game representation of the 'spiritual visions' people in the lore get. The game can't really replicate that, but it can put mystical signals in our ears (and eyes, for those with eyes to see).
+Emperor said:
+"Maybe even Quirium drives could jump further with special modifications - comparable to the fictional galactic jump system, possibly. The Pharmasapien missions to Barnard's Loop area were powered by Quirium drives, so long-range ships did exist as of 3100s."
+
+In terms of travel and the mysterious disappearance of Quirium and relating it to Raxxla/Landscape signal....
+
+As we know..."The earliest documented reference to Raxxla dates to 2296 and originates from an entry in the personal journal of Art Tornqvist, a shipboard mechanic based out of Tau Ceti. The entry does not describe Raxxla or its possible whereabouts, but its existence is evidence that the Raxxla legend was already in the public consciousness by that time."
+
+So Raxxla first documented reference was 2296 and was a legend at that time, so guessing we'd have to put a fair few years of it being discussed/details lost in time to become a legend...?
+Click to expand...
+Well, my thinking on that is simply that people have been having visions of Raxxla (as per Halsey/Gan) since humans started living in space. By 2296 (a couple of hundred years after humans start leaving Earth) the myth of Raxxla exists that everyone knows some version of.
+
+Just like myths of Atlantis, El Dorado, The Kingdom of Prester John.
+
+So, I reckon Raxxla the myth started because people 'saw' it in visions and dreams. How many people like Gan left journals behind after disappearing in a jury-rigged ship? How many people like Halsey were able to leverage existing power to convince a bunch of folks they weren't crazy - or started a cult based on these mystical visions?
+
+I'll go one further too: I believe this is the origin of the Dark Wheel.
+
+Imagine someone like Halsey finding someone like Gan, then maybe a few weeks, years, months later they find someone else who'd also had the same visions, etc. How long before they form a secret little club to talk about it amongst people who won't call them crazy? How long before they decide to get ships and funds and resources and mount their own little explorations to try to reach this place? How long before younger folks are recruited and the little support group of like-minded people becomes an organisation, a secret society of people who have the visions and look for others who also have the visions?
+
+I've always said that I'm not sure why the Dark Wheel is "dark", being treasure hunters and adventurers doesn't seem to equate to needing to stay hidden - but a cult of vision-having weirdos who are collecting weapons and ships? You'd maybe want to hide that
+
+I'd bet dollars to doughnuts that's why the Dark Wheel has been "operating since the early days of interstellar travel", and the Myth of Raxxla has been circulating since the early days of interstellar travel too.
+
+Maybe that's why the Dark Wheel is also fond of recruiting family lines? Possibly the susceptibility to having these visions is partially genetic? Like being Force sensitive - anyone can be, but certain genetic lines are naturally just more sensitive to it.
+
+And I'd guess it's how the Dark Wheel has continued to operate despite apparently never finding Raxxla. Maintaining the quest for a thousand years seems crazy - but if a number of your core members have visions of Raxxla, and you continually seek out and recruit others who have the same visions, then the wellspring of motivation will never dry up.
+Ian Doncaster said:
+Thinking along those lines ... "the whisperer in witch-space, the siren of the deepest void" could certainly imply that its position is between systems. The landscape signal source itself certainly is.
+
+The idea of trying to jump through its coordinates might be the right one.
+Entirely possible! I know Canonn have tried that a lot with the area they suspect it to originate from (I've also tried it too). I've done some back of the envelope maths and if Canonn is right then it's actually possible it might be within the limit of the nearby system (although the signal itself comes from the skybox, so I think it's deliberately placed outside any known system).
+
+AFAIK the largest distance between a stellar body and its parent star is about .5ly, and the Landscape Signal according to canonn is about .6-ish from the closest star. I suppose the margin for error there could have it right on the edge of the system, but that's a ludicrously massive volume to search with nothing to go on. I have been out there for hours hoping to see something parallaxing or glowing or something.
+
+Personally I think it might be a 'hidden system' - functionally if not actually. Galmap doesn't need to show every system that exists, Han_Zen mentioned that back in Beta (IIRC) there was a bug and a 'Test' system showed up near Sol. There's also at least one video on Youtube of someone jumping to a system stacked 'on top' of another system in Galmap, with a distance of 0ly between them - but in the vid they jumped between the two systems normally. So those sorts of anomalies might be representative of a type of 'hidden system'.
+
+I've also sort of been assuming that the Landscape Signal was placed out of any system deliberately to make it unreachable by any means. If that's the case, then I've been assuming maybe the signal itself points to something elsewhere - like "come here, then go there".
+
+
+Ian Doncaster said:
+[2] Which would have also had an interesting consequence if it is (related to) the landscape signal - Sag A* is an obvious exploration target, to the point that it was reached by sheer persistence in a Sidewinder in the Gamma release, used as a waypoint on both Distant Worlds expeditions and many others, and had a station established nearby in DW2. If it had required rather more persistence, logistics, teamwork, etc. to get there at all then there would have been - perhaps for many years - attempts to get closer to the core, unknowingly being drawn to "Raxxla" as well. The dreams and visions aspect of it could then have been revealed (and arguably still works) to have also been affecting some CMDRs all along.
+
+Same could apply to anything which is an obvious but distant exploration destination, of course - the earliest pre-release expedition plan was not to the core but a circumnavigation of the rim, MB commented that nebulae were good places to hide things, etc.
+I believe (might be misremembering) that there's a commonly stated statement about how Fdev were very surprised at how far people got so quickly?
+
+Can't help but recall Brookes: "it's in the Milky Way, but I can't tell you were at this stage, it's a journey that everyone has to travel for themselves." I mean, yeah, if it's at the centre of the Galaxy then everyone will have to make that journey themselves to get there.
+
+Despite all the people getting to Sgr A*, the Landscape Signal wasn't really noticed until relatively recently. Maybe Fdev was waiting for someone to notice it "any day now", especially when people went past the core, because the signal would be behind them and you can't hear it then. BUT! You can't hear it anyway in Supercruise - and most people spend most of the time in supercruise while they're travelling...
+
+I can imagine that maybe Braben saying "...and we know why people haven't found it" might relate to that aspect (could relate to anything else too, but... it fits, imo).
+
+On the flip side - if I were an alien, placing a beacon (or whatever) near the centre of the Galaxy is a great way to have something that any space-faring race in the galaxy has equal access to, and it can broadcast a signal across the whole galaxy equally well. And, it's the ultimate Omphalos of the Galaxy
+Reactions:
+CMDRCorrMorningstarFelian, Ian Doncaster, D7 and 1 other person

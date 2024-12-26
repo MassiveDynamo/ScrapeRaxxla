@@ -1,0 +1,41 @@
+cmdr milesred
+Aug 27, 2022
+#26,899
+Jorki Rasalas said:
+So, what are your audio settings to hear these sounds? Are you playing Odyssey or Horizons?
+I’m hearing nothing.
+Re: Horizons, but I will test Odyssey too.
+
+due to people living close..don't want to scare them
+so, BT headset only volume at 100% and recorded most of my travels with cooledit2 24bit
+each ship I was in, vette, conda, courier, hauler, I tried with and without the trinket
+hauler is noisy
+vette is super quiet, till you make it go
+conda is bangy, loose plates, dunno, kill a welder.
+
+and that is why I think it amplifies signals, because I know the sounds real well in my vette and my conda and normally I have to point at a nebula or a body or a station to hear all the sounds, as well as crank it up to 50% or so.
+but with the trinket, suddenly all the sound seems louder and hardly any place is quiet and that is just at my normal 4% volume setting
+with the headset on and at 100% its a lot like sitting in a bus station in Norway, very constant din and music everywhere I turn
+the din mostly goes away when I turn everything off except life support
+
+the only time my ears hurt was when my ship spotted mission related uss, real nice...ow
+
+when not actually travelling but standing still and listening around, I would use fa off, sometimes turning everything except life support off
+doing that to try and focus on what noise was being amplified.
+
+playback was much easier on my head ofc.
+and really only shows the pattern or loop the trinket does.
+I honestly can't tell yet if any extra noise it makes(outside it's loop) is due to being in a 2t to 16t cargo hold of a bangy ship or because its is excited to see something or detect something.
+
+Game audio is set on Boost, this is mostly because of srv driving and I put the headset on so I can hear everything better, surround sort of.
+
+the loop seems to be about 1 minute , with variations going an extra 10 seconds sometimes.
+
+I am still playing with them
+Going to try the cobra I guess, wish it was supposed to be the Cobra IV, I have lots of them built, only using the cobra III for storage items..
+And, yes I'll give Dez a try with some in my cargo..
+
+I can't find a lot of info anywhere except this thread on the station numbers that were mentioned by DB. Wiki points out the fed #, and TH with the rest..but if it is as important as he made it sound, I will happily make a list. I already have all the marketID's and systemID's in my database for every place I have been.
+If this thing has any AI in it, I will give it an effort to grab its attention...
+
+I'll be happy to start sharing some of the audio once I have some really clear ones, if anyone wants.

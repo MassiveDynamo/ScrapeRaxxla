@@ -1,0 +1,12 @@
+Han_Zen
+Jan 13, 2020
+#14,642
+Jorki Rasalas said:
+No, not Morse Code. See the Canonn pages UA & UP pages on decoding the pictogram message. It was all in the Canonn threads, about two years ago or more..
+And this explains the process for decoding the sound signals
+Click to expand...
+The --| -|- and -|| are presumed to be 8 bit binary numbers. --- = 0, --| =1, -|- = 2, -|| =3, |-- =4, |-| = 5, ||- = 7 and ||| = 8. This matches the format of the sound files.
+
+There is an old picture of a Thargoid hand, with three fingers. It might be a stylized version of their hand counting?
+Reactions:
+[PS4] Filthymick420 and simulacrae

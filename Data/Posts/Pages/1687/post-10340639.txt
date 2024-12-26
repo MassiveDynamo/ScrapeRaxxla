@@ -1,0 +1,17 @@
+Rochester
+Mar 28, 2024
+#33,732
+Power Play 2 refresh stream, FD drop a little aside remark, on how the new galaxy map filter may highlight certain things Cmdrs may not have seen before? It’s likely not relevant, but let’s theories anyway…
+
+Currently the PP map shows points of influence with a zone bubble around it. This doesn’t really show us visually any granular level what ‘isn’t’ or may be ‘omitted’ - it can with some playing but from a wider perspective - things aren’t overly evident.
+
+Mapping certain data can become more insightful, when we can visualise the actual intelligence gaps.
+
+This goes back to one of my earliest theories, and is somewhat similar to what I currently do in game within my own mapping. I’m interested in as much of what isn’t shown, as much as to what is evident.
+
+I do wonder if certain ‘mysteries’ might become more evident by their absence in the new PP map than was previously?
+
+I’m generally reminded of an earlier FD dev video where the designers of the gal map mentioned how the intention was to restrict what Cmdrs could see and do so as to really make them think and that they intentionally made the map that way to make it difficult to use.
+
+Likewise how FD generally don’t like us seeing BGS or Stella Forge data. From a gaming perspective this would be a huge benefit to the game, thats tonnes of cool data we simply don’t get to see. I speculate that it’s likely that too much information will evidently highlight a great deal behind the scenes and likely a great deal about narrative aspects of the game… we hope and wait.
+Last edited: Mar 28, 2024

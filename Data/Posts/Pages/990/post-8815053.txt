@@ -1,0 +1,5 @@
+Jorki Rasalas
+Nov 25, 2020
+#19,798
+was going to get back to my hypothesis testing today, however RL got in the way, again!
+However it looks like I might have resolved my screenshot-crashing-the-game problem by uninstalling the graphics card & waiting for Win10 to reinstall it.

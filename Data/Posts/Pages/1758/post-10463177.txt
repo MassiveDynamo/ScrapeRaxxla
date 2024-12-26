@@ -1,0 +1,10 @@
+Ian Doncaster
+Oct 29, 2024
+#35,144
+Jorki Rasalas said:
+The last update just trickled in at around 10 Mbps for over an hour.
+Some of this will be processing speed of comparing files for the update locally, rather than the download itself. Are you installed to a SSD or a traditional hard drive?
+
+Mine normally gets 20-30Mbps from Frontier's servers if I leave it to it, but if I do other stuff requiring disk access on the computer it drops to single figures.
+Reactions:
+Rochester

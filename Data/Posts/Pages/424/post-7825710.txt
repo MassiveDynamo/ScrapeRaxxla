@@ -1,0 +1,8 @@
+Marco Santos
+May 31, 2019
+#8,471
+DrewCarnegie said:
+How stable/fast is your network connection?
+With the ADS and my shonky download speed I'd occasionally get incomplete responses from the initial honk. A second honk would show up additional bodies that the first didn't. I knew when it occurred because it took an unusually long time to return the results from the initial honk.
+
+I got fiber at my house 100mb/s no issues with it so far.

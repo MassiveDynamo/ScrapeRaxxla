@@ -1,0 +1,12 @@
+Adel
+A
+Nov 5, 2021
+#24,726
+Han_Zen said:
+46 IDs. Rings and barry centers aren’t counted as bodies.
+You're right.
+In the log there is a key: "NonBodyCount" "53".
+I can't get the count (i added stations, planetary ports, surface installations) and space POI but the count is either too low (with space POI i have 49) or too high.
+Does someone know what does it count?
+Reactions:
+Han_Zen

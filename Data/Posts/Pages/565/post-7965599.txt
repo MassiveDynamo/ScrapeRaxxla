@@ -1,0 +1,8 @@
+alexzk
+A
+Aug 25, 2019
+#11,291
+Noobilite said:
+I think the col 132 stuff is in the wrong direction. Did you mess up a negative and positive? I might be missing how the calculation is supposed to work though. Is it for the same thing I was doing?
+No guarantees Everybody do error ... but it must step from min x to max x amount 3 points, then y, then z with some small step. At each new combination x/y/z it calculates distance to a/b/c. This system has 3 distances differ at max 0.005.
+And if you click it, edsm responds "bodies null" this means - it was visited but never scanned Fits what FDevs said - "just scooped"

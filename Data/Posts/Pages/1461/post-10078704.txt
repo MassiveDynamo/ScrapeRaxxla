@@ -1,0 +1,7 @@
+athulin
+A
+Feb 12, 2023
+#29,209
+Question 2: I somewhere above came across a post with the idea that planetary rings would be a good place to hide stuff, as they are so difficult to search.
+
+Has anyone looked for search parameters in rings? Such as: does detection distance differ for ship, and totally inerts object, such as a powered-off ship -- will it be discovered at a distance or not at all? Or depening on what scanners are used? I'm wondering if there is a way to estimate a search effort through a planetary ring, once a suitable one has been discovered. This may be more in line with a search for a DW starport, but until there is reason to discriminate, it does not seem impossible that it may be useful for Raxxla searches as well. The origin of this is obviously DB's mention in some interview that Raxxla (was it?) might be easier to find if many pilots were searching (from memory)..

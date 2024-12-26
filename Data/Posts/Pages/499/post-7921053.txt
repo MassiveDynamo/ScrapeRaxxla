@@ -1,0 +1,15 @@
+[Diplomacy] Carnegie
+Jul 30, 2019
+#9,961
+CMDR Maylor Rom said:
+I guess I'm not being clear. I understand barycenters. "A" orbits alone on it's own separate orbit. "B" and "C" orbit each other and also orbit with "A" on a separate non-intersecting orbit. "B" and "C" get very close to the orbit of "A", but just miss. However, B orbits around on it's own separate orbital center (seen in purple) all by itself, with C orbiting B. Elite usually denotes a barycenter for a system by using an "X" where one exists, but there is not one noted for this system.
+
+At least this is what I see when I look at this system and the way it is displayed by Elite. In any event, it's an interesting system and I have searched it to my satisfaction.
+
+o7....
+
+Firstly, bear in mind that you're looking at a 2d representation of a 3d system.
+
+Secondly B and C are orbiting a common barycenter - that is, the center or B's orbit is the same as the center of C's orbit. B, being the higher mass object has a smaller orbit than C - you appear to be confusing this for C orbiting B. Note how B and C are at opposite sides of their respective orbital paths (just as the BC centerpoint is at the opposite side of it's orbital path to A) - this will ALWAYS be the case, so that the center of mass remains in a 'constant' location. I'd advise visiting any trinary system and looking at the orrery - you'll see that they look just like 27 Cass.
+Reactions:
+Deleted member 52630

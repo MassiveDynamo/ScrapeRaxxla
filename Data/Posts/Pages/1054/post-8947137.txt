@@ -1,0 +1,15 @@
+CMDR Davanix
+Feb 12, 2021
+#21,077
+Jorki Rasalas said:
+I dont see the point of the KWS as currently implemented. It might detect bounties on the target placed by other systems than the one you’re in to increase your bounty payment, but it doesn’t give you that information! If you scan a target then select it on the contacts page it just shows the bounty value and the name of the target’s faction which is already shown in the hud left display.
+
+I wanted to try scanning to detect if the factions in those inhabited but self-contained locked permit systems had placed a bounty on miscreants in nearby systems
+
+tried all the below
+
+LL Pegasi, IRAS 23166+1655, 2MASS J23191260+1711331, RAFGL 3068
+
+No other designations and cant find it...Its a very well known star and should be in here as we have the other Pegasi stars hmmmmm
+Reactions:
+Jorki Rasalas

@@ -1,0 +1,14 @@
+Merlin StWahgwaan
+Jun 12, 2020
+#17,307
+anyone else getting mis-jumps????
+
+I dont know what im doing, but every once and a while, I will use my transaction list to open a target on the galmap, then open the system map and select my destination station, plot the route...
+
+Then ill back out, and charge the FSD, but it will have selected a different system entirely....
+
+Its happend a few times now where i didnt notice and ended up in a system that was not my target and confused as a cat in a pool....
+
+I always target off my transactions when doing missions, so I have no clue why or how this is happening... Im doing things in the background while playing, so I cant screen record, and I have no idea when it will happen again, but its happened enough times im wondering if its somthing Fdev added??(I thought they removed mis-jumps) or a bug I should report?
+Reactions:
+Fiera and [PS4] Filthymick420

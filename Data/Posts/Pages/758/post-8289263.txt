@@ -1,0 +1,10 @@
+Vasquess
+Feb 10, 2020
+#15,148
+Koben said:
+[...]
+It might be a hint to something. I tried to decode it with no success so far...
+It's a hint that migration to IPv6 is rather slow. Even in 3306 v4 is still not dead...
+Last edited: Feb 11, 2020
+Reactions:
+nicedevill, Machina Ergo Sum, RaNaketh and 2 others

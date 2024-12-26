@@ -1,0 +1,92 @@
+killbot_2000
+K
+May 29, 2021
+#23,516
+Aurora Velius said:
+Same for me. Since I want to go out and explore new systems anyway, might as well add a bit of mystery and treasure hunting to it, just to give some direction. I just made Elite in Exploration checking a few theories I had about systems that might have some significance. For me working on this Raxxla puzzle (if it is indeed something that is similar to the discoveries and clues in past events) is one of the most fun aspects of the game.
+
+Since I haven't done a proper thesis on this topic yet, here is my take on it. Things have probably been mentioned and thought of before, but I still wanted to share my musings on it. So what are we really looking for? We are still at the very groundwork level of research into this, because there is no consensus about what Raxxla actually looks like, or is. We don't have much to go on, except for maybe that symbol used in the Codex. So I based my theorizing on that. Looking at it I pondered what it could represent.
+
+I then had the idea that maybe we are looking at a simplified depiction of a star system, with each element in the symbol representing a type of celestial body within that particular system. One possible interpretation is this:
+
+Using the Raxxla symbol and counting parts, from outer to inner there are
+
+6 big elements , 33 small elements , 3 bent shapes, 1 big circle in the center and 1 dot in its center.
+
+It could mean 6 Gas Giants/Stars with 33 planets/moons in total split among them, 3 asteroid clusters around the main star, and some object in front of it. Each of the Gas Giant could have evenly assigned either 5 or 6 moons/planets. 3x5 and 3x6 so it totals 33. Now the question is of course how likely it is to find a system with the exact number of celestial bodies, but here is a quick example of one that happens to have 6 gas giants in it that have 3x5 and 3x6 celestial bodies around them.
+
+
+
+Now this is just one possible interpretation of what the elements in the Raxxla logo could represent. But the point is, I think we might be looking for a star system, and the way it is maybe represented on the logo is similar to a system when looking at it through the Orrery view. And imagining all of them circling around whatever is in its center seems reasonable when looking at this barely known system as an example:
+
+
+
+So what we are looking for, is maybe a star system. Now how to find it? Well... that is where the part with the fancy toast of the Dark Wheel comes in, and probably also the various references found in the Codex entry. I thought it is probably a guide to make a journey to a few distinctive star systems, which I think also relates to what a dev once said? Something about they cant tell but everyone has to make that journey for themselves. Anyways, I thought about the point of origin of where to start from. And I figured it is probably the same point you might end with too, before you go to Raxxla. So I came up with this... matching the toast to the Raxxla logo:
+
+
+
+We have no certainty so far what could be assigned to the various parts of that toast, so this is more a general idea of what this could look like; what we might have to do in order to pinpoint or at least have a vague idea in what region or area that system could be in. Of course, maybe it is just a story and there is nothing to it, or it might be introduced later as a major narrative arc pushed by the devs. Although, didn't one of them say something about the payout being huge if we were to find Raxxla? Anyways... this is my take on it, maybe it sparks some new ideas. I just know that I definitely had fun coming up with this
+
+Safe journey, Commanders! o7
+Click to expand...
+there was some posts about what it was a while ago after going through raxxla stuff for a few days. i dont have the exact link for it now but ill see if i can scrounge it up. i think it was from an old elite novela or one of the old games.
+
+anyway it says raxxla is a planet with 6 alien artifacts each on the north and south poles of the planet that act as "frame shift drives" obviously they arent frame shift drives but i cant think of a better word. basicaly the whole planet can enter witch space and transport itself around the galaxy. so raxxla IS a planet/moon but its a planet/moon capable of jumping much like a fleet carrier/megaship. possible theories could include raxxla exists IN witchspace and can exit freely just as the thargoids do. which would play to any theory about a gateway/parallel dimension. i mean the thargoids are from witchspace right? they freely exist/live in it and can exit to our dimension freely also. (or am i misremembering that?)
+
+this would indicate that things like https://canonn.science/codex/communication-array-delta-69/?highlight=gravit
+"There is a gravitational pull of some massive object but there’s nothing we can detect physically there. The gravitational field measured approximately 0.1 Gs, but we can’t see what’s creating it. Whatever it is, it’s the source of the signal."
+
+and
+
+Transmitter VJS-81 | Canonn Research Group
+Transmitter VJS-81 can be found in the HR 6890 system on body A 1
+canonn.science
+
+What am I doing here?
+l was asleep in my bunk floating around in deep space.
+How can I be on a planet?
+SLEEPER 2/3
+It’s happened again.
+It’s the same every time. I fall asleep and find myself on an alien world.
+This can’t be real real it’s so vivid.
+SLEEPER 3/3
+This time I wasn’t asleep.
+On hell it’s real, it’s real. How can I be doing this?
+I need help… I can’t control it.
+Someone help me, please.
+
+which relates to the other raxxla thing about "first it wipes your memory, then it kills you"
+
+and then this crashed anaconda.
+Leucos Crashed Ship | Canonn Research Group
+A wrecked Anaconda crashed nose-first into the moon Leucos A 5 a at -36.1280, -45.2436, scattering its cargo behind it. The wreckage, which includes Brewer Corp and Caine Massey crates as well as a number of Salvage cargo canisters from the following types: Prototype Tech Assault Plans Tactical...
+canonn.science
+Mayday. I repeat Mayday.
+
+My systems are failing and I’ve been caught in the gravitational pull of… oh god where am I?
+
+Leucos A 5 a, Approximate lat: -36 long:-45
+
+Warning hazardous cargo on board!
+
+Emergency landing protocols are in place.
+
+Mayday. I repeat Mayday.
+
+…Message ends…
+Click to expand...
+gravitational anomaly. loss of memory....
+you can see from the canonn website the crashsite. from 2017. has those yellow containers found in odyssey. and mentions containers that are scannable but do nothing else. i think its worth a visit in odyssey.
+
+i think "finding it" is going to be considerably more difficult than people are expecting. for example the canonn research group had to use SEVERAL cyphers, code breaking tools, python programs and audio decryption software just to find out stuff about HESPERUS https://canonn.science/codex/hesperus/
+
+i mean, raxxla is suppose to be the most secret thing. there is no way it can be easier than that. and that whole process was extremely complicated.
+i think we need to be thinking more along the lines of. audio decryption. lining up constellations at certain locations. code breaking? all of these things have already been used in the game and i think it should be pretty obvious they would be required to find raxxla also.
+
+in drew wagers youtube series of elite lore you can learn that some earlier jump systems were possibly reverse engineered from thargoid vessels using
+quirium fuel from captured thargoid vessels?
+quirium disapeared after collapse of galactic cooperative
+what was quirium fuel? what happened to the galactic coop? can it be found again? do we need quirium fuel to access witch space? oh well here is a wiki i think is for the older elite games? http://wiki.alioth.net/index.php/Quirium . unsure because quirium isnt used anymore according to the YT video.
+Source: https://www.youtube.com/watch?v=JyKdBTi7B1U&list=TLPQMjkwNTIwMjGQ0gp1n36nDw&index=3
+Reactions:
+[PS4] Filthymick420, simulacrae and Macros Black

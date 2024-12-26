@@ -1,0 +1,38 @@
+selbie
+Dec 24, 2023
+#32,733
+Louis Calvert said:
+This is cool What are you going to try next? I don't know if you're working off Canonn's recording or you're out here too, but if you want any specific recordings made give me a shout.
+
+Got me thinking: I'm curious if you removed the normal background sound of the universe?
+
+I'm at the source of the Landscape Signal, so I've been able to record audio from all directions, the Galaxy itself has a 'default sound' that pulses in slow waves. To me it sounds a lot like the 'spooky' sound from 2001, a long chior-like droning hum that sort of curl around each other, plus a lot of static and random noises. If you record straight "up" or "down" relative to the plane of the Galaxy there's significantly less signal distortion, but it's got the same sort of base structure.
+
+In the example below the top two rows (A) are the Landscape signal recorded from Stuemeae GG-Y C4801 looking towards Stuemeae JM-W C1-5825 (where Canonn claim the signal is very close to). The bottom two rows (B) are looking in the exact opposite direction, which from this perspective means it's "up" at about 30degrees relative to the plane of the galaxy. The next two rows (C) are looking towards Sgr A* (about 12ly away). The next two (H) are looking directly "north" along the Galactic plane. H is basically the same as you see looking in any cardinal direction along the plane when the Landscape Signal isn't in the way.
+
+
+
+
+If you zoom out on the recordings (I record each for about 10 mins), you can see this regular rhythm pulse. Below are the same as before, A,B,C,H but now you can see all 10mins or so at once. B and C ("up" and "centre/East-ish") are very similar, whereas H ("north") has a lot more signal noise - presumably from all the stars and dust and junk. A is even more noisy, but those large blue peaks are the Landscape Signal and the more intense pinky areas included the singing, which you can see overlays the more 'normal galaxy sounds' and bridges a lot of gaps (which is why you can hear it).
+
+
+
+
+So... I'm wondering what would happen if you (somehow) removed the 'normal' galactic sound from the Landscape signal. Like... minus H from A here, what's left should be the 'pure' landscape signal (or at least the bits that aren't mushed together with the normal sound?
+
+I wonder what would be left over?
+Click to expand...
+Thank you for this! Yes currently I am only using the flac audio file from Canonn's page. If you can share some small 1-2 minute clips of those variants that would be great I plan to get back into the game at some stage to explore more of these interesting clues. First I need to get my theory structured to make any sense.
+I can see differences in the low frequency imaging (the red/white band) as well, indicating that it likely also forms part of the Signal.
+
+To clarify the 'heartbeat' is only in the low frequency range. There are many layered aspects to this audio (likely deliberate to obfuscate something) - so hopefully this might help others dissect the different features for their own independent analysis. In this diagram pay close attention to the Hz ranges.
+
+
+I have attached the sub-200Hz audio that I separated out from the Canonn audio file and applied noise filtering to.
+This audio is sped up by 3.5x (which increases the freq to around 600Hz).
+your_browser_is_not_able_to_play_this_audio
+
+The real test will be to see if this is unique to the LS or if it is just a repeating sample used by the audio designer. I'm leaning towards unlikely to be a repeating sample, because all the other aspects of the audio are unique and well blended across the entire audio clip.
+Last edited: Dec 24, 2023
+Reactions:
+Adel, Louis Calvert and Rochester

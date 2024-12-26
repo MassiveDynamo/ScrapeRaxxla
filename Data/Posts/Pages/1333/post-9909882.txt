@@ -1,0 +1,56 @@
+Jorki Rasalas
+Aug 10, 2022
+#26,649
+Well, visited both Thor's Helmet Sector FB-X C1-5 and Seagull Sector DL-Y D3 (anarchy). Checked out the belt clusters in the former (nothing) & got some Trinkets in the latter.
+@Pyroboros : Seagull Sector DL-Y D3 was interesting- it has one comet but tried several times & couldnt drop into the instance so always a couple of hundred metres away & it kept moving away from me (while being pestered by a pirate). There were also a couple of bodyids which crashed the game, even when bookmarked. And a few which I didnt check out, before Hell’s Port, which I think was bodyid 17. With only 3 stars, one planet and an asteroid station there’s something strange with this system! I’ll paste the spreadsheet in here later, when lunch has digested & I get back briefly to the PC before the afternoon heat arrives. Siesta time!...
+had too much coffee to siesta... here's the sheet:
+Body#
+SearchString
+0
+Slegeae RG-J d10-3
+1
+Slegeae RG-J d10-1048579
+Seagull Sector DL-Y d3 A
+2
+Slegeae RG-J d10-2097155
+comet?
+3
+Slegeae RG-J d10-3145731
+Seagull Sector DL-Y d3 B
+4
+Slegeae RG-J d10-4194307
+Seagull Sector DL-Y d3 C
+5
+Slegeae RG-J d10-5242883
+Seagull Sector DL-Y d3 B 1
+6
+Slegeae RG-J d10-6291459
+crash!!
+7
+Slegeae RG-J d10-7340035
+crash!!
+8
+Slegeae RG-J d10-8388611
+9
+Slegeae RG-J d10-9437187
+10
+Slegeae RG-J d10-10485763
+11
+Slegeae RG-J d10-11534339
+12
+Slegeae RG-J d10-12582915
+13
+Slegeae RG-J d10-13631491
+14
+Slegeae RG-J d10-14680067
+15
+Slegeae RG-J d10-15728643
+16
+Slegeae RG-J d10-16777219
+Hell Port
+
+Edit: I would go back and check the other body search criteria for more comets, but with my hand/wrist problems I was having a painful time trying to avoid the pirates who were after my Trinkets, and I want to check out some bubble comets with those!
+Has anyone checked for comets in Sirius?
+Last edited: Aug 10, 2022
+Reactions:
+Ataxia, Emperor, simulacrae and 2 others

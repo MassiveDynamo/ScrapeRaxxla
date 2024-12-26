@@ -1,0 +1,12 @@
+Jorki Rasalas
+Saturday at 12:36 PM
+#35,669
+Ozric said:
+It's very interesting that the BodyID is the same.
+Comets are objects created in StellarForge, which as far as I understand things is common to all versions of the game, so I'd expect the BodyId to be common.
+
+Edit
+Just watched @Pyroboros ' video above. I suspect if FD have gone so far as to remove the comet name then this may be a dead end. To me it suggests it is unrelated to Raxxla...pity, that bit about relationship to Polaris and spiralling stars was fairly convincing.
+Last edited: Saturday at 12:51 PM
+Reactions:
+Pyroboros and Rochester

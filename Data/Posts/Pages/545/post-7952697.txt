@@ -1,0 +1,6 @@
+Jaiotu
+Aug 18, 2019
+#10,899
+alexzk said:
+Tried to search on map "cassiopeiae" - didn't found even "ao cassiopeiae" ...searching "androme" found "andromedae" and "breamen" in loop ...can't see how they can be same...
+ED names don't always reflect the name most commonly used in astronomy. Go to Simbad and plug in the system name there and you'll get a list of alternate names. Check for those. Of course, there's always the possibility that the star you are looking for doesn't even exist in-game. Trust me.

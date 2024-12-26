@@ -1,0 +1,12 @@
+Jorki Rasalas
+Sep 6, 2023
+#31,519
+that's what I was thinking of. The RX7800XT GPU is out today at around £499 (supposedly as Amazon UK still not showing it!).
+was thinking I'd run it at low settings to see if I liked it, if not get Steam return, if do then maybe upgrade PC in Black Friday sales....
+how did you get it to run?
+I'll try again!
+
+nope, just get a dialogue box each time "Graphics card idoes not meet the minimal specifications requirements"
+
+mmm, there was a WIn10 performance update, now installed. Now to check the NVIDIA driver!
+Last edited: Sep 6, 2023

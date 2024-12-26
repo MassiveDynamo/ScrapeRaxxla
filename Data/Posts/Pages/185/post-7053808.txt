@@ -1,0 +1,23 @@
+Jorki Rasalas
+Sep 30, 2018
+#3,681
+Stinja said:
+Sorry to go back to comments a number of pages back, but I don't forum every day.
+
+
+Your thoughts on rogues matched mine. As there doesn't seem to be a way to jump to "dark systems", I spent time looking at likely inclined planets: like Shinrarta Dezhra B3 (off star LTT 4550) which is perpendicular to the plane.
+
+
+(it's centered-ish as I was recording the logs)
+
+As a gas giant, surely this could not be formed naturally, and has to be captured / ex-rogue?
+
+I've basically stopped playing at the mo, but hopefully the Q4 update sparks my interest again, in which case i'll definitely be doing some more Rax hunting
+
+Well, I was just trying to deduce how a RoguePlanet object type would appear to us as pilots in the game. It seems to me there are two alternatives, & maybe I didn’t make my thoughts clear (this is not uncommon, it rather depends on my recent intake history of either coffee or Lavian brandy). I’ve just finished my breakfast coffee, so here goes:
+
+1) a RoguePlanet might appear in a conventional star system, when its orbit should be inclined to the ecliptic plane and its parameters when detail scanned should somehow denote it as a rogue, though it would be detectable using a basic scan.
+
+2) it may appear in its own system and would therefore be targetable as a valid jump destination in the nav panel. This would implement the “dark systems” of the fiction in-game, and the fact that RoguePlanet parameter appears only in the system “Star Class” object type does suggest that this is possible in-game. Without a star there would be no illumination of the rogue beyond that of any local nebula or the background Milky Way, so it should indeed be very dark. Such a system would appear as an “A” mass type system (i.e. last part of the system name would be A?-? or A?) due to its low mass, but on the galmap when you select that system it should be labelled as “RoguePlanet” not as a “T” or “L” etc brown dwarf star, because it is a distinct RL and in-game object. Therefore I think it should be filterable in galmap & should probably appear under the “Protostar” filter setting.
+
+I also suspected Shin Dez of housing Raxxla & looked at B3 in the past due to its inclination, however the lack of any information from a detailed scan to say it is a RoguePlanet is convincing. There are other RL mechanisms (I think, though astrophysics was not my subject) to cause a body native to a system to end up with an inclined orbit, so inclination is not a definitive indicator of a rogue. I still suspect Merope (I think 6 is highly inclined, goids are very keen on that system), Sol (too obvious?) and Lave systems (see DW’s fan fiction), since MB said Raxxla had to be “a little bit obvious”. It may be that the new exploration object scanning mechanism in chapter 4 will give us the ability to quickly reveal things hidden deep in a system & off the ecliptic (I seem to remember MB once coming out with a general comment that things were hidden off the ecliptic, though that may not relate to Raxxla).

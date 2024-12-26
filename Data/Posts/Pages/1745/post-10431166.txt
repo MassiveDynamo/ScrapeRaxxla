@@ -1,0 +1,20 @@
+marx
+Sep 19, 2024
+#34,886
+Ian Doncaster said:
+Certainly determining which stars to display in the first place is likely to be approximated at the boxel level first since heavier boxels will be visible at a greater distance and also because that's how the generation works in the first place.
+
+But the positions the stars eventually appear at on the skybox are precise rather than rounded to the nearest boxel corner - so I have to ask the question the other way round: given that Frontier has the necessity of having a function to calculate the direction of a star (or a nebula, or an extra-galactic backdrop object, and therefore any arbitrary set of coordinates) to make the skybox look right, and given that they've gone to the trouble of making a really high-quality positional sound engine (and the soundscape is one of the most regularly praised bits of the game!) ... why would they suddenly go to the extra work of making their "position invisible sounds" routine not capable of handling arbitrary coordinates and directions?
+I suppose I should have put more emphasis on the part where it has to work from anywhere in the galaxy, and also on the finisher, that even if this was originally a quick-and-dirty implementation, if Frontier wanted the sound to come from one system, they had many years to correct that. But they didn't, so they likely don't.
+
+The thing is though that all the generation you wrote about there happens in (relatively) nearby boxels. As far as I know, there's no generated object (that's visitable) in the game that gets generated from anywhere else in the galaxy: maybe that would be problematic. Especially when it would be in one of the densest sectors in the game. Given that it was worked extensively on in the last days, I could see Frontier trying the correct approach first, but then that broke in some (perhaps literally) edge cases, or perhaps ran too poorly on potato PCs, and instead of spending too much time on an Easter egg, they slapped something together that worked well enough and left it at that.
+
+More importantly though, the mystery does work better when there's no place to visit, than when there's an actual place to visit but nothing's there, or if the source system were locked and never opened. This way, when it's not clear there's nothing to be found there, there will always be people to will wonder if there is something nobody else has found out, and will engage with the game some more (when they might have moved on to play something else otherwise).
+
+Ian Doncaster said:
+Thargoid Sensors? Trinkets? lots of options. I was coming out from Colonia at the time and didn't think to collect any of those first.
+Oh, I actually had. When news about Jaques Station having been found near the Eol Prou nebula came, I was out heading towards Ovomly with a set of Thargoid artefacts on board, wanting to see if perhaps they did something out there. I immediately sped towards Jaques then, and was in the first eight who arrived there. (Station said eight had docked, but who knows if somebody redocked multiple times.)
+Couldn't do anything with the Thargoid stuff though. If memory serves, you could sell them to the market, and if yes, then I did that. (Which might have made things a bit worse... Oops.)
+Last edited: Sep 19, 2024
+Reactions:
+Ian Doncaster

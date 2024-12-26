@@ -1,0 +1,26 @@
+Louis Calvert
+Jul 4, 2024
+#34,433
+selbie said:
+That's really encouraging to see! I'll add this to my summary.
+In case you missed it, Vildu grabbed the text strings from the 15hr and 3hr streams from Stoutbeard's channel. Check the spoilered text. Assuming they translated the glyphs correctly it's another easy source for comparison. Sadly Twitch doesn't keep stream VODs archived for very long anymore.
+BTW that discord link doesn't work for me. Is it hosted elsewhere?
+
+The pairing structure and the fact they are all 4 character length seems very telling. If the spacing is random then maybe a second / final layer of encryption was used to scramble them.
+Thinking about this, @Ataxia and @selbie
+
+We know that Elite 1984 was only possible due to procedural generation. Source is this excellent video on making the original game. We know Elite Dangerous does the same on a grander scale.
+
+I don't suppose that using procedural generation from a table of the alphabet and 0-9 numbers you could, say, create a string of nearly random numbers for your sci-fi game stations to broadcast?
+
+Just looking for ways this couldn't be any sort of code and could easily be explained - still don't really see why anyone would do that when a simple 1minuite loop of sci-fi code bleeps would be entirely appropriate for the job?!
+
+Alternatively, that second vid I linked has Braben talking about how procgen works for Elite, and mentions several things which relate to using the numbers to find a location.
+
+"So what Elite did, it ran these (numbers) ... for the whole galaxy ... and what you can do is just look in the sequence to see which ones are near you, and then plot them on a map..."
+
+
+While he's talking about this there's a series of numbers along the bottom of the screen. I'm not saying it's any sort of clue, I just think... If I were making a clue to something that revolved around embedding long procgen number string hidden in the game and they led somewhere, I'd also then do a video where I explained how it all worked, nothing like hiding a secret in plain sight.
+Last edited: Jul 4, 2024
+Reactions:
+simulacrae, Rochester and Hanerib

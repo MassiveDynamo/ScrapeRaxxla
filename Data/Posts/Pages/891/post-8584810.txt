@@ -1,0 +1,16 @@
+Jorki Rasalas
+Jul 10, 2020
+#17,820
+To clarify-the high orbital inclination shows this is likely to be a captured planet that was rogue, but since it is now orbiting the primary star it is no longer rogue. The orbital eccentricity shows it is not in a parabolic or hyperbolic orbit which would throw it out of the system (https://en.m.wikipedia.org/wiki/Orbital_eccentricity).
+
+The journal log manual implies that a “star system” (to which we can fsd jump) could have just a rogue planet with no star, though none have so far been found in-game.
+
+Since DB is IRL keen on astronomy there may well be rogue planets in-game. If so they should be in a system name that ends with “A???” since ED system naming is determined by the total mass of the system and a solitary planet will be very low mass (
+Source: https://m.youtube.com/watch?v=dIrw5lydNKc
+).
+
+The link I have to “Universal Cartographics system naming” seems to have stopped working, but this TL;DR is on Reddit
+Source: https://www.reddit.com/r/eliteexplorers/comments/3rekys/star_system_name_meanings_sector_subsector/
+Last edited: Jul 10, 2020
+Reactions:
+Exekrator, Mattius101, Han_Zen and 3 others

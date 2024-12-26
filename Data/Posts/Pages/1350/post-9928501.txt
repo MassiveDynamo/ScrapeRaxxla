@@ -1,0 +1,37 @@
+Jorki Rasalas
+Aug 31, 2022
+#27,000
+Journal spec v3.0 had for bodytype:
+"Null" (eg the barycentre of a binary star system)
+"Star"
+"Planet"
+"PlanetaryRing"
+"StellarRing"
+"Station"
+"AsteroidCluster"
+
+V3.1 spec had:
+"Null" (eg the barycentre of a binary star system)
+"Star"
+"Planet"
+"PlanetaryRing"
+"StellarRing"
+"Station"
+"AsteroidCluster"
+
+V3.2 spec had:
+"Null" (eg the barycentre of a binary star system)
+"Star"
+"Planet"
+"PlanetaryRing"
+"StellarRing"
+"Station"
+"AsteroidCluster"
+
+But RoguePlanet is under Star Description!
+
+An object with a hyperbolic orbit is, by definition, not bound to the system & it’s a rogue!
+
+Methinks FD are not playing fair! If HyperbolicOrbiter bodytype has not appeared in the Journal Spec then how could we be expected to look for it? Moreover if that has been hidden then what else is hidden? If Raxxla is of a hidden object type then truly we would have to trip over it to find it, and maybe not even then!
+Reactions:
+rOmiLaYu, Ataxia, Rochester and 2 others

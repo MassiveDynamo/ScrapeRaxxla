@@ -1,0 +1,16 @@
+Macros Black
+May 26, 2022
+#26,253
+Mission Operation Bubble To Barnard's Loop.
+
+Data analysis
+
+Using Spansh to get a destination gives the system Flame Sector DB-X c1-0
+SPOILER: CUBEO TO CRAB NEBULA
+
+Using the edsm api gives 750 systems
+SPOILER: EDSM API CUBE SYSTEMS
+
+TODO: Exclude all Non-KGBFOAM? in the 750 systems
+Reactions:
+Adel, Machina Ergo Sum, Rochester and 3 others

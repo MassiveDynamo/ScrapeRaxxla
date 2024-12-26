@@ -1,0 +1,36 @@
+Rochester
+Jan 26, 2023
+#29,056
+CMDRCorrMorningstarFelian said:
+I'd be curious on what exactly were the orginal discussions of dark systems insofar as how Braben wanted them to exist. Was there anything in the Kickstarter or early forum posts that better described them? From the books, they sounded like systems that existed but hardly anyone bothered to map for whatever reason. Therefore, you got incomplete maps or routes.
+There is circumstantial evidence…
+
+I’ve posted it previously many moons ago, I’ll dig it out eventually and edit these posts. But essentially there is a video, and there are player documents online which document it, and of course various posts on these forums. It’s never really conclusive, you have to put it together; also Drew did utilities it in one of his stories… saying about dark systems ‘brown dwarfs used to be known as dark systems’…
+
+Shuffling papers…
+
+Source: https://youtu.be/7HOUQN_qaHI
+
+Post in thread 'THE FORMIDINE RIFT MYSTERY (Part 4)'
+https://forums.frontier.co.uk/threads/the-formidine-rift-mystery-part-4.324796/post-5645114
+
+Post in thread 'Dark Systems'
+https://forums.frontier.co.uk/threads/dark-systems.210928/post-3245071
+
+ED Newsletter #3
+
+Here’s an old 2014 QA by David Braben where it crops up:
+https://www.elitedangerous.de/dokumente/Elite-Dangerous-David-Braben-Answers-Questions.pdf
+
+Q:“Talking of exploration, do you envisage finding a new system and instantly knowing what planets/moons etc are there or will it remain ‘dark’ until someone finds them. Also will the discoverer be known throughout the universe. (news feed possibly)?”
+
+A: Stellar systems that have not been explored will simply show the star or star(s) that can be seen there from a distance, and have a systematic name. Someone will have to explore them AND RETURN for them to become more generally known. They will also be able to stake a claim and name such a system.
+
+Some ‘dark’ systems will not be shown at all, until someone actively scans that area of space, and makes that information available – and without that information (which will be tradable) it will not be possible to travel through hyperspace to it. DB June 5 2014.
+
+This early concept compilation may explain it better; whereby dark systems were to be used as navigational aids: https://www.elitedangerous.de/dokumente/ED-The-Beginning-2014.pdf
+
+Note it’s obvious this concept was dropped pre-launch.
+Last edited: Jan 27, 2023
+Reactions:
+Ataxia and CMDRCorrMorningstarFelian

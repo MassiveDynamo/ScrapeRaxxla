@@ -1,0 +1,6 @@
+Jorki Rasalas
+Sep 23, 2020
+#19,030
+Anybody good at handling JSON files? It would be nice to download a data dump from EDSM and filter out systems with (only?) a type M subdwarf plus asteroid belt plus type 3 GG and see if there is anything within/near the bubble (it's not me I'm afraid!)
+Reactions:
+Q Hung

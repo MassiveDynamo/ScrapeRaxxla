@@ -1,0 +1,9 @@
+Ataxia
+Jul 26, 2022
+#26,508
+Today I verified (more for myself) that a discovery ie star system does not sho up until it has been discovered. Though you can find systems in game, Inara will not search the system until it has been found.
+
+This is huge, even in the game if something is not scanned it does not show up (bodies within a system). This pushes the potential of Raxxla's site to not have been found potentially because it shows as a signature that people are less likely to scan or that certain actions are required in order for the frequency to populate.
+
+
+This does follow several popular ideas.

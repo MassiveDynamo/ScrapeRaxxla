@@ -1,0 +1,34 @@
+Thatchinho
+Mar 15, 2021
+#22,035
+clavain said:
+I always find it very curious how quickly these things are found, currently at HIP 33386 retracing the route, and looking at how many unexplored Type K star systems are nearby that might have been that listening post, yet someone managed to find that specific one within a day or two. OK, sure, someone might have already had it mapped to be able to see the system information and number of planets very quickly (or perhaps used EDSM searches or the like although that feels too much like a word I probably can't use here for me).
+It was less than a day. Nothing curious about it though. Well not in the 'strange or suspicious' sense, anyway. Here's what happened...
+
+Someone posted the logs from the Adamastor.
+
+Someone else posted the local Galnet news.
+
+From the info in those, I worked out roughly where to look for the K Class, and posted a K Class system as a starting point, and posted that.
+
+Thatchinho said:
+Assuming a straight line between Chukchan and the first HIP, and a K Class, then I make it somewhere in the vicinity of Synuefe XE-Y C17-1. Haven’t done a comparison with a straight line through the 2nd HIP though.
+
+Edit - also assuming no contingency in the fuel.
+
+(Others had worked out similarly and got slightly different starting systems.)
+
+People started heading to and searching the area.
+
+Someone found the right system. (I'd been one system away from the right one at one point while searching, but had jumped off in another direction.)
+
+Once you get enough people checking in roughly the right area, things get found very quickly (assuming they're things that show up distinctly anyway). It's just a matter of numbers.
+
+
+(Happy to elaborate on how to do the working, but basically it's just calculating the vector between Chuckchan and the specified HIP, and the extrapolating that vector out to the specified distance.)
+
+
+Edit - to add, when working out it out, it was very much just a first iteration based on taking it all at the most simplistic level, and ignoring loads of stuff which could have (and possibly should have) made it more complicated. It was a case of starting with the simple version, and then starting to factor more things in if the simple version didn't produce anything. (I was actually a bit disappointed that the simple version did in fact prove to be correct.)
+Last edited: Mar 15, 2021
+Reactions:
+{SAS}Stalker, [PS4] Filthymick420 and clavain

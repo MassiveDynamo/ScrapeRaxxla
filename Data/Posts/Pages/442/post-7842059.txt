@@ -1,0 +1,13 @@
+[Diplomacy] Carnegie
+Jun 10, 2019
+#8,825
+Jorki Rasalas said:
+On entry to a system you use the fss (full spectrum scanner) to identify and locate system bodies. When you find an interesting one you travel to it and use the dss (detailed surface scanner) by using it to fire probes. Target the body and approach it, select “surface scanner” (already set up as one of your fire groups), it will tell you when you’re in range. Zero throttle and enter dss. Fire your probes- move the reticle to align with the marker on the radial line to land a probe on the edge of the body, fire one directly at it, or go beyond the marker but not as far as the “miss” marker (I usually try half way between the two) to land a probe on the back of the body. If there is a body ring then if you move the radial line at some point it will say “ring”, fire then to hit the ring! You only need one probe to scan all the rings of a multi-ringed body.
+
+I believe that if the inner edge ring is too far away from the body, you can't actually fire probes at it. I didn't try to do it with my 132 Ls ring, but there were 4 bodies INSIDE the ring, so I suspect that the inner edge was at least 20 Ls out. There's no way you're going to be able to hit that with a probe.
+
+Edit:
+Checked on EDSM and the INNER radius of the ring is 104 Ls. No way that can be probed.
+Last edited: Jun 10, 2019
+Reactions:
+Jorki Rasalas and Count dEstard

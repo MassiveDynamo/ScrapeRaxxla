@@ -1,0 +1,21 @@
+Ian Doncaster
+May 6, 2019
+#7,933
+Noobilite said:
+1. I found another system in galaxy 6. Aten.
+Aten is most plausibly in Elite Dangerous because it's the name of an ancient Egyptian deity - there are several other systems on that theme.
+(This could also apply to Ra, which of the galaxy 1 systems in Elite Dangerous is a long way from the fairly tight cluster of the others, and therefore might also be a coincidental match)
+
+Noobilite said:
+2. What if we have to feed Raxxla backwards through one of the name generators logic and spit it out the newer one somehow. Was the name in the original games generator attached to location? I don't understand the wiki pages info enough to figure out.
+To simplify, each system in the original game started out as a 4-byte number, which was used as the starting state of a basic (and not actually very good, since it it had to fit into 80s hardware) random number generator, and various operations on both the number itself and the output of the RNG were used to determine the system properties - including both name and position. So there is a connection between the name and position, but it's not one that you can use to go between the two: knowing the position doesn't give you enough information about the system's internal number to determine its name (and there are a few examples of systems occupying the exact same coordinates), while systems of the same name can be generated in different positions (check Inzaan and Inzaan in Galaxy 8, for example, or Xeer and Xeer in Galaxies 1 and 5) ... as I said, the Elite RNG wasn't actually all that random.
+
+However, RAXXLA is not a possible name for a system in the original Elite, because names in that game are made up of digrams (letter pairs) and because of the formation of the LEXE string, all digrams consist of one of:
+- vowel then consonant
+- consonant then vowel
+- special case: the letter A alone (which is how systems with an odd number of letters are generated) represented as A' (A-apostrophe) in the LEXE string.
+So LAVE = LA + VE, TIONISLA = TI + ON + IS + LA, and so on
+
+RA and LA are valid digrams used in many original Elite system names - XX is not. So there's no way that you could "pick the right number" to get RAXXLA as a system in the original Elite.
+Reactions:
+Six6VI, Deleted member 192632, Midian Cabal and 2 others

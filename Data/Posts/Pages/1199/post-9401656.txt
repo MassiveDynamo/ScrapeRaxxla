@@ -1,0 +1,11 @@
+Jorki Rasalas
+Jul 13, 2021
+#23,972
+alexzk said:
+It shows +/-100 there Exact way - read logs.
+Ah, reading the logs-perhaps EDDiscovery shows current coordinates? Will check out when flying later today.
+
+Edit: IRL getting in the way of flying, but yes, EDD displays the coordinates of the current system you’re in.
+Last edited: Jul 15, 2021
+Reactions:
+simulacrae

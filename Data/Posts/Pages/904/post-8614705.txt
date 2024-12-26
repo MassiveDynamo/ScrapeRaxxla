@@ -1,0 +1,8 @@
+norlin
+Jul 26, 2020
+#18,067
+[VR] Panzertard said:
+It wont solve anything for us.
+Actually it highly reduce the number of the systems which need to check, in case of a bruteforce search. Though it's not adding any real clues about how to solve the mistery itself.
+Reactions:
+Mrrshal and [PS4] Filthymick420

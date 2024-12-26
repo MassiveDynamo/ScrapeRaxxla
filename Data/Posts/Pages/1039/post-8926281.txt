@@ -1,0 +1,23 @@
+Vektorboson
+V
+Jan 30, 2021
+#20,776
+Jorki Rasalas said:
+Just checking out the Independent Raxxla Hunters Discord.
+Spliffz had a green glow that illuminated his ship.
+
+And had another that lit his cockpit interior.
+
+So perhaps these glows are more common than we thought but not all are lighting the cockpit. Moreover this was lit by a light source external to the ship!
+
+Click to expand...
+
+This looks like a shader bug to me. In the very first picture the lighted areas don't make sense; the light seems to come from behind and above the ship.
+But that does not explain why the forward/side edges are tinted green, too. This would require two light sources or indirect lighting. Also the other pictures show areas which are tinted green, but surrounding areas are not. Also the green glow is not always that lush green, in the posted videos I've seen that it sometimes is a more yellowish tint.
+
+I mean, there obviously is a light (which is not the sun), but if the shader code is wrong (possibly one axis of the normal flipped) then it will be difficult to get the actual direction of the light.
+In the videos I had the impression that the vertical axis of the light direction might be flipped.
+
+It would be a good idea to also note what ships you are all flying, it might be bound to a few specific ship types.
+Reactions:
+Mrrshal, [PS4] Filthymick420 and Macros Black

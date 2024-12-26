@@ -1,0 +1,8 @@
+John Stoutbeard
+Jan 1, 2023
+#28,722
+Jorki Rasalas said:
+OK, Tyko is looking for a FC lift to either Colonia or back to the bubble. I'm sure I've seen FC planned departure/routing info on the sysmap somewhere. Do I have to dock with the FC before seeing that? seems a bit of a silly way to do things if so
+According to sources, you need to use 3rd party tools - I've not seen this ingame (unless you're on a carrier that has already initiated a jump).
+Reactions:
+CMDRCorrMorningstarFelian

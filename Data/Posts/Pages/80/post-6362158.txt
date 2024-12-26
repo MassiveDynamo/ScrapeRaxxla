@@ -1,0 +1,7 @@
+Jorki Rasalas
+Jan 30, 2018
+#1,589
+Jaiotu said:
+Yes, I did 1917 and Stellarium has Mt. Wilson observatory programmed in as a default location so it should account for altitude. Vega would have been on or below the horizon until about 30 minutes to an hour after the observation was supposed to take place.
+
+And no astronomer would choose a star close to the horizon for telescope testing due to atmospheric effects. It would have likely been close to the Zenith.

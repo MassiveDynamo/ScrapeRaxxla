@@ -1,0 +1,6 @@
+Vasquess
+Jul 13, 2020
+#17,864
+alexzk said:
+[…] I could make some generic, for example you do query using Lua.
+Imagine you had something like a, let's say, Structured Query Language. Wouldn't that be nice?

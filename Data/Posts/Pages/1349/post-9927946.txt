@@ -1,0 +1,9 @@
+Jorki Rasalas
+Aug 31, 2022
+#26,976
+Pyroboros said:
+found a new BodyType: "HyperbolicOrbiter" still nothing here.
+Details please!!
+That sounds like the Rogue Planet bodytype from the journal spec. You’ve actually found one??
+Reactions:
+Rochester and Han_Zen

@@ -1,0 +1,12 @@
+alexzk
+A
+Apr 18, 2020
+#16,063
+I have a question ... when I fly in bubble some systems cannot show me system map from star map, this means it was never visited by me, right (also red on "visited" filter)?
+Now ...once I jump in and honk - all bodies are known. And if I try to sell data to UC - it cannot be sold as I visited it 2nd time (just absent).
+So question is why it happens? And may it be related to raxxla?
+Bright example is Sol. I thought it's because "home" ... but right now just visited another one "Kolyawa".
+
+So why those systems are special and can it be related to raxxla?
+Reactions:
+[PS4 Pro - PC] earthtone99, PeteACarter, Machina Ergo Sum and 1 other person

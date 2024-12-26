@@ -1,0 +1,11 @@
+Jorki Rasalas
+Dec 24, 2020
+#20,177
+Ruby_Empress said:
+Has any of you been to sol lately? Did anyone notice the analyzing scan when aiming at sol? What is it? and why is the scan never complete
+
+Yes, I’m in Sol at the moment, grinding through checking out the asteroid belt (only figuratively, they are so infrequent it’s a grind looking for them, not that they’re grinding together!).
+
+It happens with some stars everywhere. Why? No idea. Sol doesn’t seem to be any different from others of same type. It doesn’t seem to be type-related to me, but perhaps somebody else has made a study of this phenomenon. I think it’s sufficiently frequent that it doesn’t mean anything significant. Other than it’s some form of bug. Have you checked out the ED Issues Tracker? Perhaps somebody has reported it as a bug?
+Reactions:
+Ruby_Empress and Rochester

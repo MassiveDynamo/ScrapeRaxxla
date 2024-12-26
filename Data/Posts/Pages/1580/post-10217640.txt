@@ -1,0 +1,13 @@
+Han_Zen
+Sep 11, 2023
+#31,588
+simulacrae said:
+When you type in HIP 2066219… does it take you to lave in the map? Not at computer atm.
+I think HanZen did some location work on Lave when he was working on his LEET line.
+The HIP and HD identifiers are always seachable in the Galmap, if they are listed in the system info.
+Some systems have other catalogues listed as well.
+
+Identifiers that are not listed in the system info are not searchable.
+Last edited: Sep 11, 2023
+Reactions:
+CMDRCorrMorningstarFelian and simulacrae

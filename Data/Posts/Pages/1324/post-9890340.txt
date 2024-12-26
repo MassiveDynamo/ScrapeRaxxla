@@ -1,0 +1,7 @@
+Jorki Rasalas
+Jul 17, 2022
+#26,466
+Yes, as you can see from 4th post above I got to the comet 2 USS in normal space (0metres) but it still didnt appear on the nav panel, but I think the actual position and the USS are separated (e.g. nav beacon reported position and graphic!), possibly by up to 10 km...
+
+Edit: mmm, 10km seems very large in hindsight, compared with a few tens of metres that separate the nav beacon marker with its graphic. Almost as if its actual obfuscation??
+Last edited: Jul 18, 2022

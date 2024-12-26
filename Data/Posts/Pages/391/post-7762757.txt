@@ -1,0 +1,6 @@
+Crimson Echo
+Apr 29, 2019
+#7,808
+Maybe the stuff on the right needs to be converted to bits via unicode or iso encoding and worked on from there? The Capitols and number scattered all over the place and the variation in line length seems weird.
+Possibly swap the Endian of the encoding after converted to ints and then back to text?
+Last edited: Apr 29, 2019

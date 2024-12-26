@@ -1,0 +1,14 @@
+Jorki Rasalas
+Sep 25, 2018
+#3,613
+Han_Zen said:
+It looks like the rogues are their own system. It also looks like nebulae are their own systems.
+A nebula is searchable in the galmap, but not possible to select. They don't show up in the nav panel.
+
+Some nebula share coordinates with a star, like the Pleiades and Maia. Other nebula have no star at their coordinate.
+
+If rogues are in the game, don't think they show up in the nave panel. Someone should have found one by now. Statistically there may be billions of them in the galaxy.
+
+IRL there should be many rogue planets in the galaxy as gas giants migrate around a system during its development and can eject planets entirely, however if they were to be detectable, what would they be called in the nav panel? They would essentially form their own system but should not have a normal system name as that is based on the system’s main star category, not any planets therein. So it might be that FD put this object type into the journal spec to represent the “dark systems” that were mentioned in the FD-spnsored books, but haven’t implemented them. In his Oolite books DW had Raxxla as a rogue planet which appeared and disappeared (via witchspace) in other, normal, systems. Wasn’t it supposed to be in Lave at one time? It might be that FD implemented them in his way, with perhaps a very odd orbital inclination (always had a suspicion about one Maia orbit). The rogue might then be numbered normally in accordance with the rest of the system, but might then disappear leaving a gap. So one way to find them might be to watch for “holes”in a system’s planetary numbering& then start scouting around nearby systems; not sure if they could appear in a USS. We can’t get of witchspace except at systems so there is no mechanism for finding them in space between systems, unless they do have some numbering scheme that would allow them to be targeted in the nav panel.
+
+I have no idea what a StellarRemnantNebula would be. A stellar remnant should logically be a black hole, neutron star/pulsar or a nebula, so perhaps this object would be a BH with nebula?

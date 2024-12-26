@@ -1,0 +1,33 @@
+Jorki Rasalas
+Feb 22, 2019
+#6,248
+ironshirt said:
+Just checked the LPs and they still lead to HIP 16613 - The Bug Killer
+
+
+I for one was fully aware that DB was rather referring to UCBs and not FSP numbers when I compiled that FSP numbers list, because someone posted MBs comment (or a link to that) weeks ago.
+I noted the FSP numbers anyhow because I'm interested in how that numbering system works in detail and hope somebody can figure this out. There is a chance that a FSP number list, or the understanding of the numbering system itself, reveals something interesting.
+
+well here's my results from today's meanderings:
+FSP # Name System
+5896 Mastracchio Base Acihaut
+9728 Maunder's Hope Tilian
+6152 Keeler Rest Tilian
+0768 Dahan Gateway Dahan
+0000 Moxon's Mojo Bolg
+6168 Abe Works Ovid
+6656 Bradfield Orbital Ovid
+1792 Bresnik Mine G 239-25
+4848 Massimino Dock LHS 2887
+5680 Mendeleev Gateway Coriccha
+6192 Rushd City Coriccha
+6448 Beckman Station Coriccha
+5936 Schirra Dock Coriccha
+3824 Bowersox Mines Ross 1015
+6842 Lacaille Prospect LHS 3262
+7176 Sy Base LHS 3262
+5104 Gernhardt Camp LHS 417
+6144 Gorbatko Reserve Chi Herculis
+5912 Gemar Orbital Chi Herculis
+Reactions:
+yelboc

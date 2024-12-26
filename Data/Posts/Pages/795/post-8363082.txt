@@ -1,0 +1,24 @@
+Jorki Rasalas
+Apr 4, 2020
+#15,900
+I believe DB said Raxxla has been in-game since Gamma release, the source reference should be on first page.
+And I think you’re wrong - Raxxla is DB’s own very special Easter Egg and he is very protective of it. The lack of FD comment on Raxxla is indicative of its importance, not the contrary.
+
+From my notes of source statements and subsequent musings:
+DB: "(July 2014) It exists, we know where it is and we know why people haven't been able to find it".
+"(June 2018) Does Raxxla exist? There's an interesting one, what a silly question, of course, but you don't know what it is though".
+
+FDev doesn't share information on Raxxla with writers, including Drew Wagar:
+-https://www.twitch.tv/drewwagar/clip/QuaintEmpathicTildeSSSsss
+-https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-2889827
+“The subject of alien races came up and, as a writer, he reminded me of an 'Alien background doc' given to the writers as research material. I do have this, but I'm not allowed (due to NDA) to publish it. Raxxla is part of that. None of the writers were allowed to explore Raxxla, it was very much reserved for 'in-house' development (not surprisingly!).
+
+Then DB came out with his statement. I was a little surprise at what he said, but it was in a public space and others overheard it too.”
+
+Raxxla definitely exists in ED (DW):
+Source: https://www.youtube.com/watch?v=1AsfgQqbRKM
+(47 min in) talks about talking with David Braben at bar after an award ceremony.
+
+To me this implies Raxxla is an alien-related object, perhaps a Guardian or Thargoid ship, some if which are said (in-game tourist beacon I think) to be planet-sized . Guardian ark ship seems most likely. We know roughly the area of Guardian space (though more may yet be discovered) and their three (from Ram Tah decodings) ark ships were launched from their home world region. So I think unlikely that long range ships (e.g. FC) will be needed to locate them/it.
+Reactions:
+Dr. Lexus, Machina Ergo Sum, Rochester and 1 other person

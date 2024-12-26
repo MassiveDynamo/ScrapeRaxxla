@@ -1,0 +1,6 @@
+Thatchinho
+Apr 15, 2022
+#26,002
+Ughkoff said:
+1 hour. when there was an event it broadcast every 10 or 20 minutes if my memory is correct
+Ah, fair enough. I’ve just checked and that UCB should broadcast hourly, at 10 past the hour. It’d be worth double checking at the next scheduled time, and if it’s still not broadcasting then it may well be bugged.

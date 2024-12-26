@@ -1,0 +1,38 @@
+Blaggerdy
+B
+May 24, 2020
+#16,667
+PeteACarter said:
+Another way of cutting this (that works) is:
+1
+The jewel that burns brightest: Polaris
+Whispers in witch space/sirens of deepest void: Syreadiae JX-F c
+Parents greif/lovers woe: aganippe
+Yearning of vagabond heart: Polaris
+
+That gives us a triangle.
+
+Would somebody on here who plays on PC and is good with graphics packages be willing/able to come up with a rough mid-point of this triangle?
+Click to expand...
+
+using (x1+x2+x3)/3 (y1+y2+y3)/3 (z1+z2+z3)/3 would give
+
+Polaris
+-322.6875
+194.59375
+-212.4375
+Syreadiae JX-F c
+-9529.4375
+-64.5
+-7428.4375
+Aganippe
+-11.5625
+43.8125
+11.625
+Centre
+-3287.89583333333
+57.96875
+-2543.08333333333
+assuming I have the correct co-ordinates for each as finding it easy to miss a negative
+Reactions:
+[PS4 Pro - PC] earthtone99, Han_Zen, Merlin StWahgwaan and 2 others

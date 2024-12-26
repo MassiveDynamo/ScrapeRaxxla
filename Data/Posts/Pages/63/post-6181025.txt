@@ -1,0 +1,20 @@
+Jaiotu
+Dec 2, 2017
+#1,259
+Scytale said:
+Yeah ..well..
+"Answering the call of adventure"
+"Obfuscated in the outer rim"
+If this is not clearly an Elite Exploration mission .. I give up.
+Others two are Elite Trade and Elite Combat.
+But again..why not ?
+
+The trouble is ... the the great bug "call of adventure" to entice an "experienced adventurer" on a fresh "expedition" is nothing but a local data delivery mission. Read the text of the mission itself. There's nothing in there about traveling to some distant location and the text subtitle of "obfuscated in the outer rim" doesn't have a clear meaning in relation to the mission text.
+
+Here's the mission:
+SPOILER
+
+It talks about how far away Peral Refinery is and how the distance seems to call for someone much more qualified then somebody who is "mostly aimless".
+
+"Now if an experienced explorer was to head out there ..." doesn't refer to the outer rim. It refers to going all the way out to Peral Refinery (or some other nearby location depending on the RNG that filled in the variable with a particular station).
+Last edited: Dec 2, 2017

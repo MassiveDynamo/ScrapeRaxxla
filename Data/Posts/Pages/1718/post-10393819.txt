@@ -1,0 +1,65 @@
+selbie
+Jun 28, 2024
+#34,347
+Establishing an understanding of what to look for is definitely important.
+Back when we were verifying the existence of the gardens pre-2015 I did a quick check of what people understood of these spawn systems so I'll make this a reference point for myself if anyone needs it.
+
+
+INTERIORS
+There are six station interior archetypes for Coriolis, Ocellus, and Orbis station variants, which are determined by the star system's type, economy and population:
+Industrial - the standard station format
+SPOILER: INDUSTRIAL
+Service (Wealthy) - this was proven to be formerly a similar garden type (aka the "Palm Stations") with simpler lawn + lake landscape designs
+SPOILER: SERVICE
+Tourism, - the Milton Gardens
+SPOILER: TOURISM
+Refinery / Extraction
+SPOILER: REFINERY
+High Tech
+SPOILER: HIGH TECH
+Agriculture.
+SPOILER: AGRICULTURE
+
+STATION ID NUMBERS & NAMES
+From the Wiki:
+Starports controlled by Federation-aligned minor factions display a four-digit identification number with the prefix "FSP" for "Federal Star Port" (e.g. "FSP#6160") on the exterior around the Access Corridor. This number is generated based on the coordinates and name of the station's star system, and is displayed more prominently than the station's own name due to the Federation's highly bureaucratic nature.
+
+Empire-aligned, Alliance-aligned and independent stations do not use this system, although Imperial stations do display the phrase "Hail the Emperor - Bask in Her Glory" beneath the station's name, all written in a golden decorative font. Some stations that are owned by an Anarchy faction may read the phrases "Rise Up Now - Never Surrender" similarly to how the Empire's phrase is displayed.
+FDev confirmation by Simon Brewer
+
+
+
+ENCODED INTERIOR SIGNALS
+Here is the old thread from Children of Raxxla highlighting the discovery.
+Detailed analysis and breakdown of the signals from 2022. Some transcriptions were made of 15 hour and 3 hour recordings based on the interpreted glyph alphabet.
+In summary:
+the signal exists in both large stations and outposts
+the signal exists even without an antenna present (verified: Donar's Oak station in Delphi) - for the clearest signal place your camera above the rearmost landing pads
+[Tentatively confirmed] the signal only appears in Fed systems. Empire systems will likely not have it. This may be related to Empire/Fed/Alliance reputation. source:
+Source: https://www.youtube.com/watch?v=nBQb4iU5qkE
+[To be confirmed] Outposts with no towers present will not have a signal.
+the glyphs are consistently spaced every 4-5 seconds
+the glyph stream does not appear to pause at any time and there is no clear sequence or pattern of repetition that might indicate a text message to directly decode. If it does repeat, it would be a long message of over 4000 characters. Some repetition may exist - see Ataxia's input below
+the encoding is likely using a Pollux Cipher - text converted to morse code, and then the morse symbols are replaced with sets of alphanumeric characters,
+alternately it's using a Playfair cipher due to the apparent lack of repeating characters
+From Ataxia's investigations: [1] [2]
+Ataxia said:
+I found 10x 4 character long sequences that appear twice each in the file.
+
+YBYC: 361 characters
+39LG: 179 characters
+C7L7: 3680 characters
+8NVT: 1871 characters
+G1WL: 3883 characters
+: 1381 characters
+
+Each pair is seperated by the number of characters listed.
+
+This is from a 'translated' 6 hr audio file from one of the stations.
+
+their combined hex is - 16 9b 3e 60 74 ff 2b 56 54 69 70 e5 42 59
+Click to expand...
+
+Last edited: Oct 6, 2024
+Reactions:
+Han_Zen, Neestar, CMDR dkO and 4 others

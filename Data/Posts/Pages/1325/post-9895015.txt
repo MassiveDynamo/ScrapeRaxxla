@@ -1,0 +1,24 @@
+Pyroboros
+Jul 24, 2022
+#26,494
+Jorki Rasalas said:
+Mmm, I must admit to not fully understanding instancing....
+I’m wondering if the reason I’ve had no luck in getting Pareco comet 1 or 2 to show in the nav panel is because I’m not actually dropping into their instance? If they are only associated with event “supercruise exit” does this mean that they may only instance if you drop out of SC withing their sphere of influence? (which I think is 50km-very difficult to achieve!) And that you can’t then encounter them by travelling towards them in normal space? I’ve tried the latter and get some strange behaviour when travelling towards a station in the vicinity of where the comet should be- the distance to the station actually seems to start to increase!
+
+What is puzzling me is that I had interpreted Esvandiary’s post (https://forums.frontier.co.uk/threa...ormal-space-close-to-them.350586/post-5486213) as saying he had found the comet by travelling from a station in normal space, though on re-reading I think I misunderstood. If you have to drop into a 50km SOI from 300km/s minimum SC speed then this would explain the difficulty I’m seeing.
+
+edit: I'm now trying to drop into comet 2 at the centre of the Pareco stations. Selecting the USS, slow down to 30km/s (minimum SC speed) & dropping out at: 80km, 700km, 1Mm & 1.5 Mm from the USS...each time have dropped out with the USS apparently 550km behind me....this is consistently failing!
+
+If Pareco is the hint to make comets "a tiny little bit obvious so people know what they're doing", as seems likely IMHO , it's still proving dam difficult to find one!
+Click to expand...
+I made some experiments:
+Flying in normal Space aiming away from a Station towards its orbital center will eventually get you out of the SOI of that Station. There are the things that can happen now.
+1.) Getting in the SOI from another Station (the SOI "Nav" panel will the show that Station)
+2.) You get in the SHIPPING LANE whit nonzero relative velocity too the stations and the SOIs around you (have a look at the distances to the stations) and you are fast some times even put u back in one of the SOIs
+3.) You hit the SOI of Pareco Comet 2. the SOI panel will show SHIPPING LANE, but your Ship is stationary relative to the other SOIs
+
+To confirm i dropped right at Pareco Comet 2 by directly targeting it and i had the same result. I was stationary relative to the Stations but had SHIPING LANE showing as my reference Body. I then flew 50km ~perpendicular too the orbital plane (just giving upwards trust) and the SOI stayed at SHIPPING LANE but i got instant rel. vel. to the Stations.
+
+TLDR: SHIPPING LANE can obstruct the real reference Body.
+Reactions:
+simulacrae, Han_Zen, Crimson Echo and 1 other person

@@ -1,0 +1,8 @@
+Zieman
+Feb 26, 2019
+#6,282
+Han_Zen said:
+Just noticed that Sedna in Sol, has an elliptic orbit. I don't think I have seen that no any planets in ED before. I didn't even know it was supported.
+LOLWUT?
+Orbital eccentricity has always been a parameter.
+Just looking at orrery view & info on one Ammonia World with orbital eccentricity of 0.8382 - that orbit is no circle!

@@ -1,0 +1,45 @@
+Louis Calvert
+Jan 1, 2024
+#32,818
+Bushido Brown said:
+Louis, you said you were recording while flying around - have you got a handy setup where you can watch a spectrogram on one monitor as you play? because that sounds like a great help.
+Yes. I use Audacity and a virtual cable. Output game sound to virtual cable, input virtual cable to audacity, then output sound from audacity to my headphones (or speakers or whatever). I have Audacity running on my second monitor with the sound running through it so I can see the spectrogram forming as I do stuff. You can also use a window overlay software to essentially make a little window appear over your game screen if you only have 1 monitor connected, the one I used is called "OnTopReplica".
+
+I've not tried Merlin's way but that seems great too, I think there's a lot of ways to work these things and I'm not expert, I did my setup for other reasons too
+Rochester said:
+Based now on the Shibboleths artificial insertion, as part of at least two player fictions, I conclude it’s now irrelevant.
+Well, the addition was still made by Fdev (presumably Brookes since Drew talked about how Brookes worked on the system names and stuff). So it might be that it was convenient for him as part of a wider plan? Also, I'm not sure if the story itself is relevant, but the plot is interesting in many ways four us as Raxxla hunters (I'll spoiler it in case anyone wants to read the book for themselves).
+
+SPOILER: NEMORENSIS PLOT
+
+
+
+
+
+It has me me wonder what else lurks in the less well known novels. I'm going to try to read more of them
+
+Rochester said:
+Ignoring Shibboleths entirely then my ‘Mountain’ theory still holds up to a certain degree, granted it doesn’t effectively lead us anywhere as there still exists gap’s between this concept - of a passage in a mystical mountain, tied to the Celtic Otherworld or Gilgamesh, there is nothing in the Codex to ascribe to this presently either I feel…
+Well, there's the mountain range in the Landscape (assuming that is representing Raxxla), and the Rift allegedly leads to other Universes so I'd say that's pretty spot on
+Rochester said:
+On its own we need consider the landscape signal may just be an historical artefact, it may certainly point to Raxxla, but whose to say that clue is up to date? We know the original path was changed…
+True, but I think it ties in with the Codex very, very neatly. I'll do a post shortly on how I think it all fits together. The Landscape Signal is essentially an in-game representation of the Siren Song that causes Fernweh in some people.
+
+Merlin StWahgwaan said:
+Has anyone ever taken Ancient Keys, from the Guardian Beacons, to the Anomalies?
+Or Thargoid stuff for that matter?
+That's a very good idea. I don't have Ancient Keys (they're too recent IMO), but I have all the Guardian junk and Relics, and two Thargoid Sensors with me, I'll see if I can find any nearby Anomalies and see if that does anyhting!
+
+selbie said:
+Has anybody tried bringing the artifacts near the Brain Trees to see if their sounds change at all? BTs seem to be heavily associated with Guardian systems so I wonder if they react in any way. Additionally their tech is nano-bot based so the items themselves may respond or change?
+I always assume someone has in the past, but it's always worth trying stuff like that.
+selbie said:
+The recordings you provided have definitely cleared up a lot of things for me in terms of what is part of the signal and what is noise. They also show much more detail in the shapes and lines. There are definite repeating elements (the mountain is exactly the same in each iteration during the spectrogram), however, the hard part is figuring out what the common factor is for the repetition - I have a feeling the "original" signal is intermittent and what we receive is quite literally very fuzzy incomplete clue to point us to an idea or place.
+If it is a place, perhaps it's located at one of the systems nearby its origin and we just need to figure out which mountain range it's pointing to shouldn't take too long...........
+Hehe, yeah! I suspect the "where" is found through other clues, or by filling in more of the sound. I totally agree that it seems like we're being given a 'weak' or incomplete version and I've tried everything I can think of to get a stronger signal to no avail. That makes me feel like it's deliberately incomplete -a puzzle!
+
+I think about the earlier puzzles. You have a Listening Post that spits out coded audio at specific times. Decode that Audio to find more Listening posts and assemble the complete message from several of them (3 usually). Combined they give you a location to search for something. Then you have to go there and manually eyeball the surface of a planet to find the specific location.
+
+The fact that the signal appears to represent a planet surface does make me wonder if Raxxla was implemented fully in Horizons, and maybe Braben and Brookes didn't want it solved before then - maybe that's why the Dark Wheel missions were pulled, so as to slow down the hints?
+Reactions:
+Merlin StWahgwaan, Rochester, Adel and 1 other person

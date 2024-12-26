@@ -1,0 +1,20 @@
+yelboc
+Nov 9, 2022
+#27,778
+Louis Calvert said:
+That's interesting info, but (unless you work at Fdev and are stealth-posting ), I don't believe you can know that for sure. I accept that it's likely to be unimportant though, that's basically why I haven't mentioned it since that original post a few days back since.... it's not really important...
+OK addressing the installation names: How do we know its a simple procedural system? We don't for sure but there are strong indicators.
+
+(1) The words show up repeatadly showing that they are selected from finite dictionaries. Each of the three names are chosen from seperate dictionaries to make them flow as if they were real.
+
+(2) There are duplicate names - making a hashing system that can cover thousands of installations, but with a finite set of names is tough and its entirely possible that names will get used more than once. So searching the database on EDDB we find many duplicates. Here's one example:
+
+
+
+So here there are four installation with the same name. In total there are 4849 duplicates currently in the EDDB data.
+
+This is the strongest evidence that naming of installations is entirely procedural.
+
+So, in short - no, I don't know that its irrelevant, but I'm certain enough to reject the names of installation based on my observation of the behaviour of the game. I could be wrong, but I have to work on some basis or else the haystack is the size of a major continent..
+Reactions:
+Louis Calvert, Jorki Rasalas and Rochester

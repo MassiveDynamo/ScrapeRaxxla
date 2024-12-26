@@ -1,0 +1,14 @@
+Deleted member 38366
+D
+Dec 23, 2018
+#4,710
+CMDRCov3rt said:
+What's an example of a human signal? Like a mining operation or the like?
+
+AFAIK a "Human - 1" indication on a non-landable Planet Scan means there's some Listening post or something similar in Orbit around.
+Normally it should be visible from the NAV Panel no later than within 1000Ls.
+
+(Example I've checked myself : Colonia Listening Post around Colonia A 2 B, Atmospheric Planet)
+
+If it's a landable Planet, it normally indicates any human POI, like one of those abandoned Settlements. But I reckon a Listening Post or anything else in Orbit would indicate in the exact same way and is possible.
+Last edited by a moderator: Dec 23, 2018

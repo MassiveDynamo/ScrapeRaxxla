@@ -1,0 +1,36 @@
+CMDRCorrMorningstarFelian
+Nov 10, 2022
+#27,809
+Louis Calvert said:
+@MrSuction @Jorki Rasalas @cmdr milesred I'll also try the trinkets thing now I've finished shooting up Azimuth stuff, that sounds like a great idea
+
+One thing I'd like some help with from people that know more than me. I'm still checking out my Saturn idea (Saturn as the original DW /Raxxla location), and I just can't get over those two missing major moons. I can understand little weird Hyperion (in lore or simply for game design reasons) is gone, maybe mined away or otherwise ejected, I would normally just abandon the idea here.
+
+but I just want to close the investigation into Mimas...
+
+View attachment 331703
+
+as discovered. EDDB says:
+
+
+So, I assume that Mimas must have shown up for at least one person using EDMC or similar, at some point. The radius according to EDDB (198km) is correct according to the Mimas wiki page. I'm not really any good at determining temperatures of space objects other than "hot or cold" so I don't know if a surface temp of 64k as listed on EDDB is accurate to the IRL version, I assume it should be that cold unless tidally heated or somesuch. There's no mass listed which is odd and suggest bugged data, but there an image. There's also no materials listed as you normally get for landables in EDDB, but it is listed as landable.
+
+Does anyone know anything about this in terms of the functioning of EDMC's community database system? Is this a bug? Did Fdev remove it from the game a while back and it's just stayed on the EDMC's database since then? How could I find out these things?
+
+I have flown many complete loops around the edge of the outer ring where Mimas should be and I can't see anything - testing the idea that it's there physically but not registering on ships systems, but given that it would basically be a pixel in supercruise It would be easy to miss.
+Click to expand...
+It is an SVG so cannot display on forums but ring structure is counterintuitive. The gaps may be hiding the moons. Mind the gaps. Also, moons look like points of light.
+
+Article on the rings and segments (long)
+https://en.wikipedia.org/wiki/Rings_of_Saturn?wprov=sfla1
+
+Visual of the inner ring structure:
+File:Saturn's ring plane.svg - Wikimedia Commons
+commons.m.wikimedia.org
+
+Visual of the outer ring structure:
+https://commons.m.wikimedia.org/wiki/File:Saturn_outer_rings_labeled.svg
+
+Hope this helps.
+Reactions:
+Darrack and Louis Calvert

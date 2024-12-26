@@ -1,0 +1,24 @@
+Jorki Rasalas
+Sep 13, 2022
+#27,287
+The PF is a possibility. Since they are in Shinrarta, which you need to be elite to enter, this could be part of the “personal journey” through the game that MB mentioned. Originally the tourist beacons about them in Shin Dez had different spellings (since corrected!) for Pilots Federation and it seemed to be significant, possibly indicating different factions within PF, and we know from one TB that TDW are a faction within PF. Since you had to be elite to get into SD to see those beacons it fits with a personal journey. The old E/F missions were mainly by the PF against TDW interests, which I’ve long thought was the real reason for those missions, to highlight this situation and different factions. Those old E/F missions disappeared when the mission system was updated, so it makes sense for them to have been streamlined into the new system.
+
+Rochester raised a bug report on these different spellings & the response (later deleted!!) indicated that all spellings were correct so there must be a reason. Clearly this was an obfuscation on the basis that most people would assume this was a single faction and put the differences down to bad spelling on FD’s part (which has always struck me as a bit strange, especially since MB was an author and Exec Producer who should have enforced good spellchecking practice). I suspect we need to ally with all these variants to trigger some event.
+
+Long after becoming Allied with SD PF I received a separate Allied notification from “PilotsFederation” (as have others) after rescuing passengers from burning stations and killing lots of Thargoid Scouts (to get my third elite rank). So separate factions is very likely, maybe we need to become allied with them all? Looking through galnet about them I found possibly some hints, e.g.:
+
+A) Pilots’ Federation (Admin for noobs area, Local Branch for ShinDez)
+B) Pilots Federation (Local Branch)
+C) PilotsFederation
+D) The Pilots Federation -?? (same as b?) might have been in SD then converted to superpower ...
+
+So: Ps_F/ P’s_F/ Ps’_F/ PsF/ T_Ps_F. Possibly Ally by:
+Ps_F: # markets traded, Anti-piracy missions?
+P’s_F: BH enemies of the Pilot’s Federation-sponsored CG/BH/Assassination?
+Ps’_FLB: Missions for SD faction YEP, GOT IT
+PsF: Kill Thargoids/rescue from burning stations YEP, GOT IT
+T_Ps_F: refuel stranded pilots? sponsored CG? Codex entries? Exploration?
+But if this is the Raxxla storyline it is very obscure!!
+Last edited: Sep 13, 2022
+Reactions:
+Rochester

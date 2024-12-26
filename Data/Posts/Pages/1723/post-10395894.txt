@@ -1,0 +1,22 @@
+CMDR Davanix
+Jul 4, 2024
+#34,444
+Louis Calvert said:
+Thinking about this, @Ataxia and @selbie
+
+We know that Elite 1984 was only possible due to procedural generation. Source is this excellent video on making the original game. We know Elite Dangerous does the same on a grander scale.
+
+I don't suppose that using procedural generation from a table of the alphabet and 0-9 numbers you could, say, create a string of nearly random numbers for your sci-fi game stations to broadcast?
+
+Just looking for ways this couldn't be any sort of code and could easily be explained - still don't really see why anyone would do that when a simple 1minuite loop of sci-fi code bleeps would be entirely appropriate for the job?!
+
+Alternatively, that second vid I linked has Braben talking about how procgen works for Elite, and mentions several things which relate to using the numbers to find a location.
+
+"So what Elite did, it ran these (numbers) ... for the whole galaxy ... and what you can do is just look in the sequence to see which ones are near you, and then plot them on a map..."
+
+
+While he's talking about this there's a series of numbers along the bottom of the screen. I'm not saying it's any sort of clue, I just think... If I were making a clue to something that revolved around embedding long procgen number string hidden in the game and they led somewhere, I'd also then do a video where I explained how it all worked, nothing like hiding a secret in plain sight.
+Click to expand...
+Could the date 2296 also be a direct clue number within this string
+Reactions:
+Ataxia

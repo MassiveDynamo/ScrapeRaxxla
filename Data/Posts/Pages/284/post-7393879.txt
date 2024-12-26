@@ -1,0 +1,12 @@
+Crimson Echo
+Feb 1, 2019
+#5,662
+CMDR Beni Stingray said:
+I finally acquired 3 SAP 8 core containers (can still be found carried by "Military Courier Vessel" in systems with war state). Going to try different things with them. Polaris and HIP 22460 are still permit locked, next i try is Triton in Sol.
+Also on the list are the systems with "sap" in the name, getting scanned by a Thargoid interceptor, trigger an emp burst from the Thargoids, activate Guardian obelisk, terminal and beacon, some systems (not going to list all), the new cristaline lifeform things.
+
+Any other things i could try?
+
+I have already tried most of that since 3.3 with no luck (except going to triton) , but it is always good to double check. Did you happen to notice a quirk with the route plotter near HIP 22460 ? There are two systems about 21 ish LY apart on either side of hip 22460 (the course nearly intersects HIP 22460). I had the jump range to jump between them, but the route plotter insisted on two shorter jumps around HIP 22460. When I manually selected the other system I was able to make the jump.
+Reactions:
+CMDR Beni Stingray

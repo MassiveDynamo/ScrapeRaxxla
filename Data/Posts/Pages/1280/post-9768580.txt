@@ -1,0 +1,31 @@
+CMDRCorrMorningstarFelian
+Mar 11, 2022
+#25,597
+CMDRCorrMorningstarFelian said:
+Hear me out - we fundamentally misunderstood Faraway and it still exists. This can be backed up from looking at quirium based purely from an in-game lore standpoint and adding some very basic science.
+
+1) Hyperspace technology arises in Sol with Li Qin Jao who's team ultimately establishes Sirius Corporation. It was slow and finicky but it got us to the stars. Era of rapid expansion begins in earnest by 2230 (per "Early Colonies" tourist beacon in Delta Pavonis). This push is made up of individuals and corporations. Navigation was independent at this point already. Jumps are not externally configured but they are slower.
+
+2) If you read closely about quirium, Galnet states it's formula which was a secret which was lost (see "Galactic News: Hyperspace - ). The question should be was it really? Taken from from purely scientific point there are few energy sources that match the punch of either fusion of hydrogen or the matter-antimatter annihilation reaction. We have both in the game so no it wasn't lost. We also have recipes for FSD boosting without a white dwarf or neutron star. In the game we use hydrogen fuel which is run through a fusion reactor (type 2b hyperspace) per the in-game description of hydrogen fuel:
+
+
+What we know about Quirium per the old wiki () it is described as follows:
+
+Quirium is produced industrially in vast quantities and sold for a few Credits per LY. Due to the low cost, and almost universal availability, small scale production rarely makes sense, but it may also be produced on board a ship by harvesting plasma from the corona of a star with a fuel scoop either in emergency, or for far space research where normal supplies may not be available.
+
+-could be produced industrially in huge quantities
+-sold for credits per lightyear
+-near universally available
+-can be harvested from plasma from the corona of star with a fuel scoop
+
+This means Type 2b hyperspace wasn't dependent on Thargoids so much as a reaction to Thargoids. We needed fuels that wouldn't ignite when our ships were hyperdicted. We needed a way to get back to safety as quickly as possible if the ship didn't possess weapons (supercruise). This was solved via a mini-fusion core and a navigation computer that not only locks jumps but locks out human ability to power off the FSD during inter-system jumps (just try to kill power during a high-wake jump). Mis-jumps still can happen and you can readily demonstate this by killing power to your FSD during supercruise.
+
+So what was GalCop wanting kept hidden - the fact Faraway never died. Faraway, in fact, may have predated Lave itself because it is older than humanity itself and may even be known by another name: RAXXLA. Faraway, in fact, matches the stargates as described in "Tour of the Universe" and the novella "The Dark Wheel".
+
+Here's the description per Holdstock and Malcolm Edwards "Tour of the Universe" of a stargate. Sounds awfully familiar to description of Faraway in The Dark Wheel doesn't it?
+
+Click to expand...
+
+Now, whether we are searching for something physical? Probably. Though, I think there is something to the "cosmic enlightenment" mentioned in the Codex. I have some ideas on this based on the earliest colonization efforts which were largely detailed in Frontiers gazette. I also believe there is more than one stargate (or Faraway network node). In the images from "Tour of the Universe" there are three so one probably one per superpower but that's just a guess. I believe the old lore is there if one only pays attention. I think the artificial structures and artificial power sources aren't human built but humans are trying to understand them. Faraway network very much sounds like it may possibly be the same network mentioned in "Alien World: A complete Illustrated Guide". If anything, Raxxla was lost because we forgot where we came from. It just doesn't make sense that we had independent navigation then suddenly we don't. No, we found artifacts of a long dead civilization and that became Faraway network. But, if we want to find this we need to seek out what happened in the earliest of colonies. If there's a place we need to start looking, it's at those systems and reconnect the missing pieces.
+Reactions:
+John Stoutbeard and Adel

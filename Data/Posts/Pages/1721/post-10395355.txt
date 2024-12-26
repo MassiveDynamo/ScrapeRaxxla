@@ -1,0 +1,80 @@
+Ataxia
+Jul 3, 2024
+#34,412
+Bringing a few things across..
+
+For a few science things I'm working on, some defimately require a tin hat...
+
+Systems and signals to check;
+
+Due to a rabbit hole about thorn turning to TZO stars;
+NR - not found at this time,
+Likely cannidates found listed (found from edsm)
+
+I will be planning a tour for any bubble local objects and include distances as well as signals found in the area's.
+
+I also plan to check the landscape signal from the reacheable locations.
+
+BD+61 2536 (TIC 470710327)
+NR
+
+GRO J1655-40
+<https://www.edsm.net/en/system/id/53353/name/V1033+Scorpii>
+
+VZ Sagittarii
+<https://www.edsm.net/en/system/id/41408/name/V4641+Sagittarii>
+
+U Aquarii
+<https://www.edsm.net/en/system/id/19359/name/Upsilon+Aquarii>
+
+KN Cassiopeiae
+<https://www.edsm.net/en/system/id/2301735/name/Kappa+Cassiopeiae>
+
+IO Persei
+<https://www.edsm.net/en/system/id/17724/name/Iota+Persei>
+
+V595 Cassiopeiae ** location issues **
+Based on a parallax of 1.37, V595 Cassiopeiae distance from Earth can be calculated at being 2,380.75 light years away or -9090.91 parsecs.
+?- V509 Cassiopeiae (V509 Cas or HR 8752) is one of two yellow hypergiant stars found in the constellation Cassiopeia, which also contains Rho Cassiopeiae.
+
+HV 11417
+- in small magellon cloud
+
+HV 2112
+- in small magellon cloud
+
+---------
+
+As for the station ae signal, there is a decoder script for it, trying to find it - seems to elude me at this time.
+
+It breaks the symbols down into alpha numeric A-Z, 1-0.
+
+I have the hex dump of one stations audio tx that I've looked at and it could be a cypher but until some kind of comsistancy can be found decrypting this one will take more time.
+
+
+Found it..
+
+Discord - Group Chat That’s All Fun & Games
+Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
+discord.com
+
+Long ago cmdrs noticed the signals inside the stations near the back on the axis. I remember reading this and everyone thought that this was in reference to the numbers written on the outside of the stations. Reading it now it is pretty clear this is in reference to the code in the antenna since numbers painted on the outside of the station are not "transmitted". It is unlikely that the characters are the only encoded message.
+Interesting comment by DB about Stations
+In the PS4 launch media circus : “I think the last game I completed was perhaps Everybody’s Gone to the Rapture. It’s quite a strange, very relaxed game, but by the end I was desperate to know what was going on. I’d gotten a bit hung up on the strange number sequences you get during the...
+forums.frontier.co.uk
+
+To record (need to provide better details):
+1. Dock at station and remain on the surface
+2. Turn off all in game music
+3. Go into free cam and move toward the back of the station at the center
+4. Open Audacity and record using a loopback
+5. set the track to Spectrogram
+Attachments
+Screenshot_20240703_140912_Gallery.jpg
+1.2 MB · Views: 41
+Screenshot_20240703_140906_Gallery.jpg
+242 KB · Views: 55
+Screenshot_20240703_140901_Gallery.jpg
+323.7 KB · Views: 41
+Reactions:
+selbie and Louis Calvert

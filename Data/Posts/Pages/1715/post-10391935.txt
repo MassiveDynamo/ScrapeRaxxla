@@ -1,0 +1,26 @@
+Jorki Rasalas
+Jun 23, 2024
+#34,292
+selbie said:
+This highlights the elegant simplicity of the procedural generation system which has preserved the purity of this mystery. There have been many games where the developers had crafted wonderfully complex mysteries only to have them spoiled a week after launch because of datamining etc. Yet here we are 10 years later with not a single whisper of what or where Raxxla is.
+
+I believe there is a high chance that Raxxla employs the proc gen system in some way to generate whatever "it" is, just like the original game used a string of bits to define location, tech level, prosperity etc of a system. This is also how we are able to return to a planet's rings and find the exact same rock each time.
+
+
+[Timestamped link]
+Naturally our modern version of Elite's dynamically fluctuating galaxy would have a lot more layers of complexity to it but all the system has to do is apply modifiers / flags to guide what the server spits out for us to see in game and I've often wondered if the word RAXXLA itself is acting as a modifier element allowing it to exist as a pre-defined gateway. Maybe the "door is the key" meme is a tongue-in-cheek reference to that as well
+
+If the alleged story that Raxxla has been honked is even remotely accurate, then it may indicate there is a further step to take within this system. Fortunately for us, FDev gave us a small compromise during the Guardian Ruins era in the sense that we don't have to be within Mk.1 Eyeball distance to have things show up on our contacts.
+Click to expand...
+Well, clearly it's not named "Raxxla" in the game files or the data miners would have found it in 2014. As I understand it the game files run to generate the universe totally on our end and the FD servers are just there to handle interactions and hold the odd hand-generated poi, like the old Formidine Rift bases that caused the game to crash when a player's machine "discovered" one and tried to download it.
+
+Raxxla wasn't honked, the report was that someone had jumped into the system that contains Raxxla, honked, presumably refuelled, and jumped out without discovering Raxxla (see my FD Quotes thread, link in signature). This was likely in the days before the "infinite range" scanner we have now, but even that does not detect all objects- FD can amend the detection range of game objects, witness the generation ship that was hidden in an asteroid belt cluster, Guardian bases only detected within 1000ls, etc.
+
+So Raxxla is not a system, it is an object that may only be detectable at close range. Perhaps it is only downloaded when a player finds/triggers the "Omphalos Rift"- that may be invisible....what would a rift in space look like in ED? It might be that MK1 eyeball is the only way to detect it. If it's hidden in a planetary ring then perhaps it looks like a ring asteroid until..........what? Do we have to try to mine it to activate the rift???
+
+As the great Bert Gummer said "I can't help feeling I've been denied critical need-to-know information!"
+
+(Found "Tremors, a cold day in hell" on Netflix last night. Didn't know it existed! )
+Last edited: Jun 23, 2024
+Reactions:
+CMDRCorrMorningstarFelian, selbie and Rochester

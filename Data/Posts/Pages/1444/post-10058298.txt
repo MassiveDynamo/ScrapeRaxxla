@@ -1,0 +1,11 @@
+Emperor
+Jan 12, 2023
+#28,867
+John Stoutbeard said:
+How would a negative number be shown? Perhaps the "!" is a negative notation?
+And hold on, what about the hexagrams everywhere? Could it be base-6?
+Well I was hoping it might spark some discussion on the toast in terms of stenography... Been reading up on it and it seems there are a few ways of hiding messages in text... Just something weird about it... Or obvious.... I'm hoping someone might see something
+
+! Is often used as a logical "Not" operator in coding, not sure on negative notation...
+Reactions:
+Edelgard von Rhein, Rochester, CMDRCorrMorningstarFelian and 1 other person

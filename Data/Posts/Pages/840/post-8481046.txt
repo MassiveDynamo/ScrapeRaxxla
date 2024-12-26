@@ -1,0 +1,24 @@
+rOmiLaYu
+May 27, 2020
+#16,791
+Merlin StWahgwaan said:
+Well, thats a loaded question....
+
+First, there are some places like Titan? in SOL that are indeed permit locked for the Devs use.
+We can infer from that there is most likely at least one full system that would be locked for the same reason, for allowing testing of things like FCs and Thargoid ships ect before releaseing them into the environment.
+
+Then there is the list of known permit locked systems, which some have reasons for, like rewards for achieving certain mile stones, or allying with certain factions ect...
+
+
+And then we run into systems like Polairs, where its all full speculation... no specific reasons given, but some assume it is indeed for future content, thats my personal belief....
+
+As for the two opposite each other, which two are you talking about? Are they listed on the above llinked page with reasons?
+Click to expand...
+I guess I just don't understand why the devs need a system to "test" things in the live build....much less as many as they have blocked off. COL 70 Sector comes to mind. Obviously they have ways of replicating the existing servers, so why not an internal dev beta? I'm not a programmer so there may be advantages to having "locked systems" but in an MMO, I just think it's odd. Imagine playing Elder Scrolls online and there being large swathes of the map that you can travel to. If it genuinely is for later development/story....I just have my doubts. Five years in and they are still locked?
+
+As to the two systems, yes, they are mentioned on the Unihabited page. SCHEAU BLI NB-O D6-1409 & DRYIO FLYUAE IC-B C1-377. Below is a reddit post from a few years ago when they were discovered.
+
+https://www.reddit.com/r/EliteOllo/comments/7twmjy
+Source: https://www.reddit.com/r/EliteOllo/comments/7twmjy/2_security_permit_locked_systems_found_in_deep/
+Reactions:
+Mrrshal, Machina Ergo Sum and [PS4] Filthymick420

@@ -1,0 +1,11 @@
+Quartz_in_a_nutshell
+Q
+Sep 24, 2020
+#19,051
+Then if I have a server with said computation power(AKA Google BigQuery, which is capable of handling a few TB scale data) then is it a plausible plan?
+BigQuery Enterprise Data Warehouse | Google Cloud
+BigQuery is a serverless, cost-effective and multicloud data warehouse designed to help you turn big data into valuable business insights. Start free.
+cloud.google.com
+Last edited: Sep 24, 2020
+Reactions:
+Fiera, Dr. Lexus and Vetinari

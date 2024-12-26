@@ -1,0 +1,19 @@
+Robert Rockbite
+R
+Dec 18, 2022
+#28,528
+Pyroboros said:
+The a few pages ago. https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-10032351
+But rather to brute force whit all known Systems, brute force whit only the ones from this tread may make it doable in the lifetime of our universe
+Brute force doesn't necessarily mean to attack the problem by using 7 nested loops.
+A slightly faster algorithm for the problem "find 7 systems that form a 3D-cross" may look like this:
+1) Iterate i1 over all known systems in region of interest
+2) Iterate i2 over all known systems in region of interest, where i2 > i1 (to test each pair only once)
+3) Calc the point "goal" in the middle between systems[i1] and systems[i2].
+Iterate i3 over all systems that could be close.
+Use grid or octree to limit the search for systems in the vicinity of point "goal".
+If any systems are within distance tolerance of goal, remember each triple formed by systems[i1], systems[i2] and 1 system more-or-less in the middle between the two.
+4) After you have collected all such triples, you search all triples for sets of 3 triples that share the same system in the middle.
+5) For each result, you check if the 3 triples form a cross (meaning angles of 90 degrees +/- tolerance).
+Reactions:
+Rochester

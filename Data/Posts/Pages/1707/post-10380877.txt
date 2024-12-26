@@ -1,0 +1,14 @@
+Jorki Rasalas
+May 24, 2024
+#34,133
+Incidentally, for info-
+I raised my problem with disappearing EDSM &Spansh search results on the EDSM Discord. I received the message
+
+"EDSM does delete data if:
+- Users account without any login or activity for at least 2 years will be deleted.
+- Body without any scan or activity for at least 2 years will be deleted, that can happens when we prune old users
+- Systems without first discoveries for at least 2 years, nor any visits, excluding the one with stations of course "
+
+So I suspect that's why LHS 2921 & 3091 are no longer being found on EDSM-they've probably been pruned since nobody could visit them due to their unknown permit lock. They did reappear on a Spansh search I did yesterday afternoon, but it seems Spansh keeps his own copy of the data. The four systems that were originally all found at 49.4 ly from Alioth in a Spansh search appear to have had their coordinates corrected in Spansh searching so jumped well out of my search range...EDSM still couldn't find them yesterday so guessing they might also have been pruned due to lack of activity. If this is really what's happening then long distance exploration data (e.g. infrequently visited/edge of galaxy) might be disappearing form EDSM?
+Reactions:
+Rochester

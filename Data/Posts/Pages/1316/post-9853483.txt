@@ -1,0 +1,6 @@
+Frankymole
+Jun 1, 2022
+#26,302
+Rochester said:
+This ‘missing star’ issue is a known anomaly caused by duplication of catalogs. The star exists in more than one catalog and FD never cross checked so you get 2 stars, but only 1 star actually exists in game which can be plotted to; the other is just a ‘name’. It’s not intentional.
+And yet some stars like Beta Hydrae and Beta Hydri are the same but in the game twice with different spectral classification (a G star and a B star). There's another one (something with 3 on the end) which is in twice and both are inhabited systems with different stats. Can't remember the name but might've been an engineer or material trader in one of them...

@@ -1,0 +1,26 @@
+marx
+Feb 10, 2024
+#33,340
+Ian Doncaster said:
+["The part that troubles me is that Raxxla is apparently in a system that has been honked but not discovered."]
+This is something which it's really difficult to find any evidence for.
+
+It was apparently said in 2017, but the earliest reference I can find to it (and that one someone stating that they can't find any evidence of it being true) is in mid-2019. Other comments from around that time disagree on where and when it was said.
+
+Searching in 2017 I can't find any evidence of anyone mentioning it at the time - which you'd think, given how important a clue to Raxxla it might be - someone would have. If you can find a reference to it (even just as a "I've heard they said") before May 2019 that would be really useful to at least narrow down where this rumour came from!
+Click to expand...
+There's the DJTruthsayer rumour (where he heard it from a guy who heard it from an unnamed Frontier employee), but there's also one from earlier. There was CMDR Ascorbius saying that Michael Brookes himself said at a Lavecon Q&A. The original video was since removed, but somebody clipped it here. I don't see the exact date, but the last time Michael Brookes was at LaveCon was 2016 AFAIK, so that would be it from then.
+
+I find it rather unlikely that he specifically would have said this, and he'd never be asked about it again, nor would he chime in elsewhere when the rumour was brought up. Also that nobody else who was inside that room would have repeated what was supposedly said.
+
+Ian Doncaster said:
+Even if it was true I'd agree that it doesn't necessarily mean that Raxxla is anywhere near Sol and if anything suggests the opposite is most likely:
+- by mid-2017, the galaxy had been quite substantially - if hardly systematically - searched by explorers.
+- there are around 100,000 systems including uninhabited ones in the approximate "bubble". There were a similar number of systems catalogued on EDSM in the Prua Phoe sector alone at that time (and EDSM appears to only track 1/3 to 1/4 of actual exploration)
+By that time, there were systematic area surveys, target surveys, and perhaps even a few boxel surveys too.
+As a minor note, for how much EDSM, or to be more precise, EDDN tracks: it usually hovers just under 40% for any given period, which is a rather excellent ratio. (The last time Frontier have released official numbers was 2023. January though.) The total is just smaller because logs were only added about two years after release (IIRC), and only a handful of people triangulated system positions on EDSM before that.
+
+Anyway, something else I wanted to add: there are some assumptions that many people make unintentionally, which might of course not be true: that Raxxla has always been at the same place, and that it's in the same place for everyone. If either (or both) of those are false, then relying on the "someone has already been in the system but didn't notice it" rumour is rather pointless.
+All just speculation, of course.
+Reactions:
+D7, Quaero, varonica and 2 others

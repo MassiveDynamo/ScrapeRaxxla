@@ -1,0 +1,82 @@
+Xaintly
+Mar 5, 2020
+#15,580
+Hello all, I've updated the summary document: The Quest for Raxxla.
+The summary is intended to let new raxxla hunters catch up on what has already been theorized and tested.
+
+I read all the posts in this thread between May 2019 and now, plus reddit, the IRH discord and some other threads.
+If people had new ideas of things to try or places to search, I added it to the doc.
+If I didn't add your favorite new theory, I probably just missed it; message me and let me know.
+
+If the post just has "lore" or speculation that doesn't narrow the search area or give any concrete hints, I didn't add it to the document (eg. The Dark Wheel is the enemy of The Club).
+
+Here was the stuff I took note of over the past year of posts;
+
+FSS May not reveal all bodies? Fly to outer stars and look - CMDR Marco Santos
+
+Spiral of Notable Stellar Phenomenon - CMDR xxxsnusnuxxx
+- "Notable Stellar Phenomenon" seem to be arranged in a curving line.
+
+Tip-Off Missions: Procedurally Generated, not Raxxla Related - CMDR Teryd
+CMDR Teryd did an excellent writeup of how the procedural generation works.
+Over 3000 tipoff missions completed to gather data, plus crowdsourced tipoffs
+A limited amount of tipoff missions are released every week after Thurs maintenance
+Destination location is chosen from the furthest available of a preset list of spots
+Mission value is random, text is procedurally generated
+
+Tip-offs vs Inbox missions: Both procedurally generated - CMDR Keybuk
+Tipoffs are given after turning in a mission while allied
+Inbox missions are given after 15 mins in the same place, may be hidden until you scan/scoop
+
+Thargoid device activation shows a 2-armed spiral galaxy (Andromeda?) with some highlighted areas - CMDR Tacitus2711
+
+Overlaying the Raxxla logo on the Galactic Map, the voids overlay "unknown permit" Restricted Areas - CMDR Tacitus2711
+Investigate the areas that are not permit locked?
+Each corner of the shapes is a permit-locked system or area
+
+Investigate Alnasl, source of the 'Wow!' signal - CMDR Jaiotu
+
+Phaa Chrie sector (in The Void) - CMDR Edelgard von Rhein
+Good place to hide stuff
+550 systems Searched by CMDR Edelgard von Rhein
+Nothing found, no Notable Stellar Phenomena
+
+Investigate Taurus, Crab Nebula - CMDR RexOdin
+Egyptian goddess Hathor is the mother of the universe, depicted as bull
+Investigated by CMDR Q Hung
+
+Raxxla logo is a surface scanner - CMDR PeteACarter
+- Look for a system with 6 stars & 33 orbiting bodies
+
+Tried: Supercruise Vega > Tau Ceti 0.6ly and reverse - CMDR Edelgard von Rhein
+
+The statistics of commanders searching for Raxxla could be compared to see if there is something missing - CMDR Edelgard von Rhein
+
+David Braben says "we know why people haven't been able to find [Raxxla]" in 2014 - Drew Wagar quoting David Braben from an in-person talk
+
+Try taking Sap8 Containers to the space Jellyfish / Algol - CMDR Simulacrae
+
+The Dark Wheel station is in a L brown dwarf system - CMDR Jorki Rasalas
+Lyta Crane is an anagram of LYT Arcane
+Suspects planet Eden of Proxima Centauri (near Hutton Orbital)
+Investigated area but didn't find anything
+
+CLAIM: Raxxla is 'north east from Sag A* about 41[k] lys from the bubble, on the border between 2 regions in a cluster of brown dwarfs.' - CMDR Mathmoss
+One heavily blurred screenshot
+"Travel to the top of the galaxy to find it"
+Didn't turn in exploration data, blew up ship "[to be] fair on the other raxxla hunters, no system name, etc..
+CMDR Alexzk identified screenshot as likely PRA BYOEA KU-A A82-0 area
+
+Lore: The Club and The Dark Wheel are opposing forces - CMDR AOpsyche
+The Club is more powerful and controls universal cartographics and galnet
+Raxxla is some kind of FSD technology, the Club is trying to suppress its release
+The Dark Wheel is opposed to the Club
+
+Lore: The hidden greek mythology storyline - CMDR Guru951
+
+Lore: Raxxla and the Monomyth / Hero's Journey - CMDR ScolioTheMost
+Suspects the Pleiades may have some kind of test
+There are whale references (Cetus/Tau Ceti/Cetus Bane ship in Algol)
+Thargoids might be protecting the next clue
+Reactions:
+Marcus Seldon, Han_Zen, Machina Ergo Sum and 8 others

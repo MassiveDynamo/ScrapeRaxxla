@@ -1,0 +1,6 @@
+Merlin StWahgwaan
+Jan 16, 2022
+#25,114
+Pyroboros said:
+If you don't need the Systems there is a way to get the Boxels on a path and then only test if systems exist in those. but my programming skills are far from 3d development, i would not be able to get something whit visuals. i do all my cal either whit SpreadShet or by hand i have a littel lib for for getting the boxels from the ID but thats it.
+Same boat I'm in, lol, can't do 3d graphic/programming myself either, lol, but if some could, OH BOY lmaoo

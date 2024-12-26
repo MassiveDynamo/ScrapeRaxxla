@@ -1,0 +1,15 @@
+John Stoutbeard
+Dec 6, 2022
+#28,264
+Sunyavadin said:
+The difficulty is in knowing what to attempt to reproduce in order to try and get this outcome.
+Yep, agree.
+
+But I would think the following could help eliminate some issues.
+See if we can deduct the places / locations / directions the jumps happened.
+Repeat, many times.
+
+Have Nvidia Shadowplay recoding or OBS running at any given time. And:
+- Avoid Open, avoid Wings; it's may introduce extra network polling, friendlist / instancing network requests, which can cause issues on its own.
+Reactions:
+Louis Calvert

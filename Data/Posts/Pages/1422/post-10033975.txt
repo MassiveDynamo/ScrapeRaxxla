@@ -1,0 +1,6 @@
+Jorki Rasalas
+Dec 13, 2022
+#28,425
+is it just me suffering problems with the galmap in Live Horizons 4.0?
+When I try to change the map filters I click on the "map mode Pilot's Federation" to pull up current filter and the list of filters, but it either instantly closes again, or closes after a very short time before I can select anything else. It's driving me mad! and making the map pretty well unusable.
+I can't see any obvious options in Graphics or game settings....help!!

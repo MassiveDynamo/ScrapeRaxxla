@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Apr 5, 2023
+#29,755
+Dox Paradox said:
+You mean they are all the same, no pattern in their spatial placement, no sequence in their numbers... ?
+It is c class 2394 on the picture however
+I haven't looked enough to be honest. However, AR-9 was a type of bi-directional radio ( https://www.qsl.net/k5dh/raytheon/ar9.html ).
+
+Class C appears to indicate this device is involved with traffic into/out of the port ( https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_8.html ).

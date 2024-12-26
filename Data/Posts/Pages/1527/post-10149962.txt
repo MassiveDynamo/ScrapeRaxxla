@@ -1,0 +1,13 @@
+Jorki Rasalas
+May 25, 2023
+#30,530
+Han_Zen said:
+When searching for Rift bases and the first Guardian ruins, many players used the dolphin diving method. This involves keeping an eye on the bandwidth monitor, each time you drop into an instance. If more than usual data is loaded, you investigate. If not, you go back to supercruise.
+This only works if Raxxla is loaded from server, like ruins and bases (the objects are still from your disk, but enough parameters are online to show up on the bandwidth monitor).
+
+It bordes on an exploit, but it has been extensively used. FD has never commented on it.
+@Han_Zen I remember doing that out in the FRift! And happy days when we then got a game crash cos the resource file was faulty! But I think the permanent “trigger point” for Raxxla will load then only download the Raxxla resource file when we trip the trigger by honking enough & close enough. Otherwise Raxxla would have been found by the data miners (who I suspect did find the FRift base files).
+
+@BluWolve no, I don't understand this game detail either. Don't think there was ever a livestream that gave us some useful information on the instancing mechanism; if there was I missed it and need to see it! But this is the point I was pondering- do we need to drop into the near vicinity from SC rather than travel along honking in normal space? That’s the case for comets, and it seems almost like they were implemented in such a weird way to perhaps give us another clue....but this would be typical of FD, to add an RNG element to the puzzle which makes it extremely difficult to find! Comets are hard enough to drop in on when you have a location! And if you’re off by a tiny amount their location disappears into the distance faster than the ship can fly......So actually we probably wouldn't need to meet any honking criteria - the RNG of dropping in within 50Km is sufficient obstacle! The obvious comets have stations orbiting them to give a hint for the drop point. But I dont see any such sign for this Lassel ring hypothesis (whereas Saturn has TB0232 ... errmmmm!!).
+Reactions:
+BluWolve

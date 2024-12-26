@@ -1,0 +1,11 @@
+Han_Zen
+Sep 9, 2024
+#34,754
+simulacrae said:
+Thanks! So its like a seed number- generating the original name from the simulation creation. Very interesting. Makes me wonder how much of the system is being generated from that number. I guess there is a thread on the exploration forum on this i am missing
+All systems are generated form a seed number. We basically start with a fully proceduraly generated galaxy.
+Then the overrides come in. The overrides can rename and relocate systems and planets on several levels. Anything from a completely manually designed system to a name change of a single planet, is possible. All the system data we install are overrides. The rest of the galaxy needs only the seed.
+
+The seed it self isn't just a random number. I'm not an expert, but it seem to contain information about the part of the galaxy it belongs to. This somehow determines the probability of star type(s) and composition of the system.
+Reactions:
+Louis Calvert and simulacrae

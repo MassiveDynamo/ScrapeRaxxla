@@ -1,0 +1,17 @@
+Rochester
+May 28, 2019
+#8,239
+yelboc said:
+Neither F10 or PrinScreen work for me. Maybe FRAPs is what I need... thanks. Not sure I could bear win10 for the sake of screenshots
+
+Try Alt and F10 should work, either you have something else mapped or its being saved to a folder you haven't located?
+
+Not sure if Open /private still affects this but hi-res F10 will create some lag.
+
+I'm still on Win7 and it its still working as intended.
+
+Don't upgrade. Keep at it...
+
+F10/Alt F10 not working for screenshots
+Hello all. I've been trying to take screen shots of my game all day. I used print screen earlier today, and can use shift f12 for steam, but I would love to take some hi-res ones (yes, my comptuer can handle it). Problem is, the button for screenshots isn't working. And, I can't find that...
+forums.frontier.co.uk

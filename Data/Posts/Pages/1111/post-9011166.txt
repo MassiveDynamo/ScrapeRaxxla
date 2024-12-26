@@ -1,0 +1,8 @@
+clavain
+Mar 20, 2021
+#22,214
+Here you go Jorki, if you are looking for something... http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2007JRASC.101...68H&simbo=on Those references are just for the Coalsack region. If you click on the other references here, you will get similar lists of Simbad objects from each journal article. If you then click on the object identifier, you will get all the stellar catalog identifiers for that object, and can search the Galaxy Map for each one. You can thank me later. ;-)
+http://simbad.u-strasbg.fr/simbad/sim-id?bibyear1=1850&bibyear2=$currentYear&submit=Display&Ident=@3720629&Name=NAME+Great+Rift&bibdisplay=refsum&bibyear1=1850&bibyear2=$currentYear#lab_ident
+Last edited: Mar 20, 2021
+Reactions:
+[PS4] Filthymick420

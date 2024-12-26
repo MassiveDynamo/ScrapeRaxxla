@@ -1,0 +1,35 @@
+Merlin StWahgwaan
+Jan 16, 2022
+#25,107
+Macros Black said:
+Maybe try https://www.edsm.net/
+Thanks, but doesn't do what I need, just gives the individual systems info, no detailed map or route plotting on a map to see direction and angle ect....
+Adel said:
+The (short) distance between 2 objects in space is:
+
+distance = squareroot((xa-xb)²+(ya-yb)²+(za-zb)²)
+where System 1 has coordinates (xa, ya, za) and System 2 has coordinates (xb, yb, zb).
+
+Now the system coordinates are the coordinates of the main star (but not always). You can find them on 3rd party tools.
+
+If Raxxla is moving, maybe the weekly tick makes it move to another system (because i don't think fdev have the tools/abilities to move objects without loading an instance).
+Click to expand...
+Thanks but same issue as EDSM.
+Yes I can find the information for direct distance between two stars pretty easy, but finding out the direction and angle of that plot/line, and potentially extending it forever into the unknown, to see what systems it intersects afterwords, is the part I need help with....
+
+For example, let's say I wanted to put a straight line between Sol and Tau Ceti, get the exact 130? Or so LY distance, and exact direction from Sol..... but now I want to take that straight line, and extend it 6000 LY past Tau Ceti, and see every system on, or very close too, that specific line/trajectory..... within 1 degree or less deviation of the exact trajectory of sol to tau ceti....
+
+And I need to be able to do this in a straight line, or a cruved line, for example, I use 3 systems instead of 2, and find out that it's a curved line not staright.... my theory has several possible avenues that I'd like to be able to test and eliminate without having to assume things....
+
+But if I cant expand the trajectory beyond the system(s) I believe I already know, then I can't plot a potential course for tracking where the location would be in space now, after xx-years of stellar drift between stars, and implied ability to move under its own power, ect.....
+
+But all my theories require being able to plot a course without stars, just seeing the trajectory line on my screen/map, and the systems that would potentially be along or near that path, without being locked onto anything specifically, hence the use of a 3rd party tool/map.... but I don't know of any complete galmap outside of the game, interactive and able to be manipulated.
+
+
+As for Raxxla being mobile at all between systems, it's quite possible. Fdev have had server sided stuff since day one, the best and most recent example are Fleet Carriers.
+Every Fleet Carriers location is not stored on everyone's pc, it's only downloaded when someone enter the system that it's in. Basically the Forge loads the system, but then asks the server for anything extra that needs to be in the system, and it downloads them live and produces them as needed. Raxxla can easily be a server sided asset that changes its location periodically and then the forge only gets to download it when it happens to be in the same system you are in. But essentially they just need to have a Raxxla file on their server, that periodically gets moved to another system name/body name, ect.... not a hard script to write to have a line of text, or a file name, ect, of a server asset change periodically based on predetermined information/formulas, or physically copy/move the file from one folder on the server to another, how ever they host system specfic assets... anyways, the point is, it's very easy for this to have been the implementation on day one, that a specific special "station/planet/gateway" thing, exists only during certain times and dates in specific locations and then moves on.... not so easy to make the forge generate that, but there is no reason ever to assume the forge generated the location/model/object/anything to do with Raxxla, as it's a specific historical thing that I doubt that MB or DB would have left upto the forge to randomly decide.... so the ability for the forge to generate that, become a null point, and it has nothing to do with the subject.
+
+Edit: the original and second best example of server sided asstets/information is Commodities Markets.... thats information that has always been grabbed server side as well and then flooded into our pcs on docking with the station. That information, for every station in the game, has never been stored, en-complete, locally on our PCs. From day one, its always been server sided information, jus like faction states, and ect.... from day ONE we have had server sided information that could never be datamined and would be a perfect place to hide an asset like Raxxla from the publics prying eyes lol
+Last edited: Jan 16, 2022
+Reactions:
+Adel

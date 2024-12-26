@@ -1,0 +1,14 @@
+Ravenloft45
+R
+Dec 21, 2023
+#32,677
+Merlin StWahgwaan said:
+Slightly off-topic but related:
+
+Are the HIP stars in game, supposed to be at their real location, RA/Declination they are at in the HIP catalog IRL?
+
+Because I only just noticed one that isn't... it was complete chance that I bothered to check, but there is an HIP star IRL that is also in-game, but at a different RA/Declination... just wondering if this is common or strange and figured CMDRs here would know best XD
+
+Edit: or would systems have moved due to the time between now and 3308? By enough to seriously alter the RA/Declination location displayed in-game?
+Click to expand...
+Almost all of them are hand picked in RA/DEC coordinates. But the thing is, some star names are different in catalouges, and in game some of their names are not false, but incomplete. Check https://simbad.u-strasbg.fr/simbad/ or https://www.universeguide.com/ for alternative names, maybe something is wrong, or misnamed.

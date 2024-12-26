@@ -1,0 +1,8 @@
+Hanerib
+Jun 28, 2018
+#2,802
+Rogue planet is still in section "Star Descriptions", so presumably it would be a system with a planet and maybe some asteroid fields etc. Rogue planet would be the main body of that system, otherwise there would be no point in calling it a rogue planet. Finding these would be very interesting, and assuming they existed at all some would have to been found out by now.
+
+X-type seems like it could have been reserved for something being implemented later. It looks like it could be a compact star type, but explorers tend to search for these from galaxymap, so my guess is: both of these types are invisible in galaxymap, if they exist at all. So.. keep looking at your navigation panel. It sounds like an impossible task, probably is, but suits how exploration and navigation was originally going to be implemented: more manual and tedious.
+
+A lot of things in this game can be pretty tedious, difficult or take a very long time to learn. Passanger missions often ask you to visit very faraway places, CQC matches can be very difficult, ever tried higher ranked incursion missions in challenge scenarios?

@@ -1,0 +1,22 @@
+Jorki Rasalas
+Aug 28, 2022
+#26,923
+Pyroboros said:
+Works on my end (only via Bookmark)
+35:{ "timestamp":"2022-08-28T14:09:27Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Ejagham", "SystemAddress":4683418569067, "Body":"Ejagham Comet 4", "BodyID":35, "BodyType":"SmallBody" }
+36:{ "timestamp":"2022-08-28T14:16:03Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Ejagham", "SystemAddress":4683418569067, "Body":"Ejagham Comet 5", "BodyID":36, "BodyType":"SmallBody" }
+
+this one came out of 36:
+{ "timestamp":"2022-08-28T14:13:51Z", "event":"ShipTargeted", "TargetLocked":true, "Ship":"cobramkiii", "Ship_Localised":"Cobra Mk III", "ScanStage":3, "PilotName":"$npc_name_decorate:#name=James Hogg;", "PilotName_Localised":"James Hogg", "PilotRank":"Mostly Harmless", "ShieldHealth":0.000000, "HullHealth":100.000000, "Faction":"Ejagham Silver Boys", "LegalStatus":"Wanted", "Bounty":48964 }
+
+they may supposed to be heavier 18.3 Mm drop Distance.
+Click to expand...
+Oo, interesting!
+Perhaps I havent got the method right yet?
+Paste signal reference into galmap search, then if game doesnt crash select it & drop in, or if it does crash the game then redo but bookmark it? Which should allow it to be selected from the bookmarks list & dropped onto?
+As soon as I bookmarked those two I got the Black Adder error message.
+
+Also interesting 36 locked onto an npc!!
+
+Edit: Yep, just rechecked your video re bodies 68-70. The only thing I can see that I’m doing different is that you were using Odyssey and I’m using Horizons & getting an error on bookmarking the signal.
+Last edited: Aug 28, 2022

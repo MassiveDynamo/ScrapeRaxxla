@@ -1,0 +1,28 @@
+Emperor
+Nov 15, 2024
+#35,314
+Louis Calvert said:
+Strongly disagree.
+
+My solution to the Raxxla mystery meets the following criteria, which I believe would have been important to Brookes and Braben when implementing this easter egg:
+
+It is platform and game version agnostic - anyone on any platform can hear the Landscape Signal, and therefore track it to the centre of the Galaxy.
+Although the spectrogram is much easier to see on PC, I'm sure there are methods for recording from console, since this same puzzle was used for the Thargoid Map. It's also possible that at the time of implementing Raxxla they didn't know that non-PC platforms would be used.
+- finding and tracking the Landscape signal is not linguistic, therefore accessible to all players.
+All I did was join the dots between the game lore, the Codex entries, and the already-discovered Landscape Signal. I was able to then learn to tune the spectrogram and see the hidden images in the Landscape Signal which hint at deeper lore and more mystery yet to discover. I .
+
+No other solution to the Raxxla mystery presented at any time in the last decade has actually produced results or solved all/most of the Codex clues in a way that actually points towards something, and brought it all together in an actionable sequence of repeatable steps that anyone can do - a sequence of steps that seem exactly like the kind of gameplay that was available at launch and was entirely possible for a single person or small team to implement during the frantic rush to create Elite Dangerous. Even if you can't see the hidden images, then the Landscape Signal is unequivocally there, and it's unequivocally an artificial signal, and it fits the Codex and other clues.
+
+The reason this solution is rejected by the majority of the community is that almost everyone (myself included) has some sort of imagined solution to Raxxla, usually one that involves them as the discoverer dropping into some astonishing never-before-seen vista like a space-gate or ancient whoosit, and maybe getting a congratulatory email from Braben or something. Compared to your imagined Raxxla solutions, an already-discovered audio signal with hard-to-see images in it seems like an anticlimax to most people - and therefore it be the right solution, right?! The fact is that maybe it's actually still possible that there's some whizz-bang fancy stuff to find; I have repeatedly said that I don't think what I found is the end, I think it's what we're supposed to have found years ago and missed which may be literally just the first clue.
+
+Brookes couldn't have predicted how long it would take to find the Landscape Signal, it might have been found 1 day after launch, in which case the Raxxla mystery might have evolved from there early on when he was still at the helm. Instead it drifted in obscurity for many years mostly championed by this thread and the few who continued to post here for years until the Codex in 2018 revitalised it, and then when nothing significant showed itself after a while most people have drifted off again, especially in the last few years when (IMO) content was a lot more "shoot aliens or get stuffed". Hopefully now this "Thargoid War" is nearly done Fdev will bring back some of the mystery and adventure to the game that was so redolent in the early years - and Raxxla is a hot ticket waiting to be punched.
+
+If all the collective brainpower on this thread was focused on solving the Landscape Signal then we might well all be looking at whatever is hidden in there, it might be the starmap of everyone's dreams leading to some awesome discovery still out there - thought I personally think it's 'just' pictograms and images showing deep lore, which can be built on in future.
+Click to expand...
+Have you contacted Frontier Development to see if you've found Raxxla?
+
+Think they will need your ship logs to confirm from the last time someone asked about it and the screen shot with the PLANET (weird italicised T in the correspondence)...
+
+You may have found it or they may confirm it's something else?
+Reactions:
+Louis Calvert, Macros Black and Jorki Rasalas

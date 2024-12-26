@@ -1,0 +1,12 @@
+Louis Calvert
+Jun 28, 2024
+#34,350
+Ian Doncaster said:
+The varied station interiors were introduced in ... 2.3, I think? Before that there were only the palm-tree (extremely rare) and "industrial/military" default designs.
+
+System economy changes don't affect them - the system economy is only the sum of the station economies anyway.
+Station economy changes are incredibly rare (and basically Frontier-only) and I've only seen one be applied to a large orbital station (which was Jaques Station, which is such an anomalous case anyway that it probably can't be used to draw conclusions from)
+
+It's very possible then that Drew was talking about the Palm-tree type since his anecdote seemed to relate to a very early time when he was still actively working communicating with Frontier, and Brookes specifically. Someone should check just to be sure.
+Reactions:
+Ian Doncaster and Rochester

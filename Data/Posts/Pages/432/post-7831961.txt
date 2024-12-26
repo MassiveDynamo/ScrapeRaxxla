@@ -1,0 +1,29 @@
+yelboc
+Jun 4, 2019
+#8,622
+DrewCarnegie said:
+Let's, for the sake of argument, assume that the Codex contains encrypted/encoded clues regarding Raxxla. The question then becomes "How do we decode them?"
+
+So, what are our options?
+
+Character substitution cipher:
+The thing about character substitution is that the output invariably looks like somebody threw a Scrabble set at a wall. You simply don't get human-readable out of it, even in a different language. (See the Exodus logs for examples.)
+So we can safely assume this isn't the way.
+
+'Hidden' text:
+Hiding the real message inside a longer text - first letter of each word/line for example. Poetry is a good medium to use for this, since nobody cares about grammar or line lengths, making the creation of the fake message somewhat easier. The Codex could be using this style, but it's easily brute-forced and I personally would be disappointed.
+
+'Cryptic crossword' clues
+Do I need to explain these?
+If there's anything in the Codex to lead us forward, this is how I'd expect it to be presented - but I still don't believe that Raxxla will be found by an easter egg hunt. Still, I like the intellectual exercise of trying to decipher them, even if it's almost certainly pointless.
+Click to expand...
+
+carrying on the brainstorm:
+
+Reverse Book Ciphers
+normally you have numbers that convert to letters of the plaintext by looking up the words or letters in the reference text, but for coordinates you have it the other way around - words that make numbers by looking up the words in the reference text.
+
+Triangulation from systems implied from the text
+By identifying 3 systems in the galaxy a fourth can be triangulated - the text points to systems - I gues we've already done alot of this in our mythologising.
+Reactions:
+Edelgard von Rhein, PeteACarter, [Diplomacy] Carnegie and 1 other person

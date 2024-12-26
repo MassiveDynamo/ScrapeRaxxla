@@ -1,0 +1,9 @@
+Jorki Rasalas
+May 26, 2020
+#16,778
+Was doing some googling this afternoon & thought the anomaly might be Cygni X-3 https://en.wikipedia.org/wiki/Cygnus_X-3.
+In the system map it does look a bit like the pic in the wikipedia page. But in-game X-3 is out at 35.5 kylies with no stars in the vicinity for travel. Weighing the probabilities I no longer think it is that!
+It's odd that the anomaly can only been seen from a few stars. It is not at all the stars in Cygnus as I called in at Sadr (gamma Cyg) on the way from SOI & it was not apparent in Sadr's sysmap; and Han_Zen has seen it in aCent (though I couldn't, & still can't though I looked in that sysmap again this afternoon). There are two, and they seem to oscillate, one growing while the other shrinks & vice versa, with a period of several minutes (got a video of 14 minutes worth, 555Mb), so I can't believe it's a star graphics bug.
+Last edited: May 27, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Rochester, [PS4] Filthymick420 and 3 others

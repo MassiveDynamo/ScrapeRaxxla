@@ -1,0 +1,34 @@
+yelboc
+Nov 2, 2021
+#24,674
+Jorki Rasalas said:
+Well, not had confirmation that anyone has decoded Thargoidian. Ram Tah has said nothing about Raxxla from Guardian decyphers. An alien artefact is exactly that, alien, so likely to convey little meaning other than that aliens had been there to drop it.
+
+But there is one strange thing that I’d like answered-a tourist beacon tells us of Augustus Brenquith’s solitary search for new worlds and that he had found Ackwada since an ancient message capsule was recovered from outside the orbit of Jupiter with his data crystal that told us so. SO how did that data crystal get to Jupiter? Is there perhaps a wormhole there?
+
+And if the fss could detect everything then we’d have found TDW station AND Raxxla by now.
+P.S. and I seem to remember at least one megaship in an asteroid belt that it recently failed to find!
+Click to expand...
+I didn't mean literally everything is found by FSS, but bodies and signal sources are found up to infinite radius within a system, unlike the old discovery scanner that had limited range. So if a system is honked these days, then all bodies and signals are shown. It cant show things that only exist within an instance such as the recent hidden megaship, and comets don't really exist as bodies in game even if things can orbit their non-existency (which is weird..)
+
+The crystals found near Jupiter were sent by a remote probe as far as I recall, so no wormholes required. All old tech sub-light-speed travel, which limits the total range. So from Ackwada, >158 yrs to get the data if it goes at c..
+
+The date of discovery can be calculated as 39 years after Rockforth was founded on Ackwada - 2673. So 2712 - so well after 2296 when Art Tornquist was chiding Cora. No data about when Berenquith was exploring that I can find, so cant say when he set off. Even at 0.5c, the dispatch of the crystal is well after 2296.
+
+Beacon: Ackwada Discovery [Ackwada]
+
+The official discovery of this system and its habitable planet is nowadays is credited to Augustus Brenquith, although the Rockforth Corporation claim the land deeds and development rights to the system. Thirty nine years after the Corporation declared the system its own; an ancient message capsule (a common way for sending messages at the time) was recovered from outside the orbit of Jupiter in the Sol system.
+
+The discovery aroused considerable interest amongst archeologists on Earth at the time while the capsule was in transit to the New Delhi University there was heated debate as to whether the artefact should be opened or not. When the capsule was studied, the seal was seen to be broken, so the matter was resolved. Inside the capsule was a message crystal with the log of the second five years of Augustus Brenquith's solitary search for new worlds, his 'glittering lagacy', included in the list of planetary systems that he had stumbled upon was that of Ackwada.
+
+--------------------
+Beacon: Rockforth Corporation Founding [Ackwada]
+
+The Rockforth Corporation was founded on Ackwada by the Rockforth Family in 2673, the family that first settled the world.
+
+The Rockforth Corporation began by running Ackwada earning significant foreign exchange from tourism and 'genuine ground-grown food' which it sold far and wide, making very significant revenues. It has since grown into a powerful interstellar corporation, still specialising in agriculture and tourism, with the corporation running giant corporate farms on habitable worlds across especially Federal human space. It has also become quite acquisitive, buying up many of its client companies.
+
+--------------------
+Last edited: Nov 2, 2021
+Reactions:
+Macros Black, simulacrae and Adel

@@ -1,0 +1,10 @@
+Zieman
+Nov 19, 2021
+#24,825
+Zieman said:
+You can't get the planet's orbit to look circular, until you twist the view so that the perspective will distort it.
+This is the nearest semblance of apparent circle I got it to, viewpoint quite a bit below of the plane and also to the side:
+
+Needed a lot of twisting.
+Reactions:
+Han_Zen

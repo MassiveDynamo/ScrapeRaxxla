@@ -1,0 +1,21 @@
+Edelgard von Rhein
+E
+Dec 10, 2023
+#32,434
+So I've visited Shamash, scanned, listened to and recorded the voice logs and explored the possibility of locating something via an audio signal in FSS mode (since the Stargoids produced signals detectable from other systems, it seems quite feasible for a system related to Raxxla to generate an audio signal in the same way - maybe that was another hint?).
+
+Here is my video of the voice logs from Shamash:
+SPOILER
+
+Also, I made a video of the voice logs of the Generation Ship Thetis:
+SPOILER
+
+(The individual logs have been bookmarked). I hope the sound is OK, for some reason it was very quiet for me upon playback but was fine in-game ... .
+
+Regarding the Shamash logs, it seems that there is a voice in the background that sounds as if it has been slowed down. At times it even sounds as if it is reading out letters using the phonetic alphabet. There are also 'screeches' and 'buzzes' that might indicate information that can be revealed in a spectrogram. This kind of analysis is outside my area of expertise but feel free to have a listen and investigate from the above videos.
+
+The Thetis logs do not have this, except for a tiny patch at the end of the third log. I'm not sure what to make of the final log... .
+
+As for the examination of audio in the FSS, I pointed to a few locations, like Sagittarius A*, one of the Thargoid Titans, Artemis, Nefertem, Axis Mundi and Elysia but did not hear anything other than the standard background noise. I did note that by hovering over an in-system signal source that I had not yet identified, I would hear a distinctive audio signal representative of what it was, so long as the FSS was tuned to roughly (it did not need to be exact) the right frequency. I would say that it would be impractical to use this method as a general search tool but if you had a shortlist of systems to check you would be able to identify a signal coming from one of them.
+Reactions:
+CMDRCorrMorningstarFelian, Macros Black, selbie and 3 others

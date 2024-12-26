@@ -1,0 +1,7 @@
+Jorki Rasalas
+Jul 17, 2022
+#26,462
+well, managed to get to the Pareco Comet 2 position in normal space. When I deselect it I still dont get "Pareco Comet 2" showing in the nav panel. weird!
+
+Edit: mmm, comparing my pic with the guy’s (//forums.frontier.co.uk/threads/comets-are-already-present-in-the-stellar-forge-you-can-drop-into-normal-space-close-to-them.350586/post-5486213) who did get the notification looks like my position (1.02Mm from Asire Dock) might be out compared to his of 1.01 Mm. Looks like there is a positional discrepancy between the uss and the comet (there’s a surprise!! FD you need to get a better gps set!).
+Last edited: Jul 17, 2022

@@ -1,0 +1,19 @@
+Robert Rockbite
+R
+Dec 12, 2022
+#28,412
+Louis Calvert said:
+That's a very cool image. How are you creating these images and alignments? are the stars shown (and your other posts) correct to the galmap locations?
+
+If you had, say, 6 systems, could you draw lines between them and see where they cross over and relate that to the Galmap. like this:
+
+View attachment 337250
+
+Edited to remove stupid waffle
+
+Though along such lines, too.
+But, knowing Fdev, that would probably be too easy.
+We should expect some grind, like star coordinates forming a set of equations.
+My personal favorite is "spiraling stars" as a coordinate transformation with a rotating/scaling matrix.
+Reactions:
+John Stoutbeard, Jorki Rasalas and Louis Calvert

@@ -1,0 +1,29 @@
+ironshirt
+I
+Jul 8, 2019
+#9,425
+Edelgard von Rhein said:
+Draw a line from Sol through Tau Ceti and extend it until it's 725 LY long and where does it wind up?
+
+At first I tried the math approach, bookmarked the result and took a bearing from Sol through Tau Ceti.
+The bookmarked system, although ~725LY away, was not on the Sol-TC line.
+I never was that good at maths and decided to try a different approach - to solve the problem with Blender.
+Created the line, elongated it to 725ly and checked the coordinates.
+The result left me confuzzled... Blender confirmed the coordinates from my math approach!?
+After a short moment of wondering whether I just have a 'kink in my optics', I decided to check coordinates again.
+Turned out that they were wrong... instead of x: -0,375 I used -3,75 for Tau Ceti .
+Just copy & pasted them from EDSM and had to correct the decimal sign, which I obviously did sloppy, omg.
+
+So lets hope the coordinates are correct now:
+
+-22,77 / -692,76 / -212,57
+
+Nearby systems are:
+
+Synuefe FQ-J B39-0
+HIP 8178
+
+I will take a look around as I need some more donation credits anyhow
+Last edited: Jul 8, 2019
+Reactions:
+rOmiLaYu, [PS4] Filthymick420, Macros Black and 2 others

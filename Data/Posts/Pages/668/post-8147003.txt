@@ -1,0 +1,15 @@
+Darth Ender
+D
+Nov 17, 2019
+#13,357
+really doubt the game engine is coded in a way that would allow a system without a star. judging by past issues trying to do unique things in systems triggering unwanted aspects of the game getting triggered. I dont think the game is that flexible.
+
+Y dwarf systems should be pitch black - and be the dark systems spoken about in the books but they're not due to what appears to be limitations in systems requiring a star to have a central light source (even having two stars ends up requiring a fairly obvious hack to blend the light, though in actuality you only get one at a time and it will very clearly switch from one to the other when you are close to the dividing line).
+
+the elite dangerous in the books is unfortunately more of a wish list of the imagining of elite dangerous, rather than a reflection of what it actually is. There are no dark systems...no mis jumps. No getting lost in hyperspace.. Even supercruise is significantly different (and better). (just referring about the traveling)
+
+If i was fdev and wanted to hide a planet ...i'd have it in a nearby (to the bubble) system that's coded specially to not show the planet when honking or scanning at the star ... The only way to find it would be to know to be in the system, and to know to look at a certain part space and realize that 1 of the stars is not supposed to be there and then start travelling to it. nearly an hour later you'd come to the lone planet and be allowed to scan it. It would make the most sense to be close to the bubble. However, with fdev's track record at following their own canon, i wouldn't put it past them to have hidden it half way across the galaxy in a way that would have been impossible to have been discovered by anyone in the early days of ftl travel.
+
+It would even fit better if raxxla was a red herring created by the founders of the pilots federation to validate their role and cement their control thru a powerful myth. The statement that it's in the game could stil not be a lie if we happen to find the visual marker that would identify the world as raxxla, but instead of having secrets and treasure, we'll find that it's nothing more than a staging point to base clandestine operations out of - mostly operations against their own allies and government to keep their public pilots federation relavent and needed in times of peace.
+Reactions:
+[PS4] Filthymick420

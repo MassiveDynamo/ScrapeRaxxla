@@ -1,0 +1,16 @@
+Han_Zen
+Sep 11, 2023
+#31,578
+El Saico said:
+There are two necessary, but perhaps not sufficient, conditions that handcrafted systems must follow:
+They're not present in any real-life star catalog
+Neither its current name, or any previous names it had (see: Colonia, Delphi), follow Stellar Forge conventions
+The late EDDB was the only third-party database which allowed filtering by #1 - fortunately, there's a full dump available for those willing to trawl it.
+https://edgalaxydata.space/EDDB/
+Lots of handcrafted systems are RL stars. Most of local systems around Sol are handcrafted to some degree.
+Sol it self is probably the most manual system in the game.
+
+There are also some overides in systems with generic names.
+Mostly planet names or the adition of sation, but anything is possible.
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

@@ -1,0 +1,29 @@
+CMDRCorrMorningstarFelian
+Aug 29, 2024
+#34,666
+I believe I may have mis-explained something because it took drawing this to see it. Raxxla isn't above the disk, it is below. In the Miltonian cosmology, Raxxla is in the depths of the underworld. I believe someone stated that PMD2009 48 may be the dead center of Trapezium Cluster. This will need to be verified for this to work correctly. I want y'all to run through this and see if the sides actually make sense in terms if the overall puzzle. My mistake the first time was doubting Delphi's authenticity given the rename. This idea made its' initial debut April 1st, 3305 just after Pleiades Sector IR-W d1-55 had been renamed to Delphi on December 11th, 3304. It was a mistake to listen to that doubt because there are three omphalos: Human omphalos (Sol), Thargoid omphalos (Delphi), and the Omphalos Rift (Raxxla).
+
+Operational assumptions when creating visualization:
+Delphi is the midpoint between the heavens and the underworld. This is based on the myth of the Omphalos Stone at Delphi. It was center of the Greek world. It was notably NOT the center of the Roman world. For the Roman empire, that was Rome itself (or in the case of Elite Dangerous Achenar).
+Sol serves a similar role. It is also the midpoint between the heavens and the underworld. Like with Trapezium Cluster there are star-lovers - Barnard's Star, Kapteyn's Star, and Van Maanan's Star. The difference is the Trapezium Cluster has the star lovers (physicists, astronomers, and astronauts) spread across the cluster.
+
+This is basically the Pythagorean Theorem which means..
+
+C^2 = A^2 + B^2
+
+So how this works..
+
+3 Triangles (2 smaller fitting in a much bigger 3rd):
+1) Sol, Delphi, Sol's True North Star (Robigo tourism mission)
+2) ?, Delphi, PMD2009 48
+
+The 3rd triangle has the following characteristics:
+Side A: Sol is mid-point and Raxxla is at bottom. The bottom is defined by calculating triangle 2's position of the right angle
+Side B: Double the distance based on side B of 1st triangle. This will be a line from PMD2009 48 going towards our unknown Raxxla point (right angle)
+Side C: A line of known distance between PMD2009 48 and system in the Robigo "Sol's True Northstar" mission. Use distance tool from ED Companion app.
+
+Visualization:
+
+Last edited: Aug 29, 2024
+Reactions:
+simulacrae

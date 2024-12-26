@@ -1,0 +1,13 @@
+Oseris
+Feb 29, 2020
+#15,501
+Jorki Rasalas said:
+Interesting! Looks like a piece of wreckage, at least supposed to represent something manufactured.
+Wouldn’t think it’s a graphical artefact; I’m no graphics expert, but it looks to me to be designed.
+So either an Easter egg by FD, or an intentional thing to be found? Could this be Raxxla, or something else?
+Has anyone tried to approach it? Does its size vary? If size is invariant I’d say it’s an artefact or Easter egg, but if it’s designed then.....
+The way it behaves and the fact that I couldn't replicate it in another system map does make me believe that it is more likely to be intentional. It only shows up on system map "MAP" mode, and it is down and off to the right of the last body. So you cant move over the object with the cursor.
+
+There is no way to determine its location in the system. I flew around for an hour or so and I couldnt spot anything out of the ordinary.
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

@@ -1,0 +1,19 @@
+Noobilite
+Feb 14, 2020
+#15,224
+Here's another goose chase. I was looking at Wregoe XQ-L c21-29 on the gal map and realized another marker I had for future exploration was directly over witch heads. NGC 2632. It's top most part stops directly over which heads nebula. It's other end is pointing straight at the bubble or something. It's a big loose star cluster. It's one of the giant nebulas I wanted to eventually fully explore.
+
+Top point above witch head nebula is:
+
+372, 517, -762
+
+Bottom end is:
+
+180, 280, -378
+
+Distance is: Sqrt(|A1-A2|^2+|B1-B2|^2+|C1-C2|^2)
+
+Sqrt(|372-180|^2+|517-280|^2+|-762--378|^2) = Sqrt(|192|^2+|237|^2+|-384|^2) = Sqrt(36864+56169+147456) = Sqrt(240489) = 490.39677812970998351785ly approx.
+Last edited: Feb 14, 2020
+Reactions:
+Machina Ergo Sum

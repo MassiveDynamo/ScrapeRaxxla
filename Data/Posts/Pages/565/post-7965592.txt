@@ -1,0 +1,19 @@
+alexzk
+A
+Aug 25, 2019
+#11,287
+Noobilite said:
+I did based on coordinates. I have no idea how to figure out mass. I was using very low end math without sin or cos stuff. I figured out based on a cube/rectangle and then figured out the other directions and adjusted from the starting location.
+
+Me too that's why no code there ....but I did brute force, i.e. stepping x/y/z in cube limited by stars and testign distances. This system has 0.01 error to exact equal distance to all stars:
+https://www.edsm.net/api-v1/sphere-systems?x=1176.2188&y=329.5625&z=-707.6250&radius=20
+
+Even better:
+
+https://www.edsm.net/api-v1/sphere-systems?x=1389.2188&y=-323.4375&z=-458.6250&radius=20; max error: 0.00524902
+https://www.edsm.net/api-v1/sphere-systems?x=1176.2188&y=329.5625&z=-707.6250&radius=20; max error: 0.0101318
+https://www.edsm.net/api-v1/sphere-systems?x=1040.2188&y=746.5625&z=-866.6250&radius=20; max error: 0.0117188
+
+1st match exactly basically
+Reactions:
+Han_Zen

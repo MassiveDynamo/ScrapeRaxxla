@@ -1,0 +1,13 @@
+Macros Black
+Jan 30, 2021
+#20,816
+Tried to 'fall' off the edge between the asteroid belt and deep space in the SLF; looks like that works, until I logged on again. Fighter was immediately out of range, and self destructed in 10,9,8,7,6,5,4,3,2,1 seconds...
+
+Edit: Seat of the pants size estimate for the Asteroid belt at my position.
+Distance from SOL: 1,569Ls
+Width: 63.1Ls
+Sector: 5
+SPOILER: SECTOR 5
+Last edited: Jan 30, 2021
+Reactions:
+Dr. Lexus, Burning_Scull, Yuki Estelle and 1 other person

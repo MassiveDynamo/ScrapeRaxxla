@@ -1,0 +1,21 @@
+CMDRCorrMorningstarFelian
+Apr 3, 2023
+#29,702
+Jorki Rasalas said:
+Well, got back to playing again over the weekend & spent a few hours jumping around the bubble trying to see which star type might match the codex pic in the TDW entry. Just in case it was actually pukka and the station lights were red because it was “running dark”. Failed once again!
+
+I think the only in-game star type that can match that ruby red colour is a carbon star, but tried the three nearest (from body search) and found nothing. TTauri stars appear red from a distance, but don't match when close. Of course it’s possible that the star has not been reported yet so it doesnt appear in BodySearch, but dubious about that. The nearest system I found to match the pic geometry was Kepler-42, ut star colour is wrong. Another possibility is that the system has been manually edited so that the star doesnt align with the rest of the games’ star type colours, but that would be really lame.
+
+So I think that pic has, as I originally suspected, been photedited. Seem to think I adjusted the colour balance years ago to match the station lights to those of Aulin Enterprise and resulted in a star that looked like an M6.
+
+The TDW had supposedly taken over a disused station. I ask myself why a station would be disused. Could have been built in very early exploration trips, so probably very near/in Sol. Could have been located at an unusual star for scientific studies (carbon star?), or as a staging post in a war (e.g. Battle of Achenar, so might be between Beta Hydri & Achenar), or as a remnant of colonial expansion-old worlds, or early Federation..
+
+Assuming of this game actually was designed logically!
+Click to expand...
+Try the Codex Map in-game with your CMDR's profile. Middle section should be the galaxy. Select any region and go to stars. That would be the quickest way to isolate star type. I believe it may be non-main sequence given the dark patches. The technical terminology is starspots which are bigger and longer lasting than garden-variety sunspots. These stars are often cooler and possibly variables. Think warmer brown dwarfs, post-main sequence giants, S-class, and a few odd stellar classes. Elite Dangerous has listed all the star classes they have so you will have a visual reference. I am at this point, assuming it is secondary or tertiary star way out.
+
+Starspot - Wikipedia
+en.wikipedia.org
+Last edited: Apr 3, 2023
+Reactions:
+Dox Paradox

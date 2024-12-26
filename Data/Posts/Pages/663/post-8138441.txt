@@ -1,0 +1,13 @@
+BluWolve
+Nov 13, 2019
+#13,246
+Vetinari said:
+Horizons - didn't realise you were on XB or would have spoken earlier, sorry
+
+That old chestnut, plagued me for a while then just 'fixed itself' so thought an update had done the trick. From my POV Its something to do with the Server not registering that you have bought Horizons when it authenticates just after game start up and only authenticating base game purchase. Switch User/Logout and back in, restart game, make sure you get the Frontier Server login box (yellowish wait...nothing to press, happens after first pressing A to start the game and it should load Horizons, you may get a 'Purchase Found' or similar, don't worry it hasn't recharged its just found it.
+
+Its a workaround that used to work for me 99%, it still needs fixing.
+Click to expand...
+I have tried all the standard uninstall/reinstall, but have not tried that exact process of logging out/in. I will give it a go after work, thanks for the tip.
+Reactions:
+[PS4] Filthymick420

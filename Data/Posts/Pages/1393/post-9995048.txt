@@ -1,0 +1,9 @@
+Han_Zen
+Nov 12, 2022
+#27,851
+The database for EDSM/EDDB have systems and bodies that aren’t accessible or even in game.
+
+They can source data from non live servers, like beta servers and dev servers.
+Id FD at one point tested Mimas and a dev forgot to turn of the data collection, the data ends up in tha database.
+Reactions:
+Jorki Rasalas and CMDRCorrMorningstarFelian

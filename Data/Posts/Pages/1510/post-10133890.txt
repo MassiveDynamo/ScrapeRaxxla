@@ -1,0 +1,10 @@
+CMDRCorrMorningstarFelian
+Apr 28, 2023
+#30,185
+Zeeman said:
+I seem to remember this being a bug in the original game (at least, the Atari ST version of Elite). I can't remember the exact process anymore, but you could basically jump to any point in the galaxy map (whichever of the galaxies you were in), I think by clicking on the map and clicking the system during countdown or something - though someone with a better memory of it could probably give better details.
+
+There was also a way to do crazy jumps in ED, there was some bug (I think FD chose to call it an "exploit") that had people jumping to all sorts of places they should not have. I think a few people managed to jump in to the blocked systems, but found nothing (as you'd suspect with an area blocked off for future content).
+Is it all related to this ( https://www.sharoma.com/frontierverse/wormholes.htm )?
+Reactions:
+Zeeman

@@ -1,0 +1,34 @@
+D7
+D
+Jan 24, 2024
+#33,135
+Louis Calvert said:
+I've been doing a lot of experimenting.
+I'm reasonably certain that these aren't noise or random patterns, since they remain when I filter out the heavy noise and they remain completely consistent between jumps.
+Much like the Landscape Signal, they are strongly left-channel biased too (I don't know why this might be, it could be my setup for reasons I don't understand?).
+This has noise filtering and tweaked spectrogram settings:
+
+
+
+This shape is consistent in all the recordings I've made of hyperspace, always in exactly the same place. Actually, it's .
+
+This shape appears in the middle of a blobby shape that I think of as being "shadows":
+
+
+
+
+
+You can see in the spectrograms above that the little slanted vertical lines overlay the shadows and are not part of the same audio layer - these slanted lines are what we hear as the whispers. The blobby shapes don't exactly coincide with any visual or audio in the jump that I can see so far, they appear to be very subtly part of the background.
+
+As D7 said, it's much harder to see on these images than it is on Audacity itself, so I highly recommend (as usual) everyone give this a go for yourself and try to bust it.
+
+So - these are indeed intentional shapes: What could they mean? Can anyone get a better, cleaner image of them?
+Click to expand...
+
+
+And the triangle/circles image can be seen in a CARRIER jump as well. This tells me it is indifferent to ship types and FSD types.
+
+Note this in the pic ==>
+
+Reactions:
+Han_Zen, Quaero, Louis Calvert and 1 other person

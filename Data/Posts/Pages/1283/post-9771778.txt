@@ -1,0 +1,20 @@
+Pyroboros
+Mar 12, 2022
+#25,647
+why it crashes when the ID has nothing to point at is because the Searchbar returns something the Game did not expect and has no clue what to do.
+I just dug a bit and found that ID 68 and 69 are in reverse order in "something shall not speak of here "
+But it seems there is indeed something hidden in SD.
+
+SPOILER
+
+
+
+
+
+
+
+
+
+
+Reactions:
+John Stoutbeard and Adel

@@ -1,0 +1,13 @@
+Edelgard von Rhein
+E
+Dec 6, 2023
+#32,371
+Interesting findings Louis Calvert!
+
+I think there is one thing to be wary of here and that is the fact that, for hand-crafted systems, they are not being procedurally generated - instead it is my understanding that the information has to be pulled out of a database. That would mean that increased loading times are a sign that you are jumping to a hand-crafted system. I am not sure if the number of bodies in the system influences the loading time, or to what extent - Jackson's Lighthouse has few bodies but an increased loading time, for example. (I remember Maia, a system with many bodies, has always had a long loading time - raced through there several times! Why HR 1185 should have the same loading time, I don't know).
+
+This does not mean that loading times are to be dismissed! It could still be a clue - especially if the visuals are different jumping into those systems.
+
+I'm going to be spending some time around the Lost Realms this month but am struggling to manage my time this week. I can think of some other people who may be doing the same, so I'll make discreet enquiries as to any oddities in the hyperspace tunnel or loading times.
+Reactions:
+Louis Calvert

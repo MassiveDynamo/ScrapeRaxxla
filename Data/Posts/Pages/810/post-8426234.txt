@@ -1,0 +1,50 @@
+Machina Ergo Sum
+Apr 27, 2020
+#16,190
+CmdrMcGreen said:
+Greetings Commanders,
+
+possibly an old hoax, but it looks interesting nevertheless. I haven't found this link in the forum, so I post it here. If I'm wrong, sorry and forget this post.
+So, has someone checked this picture?: Too good to be true?
+Could be manipulated, of course. But for me it doesn't seem so. I've checked the image using Gimp and other tools. And it might be real.
+I can't find any strange artifacts in this picture, which would suggest a manipulation.
+Please prove me wrong or I'll go crazy.
+What do you think? Confirmed hoax? Manipulated image? (If yes, how can you tell that it has been manipulated? (I'm eager to learn .. ))
+
+I'm panning and zooming around the galaxy map to find an angle which could lead to the possible area where the pic was taken. Difficult..
+Click to expand...
+Lest said:
+The name of the target in the blurred panel seems too long
+SPOILER: PANEL
+
+Image forensics also returned some blurry artifacts over the target:
+SPOILER: TARGET - CROPPED
+
+But the cockpit also got this blurred effect around it:
+
+
+Not sure what it worth...
+
+Also the user don't have any other pictures posted on imgur and seems to have created this account just for this ones.
+Click to expand...
+Scarecr0wn said:
+Hello Commanders,
+just regarding the most likely hoax discussed previously, OP of the picture uploaded 2 pics actually.
+
+
+
+
+
+
+and made a "statement":
+"i was expecting doubt. i dont mind it. here is a cool fact: raxxla speaks. i wont be giving any clues, or bother with any further proof. "
+
+I never really did photo forensics but I tried, did not really discover anything so maybe one of you could run it and check how much the second pic could be adjusted?
+
+o7
+Click to expand...
+
+A simple way is to look at the R. The font is wrong in the picture. iirc when this picture first came out, I checked in game with other R fonts and they were consistent with each other, i.e. the picture has the wrong R font. I might be wrong, you guys can try seeing it in game again.
+Last edited: Apr 27, 2020
+Reactions:
+Deleted member 201405, Jorki Rasalas, Rochester and 3 others

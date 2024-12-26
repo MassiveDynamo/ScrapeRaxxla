@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jul 5, 2021
+#23,902
+Djidjel said:
+Does anyone know why the asteroid belt in Sol is in the middle of the sun? Or what happened to Ceres, Pallas, Juno, Vesta, Hygiea or the other large bodies in the asteroid belt? Maybe a lore explanation?
+Fun fact, one of the asteroids is Proserpina, the roman name for Persephone/Kore. And Ceres is the roman name for her mother, Demeter.
+Nope, it’s been raised many times. It’s only the bookmark for the main asteroid belt that shows in the sun. I raised that in a bug report back in 2016 when I got the Sol permit. I guess it’s possible that its a programming way of putting the asteroid belt into system as a real thing while having such odd properties. IRL it is is very sparse, with huge distances between asteroids. In game there are “asteroid clusters” which are detectable, but if you drop out of SC at one then nothing is there! But one of the space probes IRL detected several (around 8 IIRC?) asteroids and that number matches the number of asteroids shown in the FSS?
+
+There was an idea that Ceres was crashed into/mined for its water during Mars terraforming, but I dont think FD ever confirmed that. I suspect the lore explanation is that they didnt want to spend a couple of years programming all the bodies in Sol!
+
+But Sol is definitely a puzzle!
+Reactions:
+Djidjel

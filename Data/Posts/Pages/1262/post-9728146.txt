@@ -1,0 +1,11 @@
+Disemboweled Ego
+D
+Feb 3, 2022
+#25,224
+Thanks for this, I was using a different method to target these by figuring out the ids and editing the misc.conf, which required relogging and jumping out of the system.
+
+Han_Zen said:
+How do you calculate the searchbar string, from the system ID number?
+I think it's the number of the body you want + the N2 number + 2 to the power of the length of the N2 bits in the id64 (which depends on the mass code), but I haven't tested it in too many systems. It feels non-trivial to explain and I think if I tried I'd just end up with something that reaches the solution in a roundabout way and is confusing.
+Reactions:
+Han_Zen

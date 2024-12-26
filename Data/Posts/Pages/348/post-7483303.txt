@@ -1,0 +1,12 @@
+Edelgard von Rhein
+E
+Mar 21, 2019
+#6,945
+Garand1987 said:
+Huh. Sure seems to be a family resemblance betwixt the two symbols at least. I’m gonna need a new roll of tinfoil. I’m not really familiar with INRA so I’ll have to read up some. Currently I’m going back through And Here The Wheel to try and see if I can’t get some clues on where the abandoned CIEP bases might be.
+
+Do the INRA bases have any data points with log files like Dav’s hope does?
+Yes, there are logs at the INRA bases (with voice acting), as well as some scattered materials and a data node to scan (the voucher from this base was labelled Abandoned Settlement Location Data in the transactions panel and was worth about 850 KCr).
+.
+On a separate note, in the Gamma release the whole galaxy was available. There was a wipe at the end of Beta 2 (not sure if there was a beta 3, it's late so I might have forgotten) and the Stellar Forge algorithm was changed, so the galaxy in Beta 2 (where travel was confined within the 'Beta Pill' that was smaller than the Bubble) was not the same as in Gamma, which is what we still have today (except for a few changed systems like TRAPPIST 1).
+Last edited: Mar 21, 2019

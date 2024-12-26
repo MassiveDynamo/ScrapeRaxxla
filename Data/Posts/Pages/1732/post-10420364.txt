@@ -1,0 +1,13 @@
+Ian Doncaster
+Aug 27, 2024
+#34,639
+Ian Doncaster said:
+I am wondering about red giant stars, though. Obviously you wouldn't need to get as close to those, and you can get some 8MGGs at reasonably plausible distances - next stop will be to check some of those out, not so much with the hope of finding it but to see if it is geometrically plausible to use one.
+SPOILER: SCREENSHOT
+
+Well, 4 Cassiopiae was nearby, so I gave it a go - I think this is a pretty good match for the Codex picture in terms of relative scales (I left my Orbis at home so had to substitute a Krait). You can see the gas giant whose 8th moon I'm orbiting would be a bit out of shot on the Codex crop. Playing with colour balances and brightness curves can match the actual picture even more closely.
+
+This is at about 1500Ls from the red giant, and I think it would be possible to get away with being further out - maybe out to 4000Ls or so depending on the exact size of the giant star.
+Last edited: Aug 27, 2024
+Reactions:
+Hanerib, simulacrae, Macros Black and 1 other person

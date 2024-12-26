@@ -1,0 +1,23 @@
+Jorki Rasalas
+Dec 1, 2018
+#4,363
+Here is the other bit of evidence/reasoning I have on my hunt for Raxxla's location after my previous posts https://forums.frontier.co.uk/showt...-Find-Raxxla?p=7192717&viewfull=1#post7192717, https://forums.frontier.co.uk/showt...-Find-Raxxla?p=7215817&viewfull=1#post7215817:
+
+After unsuccessfully trying to search for it via the (deleted for a year) Elite SD Dark Wheel missions in conjunction with the meaning of SD (Life, she saw, hope) and searching for Hope, Gateway etc (reported here https://forums.frontier.co.uk/showt...-Find-Raxxla?p=7137584&viewfull=1#post7137584 ) I sat back and thought hard about the only other clues that we have- "it's in the Milky Way", "it's been in-game since the beta" and "it's just a little bit obvious". My conclusion was that it had to be portrayed in the start menu screen image, and perhaps the location was hinted at by the video which precedes that. What else is obvious in this game? I captured that video with my Nvidia Shadowplay and trimmed it for size (edit: deleted! see the clearer "Ident_Frontier_EliteNeutral.webm" version in your EDLaunch/Products/elite-dangerous64/movies folder)
+
+I put that video on repeat and watched it for ages, I can see that ("feature C") the reddish dust down the left half with two bright stars at its top all approach the camera at the same time, so they are co-located. I can see a small group of stars ("feature A") in the centre to the left & just above the tip of the Guardian statuette/Elite symbol's wing/horn tip and a small dark blob ("feature B") that may be a hint of a dark nebula. I was & am still convinced that the bright yellow star between the horns/wings represents Raxxla's location, it's highlighted just a bit too obviously to be coincidental.
+
+I thought at first that "A" was the Pleiades and "B" the California nebula so spent a week and a half fruitlessly searching around the Lupus Dark Sector B area, but it became clear that the location is not sufficiently defined by A & B as no star patterns matched the skybox. Then I tried playing the video with Windows Media Player as I found it had a few video enhancement (hue, saturation, brightness) controls. I played around with those and spotted something which was previously invisible- on the right hand side Barnard's Loop and the Witchhead nebula became visible. https://imgur.com/1ILEb7u
+
+I've spent the last four weeks or so trying to match the skybox patterns in various sectors simultaneously with the aspect and size of these two nebulae. I've visited: Ophichus Dark Region B, Col 359, Col 259, Col 285, IC 4604, Praea Euq, Wredguia, Wregoe. At no point was I further than about 600 ly from Sol, which ties in with the lore-based discussions on Raxxla being not too far from the bubble given the FSD ranges at the time. I think the aspect and visual size of Barnard's Loop and the Witchhead define broadly the area of location, but it needs some other features to narrow it down; there must be thousands of G type systems in these area, I've visited a few!
+
+It needs someone with reasonable skills at star pattern matching & maybe image enhancement to find some more features for triangulation; my skills are lacking in both these areas. Moreover my desk is about three inches too high so the constant use of mouse to drive the galmap when checking for systems with twin G stars while trying to match the skybox is exacerbating my current neck/shoulder pain so I'm throwing this avenue of the search open.
+
+As I said before I haven't found the solution, but I am pretty well convinced this is the way to get there.
+
+edit: no doubt some will say this video is just FD marketing etc, but if that was the case why would the imagery have been so manipulated by them? Why make Barnard's Loop and Witchhead invisible until enhanced? Why make features A and B so dissimilar from what we actually see in-game? To my mind they have given us the real clue to Raxxla in the video but manipulated it as hard as they could to obfuscate it!
+
+edit2: I really hope there is somebody on the thread who has some image enhancement skills & is willing to have a look at this & pull out some more details to help triangulation; I would like to pursue this to the conclusion but think I'm at a standstill & need some help! Here's an unenhanced shot: https://imgur.com/zYDeZ7V
+Last edited: Dec 5, 2018
+Reactions:
+kittykatze, Han_Zen, DLewth and 3 others

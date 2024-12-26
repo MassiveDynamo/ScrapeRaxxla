@@ -1,0 +1,13 @@
+Hanerib
+Feb 15, 2018
+#1,721
+There are a few systems with a station orbiting a comet. You can detect the comet with your scanner briefly if aligned correctly, and even drop out of supercruise into the gravity well of a comet. Detecting this effect is interesting experiment when there is a station orbiting, because when you leave the gravity well also the station suddenly starts moving away at high speed. I would recommend a system called Paiyungh for comet hunting, as it only has one station orbiting the comet, you can avoid alignment with the station and dropping to it. The comet is called Paiyungh comet 2 or something.
+
+It gets even more interesting, as the said system has some conflict zones nearby, that seem to be surrounding Comet 1. The way they are forming makes sense to the scale, as comets are bodies with very low mass and size. So I assume comets are listed as astronomical bodies just like planets are. Therefore, if you are searching for any invisible astronomical bodies in any populated system, like Sol, minor faction status related signal sources, or zones, should be appearing around them.
+
+Even smaller objects, like Voyager probes, are similarly difficult to detect, but are listed as points of interest, like satellites are. Remember, "Raxxla is not a POI"?
+----
+(Edit: actually McMonagle Dock is orbiting Paiyungh Comet 1, conflict zones are surrounding what I suspect to be Paiyungh Comet 2. I haven't detected mass lock for ship when in the Comet area, but there definitely is gravitational effect. Having a wing member sit in the area (50-100 km radius) while leaving in normal cruise eventually results in huge speeds, 1 km/s, relative to the point of reference)
+Last edited: Feb 15, 2018
+Reactions:
+madbilly and Louis Calvert

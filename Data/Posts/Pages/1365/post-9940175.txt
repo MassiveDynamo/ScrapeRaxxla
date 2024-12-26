@@ -1,0 +1,218 @@
+Jorki Rasalas
+Sep 13, 2022
+#27,288
+@Pyroboros
+Well, on board a Fleet Carrier in Skaude Collection of Wonders. Thought I'd get off, stretch my legs & check for comets. I've dived the BH, boosted at the NS (it didn't last, again!), but the searchbar overflow method doesn't work, even for bodies that I already have the bodyid for (I was here 3 years ago & got the bodyids from that old journal).
+@Pyroboros
+
+oh, and a Corvette is not an ideal exploration ship...I crashed into the ring of the Ringed M type..
+
+Skaude AA-A h294 body search
+system address
+2468576471
+overflow search cannot find bodies!
+(Skaude (Collection of Wonders)) 2BH, NS, WD, ringed M, L&T
+Body#
+SearchString
+0
+Skaude AA-A h0-294
+barycentre
+1
+Skaude AA-A h0-4294967590
+Skaude AA-A h294 A
+2
+Skaude AA-A h0-8589934886
+Skaude AA-A h294 B
+3
+Skaude AA-A h0-12884902182
+Skaude AA-A h294 AB 1
+4
+Skaude AA-A h0-17179869478
+Skaude AA-A h294 AB 1 A Ring
+5
+Skaude AA-A h0-21474836774
+Skaude AA-A h294 AB 1 a
+6
+Skaude AA-A h0-25769804070
+Skaude AA-A h294 AB 1 b
+7
+Skaude AA-A h0-30064771366
+Skaude AA-A h294 AB 1 b A ring
+8
+Skaude AA-A h0-34359738662
+Skaude AA-A h294 AB 1 b B ring
+9
+Skaude AA-A h0-38654705958
+Skaude AA-A h294 AB 1 c
+10
+Skaude AA-A h0-42949673254
+Skaude AA-A h294 AB 1 c A ring
+11
+Skaude AA-A h0-47244640550
+Skaude AA-A h294 AB 1 c B ring
+12
+Skaude AA-A h0-51539607846
+Skaude AA-A h294 AB 1 d
+13
+Skaude AA-A h0-55834575142
+Skaude AA-A h294 AB 1 d A ring
+14
+Skaude AA-A h0-60129542438
+Skaude AA-A h294 AB 1 d B ring
+15
+Skaude AA-A h0-64424509734
+16
+Skaude AA-A h0-68719477030
+17
+Skaude AA-A h0-73014444326
+18
+Skaude AA-A h0-77309411622
+19
+Skaude AA-A h0-81604378918
+20
+Skaude AA-A h0-85899346214
+Skaude AA-A h294 AB 2
+21
+Skaude AA-A h0-90194313510
+Skaude AA-A h294 AB 2 A ring
+22
+Skaude AA-A h0-94489280806
+Skaude AA-A h294 AB 2 a
+23
+Skaude AA-A h0-98784248102
+Skaude AA-A h294 AB 2 a a
+24
+Skaude AA-A h0-103079215398
+Skaude AA-A h294 AB 2 b
+25
+Skaude AA-A h0-107374182694
+Skaude AA-A h294 AB 2 c
+26
+Skaude AA-A h0-111669149990
+Skaude AA-A h294 AB 2 c A ring
+27
+Skaude AA-A h0-115964117286
+Skaude AA-A h294 AB 2 c B ring
+28
+Skaude AA-A h0-120259084582
+Skaude AA-A h294 AB 2 d
+29
+Skaude AA-A h0-124554051878
+Skaude AA-A h294 AB 2 d A ring
+30
+Skaude AA-A h0-128849019174
+Skaude AA-A h294 AB 2 d B ring
+31
+Skaude AA-A h0-133143986470
+Skaude AA-A h294 AB 2 e
+32
+Skaude AA-A h0-137438953766
+Skaude AA-A h294 AB 2 e A ring
+33
+Skaude AA-A h0-141733921062
+Skaude AA-A h294 AB 2 e B ring
+34
+Skaude AA-A h0-146028888358
+Skaude AA-A h294 AB 2 f
+35
+Skaude AA-A h0-150323855654
+Skaude AA-A h294 AB 2 f A ring
+36
+Skaude AA-A h0-154618822950
+barycentre
+37
+Skaude AA-A h0-158913790246
+Skaude AA-A h294 AB 2 g
+38
+Skaude AA-A h0-163208757542
+Skaude AA-A h294 AB 2 h
+39
+Skaude AA-A h0-167503724838
+Skaude AA-A h294 AB 2 i
+40
+Skaude AA-A h0-171798692134
+Skaude AA-A h294 AB 2 I A ring
+41
+Skaude AA-A h0-176093659430
+42
+Skaude AA-A h0-180388626726
+43
+Skaude AA-A h0-184683594022
+44
+Skaude AA-A h0-188978561318
+45
+Skaude AA-A h0-193273528614
+46
+Skaude AA-A h0-197568495910
+47
+Skaude AA-A h0-201863463206
+48
+Skaude AA-A h0-206158430502
+49
+Skaude AA-A h0-210453397798
+50
+Skaude AA-A h0-214748365094
+Skaude AA-A h294 AB 3
+51
+Skaude AA-A h0-219043332390
+Skaude AA-A h294 AB 3 A ring
+52
+Skaude AA-A h0-223338299686
+Skaude AA-A h294 AB 3 B ring
+53
+Skaude AA-A h0-227633266982
+54
+Skaude AA-A h0-231928234278
+Skaude AA-A h294 AB 3 a
+55
+Skaude AA-A h0-236223201574
+56
+Skaude AA-A h0-240518168870
+57
+Skaude AA-A h0-244813136166
+58
+Skaude AA-A h0-249108103462
+59
+Skaude AA-A h0-253403070758
+60
+Skaude AA-A h0-257698038054
+61
+Skaude AA-A h0-261993005350
+62
+Skaude AA-A h0-266287972646
+63
+Skaude AA-A h0-270582939942
+64
+Skaude AA-A h0-274877907238
+65
+Skaude AA-A h0-279172874534
+Skaude AA-A h294 AB 4
+66
+Skaude AA-A h0-283467841830
+67
+Skaude AA-A h0-287762809126
+68
+Skaude AA-A h0-292057776422
+69
+Skaude AA-A h0-296352743718
+70
+Skaude AA-A h0-300647711014
+71
+Skaude AA-A h0-304942678310
+72
+Skaude AA-A h0-309237645606
+73
+Skaude AA-A h0-313532612902
+74
+Skaude AA-A h0-317827580198
+75
+Skaude AA-A h0-322122547494
+76
+Skaude AA-A h0-326417514790
+77
+Skaude AA-A h0-330712482086
+78
+Skaude AA-A h0-335007449382
+79
+Skaude AA-A h0-339302416678
+Last edited: Sep 13, 2022

@@ -1,0 +1,13 @@
+Jaiotu
+Apr 8, 2018
+#2,137
+Han_Zen said:
+From what I can see, Lucifer is 1:1 tidally locked.
+The 99 days orbit period in system info, seem to be a typo.
+I have bug reported it.
+
+The dynamo stuff could still work, I guess?
+From a point on Lucifer(stator) facing Sirius B(rotor), Sirius B will have it’s own rotation and the rotation from Lucifers rotation.
+Sirius B(and it’s magnetic field) is probably rotating so fast that Lucifers own movement is insignificant.
+
+I'll have to trust you on that one.

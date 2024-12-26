@@ -1,0 +1,16 @@
+Jorki Rasalas
+Feb 10, 2019
+#5,873
+Eckee said:
+Yeah, it does that.
+
+Plus, the INRA sites we know of are the old, destroyed, exposed ones. They are not active, so they wouldn't be "undetectable" even if they were before.
+
+It doesn’t always do that. Sometimes the ship retains lock throughout the glide, sometimes it doesn’t. I haven’t managed to tie down why the difference exists.
+
+Depends on the stealth technology used; if it’s active, re-radiating detection signals but in antiphase to cancel them out then yes, it would not be in operation without power (however the bases I’ve been to mostly seem to have some power as there are tannoy announcements, operational data beacons and terminals, overhead lights, etc.). If it is passive stealth technology, cladding applied to structural surfaces so that detection sugnals are absorbed and dissipated, then it would still be in operation.
+
+We don’t know if the IRNA bases were stealthy, though if Thargoids had repeatedly invaded the human bubble then it would have made sense for them to be. We don’t know when this anti-detection technology was introduced, or who has it, however it seems to be quite old if Raxxla has it since the Raxxla myth has been around for a long time. Even in the 20th Century militaries were using primitive stealth technologies!
+
+edit: and the galnet article said that the base access codes were used to disable the security systems, not the anti-detection technologies. While this phrasing does not confirm that the anti-detection methods were not disabled by use of access codes it does support this interpretation. The article said that the Fed Navy ship found the base because a distress beacon was activated, which does suggest the anti-detection technologies were still operational.
+Last edited: Feb 10, 2019

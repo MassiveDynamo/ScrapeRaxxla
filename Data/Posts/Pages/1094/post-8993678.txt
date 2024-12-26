@@ -1,0 +1,6 @@
+Jorki Rasalas
+Mar 10, 2021
+#21,867
+A misjump is when something goes wrong and you end up in a random destination which is different from where you started and the destination you’d selected. FD said this was not implemented in ED, which is a shame because it might allow circumvention of permit locks.
+
+Hyperdiction happens when a Thargoid snatches you out of hyperspace and you find you are still in your starting system. Effectively you have not jumped out of the system, only within it.

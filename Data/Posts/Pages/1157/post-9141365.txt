@@ -1,0 +1,7 @@
+CMDRCorrMorningstarFelian
+May 4, 2021
+#23,130
+[QOOTE"Spaceman Spiff, post: 9140805, member: 270896"]
+So this is something you are seeing in the Nav Panel?
+[/QUOTE]
+Not yet at least. In the upper right notification panel I see notification of new unidentified signal. I haven't been fast enough at stopping the ship to see it in the navigation panel. Unlike most systems Sol doesn't have these all over. I guess next option is to try to locate it via FSS or go to the navigation beacon and get a full download of the system and attempt to lock on via navigation panel so I can drop in on it.

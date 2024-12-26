@@ -1,0 +1,10 @@
+seeplay
+Nov 11, 2024
+#35,294
+Jorki Rasalas said:
+As I understand it while the universe is held in code in each player's machine, and expanded for loading during the "hyperspace jump" sequence, hand-crafted systems and poi are downloaded.
+
+it the same concept of programming which they used in 80s. It is mathematical algorithm which generate system for you based on data. But its stored on your pc.
+network is used to share your actions with ED servers.
+Reactions:
+Neestar

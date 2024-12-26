@@ -1,0 +1,4 @@
+yelboc
+Apr 4, 2023
+#29,750
+The name generator in e84 was not capable of making 'sol' - no 'editing' required.

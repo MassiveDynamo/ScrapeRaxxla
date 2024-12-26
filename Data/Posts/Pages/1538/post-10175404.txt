@@ -1,0 +1,8 @@
+John Stoutbeard
+Jul 5, 2023
+#30,748
+Jorki Rasalas said:
+Delphi Control Chapter installation at Pluto-Charon
+Yes, been testing that installation in the past and recently, although last week I was not able to recon-scan the com-datapoints. It just failed. 'limpet failed'. This may have been during the DDoS attack / server overload at AWS/Frontier.
+Reactions:
+CMDRCorrMorningstarFelian

@@ -1,0 +1,8 @@
+yelboc
+Jul 24, 2019
+#9,755
+No he doesnt. Fed station number are just eye candy - they are derived from the market ID for the system, and then an offset of 256 per station from the star - there is absolutely no mystery in it and this was confirmed unofficially by someone at FDEV to me. There is nothing to see here.
+
+The problem is misquotes and misunderstandings...
+Reactions:
+Ararera, Thatchinho, JulesD and 1 other person

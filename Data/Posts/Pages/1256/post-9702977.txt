@@ -1,0 +1,13 @@
+Pyroboros
+Jan 16, 2022
+#25,111
+Merlin StWahgwaan said:
+Also, we know Fdev can manipulate ships ect outside of a loaded instance.
+
+We know this because atleast one person, asked Fdev to drop them way out on the edge of the galaxy for some cool photo ops, and fdev did it!!
+
+They manually changed the CMDRs ship location from where ever they were, station, open space, ect, and litterally dropped them 10s of thousands of LY away on a system that I don't think they were able to even jump out of after and they had to explode their ship if I remember correctly, tho I might be wrong on that last part. Either way.
+
+Fdev does not need to load an instance or take the time to physically fly too or move objects to other locations in the game. It's simple. Just edit the server file line of text for that CMDRs location, or asstets location, and then when you click save, the next time that file is called by the forge/someone's game, it just uses the new line of edited text, and the forge don't give a hoot about the edit....
+Click to expand...
+Not everything. And i thing it's very limeted want they can edit live

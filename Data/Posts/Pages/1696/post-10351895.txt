@@ -1,0 +1,20 @@
+CMDRCorrMorningstarFelian
+Apr 18, 2024
+#33,911
+Ravenloft45 said:
+Anyone can confirm that was Elite 1984 used base64 in coding, due to memory restrictions?
+Back in that era, we had the Intel 8086 with a data width of 16 bits and maximum addressible length of 20 bits. 64-bit came much later.
+
+Intel 8086 - Wikipedia
+en.m.wikipedia.org
+
+Do we have the video clip of the relevant portion so it can be assessed for alternative solutions.
+
+The first thing that obviously comes to mind is alternative spellings such as Tornquist instead of Tornvquist. Immigrants sometimes change family names when they move to a new area.
+
+Colm Tornquist
+Colm Tornquist is a reporter for the Imperial Herald. In February 3302, he reported on Chancellor Anders Blaine's plans to retake the Facece system. 04 FEB 3302 A little over two weeks ago, the Facece system was occupied by an independent faction known as the Allied Facece Order. The news sent...
+elite-dangerous.fandom.com
+Last edited: Apr 18, 2024
+Reactions:
+Ravenloft45 and Rochester

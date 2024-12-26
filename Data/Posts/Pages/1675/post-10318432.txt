@@ -1,0 +1,9 @@
+varonica
+Feb 22, 2024
+#33,494
+ajg007 said:
+Let me get this correct, you're saying that if I was looking for exactly 3,155,760 ls might be impossible to dumbing down it for the players?
+
+That's correct, ED measures to 6 decimal point accuracy but in game that's never presented to players, getting to exactly 3,155,760 will get you close but it will be somewhere within the range of 1ls because the game doesn't give you the decimal points.
+Reactions:
+Darrack and Jumpin' Jack Flash

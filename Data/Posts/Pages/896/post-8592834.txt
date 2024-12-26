@@ -1,0 +1,9 @@
+PeteACarter
+P
+Jul 15, 2020
+#17,901
+Spike78 said:
+I looked into the source code of the original Elite that was released. Nothing there to find about RAXXLA. Also even if there is some possibility that somehow a glitch could happened it clearly was not intentional from the programming side. That is if the released source code we got is truly the original used for the game since at some point the source was released and again taken back due the intervention of DB however some time later the source was released again. I never got my eyes on the first one so maybe RAXXLA was patched out of it. That said this source however is not the one that is used on the Amiga system. The port for Amiga was done by another company and RAXXLA might be a thing on that version.
+Ahhhh, the old amiga 1200.....that's how elite started for me when I was 12
+Reactions:
+[PS4] Filthymick420, Macros Black and simulacrae

@@ -1,0 +1,16 @@
+Han_Zen
+Mar 23, 2021
+#22,324
+clavain said:
+Some more Sagitta factoids...
+
+It directly borders the Great Rift
+It directly borders Vulpecula Dark Region (and that constellation), which oddly was not listed as part of the Great Rift
+Bayer's representation of it attached here has Gamma, the brightest star, where the paw of Vulpec is grabbing the arrow, and the tip of the arrow is closer to Eta, while the arrow itself points to Theta (just above the tip). Ptolemy of course had Gamma as the tip of the arrow.
+Using Simbad, and looking at stars near Gamma in the Aladdin viewer, it would seem that Eta is what is being pointed at, if Gamma is the tip of the arrow of course. Gamma is marked in the Aladdin screenshot with a small green cross, the bright yellow star left and above of centre. Eta is the smaller bright white star to it's left, and I think Theta is the even smaller star up above it (not confirmed yet, but easily done by moving that cross onto the star in question, getting the coordinates in the top left, and popping them into a coordinate search in Simbad)
+
+Exploration and theorizing continues...
+Click to expand...
+12 gamma Sagittae is also exactly at Right ascension 20h in ED. Ra 20 is always interesting.
+Reactions:
+Emperor, TrillClinton, [PS4] Filthymick420 and 3 others

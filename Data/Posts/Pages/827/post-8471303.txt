@@ -1,0 +1,11 @@
+alexzk
+A
+May 21, 2020
+#16,538
+Merlin StWahgwaan said:
+And LOL, i love how you put "import them into sketchup"" and "relatively painless" lmao i cant even figure out how you would create what you did, lmao, I just tried to recreate what you did, but I dont see any place to input direct coordinates for the corners lmao
+
+EDIT: I can find the text tool to SEE the coordinates, but cant find a place to enter them to move the triangle
+I posted C++ code on prev page. It says for itself.
+Reactions:
+Machina Ergo Sum

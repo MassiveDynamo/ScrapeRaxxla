@@ -1,0 +1,8 @@
+alexzk
+A
+Aug 11, 2020
+#18,361
+Darn ...this is really infinite line. Which passes through center on outer circle and perpendicular to triangle's surface.
+That's why need 4th condition ... like double BH.
+Reactions:
+PeteACarter and [PS4] Filthymick420

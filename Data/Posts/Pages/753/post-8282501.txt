@@ -1,0 +1,12 @@
+alexzk
+A
+Feb 6, 2020
+#15,047
+Koben said:
+I've done this... built a jump Conda with 120t of fuel in the tank.
+The trick is to target the system (not plot route) in the galaxy map.
+You must use your left panel to follow the distance and make the jump for it to work.
+So 1 light day is 86400 seconds. 1ly is 31536000 seconds. You have 2000c, i.e. 1ly you will fly "manually" in 15768 seconds of real time which is 10.95 hours of real time. My Conda consumes 2t/hr. So it means need 22T of fuel to keep cruise for 11hrs.
+All that will allow you to "extend" jump range by 1 light year IF distance is really gets shorter. Is it worse? >:
+Reactions:
+3navis and Machina Ergo Sum

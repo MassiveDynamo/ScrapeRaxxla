@@ -1,0 +1,5 @@
+Jorki Rasalas
+Aug 30, 2022
+#26,946
+I think thats the same bug I frequently encounter, when scanning a star it never resolves...
+but try reporting it and see what FD say!

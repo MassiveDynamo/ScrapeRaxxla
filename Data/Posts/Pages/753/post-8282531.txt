@@ -1,0 +1,19 @@
+Korlod
+K
+Feb 6, 2020
+#15,052
+Noobilite said:
+So, if I'm not confusing anything else you are both telling me the opposite answer? I'm seriously trying to clarify this. This literally has happened every time I asked this question.
+
+
+Ok. So, there is a point to huge fuel amounts and traveling between stars to reach new places.
+
+I was simplifying it to ask the question. And I think that last part isn't true after reaching 2001c. That takes about an hour. So, techinically that isn't true for this game. Actually I don't think fuel consumption ever increases in this game. It's base on solid electrical use and it's just less efficient before reaching the max of 2001c. I'm actually looking for the formula for this. I found it and thought I bookmarked it and then went to find it and like everything else I bookmark doesn't contain the answer anymore... I can never figure out why. Not sure how I keep not bookmarking the correct things. Unless it's the location that wasn't the same...
+
+The reason this is hard to test is that the only places that don't take days to travel too have so little fuel use in a jump it's impossible to tell the difference visually. Hence it's incredibly hard or annoying to test.
+Click to expand...
+
+They are telling you opposite things. The question you are asking is basically “I have a 20 ly jump range ship, the system I want to go to is 20.3 ly away, if I target the system and travel 0.3 ly in SC from my current location towards it, can I then jump to the other system directly?”
+I tried this a long time ago and it worked. I think it was before Horizons though and I’ve not given it much thought since or re-tried it (I think at the time I was also trying to see if I could SC all the way to Polaris from its nearest system and I ended up lower on fuel than I expected or something).
+Reactions:
+3navis and Machina Ergo Sum

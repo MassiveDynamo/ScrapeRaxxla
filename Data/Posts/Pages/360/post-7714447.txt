@@ -1,0 +1,32 @@
+yelboc
+Apr 3, 2019
+#7,198
+Six6VI said:
+Prior to your edit, this said Cambria, but it's actually Cambridge
+
+The main reason I pointed this out, pages ago, was that in life it's often not what you know, but WHO you know that opens doors to opportunities later in life then proceeded to include several creative thinkers that also went to various colleges within the same university, which can't be all that far from where the current Frontier HQ is located, while London is around 101 kilometres (not Ly) away...
+
+Robert Holdstock appears to be the originator of the term "Raxxla", in a book that was published under a different pen name several years before he again included it in "The Dark Wheel" novella with the original 1984 Elite but there doesn't seem to be any evidence it was inserted on direct instruction from DB. Was it perhaps found in the original draft and approved by DB, missed completely as being relevant at the time or seen prior to publishing and then integrated into David's long term thinking as something that might become critical to much bigger projects three decades into the future?
+Click to expand...
+
+While DB and IB went to Cambridge, Rob Holdstock certainly did not. Their backgrounds are quite different (according to univ. of Wikipedia). But did DB or IB read 'Alien Worlds' when they were impressionable teanagers and get inspired to write space games - maybe thats how they 'found' Holdstock to write the novella.
+
+Cambridge colleges are not particularly religious in nature as far as I know.
+
+Yes Frontier is ~1.5 Miles from the colleges on the Science park at the north of Cambridge, about 100yds from where I work - I have to resist the urge to peer through their windows on my lunchtime walk
+
+Wednesday is still called Mercredi in the French language, aka Mercury or Hermes Trismegistus
+
+Wednesday = Wodins day or Odins day - extra influence of Norse myth in the UK. The trouble with all this mythology is the multiple possible interpretations which can make second guessing the intention of a puzzle maker hard work. Given Holdstock's story of the pyramids on earth in AW, even Egyptian mythology is relevant - plenty of that in ED too..
+
+David did mention that stations were numbered and it might be worth recording these in a video once but not all of them are visible around the mail slots. Some are, but I've never spotted numbers on any that seem to have names or support the war messages instead.
+I've been looking into this (its only Fed Stations) and have been able to find out a few things:
+
+(1) Stations in a system are related in number - 1st station is the 'root' for the system - each station after that in radius adds 256 to the number
+(2) the 1st station number is related to the ID seed of the system itself - a unique number from the stellar forge for each system - the last four digits of this are taken as the root for the station numbers. This seed is not directly related to the location of the system
+
+I have had some confirmation from FDEV that this is how the numbers are generated, and that there is no 'secret' to them - just eye candy to make the Feds seem rather impersonal.
+
+YB
+Reactions:
+Six6VI

@@ -1,0 +1,12 @@
+PeteACarter
+P
+Jun 15, 2020
+#17,480
+BreadScientist said:
+This is a really, really, really stupid question, but I'm going to ask it anyways. Has anyone ever tried supercruising into a permit locked system?
+
+I really doubt it would actually do anything, since mechanics for taking over your ship and moving you back into the accepting boundaries exist in the game (like in tutorials and certain areas of outposts like restricted docking zones), but do we know for sure that it stops you? Obviously, this would take a long- time, but I just wonder what would happen.
+You cant SC into any system because it needs hyper space tunnel to load it.
+I believe that the hyper space tunnel is where Stella Forge runs the algorithm to work out what the system "looks like" and where the bodies are at that time, as well as just instanciating the objects.
+Reactions:
+Exekrator, [PS4] Filthymick420 and BreadScientist

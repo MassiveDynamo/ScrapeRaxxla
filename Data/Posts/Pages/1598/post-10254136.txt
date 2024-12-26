@@ -1,0 +1,20 @@
+Jorki Rasalas
+Nov 3, 2023
+#31,946
+Han_Zen said:
+The one in Pareco is easiest to find.
+Pareco
+Pareco is an independent system in the Core Systems within the Inner Orion Spur. It is an unusual system because the local starports and outposts all orbit a series of comets. As a result, these stations are all positioned within a thousand kilometers of each other and ships can travel between...
+elite-dangerous.fandom.com
+nope, in Pareco the comet position is obvious since 6 stations are orbiting it, but the easiest to find is Halley's Comet in Sol since you can enter that name in the Galmap search bar and get the location marker to drop into. It is possible to drop into Pareco Comet 1 (there are 2 in Pareco IIRC) by flying between those stations and dropping into the centre point but you've got to be within 50km of it to enter it's instance otherwise it just flies away from you at great speed. Since the Galmap overflow method was banned locating comet positions is nigh on impossible, and there's no point since there's nothing to see but the name appear on the LHS HUD. It is possible that Raxxla/Omphalos is hidden in that way but without a method/visible marker to locate it I'd say that finding it would also be impossible and an extremely poor way of implementing the puzzle.
+
+Edit
+IIRC there's another named comet that can be found by the Galmap search bar- think it was Grey's Comet but can't remember where it was, possibly Tau Ceti. Try the search bar.
+
+@Ruby_Empress : search back in this thread for comet hunting reports, though the overflow method for locating their positions was banned by FD and I suspect no longer works. There was also a separate thread on comets...
+Comets are already present in the Stellar Forge - you can drop into normal space close to them!
+Today I was investigating the curious case of the Pareco system; it has one star, and six stations. The oddity is that all six stations are around 11000Ls from the main star, and they're all orbiting ... nothing in particular. This has been a point of interest for some time, and some bold...
+forums.frontier.co.uk
+Last edited: Nov 3, 2023
+Reactions:
+CMDRCorrMorningstarFelian and Ruby_Empress

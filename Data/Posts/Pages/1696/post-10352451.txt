@@ -1,0 +1,17 @@
+Han_Zen
+Apr 19, 2024
+#33,917
+Astro13 said:
+Originally Elite was written on the BBC micro, which was the computer the UK commissioned the BBC to create. At that time the UK was quite behind on the whole computing thing, And the Micro was meant to be cheap. I have looked into the code of the original Elite, It is impressive. Now I wonder if anything in the source code for Elite points to Raxxla, I would not be surprised if FDev is trying to reference something in the original code, Or they snuck something into the emulated one you can get for free on the store.
+The game was probably finished before the short story was even written. IB and DB wouldn't have heard the name Raxxla, at the time they made it.
+
+At the time of the making of Frontier Elite 2, DB was focused on the realism part. Raxxla, Thargoids and other fantasy elements were not a priority. The short story 'Imprint' was published with Elite + for PC. It sort of smooths the transition from fantasy galaxies to the 'real galaxy' and gives some context to how Galcop space fits in the real Galaxy.
+Imprint: A short story set in the Elite Universe by Andy Redman | Dream-Ware
+Any commander will instantly be reminded of his/her/it's maiden flight from Lave and the dreams they had when they were still starry-eyed and before t
+www.dream-ware.co.uk
+
+When Frontier first Encounters came out, aliens and mysteries were back on the menu. From the code and the unpublished parts of the Journals, it seems like there were plans for more chapters. There are also signs that point to plans for a multiplayer game. FFE the game, was released relatively unfinished. There aren't any sings of Raxxla in the code. If there are any hints or pointers in the old books, Gazetteer or Journals, they have most likely been unintended at the time of writing.
+
+Raxxla is an ED concept, inspired by an old book. Mythical planet, alien construct, gateway to other universes. That is all the dev. team that made Raxxla for ED, had to go on. The rest was up to them.
+Reactions:
+CMDRCorrMorningstarFelian, Rochester, Ian Doncaster and 2 others

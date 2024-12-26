@@ -1,0 +1,9 @@
+alexzk
+A
+May 18, 2020
+#16,470
+I saw yesterday some circle on FSS! Later I figured it was rings, planet was less then 100ls to arriving point. So once you open FSS it shows unusual objects there (rings) immediately.
+On example of FC we can see that persistent objects may trip between stars. So planet should be something like FC, but with orbit Eccentricity > 1
+Last edited: May 18, 2020
+Reactions:
+Machina Ergo Sum and Hanerib

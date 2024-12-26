@@ -1,0 +1,29 @@
+Merlin StWahgwaan
+Jan 27, 2024
+#33,191
+Quaero said:
+As a lowly console cmdr, I find myself unable to utilize the landscape signal or audio imaging in general.
+
+
+Just a note; (cuz I used to think this too but gave it some thought one day and realized...)
+
+it is TeChNiCaLlY still possible to do it, even as a console cmdr... sort of ...
+Just not with the Odyssey update ect of course....
+
+As long as you have a PC with audio input ports (mic or direct input), you can use those mic/audio inputs and Audacity, the same as anyone else.
+
+You just need to route the audio from your console to your PC.
+
+Either with HDMI in-line audio splitting device, or going out from your TV to your PC (lots of TVs have a basic audio jack near the inputs for going back out to a stereo),
+or if from Xbox One for example, could even go audio out on the Optical Audio output, to a converter and into your PC input.
+
+There's a few options, though tedious initially, would work. And those audio converters/splitters are not expensive at all, cheap ones can go for under/around $20... Audacity is free...
+
+So as long as you have a PC with inputs, and your console, you can still technically do the spectogram stuff, with abit of fiddling and a tiny cost...
+
+There are even much more complicated methods that I would consider over-kill and out-dated, like buying a TV Tuner card for your PC, and having the console go directly to your PC, and using your PC like a cable box... but that's .... yeah... lol kinda old tech, was meant for cable TV mostly, and also more complicated then just a simple in-line audio splitter...
+
+
+Just an FYI incase you, or anyone, is interested in doing it and just didn't know of a way to do so.
+
+o7 CMDR

@@ -1,0 +1,25 @@
+Louis Calvert
+Dec 6, 2022
+#28,262
+John [Panzertard] Stoutbeard said:
+Too many different variants to really conclude.
+I see some
+"timeouts to the backend, waiting for the new system, so we're just going to leave you here in witchspace until the server can respond" kind of issue.
+"entering system, but backend didn't deliver all the details yet, so the client will spend some more time at the rendering/init part where you land at the star" kind of delay.
+The ED client is kind of robust in these situations, it will wait and wait for the backend (and internet) to provide the data. It may never give up, this is why you sometimes have to kill the game.
+
+However, I can not see how a full planet (it's a complex model, not just a simple texture) is rendered. It can be a bug, adress issue / reference issue.
+The clue to being a bug is that it's "", but this could also be explained with different versions of ED.
+
+Click to expand...
+Good notes That's why I'm trying to debunk the actual bugs and see what's left (if anything).
+
+Sadly there seems to be a distinct lack of actual bug reporting (ofc, that would be too easy!). Would be nice if we could just ask Fdev which of these are bugs!
+
+The two planet videos we have are from before and after they changed planet gen tech - so... might be the same planet, might not. And ofc brownish planets are common - but, the fact they're both brownish planets as opposed to say, one an ELW or gas giant, or any other body... ?
+
+Sample size of 2 is the problem here
+
+If the planet definitely wasn't a bug (just a thought experiment) - what would be the next steps?
+Reactions:
+John Stoutbeard

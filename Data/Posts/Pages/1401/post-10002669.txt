@@ -1,0 +1,30 @@
+Louis Calvert
+Nov 22, 2022
+#28,007
+cmdr_imonix said:
+I've found something peculiar, a what looks like disappearing orange binary and an small orange trianary (180 degrees behind the binary) on the background of stars, along with another 5 or 6 background stars that are inline with the binary - (?bug or something by design that I've not seen elsewhere in the game) in COL 359 Sector DA-Q D5-17. Both take turns to disappear as they are approached and the centre point between the two can be reached both in supercruise and in normal space. I've reproduced the stars here in this video, one of a series of 4 videos I've produced from different perspectives:
+
+- The tin foil started when I split the letters of RAXXLA into alternate Egyption and Greek alphabets. It's been said that there are no clues in the game, so the probability that the name RAXXLA could produce results is unlikely. However I found this system using alternate Hieroglyphics and Greek - For "RA" - Hieroglyphics R is a Vulture (Lyra), Greek A (Alpha), giving Alpha Lyrae (Vega). For "XX" - In Hieroglyphics, X is a Basket (Sagittarius in Chinese astronomy), in Greek X is Chi (Chi Sagittarii which consists of 3 stars x1, x2 and x3, all in an almost straight line cluster and just North of the 1977 discovery of the 'WOW' signal. For "LA" In Hieroglyphics, L is a Lion (Leo), Greek A (Alpha), giving Alpha Leonis (Regulus). Triangulating theses three systems, Vega, Regulus and specifically using star X2 of Chi Sagittarii (48 Chi Sagittarii in game), chosen as it was closest of the three Chi Sagittarii stars to the 1977 WoW signal discovery, I found that he centroid for those three systems is around COL 359 Sector DA-Q D5-17 - the subject of this video! Has anyone seen this happen before? The stars don't appear to correlate to any star systems on the galaxy map and are not related to the stargoids on FSS.
+Click to expand...
+Hold on to your seat, this one gets weird.
+I flew to COL 359 Sector DA-Q D5-17 and matched up my view with your video and took screenshots. Then I overlaid two frames of your video (one with the blinking stars, and one without) and then aligned and overlaid my screenshot. I then marked the location of your blinking stars with red circles...
+
+Your Frame 1: Suspect Stars circled with red.
+
+Your frame 2: Stars missing in the circled areas:
+
+My screenshot of the same starfield overlaid over yours, the red markers remain in the same place... but... ah....:
+
+The blinking stars you noticed seem to have moved on my screen?! The red circles are where the stars blinked for you, the blue are stars that appear on my screenshot but not on yours!!
+They aren't blinking, I would never have noticed any difference had we not done this.
+This final image is Frame 3 (my screenshot) over your frame 2, but with opacity so you can see through mine to yours.
+
+Because of FOV and stuff my screenshot isn't exactly the same, that's why some of the stars look motion-doubled a bit, but you can clearly see that this is the same area of space and the 'movement' of the stars is far greater and less predictable than the FOV doubled stars!
+
+I've sat looking at these stars for many minutes and they don't appear to blink for me.
+
+I've no idea. Maybe a third set of eyes on this is needed??
+
+Edit: spelling and stuff.
+Reactions:
+Jorki Rasalas, cmdr_imonix and Rochester

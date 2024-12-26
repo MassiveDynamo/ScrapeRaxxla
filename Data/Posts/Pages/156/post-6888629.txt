@@ -1,0 +1,11 @@
+Han_Zen
+Jul 25, 2018
+#3,112
+rOmiLaYu said:
+Not only that, I would think that, given the way that the game works, it wouldn't even be possible to have a celestial body navigating the galaxy. Sure, within a system there is rotation and orbit and travel, but the game handles that on a micro-level with instancing. I wouldn't think it would be able to handle that on a macro-level, galaxy wide.
+
+It would just mean that the body was not in any orbit. It would not be moving fast enough to change system during the lifetime of the game(unless it has a hyperdrive).
+
+We actually have a bunch of obfuscated unscannable celestial bodies in ED. The comets are not yet visible(ADS probably needs an upgrade[big grin]), but they are there. Some even have stations in orbit.
+
+The comet mechanics would be a convenient way to hide a celestial body from detection of regular scanners.

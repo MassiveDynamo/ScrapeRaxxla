@@ -1,0 +1,8 @@
+yelboc
+Apr 4, 2019
+#7,244
+Those annotations don't look right to me. I overlaid this from Stellarium, and Betelgeuse and Bellatrix should also be visible and are not... need to look again
+
+Source: https://imgur.com/2p2tqSp
+Reactions:
+dezpe and Dartay

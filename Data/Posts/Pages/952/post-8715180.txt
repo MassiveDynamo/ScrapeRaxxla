@@ -1,0 +1,11 @@
+Vasquess
+Sep 23, 2020
+#19,031
+Jorki Rasalas said:
+Anybody good at handling JSON files? It would be nice to download a data dump from EDSM and filter out systems with (only?) a type M subdwarf plus asteroid belt plus type 3 GG and see if there is anything within/near the bubble (it's not me I'm afraid!)
+Running through large JSON files is something I can do. I would have to find out what JSON values match exactly what you describe… Or can someone give me a hint?
+[edit]…and I'm not sure where to get the dump for that. On EDSM I only see "Celestial Bodies, updated in the last 7 days"
+[edit] EDSM knows xxx (rechecking code) systems within 1000 Ly radius around Sol. Querying those through the API, one each second, would take 4.4 days… not sure if this is a good solution (won't do it faster to not overload their service)
+Last edited: Sep 23, 2020
+Reactions:
+Q Hung and [PS4] Filthymick420

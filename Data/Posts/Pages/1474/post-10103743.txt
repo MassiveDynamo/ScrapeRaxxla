@@ -1,0 +1,60 @@
+Emperor
+Mar 21, 2023
+#29,477
+CMDRCorrMorningstarFelian said:
+For now let's practice an agree to disagree strategy. I have thought about your post and I have concerns about what you proposing especially this bit:
+
+
+
+This throws the baby out with the bathwater. Jason Ryder's ship Avalonia is an Ophidian-class vessel. This is not in Elite Dangerous. You also loose the Ryder clan and with it the first hints of Raxxla. You loose a vital connection to Earth. Earth is fundamentally part of the Raxxla mythos and one cannot exist without the other. This is why the in-game description of Lavian Brandy mentions oak barrels from Earth. You further toss out The Dark Wheel because its' first mentioned in Steven Eisler's (really Robert Holdstock) "Alien World: A Complete Illustrated Guide". This is just the tip of a very deep set of content you would loose. Besides, Elite Dangerous includes Jjagged Bbanner (and thus Dream-Ware and Insight sims), Jaques, and CIEP (by way of Soontill), amongst others. For it to work, you have to have the whole damn thing. Wisdom like stars comes from the deepest darkest realms. You cannot have light without a dark nebula collapsing first. In the beginning, there was only the black void of Hydrogen (oversimplified but you get the point).
+Click to expand...
+
+Ah multiverse theory then.... all lore is valid just depends which universe you are in.... ;-)
+
+On a slightly more serious note... the only menton of using previous games to enrich Elite Dangerous I have seen/heard/read from FD was from FFE (pretty sure it was that one rather than Elite II) in one fo the Dev Diaries by MB when he was talking about how they created the Galaxy. They imported some of the more "important" parts of the Galaxy (i.e. the old worlds, key systems of importance) from the old game and they hand crafted a few systems too (Sol being one).
+
+However even with importing in that data they had to change things about... pretty sure the old worlds (Lave included) are actually in a different part of the Milkyway as it didn't fit with the new galaxy in Elite Dangerous.
+
+EDIT:
+Here's a link to the video and summary I made earlier ;-)
+
+(Oh and it was Achenar that moved not the old worlds... bad memory! but "The space occupied by the systems from FFE is much larger in Elite Dangerous as they moved a lot of them around")
+
+The Quest To Find Raxxla
+In which of these systems does the faction have a wheel station ? P.S.I do not understand why the game introduced guards? Why is it? I do not remember in Elite1, Frontier and FFE any mention of them? Maybe in order to still explain what is RAXXLA? 1. Not sure - worth checking out perhaps. 2...
+forums.frontier.co.uk
+
+And some interesting points I made at the time too...
+
+"
+There were two main goals... model the galaxy a closely as possible to the milky way and for the game to continue on from where FFE left off (3250) - game continues in 3300
+They started with the Gliese & Hipparcos catalogues to provide the bulk of the data in the immediate region and major stars out to 600 - 700 LY (Database of about 75,000 stars)
+Then they brought "stuff" across from Frontier First Ecounters ("Favourite places people like to visit and there's also some key locations from.... erm... eh... the fiction background that we've been putting together, so a good example of that is Lave of course which is famous from the very first game. So what we've been putting together is a series of overrides. So the galaxy itself is constructed from an algorithm so we basically have a number of complex equations that say that there should be a star here it;s in a spiral arm, that kind of thing and that then generates the whole galaxy but what we then have is a manual list of overrides that say actually there is a star at this specific point here, its of this type, we can assign the planets and the moons also as overrides within the system. So that means that some systems, the solar system being the classic example will be fully sort of manually set up so everything that you see is familiar to you. Where with other systems we'll let the system generate what star it is and the planets but we might say that particular planet there needs to be an earth type planet. So a lot of that information we've extracted from FFE and that's been compiled into a big database that can then be blended into the game data.")
+Then they added in the backer's naming promise for stars and planets (they tried to match the descriptions provided by backers to potential systems).
+Matching systems was also an interesting task when bringing data across from FFE as there were a number of stars in FFE that they had to relocate to match real star positions. So the map from FFE has changed quite a bit, but there's still the familiar layout that Achenar is down below the solar system but the positions are more accurate but makes space feel that much bigger.
+Then they planned to implement what's changed since 2250 - whether disputed systems are still disputed, are there any new colonies
+"There's legends, ...erm that need to be tracked down" 8:03
+
+Some interesting points....
+At the point of recording they had done most of the placing of "Stuff" and were just deciding on changes since FFE.
+The totally hand crafted solar system is still broken.... or is it? ;-)
+The fiction bits of the galaxy are based on FFE and not Elite '84 (I've done checks on lists of systems and planets from the original game but not considered FFE before as I didn't play it)
+They took the time to place specific planets in specific systems as they hand crafted more than just Sol.
+The space occupied by the systems from FFE is much larger in Elite Dangerous as they moved a lot of them around
+If you're looking for the least retconned previous game then it's FFE? (Although Raxxla was never mentioned in FFE)
+And my favourite.... "There's legends, ....erm that need to be tracked down" 8:03"
+EDIT OVER!
+
+
+I would however say that in my humble opinion there is a bit of lore that has been added in over the years that has come from the previous games and pretty sure some of Galnet stories early on were lifted from previous games and slightly modified, but even that is quite a while ago now so examples elude me...
+
+Whilst I don't disagree with your views (as I always say anyone's idea is just as valid as someone else's until someone finds Raxxla!).... There is a part of me that is split on whether to find Raxxla it would be cool to have to know the lore of all current and previous sources, be able to decypher which bits are still valid which have been retconned whilst at the same time being able to make sense of all the discrepancies and re-writes/reboots over the years within the game and all the ancilliary products (books, RPG, etc) or whether that would give me a massive sense of humour failure.... LOL
+
+The way I personally approach it is that Elite Dangerous and anything mentioned in it is gospel (whether it's subterfuge or not).... Anything else is a guide and most likely not valid lore unless it comes from someone involved in the current game in someway but I don't rule it out completely...
+
+e.g. Thargoids were not in the game... they were conspicuously not mentioned by FD early on with the usual "we have nothing to announce at this time" type answers and then they appeared in the game and parts of the old law came in to force with the 1st Thargoid war.... but some details have changed/retconned/rebooted....
+
+but always remember "in the land of the blind, the one-eyed man is king" so you may well be right ;-)
+Last edited: Mar 21, 2023
+Reactions:
+Xenia_K, simulacrae and Macros Black

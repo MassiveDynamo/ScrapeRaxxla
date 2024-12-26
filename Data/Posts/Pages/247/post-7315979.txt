@@ -1,0 +1,12 @@
+Han_Zen
+Jan 4, 2019
+#4,935
+SpocksOddSocks said:
+Quick update, I can confirm I'm seeing the same thing. Currently sitting at 85,565ls from the star, and there is still a small area in field of view where the star is covered. Moving my head slightly at this distance does indeed reveal the star, and it works the same in camera view.
+
+It is the same in normal space and supercruise, and if you turn off the hud and enter FSS, you see the same thing there.
+
+There is a secondary effect as well. The light that hits the ship, does not come directly from the star.
+If you use the external camera to look at the shadows inside the cockpit, you see that the light is of by up to about 60°.
+At about 38,000 ls, the shadows lign up with the star.
+The offset is not linear. It will increase and decrease, from 38,000 ls and out.

@@ -1,0 +1,8 @@
+Emperor
+Dec 17, 2023
+#32,570
+Bushido Brown said:
+How does one analyse audio? I'm looking at the Thetis logs and they all have a "beep" at the start of each message, but it's different each time. Then there's the audio from log 5 which is interesting, especially compared to Shamash log 8.
+Analyse in what way?
+
+FD have hidden messages in spectrograms previously... Audacity can do that for you (it's free)

@@ -1,0 +1,19 @@
+Agony_Aunt
+Apr 7, 2018
+#2,090
+Comandante said:
+Apologies folks, I am not an expert at these things - how is the jump range of 467Ly achieved with the MkIII above? Is it to do with the fuel tanks?
+
+That is total range without refuelling. It still requires multiple jumps.
+
+You can also go a lot further if you use economical jumps. That calculation assumes max range jumps which are not very fuel efficient.
+
+As for it being in range of a stock Cobra Mk3, well, you could still travel a long way in one. Even assuming 1.0 modules Beagle Point or thereabouts is technically speaking in range.
+
+What i prefer to think about is the old FSDs which took a week to make a long jump and the 1 year decay on the drive system.
+
+Bearing in mind people went to Raxxla and returned in their own lifetimes, then the far side of the galaxy is unlikely, and if we accept the 1 year need to repair the jumpdrive, then its not more than half a year away.
+
+If we take a Frontier CM3 with a size 3 drive it has a 27LY range. Let's say 25LY average jumps, and 26 jumps (half a year), and that would mean Raxxla is within 650 LY of the old systems. Which fits with my pet theory that many people have been to the system where it exists and that its either well hidden or very far out from the sun.
+Reactions:
+Jaiotu

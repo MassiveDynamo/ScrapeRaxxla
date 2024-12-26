@@ -1,0 +1,15 @@
+Han_Zen
+Jan 5, 2024
+#32,865
+Robert Rockbite said:
+You have to be some kind of Elite to solve such a Riddle.
+The Thargoid probe was decoded in a few days after they became available. The community was ready for that one. The part of the decoding that Cmdr Wace did was rather brilliant though. It was an Elite job.
+Getting the morse code from the UA (Thargoid sensor) took much longer. The signal was much vaguer. It took a long time to discover and the to convince the community that the weak chirping sounds between the loud honks, were possible to interpret as morse code.
+
+We have to remember that the Thargoid objects were not made by MB. These are complex objects built by dev teams, with a large effort by the audio programmers.
+
+If it's true that Raxxla is known by only a handfull of FD staff including DB and MB, we can't expect anything complex like that. To my knowledge DB and MB never did any actual programming on ED. That basically leaves using existing code and manipulating the data base for the galaxy, for Raxxla. This would also explain why no hackers have been able to find any clues in the code, even though they had an easy job for the first few years of the game when the game files weren't even encrypted.
+
+If Raxxla hasn't been significantly updated after release involving a significant number of developers, it is most likely a single fixed location containing a common object (planet / moon / asteroid / lagrange point / star / black hole).
+Reactions:
+Emperor, Louis Calvert, Darrack and 1 other person

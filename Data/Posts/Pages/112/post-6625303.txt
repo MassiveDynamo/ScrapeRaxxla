@@ -1,0 +1,19 @@
+lorrad
+Apr 15, 2018
+#2,240
+Jaiotu said:
+Didn't get a chance to go searching for more low population Earth-likes looking for city lights. I spent my off time watching episodes 3 & 4 of the new Lost in Space instead.
+
+Is there any way to get EDDB to sort ELWs by population & rotational period? I think the info is all in there but I can't find any options to use those as search criteria. I don't think EDDB was designed with us tin-foilers in mind.
+
+Yes, it's more limited than it used to be. Once upon a time you could select 2 extra attributes and range was unlimited but now it's one extra and range is limited to 100 lyr. Maybe should beg him to give us at least 1000 lyr.
+
+But, what you ask is there!
+
+Login, select the bodies page, select ELW for body type, select populated yes, select rotational period for extra column, select your reference system and go.
+
+Tested for Sirius and got 26 pages.
+
+Might be easier to learn mysql and run your queries against your local edd or ed-ibe database?
+Reactions:
+Jaiotu

@@ -1,0 +1,13 @@
+simulacrae
+Aug 25, 2019
+#11,310
+alexzk said:
+Hm ...but on picture u calculate different thing then I do
+On picture you found "mass center". If it is solid methal plate - then it is center of masses there:
+https://www.edsm.net/api-v1/sphere-systems?x=-834.7708&y=48.1771&z=-564.9688&radius=20
+
+Also there is another intresting point, point which is eqauly remote from routes AB, AC, BC
+https://www.edsm.net/api-v1/sphere-systems?x=-190.3520&y=-54.4390&z=-262.4674&radius=20
+
+
+Ya I just followed the guy on the youtube video I like the equidistant point idea !

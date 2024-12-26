@@ -1,0 +1,88 @@
+Louis Calvert
+Nov 22, 2023
+#32,131
+Raz Griffin said:
+I have an idea that might help you fit the pieces together, based in simple logic.
+If Raxxla was a natural phenomenon why there's not plent of it? Unless Raxxla is a supermassive blackhole every natural thing in the galaxy has a multitude of presence, even GGGs and Void Hearts;
+If Raxxla was human tech how come its development was never leaked at any point in history? It may not sound odd but if you look at technology in our history, even the top-secret and very sensitive ones, got spied out by foes such as the atomic bomb, radar, stealth... and are you noticing a pattern here? Why wasn't it ever weaponized (because if it was we would certainly have a lot more details about it than we do now) since literally every technology developed by humans was first used as weapon before being used to anything else? Technology is not created by coincidence, you're aiming to achieve something, then why nobody else developed a similar tech following the same purpose (what ever it could be) over the course of years?;
+Those are some objective and simple questions something big as Raxxla should be filtered in before any investigation, imo. So it's safe to assume it's not a natural thing neither it is of human origin, again imo.
+Click to expand...
+True, we're told in the Raxxla Codex that: "Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed."
+Raz Griffin said:
+We can't reach the center bubbles of GV and Hen2-333 either by limitations in our current FSD tech or by PF lockout (which i already stated i don't think is the case because of the error messages when trying to jump) but it could've been possible using the Type-2b drive that was common until 3297 and could reach +600ly jump range in big ships, theoretically allowing humans to reach there and learn about its secrets long before other expeditions such as Melville's and Ram Tah's.
+I agree totally. However, that's all relatively recent (the 2b was used after the collapse of GalCop, about 125 years or so ago). Raxxla was known about almost at the dawn of interstellar travel, about 1000 years ago, so we should look further back for answers because we don't know when Raxxla was actually found and exploited, and when it was actually reached changes the equation quite a lot.
+
+We know that GalCop lost some scout ships near the Pleaides before the first Thargoid war (approx 200 years ago). That's 500 lightyears away, give or take, but using the Quirium drive (same as the Adamastor used in 3113-ish too). So we know that some people from that era were travelling that far and further, but that it was far and mysterious and dangerous, and likely only funded by governments. We also know the Dredgers have travelled outside the bubble, but we have so little info it's hard to say how far they've been - but again, city-sized megaships originally built and funded by corporations/governments.
+
+We know that before 2700 (the birth of Galcop) explorers would have been part of large ship crews funded by corporations, governments, or very wealthy folks:
+"Released in 2700, the Python paved the way for a new age of low-cost, accessible space travel for independent pilots, breaking new ground in a field that had long been dominated by slower, massive transport vessels that only large corporations could afford."
+Going back further we know that these megaships (sometimes called Cruisers in the lore) were used to explore and to travel any distance:
+"Colonial Deep Space Cruisers Herschel and Oberon reached the system then designated L-453 in 2412" - History of Lave.
+Before that we know that the Empire was established by a fleet, it took them a long time and they lost ships along the way:
+Galnet: "The Achenar system was first colonised in the middle of the 23rd century [2292]. ... Marlin Duval vowed to get as far from Earth as she could, and after a long and treacherous journey across what was then unexplored space, most of the convoy eventually reached the Achenar system."
+"as far away from Earth as she could" in the 2290's (concurrent with the first mention of Raxxla) was 140ly. At that time most colonies were within 20ly. As Michael Brookes explained in the lore interview here, travel was hard:
+15:27
+DJ: When was it humans first left Sol, do we have a date on it?
+MB: We do, I'm going to refer to my notes for this, just so I get it right, So the first interstellar colony was on Tau Ceti and that was in the 2150s.
+--DJ and MB Discuss the colony and the problems that happened there.--
+16:24
+DJ: What propulsion were they using when they first left Sol?
+MB: So back then it was mostly slower than light drives like ion propulsion, so not too dissimilar to the technologies that NASA is using today, fusion torches but they tended to be for the very big ships like generation ships that could carry enough fuel to make them worthwhile, so something similar in mind to the Daedalus project with its deuterium pellets, and of course there were experiments with hyperspace, but they varied in success, so they weren't considered reliable enough for large transportation which is why the early transports used the colony ships.
+DJ: This is something we often wonder about because they were sending probes through hyperspce [MB: Yep] quite soon after discovering it weren't they? but it's a couple of hundred years before hyperspace use seems to become normal for human carrying craft
+MB: Yeah think that's simply safety factors. Obvious there were a few crazy people that were happy to jump in and make a jump but they tended to disappear or there would be some unknown accident or some trace of them would be found, so it's like with any technology, when you're at the forefront of it there's a bit of risk involved, especially if you're trying to translate across lightyears of space.
+DJ: ... This is one of the ones (holes) we'd discussed, why it is that there's that 200-odd year gap [MB: yep], and we'd assumed it was just trying to figure out how to send a human through safely, essentially.
+MB: Well, its large numbers of humans, and the bigger the mass the more energy you need and you need to have efficient methods of actually producing enough energy to actually do the jump.
+Click to expand...
+We know that Raxxla was first mentioned around 100-150 years or so after the first discoveries into Hypersapce travel, but that FTL travel wasn't anything like we're familiar with today. Tau Ceti, Delta Pavonis, Beta Hydri and Altair were all explored and settled between 2190 and 2230, and Achenar was being settled just a few years before the Art Tornqvist mention of Raxxla in 2296. Travel between the colonies seems like it was happening (as per the Tau Ceti history with investigators and military travelling from Sol, 11ly away), but it seems like it took a while and wasn't done lightly. The Federation travelled to Achenar in 2323/24:
+Galnet: Under the command of Admiral Richard Morgan, a fleet was assembled at Beta Hydri and began its transit to Achenar towards the end of 2323. That region of space was relatively unexplored and thinly populated at the time, meaning that the fleet lacked the logistical support needed for a mission of this scale.
+
+Despite a long and fragile supply line, Morgan chose to engage the defenders in a single large battle. Achenar was alerted to the plan and laid an ambush for the invaders, applying the infamous pack-hunting formation against the Federal fleet initially, then against its supply lines.
+
+Throughout 2324 the Federal fleet continued to try and establish a foothold in the system, but with little success. The constant attrition took its toll on the invaders and in 2325 Achenar counterattacked in what is now remembered as the ‘Great Battle of Liberation’.
+Click to expand...
+This was 26 years after Art Tornqvist mentioned Raxxla, and this is a full-fledged and well-supplied Federal military battlefleet travelling 117ly.
+
+So... we can see a pretty clear range/time/ease/accessibility curve on the conceptual graph here. The earlier in history you assume the actual 'exploitation of Raxxla' begins, then the closer/more accessible Raxxla must have been - to a point. The Regor sector, 1000ly away, seems like it would have been impossible for the tech of the time, maybe for as much as five hundred or more years.
+
+As you mention: the more people that know something and the more time that passes, the more likely it is that the secret will get out - so that adds more factors to the equation. But, to balance that, the more time that passes the more misinformation spreads too (i.e. like Atlantis, El Dorado and the kingdom of Prester John)...
+
+To add complexity, Art Tornquvist's 2296 mention might have been referring to the discovery of Raxxla, which may have happened in any way; remote detection, FTL probes, Hyperspace misjump, psychic vision, etc. and not necessarily the 'exploitation of Raxxla' - those two events might have been separated by centuries (or not at all). If you take the Dark Wheel novella as a story based on truth (like it's fiction within the world of Elite), then the 'exploitation of Raxxla' seems to have occurred before 3125 (ish) - but how long before? who knows!
+
+Raz Griffin said:
+If you think about it, being truly covert doesn't mean you're in the most sophisticated, isolated and secure hideout, it may sound effective (and may be) but not on the long term and it would restrict your reach/power significantly.
+
+In order to be really covert you must be in plain sight and stablish control. You have to be part of the daily life nobody pays attention to and everybody relies on. Let me give you some examples:
+Hey i'm unable to fly a ship, i need to be licensed first and if i step outside the rules i'll become space dust.
+Hey i have to turn my ship on, let me scroll through the interface.
+Hey this organization has been gathering stellar data for a while now, what does it do with it?
+Hey i cannot go to this system, why?
+
+So forth and so on, i think the game may very well lead some of the players into this kind of questioning which also applies to our real world. Powerful organizations, elitists, hidden cults, strange tech and science leaps.
+Click to expand...
+I think I understand, and yes I agree, the game is literally chock-a-block with conspiracies and secrets by design.
+
+The tourist beacons in Shinrartra literally explains that the PF controls a staggeringly large portion of interstellar travel - and therefore one could easily say they covertly dominate humanity, since without interstellar travel humanity as we know it would collapse:
+[Tourist Beacons in Shinrarta]
+"The Pilots Federation derives the bulk of its wealth from the GalNet data network. Originally a system of ship, bounty and star-chart data, it evolved into an interstellar aggregator of market information and galactic news. By 3300, the Pilots Federation was not only the dominant provider of this information, it was also the main manufacturer of the hardware and software serving this data. Today, Pilots Federation systems are fitted as standard on virtually all independent starships."
+
+"The Pilots Federation has always remained politically neutral, avowing that it exists to support pilots rather than nationalities or political factions. The organisation is based in the Shinrarta Dezhra system, which can be accessed only by invitation. Receiving an invitation is typically dependent on achieving a high rank in the Pilots Federation. This stipulation has contributed to perceptions of the organisation as secretive – a perception compounded by the fact that the Pilots Federation has very little direct interaction with the public."
+
+"Officially, the Pilots' Federation is apolitical: as an organisation it does not interfere with the internal workings of systems or factions. However this official stance is a misnomer. The PF wields considerable power through its web of political contacts as well as the application of the bounty system and control of the ship and station embedded systems. It also uses a lot of soft power by providing pilot safety support throughout human space."
+Click to expand...
+If we're looking for a covert power dominating humanity, then the PF has got to be a top candidate. It was founded in 2805 (though significantly smaller and more limited than it is now), so that falls within our theoretical timeframe for exploiting Raxxla. There's even an Elite group within the PF that's even more secret and covert, which actually ties in with what Rafe says in The Dark Wheel novella:
+"Because there are people on Raxxla already. This is only a guess, mind you, but from what happened to Jason I'd say it was close to being right. We've long suspected that a corps of Elites lives there, and are exploiting the gateway. They're powerful, twisted men. Powerful enough to hire an assassin to kill the threat to their dominance"
+"A corps of Elites":
+[Tourist Beacon 0247 in Shinrarta] "The Elite Federation of Pilots (EFP) continues as a select and extremely secretive group within the larger organisation."
+
+[Tourist Beacon 0251 in Shinrarta] "Much of what the Pilots Federation does revolves around secrecy; and this has many layers. Within the Pilots Federation, the Elite Federation of Pilots is even more mysterious and secretive, and at the centre of that is the elusive 'Founders World'. It is the only system directly controlled by the EFP, and even its location is closely guarded. This secrecy is maintained by the EFP using 'misinformation' - there are a great many rumours of its rough location - and they all contradict each other. Only a select few - the members of the EFP - know the truth. The system is governed by the EFP and it is here that the organisation's headquarters is based. EFP members are allowed to retire here in relative anonymity."
+Much as I don't like to think that Founder's World is Raxxla... it does seem to match most of the things we're told about it, and it's not far from Sol (64ly) or Lave (57ly), therefore it could have been found pretty early on. But - I can't think of a better candidate within the current lore for the 'sinister cabal (or sole tyrant), which has leveraged its power to establish covert dominance over humanity' than the EPF...
+
+While I think the Guardian angle is very compelling (and the Thargoid angle too), and I really like exploring them - I really struggle to fit Raxxla into them without inventing a lot of stuff. With what I've outlined above, you don't have to fill in many blanks at all to fit Raxxla in there:
+
+The early PF discovered the "Omphalos Rift" and exploited the "alien construct that's a gateway to other Universes, and all that's in those Universes in the way of bounty, and treasures, and aliens, and life" to grow powerful and have "leveraged its power to establish covert dominance over humanity". "A corps of Elites lives there, and are exploiting the gateway. They're powerful, twisted men". "Within the Pilots Federation, the Elite Federation of Pilots is even more mysterious and secretive, and at the centre of that is the elusive 'Founders World'." "Only a select few - the members of the EFP - know the truth". "Unless you become Elite, you'll never get to Raxxla."
+
+
+It might well be that Founder's World is a Guardian world, maybe the Exiles(?), that sort of thing, and that's why the PF has locked off access to the Guardian sites, only allowing them to be 'discovered' when the threat of the Thargoids meant that humanity as a while needed a way to rapidly tool up in a short time?
+Last edited: Nov 22, 2023
+Reactions:
+Raz Griffin, selbie, Emperor and 5 others

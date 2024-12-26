@@ -1,0 +1,7 @@
+Grens404
+G
+May 4, 2023
+#30,275
+I'm really having a difficult time finding a program that will translate my CSV file of systems with their (x,y,z) coordinates into a 3d space. This would allow me to look at the relation between the systems, especially by proximity. Does anyone know of such a program?
+Reactions:
+Macros Black and simulacrae

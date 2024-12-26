@@ -1,0 +1,18 @@
+Louis Calvert
+Jan 20, 2024
+#33,047
+Quaero said:
+OK, I'm done lurking. Tinfoil hat on...
+o7 cmdrs I'm back in a new body
+
+selbie said:
+Hmm, it's very subtle but I do see something there in the 2-8kHz range that matches the Lave one at 90 degrees lateral. Also for some reason it is stronger in the left (?) channel in that instance.
+Interesting!
+
+I'm not sure why there's such a difference, I assumed that it was because Ava was looking "left" when she did the recording. I didn't get such a left/right bias in mine when I was testing it. However... I don't know. There's also a consistently left channel bias in the Landscape Signal too, for no reason that I can see.
+
+@CMDR Davanix was right in that the sounds of Supercruise are very strange and almost entirely unheard by most people (it's a lot of work to implement those sounds when so few folks will hear it). I could well imagine there is meaning in there somewhere, I just wasn't able to find anything.
+
+Speaking entirely hypothetically and personally - IMO the sound design in Elite is extraordinary and consistently blows me away. There are sounds everywhere and for everything, and most of them are really complex and impressive and mysterious. I wouldn't find it hard to imagine additional mysteries hidden in audio! I also think it's a relatively untapped area of exploration since you need a certain amount of setup to investigate.
+Reactions:
+CMDR Davanix, Quaero and Rochester

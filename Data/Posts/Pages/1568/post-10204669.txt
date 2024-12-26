@@ -1,0 +1,10 @@
+Edelgard von Rhein
+E
+Aug 23, 2023
+#31,350
+They may be in ED under their designations in the HR (bright stars) catalogue or HIP catalogue (from the Hipparcos satellite, which measured distances through the parallax method). There needs to be a distance measurement for it to be in ED, which is why HIP was one of the main catalogues chosen.
+
+On the system map, it shows the other names from catalogues that each star is known by and any of these can be used to find them in the Gal Map search. EDIT: psi Eridani is HIP 23364 and lambda Eridani is HIP 23972.
+Last edited: Aug 23, 2023
+Reactions:
+Shadowsnog and CMDRCorrMorningstarFelian

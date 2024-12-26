@@ -1,0 +1,11 @@
+Stinja
+S
+Jan 15, 2019
+#5,180
+Eruptor218 said:
+I've got a fellow player, who works on the Canonn R&D team, potentially making a tool to show a list of systems within a set number of ly that fits the parameters of a Gas Giant with 8 moons (Based off of EDSM data of course).
+
+I pulled the recent systems list from https://eddb.io/api , dumped it into SQL, but it doesn't contain the moon info.
+The main bodies says it's no longer available, so I never went further trying to script a list from the database info.
+
+i'm on DW2, and actively searching gas giants + 8 moons, but nothing so far

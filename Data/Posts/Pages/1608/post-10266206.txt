@@ -1,0 +1,6 @@
+Ian Doncaster
+Nov 23, 2023
+#32,146
+A policy of not answering story related questions even if the answer is "that has nothing to do with any story, it's just a bug" does have the advantage of not allowing the sample space to be reduced through negative answers.
+Reactions:
+Bushido Brown and Rochester

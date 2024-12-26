@@ -1,0 +1,25 @@
+Louis Calvert
+Dec 8, 2022
+#28,312
+I've been through the issue tracker (bug reporting) looking for all bugs related to hyperspace/witchspace.
+
+The following are reported or confirmed bugs with multiple reports accessible on the issue tracker. I want to stress - this is what's in the official Fdev bug tracker. This isn't scraped from the internet at large, these are the ones reported to Fdev in the tracker. I've compiled the 150+ reports into the below categories:
+Braben Tunnel (infinite blue tunnel BEFORE the jump to witchspace)
+Infinite witchspace tunnel (essentially the tunnel never ends)
+Often requires hard-stop on game to get out of
+Occasionally resolves like a normal jump after an unusually long time
+Jump Loop (jumping from a star, going through a normal withchspace tunnel only to arrive at the star you just left)
+Jump exit error (on exiting the witchspace tunnel, you end up in a star or way too near one, often happens in close binaries, etc.).
+Crash on exit (jump goes either normally or becomes Infinite tunnel, but does end, the instant the "whoomp" sounds the game crashes.)
+I excluded ones relating to VR, or the Dethrottle glitch, or issues with multicrew strangeness and a few others that weren't related strictly to the actual hyperspace jump, one report of a lighting glitch, etc.
+
+The above are all familiar to me and I'm sure anyone that's been playing for any length of time. Most of these are related to network errors, lag spikes, server-client communications, and the pattern is very familiar to most people that are used to playing MMOs, especially older or less stable ones.
+
+Please, please read this before posting a reply:
+I'm not saying this is conclusive at all All I'm showing here is the "common known bugs" with witchspace jumps, the bugs that have been reported (usually often) and Fdev has seen and aware of. Nothing more or less. As I said, I think most players experience these over time too.
+
+So, when someone says "That's a known bug" in future, be aware that the above list is the "known bugs", anything else is NOT a currently known bug. If you do think you find a bug please do report it here on the issue tracker
+
+Obviously I may have missed some/lots. If any of you can show bug reports/patch notes that can add to this list of known witchspace bugs (even if they were fixed) please link your sources and I'll add to the list so we all have access to a collected list of known bugs for future investigations, thanks
+Reactions:
+John Stoutbeard

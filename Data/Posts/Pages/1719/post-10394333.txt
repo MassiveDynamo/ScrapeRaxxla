@@ -1,0 +1,25 @@
+selbie
+Jun 30, 2024
+#34,376
+Louis Calvert said:
+No, because it contains images of creatures and other things that everyone can see right now if you look.
+I wish I could verify that. Believe me when I say I've followed everything in your thread to a T and attempted to extract anything possible out of my own independent recordings from different parts of the galaxy. I found no indisputable evidence of 'creatures' or any forms that denote a deliberate manipulation by FDev to communicate a visual clue outside of the original 'A' glyphs and 'mountains'. The ONLY oddity I've come across is the time-dilated sound of a person breathing, and all that does for me is complicate the puzzle even further, and other people have stated they cannot hear the same thing so it becomes more unreliable as evidence of something.
+
+None of FDevs mysteries that I know of have required such a large degree of manipulation of a clue just to obtain a better clue. This flags to me that there are other methods of investigation needed to clarify what the purpose of the signal is. The degree of certainty of the claims about the clues seems out of proportion to the evidence provided by everyone so far in your investigation thread. I most certainly respect the effort involved, but to me it feels like you are focusing on something that can easily be explained by pareidolia. The process of inferring these shapes involves heavy interference by external means which simply introduces too much bias.
+
+For example, if I theorize the breathing sound is something being transmitted from within the galaxy like the Landscape Signal and not a product of an audio quirk (ie. the external camera playing audio of your pilot's breathing) then why does it exist? Is it even related to the LS?
+
+This audio is fairly easy to find so long as you are listening carefully and set your music audio to 0:
+
+Fly in supercruise away from any system you are in - a reasonable distance like ~10,000 - 50,000 LS away.
+Take your ship external camera and move it a large distance from your ship - in this case over 1000m.
+Follow the line of the galaxy plane in the orientation pictured below until it is roughly above the LMC. Then let the ambient audio "settle" for a minute or so and listen carefully for the sound of a gentle periodic intake of breath every few seconds (like a person gently sleeping). You will only hear it when the louder ambient sounds briefly dissipate.
+I tend to zoom in, just in case that helps, but probably not necessary. For reference, my location in this screenshot was between the human and guardian bubble at the time.
+
+
+If you do move the camera around or zoom in, make sure to wait 30 seconds or so to check that other audio tracks aren't merging in (such as too close to the familiar chirps of the landscape signal).
+Just like the original LS, it must be verified by testing different avenues first before deeply analysing the audio itself. There would be a lot of further effort to check if it is directional, and whether moving to a different part of the galaxy changes its position.
+
+In the case of the breathing, the same breathing sound can be heard within the FSS interface, even when locked onto a planetary body. This points to it being the aforementioned ambient ship sound and less likely a clue to something else. I could edit the bejeezus out of the audio and try to 'find' something deeper, but if I don't have a theoretical framework underpinning that investigation, then I would be chasing ghosts for an eternity.
+Reactions:
+Rochester

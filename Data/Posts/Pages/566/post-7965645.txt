@@ -1,0 +1,4 @@
+Noobilite
+Aug 25, 2019
+#11,313
+If it's 6, doesn't that just change the location. That could be a set of lines intersecting in a cube instead of a plane. The Raxxla logo is a 2d version of a teseract and other equivilant geometric shape technically. Don't know how to calculate those though.

@@ -1,0 +1,14 @@
+Han_Zen
+Apr 25, 2023
+#30,122
+Jorki Rasalas said:
+My hypothesis, if I can justifiably call it that, is that MB has given us a clue to Raxxla’s location and it lies in the text string “Princess Astrophel and the Spiralling Stars”. I suspect a subset of the letters within that string, when appropriately rearranged, gives the system name. However the ED system naming is rather weird and an everyday English dictionary cannot help...and last year doing the check manually I found 90+ potential matches within 64ly of Sol...
+I think you need to find a good subset. You get to much with with “Princess Astrophel and the Spiralling Stars”.
+Sol, Altair, Spica, Antares, Polaris, Pleiades and Regor Sector pops right up. Probably a bunch more as well.
+
+Alternatively drop the rearranging and just remove letters?
+
+Edit. Example: Polaris
+Last edited: Apr 25, 2023
+Reactions:
+CMDRCorrMorningstarFelian and Jorki Rasalas

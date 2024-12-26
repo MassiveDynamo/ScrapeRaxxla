@@ -1,0 +1,8 @@
+Jorki Rasalas
+Jul 1, 2023
+#30,727
+Jorki Rasalas said:
+I did a body search for planetary rings centred on Sol, and noticed a planet in Tau Ceti has rings. Anyone searched them?
+Ah, just sorted out a Joystick Gremlin issue after my SSD upgrade & got back into game. Since I'd jumped out of Sol to Barnard's Star last time I flew I thought I might pop over to Tau Ceti to check out the planet 3 from an Inara ringed bodies search. Seems to be a bug in Inara search cos although the star system is Tau Ceti the body is then shown as HIP 30944 3, a GG with icy rings.
+Reactions:
+John Stoutbeard and simulacrae

@@ -1,0 +1,9 @@
+Yagi Uda
+Y
+May 3, 2019
+#7,871
+Noobilite said:
+Are these just shuffled names for planets or systems? Or are they something like peoples playe names who have visited Raxxla mixxed up.
+
+I've not seen more on this so far this week. The long string of text contains lower case a-z, upper case A-Z, 0 to 9 digits, spaces, and separated by carriage returns. That's 26+26+10+2 = 64. Base64 (perhaps swapping space and CR with + and / or alternatives) can be converted into other formats (inc. pictures) which might give a clue, but so far I've not had any type of success when converting. There's a lot of characters shown here - it might be a single string if you look at the carriage returns as being just another character.
+Last edited: May 3, 2019

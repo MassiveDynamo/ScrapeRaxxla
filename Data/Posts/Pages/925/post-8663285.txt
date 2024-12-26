@@ -1,0 +1,11 @@
+Mrrshal
+Aug 23, 2020
+#18,499
+Jorki Rasalas said:
+Simples!
+According to Simbad (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=PMSC+05322+3026&submit=SIMBAD+search) PMSC 05322+3026 is also known as 26 Aur (a double star Ads 4229 ab), aka ADS 4229 C, while if you check ADS 4229 (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=ADS+4229&submit=SIMBAD+search) it is also known as 26 Aur & 26 Aur C. So these two systems that seem to be so close together are actually a single system IRL that has been imported from two separate astronomical catalogues with slightly conflicting data. Presumably early in the import process during game build Stella (pun intended) Forge did not implement much in the way of data error checks.
+
+Looks like there should be a binary pair AB and a third star C in the system if the import had gone properly, but some astro data is a bit sketchy due to manual identification etc.
+Same with the ghost system near LFT 509
+Reactions:
+Dr. Lexus, PeteACarter, Jorki Rasalas and 1 other person

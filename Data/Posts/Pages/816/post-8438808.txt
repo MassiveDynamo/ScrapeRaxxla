@@ -1,0 +1,25 @@
+Jorki Rasalas
+May 3, 2020
+#16,303
+Edelgard von Rhein said:
+I hadn't seen this interview before, so it was very interesting. Thanks for posting!
+It almost makes me wonder if TDW invitation has potentially been in since the start.
+That said, five and a half years in, no one has triggered TDW invitation (at least not publicly confirmed), which makes me wonder what is required. There are plenty of Triple Elite pilots, now, some people have managed it more than once. When I see comments like 'that's not how we expected players to play the game' it does make me think that there might be something obvious we are missing. There are enough players doing things in different ways, that I would have expected someone to have stumbled upon it by now. (I'm assuming it's something that happens in code and is not a gift of a GM looking at people's stats/activities).
+Consider yourself in TDWs' place. You want to recruit the best explorer in the galaxy. How do you work out who that is?
+There are measureables, like distance travelled and distance from the start point. They don't tell the whole story. Does someone really have to have been to Semotus Beacon for you to consider them?
+There is the ability to inspire others. The organisers of different expeditions have achieved this, from Distant World onwards. Even earlier, the FGE was encouraging people to explore together. Are you going to favour one group/expedition over another? Do you have to have organised an event? And how can you tell, in code, that someone is organising something? This is too arbitrary. If TDW invite was in the gift of a GM, there are still dozens of people who ought to have had the invite, all well-known people by definition.
+Is it the significance of finds? How is that measured in code? Do you have to find a bunch of new Codex entries? That was all first-come, first-served. Number of Codex entries might be better but a find-em-all philosophy could mean that someone is following in the footsteps of others for completion, not looking for new things. It's not an easy thing to work out in code how important one's contribution is and any such code would also be arbitrary.
+An exploration test. If there are tests to trigger an invite, forget the missions boards or triggering tip-offs or missions given from being in inhabited for 15 mins in the same instance. An explorer is going to be out in the black. There is no communication to send a task their way, especially with Galnet shut down (I did wonder if the Winking Cat might have been something along these lines, though). Putting a clue into the Codex entry for Raxxla/TDW is your only recourse. The problem with that is that great explorers might not also be great cryptologists. Getting the message across is a problem.
+
+I really hope I'm missing something but the more I look at it, the more intractable the problem becomes. It seems more and more likely to be something done manually by the developers. If not, then it will be some really weird conditions that will just get figured out by everyone once someone triggers it.
+
+Separately, the consequences of the invitation need to be meaningful. A trip to TDW base and viewing the 'evidence' there will be on Youtube in an hour. Then what?
+Click to expand...
+
+I think the test is coded into the game, not done manually by a database admin. But yes, we need to figure out how we should have been playing the game!
+And it’s a personal journey, so I think organising others to do something cant be a factor in that.
+
+But we do know TDW invite you to a disguised membership test, so something demanding, not straightforward, not criminal, must be some form of mission-what else could it be?; that could fit with the TO mission mechanism, or something like it.
+Last edited: May 3, 2020
+Reactions:
+PeteACarter, ironshirt, Machina Ergo Sum and 1 other person

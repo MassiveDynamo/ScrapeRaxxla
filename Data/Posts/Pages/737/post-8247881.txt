@@ -1,0 +1,20 @@
+RaNaketh
+Jan 17, 2020
+#14,723
+Vetinari said:
+In the past they have included or for some reason not included - conflict zones, space stations, anything on the planet, Listening posts and similar or Installations so could be almost anything and not always consistent...or theres a lot of hidden stations in my game.
+
+Since the update I noticed it may be more accurate as in counting only certain things all the time (seemingly excluded Conflict zones) but didn't see enough to confirm the theory or exactly what was counted, fairly sure it missed a station last night so may be a bit bugged but haven't seen enough to decide whats happening.
+
+Edit: just realised you DSS it, in that case any 'finds' should show up as POI or Stations or Surface Bases under the body in the Nav Panel, should be indented slightly to show on or 'attached' to that body. Should be 4 of them.
+Click to expand...
+
+Ok, I'll have a look when next in from the Nav Panel. Since it's non-landable, I couldn't see the POIs on the planet as per normal geological, or bases that I've landed at in the past and there were no conflict zones or anything else nearby. I left the game just near the planet, so I'll see if it's a persistent experience or glitched.
+
+Edited: I re-read your comment, and I was thinking of the System Map, Planet details and seeing the POI there. I already did check the Nav Panel looking for these 4 human POIs and nothing appeared nested under the planet, hence the post. I'll re-check both soon anyway.
+
+Thx.
+/ Ra
+Last edited: Jan 17, 2020
+Reactions:
+Vetinari, [PS4] Filthymick420 and Machina Ergo Sum

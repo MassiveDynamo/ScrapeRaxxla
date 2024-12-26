@@ -1,0 +1,11 @@
+Jorki Rasalas
+Apr 13, 2020
+#16,038
+Filthymick420 said:
+Once i have the distance, how do i find my heading though?
+
+Also, you know how when you have your destination targeted in system and it shows the time to get there at present speed? Is there some way i could get the distance out of the 21h 45m 53s?
+
+No, if I remember my astronomy correctly, RA is measured in hour-angle, with 24 hours equating to 360 degrees. So the angle equivalent to your RA figure is (21h 45m 53s/ 24h 0m0s)*360 degrees measured from the reference point which is, I vaguely recall, the Point of Ares which is something to do with the Equinox. You’ll have to google it I’m afraid. There is no way to get a galactic 3D coordinate directly from RA+DEC, but you could work out the direction then just travel along it.
+Reactions:
+Machina Ergo Sum

@@ -1,0 +1,9 @@
+Adel
+A
+Feb 20, 2022
+#25,385
+Jorki Rasalas said:
+Mmm, 12 comets in Shinrarta seems a bit excessive! Not seen the “SmallBody” data type mentioned before, but then not looked in the journal specification for a long time, it’s probably been updated...
+Comets are in the game since a long time (2017 at least!), but they are not visible until you target them in the galmap, then you can find them with scanner (concentrated signal sources).
+But when you drop in them there is nothing.
+And some systems have more comets than bodies (can't remember which one as i'm mapping them) but i can tell Isinor have a lot of comets.

@@ -1,0 +1,8 @@
+simulacrae
+Jun 2, 2022
+#26,305
+Rochester said:
+Nice. I’ll give it a try. My PC is mothballed at present, and I’m looking for a CAD/GIS that’ll work on IPhone / tablet until I have the PC operational.
+Thanks - Ya i have played around with mapping parts of some of the planets with arcgis but its so globe focused i have been using sketchup for the largescale stuff. Not sure what would work on phone but let me know if u find something good!
+Reactions:
+Rochester

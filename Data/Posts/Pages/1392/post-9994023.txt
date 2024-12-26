@@ -1,0 +1,19 @@
+Louis Calvert
+Nov 11, 2022
+#27,835
+Thanks @Darrack that's great info. Interesting that this suggests that a decision was made to exclude Mimas (Hyperion is a weird wibbly rock, but Mimas is/should be an actual round moon!)
+
+Everyone, the kind people at EDDB discord came through with some great info - convo posted below.
+
+TLDR:
+Mimas was added to the EDDB on 5th Feb 2017 (3304)
+No way to know if it was manually added
+It's listed as a BLACK HOLE
+Speculation is that since the type id for a black hole is '1' it may have just been the default entry type.
+
+SPOILER: EDDB MIMAS DISCORD CONVO
+
+Make of that what you will, Raxxla hunters!
+Last edited: Nov 11, 2022
+Reactions:
+CMDRCorrMorningstarFelian, Rochester and Darrack

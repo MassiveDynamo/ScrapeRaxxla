@@ -1,0 +1,11 @@
+Han_Zen
+May 24, 2020
+#16,656
+Jorki Rasalas said:
+But they’re definitely animated? Nebulae wouldn’t (edit: shouldn't be-I’m no graphics expert) be of course. Just want to avoid a 60+ Jump round trip if it’s not worth the hassle.
+I can't say anything 100% on how thy are made. I VR I can get quite close. The cloud there is made of several filament objects. Each of them will slowly change over time, creating the fade in / fade out effect. The central light source is a separate object.
+
+A few more examples. That's all I have in my Dropbox. I have more screenshots on the gaming computer, at home.
+SPOILER
+Reactions:
+[PS4 Pro - PC] earthtone99, Jorki Rasalas, [PS4] Filthymick420 and 1 other person

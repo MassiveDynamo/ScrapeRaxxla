@@ -1,0 +1,24 @@
+Thatchinho
+Mar 21, 2023
+#29,478
+SergMx said:
+off topic
+SPOILER
+
+
+
+
+
+
+A quick history for you:
+
+When discovered in 2.2, Guardian obelisks show a grid with a changing pattern of triangles glowing on and off. It’s overall in a 3 x 2 grid*. See: https://ixalon.github.io/elitedangerous/
+Ram Tah mission is released and involves working out which combo of Guardian Artefacts to use when scanning an obelisk to get a successful scan for the mission.
+3.0 is released, which introduces news sites and a new Ram Tah mission. The display on the obelisks are changed to show the objects required for the Ram Tah missions.** The grid is overall now 2 x 2.
+An Odyssey update then reverted the Obelisk displays back to their original behaviour but with the 2 x 2 grid instead of the original 3 x 2.
+
+*This is the most complex layout for the Guardian writing. The simplest form can be seen on the bases of the Relic Towers.
+
+**The displays only show objects that were in the game at that release. The Ancient Key and Hydra Tissue samples are the two things that fit the type of objects that are shown on the displays but aren’t there. The simplest answer to why is just that they weren’t in the game at that point, and were only added in later updates.
+Reactions:
+SergMx and simulacrae

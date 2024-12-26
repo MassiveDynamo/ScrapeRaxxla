@@ -1,0 +1,40 @@
+AndyJ
+Oct 3, 2018
+#3,781
+Jorki Rasalas said:
+Didn’t think to check the front page, doh! Thanks for that reference. So they disappeared around 2.0 when ranked missions were apparently redesigned. Sept 2017 FDev Adam said they should be still available, then FD said “Nothing to talk about on this right now.”
+
+So my hypothesis that their disappearance was related to the salt farmed after the Salomé event is disproved, since that was well after 2.0. Science in action!
+
+No your timeline has been completely off. I'll repeat what's gone on... and probably for the last time.
+
+Adam didn't say that in Sept 2017, he said that in December 2016 (in his "missions feedback" thread) when I tried to establish if the missions were actually in-game but not being generated due to a bug. We never did get an answer.
+
+But before that, they probably first disappeared in the v1.5/2.0 update (Ships) which was November 2015.
+There was the following entry in the change notes:
+- Elite/Founder missions are now only available at the Founders World
+(link)
+Remember this is before Horizons, so one assumes that they meant JM... as planetary bases weren't in game at that point.
+
+I'd not played during the original beta period, only after launch and was just getting to the point that I was ready to try these missions.
+I gradually realised that I hadn't seen them for a while and asked a few other KS backers if they had - we waited a little while to see if they might reappear, in case it might be the BGS, but no luck - so I bug reported their apparent absence in March 2016. (link)
+
+Nothing came of that - so towards the end of the 2.1 beta (April 2016) I asked Adam Waite if the missions were coming back, referencing the bug report & also to check that the reworked mission system would still provide 'or Founder' missions with the rank-requirements removal.
+
+He appeared to reply that the original missions hadn't been transferred over to v2.1 -
+There are a couple of founder only variants of missions in for 2.1. They will be more rewarding variants of a couple of the templates you know. It's what we could do for 2.1 and we want to try to find time to work on them later.
+And it does seem that ever since, the only two remaining ranked-locked missions are the "sensitive supply run" a cargo delivery mission and an assassination mission.
+
+In December 2016 he opened up a "mission feedback" thread so I took the opportunity to try to find out if they were in game but perhaps not being generated.
+This was when he replied "I will try to look into this, they should still be available. Obviously this doesn't seem to be the case." (link)
+
+I tried chasing it up a couple more times in 2017 and tried asking the community team in the context of being a Kickstarter backer, and could they find out if these missions have been deleted or not, as access to them was something some of us had paid additional money for. After the first "nothing to discuss" response I was taken aback enough to ask a second time and got the pretty much the same response.
+
+So for the record, over the past two years or so - I've tried and failed to get a reply from QA, Adam Waite (the mission developer), both Adam Woods and Sandro in separate livestreams (who also weren't aware they were missing and said they would find out) as well as the community team.
+And I've not been asking in a "help us solve a mystery" context, I've been asking primarily as a Kickstarter backer: I paid extra for early access to content which disappeared just as I was about to try them out in 2015.
+
+I can't help but feel I've gotten a "talk to the hand" attitude from FD in place of any help, so by all means log some bug reports or ask for yourselves, but I'm well and truly done with it.
+I've badgered FD all I can about it - others will have to take on the challenge of getting some answers.
+
+Reactions:
+Cmdr Shijima, rOmiLaYu and Scytale

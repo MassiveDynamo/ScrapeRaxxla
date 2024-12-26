@@ -1,0 +1,46 @@
+Ian Doncaster
+Jan 26, 2024
+#33,183
+selbie said:
+The name system is secondary, I was just referring to the coordinates that have somehow been measured by players.
+The coordinates were reverse-engineered from the name system, essentially.
+
+If you check all the systems in a particular named region ("Blia Aick" or "Wregoe") then they all fall within a defined cube, and by checking enough of them you can narrow down the precise boundaries of the cubic grid this forms.
+
+selbie said:
+Assuming this is accurate the corner of the Sol boxel is:
+X = -65 offset
+Y = -25 offset
+Z = 215 offset
+(Z=-1065 offset would be slightly more consistent to define Wregoe by its lowest-numbered coordinate consistently)
+
+selbie said:
+So if Sol is exactly 49985, 40985, 24105 that means:
+(49985 - 65) / 1280 = 39
+(40985 - 25) / 1280 = 32
+(24105 + 215) / 1280 = 19
+
+This is where my brain starts to implode. Does this mean Sol's "true" coordinates are 39, 32, 19 (?)
+Not quite - because you've put the /1280 in, it means that Sol is in the H-class boxel 39 left, 32 up and 19 back from the bottom-left-front corner of the boxel grid.
+
+selbie said:
+Is the factor 1280 used to generate a large enough number for greater location precision?
+The other way round - the H-class boxels are 1280 LY a side, but the displayed coordinate system measures in LY.
+(And the actual coordinate precision of the underlying grid is 1/32 LY)
+
+selbie said:
+Perhaps the vector lattice of the coordinates won't allow for systems directly on the boundary or 0,0,0 of a boxel? so they "dislocated" the boxels to keep Sol (ie the point of origin) away from an edge?
+This doesn't appear to be the case - Stuemeae GG-Y c1768 has a Y-coordinate of exactly -25, for example.
+
+Even if it was the case, the obvious in-universe dislocation would be to put Sol at the centre of a boxel, rather than arbitrarily off-centre.
+
+selbie said:
+Edit: Also does this coordinate offset value relate to the theorized location of the signal? some other clue?
+No idea. The vector (65,25,1025) could be used in all sorts of ways, most of which of course are entirely irrelevant even if it does have some meaning.
+(Or it could be the offset of SagA* from Stuemeae's corner rather than Sol's offset from Wregoe's corner that's relevant here)
+
+The signal source being intentionally on a (smaller than H-class) boxel corner could be used to give it a definable location given the imprecision of the audio clues. I wasn't able to find any line between two other reasonably nearby systems which goes exactly through that corner, though, so I don't know what you'd do with that information.
+
+It's a curiosity and probably an entirely meaningless one; I've run out of testable ideas for what to do with it in case it had some connection, and I think I've exhausted the most plausible possibilities for "jump through the signal source", so I'll probably be heading elsewhere soon.
+Reactions:
+selbie and Quaero

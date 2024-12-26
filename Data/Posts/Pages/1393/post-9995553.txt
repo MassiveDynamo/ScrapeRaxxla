@@ -1,0 +1,23 @@
+Louis Calvert
+Nov 13, 2022
+#27,859
+I've done a bunch of research on this looking for Mimas, hope this helps your search for outer-rim stuff too maybe
+
+This video goes over the added Sol planets in 2.2 (Oct 2016). Essentially, Fdev added several cool new (real Kuiper belt) objects to Sol, and one fictional one (and the Voyagers), but still didn't add Mimas - and some of the added objects are weirder, smaller, and more irregular than Mimas should be - despite Mimas clearly being one of the more famous sights in the Sol system, they instead added irregular moonlets from the Kuiper belt?! We also know that Halley's comet's placeholder is present. We also know that there are a few weird types of stellar bodies listed in the database (Exotic, X, and Rogue) so it's possible there's more in Sol than we can see.
+
+I've looked into this a lot over the past few days, I scoured the forums and the internet looking for mention of Mimas - a few people over the years have said it's a shame it's not there because they wanted to visit it, but virtually nothing, and no word from Fdev. I DM'd the one person that said in 2016 that Fdev removed Mimas with 2.2, but they said it had been so long they don't recall why they said that, essentially - I think they just made a mistake.
+
+Honestly, I don't think many people really bother much with Sol, we all go and see Earth and stuff but I don't think many people really scour it or fully explore it - despite Fdev clearly spending time adding stuff (like the Voyagers and additional Kuiper objects) to get people to go there, isn't there even a billboard "visit Sol?"... there are more interesting and active systems, after all. It's an ideal "little bit obvious" hiding spot for something tbh.
+
+I also found a couple of videos of Sol tours from 2015 and 2016 (thanks Youtube!) and I con confirm that Mimas was not present pre-Horizons either.
+SPOILER: JAN 2015 VIDEO OF SOL TOUR
+
+
+
+Using these old videos I was able to confirm that Saturn probably never had the hexagon either, it wasn't in several videos that showed Saturn's pole in detail (obvs no way to know if it was North or South pole, but I assume if there was a hex it would have appeared on at lest one vid). I have now flown the approximate orbit of Mimas many times (hard to keep to the orbital path, approx 62ls from Saturn in a plane with the rings), I've examined the orbital path where it should be visually and in FSS, I've sat in-SC and out of SC near Saturn and just waited to see if anything happens, etc. etc.
+
+To me this all adds to the conclusion that Mimas is missing for a definite reason! Maybe it's not Raxxla related, but it's definitely not a mistake.
+
+My next step is to contact support, but I'm waiting until next week since I bet they get a lot of requests over the weekend and I don't want to burden them with an old mystery.
+Reactions:
+3navis and Rochester

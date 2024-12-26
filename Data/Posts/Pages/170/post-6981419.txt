@@ -1,0 +1,11 @@
+Ian Doncaster
+Sep 5, 2018
+#3,384
+Jorki Rasalas said:
+Oh I think there will be something there,
+possibly the permit to open up Bovomit Sector which is, I suspect,where FD have put the Guardian AI. I suspect Bovomit was originally going to be the Thargoid area of space but FD seem to have had a redesign sometime around Jaques misjump and they moved the goids in the Col70 direction.
+Bovomit is at ~(-20000,0,-7000) while Colonia is at ~(-9500,-1000,20000) - so it's further away from Colonia than it is from Sol. I don't see why Jaques moving would cause a rethink of what to use Bovomit for.
+
+The whole Orion-Col70-Cone permit cluster went in with 2.1, a month before Jaques jumped or the UAs were delivered, too.
+
+Bovomit's direction certainly would fit with a "between Pleiades and Polaris" FFE-compatible understanding of the direction of Thargoid space, though.

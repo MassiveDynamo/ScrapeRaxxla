@@ -1,0 +1,8 @@
+El Saico
+Nov 29, 2023
+#32,230
+SergMx said:
+I'm sorry, I didn't quite get that. By selecting the Test system, you could jump in there no matter how far away you were from it ? Or is it always 0 distance away?
+If they behaved like the broken Ross 54, the distance was shown but plotting would always fail.
+
+There is the oft-overlooked Set Target button (right side of GalMap, above the add/remove bookmark one), but then any attempt to jump only presents you with a crash to desktop.

@@ -1,0 +1,24 @@
+Emperor
+Apr 13, 2020
+#16,036
+Zimous said:
+Can you filter for a specific moon on a gas giant on EDDB or you done it manually?
+
+in the bodies search page you can filter by planet type
+
+
+but that will only show the selected planet type and not it's orbiting bodies/moons...
+
+
+
+However filtering on body group of "Planet" also gives moons....
+"Planet: In this context a planet can be a moon as well as a conventional planet.
+Subtypes are Ammonia world, Class I gas giant, Class II gas giant, Class III gas giant, Class IV gas giant, Class V gas giant, Earth-like world, Gas giant with ammonia-based life, Gas giant with water-based life, Helium-rich gas giant, High metal content world, Icy body, Metal-rich body, Rocky body, Rocky ice world, Water giant, Water world"
+
+This is what I did and then extracted the 2300 or so records and filtered on " h" names. I also visually checked for anything interesting (e.g. planets with sister moons, which would obviously reduce the H requirement to a previous lettering)
+
+
+
+Not perfect and EDDB obviously isn't 100% accurate.... but thought it might be interesting.
+Reactions:
+[PS4 Pro - PC] earthtone99, Machina Ergo Sum and Zimous

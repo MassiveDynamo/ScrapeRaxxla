@@ -1,0 +1,7 @@
+Darth Ender
+D
+Jan 20, 2021
+#20,437
+the cache i was speaking of was a list of names and coordinates (the seed) used by the stellar forge. We know those kinds of lists are cached / hardcoded in the client as people have data scraped the client memory for them.
+Reactions:
+Vektorboson and Yuki Estelle

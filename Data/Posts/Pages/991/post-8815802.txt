@@ -1,0 +1,9 @@
+CMDR Zulu
+Nov 26, 2020
+#19,811
+Yea it’s a long shot but I didn’t make this one up out of the blue, this was from the design discussion forums way back when FDEV put out the idea of how to find them. Now, has it been implemented? No clue. We keep hearing about Rogue Planets but aren’t seeing them on the Galmap or in Galnet or anything. I’m just saying maybe it’s because we keep expecting them to show up on FSS or by supercruising from one system to another.
+Michael Brookes said the FSS makes it too easy since it has unlimited range in system, so maybe the Nav Panel thing was their work around.
+
+It’s still something I’m interested in testing, not saying it’s the end all be all solution but if you think about it, it’s a simple way to hide these things off of the Galmap and only have them discoverable through the panel.
+Reactions:
+Fiera, Vetinari, Han_Zen and 4 others

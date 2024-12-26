@@ -1,0 +1,13 @@
+Inverted Walrus
+I
+Nov 27, 2024
+#35,435
+Bonsaipanda said:
+Someone mentioned that it would be a cool thing to have any kind of app to help the search.
+
+What I remember from way back when in a Frontier live stream is a dev lamented that someone visited the system, honked and left. This prompted for the creation of the new system scanning mechanism, which came out year or couple of years later. It was mentioned in the same livestream that they've hidden all kinds of little things all over the galaxy but nobody finds them, because the chances of a CMDR accidentally coming across the system AND deep scanning it AND travelling to the location are almost non-existent.
+
+So, to have an app for the search, it should have a database of all visited systems so far and whenever a CMDR, with the app activated, enters one of those systems and has scanned all the objects in it, the system would be removed from the database. The database could also house all the lore and rumours that exist so far. In my opinion, this should be in the game - a kind of an obtainable database you could get from one of the lore factions, for example.
+Click to expand...
+It's a good idea, but I can't imagine it'll happen. This forum basically is what you're describing, albeit in a mess of over 1700 pages of text...
+The closest thing that already exists (that I can think of) would be the various wikis, discord servers and communities like Cannon.

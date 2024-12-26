@@ -1,0 +1,10 @@
+Ian Doncaster
+Sep 22, 2024
+#34,913
+Rochester said:
+If it were for instance only 2 bodies, 1 being a ringed then this drastically reduces to probability of finding it as we can now use 3rd party maps.
+That would be simpler, but it wouldn't be that difficult to search for all systems containing a particular five-body configuration as well.
+
+I've got a full 3rd-party body list - and that should be entirely accurate when it comes to "planets within/adjacent to the bubble" - so if you can describe a search area and what configuration to look for I can probably get you a list of candidates fairly quickly.
+Reactions:
+Rochester

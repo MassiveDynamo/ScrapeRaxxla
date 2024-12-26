@@ -1,0 +1,11 @@
+seeplay
+Nov 11, 2024
+#35,287
+Jorki Rasalas said:
+No reason it should! FD aren't stupid, they would have taken steps to prevent file mining.
+It can be kept on FD servers and downloaded to the player's machine on entering the Omphalos Rift gateway to it.
+
+Nobody ever do that in game development. All what you see in game is stored on your local machine hard drive.
+Its would be encrypted or have different name but game model should be in game files. If its never been found i guess that there are no secret model in game after all.
+
+maybe it's some kind of reward as paint for cobra mk 3 or something. Cant believe that in 10 years nobody found it

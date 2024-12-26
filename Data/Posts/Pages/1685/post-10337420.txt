@@ -1,0 +1,15 @@
+El Saico
+Mar 22, 2024
+#33,685
+Jorki Rasalas said:
+From the Codex "some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see" - I still think that means the name of the system containing Raxxla/Omphalos Rift is a sub anagram of "Princess Astrophel and the Spiralling Stars" (since the only thing we have of that book is it's title!).... that would fit as a clue and I think would also match MB's and DB's sense of humour (IMO impish to the point of Machiavellian). However it doesn't help us because there are hundreds, if not thousands, of subanagrams which could match bubble system names. I did explore that hypothesis but gave up after I'd identified over a hundred system names.
+
+I think if we are going to get anywhere with this puzzle then we need to identify the likely region of space for Milton's "Heavenly Gate", we might then try matching possible system names within that region to see if they are possible sub anagrams to help reeuce the initial search space.
+
+I think it is that MB's Legacy might contain clue(s), but on reflection I think it's unlikely, since he did say explicitly "FD did look at a story involving Raxxla, but felt that was a story that should be played out in game rather than as a novel”, and he clearly spent a lot of time matching ED's cosmology to Milton's. Have you put your Milton theory data into a 3D viewing app?
+Click to expand...
+I've just started building a model of the bubble in Blender, to visualize patterns across mythologies/motifs/sectors myself.
+
+For performance reasons it's restricted to the named systems, so not even those from the HD / HIP / Gliese et al. catalogs are present. And there's still the issue of learning Blender in the first place.
+Reactions:
+Rochester and Jorki Rasalas

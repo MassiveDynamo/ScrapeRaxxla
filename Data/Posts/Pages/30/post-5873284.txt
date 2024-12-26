@@ -1,0 +1,31 @@
+Thatchinho
+Aug 30, 2017
+#595
+Han_Zen said:
+The problem with a 7ly jump range, is that you can't go anywhere. You will at least have to follow the center of the galactic arm, to get very far. We only had access to one ship in Elite though. Other ships may have had longer range?
+
+In FE2/FFE, some ships had well over 50ly range(Turner class has 94ly). It would be resonnable to cover 3-5kly a year. A ten year trip would not be a problem, as you spent most of the time in the Stardreamer.
+
+Scooping was tedious in all the previous games, as you didn't drop next to the star.
+
+The technical aspects of the different jump drives aren't realy significant to the Raxxla mystery, I think. No location can be excluded based on their limitations.
+
+True, 7ly jump range would limit where you can go, but that's where the galactic hyperdrive's come in!
+
+And, as you say the galactic arm could have been followed, and eventually the star fields would become thick enough to move directly corewards and spread out onto other arms. It would have certainly have meant there was a lot more meaning to the Formidine Rift and those type of inter-arm gaps!
+
+Good info on the FE2/FFE jump ranges. I thought it was in that kind of region but wasn't sure.
+
+I seem to remember that you dropped out reasonably close to the star in the first Elite, but am I remembering that wrong?
+
+Anyway, I've not been able to find anything definitive on type 0 jump ranges.
+
+What I've got so far from TDW:
+
+Lave to Leesti is 3.91ly and was done in an Ophidion, a much smaller ship than a Cobra, which could make 2 jumps. Nothing on the max range of those jumps.
+
+None of the systems named in point to point jumps done in the Cobra exist in EDDB so I can't check their distances.
+
+The only other reference I could find is 19 ly taking 2 refuelling stops and leaving enough left for a 2 ly jump. That could kind of work out as a 7ly jump range but that would imply that it would have taken a full tank of fuel for each 7 ly jump and not having a fuel tank big enough for more than one full jump wouldn't be very practical/sensible, especially given the smaller Ophidion apparently carried enough fuel for 2 jumps. 2 jumps per refuel wouldn't make sense either as that would put the jump range below the Lave-Leesti distance.
+
+So until there's anything better to go off, 7ly seems to me to be a reasonable distance to work from as a standard jump range for a small ship with a type 0 drive.

@@ -1,0 +1,16 @@
+Han_Zen
+May 11, 2024
+#34,044
+Doctor Dread said:
+"...to implement."
+
+Something Raxxla WAS in the original(s) code at the beginning. Not working as a feature (I made Elite rank in 1985 on C64, knew it inside out, no Raxxla whatsoever ingame) but it was written in .
+Ian Bell confirmed it was there (written in a code), and removed for the later editions.
+
+So I'd gladly hex the crap out of the original, if only someone can unpack it.
+A single line "Raxxla xyz" would make a breakthrough.
+This has been done for all the older games. Elite, FE2 and FFE have all been reverse engineeed or had the code released.
+No Raxxla in any of them.
+The name generator from Elite, can’t even make the word Raxxla.
+Reactions:
+Louis Calvert, Ian Doncaster, Jorki Rasalas and 2 others

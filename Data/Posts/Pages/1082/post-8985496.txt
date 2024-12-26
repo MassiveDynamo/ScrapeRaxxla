@@ -1,0 +1,15 @@
+Deleted member 38366
+D
+Mar 5, 2021
+#21,635
+Jorki Rasalas said:
+Thanks. And I guess in the same vein, just stick to playing the alpha and delete those journal files?
+
+Normally that's not needed, they're separated by naming convention as well so they're easy to spot even when manually uploading i.e. to EDSM.
+EDdiscovery AFAIK even treats them differently automatically and you can choose to import, ignore or even delete them as whole Groups if you wish to keep your personal EDdiscovery records limited to your live Game Client CMDR.
+
+But if you prefer, you can sort the Journals Folder by name to group Beta/Alpha Journals by name and easily delete them of course.
+
+Either way, mixing Alpha Gameplay and Live Build Gameplay should not present any issues, for as long as you ensure no API is used during Alpha play.
+Reactions:
+simulacrae and Jorki Rasalas

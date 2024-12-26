@@ -1,0 +1,19 @@
+simulacrae
+Jul 5, 2022
+#26,430
+So I thought the Odyssey Dash Code on the orange ships was maybe MIDI music.... I made a lazy attempt at converting it.
+
+
+
+Using MidiEditor
+
+
+
+
+
+
+MIDI File
+
+Its Art !
+Reactions:
+Fizzatron, Adel and Rochester

@@ -1,0 +1,26 @@
+CMDRCorrMorningstarFelian
+Mar 22, 2023
+#29,503
+My general take is I don't take lore seriously until I can prove in some fashion it exists. That said, the Nemesis Project story arc got me thinking this sound like Utopia's Sim-Archive. The problem, the Antal system is barely worth writing up an exploration report. There appears to not be anything obvious infrastructure-wise that would actually support it (though there have been several GalNets plus Pranav Antal's codex entry). That said, I have proof of external configuration of jumps (see fleet carrier jumps sequence at 40 seconds and varying engineer data). So current running idea is that Monolith Network is both Faraway and Nemesis/Sim-Archive. The antenna on station seems to help with transmission of data from ships requesting jumps. Realistically, even our fusion power plants cannot generate enough power to rip a hole in the fabric of space-time. Because as best I can gather, the Witch-space tunnel is a temporary wormhole between systems. Meanwhile, supercruise is something like an Alcubierre drive.
+
+If Faraway still exists or ever existed the infrastructure is as follows:
+Large stations especially the large antenna at rear
+Ringed antenna array at entry to stations (these are what you lock against when in supercruise)
+Large vertical antenna on outposts
+Surface sites especially those with gates, antenna, power sources, antenna arrays that look like radio telescopes
+Surface ports with radio telescopes like structures
+Surface ports with what look like solar panels
+Artificial power sources
+Asteroid bases ringed antenna array and rear antenna
+Artificial structures
+Orbital installations
+Anything stating: "WARNING : LIVE ROUTING"
+Our ships, megaships, fleet carriers, dredgers, SRVs are ad-hoc nodes
+Guardian surface locations
+Guardian Beacons
+"Thargoid" ships (again ad-hoc nodes)
+Network of gravitational singularities
+If you get near these antenna you actually hear them transmitting.
+Last edited: Mar 22, 2023
+Reactions:
+simulacrae

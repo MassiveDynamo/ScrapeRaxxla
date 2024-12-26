@@ -1,0 +1,12 @@
+Merlin StWahgwaan
+Jan 16, 2022
+#25,117
+Adel said:
+It was HIP 13044, 17k ly below the galactic plane.
+Lol thanks, I was going from Memory of the event, didn't feel like googling it, hahaha....
+
+But yea, see, fdev can manipulate the location of anything they want, when ever they want, I believe, as long as the asset isn't in use when they do it. So like, the CMDR had to be logged out for them to move their ship, but once they logged back in, their game would sync with fdev servers and grab the server stored location of the CMDR, just like the game does if you play on multiple computers like I do, my laptop always updates to my desktops last location and visa versa, the data isnt stored locally on my devices, its stored on fdev servers and streamed to my PC on login...
+
+Fdev can manipulate anything they store on their server in real time, at will, so long as the thing in question isn't in use, and if it is, that's when they do server maintenance and change things then when NO ONE is online.
+Reactions:
+Adel

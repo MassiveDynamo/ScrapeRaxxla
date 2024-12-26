@@ -1,0 +1,9 @@
+Non Grata
+Sep 19, 2019
+#12,396
+Jorki Rasalas said:
+So, you've got two copies of the EDLaunch.exe in your games/EDLaunch folder, with different email details, and they both work? Have you duplicated any other files?
+
+Yes, exactly. The original edlaunch.exe and a copy of it. The first has my login details for my main account, and the second one for my secondary account. The two launchers remember their respective login details, and it all works as before. No other files duplicated. Hopefully it keeps working for me!
+Reactions:
+[PS4] Filthymick420

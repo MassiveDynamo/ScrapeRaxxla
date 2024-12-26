@@ -1,0 +1,48 @@
+selbie
+Nov 15, 2024
+#35,311
+It does make me wonder how these Rogue systems (and similarly Exotics) can be accessed if they technically exist and can be jumped to.
+Lore-wise our ship FSDs lock on to objects with distinct enough mass. The lowest mass game objects categorised as stars available to us are VII white dwarfs.
+So the best chance of detecting one in the bubble would be within a group of low-mass stars, or where there are sparse enough gaps between stars.
+
+The obvious blocker for this is how we detect and target something that can't be selected on the GalMap. It's not like we can aim at a point and charge the FSD. Honking the surrounding systems would be a logical method to reveal something, but by now someone would have seen at least one of these show up on the map. Then again, does our GalMap only reflect data turned in? or would these rogues show up before we hand over the UC data?
+
+
+A small detail I noticed regarding the account of LHS 142 in Legacy.
+The only mention of it is when Julia provides info about Hammer's anaconda, and spoke about the incident presuming that Hammer was the pilot when the pirates attacked.
+
+She calls it one of the "local" dark systems. Let's assume she means proximity to Freeholm, and not at the larger human bubble or galactic scale.
+"Local" to Freeholm would place LHS 142 in a position relative to Federal - Imperial territories - as indicated by Piotr's investigations. Julia even contextualised Alliance space as a more distant location - regarding her Eagle being suitable enough to travel "all the way".
+
+Later in the book Hammer's own recollection clarifies that the pirate attack was actually on his father who piloted the Anaconda as a trader (Hammer worked as a farmer on an ELW at the time), and this "dark system" (note he didn't specify a system name) was specifically around the Federal-Alliance border where this pirate group operated.
+So not only is Julia and her friend's account of Hammer's anaconda inaccurate, the spatial position of the event doesn't match Hammer's more accurate account either.
+
+So if the positional relationship between Fed-Imp-Alliance space is accurate between both accounts, and we assume LHS did not sit neatly between all three superpower's borders, then LHS 142 might not be the 'real' dark system of the attack. This is backed up by the fact that Julia's account is wildly different from Hammer's.
+
+Understandably, Julia does reference LHS142 as a dark system, so assuming stellar forge has done it's job right and LHS didn't get changed, the V luminosity stars that exist there now are likely the threshold for what constitutes a "dark" system.
+
+Another point of reference for the territory positions is in chapter 5 saying the Laphrian system "lay in a small isolated cluster of independent systems between the Imperial and Federation borders."
+
+
+While I was checking out Legacy's early publication I noticed a few interesting details about the cover art.
+
+1. The back cover description has what appears to be redaction marks through the text. The soft shaded background even extends below the last line, as if to imply this was also text. Similarly there is an unusual line break in the text. I'm guessing these were all visual balance choices by the graphic designer, and artistically fitting the theme of coverup and censorship.
+
+
+2. The Lakon Type 7 piloted by Darius and Simeon is named Twin Vipers, described as symbolic of their former lives as bounty hunters piloting Vipers along the borders of Imperial space. The logo painted on the ship featured on the cover does indicate a symbolic relationship with the mythological Caduceus and Hermes/ Mercury. The heads of the snake on the ship even looks like Elite's Viper ship. Hermes was seen as a leader of souls along the road to the Underworld, who also later represented boundaries, travelers, sailors, commerce etc.
+
+So from that artistic standpoint it makes sense that the hunter/trader characters would use it for protection, but the meaning can also go deeper.
+The horned viper specifically features on Kudurru stones from the Babylonian era. The word Kudurru means Frontier / Boundary. Traditionally these boundary stones would call upon the gods to endorse the kudurru and to curse anyone who violates the intent or damages the stone. So in context of the story, it's quite a strong metaphor being used here with the ambushing of a Type 7 leading to the disruption of the Laphrian Navy and exposure of a huge conspiracy.
+
+As a side note, in Chapter 1 their name does get muddled with "Two Vipers" in the story, so I'm not sure if that was deliberate to describe the pilots versus the ship, or just an editing error.
+
+Vipers also form a huge thread of bounty hunter / assassins throughout the entire narrative.
+Darius and Simeon - Vipers
+Piotr and Sahiba - Vipers
+Lee and Seline - Vipers
+Rex - Viper
+
+
+Finally, in the last page of the book, Rex mentions "There were other members of the family for him to meet" I totally missed that line. That means the Cavus family is much bigger and there are potentially other Cavus NPCs out there. If Rex is part of TDW, then he may have been using this situation for a bigger plan with the organisation.
+Reactions:
+Cmdr Walt71, CMDR Beni Stingray, Rochester and 2 others

@@ -1,0 +1,8 @@
+alexzk
+A
+Aug 25, 2019
+#11,322
+To mark anything by 3 points in 3d u need 3 distances as well or 3 directions from each of 3 points. That how all listening post work They give direction & distance.
+Maybe 3rd sentence is "directions" for 1st and 2nd? >:
+Or 6 points which form 3 lines ...but still they may intersect or may not, if all 3 do that in 1 point - then we found.
+Last edited: Aug 25, 2019

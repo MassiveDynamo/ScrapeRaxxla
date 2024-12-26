@@ -1,0 +1,12 @@
+Six6VI
+Apr 4, 2019
+#7,233
+GURU-951 said:
+Utilized some Art to convey my thoughts better.
+Excellent vid CMDR!
+
+It's a shame we can't sort the tourist beacon entries in the Codex into numerical order instead of just discovery date. I have a whole bunch with the same (bulk import?) date and it looks like visiting the same beacon a second time adds a duplicate instead of updating, appending a new date or just ignoring it.
+
+I suppose a reported by CMDR "X" list is Beyond FDev's remit?
+Reactions:
+CMDRGURU951

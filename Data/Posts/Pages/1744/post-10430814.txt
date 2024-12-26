@@ -1,0 +1,24 @@
+Ian Doncaster
+Sep 18, 2024
+#34,871
+marx said:
+I have a theory on this. First, the skymap rendering most likely makes use of boxel coordinates, and it's also highly likely that the Landscape Sound's source is calculated through , or during, the skymap's generation. Next, bear in mind that the game's launch was under serious time pressure and crunch. With all these combined, why would FD add a separate method for calculating the sound source from the exact coordinates of a system, solely for the sake of one specific Easter egg, when they could just simply use existing methods and get a mostly accurate result anyway, from all over the galaxy?
+Certainly determining which stars to display in the first place is likely to be approximated at the boxel level first since heavier boxels will be visible at a greater distance and also because that's how the generation works in the first place.
+
+But the positions the stars eventually appear at on the skybox are precise rather than rounded to the nearest boxel corner - so I have to ask the question the other way round: given that Frontier has the necessity of having a function to calculate the direction of a star (or a nebula, or an extra-galactic backdrop object, and therefore any arbitrary set of coordinates) to make the skybox look right, and given that they've gone to the trouble of making a really high-quality positional sound engine (and the soundscape is one of the most regularly praised bits of the game!) ... why would they suddenly go to the extra work of making their "position invisible sounds" routine not capable of handling arbitrary coordinates and directions?
+
+"Determine accurately the direction of an entity in 3-D space" is such a basic price of entry for making a 3-D computer game that if that was what they were having difficulty with or didn't have solid helper functions for, the game would have been released as a text adventure.
+
+...and even if somehow they suffered a hundred-person fit of collective insanity and decided that introducing superfluous low-precision rounding steps into their sound engine for specific source types was in any way sensible or necessary ... why wouldn't they at least have pinned the sound to the significantly closer A-boxel corner if it was supposed to be Sag A* specifically? (Or, alternatively, why wouldn't it be pinned to the significantly more distant boxel corner appropriate to Sag A*'s substantial mass?)
+
+(I'm quite willing to believe that the landscape signal has nothing to do with Raxxla and is merely intended to be "the sound of the galactic core"; it has to come from somewhere and they specifically didn't want it to apparently come from a system. That's a sufficiently straightforward explanation for why it exists and is there if it does turn out to be nothing of importance.)
+
+Neestar said:
+whoa awesome ! Like an epic Community goal/war type situation? Are there any old forum threads ( stickied ) about this historcal time in EliteD ?
+Less official than that - it was just a big multi-month conflict between two well-backed player groups over whose preferred faction got to control the system, using the standard BGS rules.
+
+I haven't re-read through the whole things but threads like https://forums.frontier.co.uk/threads/racketeering-lavian-brandy-by-manipulating-the-bgs.448362/ or https://forums.frontier.co.uk/threads/operation-hope-for-lave.441661/ gives a flavour of some of the accusations and counter-accusations flying around about why Lave ended up repeatedly in the Lockdown state as a result of this conflict, which temporarily closed the commodity market at Lave Station each time and made the easy way to get Lavian Brandy unavailable. https://forums.frontier.co.uk/threads/lavian-brandy.445410/ is just a representative complaint from an unrelated CMDR affected by that.
+
+If you do a forum search for "brandy lockdown" or "Lave lockdown" or "vatermann lockdown" and look for threads from 2018 you'll find several more of various levels of politeness on both topics...
+Reactions:
+Neestar and Louis Calvert

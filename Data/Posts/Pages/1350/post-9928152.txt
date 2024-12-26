@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 31, 2022
+#26,989
+Broken_One said:
+It is where the thargoid mothership willl be shortly
+
+-- but I mean the point in Tau Ceti that is orbited by a station (pepole say its a comit) has a hyperbolic orbit. If you look at the station it gives orbital information for orbiting a point in space but the station will move up past the other planets right next to the star then way out again. -- I was trying to calculate lagrange points once I just moved on idk.
+Ive just checked. There are three comets in Tau Ceti, but no stations orbit one. Ive read somewhere that Avogadro Enterprise does, but as far as I can see that's incorrect - the galmap & orbital marker clearly show it orbiting planet 4. Tau Ceti 4, 5 & 6 due have highly inclined orbits compared to the ecliptic & are elliptical. Seem to remember circular orbit has ellipticity=0, eliptical orbits are between ) & 1, hyperbolic orbit has ellipticity =1; the latter would be a rogue & only a brief visitor to the system
+Perhaps you're thinking of Pareco, where 6 stations orbit a comet, there is second comet in Pareco but a fair way out.
+Reactions:
+Han_Zen and Rochester

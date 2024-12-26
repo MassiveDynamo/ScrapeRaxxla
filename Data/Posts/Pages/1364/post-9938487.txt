@@ -1,0 +1,16 @@
+Jorki Rasalas
+Sep 11, 2022
+#27,273
+Robert Rockbite said:
+Found nothing unusual in Beta Hydrae (except for the rare combination of body types, of course).
+
+The body-id theory seems to be incomplete.
+It is not unusual that the body id does not work to select anything.
+It happens when the large number behind the last letter exceeds 2-billion-and-something.
+And this can happen when the last letter before the variable number is at least an f (high multiplier) and there are many bodies to select.
+
+The FSD boost from Beta Hydrae C worked normal for me - and for me it's normal that the galmap router does not consider an already applied FSD boost - but I am using Horizons, maybe Odysee is different in this regard.
+Click to expand...
+I’m using Horizons too.
+
+But tis definitely odd that EDD is not recognising stars B& C. Having been there before it should show all bodies in the system. I suspect this is a hand crafted system, but I cant see any reason for it to be!

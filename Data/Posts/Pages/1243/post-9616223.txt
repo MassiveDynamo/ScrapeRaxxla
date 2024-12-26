@@ -1,0 +1,25 @@
+Jorki Rasalas
+Nov 20, 2021
+#24,845
+Adel said:
+Well, that's a really poor work (totally joking, i couldn't have been such a search ).
+
+- What are PF missions (and what PF means)?
+
+- For the belts of Deciat that appear to be missing, they could be INSIDE Deciat's main star (like the asteroid belt of Sol being inside the star). It means either its coordinates didnt get applied (when you spawn an object, it can be either at {0;0;0} or {-1;-1;-1} depending of how you code that) or it has not been implemented for the moment and they are "sleeping" in the star waiting for fdevs to manipulate them.
+
+- For the unauthorized station at Isinor, you cannot interract with it. The only thing you can do is flying inside its tunnel with a small ship like a fool .
+
+- Did anyone tried to be allied with the factions of the old worlds?
+
+- Did anyone tried to give items in Farseer's market? All engineers are always needing stuffs.
+Click to expand...
+PF = Pilot’s Federation.
+Ive tried flying through the tunnels in the installations Ive come across. Nothing happened, but why are they there? Seems a likely possibility for the Omphalos!
+Yes, that asteroidbelt discrepancy is odd and would warrant investigation! Try doing the xame as you can do in Sol- select the asteroid belts in the system map then go back into cockpit and see if the star or anything else is selected.
+Since she mentions it in her upgrade chat I went out exploring the area of the Great Rift and sold the data at Felicity’s base UC outlet. Didnt trigger anything, however I had been out to HIP 84605 on an earlier trip, so couldntget any scan data there, perhaps you need to get that specific system data for her. Ive also got level 5 on at least her fsd upgrade. Perhaps need to get maximum level with all her blueprints?
+Cant remember trying to ise her market & dont know about the old worlds faction building.
+
+P.S. it’s bloody difficult trying to type left handed on my ipad while right hand wrapped in a heat pad!!!
+Reactions:
+Adel

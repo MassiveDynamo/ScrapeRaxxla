@@ -1,0 +1,32 @@
+Vetinari
+V
+Jan 21, 2020
+#14,752
+SPOILER: JUST FOR CONTEXT - ABOUT NEW FSS
+
+
+
+
+
+Updated Info
+
+The FSS seems to ignore Space Stations (perhaps ignores anything that 'appears' on the local System Map)
+it counts Geo/Bio separate.
+Human includes Installations (POI), surface sites (settlements and installations)
+Presumably still counts Beacons and Listening Posts etc but havent been to any yet.
+Does not count Conflict Zones (so far consistently ignores them)
+Other - still includes Engineer Bases, haven't tested Crashed Ship since latest patch, for a time were showing up under Other as well.
+
+System Map now shows without mapping - number of Geo/Bio/Tharg/human etc sites - think its separate to FSS resolving atm but may be linked later, it can show on Map and still be unresolved in FSS currently.
+
+So all 'found' FSS signals are non-visible on system map at first glance without zooming onto a planetary base. All apparently at first glance visible map objects are ignored. Theory - its deliberate - 'At first glance' - a player should be able to see whats in a system at first glance, either visibly in system map or through signal detection in FSS. At the moment nothing has been hidden from the FSS. Must be permanent signals to be found, hence ignores Conflict Zones. This makes is easier for a player to 'play' the game and use the tools rather than getting bogged down with them. Stations are visible, Installations are invisible on System Map, vice versa in FSS.
+
+Theory - Geo/Bio are produced by the Stellar Forge. Apparently all the bases, stations, Thargoids, Guardians, Beacons, Listening Posts etc are all hand placed or have a hidden hand in placement at least beyond random Stellar Forge (not sure how Barnacles are created though, will have to visit Tharg space to get more info). The FSS has now separated hand-placed and Stellar Forge created objects, for speed. In my game this works, it has speeded up my FSS massively.
+
+Raxxla would be hand placed. Place your own weight on the above observations and what that would mean for whether it would show up in FSS or System Map. The DW Station I think is locked behind an update for the future, hence the 'pointless looking for it without invite' message or whatever in the Codex, but it may not be.
+
+Corret/update me if Im wrong on any observation or yours differs, Im on XB and its been consistent so far but due an update this week so not sure what is meant to be happening, personally I like this new FSS system. (slightly worried it will start counting Conflict Zones again and that's a nightmare)
+
+And to the Eckee post above, I know but its a laugh innit
+Reactions:
+RaNaketh and Machina Ergo Sum

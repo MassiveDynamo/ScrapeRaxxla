@@ -1,0 +1,31 @@
+Falcon91
+Jan 14, 2022
+#25,100
+Merlin StWahgwaan said:
+"It ain't some special kind of code
+Z3non_RAXXLA_Bj5 actually don't mean anything
+You can put I_HATE_MAYONNAISE there and it will still work the same
+WE-A
+W letter is probably for the cords of center in regions. typing different number after H17- will take you to other centers of regions
+You can also change W to other letters and it will deliver to other coords
+But yeah, nothing special"
+
+
+so, to reitterate one last time, any text upto and including "Bj5" doesnt matter and can be random and it will still point you to the same area. the fact you can use text that includes 'RAXXLA' is no different then the fact that you could use swear/curse words in that spot and it still works, its just a bug in the way search text is parsed in the galmap.
+Click to expand...
+
+So on this part here.
+
+I'm thinking that the end of the string is not correct either.
+
+Let's take this one just for s and giggles
+Z3non_RAXXLA_Bj5 WE-A H17-35 This is one of the ones with coordinates (I'm currently out at one of the coords and gonna do a 50ly scan around them to see if there's anything interesting).
+
+The last part of that string WE-A H17-3. So if we go by how systems are named according to this old thread the system we are looking for simply won't exist, since an H-mass according to that post are Nebula and according to this reddit post are SMB, Protostar or mega huge giant galactic star. There's none of those around one of the locations with the coords.
+
+E: Stoned me just read over some more stuff on the reddit post and realized that what I said above is basically irrelevant
+
+But this one: Z3non_RAXXLA_Bj5 WE-A H17-19 and this one Z3non_RAXXLA_Bj5 WE-A H17-35 lead to no stars. The latter leads to an area primarily of Brown Dwarfs but nothing special at the exact spot it leads to you. The former I haven't checked yet, but will in a few days probably.
+Last edited: Jan 14, 2022
+Reactions:
+Merlin StWahgwaan

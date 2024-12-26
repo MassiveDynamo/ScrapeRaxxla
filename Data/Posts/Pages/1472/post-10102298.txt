@@ -1,0 +1,15 @@
+CMDRCorrMorningstarFelian
+Mar 19, 2023
+#29,427
+Some other interesting details courtesy of TDW novella...
+
+Xezaor has the Coriolis station South City which means its' modern equivalent is the system with the South City outpost (as canonically per Brewer Corporation and first game Coriolis were periodically converted to outposts). This means the modern Xezaor is Hurukuntak.
+
+So more distance values (EDSM Route Planner):
+Lave -> Hurukuntak: 89.30 LY
+Sol -> Hurukuntak: 131.46 LY
+Lave -> Arcturus: 99.18 LY
+Lave -> Exphiay: 294.39 LY
+Lave -> Achenar: 174.57 LY
+
+Still working to pin down where Cirag is located as that is one of 3 major stargates per Tour of the Universe by Robert Holdstock and Malcolm Edwards. The book even has a map of the Galactic Cooperative with rough locations.

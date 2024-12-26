@@ -1,0 +1,11 @@
+Darrack
+Jun 14, 2023
+#30,672
+CMDRCorrMorningstarFelian said:
+Discovery of rings requires DSS scanner. In addition, if you are running a ship without DSS scanner previous DSS scans of that system are invisible. In essence, the DSS stores memory for any scanned bodies. As you approach a DSS scanned body, your ship will report on any updates. If you run EDDiscovery, I strongly suggest the voicepack add-on for extra details as you explore a system as it can convert your journals to spoken updates.
+Apology's we must be at cross purposes, i was just trying to put across that if you use the FSS to map a system when you first (shall we say) reveal a planet or gas giant it shows if it has rings in the zoomed in picture of the body.
+Yes the DSS is required to scan rings i was just trying to respond to Jorki's question.
+
+O7
+Reactions:
+SergMx and CMDRCorrMorningstarFelian

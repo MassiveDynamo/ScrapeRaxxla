@@ -1,0 +1,10 @@
+yelboc
+Nov 30, 2021
+#24,911
+1 ly = 365.2*24*60*60 lsecs (i.e. number of seconds in a year)
+
+1ly is then 31.5kls. so 0.1ly =3155ls, so close enough. Your 17261ls is ~0.55ly
+
+But if you are using Stellarium or other orbital software to find it then you may be disappointed as ED doesnt model the orbits in the same way as they do. Stellarium, for instance uses a multi-body model that corrects for all the interaction between bodies. ED looks like its just simple ellipses, so the comet wont be where the tools say it is. Even tools like Stellarium have doubful accuracy projecting forwards to 3307.
+Reactions:
+Adel and CMDR Davanix

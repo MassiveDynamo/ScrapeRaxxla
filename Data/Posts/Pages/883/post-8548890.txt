@@ -1,0 +1,7 @@
+alexzk
+A
+Jun 22, 2020
+#17,655
+Guess "1st mapper" is just hash of mapped system names. So once they rename something, this new name is missing on hash and you get message. However, name on map is bound to some system id which is unique old same, so map shows original cmdr.
+Reactions:
+PeteACarter and [PS4] Filthymick420

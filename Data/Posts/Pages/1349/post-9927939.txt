@@ -1,0 +1,46 @@
+Jorki Rasalas
+Aug 31, 2022
+#26,974
+cmdr milesred said:
+yet I have seen each of those messages many times, without a trinket in my hold.
+this is the hard part, seeing the difference
+currently when I am carrying a trinket I am flying together with an identical ship with no trinket, so I can easier detect differences between the sounds of each ship
+
+If fdev would hurry up and fix the cargo problems on carriers, this would be easier to do.
+Having to switch back and forth between Horizons and Odyssey just to put something back on the carrier is a real pain, but more importantly it is a huge time waster.
+the math is fun, 32,000 items on a 25,000 item carrier.
+
+And as previously mentioned, I get interdicted intentionally(I do this to get Anarchy Bounties) and so far the trinket has made zero diff in how that works.
+plus I still get all the random interdictions too. so zero change here.
+
+It beeps and clicks a lot, no idea as to why yet, it does not seem to like a hot ship, but then I don't know yet why it makes the sounds it makes.
+Last night in Hip 22460 all it did was up the audio for me for the ambient local music...nothing seemed to make it react out of its normal..
+
+Not sure what people are going on about yet there..only saw 1 goid, shot at me, missed. so I flew by him again.
+entered and exited 3 times in 3 accounts, only 1 got shot at and hyperdicted.
+looks really burnt in Horizons
+looks pretty neat in Odyssey
+neat effects on ships, with or without FSD booster. odd, melted one, repaired as normal later.
+I'd be surprised if that aura in the system has NOT managed to get the attention of whatever remains of the Guardians world.
+That place is a Guardian Beacon on overdrive with Thargoid flavouring added.
+
+Nice work fdev. tx
+
+P.S. just wanted to add, I am playing with the trinket because the phrase about eyes that see..I am inclined to think that refers to a gadget acting as eyes. I have hopes that the trinket or another item might have a reaction that is very noticeable.
+Visiting all the places that seem relevant from this thread.
+sap8
+soontil
+AI relic
+Trinkets
+still so much to do.
+Click to expand...
+
+Mmm, “Simultaneous” testing with & without Trinkets- top marks for scientific method!!
+
+But “If fdev would hurry up and fix the cargo problems on carriers” seems to be a contradiction in terms! FD are not quick at fixing bugs; there have been bugs reported for years that didnt get fixed. I think their maintenance agenda is based on ease of fix, not level of player exasperation. Though I suspect they also prioritise with respect to their storylines, which would be logical, so maybe this is an indication they dont consider it important. They also tend not to tidy up the game, so we still have leftovers from previous CGs/events/treasure hunts in-game, like the Cetus Bane ship. It is quite possible that Trinkets and SAP8 are similar leftovers & were only required for the TDW-related E/F missions from Shinrarta that were deleted years ago.
+
+Mmm “ambient music” - You do have all in audio options all music disabled dont you? Ive not heard any sounds from my Trinkets either with or without the music enabled, in Horizons and Odyssey, but the recommended settings for audio capture (derived from UA/TS observations back in 2016) are:
+
+In Elite, Audio options: Select "Night Time" mode and disable music. Fly as silent as you possibly can. F/A Off will turn off the engines. Intermittently turn F/A on if you need to adjust your course. Better still switch to your external camera and move as close to the source of the noise as you can leaving your ship at a distance.
+Reactions:
+Rochester

@@ -1,0 +1,6 @@
+Han_Zen
+Aug 27, 2019
+#11,454
+yelboc said:
+Not being able to land on the moon may be a technical limitation, btw: In order to render the moon's surface recognisably, it would then not be possible to generate the surface procedurally to allow landings.
+It is. FD commented on this, way back. If you look in the system map, you can see that the Moon doesn't have the 'Landable' crescent. Both Triton and Lave 2 has the crescent in red. This is probably so we can't zoom the map and see craters and other features.

@@ -1,0 +1,16 @@
+Yuki Estelle
+Jan 20, 2021
+#20,436
+Darth Ender said:
+Just to be clear. Your client doesn't call fdev servers and figure out what goes in a system in terms of stellar objects. The Stellar forge exists in your client ...in all of our clients and doesn't get any data from Fdev servers in terms of how to setup the stars, planets, the positions and shape of every single asteroid in every belt and ring in a system, how the surface of each planet looks and their stats. The stellar forge procedurally creates all that on your client and it does so the same way for everyone's client. Positions of other persistent assets that can be moved that are searchable at the galaxy map level would also be things that are updated likely at login given some locally cached - but i'm not 100% on that but it is not something that would be queried during jumping to a system since you can search their positions on the galaxy map so the client has to know about it post-login.
+
+What it does do is call up the instancing server to see if you can instance with anyone else already at the destination instance. I also imagine it has to query for any persistent uss/ship assets that the client should spawn that aren't things that the client has to know about external to the instance. It also sends updates to fdev with your new position and other player info and register you with the instancing server at your new location etc.
+
+Most of the time during a jump is actually spent creating the destination system and probably waiting for fdev acknowledgements on you current save state etc.
+
+They added the central star in a jump sequence to reflect the destination star of where you were jumping to at some point (it didn't start out that way). I'm not sure any of the surrounding stars other than that central star has anything to do with the stellar forge and representing how the actual system is made-up or any surrounding .
+Click to expand...
+
+Technically there isn't a "map" or even a cache in the way we'd typically understand it. The galaxy has been procedurally generated using a seed, which means that while everything is random, it's always the same randomness. The Stellar Forge is a system that allows all of these random characteristics to be created using math and basic integers, which always result in the same sequences regardless of whether they've been generated in the past or not. Here's a video from David on the subject.
+Reactions:
+Vektorboson

@@ -1,0 +1,17 @@
+RaNaketh
+May 23, 2019
+#8,186
+Macros Black said:
+Well, not sure it was a large Military installation, definitely a 3+ though. After experiencing a CTD having just killed 4 Goliath's with my srv, I decided to brute force my way to the data terminal in the srv using only speed, and finally succeeded in doing the scan. The DBX way sounds more expedient.
+
+Quick Update - TDW tip off for HIP 1742:
+I've managed to scan the core data terminal in a ship (as recommended), so I can verify my scanner and the installation is working as intended.
+
+I also worked out my first problem where the scan wouldn't work for me. It was caused by my friend drawing the base aggro initially, so whilst he was being attacked, and I snuck in to scan the data terminal, it was only he who received the countdown timer from the terminals, not me?! So it's a solo venture to complete this tip-off, no help possible.
+
+The catch is however for this tip-off, is scanning the Core Data Terminal just triggers the counter for me to scan the rest. Unfortunately a small ship capable of getting in quickly and back out for the core, gets wiped if you try to get to the others, so it looks like I'll be SRVing my way in.
+
+Has anyone actually scanned all the terminals and survived for this installation, or did you just get the core and run? Any tips from survivors?
+
+This is great fun btw, I'm loving the challenge! Fly Dangerously.
+/ Ra

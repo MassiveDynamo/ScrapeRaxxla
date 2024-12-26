@@ -1,0 +1,12 @@
+Armstrong
+Jan 21, 2019
+#5,287
+Went to the system from Guru's last post, LP 102-320, for poops and laughs while waiting for my combat ship to be towed to Demeter.
+Found this tourist beacon: https://i.imgur.com/CB1vvO4.jpg
+LP 102-320 Visitor Beacon:
+
+"Tourist Spot 0409"
+"Ice worlds aren't always the most exciting places to visit, but this one does have some interesting features for those visitors desiring chillier climes."
+(Note that it isn't "Nice worlds" but rather a broken \n (newline) character preceding "ice worlds".)
+
+Not sure if it means anything, or really if anything means anything anymore, but I thought I'd share. ¯\_(ツ)_/¯

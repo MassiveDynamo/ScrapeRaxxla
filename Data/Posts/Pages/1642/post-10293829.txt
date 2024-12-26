@@ -1,0 +1,27 @@
+El Saico
+Jan 3, 2024
+#32,833
+selbie said:
+There was some discussion earlier around the link between female astronomers and the codex entry. Henrietta Leavitt is associated with the Cepheid constellation for her discovery of Cepheid variable brightness stars.
+
+Speaking of variables, has the Zeta Puppis system been explored in depth?
+I was looking for where RS Puppis (brightest variable in the galaxy) is located in ED but only Zeta Puppis (Naos) comes up.
+
+However, this system has a similar extremely large, bright main star, and FOUR T Tauri stars orbiting.
+Two of these stars have a planet orbiting VERY close to them:
+Zeta Puppis 3 = 40ls,
+Zeta Puppis 5 =
+
+Can someone do me a big favour and please scan around these bodies for me? for science?
+
+This aligns further with the idea of Henrietta Leavitt (Princess Astrophel / Female Astronomer and the spiralling (brightness) stars) - T Tauri are a class of variables as well.
+Zeta Puppis is a system where all five stars are variables!
+Click to expand...
+SIMBAD is, as always, our friend: https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=RS+Puppis
+
+As it turns out, RS Puppis is listed ingame by another identifier, HD 68860.
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+Reactions:
+Han_Zen, Emperor, CMDRCorrMorningstarFelian and 1 other person

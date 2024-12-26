@@ -1,0 +1,6 @@
+CMDRCorrMorningstarFelian
+May 16, 2023
+#30,453
+Han_Zen said:
+The RL stars in FE2 and FFE are also not in the correct position. There was a sign error in the import from the star catalogues. This makes it very difficult to compare stellar data from those games.
+I wonder if that is why they choose the Shibboleth game mechanic whereby things are hidden by name changes. Also, I am beginning to wonder if StellarForge can account for gravitational theft of bodies especially if systems are in close proximity to one or more systems.

@@ -1,0 +1,36 @@
+Adel
+A
+Feb 3, 2022
+#25,225
+So i tried this but i can't overflow the buffer:
+
+C:
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>                                       // I need this to use the pow() function (power)
+#include <string.h>                                      // i need this to convert number into string
+#include <inttypes.h>                                   // uint64_t is defined here
+
+int main()
+{
+    char buffer[8];                                             // 8 Bytes = 8*8bits = 64 bits
+
+    uint64_t ID_Base = 10477373803;                             // Sol system adresse
+    uint64_t ID_Overflow;
+
+    ID_Overflow = ID_Base*pow(2,20);                            // Sol_adress*(2^20)
+
+    sprintf(buffer, "%I64u", ID_Overflow);                      // Translate Number into string
+    printf("ID_Base=%I64u\t, ID_Overflow=%I64u \t, buffer=%s\t\n", ID_Base, ID_Overflow, buffer);   // display results
+
+    return 0;
+}
+
+Output result:
+Code:
+ID_Base=10477371448     , ID_Overflow=3617855278842786103       , buffer=10986322712854528
+
+Process returned 0 (0x0)   execution time : 0.005 s
+Press any key to continue.
+
+What am i missing ?

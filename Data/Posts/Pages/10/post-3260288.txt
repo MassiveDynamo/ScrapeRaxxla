@@ -1,0 +1,27 @@
+Julio Montega
+Dec 15, 2015
+#183
+Futuristic Kung Fu said:
+Spoken like a true once-pirate who featured in three Isinona videos!
+AJGFGJ AJGJEK AJEKBL
+BLEKBM BMEKFL BMFLCO
+COFLHL COHLDR DRHLMP
+DRMPRU EKGJHL EKHJFL
+GFKFNI GFNIGJ GJNIHL
+HLNIMP KFOGNI MPNIRU
+NIOGTI NITIRU RUTIXQ
+RUXQVV
+
+What exactly is that code?
+The stuff from the morse?
+
+
+Tried cezar code?
+
+http://www.dcode.fr/caesar-cipher
+
+Nope isn't the hook here
+
+Top left row: A,B,C,D,G,H,N,R
+Missing in progression: E,F,I,J,K,L,M,O,P,Q
+Last edited: Dec 15, 2015

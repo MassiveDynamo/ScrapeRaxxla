@@ -1,0 +1,9 @@
+Ian Doncaster
+Dec 17, 2024
+#35,616
+Rochester said:
+Good point however, contextually the current chained missions came about much later
+Yes - I wasn't thinking in terms of the formal "chained missions" - instead, the effect on your location of:
+- take a tip-off mission (get sent to the furthest unvisited site)
+- stay in that destination system until you get another tip-off mission (get sent to the other side of the bubble)
+- over there, do it again (...)

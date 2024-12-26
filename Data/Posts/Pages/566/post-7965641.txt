@@ -1,0 +1,7 @@
+alexzk
+A
+Aug 25, 2019
+#11,311
+simulacrae said:
+Ya I just followed the guy on the youtube video I like the equidistant point idea !
+Yeh, my code couple posts before found point N where |NA| = |NB| = |NC| (|NA| is distance from N to A).

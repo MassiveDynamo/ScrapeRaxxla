@@ -1,0 +1,10 @@
+Babellon
+Jan 3, 2020
+#14,466
+Ararera said:
+I am in the process of bookmarking a lot of stars for an upcoming expedition. Has it ever happened to you where you type in the name of a star and the galaxy map takes you to a blank region, almost as if something should be there but isn't?
+
+To that end, what do you get as a result when you search for HD 144218 on the map?
+yea there are a lot of stars that result in an empty location. like trying to look at the highest star on the map according to EDSM when you search it in galmap you cannot see or target that star at all. I've tried it out with a few stars from the edsm list and the results are the same. Those long jump stars like that highest, lowest. I assume its because there is no route to it within range of your ship so the galaxy map simply will not display it at all. probably actually a lot of stars that are simply invisible to everyone.
+Reactions:
+[PS4] Filthymick420

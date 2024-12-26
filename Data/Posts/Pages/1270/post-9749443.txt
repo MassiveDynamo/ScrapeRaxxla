@@ -1,0 +1,17 @@
+Merlin StWahgwaan
+Feb 21, 2022
+#25,399
+Adel said:
+They don't appear on left panel as "Comet x" but as an unknown signal source threat 0 with no icon (exploration, piracy, ...).
+We see the name with logs.
+
+And to clarify: the signals are present in game but when you drop in these signals, there is no implementation of any comet!
+But i agree with you, they should have been implemented after such a long time...
+No they don't, but they do appear, with names, on your main display for your current location when you drop out, atleast, if they are named I guess,
+As per CMDR Pyroboros pic
+
+Anyways, yea, its all about levels of implementation, there question of existence isn't one to be asked, anymore, lol
+
+Last edited: Feb 21, 2022
+Reactions:
+Adel

@@ -1,0 +1,31 @@
+Jorki Rasalas
+Apr 15, 2022
+#25,986
+SongOfTheVoid said:
+Your second statement relies upon logic that defies you first statement, your first statement relies upon flawed usage of the English language as you cannot find something twice that has not moved since your last finding of it, thus if it is in a single place as your first statement claims then once it has been found it cannot be found again...
+
+It is not in a single location, Arf is welcome to arrange to have Braben confirm and check what is actually known, as ofc neither Arf nor the other Fdev staff outside of very senior roles would even know themselves what it is.
+
+Thank you for your kind correction of my English. However I would point out that I am English by birth and approaching 70 years of age, so have a small modicum of experience in the language.
+
+English is a contextual language. Meaning sometimes changes depending on the context, and poetical usage of English can stretch the context.
+
+In this case It depends on what definition of the word “find” you apply.
+
+If you define it as “discover”, then the implication is that you can only “find” once an object that has not moved and you would be correct.
+So, for example if there is an object in a cupboard when you open the door for the first time ever then you have found that object. If you close the door, then reopen it and the object is still there then according to that definition perhaps you do not “find” it, perhaps “rediscover” would be a more appropriate term. But what happens if the object exhibits quantum behaviour so fades in and out of existence during the time the cupboard door is closed? So it might not be there if you open the door again, in which case do you “find” that object when you reopen the cupboard door? By this definition quite possibly. Or consider it as a Christmas light bulb that switches on and off randomly, you might open the door one time and “find” it lit, but on further reopening you may “find” it unlit, and later you may “find” it lit.
+
+However there is a second definition of “find” as “identify (something) as being present.” So according to this definition every time you open the door and see that the object is within then you “find” it.
+
+Where they exist (they were not in every system map, as previously explained, & I am currently assuming they are still in-game and have not been corrected by the several game updates that have occured since we investigated them) the graphical artefacts in the system map fade in and out of visibility over several minutes, so I think either definition of “find” would legitimately apply.
+
+In this case we also need to consider the meaning of the word “place”. One definition is “a particular position, point, or area in space; a location”. This would commonly mean in-game a position within a star system, one of approximately 400 billion in the game. However a synonym search for “place” brings up “location, site, spot, scene, setting, position, point, situation, area, region, whereabouts, locale. venue. technical locus”. So does an in-game system map fall under any of these meanings for “place”. I would say yes, since a system map is a setting, it depicts a situation or region. The astronomical objects depicted within that system map each have a position, though the relationships between them in this depiction are representational rather than actual.
+
+You may argue that Raxxla is not in a single location; that is a valid hypothesis which has often been expounded in this thread. However as far as I can see there is no evidence to support it hence it is merely a belief and I have no desire to question anybody’s belief system.
+
+I hope this explanation of how the English language works has been helpful to you. And I wish you luck in your attempt to get anyone in FD to say anything about Raxxla!
+
+Edit: and since every body in a star system is orbiting, then they are all in motion, so if you revisit any such body in-game then you are finding it again!
+Last edited: Apr 18, 2022
+Reactions:
+simulacrae, Macros Black, rOmiLaYu and 1 other person

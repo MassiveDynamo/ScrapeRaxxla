@@ -1,0 +1,50 @@
+CMDRCorrMorningstarFelian
+Jun 18, 2024
+#34,241
+Interesting find in Reclamation that directly refers to Faraway. Seems the difference between Faraway and modern drives is less clear cut (not that this wasn't suspected).
+
+
+
+Additionally, just confirmed last night that a system jump can be done without route plotting at all. Which implies that Faraway Orientation Systems Controller or FOSC was a wholly fabricated fiction insofar as it being necessary. Sure, route plotting makes getting around easier but necessity it is not.
+
+Which brings us to permits, FOSC was apparently the first generation of permit access enforcement. Any enforcement of jumps will require system lookup before the jump. Should note that turning off sensors isn't quite good enough as discovery scanner cannot be shutdown (at least through normal methods). That said, I am not sold that all permits are actually controlled by Pilot's Federation. Should be noted that Dark Wheel's love of Cobra Mk III should be seen as a giant red warning sign given Faulcon Manspace was thoroughly compromised by Sirius Corporation and Worldcraft even before it became Faulcon Delacy. Let's not forget that Jason Ryder was taken down by a Cobra Mk III. It is therefore unlikely that Dark Wheel are angels when compared to Club conspiracy.
+
+Rochester said:
+I can attest to two at best. The DW missions were removed; the Trinkets were linked and that story was paused.
+Paused may be inaccurate here. Changed form potentially is better, but outright removed is unlikely (even despite the missions removal). The reason Trinkets of Hidden Fortune are hard to come by is their dubious legal status. You can still get them provided you know which factions are likely to have them and are willing to get your hands dirty (and have the appropriate equipment).
+
+Trinkets of Hidden Fortune
+This container appears to hold an assorted collection of low-value trinkets, knick-knacks and statuettes. Such trinkets are generally used by superstitious pilots to try and win favour with the lady Fortuna. However, these particular knick-knacks have a much more valuable prize hidden within. —...
+elite-dangerous.fandom.com
+
+On a more directly Raxxla-related angle:
+The Voyager probes may not be in the game just because they are cool and an important piece of human space history. There is a bit of buried lore for Data-link scanners connecting them to Jack Nackson Enterprises. Searching "Jack Nackson" produces nothing but Nackson turns up a result on the nature of Stargates. In which cases the events of December 25th 24th, 2286 become suddenly very important.
+
+We're going to need to work out whereabouts Sol was in 2286. Those recurrent gravitational anomalies may be where the rogue body (a.k.a. Raxxla) was located at varying times as that could impact local gravity conditions.
+
+They said finding Raxxla would be worthwhile not easy. This would seem very much in line with that statement.
+
+
+@Rochester: It may be wise to check the deity neighborhoods for stellar moving groups given Arcturus (settled in 2304) is part of one such group.
+
+Jack Nackson Enterprises:
+
+
+For the unaware:
+
+
+
+TL;DR:
+Any and all claims should be subject to testing of their veracity. Additionally, it would be wise to cross-check multiple sources.
+Attachments
+0223.png
+382.6 KB · Views: 37
+0223B.png
+356.9 KB · Views: 37
+0225.png
+357.5 KB · Views: 34
+How Stargates work.pdf
+256.5 KB · Views: 63
+Last edited: Jun 18, 2024
+Reactions:
+Ataxia and AnchorWriter

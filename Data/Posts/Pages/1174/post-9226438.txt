@@ -1,0 +1,15 @@
+Carlos Sagan
+C
+May 27, 2021
+#23,477
+Cmdr Unknown said:
+o7 Cmdrs, new user (but occasional lurker) here...
+
+So i'm not exactly a firm believer that, Raxxla is simply in the center of the "Galactic Center" (region!), and even less so that one will just stumble upon it. But then again, you never know...
+I just recently made a trip to the center and now find myself quite overstrained with the task to actually find the very exact center of the region. I tried to estimate it as good as i could by drawing lines as an extension of the region's straight bordering lines, and see, where they intersect (see picture below). I tried the same with a high-resolution map with region overlay on edastro.com, with more or less the same imprecise result. I marked some random system, but given the scale i still might be off by a good couple of hundreds of lightyears.
+So i wanted to ask you folks, if you have any ideas on a) whether anyone has pinpointed the galactic region's center yet, or b) how to more accurately and "scientifically" find that out.
+I'd be happy with anything that has an error margin of less than 10 ly... ;-)
+Click to expand...
+Aim the coordinate values of each end of the galaxy, on their axes with the most distant stars, then you only have to make a subtraction from the opposite coordinates to see the real distances between each axis, then divide by 2 and you will have the center.
+Reactions:
+[PS4] Filthymick420

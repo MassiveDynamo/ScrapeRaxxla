@@ -1,0 +1,20 @@
+John Stoutbeard
+Mar 13, 2022
+#25,666
+Koben said:
+Many thanks!
+I get the part that Shinrarta Dezhra got its name manually and Stellar Forge reffers it as Wregoe FP-E c25-14...
+
+But where you get this information and where did you find the body search string to paste on the galaxy map search bar?
+1. Get the system ID from journal or EDSM. Eg Sol: 10477373803
+2. Make a copy of his ED SectorNames spreadsheet. In your own copy, paste the value into the cell B6:C7: 10477373803
+3. You get a list of real names and IDs (row 26 and down) - pick object-ID you want to explore, jump to the system and use the Gal-map and paste the 'starforge ID' of it to search it.
+Then target it and fly to it (or BM it as he shown in the previous posts).
+
+Ref: https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9728866
+(You want to read the previous 1264 page as well, you can understand more context if you do)
+
+SPOILER: SPREADSHEET
+Last edited: Mar 13, 2022
+Reactions:
+Rochester, Jorki Rasalas, Zieman and 1 other person

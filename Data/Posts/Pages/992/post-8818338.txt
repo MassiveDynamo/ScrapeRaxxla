@@ -1,0 +1,11 @@
+Han_Zen
+Nov 27, 2020
+#19,838
+CMDR Zulu said:
+This next bit of info is complete rumor and hearsay but I read that Rogue planets used to be implemented back in an Alpha and they’d rip you out of hyperspace if you jumped too close to one’s gravity well while going from system A to system B and a rogue was between the two locations before that mechanic was changed. Is this what really happened to Starship One?
+
+This one I can debunk, as there was no hyperspace in the Alpha. There was only one system.
+
+I can confirm that the devs can jump to directly to planets and stations, on their test accounts. They do it all the time, in streams. They usually cut the picture, while they do it though. It's called 'Dev magic'.
+Reactions:
+electro, Dr. Lexus, Vetinari and 1 other person

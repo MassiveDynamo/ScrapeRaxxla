@@ -1,0 +1,18 @@
+Stinja
+S
+Jan 27, 2019
+#5,500
+Ko Shiji said:
+From what CMDRGuru951 has posted thus far, it sounds like there's basically a (long) series of quests missions given by various NPCs, triggered by various factors (mostly finding the right stations, possibly having specific names for your ship, etc.), that we can decode and follow to find Raxxla. All very confusing and convoluted, Braben-style.
+
+Maybe it's like the 1984 missions, but more advanced, with set conditions to trigger. Which could allow a personal journey, as the generation of the missions could be different per player.
+eg: on triggering condition A, have X combat rank and Y credits, it generates TDW mission 1 on your next system jump. Which could clearly be a different system for another player.
+
+5. Exactly where, when, and how are the missions triggered?
+6502 Elite Secret Missions
+First Mission: Rating 0x0100 (competant twiceover). In Galaxy One or Two.
+Second Mission: Rating 0x0500 (half way to Deadly). First Mission completed. In Galaxy Three.
+Trumbles (C64,Apple II,NES): Cash > 6553.4CR.
+
+http://www.elitehomepage.org/faq.htm#A5
+Last edited: Jan 27, 2019

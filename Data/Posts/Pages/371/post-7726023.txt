@@ -1,0 +1,25 @@
+Deleted member 38366
+D
+Apr 10, 2019
+#7,411
+Ko Shiji said:
+Funny thing: to me, that looks like someone's left hand index finger touching a broken bottle. Except it's more like an hourglass shape than a broken bottle.
+
+And the only vaguely hourglass-shaped constellation I can think of is Orion. Which means that the finger is touching Betelgeuse.
+
+And another funny thing:
+
+Map of Betelgeuse - 4 planets. This matches what you see flying in space, orbit lines and all.
+View attachment 127291
+
+However, in FSS exploration mode... 5 orbit lines!!!
+
+
+I've been flying around trying to use the parallax effect to hopefully detect a hidden anything that would be in that orbit, but no luck so far. The orbit line doesn't appear in space, so it's kinda hard to follow it.
+Click to expand...
+
+AFAIK that's normal and very common, although I don't see the reason behind that oddball "surplus line".
+
+Here's a generic example from a random System with an additional "Orbit 2.5" between a 2nd and 3rd Planet line :
+Reactions:
+Eckee and ScolioTheMost

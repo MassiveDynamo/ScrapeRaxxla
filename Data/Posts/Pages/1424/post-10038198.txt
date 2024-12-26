@@ -1,0 +1,22 @@
+Pyroboros
+Dec 17, 2022
+#28,479
+Louis Calvert said:
+Well this is exciting! Awesome work!
+
+I assume you'll also be able to tell how many times specific system names are mentioned? I'm sure some will come up much more frequently.
+Well...
+i aborted the first attempt after realizing it will need a bit over 3 years to complete.
+So i went and cleaned the text so it has no duplicates this alone was 3 hour computing.
+That means no counting for now, but when all systems mentioned have been filtered i can go to the original texts and count them.
+Only problem right now: Even whit the reduced text my PC has to check 135k Lines against 75 million known Systems. (approx: 43 Days computing)
+Also i am not quite Sure if the reduced text has still everything in it. It seems a bit small. It got from 4.5 million lines down to 135k lines.
+Sure there have been a lot of Duplicate Lines (From QuotesCMDR and all the CMDR Names) but it is a bit strange that it got this small (383130kb to 13986kb)
+I try to get my Raspberry running and than wait maybe i will hock a bell to it, or make it bark when done.
+
+@CMDRCorrMorningstarFelian if this is Data mining go ahead and shutdown EDSM have fun. Just because you call it Data mining does not make it data mining. And just because you found a lone Moderator that agrees whit you still does not make it data mining. Also i do not care if this will get any useful result, only thing that matter is to get any result.
+
+Edit: first match 39 Lambda Orionis which is strange and makes me more doubtful about completeness, cause it should bee 4 Sextantis
+Last edited: Dec 17, 2022
+Reactions:
+Louis Calvert, Macros Black and Sublime

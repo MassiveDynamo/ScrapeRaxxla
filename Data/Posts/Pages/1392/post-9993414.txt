@@ -1,0 +1,9 @@
+Zieman
+Nov 10, 2022
+#27,829
+Jorki Rasalas said:
+It did it again! Ship jump range 60+ ly, got in game for a short while this afternoon & found one jump was only 11 ly! No NS in the route, so what’s happening??
+The route plotter sometimes plots inexplicably short jumps in (longer?) routes.
+I would guess it happens around the middle point, as if the plotter works from both ends towards the other and the feelers don't quite meet each other.
+Reactions:
+Jorki Rasalas and Louis Calvert

@@ -1,0 +1,14 @@
+[PS4] Filthymick420
+Apr 13, 2020
+#16,046
+Han_Zen said:
+The only practical way to do this in ED, is to find a star with aproximately the same RA and DEC and ai for that.
+
+Simbad http://simbad.u-strasbg.fr/simbad/ is a good place to start, because it has cooridinate search. You can fine tune by checking stars in the right direction, in EDSM.
+
+It takes a bit of fiddling in the gal map, but you wil find an ok star to head for.
+
+Good luck.
+Im trying to find asteroids in Sol but since they don't show right im trying to use the RA and D from RL info to find 19 fortuna, an asteroid that is currently visible in capricornus
+Reactions:
+Dr. Lexus, Fiera, PeteACarter and 3 others

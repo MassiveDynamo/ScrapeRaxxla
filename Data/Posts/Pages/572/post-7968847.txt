@@ -1,0 +1,9 @@
+Jorki Rasalas
+Aug 26, 2019
+#11,425
+Vasquess said:
+Depends on what you are looking for. Your solution will not find a point that has the same distance to the three points A, B, C. Imagine B being extremely close to the center of A & B. Then your solution will also be extremely close to C—compared to the distance between |A-B|. To find a point P that has the same distance to A, B and C one has to find the center of the circumcircle of the triangle which is the intersection of all 3 perpendicular bisectors of the triangle's edges. While this could be done in 3D, I think it is much easier if you do it on the congruent 2D version of the triangle. With that result one can apply the same factor to one the 3D perpendicular bisects that you get from the 2D solution. And there you are, you have P. Next you take the cross product S of B-A and C-A which then is perpendicular to the 3D plane of the triangle and you can compute the straight line of all equidistant points as P + x S. Still not trivial but doable if you have a good library that helps you to solve linear systems of equations. (Hope my translation to english math terms is correct)
+
+Your translation to english maths seems good by me. But I wonder if FD would provide a clue that needs such a level of math capability, it makes it a bit of a specialist hunt. So I suspect the easiest solution is most likely.
+Reactions:
+[PS4] Filthymick420 and Vasquess

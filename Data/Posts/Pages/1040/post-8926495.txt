@@ -1,0 +1,10 @@
+Thatchinho
+Jan 30, 2021
+#20,798
+Burning_Scull said:
+About the mechanics of falling out. Indeed, if you fly in a wing with a friend and drop out next to each other but not using the FSD trace, you will appear far enough apart and still be able to cover that distance between each other. Therefore, hiding something in space is an easy task. But to find - how to look for a needle in a haystack.
+Yes, AFAIK, when you drop into real space, the instance created or dropped into contains the whole system and effectively all POIs therein (space based POIs at least). All that changes is which reference frame within the system is set to be your local reference frame.
+
+So anything that’s there in real space should be there but the trick as you say is finding it, in particular if something’s travelling at high velocity compared to that of your local reference frame.
+Reactions:
+[PS4] Filthymick420 and Burning_Scull

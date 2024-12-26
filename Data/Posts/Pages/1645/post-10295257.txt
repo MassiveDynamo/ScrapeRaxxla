@@ -1,0 +1,15 @@
+Edelgard von Rhein
+E
+Jan 6, 2024
+#32,893
+This afternoon I visited the systems on the Brookes Galactic Tours and recorded ~10 min of video in each system, whilst in normal space pointing as close to Sgr A* as I could. Then I loaded the audio into Audacity and followed Louis Calvert's steps to highlight the landscape signal.
+I was able to identify the landscape signal in each recording except the initial attempt at Artemis but I was fiddling with the settings a bit at that point - it was there when I returned after visiting the fifth system.
+
+I have to admit that it is a very subtle feature. If no one had said anything about the Landscape Signal, I would certainly not have paid it any attention. This also means that I have no idea whether or not I actually found anything new. Each recording has small differences in the high frequency range (3000+ Hz) and there are features that I have no idea whether or not are noise but which feature in each recording.
+
+My first conclusion, from looking at cycle to cycle variation, is that I have not seen anything like the landscape signal in between the recognisable mountain-esque feature that recurs every 2 min or so.
+Secondly, I can conclude that I might just be able to identify a variation in the landscape signal from as little as 5 min of video.
+Therefore, I can occasionally make recordings in systems of interest but my findings, positive or negative, should be considered dubious and in need of verification.
+This is a seriously obscure way to hide a treasure map if that's really what it is! (I think FD may have said at one point that they would not do anything like the Thargoid Probe signal again as it was asking a bit much to use out-of-game tools like this, though that is not the same as removing any existing puzzles...).
+Reactions:
+Macros Black, Louis Calvert and Emperor

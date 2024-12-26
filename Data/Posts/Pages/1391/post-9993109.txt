@@ -1,0 +1,23 @@
+Louis Calvert
+Nov 10, 2022
+#27,811
+I have emailed EDDB for clarification and asked that if possible could they let me know when it was added to the database. Will keep you posted.
+
+Edit - added copy of my email for reference:
+Greetings!
+The moon Mimas (Sol, Saturn) appears in your lists: https://eddb.io/body/2493462
+
+Yet it doesn't seem to be in-game.
+
+Do you have any information on Mimas in your database that's not shown on the page - the date/time/how it was added?
+
+I'm trying to determine if it's some sort of database error or if it's a hidden moon within the game (for some reason). The size of the body is accurate to the real-world version, but it's lacking some data that would normally be present (mass, materials, etc.)
+
+If you could let me know if Mimas is "real", as in it was actually reported via the automatic tools that link to the game (~EDMC etc), and if possible when it was added to the database, that would be great.
+
+Thanks very much for your time.
+Louis.
+Click to expand...
+Last edited: Nov 10, 2022
+Reactions:
+Jorki Rasalas and CMDRCorrMorningstarFelian

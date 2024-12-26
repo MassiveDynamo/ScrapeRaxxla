@@ -1,0 +1,19 @@
+Thatchinho
+Mar 21, 2019
+#6,929
+MrMarkusCZ said:
+I fail to find it by search on this forum so I will ask directly. Was there ever activity to check skybox - map every star in the sky to systems registered in galaxy map? I'm really thinking about traveling to Tionisla and starting do it. But why to do it if that was already done.
+I don't know of one. Anyone else?
+
+Though tbh it sounds like a bit of a no-go to me, far too many to be practical. Plus unless I'm mistaken, you can adjust the amount of stars that appear in the skybox.
+
+A better approach might be to do a series of skybox comparisons. Here's what I mean:
+
+- Go to Sol, and fly far enough out to get a clear view of the skybox.
+- Take screenshots looking in various directions (you would need fixed points for this, so Andromeda would be a good centre point for one of the screenshot directions. Beagle Point, and similar would work as well.)
+- Highlight system bodies so they can be disregarded for the comparison
+- Jump to another system, and fly far enough out to get a clear view of the skybox
+- Take a set of screeshots again, matching the directions and orientations of the previous sets. (And highlight system bodies so they can be disregarded)
+- Look at stars that have changed position, and compare those to the Galmap and look for discrepancies.
+Reactions:
+MrMarkusCZ

@@ -1,0 +1,37 @@
+Ian Doncaster
+Sep 15, 2024
+#34,821
+selbie said:
+and what systems have moons at such a close orbit
+That would certainly be an extremely unusual arrangement. 8th moons don't seem to appear at all within 100Ls of a primary star, so it then seems odd if the mass of a secondary star doesn't disrupt their formation either, but maybe the rules for generating cobinary objects end up slightly different.
+
+You'd need the arrangement to have the M-star cobinary with the gas giant, at a tight enough separation that for at least some of its orbit the 8th moon was within 10Ls of the star. So a maximum separation of the principal bodies of <20Ls, and a maximum orbital radius of the 8th moon of <10Ls (or it'd be orbiting the star instead)
+
+You can get 8th moons that close to a gas giant - they're rare, but not unheard of. A light enough VI-luminosity M dwarf and a heavy enough gas giant might allow a cobinary relationship at that distance. Having any sort of M-class star as a secondary object implies that the primary star is going to need to be at least B-class and maybe heavier, but it's certainly not unusual once you do. But can you get all of that at once?
+
+Seems worth a trawl through the exploration databases for it, though it'll take a while for me to get the right sort of search to pick all of those conditions up.
+
+Darrack said:
+Right here's another head scratcher then whilst we are on the Station.
+Again just following in game stuff we learn that the Brewer Corporation have been making Coriolis stations since 2752.
+It says the second design was the Orbis (possible toroid).
+BUT Cora talks about Raxxla in 2296, is this before the DW existed as the codex also talks about the DW faction in SD forming in 3300.
+The codex I think makes clear that whatever the DW faction in SD is, it's certainly not the first (or fiftieth...) time anyone has set up a group and called it "The Dark Wheel".
+
+Whether the original Dark Wheel goes all the way back to 2296 or earlier I think is harder to say, but it certainly long predates 3300.
+
+Darrack said:
+Its the station thing that's killing me because way back in the first game it said that the first ever station (built by Galactic Astronautic and Space Exploration Centre) was around Lave also in 2752.
+Were there no space stations before that then? where and when did the DW set up?
+The text in the original Elite Manual says
+Elite Manual said:
+Coriolis stations were designed at the GASEC (Galactic Astronautic and Space Exploration Center) Laboratories on the planet Vetitice. The first station was in orbit around the world Lave in 2752.
+So I think it's clear from the context (this is all in a subsection talking specifically about Coriolis stations) that "first station" in the second sentence means "first Coriolis station". Presumably before that some other station designs were used none of which (apparently?) survive in active service in 3310.
+
+(The first space station - Salyut 1 - was put into orbit in 1971, thirteen years before the original Elite, so it clearly can't mean "humanity's first ever space station"; the FE2 timeline diverges from our own sometime in the 1990s)
+
+Darrack said:
+What i am trying to establish is the extent that humanity had travelled (and set up a station) when Cora said those infamous words.
+Achenar was settled in 2292 - unusually distant at the time for a major colonisation project, but that definitely only sets a minimum distance for how far basic travel/survey/exploration could have gone and how far out smaller settlements/research stations/secret military bases might have been established.
+Reactions:
+Darrack

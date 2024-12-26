@@ -1,0 +1,11 @@
+Spaceman Si
+Feb 23, 2019
+#6,259
+Ko Shiji said:
+A 1 degree deviation in your heading will result in you missing the target by 1 million LS.
+
+A lesson which is learned on a much smaller scale when being tested on compass navigation over Rannoch Moor to this day
+
+To find a distant point target like that, you really need either a handrail feature to hit, or have a set of closer wayoints which you can identify as you reach them to correct error.
+
+(There is no gps in the cockpit for galactic co-ordinates And whilst having one on earth makes finding individual features on Terra facile, it's a good idea to know how to use a map and compass which won't run out of battery power or be affected by signal loss )

@@ -1,0 +1,15 @@
+Noobilite
+Feb 4, 2020
+#15,014
+Cunder said:
+The most frighting part is the guy didn't give you a name. That's a huge red flag if you ask me.
+His name is on the pic next to the mission thing. Patrician Mario Castro.
+
+Jorki Rasalas said:
+Still out in the black trying to match star patterns to Horizons start screen with the Orbis.
+I have fss scanned Sifi KX-S d4-10. There is a gas giant showing in the spectrum response and 9 bodies reported but only 8 are detectable. There is a distant orbit line, but no gas giant appearing on it. I have logged to desktop and back but the planet has not appeared . Bug reported!
+
+Did you take into acount the sun/mainstar. It does not show up as an FSS but it is counted in the body count I think. Edit: NVM, saw the later post. FSS was gassy. It had a little burp.
+Last edited: Feb 4, 2020
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

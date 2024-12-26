@@ -1,0 +1,15 @@
+rOmiLaYu
+Jul 15, 2021
+#23,991
+PixelFerret said:
+Good evening CMDRs,
+
+Apologies for barging in. Been enthusiastically following the discussions from the sidelines but haven't seen this mentioned and wondered if anyone was experiencing a similar phenomena as me, I couldn't see it discussed prior or mentioned as a bug. Most likely a bug but I can reproduce it every time. I have also been absent for a few years from the game so I might have missed very early discussions of this occurring.
+
+While using the DSS near a star (the brighter the better) If you angle the DSS so that the star is directly below but out of sight so technically you catch the lens flare, this weird... Artefact? Appears at the bottom of the DSS lens. It seems like a distinct geometric shape, like a series of stars which rotates with the ship. I've attached a few screenshots with the phenomena, one highlighting the shape and a few to show the different sides to it, plus one cropped and brightened to try and enhance the shape. I have verified that this works in 5 different systems and very easy to replicate. Donning my tin foil, it could be a groups of stars with this particular shape that is significant (I'm currently out near the Formidine Rift when I noticed this) It's probably insignificant, and most likely a bug bit the shape seems really odd, so I couldn't just leave it.
+
+Again apologies if this is has been discussed before, just thought it was weird.
+Click to expand...
+Fly a DBX, do you?
+Reactions:
+[PS4] Filthymick420

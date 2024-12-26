@@ -1,0 +1,43 @@
+Vektorboson
+V
+Feb 14, 2021
+#21,115
+So, my hunch about Terra Mater was correct. "Terra Mater 8" and "Isis IX" are connected; when you take a look at the "Mapped By"-entries in Isis, you'll notice that all bodies share the same players, except "Isis IX". In Terra Mater, all bodies have the same "Mapped By"-entry except Terra Mater 8. So the Isis-puzzle looks currently like this:
+
+Unusual solar mass:
+Isis: "underweight" K-class star
+Tomas: underweight F-class star; Tomas is close to Wadjet and Nekhbet; Tomas has a planet called "Doubt"
+Set (and Shango): overweight L brown dwarf; Shango is actually the more massive star in the Set-system
+Har(?): a very lightweight T Tauri star; Har is an alternative name for Horus, so we can assume "Har" is "Horus the younger" (the son of Isis)
+Roman numerals:
+Isis 3 - Isis 12 have the names Isis I, Isis II, ..., Isis X
+Hecate-system: Has a planet called "Harrison XIII"; Hecate is the goddess of witchcraft
+"Mapped By"-weirdness:
+Isis IX has different credit than all other Isis-bodies
+Terra Mater 8 has different credit than all other Terra Mater-bodies
+
+EDIT:
+Crazy speculation time.
+
+Please take a look at the following pages, notice anything interesting?
+XIII: The Conspiracy - Wikipedia
+en.wikipedia.org
+XIII (comics) - Wikipedia
+en.wikipedia.org
+
+Ok, why? Because in the Hecate-system there is a planet called "Tomie". Which relates to a comic series; thus "XIII" might also relate to a comic series.
+
+Tomie - Wikipedia
+en.wikipedia.org
+
+Make a Google Image-search for Tomie or look at the image on this page: https://www.flickeringmyth.com/2020/07/quibi-announces-live-action-adaptation-of-horror-manga-tomie/
+
+Have you seen the eyes of Tomie anywhere? They're in the textures of some gas giants.
+
+EDIT 2:
+Ok. Isis is probably related to "The Club", please look at members: https://elite-dangerous.fandom.com/wiki/The_Club#Members
+
+3 male, 2 female. Same as in Isis: 3 identical gas giants, 2 identical gas giants.
+Last edited: Feb 14, 2021
+Reactions:
+TrillClinton, simulacrae and Vetinari

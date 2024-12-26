@@ -1,0 +1,38 @@
+Louis Calvert
+Nov 27, 2023
+#32,204
+Rochester said:
+The thing about hyperspace is, it’s just a loading screen.
+... a door that's also a key?
+
+Oddly, a loading screen for Elite Dangerous works kinda exactly like Hyperspace: a non-space transit between two 'real' places... and you can't reach a system without Hyperspace, so mechanically, it's both a door to other systems and a key to access other systems.
+Rochester said:
+Now it’s not outside the reach of plausibility to set an incursion zone, and any transgression into that zone ought to trigger a sound in the loading screen period.
+
+However such a mechanism would be very obvious, unless you specifically toned this noise down so it was inexplicable.
+1.3 Changelog. IIRC they tweaked this a few times?
+
+Rochester said:
+Now FD has always used sound as a mechanism since day one, sadly in my opinion this is a design flaw because their are some of us with hearing impairments, so logically if such a mechanism existed you ought to apply a secondary visual cue too… if that were the case such a mechanism ought to be obvious. So we ought to have found this by now.
+... well, don't you have to make some of it a little bit obvious?
+
+But, joking aside, most people ignore Hyperspace. I can't be the only one that pretty much zones out during jumps. After all... hyperspace is just a loading screen right?
+Rochester said:
+Again we fall it that old chestnut, dies a mechanism exist in game that only applies to one element, or has it been utilised for other elements - see Thargoids interceptions.
+It's entirely possible that this is the case. Thargoid Hyperdictions are always the proof that Hyperspace 'loading screens' can be seamlessly switched out for 'content'.
+
+Rochester said:
+Disregarding that, the reference to the Siren of the deepest void in the Codex initially has always made me think of those Galnet ‘Whispers’ stories, so for me it has always been the most logical outcome, with those stories acting as way points, and either a sound exists at those points (?) or those points themselves correlate somehow?
+
+Personally I have never gotten around to investigating this, as there has usually been some other distraction.
+Oh interesting, which ones are they? The only "whisper" keyword that shows up for me is the Thetis, Shamash, and one from 3304 where someone talks about whispered rumours.
+
+Thetis and Shamash signals aren't whispers in witch-space; they're very specifically radio signals in realspace. Sirens very specifically sing to try to entice passing sailors towards them (to be eaten); The Thetis signal sends people psychopathic and murderous within minutes.
+
+The Codex Entry is quite specific:
+To the whisperer in witch-space, the siren of the deepest void!
+'The whisperer' is singular. This sentence structure indicates the 'siren of the deepest void' is the 'whisperer in witch-space'. If we assume this means Raxxla (because that's the structure of the Toast, linguistically), then the most-likely interpretation of the codex is simply that: 'Raxxla is the jewel that burns on the brow of the Milky Way, it's the whisperer in witch-space, the siren of the deepest void, it's the parent's grief, the lover's woe, and it's the yearning of The Dark Wheel's heart'.
+
+I'm still searching for any info on whether anyone's tried to investigate the whispers before, can't seem to find anything at all?
+Reactions:
+Adel, Edelgard von Rhein and Darrack

@@ -1,0 +1,11 @@
+Han_Zen
+Apr 7, 2018
+#2,105
+Allin said:
+By the way. Just went to Sirius. You guys remember that this is THE system you always get the FSD overcharged safety limit notification?
+
+What if that is not a bug. What is something is triggering it.
+
+I've been testing it a bit, from time to time. It never seem to happen in other systems with white dwarfs.
+
+I want to test it a bit more, before dismissing it as a bug.

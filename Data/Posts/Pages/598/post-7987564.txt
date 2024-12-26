@@ -1,0 +1,15 @@
+Six6VI
+Sep 6, 2019
+#11,947
+alexzk said:
+Offtop a bit ...
+
+Did anybody try stream PC screen left-right 3D split to smartphone "google cardboard" ? Is it any viable ? I'm thinking to write programs / buy phone (as I don't have it for 2 years). Just feel like I want VR after started to use Krait Phantom instead Conda
+Problem is ..I dunno how to tell to Elite gyroscope data from phone so it could track. Seems like need to do "fake" device/driver...
+When I first saw "Cardboard" it seemed like a great entry level (cheap) VR alternative but thinking about it a little harder it dawned on me that having a microwave transmitter strapped to your face at some optimal distance set by a company such as Google / Alphabet could have extremely bad consequences.
+
+Their reputation is rapidly sliding into a deep hole and Google is no longer your friend / trustworthy.
+
+[Edit: Maybe if the phone was in "Aeroplane mode" and you could trust it NOT to transmit...]
+[Edit, edit: Despite the inconvenience I flat refuse to use any hardware that's not hardwired.]
+Last edited: Sep 6, 2019

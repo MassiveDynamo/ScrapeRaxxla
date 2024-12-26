@@ -1,0 +1,6 @@
+SongOfTheVoid
+Nov 21, 2022
+#27,988
+Jupiter and Saturn both have a unknown variable in which Instability increases over time due to shared orbital resonance causing disturbances with the Retrograde co-orbitals and affecting the orbits of Trojan objects aswell as perturbing the orbital stability of the other gas giants moon systems, you appear to have not factored this into your observations and eccentricity and orbital paths havnt been accounted for. Titan for example started of much further in to Saturn and has migrated outwards to its current location, The shared instability of the L4 and L5 locations interactions between both bodies would be indicative of further orbital drifting within the bodies.
+You may want to check orbital eccentricity and other orbital parameters.
+Last edited: Nov 21, 2022

@@ -1,0 +1,13 @@
+Vetinari
+V
+Mar 11, 2021
+#21,900
+Mis-jump is to target one system and end up in another
+
+hyperdiction keeps you in the same System - due to the Witchspace being a loading screen and not an actual area, nothing can exist in it to hyperdict, so game-mechanics says the Thargs hyperdict as you jump in that system and doesnt load the hyperdiction into tyhe next system.
+
+Interdiction - pulls you back into attacker instance / normal space
+
+Crashing - I think its just game mechanics putting you into a 'safe' area far away from any bodies if it didnt accurately record where you actually were, as you hadnt actually entered the system it doesnt know where you were. Happens to me when mapping, Ill map A 1 and move onto A2B and map that and the game crashes. I end up in middle of nowhere BUT the 2B has been mapped? So it knows I was there to map that planet but relogs me into here somewhere between 1 & 2B, usually Kls away? I dont get how it knows I mapped the planet but didnt record my position. If I log out instead i get put back in exactly where I was. Implication is routine 'placing' / recording location of ship is not constant but every couple of minutes unless log out or change instance which places it at that spot.
+Reactions:
+Jorki Rasalas

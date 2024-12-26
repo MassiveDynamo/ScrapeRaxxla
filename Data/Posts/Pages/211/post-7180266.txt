@@ -1,0 +1,11 @@
+rOmiLaYu
+Nov 16, 2018
+#4,203
+Jorki Rasalas said:
+Is the cockpit visibility much better than the mk2? I was questing a few days ago and had to go back to SD to swap my mk2 for my AspX in orderto see the sky box properly.
+
+When exploring do your finds go straight into the codex, or does that happen only when you dock & sell the data?
+
+The cockpit is a reskinned mk2, no different, just with loads of red.
+
+As for data, it appears that info goes to Codex and then Codex syncs with UC when you sell data.

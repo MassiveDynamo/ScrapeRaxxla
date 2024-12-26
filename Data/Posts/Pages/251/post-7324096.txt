@@ -1,0 +1,17 @@
+Ko Shiji
+Jan 7, 2019
+#5,001
+RG_in_space said:
+Hello there,
+I'm currently heading straight to the Zurara from FR delta site, after which i plan to go as far as i can into the void, following the Riedquat-Reorte axis.
+
+I did that, about half a year ago.
+
+Riedquat and Reorte are too close together; the system coordinates you get from the map only have a few decimals of precision, and the line they form is determined by 2 points only a few LY apart. Trying to extend such a line 20k LY will give you a huge compounded margin of error. So, instead, I took the Riedquat + Zurara system coordinates, and extended THAT (12k LY) line to the edge of the galaxy (to 20k LY).
+
+I tried to follow this line as best I could, but it's a huge distance past Zurara, and with 60LY jump range, many stars are bypassed, so it's certainly quite possible to "miss" star systems of any importance. I did notice one odd thing, but it may be just an artifact of the stellar forge: past the Formidine rift you're flying through a thin sheet of fuel stars, sandwiched between thick layers of sub-M, like a galaxy-wide Oreo.
+
+In any case, the R-Z line takes you slightly UNDER the thickness of the galactic disk, so you'll hit rarefied stars earlier than if you try to go down the middle of it to the farthest stars. I tried to hit the galactic edge, but with 60 LY (120 charged), I had to detour upwards and then come back down to the line, in order to get at the "farthest star" along the line. The systems at the very edge had already been discovered by someone else, but you may see my name on a few stars close to the edge. I flew around and did full system scans, with the Adv. Discovery Scanner and the DSS we had available at the time (3.0). The info we had at the time seemed to indicate that Raxxla may be a planet that does not appear on the system map, so I did full system scans and counted in-flight orbit lines vs. planets appearing on the system map. Didn't find anything, of course.
+Last edited: Jan 7, 2019
+Reactions:
+Armstrong

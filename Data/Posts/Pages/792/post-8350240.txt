@@ -1,0 +1,26 @@
+John Stoutbeard
+Mar 29, 2020
+#15,834
+Ravenl0ft said:
+Hi guys. I had that short video on youtube for sometime ago, in which i tried to show one of my opinion about RAXXLA, but it turned out that it was a poor decision of me and people just couldnt get my point, because there was no sound, and i was not explaining anything. So i recorded a new one, this one has some other stuff about RAXXLA too. Like i mentioned in the video, im very new to video making, i just record it with geforce experience, and upload it to youtube. I hope you can watch it to the end, and pls let me know what you think about 5 dots and the civ installation.
+
+Click to expand...
+
+Nice work there. I'm not trying to attack your theories or you work, I hope you see my response as something from one virtual-colleague to another. A way to improve your theory and make it stronger by weeding out the weakest links. It's a great way to learn and evolve your own theories. o7
+
+The RA XXL A theory has been presented in many forms. It's a bit imprecise to follow since you have to make a jump in faith with 50s into 58.887s (hence close to 60s) to link up with Regulus. Personally I feel this is a way to make the data fit your own needs.
+All the rest relies on the previous leap of faith. Which is okai if you can get somewhere with it. Time will tell I hope.
+
+As for the installation, those kind of findings I do find interesting. As it may be a valid way of enabling (unlocking) content.
+The installation causing sounds when you hit the galaxy map. Yes, I've had this many times even outside Sol while working with missions. Bug? Feature? Who knows.
+As for the Power conduit, I have also opened similar tunnels outside of sol in other places. I don't recall the power-configuration, but I have a sneaking suspicion this is pretty common.
+As for the unhackable datapoints, I've lost a few recon drones at other installations like this (again outside Sol). I didn't see why it happened. I suspect bug.
+
+As for the dots in the sky, those are part of the skybox in ED. You can find them in all directions, representing distant objects outside the milky way.
+As for service desk closing (deleting) tickets, they probably should have told you to report it via the issue-tracker which is the correct place to report bugs now. Support mostly deals with 'user-support and assistance using the products'. I wouldn't put too much into it, they probably just did a poor job handling your tickets.
+
+Your theories are as valid as many of the others presented. But for my liking it may need some refining to make the data & statements to stick a bit better.
+
+Keep at it, Raven. o7
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum and Ravenl0ft

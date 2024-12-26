@@ -1,0 +1,9 @@
+simulacrae
+Jul 9, 2021
+#23,947
+Jorki Rasalas said:
+Mmm, downloaded Stelarium, investigated Ceres position for 2007 (nothing). Headed back to Earth & tried to match planet positions in-game for 9-7-2021 & 9-7-3307. Having difficulties for both. But not used Stellarium before so may be doing something wrong.
+
+I think the star catalog was accessed and maybe updated a couple times based on existing stellar data but i have a hard time believing they are keeping the bodies in our system on any kind of parity with existing data or a model. I imagine with all the various tweeks, updates, crashes, etc… that they are just doing their own thing.
+Reactions:
+Jorki Rasalas

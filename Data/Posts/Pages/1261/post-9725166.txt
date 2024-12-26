@@ -1,0 +1,18 @@
+Pyroboros
+Feb 1, 2022
+#25,204
+Ok new info on missing Body21 in SOL.
+After a metricTon of Time, Math, Physiks and the equivalent to (SagA* mass)^googol tons of Luck i managed to find it.
+[That was a lie. I am not going to tell you how i found it ]
+
+
+- It is not RAXXLA
+
+It is... wait for it
+- { "timestamp":"2022-02-01T15:21:34Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Sol", "SystemAddress":10477373803, "Body":"Halley's Comet", "BodyID":21, "BodyType":"SmallBody" }
+
+AND... new Drums plz.
+SPOILER
+
+Reactions:
+electro, Han_Zen, CMDR John Luke Paperbone and 5 others

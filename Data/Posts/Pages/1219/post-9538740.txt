@@ -1,0 +1,20 @@
+Comandante
+Oct 2, 2021
+#24,369
+Han_Zen said:
+All you need for FFE is on Jades page: http://www.jades.org/ffe.htm
+
+System lists here: http://www.jades.org/maps/index.htm
+
+FE2 galaxy is basically the same.
+
+The real systems coordinates in FFE/FE2 are mirrored on the galactic north/south axis(+ - error when importing catalogue data) and rotated to have polaris as north. It's a mess to work with.
+Thanks Han.
+
+OK, that confirms that the system I found wasn't in the original series then.
+
+So, some (any?) of you might be able to help me out. Human systems tend to either have their star cataolgue name OR an in-game designated name, like Rezhas, Lave, etc. That all seems logical from a game perspective.
+
+Yet there are systems out there that have no population, no stations or planetary outposts, or anything of note, yet have a non-catalogue name. Recently I was going from system to system and passed through one named Diadem - a "jewel of a crown". What struck me was that this was the first system that I have knowingly encountered that has a 'strange' system name without any human habitation.
+
+Does anyone know if there are many such systems like this - is this 'normal' - I've not encountered any, which is why the system 'Diadem' stood out to me. I'd love to hear your thoughts on this.

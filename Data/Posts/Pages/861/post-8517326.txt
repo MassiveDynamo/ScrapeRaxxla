@@ -1,0 +1,13 @@
+CMDR Jack Bandit
+Jun 10, 2020
+#17,210
+Jorki Rasalas said:
+Anyone had problems logging into game after the update?
+Downloaded at coffee time, did some gardening, now trying to log in.
+Log into account OK, runs shaders & planet generation OK, then just keeps saying "failure to connect to authentication server, invalid machine ID"!
+even though browser is working fine.
+Pah, blooming fleet carriers, never wanted anything to do with em!
+Going to reboot PC and walk dog (or boot dog and walk PC!!)
+On the ED launcher, go to OPTIONS and choose LOG OUT OF MACHINE, after that log back in and it should fix the problem
+Reactions:
+Jorki Rasalas, Han_Zen and [PS4] Filthymick420

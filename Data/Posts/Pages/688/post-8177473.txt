@@ -1,0 +1,22 @@
+Jorki Rasalas
+Dec 4, 2019
+#13,753
+Thatchinho said:
+I think the missing space in PilotsFederation was likely just because it was using the variable name from the code, or just a typo in the name in the code. Could be wrong...
+
+Also, as we're all members of the Pilots Federation, technically any clique of group we have is a clique or group within the Pilots Federation. Consequently, not sure how much we should read into the statement that TDW is a clique within the PF.
+
+You may be correct and it’s a typo/spelling mistake, FD make many of those, but it could also be deliberately subtle obfuscation; I’d certainly never noticed it before! So we should test it. If PilotsFederation is the same faction as The Pilots Federation in Shinrarta then the current rank from Shinrarta should match any rank from Goid hunting, there should be no increase. If not then they are different, which could be meaningful.
+
+From EDSM searching on “Pilot” in Minor Factions I see:
+
+Pilots Federation Local Branch - Democracy
+Pilots’ Federation Local Branch - Democracy
+Pilots’ Federation Administration - Corporate
+PilotsFederation - suspiciously no detail!
+The Pilots Federation (in Shinrarta) - Democracy.
+
+This just seems like “wheels within wheels” we know from Premonition applies to TDW! Seems like FD might have given is another clue there! The one with no detail sounds like it might be TDW hub and the one to pursue.
+Last edited: Dec 4, 2019
+Reactions:
+BluWolve, Rochester and [PS4] Filthymick420

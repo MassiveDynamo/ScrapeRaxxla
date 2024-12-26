@@ -1,0 +1,9 @@
+Beng_Ammon
+B
+Jan 29, 2019
+#5,578
+BTW, has anyone every mapped all the stations and got their numbers to see what is concluded from it? I found fsp#0000 and others. I've been taking screen shots. We should make a thread to organize pics and do it the fast way. Try to gather pics of the station name and FSP# on the front and then try to gather info on coordinates etc of the system also. Maybe split up work on vairous tasks and do whatever it takes to get the info. I have several pics of the front of the stations.
+
+Ill be putting up a google docs with the ones I have found so far. YOu should record your data in an excel sheet for easy transfer. The info I am gathering:
+
+Station id | System Name | closest body | distance from entry star | star type | how many stars in this system? | is there a gas giant with more than 8 moons?

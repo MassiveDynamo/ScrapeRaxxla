@@ -1,0 +1,16 @@
+Thatchinho
+Apr 4, 2019
+#7,259
+CMDR Mister Dartay said:
+Looking at the main image (overlaying the numbered representation), it seems that 5 is still slightly above (to the right of) 2 - 3. Maybe the slight difference could be explained by small discrepancies in the stellar forge?
+
+Your final point seems quite conclusive.
+
+But, if there is a small chance that the main image in fact does contain a representation of Crux, could we take this as an indication that the title screen background does not represent an in-game location? I.e.: Fdev plastered some random constellations in the background to make it look nice, as opposed to using their engine to generate an astronomically correct background?
+The Crux appears (in Galmap at least) in the standard shape when viewed from Sol - i.e. with 5 being just off the 2-4 line. So the stellar forge appears to be spot on for that (which it should be as known stars / galactic objects should in general be placed where they actually should be - with a few exceptions).
+
+And yeah, it's hugely possible that the image is just a mock up and not an actual in-game shot.
+
+Stuff's been found via actual in-game shots, and FD seem to have changed what they show in trailers as a result. It's a tough one with this though - on one hand if the location could be found via the images then one might expect that they would change them, but equally a change to the image would also signal that there might have been something which could be used to determine the location in a previous version (which people have images of)...
+
+Anyway, my take on it is that I reckon that the menu screens are just mock ups, but it's an avenue still worth looking at anyway, even if only as an exercise at doing that kind of location deduction.

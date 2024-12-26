@@ -1,0 +1,8 @@
+Siobhan
+May 26, 2020
+#16,756
+yelboc said:
+I could be wrong, but I think the nebulae are all in the wrong places because they forgot to adjust the co-ordinates to J2000 epoch when entering them. LBN625 and other planetary nebula are all a bit offset from their host stars too.
+Stellar movement is a big thing to account for, indeed.
+Reactions:
+Machina Ergo Sum and PeteACarter

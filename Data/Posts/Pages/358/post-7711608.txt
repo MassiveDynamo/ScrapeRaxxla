@@ -1,0 +1,23 @@
+Cunder
+C
+Apr 1, 2019
+#7,158
+yelboc said:
+Hi Guys - I posted this bug report a while back and got no response from FDEV
+
+https://forums.frontier.co.uk/threa...ays-even-though-disabled.480936/#post-7705965
+
+Has anyone else come across this effect? I usually fly with music disabled. Only combat music is enabled on my settings (don't mind it for combat). When I went to the system mentioned, there was music playing when DSS'ing this planet - quiet bell like sounds..
+
+Can anyone else reproduce, and submit, so we can tease it out of them if this is intended special behaviour or just a bug ? (its a pretty place, btw)
+
+YB
+Click to expand...
+
+I'll Check it out on the PS4 version
+
+
+Edit: I hear the "bell Ringing" noise as well as the rocky noise. Not sure if it's the ring itself or because it has Geological surface signals I would need someone here to confirm the audio cue in this game.
+
+Edit2: Geological signals are Volcanism: Silicate Vapour Geysers if anyone needed that info.
+Last edited: Apr 1, 2019

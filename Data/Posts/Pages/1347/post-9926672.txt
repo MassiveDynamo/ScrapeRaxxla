@@ -1,0 +1,22 @@
+Jorki Rasalas
+Aug 29, 2022
+#26,939
+Pyroboros said:
+Works on my end (only via Bookmark)
+35:{ "timestamp":"2022-08-28T14:09:27Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Ejagham", "SystemAddress":4683418569067, "Body":"Ejagham Comet 4", "BodyID":35, "BodyType":"SmallBody" }
+36:{ "timestamp":"2022-08-28T14:16:03Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Ejagham", "SystemAddress":4683418569067, "Body":"Ejagham Comet 5", "BodyID":36, "BodyType":"SmallBody" }
+
+this one came out of 36:
+{ "timestamp":"2022-08-28T14:13:51Z", "event":"ShipTargeted", "TargetLocked":true, "Ship":"cobramkiii", "Ship_Localised":"Cobra Mk III", "ScanStage":3, "PilotName":"$npc_name_decorate:#name=James Hogg;", "PilotName_Localised":"James Hogg", "PilotRank":"Mostly Harmless", "ShieldHealth":0.000000, "HullHealth":100.000000, "Faction":"Ejagham Silver Boys", "LegalStatus":"Wanted", "Bounty":48964 }
+
+they may supposed to be heavier 18.3 Mm drop Distance.
+Click to expand...
+@Pyroboros: Ah, retried in EDO, got:
+35
+Wregoe BC-D d12-36700296
+Ejagham Comet 4
+36
+Wregoe BC-D d12-37748872
+Ejagham Comet 5
+Reactions:
+Ataxia and Rochester

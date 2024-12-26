@@ -1,0 +1,6 @@
+Jorki Rasalas
+Dec 31, 2023
+#32,798
+I suspect there may be a reason why comet hunting was banned. And why comets are in-game but have never been graphically represented. It would be extremely difficult to drop in on a "comet" with no signal source or visual indication to target. It might be there is some visual clue, like the six orbiting stations in Pareco...but even then it's very difficult. If the "comet" were programmed to visually be represented by a very small black hole (how I'd envisage an "Omphalos Rift") it might only be visible against background stars, & it may not be detectable by ship sensors...
+Reactions:
+CMDRCorrMorningstarFelian, Adel, Emperor and 1 other person

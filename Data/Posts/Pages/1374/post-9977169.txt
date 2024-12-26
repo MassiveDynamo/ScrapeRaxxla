@@ -1,0 +1,58 @@
+Emperor
+Oct 19, 2022
+#27,467
+Allen Stroud said:
+Browsing around today I noticed a lot of inaccurate attribution on a few websites. I thought it might be helpful to clarify a few things:
+
+Initial background guidebook discussion group:
+
+David Braben (Frontier)
+Michael Brookes (Frontier)
+Andrew Gillett (Frontier)
+Allen Stroud
+T James
+
+Dave Hughes was invited into the group at my suggestion.
+
+Allocation of drafting work:
+
+Empire, Alliance, Federation - Allen Stroud
+Collation of existing fiction - Michael Brookes
+Initial Old Worlds region timeline work - Dave Hughes
+Thargoids - T James
+
+Later addtions:
+
+Covert Ops - Allen Stroud (Most of this was never used).
+Interstellar Police and Law Enforcement - Allen Stroud (Most of this was never used).
+Corporate Guide Book - Allen Stroud
+Stardreamer technology and Invention of Mark 3 Hyperdrives (last document I wrote. Not sure if it was used).
+Some stuff on Artificial Intelligence, a few additional star system notes - Allen Stroud
+
+Note, this was drafting work. Most of the documents were produced and then edited and changed by Frontier in the discussion and outside of the discussion with their own teams.
+
+There was substantive discussion over the Elite game context (Old Worlds) and how it would be incorporated into the game. In the end, as there didn't seem to be much agreement, and we were all on a deadline, I wrote the guidebook for that as well.
+
+These were the only people involved in the discussions in that period. I can't speak for anything later.
+
+There are one or two wikis which seem to suggest other people were involved.
+
+A lot of the guidebook material that was produced ended up as the the text for many of the tourist beacons, a fact that continually makes me smile
+Click to expand...
+
+Thanks for the valuable information....
+
+
+Jorki has mentioned this in the thread previously but I was wondering if you're free to discuss or know why the Alien artefact was moved from Europa to Mars when put in game?
+
+
+
+Investigation and Application of Writing Structures and World Development Techniques in Science Fiction and Fantasy.
+Allen Stroud
+
+Student thesis: Doctoral Thesis
+
+8. Extract from Federation Guidebook provided to all authors and Frontier Developments (expanded from Example 6 in Appendix A):
+"Mars and the Artefact In 2280, the first non-human relic was found in space. The object, no bigger than a child’s hand was collected by an orbital probe around Europa and quickly brought back to Earth. No information has ever been circulated as to the properties of this item or its origin."
+Reactions:
+simulacrae

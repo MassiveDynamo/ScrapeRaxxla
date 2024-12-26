@@ -1,0 +1,17 @@
+Agony_Aunt
+Aug 28, 2017
+#535
+Han_Zen said:
+When it comes to location, I think our best hint is 'obfuscated in the outer rim'.
+
+This could mean the rim of the galaxy, the human bubble or a specific system. I doesn't tell much about where Raxxla is, but it tells us a bit about where it isn't located. It's not on a known central world.
+
+I wonder if there are any sectors or systems which are anagrams of raxxla.
+
+System codes only allow us 4 letters due to the format of AA-A An-n
+
+Remove duplicate letters from raxxla though and we get 4. raxl.
+
+Could there be a system called something like Xarxal AX-R L1-10? Don't think so from what i remember of system naming conventions.
+
+Not sure how helpful this could be: https://cim.sotl.org.uk/elite-dangerous/

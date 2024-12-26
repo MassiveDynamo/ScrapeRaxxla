@@ -1,0 +1,69 @@
+Xaintly
+Mar 11, 2019
+#6,485
+The picture of the Dark Wheel station in the codex is interesting to me.
+The star is a very deep red
+It looks quite big for something presumably far away
+Most 'M' stars are too small to have anything but snowballs
+
+I visited a bunch of K, M, L, T, Y, C stars to check the color. The K, M (Red Dwarf), Tauri and C stars I checked were much more yellow. L and Y were too purple.
+The closest match to color that I could find were M (Red Giant) and M (Red Super Giant). They are also quite big.
+
+Based on that, I ran a search on the EDSM data for Red Giant/Red Super Giant WITH a Gas Giant that has at least 8 moons. I found 41 results.
+Does anyone want to help check these? I want to try flying around the 8th moon at close range and seeing if anything pops up.
+
+Zaurak - checked: zaurak c 2 h, non-landable icy body, already mapped. mapping & flying around it didn't expose anything
+4 Cassiopeiae - checked: 4 Cassiopeiae AB 2 F, G and H could all have a claim as the "8th moon". Mapping & flying around them didn't expose anything
+Shui Wei Sector FC-U b3-3 - BCD 1 H already mapped, mapping & flying around didn't expose anything
+Smojue TE-I b23-4
+Blu Euq FT-K b49-16
+HR 6001 - CMDR Edelgard von Rhein checked, found nothing.
+Thueche XK-B c2-6
+Dryooe Flyou KE-M b23-45 > by colonia, near interesting black hole Dryooe Flyou PC-V E2-457
+NGC 2682 FBC 3456 > S class star - Scanned & checked by CMDR Macros Black, nothing found in orbit: This is a suicide system, neutron jump in with no way out!
+21 Zeta Cephei - Scanned & checked by CMDR Macros Black, nothing found in orbit
+Dumboi HM-D d12-26 > Neutron
+Synuefe JS-G b44-0 - M3, M8, ABC 2 H, landable, mapped, flew around, nothing
+Ploi Aewsy PB-S b31-11
+Juenio IS-K d8-900
+Eol Flyou ZU-G d10-270
+HD 14284 - M5, Scanned & checked by CMDR Macros Black, 3 H and 4 H, nothing found, star is also too yellow
+Floarph JC-D d12-5 - M5 star
+Wepua MV-Y d3028 - M5 star
+Aucofs HK-A d4
+Aucofs QR-W d1-3 - M5 star
+Slegou HX-L d7-4
+Sleguae YW-B d13-1
+Ploea Eurl BM-C b27-0 - M7 star
+Byeia Eurk QR-T c17-21 - M8 star
+Swoiwns QS-Q b7-0
+Spoihaae WS-D b18-8 - M8 star
+Col 173 Sector NO-P b35-1 - M8, Mapped and flew around 4 H, nothing found
+Floadu JK-A d0
+Synuefe CA-K b56-8 - M8, 9 H mapped, flew around, nothing
+Gru Hypue JY-I d9-90
+Synuefai KP-V b49-5 - M8, Mapped & flew around 8 H but nothing happened
+Stuelou EN-Q b36-8 - M8
+Eoch Pruae KY-I d9-2322
+Byeia Thai VT-Z d13-0
+Prua Phoea XF-O d6-21
+Bleia Eohn AU-A b33-3 - M3+ M8
+Traikaae QY-M b12-0 - M8
+
+I pasted all these into the galaxy map, they all have population 0 and economy: None.
+I'd be surprised if finding their station is this simple (eg, maybe it only appears if you have the invite from The Real Dark Wheel or some special permit), but it can't hurt to rule out the known systems.
+
+FWIW I'm triple elite, king, admiral & allied with TDW and all factions that are known to grant system permits
+
+Edit: Cmdr Macros Black is en route to some (thanks!), added notes with some of the darker colored stars (M8 is pretty dark)
+
+Edit 2:
+I ran a query for ordinary Red Dwarf stars + gas giant + 8 moons in the same system and came back with 7658 results, so that's not good.
+
+However, I flew toward a Red Super Giant and a Red Dwarf to see how close you have to be for them to look like the picture:
+Red Super Giant (Pegasi 2) - Textures still visible, star is a little too small at about 1000 ls away
+Red Giant - Textures not visible until about 25 ls, star is still small until under 15 ls
+Red Dwarf - Textures not visible until about 25 ls, star is still small until under 10 lswell the
+Last edited: Mar 14, 2019
+Reactions:
+Ton618 666, Edelgard von Rhein, Jorki Rasalas and 1 other person

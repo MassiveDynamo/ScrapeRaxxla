@@ -1,0 +1,20 @@
+3navis
+Feb 6, 2020
+#15,075
+Noobilite said:
+The reason this is hard to test is that the only places that don't take days to travel too have so little fuel use in a jump it's impossible to tell the difference visually. Hence it's incredibly hard or annoying to test.
+I have verified it and I was wrong , the jump increase corresponds directly to the supercruiser fuel consumption, not by a distance reduction.
+SPOILER: EVIDENCE
+
+
+
+
+
+
+
+
+
+
+
+Reactions:
+Six6VI, [PS4 Pro - PC] earthtone99, Zieman and 6 others

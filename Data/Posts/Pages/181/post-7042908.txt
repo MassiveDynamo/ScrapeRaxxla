@@ -1,0 +1,19 @@
+bitstorm
+Sep 24, 2018
+#3,608
+Jorki Rasalas said:
+I believe someone looked at the Journal file format when it came out & that has object types that include those. But can’t find my link to that journal spec. Should be googlable!
+
+From the journal schema, can delete if folk think this is a bit too "data-miney" for the thread :
+
+SPOILER
+
+Han_Zen said:
+Rouge planets would be like any other planet in a system, except that they wouldn't orbit any star.
+They could potentially switch systems, but this would be rare. Systems are big and planets move slow, so it wouldn't happen every Thursday morning. [big grin]
+
+I am still feeling triggered!
+
+Comets would probably do this, we know they're in the game. It's why I think they're not enabled, essentially technical difficulties around when it would transition or issues with it essentially being in multiple (instance) systems at once.
+Reactions:
+Scytale

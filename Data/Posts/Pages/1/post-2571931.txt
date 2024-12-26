@@ -1,0 +1,51 @@
+Macros Black
+Jul 21, 2015
+#2
+Mission: Obfuscated In The Outer Rim (Answering The Call Of Adventure)
+Summary: Data crystals are found by the Dark Wheel and supposedly contains a map with coordinates with an unknown context. Crypto-guys needs more crystals and wants to know where the Dark Wheel located these crystals and whether they are human in origin. Crystals do not appear in cargo hold when transported.
+Hypothesis: Data crystals contains spatial information about Raxxla (Place that isn't a place, door that is also the key. The myth). Delivering enough? crystals will reveal the map, coordinates and their context in the Outer Rim? Crystals could originate from the Mission: What Was Lost Will Soon Be Found and would therefore be human in origin?
+Observations: 23 jul 3301: Deliveries are very evenly distributed for from/to station/faction combinations?
+12. sep 3301: Varati has shown that the delivery combinations are hugely dependent on the system you are currently in, which of course seems self-evident. Bond Hub also seems more disposed for deliveries to Forsskal Hub than deliveries to Thompson Dock. In fact, all deliveries are to Forsskal Hub?
+
+SPOILER
+Upon delivery
+SPOILER
+Deliveries - Obfuscated In The Outer Rim
+From System Station Faction To System Station Faction Date Reward
+HIP 86063 Chasles Landing HIP 86083 Cartel HIP 86063 Benyovszky Dock HIP 86083 Cartel 14 sep 3301 19:02 57,230
+HIP 86063 Benyovszky Dock Social HIP 86063 HIP 86063 Chasles landing HIP 86083 Cartel 14 sep 3301 19:02 47,025
+HIP 86063 Benyovszky Dock Gold Netcom Systems HIP 86063 Chasles landing HIP 86083 Cartel 14 sep 3301 19:02 54,210
+HIP 86063 Chasles Landing Justice Party Of HIP 86063 HIP 86063 Benyovszky Dock HIP 86083 Cartel 14 sep 3301 22:20 48,725
+HIP 86063 Velho Platform HIP 86063 Cartel HIP 86063 Chasles Landing Social HIP 86063 Free 14 sep 3301 22:46 43,865
+HIP 86063 Chasles Landing HIP 86063 Cartel HIP 86063 Benyovszky Dock HIP 86083 Cartel 15 sep 3301 14:02 49,910
+HIP 86063 Chasles Landing Justice Party Of HIP 86063 HIP 86063 Benyovszky Dock HIP 86083 Cartel 15 sep 3301 14:02 43,470
+HIP 86063 Benyovszky Dock HIP 86083 Cartel HIP 86063 Chasles Landing HIP 86083 Cartel 15 sep 3301 14:17 52,610
+HIP 86063 Benyovszky Dock Gold Netcoms Systems HIP 86063 Chasles Landing Social HIP 86063 Free 15 sep 3301 14:17 47,100
+HIP 86063 Benyovszky Dock HIP 86083 Cartel HIP 86063 Chasles Landing Social HIP 86063 Free 15 sep 3301 14:17 45,320
+Varati Bond Hub Varati Blue Public Limited Varati Forsskal Hub Varati Blue Public Limited 15 sep 3301 20:19 40,860
+Varati Bond Hub Varati Blue Public Limited Varati Forsskal Hub Varati Blue Public Limited 15 sep 3301 20:19 44,355
+Varati Bond Hub Varati Independent Union Varati Forsskal Hub Varati Ring 15 sep 3301 20:19 41,840
+Asvienses Valz Dock Asvienses Imperial Society Hatmehing Celsius Dock Hatmehing First 16 sep 3301 18:09 58,360
+Kora Pin Yurchikhin Hub Kora Pin Free Arawere Korolyov Hub Mob Of Arawere 16 sep 3301 18:46 61,350
+49 Arietis Gaiman Dock 64 Arietis Front 49 Arietis Konscak Colony 64 Arietis Front 19 sep 3301 21:31 47,595
+49 Arietis Gaiman Dock 49 Arietis Defence Force 49 Arietis Konscak Colony 49 Arietis Gold Council 19 sep 3301 21:31 45,465
+49 Arietis Gaiman Dock 49 Arietis Blue Bridge Comms 49 Arietis Konscak Colony 49 Arietis Gold Council 19 sep 3301 21:31 58,445
+49 Arietis Fisk Landing 64 Arietis Front 49 Arietis Gaiman Dock 49 Arietis Gold Council 20 sep 3301 00:00 54,145
+49 Arietis Fisk Landing 64 Arietis Front 49 Arietis Gaiman Doc 49 Arietis Defence Force 20 sep 3301 00:00 56,425
+49 Arietis Gaiman Dock 64 Arietis Crimson Partnership 49 Arietis Konscak Colony 49 Arietis Left Party 20 sep 3301 07:45 54,190
+49 Arietis Gaiman Dock 49 Arietis Defence Force 49 Arietis Konscak Colony 49 Arietis Blue Bridge Comms 20 sep 3301 07:52 44,195
+49 Arietis Gaiman Dock 49 Arietis Blue Bridge Comms 49 Arietis Konscak Colony 49 Arietis Blue Bridge Comms 20 sep 3301 07:52 44,945
+49 Arietis Fisk Landing 64 Arietis Front 49 Arietis Gaiman Dock 64 Arietis Front 20 sep 3301 08:06 58,655
+49 Arietis Fisk Landing 49 Arietis Gold Council 49 Arietis Gaiman Dock 64 Arietis Front 20 sep 3301 08:06 55,605
+49 Arietis Konscak Colony 49 Arietis Gold Council 49 Arietis Gaiman Dock 64 Arietis Front 20 sep 3301 08:20 43,465
+49 Arietis Konscak Colony 64 Arietis Crimson Partnership 49 Arietis Gaiman Dock 49 Arietis Blue Bridge Comms 20 sep 3301 08:33 57,805
+6 aug - 13 sep
+
+SPOILER
+
+
+21 jul - 6 aug
+SPOILER
+Last edited: Mar 1, 2020
+Reactions:
+simulacrae, HamletReigns, CMDRCorrMorningstarFelian and 4 others

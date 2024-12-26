@@ -1,0 +1,35 @@
+Jorki Rasalas
+Mar 19, 2019
+#6,845
+Xaintly said:
+That's a valid point. The codex entries could be 100% garbage.
+
+However, I think it's safe to assign all knowledge/speculation about Raxxla with a confidence score based on how close to "official statement" it is.
+
+David Braben telling Drew Wager (presumably a friend) that Raxxla is "definitely in the game and we know where it is" = 100% confidence (assuming DB & DW aren't known liars/trolls, and he was telling DW this on purpose knowing he'd tell others as a master trolling plan)
+
+The other official statements made by FDev on the topic = 100% also.
+
+Now the codex... we know that at one point, FDev considered clues to Raxxla to be a "tiny bit obvious", and yet nobody has found anything that seemed to point in a definite direction in like 5 years.
+If FDev wanted to continue their policy of being unhelpful, they could just have not said anything. There was no reason to add Raxxla/TDW entries to the codex.
+
+The only reason to mention any specific names, people, places or topics is either;
+
+When we ask "what could cause FDev to create these codex entries", this is the differental diagnosis. We can assign probabilities to these possibilities.
+
+So now I think the codex is 85% chance meant as a hint.
+Assuming they don't want only English-speaking players to find Raxxla, we can see what information in the codex is conserved across translations.
+For each thing, you can assign a chance based on how likely it is that you think it's a hint. If there's any other reason you can think of for including this element, try to guess what the odds are that it was chosen deliberately vs randomly.
+
+
+But for me, it gets less reliable the farther out you go.
+The poem "Astrophel and Stella"? Well that's based on a name similarity to a possible hint, and it's only accessible in 1 language really. I'd give it 50% tops.
+Leaping from vague descriptions of someone's face in the poem to astronomical features? Well, at best like 10% of the poem is a clue, and interpreting it correctly is like another 10% chance.
+So poem analysis seems risky: 10% * 10% * 50% * 99% * 80%= 0.4% chance
+
+Etc. I mean, assuming Raxxla is out there, you can always just explore aimlessly without purpose, like a vagabond, or you can use the codex for inspiration on places to go.
+Click to expand...
+
+Repped. Good to see some logic applied to the problem instead of fanciful mythology!
+though might take issue with some of your estimates, think they’re a little on the high side
+but then, I’m an old sceptic

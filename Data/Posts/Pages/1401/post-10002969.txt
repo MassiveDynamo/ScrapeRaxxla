@@ -1,0 +1,30 @@
+cmdr_imonix
+C
+Nov 23, 2022
+#28,013
+Louis Calvert said:
+No problem, happy to help.
+Thanks for the updated directions. I tried my best to follow them and wasn't able to reproduce the blinking (though my stellar dead reckoning navigation is less than optimal
+I also matched the disappearing star from your first video too, same steps and frames as before:
+
+SPOILER: STARMATCHING THE VIDEO
+
+
+
+
+
+
+
+I also re-checked the 'blinking stars' line against planets in system, just to make sure that they weren't transiting bodies (they're not ).
+I'm absolutely sure I wasn't in the same exact location as you, but I tried to get somewhere close. What I wouldn't give for some sort of space GPS system
+
+I don't know enough about the skybox distant stars technique to be able to call this a bug. I can say that you see stars that I didn't, and it seems some stars were visible for me that weren't in your videos (as per previous post). It's definitely weird!
+
+trying to identify the star/direction is a great idea. I tried my best with this one since it's a single star, the closest I got was COL 359 Sector CU-H C10-3 (38.2ly). It's definitely not that star, but it's in the ballpark direction. I wasn't able to narrow it down any more.
+
+Given the relative magnitude of the apparent star (it appears to be pretty big/bright), I couldn't see any suspect stars on Galmap in that direction that were close. Either way, if someone else goes there to confirm at least this will help narrow the direction for this check.
+
+Click to expand...
+To anyone who wants to replicate the flashing, I probably should add that there seems to be a point in space, a consistent distance from Star A to Star B where one can drop into the normal space exactly between the background binary (seen in your post behind Star B) and the background Trinary (behind Star A) which is around 133,955 Ls with Star A selected. Note that when the binary disappears, the trinary immediately appears 180 degrees behind and vice versa. Once in this exact position in normal space (which does take a while going back and forth between the background binary and background trinary) you can adjust the ship's speed heading in one of the directions to fine tune. The blinking appears to be the result of the binary (or trinary) slowly moving away from (or towards) your ship. The speed of your ship to see this flashing seems dependent on ship angle whilst viewing the binary or trinary but is anywhere between 2 km/s or 119 km/s. In my video, I picked the trinary behind Star A and put the ship into reverse. It is also possible to see both out of the cockpit's side widows and use thrusters to stay in the middle of the two.
+Reactions:
+Louis Calvert

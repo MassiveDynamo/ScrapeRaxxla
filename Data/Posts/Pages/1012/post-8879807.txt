@@ -1,0 +1,9 @@
+Chris Cuttner
+Dec 31, 2020
+#20,236
+Jorki Rasalas said:
+That’s how it used to work, but I tried this afternoon & I can’t select the asteroid belt in the sysmap, it says no clusters are selectable (even if I’ve got one showing in the holographic display). None show in the nav panel.
+
+i can't select it either, but (on the ps4) i can bookmark it when i hover over the belt in the system map. and via the bookmark it is then selectable.
+Reactions:
+Jorki Rasalas

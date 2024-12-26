@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Apr 7, 2021
+#22,777
+SergMx said:
+My opinion.
+To count the coordinates of a galaxy in a grid rather than in polar coordinates centered at the galactic nucleus is even worse than Ptolemy times.
+Only the polar system can more or less accurately describe the galaxy, otherwise the galaxy would be a cube.
+Maybe I already asked, but remind me please, the names of regions and their number are astronomical names or made up by the developers?
+The problem there .. the game grid is based on a human-centric model so for least work and minimize chance of screwing up the conversion it makes sense to operate on the in-game grid based off Sol's location.
+Reactions:
+clavain

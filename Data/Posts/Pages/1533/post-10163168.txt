@@ -1,0 +1,33 @@
+Jorki Rasalas
+Jun 13, 2023
+#30,651
+darkflemish said:
+Rough idea to maybe to catch a rogue planet, which Raxxla could be.
+Little bit based on that project of scanning each grid around Sol.
+
+
+How many systems are there in a bubble of Sol of:
+10ly
+20ly
+30ly
+
+The idea is to place in each system one cmdr. (question is how many cmdrs must we have for this in each bubble)
+
+The cmdr scan the system and take notes about how many bodies in the system atm.
+
+Each of them do this each 1 or 2 hours to check if something is changed in bodies in their system.
+
+Maybe one cmdr noticed that one body has gone and another noticed one body is added.
+
+Maybe with this we can see from and to which system a rogue planet goes. If a rogue planet exists, of course
+Rogue planets exist IRL and there is a mechanism for them to exist in-game from the journal file specification.
+
+You don’t need to go to those lengths, a single cmdr could do it. Just visit each system to be tested, pull up system map and enter the orrery view.
+
+By definition a rogue planet is not captured by the gravity fields within the system to go into a closed orbital path, it’s just wandering through, so for a rogue planet the orrery view would show its orbit entering and leaving the system in a parabolic or hyperbolic path.
+
+
+Edit
+There is no evidence, either in-game or the lore or the novels, that Raxxla is a rogue planet. That probably originated in Drew Wagar’s fan fiction which is an entertaining read but is not canon for ED.
+Reactions:
+Darrack, CMDRCorrMorningstarFelian and Han_Zen

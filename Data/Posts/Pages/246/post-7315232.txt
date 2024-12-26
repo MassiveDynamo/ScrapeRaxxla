@@ -1,0 +1,14 @@
+Comandante
+Jan 4, 2019
+#4,918
+xNicoyAx said:
+Yeah, you were able to select permit locked systems. This is how dead reckoning was possible, in a way.
+
+I thought so. Thanks for clarifying, the memory is so distant I couldn't recall. Cheers!
+
+Edelgard von Rhein said:
+I don't remember having problems selecting them but if you type the system name in it should do that for you.
+.
+Most individual permit-locked systems in the Bubble now say which faction gives the permit. A couple say they are locked by the Pilots Federation and no permits are issued. Some say nothing at all other than 'X system permit required'. Are you checking the different messages given when you try to hyperspace to them?
+
+I was trying to select Polaris in the galaxy map - however, the 'select' function is red and cannot be selected, meaning I cannot select Polaris. I've done it before - I thought, and a post from a long time ago involved a CMDR actually flying to Polaris over a course of many hours only to find that because systems are instanced, they had got there but not got there in a kind of quantum-cat kind-of-way. Which means that s/he must have been able to select it. Not any more, it seems to me.

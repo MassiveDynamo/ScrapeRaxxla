@@ -1,0 +1,9 @@
+Jorki Rasalas
+Nov 11, 2024
+#35,292
+seeplay said:
+Nobody ever do that in game development. All what you see in game is stored on your local machine hard drive.
+Its would be encrypted or have different name but game model should be in game files. If its never been found i guess that there are no secret model in game after all.
+
+maybe it's some kind of reward as paint for cobra mk 3 or something. Cant believe that in 10 years nobody found it
+I don't think that's true as it's already been done in ED. As I understand it while the universe is held in code in each player's machine, and expanded for loading during the "hyperspace jump" sequence, hand-crafted systems and poi are downloaded. During the Formidine Rift search (in-game development of Drew Wagar's Reclamation book) many of us had the game crash to desktop because there was a programming problem in downloading the FRift bases from the server.

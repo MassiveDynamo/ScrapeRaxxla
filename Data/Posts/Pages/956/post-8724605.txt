@@ -1,0 +1,11 @@
+Vasquess
+Sep 30, 2020
+#19,107
+Jorki Rasalas said:
+We can’t, not completely, but it’s all we’ve got.
+
+Most systems in/around the bubble would have been scanned early after the game release & presumably therefore before many people had adopted EDSM or the apps (e.g. EDDiscovery) that feed it with data. So there are going to be holes in EDSM coverage until later commanders repeat the visits to those systems and upload.
+And I now have another problem. Even when you try to collect data from EDDN stream, most systems in the bubble are completely visible when you enter them, i.e. not many commanders scan them. => No events on EDDN => no data to collect. I now have ~16000 systems in a (300Ly)^3 cube around Sol. But ~4000 of them do not have body data… Anybody likes to scan 4000 nav beacons? That triggers the necessary events.
+Last edited: Oct 1, 2020
+Reactions:
+Jorki Rasalas, [PS4] Filthymick420 and alexzk

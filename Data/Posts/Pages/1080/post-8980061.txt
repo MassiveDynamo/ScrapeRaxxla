@@ -1,0 +1,9 @@
+alexzk
+A
+Mar 3, 2021
+#21,597
+Jorki Rasalas said:
+There is definitely a bug in the forum. I cant edit a post- when I try the text to be edited just disappears. Tried it on my iPad, now trying on the PC & it still happens!!
+That were many threads since yday. You need open dev tools and reset cookies/application states / whatever mentions this site. Inara will logout as well in result.
+Reactions:
+Rochester

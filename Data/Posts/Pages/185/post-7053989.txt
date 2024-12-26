@@ -1,0 +1,12 @@
+Jorki Rasalas
+Sep 30, 2018
+#3,685
+Han_Zen said:
+That's correct, as far as I can read. Interlopers that are caught by the system, are no longer rogues. As soon as they have a permanent orbit, they are par of the system.
+
+It's speculated that Venus may be an ex rogue, because it has retrograde rotation.
+
+Objects like the comet Oumuamua, are real rogues, that just visit our system.
+
+Yes, that might be why RoguePlanet is only a parameter in the Star Class type. If a rogue reaches a system with other objects then it might well be captured and become a “naturalised immigrant”.
+Last edited: Sep 30, 2018

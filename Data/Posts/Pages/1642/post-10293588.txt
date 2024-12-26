@@ -1,0 +1,32 @@
+CMDRCorrMorningstarFelian
+Jan 2, 2024
+#32,826
+So, interesting development. The Link was just reporting as a non-player faction originally. This morning, it changed to related to the squadron Sezione 42 which has an encrypted description at https://inara.cz/elite/squadron/13783/.
+
+Original text:
+Sjivb ablfcrjtnrb, fm qubstf ojrsbl af ajtf leb lf afvfanmn ejf trnvjtn ij iulb, ejf sbduftn ij strjaj ba ejf trnvjtn kb. Vunf sjobrb lef sfjkn? vunf sjobrb obrleé sfjkn mbiij sbzfnmb abslrfttfvj af umn squjarnmb? fi tun obmsfbrn è jmlnrj inmtjmn ajiij iulb. Mnm snmn ib ankjmab dfustb aj onrtf, ij vbrj ankjmaj è: l’è Fifnm? B sb l’è, anv’è? B sb anv’è, lef è? B sb lef è, obrleé? Be?! Fm qubstn kjmtn af stbiib jajdfjtn su um nlbjmn af nmab drjvftjzfnmjif, ij iulb sf afsofbdj afmjmzf jf kfmuslnif bssbrf vfvbmtf fmljojlf af rnkobrb fi vbin abi vuntn. Fmdjmmjtf ajiij iulb abiib stbiib lnkb cjibmb lf rnmzjmn fmtnrmn obr onf sojrfrb fm um pjttftn af ouisjr. Mbiij iulb knitf lrbanmn af vbabrb, lblef, jllbljtf aj qubiij stbssj iulb leb fanijtrjmn. Ij vbrftà è mbii’nslurn vuntn abi lnskn, inmtjmn ajiij iulb fmdjmmjtrflb. Ij iulb knstrj snin lfò leb vunib, fi pufn rfvbij tuttn, è bqujib, è fkojrzfjib, tuttn rflnorb, muiij mjslnmab. Mbi vuntn mnf lbrlefjkn Fifnm, mbi vuntn tnrmfjkn jii’nrfdfmb, mbi vuntn trnvfjkn fi mnstrn cuturn...
+
+Independent Raxxla Hunters decoded it as...(Thanks to @El Saico).
+
+This is a monoalphabetic cipher, the substitution alphabet starts with "jpl". Here's the plaintext:
+Salve decifratore, in questi parsec di dati che ci dividono hai trovato la luce, hai seguito la strada ed hai trovato me. Vuoi sapere chi siamo? vuoi sapere perché siamo nella sezione descrittiva di uno squadrone? il tuo pensiero è ancora lontano dalla luce. Non sono le domande giuste da porti, la vera domanda è:c’è Ilion?E se c’è, dov’è? E se dov’è, chi è? E se chi è, perché? Eh?!
+In questo manto di stelle adagiato su un oceano di onde gravitazionali, la luce si dispiega dinanzi ai minuscoli esseri viventi incapaci di rompere il velo del vuoto. Ingannati dalla luce delle stelle come falene ci ronzano intorno per poi sparire in un battito di pulsar. Nella luce molti credono di vedere, cechi, accecati da quella stessa luce che idolatrano. La verità è nell’oscuro vuoto del cosmo, lontano dalla luce ingannatrice. La luce mostra solo ciò che vuole, il buio rivela tutto, è equale, è imparziale, tutto ricopre, nulla nasconde. Nel vuoto noi cerchiamo Ilion, nel vuoto torniamo all’origine, nel vuoto troviamo il nostro futuro...
+
+Then we let Google Translate work some magic...
+Hello decipherer, in these parsecs of data that divide us you found the light, you followed the path and you found me. Do you want to know who we are? do you want to know why we are in the description section of a squadron? your thoughts are still far from the light. These are not the right questions to ask, the real question is:
+is Ilion there?
+And if he is there, where is he?
+And if where is he, who is he?
+And if who is it, why? Huh?!
+
+In this blanket of stars lying on an ocean of gravitational waves, light unfolds before tiny living beings incapable of breaking the veil of the void. Deceived by the light of the stars, they buzz around us like moths and then disappear in a pulsar beat. In the light many believe they see, blind, blinded by that same light that they idolize. The truth is in the dark void of the cosmos, far from the deceiving light. The light shows only what it wants, the darkness reveals everything, it is equal, it is impartial, it covers everything, it hides nothing. In the void we search for Ilion, in the void we return to the origin, in the void we find our future...
+Click to expand...
+
+Any thoughts as to is this FDev saying we found something important. It seems like a lot of trouble to have to gone through otherwise.
+
+The Ilion reference seems oddly specific:
+Ilion - Wikipedia
+en.wikipedia.org
+Last edited: Jan 2, 2024
+Reactions:
+Planewalker, Han_Zen and Louis Calvert

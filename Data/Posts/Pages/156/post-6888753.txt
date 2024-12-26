@@ -1,0 +1,16 @@
+bitstorm
+Jul 25, 2018
+#3,114
+Han_Zen said:
+It would just mean that the body was not in any orbit. It would not be moving fast enough to change system during the lifetime of the game(unless it has a hyperdrive).
+
+We actually have a bunch of obfuscated unscannable celestial bodies in ED. The comets are not yet visible(ADS probably needs an upgrade[big grin]), but they are there. Some even have stations in orbit.
+
+The comet mechanics would be a convenient way to hide a celestial body from detection of regular scanners.
+
+Yeah if you had a framework in place for ED and you had to add Raxxla in there, leveraging comet mechanics would seem to be a good fit.
+
+Comets weren't enabled because presumably there's some issue with them. You can imagine one complication might be that they could effectively be in multiple system instances at once, like where you try to supercruise to a nearby start but the instance never triggers. Difficulty might have been, when does the transition happen.
+
+But if Raxxla is a comet-like this would essentially make it "undiscoverable", thought technically as Braben's claimed "of course! [it's in the game]".
+Last edited: Jul 25, 2018

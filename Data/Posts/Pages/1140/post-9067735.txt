@@ -1,0 +1,13 @@
+SergMx
+Apr 8, 2021
+#22,781
+alexzk said:
+It is ...the cubes
+EDExploration - HerzbubeWiki
+wiki.herzbube.ch
+When I wrote about the regions I did not mean sectors, namely the regions of the game. As far as I remember these regions, a strange shape was introduced into the game with the codex.
+Measure the galaxy in cubes is not correct, it is round and the concentration of stars near the center is very large i.e. the accuracy will fall.
+The sector of the polchr system just takes this into account. To increase the number of stars in the central cubes, a correction for this must be introduced in the grid, in the polar one it will be by itself.
+And I believe the grid and distance from the Sun are then recalculated from the polar system.
+Reactions:
+simulacrae and [PS4] Filthymick420

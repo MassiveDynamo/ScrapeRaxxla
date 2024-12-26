@@ -1,0 +1,8 @@
+yelboc
+Aug 28, 2022
+#26,912
+Jorki Rasalas said:
+Michael Brookes clarified years ago that DB meant to say “number stations” (a Cold War operation, Google it) and what this meant was the Unregistered Comms Beacons. The Federal Space Port Numbers are meaningless, derived from the system coordinates, they have been analysed already & somewhere theres at least one thread dedicated to the topic.
+FDev themselves told us there is no secret in the federation Station numbers - just eye candy to make them seem more impersonal. They are not even unique - some stations share numbers, because of the way they are calculated from the system ID.
+Reactions:
+Crimson Echo, Jorki Rasalas and Rochester

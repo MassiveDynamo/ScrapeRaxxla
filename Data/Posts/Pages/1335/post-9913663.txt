@@ -1,0 +1,8 @@
+Cunder
+C
+Aug 14, 2022
+#26,685
+It's a simple fly out for 500ly at a direction. But just that is only the info given to us without a direct area where supposed to aim for.
+
+Most likely a planet, nothing else comes to mind.
+Last edited: Aug 14, 2022

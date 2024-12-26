@@ -1,0 +1,8 @@
+Emperor
+Jan 8, 2024
+#32,937
+Killerskullmk said:
+How do you make the spectrogram so refined? where do you get these audios from?
+Audacity is the tool most people use and the audios come from recording the game (music off) through Audacity.... spectrogram settings take a bit of fiddling with... if you're trying to repeat someone else's findings generally they publish the setting they use... there's a few examples in the last few pages on here (especially for the landscape signal currently being investigated)
+
+P.S. those two pics are from the cannon discord... not mine.. ;-)

@@ -1,0 +1,10 @@
+Han_Zen
+Apr 13, 2022
+#25,951
+Zieman said:
+Belt Clusters
+Yeah. Ring objects i general are interesting. Stellar and planetary rings are probably basically the same object, in the code. If FD can manipulate the density of rocks in a ring, they could have very few or even a singular rock orbiting whatever they want. Planetary rings aren't scannable without probes and they require visual contact.
+
+We know from Sol that ring can be 'empty'. There could be similar setups in other systems.
+Reactions:
+Adel and Zieman

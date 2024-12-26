@@ -1,0 +1,23 @@
+Jorki Rasalas
+Mar 22, 2019
+#6,963
+Thatchinho said:
+I don't think you can take the date of Brewer's incorporation / start of starport manufacture as a limiting date.
+
+The TDW station is just said to be a Toroid.
+
+In the no-artificial gravity ED universe, the Toroid is pretty much the most effective station design if it's intended for long term habitation:
+
+- The spin is stable
+- No contrarotating parts are needed to maintain the stability of the spin
+- Much less wear and tear as a consequence.
+- Full effective gravity at the habitation sections
+- Zero grav docking, and zero/very low grav loading/unloading
+- Day/night can be created via the spin and orientation
+
+It'd be surprising if Toroid stations weren't in use from very early times.
+
+(Just going to add for clarity that it's not the optimal design for all types of station. The optimal design will change depending on what a station's purposes are.)
+Click to expand...
+
+It might even be a Guardian station, of some unknown shape not constrained to one of the human station types.

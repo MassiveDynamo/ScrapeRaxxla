@@ -1,0 +1,26 @@
+Macros Black
+Mar 4, 2020
+#15,553
+Weapons-test
+Next: https://is.gd/WXq4Yx
+
+Imperial Cutter impersonating as NPC Pirate: https://s.orbis.zone/68yc. 2 pips to SYS.
+Weapons Loadout Distance (m) Shield down (seconds) Hull to ~50% (seconds) DPS Video
+oc.au.mc+ef.beam 600 163 6 (midships) 149.3 GHmYB4Gjqk0
+oc.au.mc+ef.beam 1200 183 7 (stern) 149.3 6DTT28IT6-k
+oc.in.mc+ef.beam 600 155 4 (midships) 130.7 6ZzcYwAPbls
+oc.in.mc+ef.beam 1200 206 11 (midships) 130.7 5ubjT8ojEYM
+eff.beam 600 210 12 (midships) 154.9 0qO6rTGvurA
+eff.beam 1200 271 16 (midships) 154.9 UcL1hJ5B61c
+all.Pulse. Serious heat 600 320 6 (midships) 82.6 7mDojlHjOpo
+mc+ef.beam 600 164 7 (midships) 139.5 YysyKicOH_k
+mc+ef.beam 600 287 8 (midships) 139.5 Fire Beams, then all
+mc+beam+burst 600 180 6 (midships) 137 1 4E Burst
+all oc.au.mc 600 158 9 (midships) 146.2 xVc1PKb3z04
+sr.au.mc 600 125 12 (midships) 155.3 New ship
+sr.au.mc 600 150 12 (midships) 155.3 hxJ2BCqO_WE
+1 4H Beam 600 140 6 (midships) 159.6 aH8mIHKOvhk
+Doubleshot Frags 600 68 8 (midships) 502.9 ite8v6hea-c
+Last edited: Apr 9, 2020
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and RaNaketh

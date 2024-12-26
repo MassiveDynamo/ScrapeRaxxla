@@ -1,0 +1,10 @@
+Jorki Rasalas
+Sep 6, 2022
+#27,131
+Well, updated my comet sheet. Spent all day on Placet ...
+"A place that isnt a place", cos it's a Placet!!
+Took a long time...85 bodyids, 24 of which were comets, and to add insult to injury (my hands are definitely hurting!) no nav beacon and, presumably because I'd visited before the FSS didnt populate the journal file, so I had to track dwon each of those 84 signals manually!
+
+edit: I've gone off comets!!
+Reactions:
+Han_Zen, Ataxia, Rochester and 1 other person

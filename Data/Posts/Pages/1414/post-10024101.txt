@@ -1,0 +1,21 @@
+Louis Calvert
+Dec 6, 2022
+#28,274
+I have an idea on how we might debunk this.
+
+If we can find just one more video example that matches the appearance of either of the two videos we have* that's either:
+
+a - a brown planet.
+b - any other planet at all.
+
+If a) then that's three separate times we see a similar planet, and no counter-examples.
+If b) then it's more likely to be a glitch that's pulling random planet models in, brown planets are common, but if it's random or based on where someone jumps from (like it's mirroring the nearest planet) then there will be examples of non-brown planets.
+
+c - ask Fdev somehow for a straight answer. Got to include this one.
+
+I think finding three separate videos of a similar brown planet in Witchspace would be good enough for me to think "Yeah, this is worth more investigating", a single example of any other planet type will be enough to disprove that this is special (even if it's not a bug).
+
+What do y'all think?
+
+
+*- i.e. there are some 'witchspace bug' videos I've seen that is clearly a bug or glitch, like one where the surface of the plant the CMDR is near remains in the witchspace tunnel as they jump, very clearly a bug. There's one where someone jumps through a sun when they land, etc. So by this I mean if it looks basically the same as either of the two we have.

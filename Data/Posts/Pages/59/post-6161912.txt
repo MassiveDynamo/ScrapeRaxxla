@@ -1,0 +1,83 @@
+Louis Calvert
+Nov 26, 2017
+#1,163
+Thatchinho said:
+Hmm, do we have a date pinned down for Jameson's strike with the Mycoid Missile?
+
+Anyway, while we don't have the jump range of early hyperdrive system's confirmed, in some respects it's not the jump range that's the key thing, it's the distance travellable per unit time that reall.
+
+So we know that Sol -> Achenar involves some distances that are between 8.63 and 8.74 ly, but that's not the critical point.(https://forums.frontier.co.uk/showt...-Discussions?p=6159264&viewfull=1#post6159264).
+
+Sol -> Achenar is 139.5 l direct. Hyperspace was discovered in the early 22nd century. Achenar was colonised in the mid 23rd century.
+
+In general the expansion following the discovery of hyperspace was unmanned probes followed by manned craft.
+
+Achenar was specifically chosen by Duval because it had an ELW capable of supporting human life. - that strongly suggest the system had been scouted by unmanned probes first.
+
+It's stated that the journey was long and treacherous, but there's no indication that there was a gen-ship or suspended animation thing going on - Duval chose and lead the settlement of the system (via a convoy of ships, most of which arrived). She also ruled the system for a while before dying in a speeder crash.
+
+So let's pick a range of travel times and that gives us our range of travel distances per unit time.
+
+a. - 1 year = 139.5ly per year
+b. - 5 years = 27.9ly per year
+c. - 10 years = 13.95ly per year
+d. - 50 years = 2.79ly per year
+
+Let's then apply that for travel ranges, assuming for simplicity approx 1,000 years of hyperspace travel prior to the type 2b.
+
+Max range of travel =
+
+a. 139,500 ly
+b. 27,900 ly
+c. 13,950 ly
+d. 2,790 ly
+
+Some obvious assumptions there about there being a sufficient jump success % to make it viable, but Duval's mission in the early days indicate that's a reasonable assumption.
+
+Equally, the above calculations assumes no improvement in hyperdrive tech whatsoever from that used for Duval's journey to Achenar.
+
+So there we go. Some calculations for the maximum distances major colonisation expeditions could have reached by 3150 using only the earliest hyperdrive tech.
+
+All 100% lore and in-game info with maths applied.
+
+
+It's not unreasonable to assume that hyperdrive tech improved over those 1,000 years either, so those limits can realistically be upped.
+
+And that's colonisation expeditions - the bounds on unmanned and manned exploration can reasonably be put considerably higher.
+
+That's some nice thoerising. You're almost certainly right and it was probably early FTL - I don't think you need FTL to make that trip though.
+
+Option e: It was a fleet of early STL ships using cryo-stasis and high-G drives (something like an advanced version of an Orion drive, or antimatter drives (no clue if they exist in ED)).
+
+Explanation:
+SPOILER
+
+
+
+Regardless of the exact travel method of Duval's Empire fleet - I don't think your calculation for the range of human expansion based on that reflect the reality of ED (while I do totally agree they accurately reflect the theoretical speeds of FTL given the distances involved etc.).
+
+Explanation:
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+The only way I can think of that Raxxla is not in the bubble is this (haven't read this theory before, but I'm sure it's been mentioned somewhere):
+
+A freak accident (Hyperdrive failure, wormhole, alien abduction, whatever!) transported someone or many someones to Raxxla (for this let's call them the Robinson Family because I loved the Lost in Space TV series as a kid). They arrive, and don't know where they are, they can't get home and the ship crashes. They explore and make a home. During this time they transmit distress call(s)... That call(s) contains the Robinson Family logs detailing Raxxla, a planet full of awesomeness.
+
+The distress call take a while to get back to the Bubble (no FTL comms on the Robinson's crashed ship). It's received by someone in the bubble, let's say in 2814. BAM. Raxxla discovered, but not discovered. You can't get there because all you've got is a description, mysterious logs and a vague location where the transmission came from. You can maybe tell when it was sent, given the transmission date, and therefore you can maybe tell how far it's travelled - but, what if the Robinsons don't know when they are? Say they suffer a Hyperdrive malfunction in 2350 and it plops them in orbit of Raxxla 300 years in the past - would they know? If they don't know where they are, they probably can't calculate when they are... right?
+
+So - then this radio call is picked up by a group and they listen to it, and what's being described is a planet of wonderous alien tech, etc. They start searching. TDW is born. The logs that are detailed in this thread could easily be things like recordings of the distress call that detail Raxxla stored on data crystals "maps" of possible origin sources for the signal, that sort of thing. Maybe the radio transmission is known to come from the outer rim of the Galaxy somewhere, but the exact location can't be discerned since all that exist now are recordings - obfuscated in the outer rim...
+
+You could evensay that's what Ryder found - he discovered the recordings, and maybe worked out that if he took an FTL ship away from the origin point he could jump ahead of the signal wave and pick up the recordings "fresh" - if he did that with a team of people in different parts of the galaxy, each collecting the recording he would be able to triangulate the origin point... hence, he discovered a clue to the lcoation.
+
+It's even possible that - for example - the signal that was picked up by the Dynasty expedition was that distress call, they essentially FTL'd past the wavefront...maybe that was a clue to how to find more clues - you need to travel to where the Radio wavefront will be and listen, if you get the timing right you'll hear it... so we know the Zurara went out there around 3270, so if they picked up the signal around then, you need to travel approximately 30ly further out and just listen...
+Last edited: Nov 26, 2017

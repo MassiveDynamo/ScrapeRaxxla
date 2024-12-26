@@ -1,0 +1,40 @@
+simulacrae
+May 23, 2020
+#16,628
+Merlin StWahgwaan said:
+And LOL, i love how you put "import them into sketchup"" and "relatively painless" lmao i cant even figure out how you would create what you did, lmao, I just tried to recreate what you did, but I dont see any place to input direct coordinates for the corners lmao
+
+EDIT: I can find the text tool to SEE the coordinates, but cant find a place to enter them to move the triangle
+
+Ahh sorry - ya I guess ive been doing it long enough to think it painless
+Ya ok so I will try to be more specific. - And again this is just the way i do it ( and I only ended up doing it this way because I was fiddling around with sketchup when all this started back in the day...)
+Not to bore people
+SPOILER: THE METHOD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reactions:
+Han_Zen and Machina Ergo Sum

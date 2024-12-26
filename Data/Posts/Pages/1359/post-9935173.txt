@@ -1,0 +1,6 @@
+CmdrKafka
+Sep 8, 2022
+#27,166
+Jorki Rasalas said:
+When I looked at my ship parameters I'd lost the supercharge, that never happens with any other NS boost, it lasts until an fsd jump, you can even log out of the game & ii's still supercharged!
+Can you reproduce this? Is it a bug or a feature preventing you from jumping somewhere perhaps. I’ve long suspected there are certain systems that were meant to be unreachable but fsd boosts/supercharge and fleet carriers may now give access. Or fdev maybe has added some workarounds to prevent it (like losing your supercharge)

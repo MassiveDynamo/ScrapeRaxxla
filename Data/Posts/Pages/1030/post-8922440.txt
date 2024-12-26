@@ -1,0 +1,9 @@
+Darth Ender
+D
+Jan 27, 2021
+#20,593
+i would much sooner believe that green glow is a graphics artifact than something legit in the game to be discovered.
+
+There are lots of times i leave the system map and the entire screen gets a white overlay momentarily as some shader switch artifact. Or instances when i'm in a twilight part of a ring and the roids are lit up "wrong" with shadowed parts of the roid being where they shouldn't be.
+
+Chasing this is almost certainly just chasing "bugs" in the lighting/shader code.

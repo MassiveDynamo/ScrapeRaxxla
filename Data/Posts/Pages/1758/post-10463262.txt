@@ -1,0 +1,9 @@
+Ian Doncaster
+Oct 29, 2024
+#35,148
+Jorki Rasalas said:
+it's probably loading to the hard drive
+In that case disk speed is going to be more of a constraint than network speed.
+(I did notice a big speed up when I moved from Windows to Linux to run ED, so you might be able to get a bit faster by turning off Windows Defender temporarily while the update is running)
+
+As I understand it, the Steam downloader patches the files in a different way which probably is more network-limited.

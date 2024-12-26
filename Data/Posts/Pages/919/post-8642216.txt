@@ -1,0 +1,21 @@
+alexzk
+A
+Aug 12, 2020
+#18,366
+...well, [tinfoil] that new "line" in Elysian SHORE ...codex says about pirates too [/tinfoil] ... and I saw 1 BH near that line there, I'm thinking to fly there, any way I wanted to go somewhere deep. That place is not explored at all in EDSM.
+Couple orients where line is:
+step: 74, positive:[10118.4; 10118.4; 10118.4]
+step: 74, negative:[10118.4; 10118.4; 10118.4]
+Blie Thoi ZH-I c23-0; 19.63 (ly)
+step: 75, positive:[10118.6; 10118.6; 10118.6]
+step: 75, negative:[10118.6; 10118.6; 10118.6]
+Blie Thoi ZH-I c23-0; 18.17 (ly)
+step: 76, positive:[10118.8; 10118.8; 10118.8]
+step: 76, negative:[10118.8; 10118.8; 10118.8]
+Blie Thoi ZH-I c23-0; 18.03 (ly)
+step: 77, positive:[10119; 10119; 10119]
+step: 77, negative:[10119; 10119; 10119]
+Blie Thoi ZH-I c23-0; 19.23 (ly)
+Click to expand...
+Reactions:
+John Stoutbeard, PeteACarter and [PS4] Filthymick420

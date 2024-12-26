@@ -1,0 +1,15 @@
+Edelgard von Rhein
+E
+Aug 24, 2023
+#31,366
+I think it was 655.36LY but yes, it was a bug. It is not canon that there were wormholes in FE2, that was just made-up rumour by players to 'account' for it.
+
+Neutron star boosts gives you 4x the jump range you would normally have and cannot be combined with a FSD injection. If you apply one after gaining the other, it will overwrite it, not add to it.
+
+I have seen reports of players exceeding 90 LY jump range in maxed-out Anacondas but I doubt that this is required to reach Raxxla. Prior to engineering, I think the best that could be achieved was 41.34LY and such a build is not very practical (scanners had mass at launch so such a build then would not have been able to locate normal planets, never mind anything hidden). It is the kind of build used for long distance racing, especially the A* Challenge.
+
+My feeling is that you will not need a jump range of more than 40LY to find Raxxla, assuming it was indeed findable when ED launched. If it is indeed in the Bubble, the star density is such that you should be OK even with a jump range of ~17-18LY (even a Federal Dropship could manage this prior to engineering, with a minimal exploration loadout).
+
+If Raxxla is not in the Bubble, perhaps if the (hidden) lore is that it was at first reachable only by a mis-jump, then I still feel that 30LY-ish should be OK. In that scenario, I start to look at the Omphalos-like ring on the sky, Barnard's Loop, and wonder if it might be at the centre of that. For now, I shall continue searching the Lost Realms and inside the triangle of Epona, Dana and Idunn seems like a slightly more manageable area to reconnoitre. (Though I am racing in the Pareco Run starting Saturday for nine days).
+Reactions:
+Ian Doncaster, Han_Zen and CMDRCorrMorningstarFelian

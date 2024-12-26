@@ -1,0 +1,6 @@
+yelboc
+Jun 13, 2019
+#8,886
+Are you feeling dizzy from the spinning then?
+
+I've been checking a bit on this too whilst on my way back from sag A* - now that there are fewer stars, I get less spinning and shorter jumps. When there is a nebula in view, it takes longer and there is more spinning. And when right near sag A* it use to freeze and stutter loading the stars for the skybox, and frequently I'd have a sky with boxy sectors of stars missing where its either run out of graphics resources to draw them or failed to load them - I have 40MB/s internet with Zen (who are awesome) and bandwidth is never a porblem. So for me it looks normal. Same goes for the objects in view - sometimes they are different but the black objects appear sometimes even though I'm nowhere interesting (Norma Expanse mostly lately - expansive..)

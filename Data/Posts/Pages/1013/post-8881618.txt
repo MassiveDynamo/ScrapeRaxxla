@@ -1,0 +1,4 @@
+Jorki Rasalas
+Jan 2, 2021
+#20,245
+Is there a way to show local system position on-screen without having to constantly swap to sysmap orrery view? The system coordinates (in flight, not landed) must be kept somewhere for position to be shown in the orrery; I’d like them a separate display window

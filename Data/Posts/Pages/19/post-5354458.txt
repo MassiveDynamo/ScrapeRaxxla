@@ -1,0 +1,15 @@
+Macros Black
+Apr 7, 2017
+#367
+The Supercruise Way To Raxxla
+
+The idea is to start from system entry point, point to a target system, go to supercruise, and then keep going until you find Raxxla hidden way out in the system. Or you run out of fuel and die. Or chicken out and jump out just before you die. (If you have an evil streak, call the Fuel rats when you're 5Ly out in supercruise. Max SC speed appears to be 2,001c, so it may take a while for you to get that far out)
+
+Add a post with your results and I'll update this post.
+
+Good luck
+
+System Target system Max distance from entry (ly) CMDR Raxxla found (yes/no/maybe)
+Shinrarta Dezhra Lave 6.01 Macros Black no
+Shinrarta Dezhra SOL 2.8 Valkyrian Heavy No
+Last edited: Apr 10, 2017

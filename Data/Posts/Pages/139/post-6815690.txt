@@ -1,0 +1,6 @@
+Noobilite
+Jun 26, 2018
+#2,761
+Is it possible to make a long line of ships. refuel them. and use them as a chain of refuellers to get a single ship to go a very long distance? Or even infinitely far?
+
+You would need a chain of ships. One jumps and maybe holds alot of fuel. IT goes as far as it can. The next ship flys as far as possible and another comes along and fuels them using them and jump points or refuel point.

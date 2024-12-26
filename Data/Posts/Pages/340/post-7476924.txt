@@ -1,0 +1,7 @@
+bluecrash
+Mar 17, 2019
+#6,787
+I tried ejecting a SAP 8 Core container into the slot at the back of the Shinrata D Station- nothing. This was the only plain sight hiding mechanic I tested.
+Last edited: Mar 17, 2019
+Reactions:
+Macros Black

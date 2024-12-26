@@ -1,0 +1,11 @@
+clixer
+C
+Jan 28, 2021
+#20,683
+Jorki Rasalas said:
+Very interestink!!
+That first one of Spliffz is about the strongest I've seen the glow. Interestingly he was only about 1100 ls from Sol, heading away from Sol towards Jupiter, & quite a way above the plane of the belt. Light source seems to be astern.
+
+The last one, with the external cam, is disappointing, in that I can't see any sign of an external light source that would cause this glow (although seems weak in this example).
+So is it a lighting bug after all???
+I still don't believe it's a bug yet, by the time the external camera was lined up the glow likely would've faded as roughly 6-8 seconds had passed, and the glow was already fading before switching to camera. Would be interesting to get a wing out there to see if the source is visible from a second ship.

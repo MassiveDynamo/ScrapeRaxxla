@@ -1,0 +1,23 @@
+Han_Zen
+Mar 24, 2021
+#22,366
+Jorki Rasalas said:
+Someone suggested 2.3 update was when the Elite TDW missions disappeared. Just looking at the change note, April 2017:
+“
+Added asteroid base type station (including air traffic controllers)
+• Added 32 asteroid bases in various deep space locations
+
+Improved performance of the 'triangle image load' animation (used on the mission board). Also added support for scaling the size of the effect
+Various mission template fixes
+Fixed issue that was affecting missions at Jaques station
+Missions
+
+• Multi-stage (Follow On) mission support added (different to wrinkles)
+“
+
+Not a sure anything there stands out re TDW missions, but the animated triangles is interesting-I still think that’s an indication Guardian AI is behind the PF & guiding humanity to be able to fight Thargoids.
+Oh, and I’ve pointed out before thatbthere seems to be some similarity in the Codex logos for TDW and Colonia/Jaques..just saying!
+Click to expand...
+I still think the mission texts were mostly foreshadowing the Guardian stuff. After the ruins were found, they were kind of obsolete. They were just not replaced with any interesting new missions.
+Reactions:
+SergMx, clavain, [PS4] Filthymick420 and 2 others

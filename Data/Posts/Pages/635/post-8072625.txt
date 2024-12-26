@@ -1,0 +1,8 @@
+Jorki Rasalas
+Oct 9, 2019
+#12,686
+Scytale said:
+My pleasure, Pa. So, on the contrary of what FD says, that bug hasn't been fixed.
+You might want to open a ticket, if it keeps annoying you.
+
+I did open one last night after the incident & the networking problems I had, unaware of it being a known bug.

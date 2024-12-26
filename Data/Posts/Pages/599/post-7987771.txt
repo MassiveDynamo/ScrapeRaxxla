@@ -1,0 +1,10 @@
+Han_Zen
+Sep 6, 2019
+#11,963
+PeteACarter said:
+Isnt there are already permanent POIs that are invisible to FSS. For example, I dont think all crashed ships have POIs do they?
+You could also get around it with life if the omphalos rift turns out to be the Martian relic, which was tiny. You could fit it in your hand. How sensitive is the FSS? Could it pick that up?
+
+FD can set the detection radius on any object. This was used for the BDS and IDS. It’s was also used for the Voyagers in Sol. It’s still used for the Guardian sites.
+Reactions:
+[PS4] Filthymick420 and PeteACarter

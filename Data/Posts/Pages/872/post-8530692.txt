@@ -1,0 +1,6 @@
+Alexium67
+Jun 14, 2020
+#17,426
+There are stars in the ED database that haven't ingame star system. This is because some errors with importing data from the real star chart/list (I don't know right words). That astronomical charts was used in the ED creating. All it is known issue for me. So this HIP 34104 is same thing. I think in the real world that system is part of gravitational united group of stars (include LFT 509).
+Reactions:
+Exekrator, Rochester and [PS4] Filthymick420

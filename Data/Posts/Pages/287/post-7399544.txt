@@ -1,0 +1,13 @@
+Cmdr RootBeer
+C
+Feb 4, 2019
+#5,726
+ccommander81 said:
+Identifiers from different Star Cartalogues are used in Elite Dangerous (e.g. HIP, HD, HR, UBV etc.). You may search for different Identifiers of a star by SIMBAD Astronomical Database.
+
+http://simbad.u-strasbg.fr/simbad/
+
+E.g. if you are looking for zeta cassiopaie http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=zeta+cassiopeiae&submit=SIMBAD+search
+you will see that for example its Identifier at the HIP -Catalogue is: HIP 2920
+
+Thanks, that's perfect, I'll use this to dig up those unnamed stars although I'm not elite on anything yet so not sure what Raxxla secrets I'll find of any at this stage.

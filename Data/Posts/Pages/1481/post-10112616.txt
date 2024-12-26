@@ -1,0 +1,17 @@
+SergMx
+Mar 29, 2023
+#29,610
+CMDRCorrMorningstarFelian said:
+GalMap and Universal Cartographics works as follows:
+-System names are not scan dependent. This is just name lookup for navigation routing purposes.
+-System details are scan dependent and will not show unless a CMDR has submitted data to Universal Cartographics. However, major named bodies will show even if submited by another CMDR. This is also true for stations and ports.
+-Minor surface locations and settlements will not appear unless you have been there or multiple CMDRs have validated what is present in system.
+-Some things will only show for you when you are in system with a detailed surface scanner and only after you DSS scan the body.
+-Orbital installation and surface installations are tracked only by your personal scan activity. They are, however, often uploaded to 3rd party services such EDDB, EDSM, EDastro through shared community tools.
+-Codex Map and different locales and POIs are scan dependent and operate on initial scan submission (rumored) and secondary scan validation (confirmed).
+Click to expand...
+I don't quite know what you mean.
+1. I wrote about how, having carefully studied the article about Raxxla in the Codex, and having understood and not seen in it any hints and only after that gave permission to publish it.
+That is, Tau Ceti has nothing to do with the search.
+2. For example the Delphi system, it is at the bottom of the map and there Thargoids, ie specially set so that the Delphi is there and not in another place.
+Last edited: Mar 29, 2023

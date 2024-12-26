@@ -1,0 +1,14 @@
+Noobilite
+Jan 3, 2020
+#14,445
+Black dwarf
+Hello, I have one idea. How about adding black dwarfs? Black dwarfs are white dwarfs that have cooled and therefore do not emit (or weakly emit) in the visible range. They represent the final stage of evolution of white dwarfs in the absence of accretion. Although our scientists believe that...
+forums.frontier.co.uk
+
+While they are not "black dwarfs", FD already has "dark systems", presumably with rogue planets (gas giants smaller than Y-class stars) as "primary stars". They were originally planned to be navigational hazards (eg Dark System B lies on a direct line between Star A and Star C; attempting to jump from Star A to star C would likely cause a mis-jump and you'd be dumped down at Dark System B). But FD decided not to implement them. Still, the galaxy map was created with the existence of dark systems in mind, so, like the notoriously invisible comets, they are presumably still there (since getting rid of them would cause a galaxy reset). All FD needs to do is switch them on.
+
+Could this be the, "Yes, we know where raxxla is and we know why nobody has found it?!" Sounds awfully similar.
+
+This would be the even odder version of it's behind a locked permit.
+Reactions:
+Six6VI, [PS4] Filthymick420 and Rochester

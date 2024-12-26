@@ -1,0 +1,51 @@
+Han_Zen
+Aug 1, 2023
+#31,025
+Han_Zen said:
+If I calculated correctly it should be in the same plane as Sol, Regor and COL 70 Sector FY-N c21-3, with a 120 degree angle between the three vectors.
+
+I’m on the phone only, so there is a chanse of errors
+I was right. There was an error
+
+The correct coordinates should be: [702.0183275041311, -171.03708346828716, -369.2734711992729] or close.
+
+If you want to test for your self with other stars, here is the Python code:
+************************************************************
+import numpy as np
+from scipy.optimize import minimize
+
+def vector_angle_difference(point, a, b, c):
+vector_a = np.array(a) - np.array(point)
+vector_b = np.array(b) - np.array(point)
+vector_c = np.array(c) - np.array(point)
+
+angle_a_b = np.arccos(np.dot(vector_a, vector_b) / (np.linalg.norm(vector_a) * np.linalg.norm(vector_b)))
+angle_a_c = np.arccos(np.dot(vector_a, vector_c) / (np.linalg.norm(vector_a) * np.linalg.norm(vector_c)))
+
+return (angle_a_b - np.radians(120))**2 + (angle_a_c - np.radians(120))**2
+
+def find_mercedes_star_center(a, b, c):
+centroid = [(a[0] + b[0] + c[0]) / 3, (a[1] + b[1] + c[1]) / 3, (a[2] + b[2] + c[2]) / 3]
+
+result = minimize(vector_angle_difference, centroid, args=(a, b, c), method='Nelder-Mead')
+mercedes_center = result.x.tolist()
+
+return mercedes_center
+
+def normalize_vector(vector):
+magnitude = np.linalg.norm(vector)
+if magnitude == 0:
+return vector
+return vector / magnitude
+
+# Example usage:
+point_a = [1099.21875, -146.6875, -133.59375]
+point_b = [687.0625, -362.53125, -697.0625]
+point_c = [0, 0, 0]
+
+mercedes_center = find_mercedes_star_center(point_a, point_b, point_c)
+print(f"The center of the Mercedes star is: {mercedes_center}")
+********************************************************************************
+This compiler will run it: https://www.w3schools.com/python/trypython.asp?filename=demo_default
+Reactions:
+simulacrae and CMDRCorrMorningstarFelian

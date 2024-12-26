@@ -1,0 +1,16 @@
+yelboc
+Dec 7, 2020
+#19,929
+Trouble is Tycho G isnt in game.
+
+It has no distance measurements, and therefore won't exist in ED. To place a star they need Declination, Right Ascension, and distance data.
+
+see simbad:
+2MASS J00252358+6408019
+
+The link you referred to doesn't say they found Tycho G.
+
+With regards to the badge - have you checked that other characters don't have the same badge? If its unique then it may be interesting, otherwise its just part of the procedural image generation used to make the characters you meet.
+Last edited: Dec 7, 2020
+Reactions:
+Rochester and [PS4] Filthymick420

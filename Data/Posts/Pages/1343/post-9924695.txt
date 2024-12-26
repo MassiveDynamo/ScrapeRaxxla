@@ -1,0 +1,25 @@
+clavain
+Aug 26, 2022
+#26,857
+Emperor said:
+The research paper is here...
+https://arxiv.org/pdf/1004.4584.pdf
+
+Abstract: We present an updated dynamical and statistical analysis of outer Oort cloud cometary evidence suggesting the sun has a wide-binary Jovian mass companion. The results support a conjecture that there exists a companion of mass ≈ 1 − 4 MJupiter orbiting in the innermost region of the outer Oort cloud. Our most restrictive prediction is that the orientation angles of the orbit normal in galactic coordinates are centered on Ω, the galactic longitude of the ascending node = 319◦ and i, the galactic inclination = 103◦ (or the opposite direction) with an uncertainty in the normal direction subtending ≈ 2% of the sky. A Bayesian statistical analysis suggests that the probability of the companion hypothesis is comparable to or greater than the probability of the null hypothesis of a statistical fluke. Such a companion could also have produced the detached Kuiper Belt object Sedna. The putative companion could be easily detected by the recently launched Wide-field Infrared Survey Explorer (WISE).
+
+"To help mitigate popular confusion with the Nemesis model (Whitmire and Jackson ( 1984), Davis et al. ( 1984)) we use the name recently suggested by Kirkpatrick and Wright (2010), Tyche, (the good sister of Nemesis) for the putative companion."
+
+
+News Article from 2011...
+
+I do wonder why they put in Persephone in the game as I think that particular theory was disproved by voyager 2 correcting Neptune's mass when it did a fly by.... Especially as it was added in Horizons 2.2 when Sedna was put in ("StellarForge - Added Persephone (Planet Nine), Haumea, Makemake, Eris, Orcus, 2002 MS4, Salacia, Quaoar, 2007 OR10 and Sedna to Sol - ")
+
+
+Tyche/Planet X would have been a more recent theory to put in the game in my humble opinion as they haven't been completely disproved as yet....
+
+
+EDIT: Almost forgot to mention... something else in the patch notes "- Speculative fix for intermittently disappearing stations/systems in overriden generated systems"
+Click to expand...
+And why Haumea, but only one of its two moons...
+Reactions:
+Emperor

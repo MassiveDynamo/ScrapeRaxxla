@@ -1,0 +1,22 @@
+Han_Zen
+Nov 16, 2023
+#32,050
+Ian Doncaster said:
+Except, due to oddities of the random generation, galaxy 4 - that has 64 each democracies, communists, multigovs and anarchies ... and no corporates, confederacies, dictatorships and feudals.
+
+(Having played around sticking non-canon galaxy seeds into the generator from time to time, in some ways the impressive bit is that Bell and Braben managed to find a cyclic set of eight which mostly did have a reasonable distribution of governments, mostly universal connectivity, and no other major weirdness)
+
+
+Assuming you take anything in the first game's manual as definitive [1], the first game definitely takes place before the collapse of Galcop, and likely even before the possibility that it was weakening to the point of collapse was acknowledged.
+
+The exact date wasn't stated at the time - it must be in or after 3110 AD, because that's the Inservice date on the Mamba; since it contains hostile Thargoids it must in the Elite Dangerous timeline be in or before 3151 AD.
+
+
+[1] Comparing the published manual with Ian Bell's draft notes, the Galactic Cooperative (as opposed to Bell's more generic "Galactic Government") appears to be a Holdstock addition.
+I did not remember the oddity of galaxy 4
+
+The book Imprint that came with Elite plus, has more details on the Galactic Co-operative of worlds: https://www.dream-ware.co.uk/elite/books/imprint/
+
+It seem to be sett in the later stages of the thargoid war, with Galcop under pressure from both thargoids and human factions. Not a very good story, but it has some interesting parts.
+Reactions:
+CMDRCorrMorningstarFelian, Ian Doncaster and Louis Calvert

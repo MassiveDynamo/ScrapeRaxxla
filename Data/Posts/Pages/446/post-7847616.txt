@@ -1,0 +1,13 @@
+sam23694
+S
+Jun 13, 2019
+#8,910
+yelboc said:
+When there is a nebula in view, it takes longer and there is more spinning. And when right near sag A* it use to freeze and stutter loading the stars for the skybox, and frequently I'd have a sky with boxy sectors of stars missing where its either run out of graphics resources to draw them or failed to load them
+
+I think this most likely hits the nail on the head. My assumption is that whenever you are jumping to a system you not only receive the system data you also receive information on everything nearby in order to render the skybox. If there is a nebula then the rendering process is slightly more intensive then normal (it's projecting a volumetric cloud onto a skybox afterall, leading to a slightly longer load time, and tunnel spin. From my understanding of how 3D rendering works this means it's not necessarily dependant on network speed, but on how it's coded. One or two additional seconds added to a loading screen doesn't seem too extreme.
+
+I have also seen the boxy sectors of stars when I increased the number of stars rendered in the config file. Again, my assumption is that it renders the stars in the skybox "by sector", dividing the total number (by default 4000) among the sectors in some weird way, resulting in denser sectors being visibly boxy. I've seen areas on the galmap that are actually in a box shape, but I've also seen this skybox bug everywhere.
+Last edited: Jun 13, 2019
+Reactions:
+Jorki Rasalas

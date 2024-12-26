@@ -1,0 +1,9 @@
+Thatchinho
+Jul 20, 2019
+#9,678
+Scytale said:
+Yeah. Well, in my case it's a planet/moon bookmark symbol. Over an unvisited/undiscovered system red dot, though I can enter the system map, where no body nor bookmark appears.
+What a mess..
+Yeah, if it’s showing as Not Visited via the Visited Stars Galmap filter then that’s definitely odd. Visited stars still show as visited even if your ships destroyed without handing the explo data i.
+Reactions:
+Scytale

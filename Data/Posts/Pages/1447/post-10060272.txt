@@ -1,0 +1,20 @@
+CMDRCorrMorningstarFelian
+Jan 16, 2023
+#28,928
+So, interesting development though I suspect it may still not be Raxxla itself (as it doesn't fit enough of the codex). There is a place near Sol that does vaguely fit the concept of Raxxla in that it links to other universes: Sargasso Sea of Space. Per the tourist beacon it is described as follows:
+System: Luyten 205-128
+Distance to Sol: 19.01 ly
+Distance to Arrival: 4 ls
+Situated: Orbital
+Body: Luyten 205-128
+
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0060
+
+
+Commander J. Fisher calls it 'The Sargasso Sea of Space' - a Lagrange point full of ghost ships and wreckage, famous for collecting the bodies of the lost. Like the Bermuda Triangle of old Earth, some say that any ship that dares to pass through will never leave.
+
+So, this is from Alien World: A Complete Illustrated Guide and it is a trope that manages to unify the Elite Universe with others: Marvel Multiverse, Star Trek's alternative timelines, and the Known Space (Larry Niven) alternative timeline amongst others. Interestingly, amongst these the time around 2296 seems to be important. In many of these, Sargasso Sea of Space is a temporal anomaly that ends us allowing passage into other science fiction universes. It is possible this may be Raxxla but I have a feeling this is just a Easter egg teaser of sorts as there is seemingly no connection with a pirate cache that I am aware of or other key parts of the codex but still is a very interesting find.
+Reactions:
+John Stoutbeard

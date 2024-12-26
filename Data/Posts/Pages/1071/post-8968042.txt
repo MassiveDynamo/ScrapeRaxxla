@@ -1,0 +1,22 @@
+CMDR Davanix
+Feb 24, 2021
+#21,405
+Jorki Rasalas said:
+Clearly for some arcane reason FD have set up several factions of PF in-game; Rochester raised a bug report on these different spellings & the response indicated that all spellings were correct so there must be a reason. Clearly this is an obfuscation on the basis that most people would assume this was a single faction and put the differences down to bad spelling on FD’s part (which has always struck me as a bit strange, especially since MB was an author who should have enforced good spellchecking practice). I suspect we do need to ally with all these variants to trigger some event (Raxxla being detectable perhaps? could this be the “obfuscation on the outer rim” from the early SD missions?).
+
+So as an afterthought, factions 1 & 3 should be able to be allied by appropriate in-game actions. Davanix got one after combat in the recent Jupiter Rochester HIP 54530 CG; from the spelling of Galnet 11February (https://community.elitedangerous.com/galnet/11-FEB-3307) I suspect this was faction 1 (“The Pilots Federation”) according to my numbering scheme. Clearly we need to be on the lookout for other posts that mention this faction variant.
+
+Searching Galnet for Faction #3 “Pilots’ Federation” I found they were responsible for setting the new pilots’ locked region, and also for granting all our pilot’s Licences. Nothing else came up other than two player-submitted posts which I discount. I can’t believe FD would have set a puzzle in-game then locked existing players out of the new pilot training area after several years without providing an alternate means to get Allied with that PF faction.
+
+Has anyone done any hunting of the larger Thargoids to see if this gets a message with the different spelling ‘you are now an ally of “”’? An alternative thought would be that Davanix got his faction 1 alliance for combat, faction 2 should be able to be allied by trade or exploration since they have several stations, perhaps faction 3 is the third specialism? So I think if anyone is interested a couple of people need to explore faction 2 alliance to see if they have a preference for trade or exploration? Unfortunately Jorki and Tyko are both engaged on testing other hypotheses at the moment, but I’ll get around to this after they’ve finished that endeavour.
+
+Edit2: come to think of it the different spellings occur in the Toursist Beacons in Shin Dez, it was while visiting those that I first noticed the spelling discrepancies. Must revisit those beacon message & see if there is a clue hidden! And perhaps this beacon set of clues with different spellings is why they are located in Shin Dez which you have to be Elite to enter? (We know from Elite Premonition that TDW in Shin Dez are “at the outer rim”! )
+
+@Davanix: apologies if the above is what you were saying, I was confused by your explanation. I still don’t understand how anyone has found out that TDW exist in Overlook megaship and that got inserted into Inara; EDSM only shows TDW in Shin Dez.
+Edit1: ah! I’ve gone back and checked the Inara entry & I see this Dark Wheel is a player faction set up by ScolioTheMost and he claimed it was headquartered in HIP 22460(Overlook); I think he was joking!
+Click to expand...
+Pretty much what I was saying yes, I was half asleep when I tried to explain it so thank you lol
+
+As for the player faction, yeah that was more of a how are the linked to the Pilots fed real ingame name more than about their squadron, they are linked to the Pilot Feds in overlook as their hq minor faction which was odd because there was a time where you would have to have fd set this up for your members before inara would pick it up
+Reactions:
+[PS4] Filthymick420 and Jorki Rasalas

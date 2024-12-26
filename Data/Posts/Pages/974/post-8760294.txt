@@ -1,0 +1,12 @@
+Zieman
+Oct 23, 2020
+#19,466
+Ravenl0ft said:
+False alert guys,it happens on all rocky bodies as far as now, but the interesting thing is it seems to happen only on the pole. I mean the point where the longitude and lattitude is close to zero. Can anyone try this out? I mean is it only me or is it a game bug everyone can experience?
+Vetinari said:
+So it happens at the 'top' and 'bottom' of the sphere where all the separate graphics blocks get scrunched up or meet.
+
+Id say report it as bug, but it could become one of those things best left and people will visit it, Im gonna have a go next Rocky
+Something like that seems to happen, but not as extreme in my case:
+Reactions:
+[PS4] Filthymick420 and Vetinari

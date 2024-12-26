@@ -1,0 +1,56 @@
+CMDR Davanix
+Jun 25, 2024
+#34,317
+Antares [-39,-34]
+Antares is an interesting system.
+
+Beta Lyrae [-146,85]
+Beta Lyrae is a contact binary. Unfortunately, the game crashes when you visit
+it.
+
+Betelgeuse [59,14]
+It’s possible to fly through into the atmosphere of the gas-giant Betelgeuse B.
+
+Hadar [-6,-40]
+Hadar is an interesting system.
+
+Pleiades [32,32]
+There are lots of systems around here with nice-looking stars.
+
+Spica [-4,-17]
+Spica is an interesting system.
+
+Vequex [-1,5]
+Allegiance: Alliance, joined 3247
+Type: Mining
+Government: Alliance Democracy
+Population: 101,350
+Policing: Average — piracy relatively common
+Tech: Basic equipment only
+Illegal goods: Narcotics, live animals, nerve gas, slaves, battle weapons
+Physical: Type M, main sequence, flare star with unusually predictable flare
+
+sequence
+
+It is surprising that this system is inhabited
+at all. In fact, the only industry is mining.
+
+If it was just the miners, the system pop-
+ulation would be less than 10,000. A large
+
+proportion of the population is in fact mili-
+tary in nature, this system being a prime training ground for Alliance Joint Navy
+
+cadets. The other large slice of the population is from the Braben Research In-
+stitute, based at a massive orbital city, orbiting the star at 0.4 AU. There are
+
+a number of oddities about this system (the best known being the regularity of
+the flare star), and active research continues into many of the phenomena that
+have been observed all over the system.
+
+
+
+suspect.....
+Last edited: Jun 25, 2024
+Reactions:
+Macros Black and CMDRCorrMorningstarFelian

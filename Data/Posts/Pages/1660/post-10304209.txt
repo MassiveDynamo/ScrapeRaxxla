@@ -1,0 +1,9 @@
+Pyroboros
+Jan 26, 2024
+#33,186
+CMDR Davanix said:
+Just on the notes of galaxy grids etc, is there a chance that the landscape signal is the actual galaxy center?
+There is a chain of reasoning that would allow, to claim exactly this.
+STUEMEAE has its origin at 39*1280 = 49920 go 1 D (80ly) Boxel east and you are smack in the middle of the east west GalMap boundary 50 kly both sides. Same for south north but go 80ly north. Let Sol be at the midpoint in height. Since SOL is also in a D Layer the up down midpoint would have the same Y coord as SOL. This brings you to (15, -25, 25895) aka the origin corner of Stuemeae FG-Y d0-*
+Reactions:
+Ian Doncaster, Robert Rockbite, Rochester and 2 others

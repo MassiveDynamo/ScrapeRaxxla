@@ -1,0 +1,9 @@
+Pyroboros
+Jul 4, 2024
+#34,443
+Louis Calvert said:
+I don't suppose that using procedural generation from a table of the alphabet and 0-9 numbers you could, say, create a string of nearly random numbers for your sci-fi game stations to broadcast?
+
+Linear-feedback shift register
+Reactions:
+Louis Calvert

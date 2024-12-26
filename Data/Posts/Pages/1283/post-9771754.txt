@@ -1,0 +1,6 @@
+Koben
+Mar 12, 2022
+#25,642
+Just another curiosity about Jameson Memorial... I had some modules stored there and wheneve I'd try to retrieve them from a different station, it would show them located at "Levy Station" not "Jameson Memorial"
+
+Not sure if Levy means anything...

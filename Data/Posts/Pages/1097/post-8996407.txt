@@ -1,0 +1,23 @@
+Jorki Rasalas
+Mar 12, 2021
+#21,925
+SergMx said:
+I took a closer look at the pictures in the Codex yesterday. And I have questions:
+SPOILER
+1. I can't understand what the emblem of the Targoids means ?
+SPOILER
+2. What are those dots in this picture and in the Raxxla icon in the picture above ? Why are there 3 rings on the galaxy map? (I could be wrong, but I seem to be able to distinguish the usual numbers on the middle row of dots. )
+Could this sign just mean a galaxy, like somewhere out there and not a specific place?
+3. Why is the picture of the Dark Wheel on the right exactly like that? This is a particular star with a particular distance to the star and a planet still visible. Can we roughly determine the distance to the star?
+Click to expand...
+
+Mmm, some interesting observations there. I’ve never spotted dotted circles on my galmap, will look later today.
+
+The Thargoid “brand”/skin marking has been the subject of speculation for several years. The most credible idea I read was that it is supposed to represent Barnard’s Loop. But there is Olivia Vespera's Thargoid Marking Identification Table and a thread (https://forums.frontier.co.uk/threads/thargoid-data-gathering-effort-we-need-your-help.381230/) about Thargoid data gathering which you should investigate; this is the Quest for Raxxla thread: we know much, speculate about even more, but don’t know everything.
+
+Be careful! Since people rapidly solved some puzzles based on star matching etc FD now frequently manipulate the images they release. The one of the red star with planet and Orbis station (supposedly TDW’s, but it may be fluff) is clearly manipulated. You can check this for yourself as that type of station occurs in the bubble (I used Aulin Enterprise) & clearly the colour balance has been altered. You can change the colour balance back to reality yourself so the lights on the rear of the station match the colour of Aulin Enterprise. The star then becomes not so red, and I think is an M type subdwarf ( M VI). Somewhere in this thread I posted my colour-corrected version. FD also manipulate the perspective and I strongly suspect they have done so here, so the apparent distances are likely to be incorrect. Those orbital distances and size of the moon/planet look suspicious
+
+edit: here's my colour-corrected version
+Last edited: Mar 12, 2021
+Reactions:
+Dr. Lexus, clavain, TrillClinton and 4 others

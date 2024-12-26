@@ -1,0 +1,11 @@
+Vasquess
+Jul 13, 2020
+#17,866
+alexzk said:
+Ye ...and 100Gb of data at least to get from edsm. I have 280Gb hdds. In shorter forms it gives json. So lua is good to traverse over json.
+
+For global search he needs, it should be full SQL clone though.
+For finding tritium around Borann my C++ code is sufficient
+Don't take me too serious. But this rolling your own solution very often ends with yet another reinvented wheel. I've seen it so often that I couldn't resist...
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,4 @@
+Alexium67
+Sep 9, 2022
+#27,200
+Patch to lens flares? Should we test some angles near the station to make the pattern from three lights?

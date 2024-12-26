@@ -1,0 +1,15 @@
+Noobilite
+Apr 14, 2019
+#7,476
+How the hell have we been doing exploration this whole time without tier 5 ligthweight on something? You would think it would have been scouted out already and found at all cost.
+
+Either way, this means anaconda now has over 83.99ly jump range. Maybe this opens up new places to explore.
+
+New max conda: https://s.orbis.zone/2rxh <-New max range is now 84.11ly, 126.165ly/336.44ly White/Neutron Star boost, 105.1375ly/126.165ly/168.22ly with 25%/50%/100% fsd boosters. Does this open up any new areas?
+
+If we only had lighter sensors. We could get rid of drive distributor and get more range. Maybe one day we will be able to pick more sensor types.
+
+BTW, if we could install 1D sensors this is what we would get: https://s.orbis.zone/2rxq <- 86.14ly max jump range.
+
+Again, this opens up the potential of no combat rating for raxxla hunting and max exploration builds. Although it goes against what happened in the Dark Wheel book. If that matters.
+Last edited: Apr 14, 2019

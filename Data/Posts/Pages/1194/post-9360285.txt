@@ -1,0 +1,21 @@
+Jorki Rasalas
+Jun 30, 2021
+#23,863
+Han_Zen said:
+I was cheating.
+
+I did a check on the sentence. It produces 13259 separate English words. It can give a lot of different stuff.
+
+I'm a bit sceptical to a solution that is locked to the English language, when the Codex is multilingual.
+Good point!
+But “Rhea” & “Sol” are fixed names so no change. “Alien”? “Ship”?
+It’s supposed to be “cunningly concealed facts”, so probably wouldn't need “ship” for it to make sense as a clue!
+Think Google Translate is playing me false; seems to continually treat “alien”as English...edit: ah yes, tried it in the reverse direction & “alien” changes significantly with language. But as per the previous argument just “Rhea+”Sol” makes for a significant clue. But there are then lots of letters so back to the basic idea...needs to be checked by people who are a) good with anagrams and b) astronomically knowledgeable!
+
+What made me start thinking was the “hints for those with eyes to see” - possibly i i 2 c? i i c c?
+Might try to add these into the anagram solver.
+
+Yes, it produces a lot of English words, but for a valid clue they’ve got to make sense within the context of the game and location, which rules most of them out (I was only joking about Leeds station! ).
+Last edited: Jun 30, 2021
+Reactions:
+Aurora Velius, Exekrator and CMDRGURU951

@@ -1,0 +1,4 @@
+Koben
+Apr 8, 2022
+#25,874
+I've been experiencing mouse clicking getting stuck on its effects and also not getting recognized at all... during thargoid fight in a AXCZ, anti-shutdown field sometimes fails to get triggered... so I'd aggree that there's something "funny" going on at Frontier servers

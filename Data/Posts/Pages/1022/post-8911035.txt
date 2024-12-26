@@ -1,0 +1,6 @@
+Jorki Rasalas
+Jan 20, 2021
+#20,431
+It’s known that some of the stations emit signals which can be decoded into pictograms. I seem to remember one is a picture of David Braben. Nice Easter egg, probably no more, but I‘m not aware of any formal attempt to investigate them all.
+Reactions:
+{SAS}Stalker, Hanerib, yelboc and 1 other person

@@ -1,0 +1,53 @@
+Merlin StWahgwaan
+Dec 14, 2023
+#32,509
+Louis Calvert said:
+Well I'm pretty sure this is not going to pay off, so only go there if you're sanguine about that But it would be awesome to have someone actually check it out, just in case there's a stellar object there that's not visible on the map.
+
+The exact location is where the circle is here in the "Newton's Vault" region:
+View attachment 377325
+The two nearest systems are: BYOI AUSCS BA-P D6-7 and BYOI AUSCS JR-A C15-0
+If you were to go to one, and look towards the other, I think the sight-line would pass relatively close to the coordinates 23114, 584, 46931.
+
+I've no idea how hard it is to get there, stars look pretty sparse out there.
+Click to expand...
+
+Sooo.. .. I actually arrived here Tuesday, and spent yesterday in
+BYOI AUSCS JR-A C15-0 <- ESDM link
+Jump Range isn't usually an issue really for me, my Exlor-Aconda can do 65.2ly standard jump.
+
+Full System Scan Complete,
+Detailed Surface Scan of every body,
+and First Footfall Confirmed on all Landable bodies.
+
+And so far, it's a relatively unremarkable system.
+Absolutely no biological sources, even with 25 body's, which is kind of interesting in itself.
+Several geological sites, mostly Fumaroles.
+Some very beautiful views of some deep craters and tall rocky spires... but nothing that doesn't exist elsewhere really....
+
+I did loose one of two of my Exploration SRV's trying slide down the wall of a deep crater and accidently hitting the SRV thruster button and literally flying down the rest of the wall until I became a Snowball and shattered to pieces XD but no biggie was fun to watch, and that's why I explore with 2 of them and a Fighter XD
+
+Anyways, after finishing the mapping and exploring, I began going from the Star towards the next system, in SuperCruise, with the intent to travel out in each system about the same distance as the Voyager probes in Sol, just to look and see if anything happens/is there.
+And things got a bit strange, and I need to try again today/tomorrow and see what's up.
+
+I was about 25,000 ls away from the Star, when my game dropped, with a Mauve Adder crash.
+As soon as I re-logged, literally to the minute, I got the System Broadcast message for Server Maintenance starting in 30min. Ok, no problem, but strange that I got a Mauve Adder and had to relog, right as that message was being broadcast.
+Then, about 3min before the 15min System Broadcast Warning message, at about 300,000 ls from the star, my game dropped again! Another Mauve Adder error!
+By the time I reloaded again, the 15min msg had come in.
+I got back into SC, doubled checked for any additional FSS signals, nothing, and continued ahead, slowly. I was able to make it to the 5min warning msg, and then I dropped from SC, logged off and called it a night.
+
+It's just very strange experience for me. I rarely have drops, in fact, I don't remember my Steam Deck dropping the game like that, ever, and now my last +120hrs are on my Steam Deck.
+I seriously don't ever think I've crashed/dropped the game ever on my Deck, until last night.
+I definitely haven't had a game crash since well before I left the bubble, went to the FRift, turned, hit up Colonia, and now got all the way here... FSS'd over well 500 systems on this trip alone...
+I was quite surprised by it. And to have it twice?
+I've been playing MANY nights when Server Maintenance msgs have come in, and I've never had an issue, always kept playing until the 5min warnings then logged out.
+
+I generally discount my Internet, it was working fine, and Ive previously been playing ED on my Steam Deck, while watching a YT Live Steam in 4k on Mute on my Desktop, and had Netflix streaming a movie in 4k on my Laptop to my TV, without absolutely so much as a delayed ping/extended jump time/buffering issue, and I also have Gigabit Internet, and hardware that supports 2.5Gbps ethernet and wifi6ax to most of my devices now.
+So yeah, 2 Mauve Adder failures were a surprise to say the least, and a bit suspicious to me.
+
+So now, I want to try two things when I can get back into the game either tonight or tomorrow, and that's first, continue from my current location, on my trajectory , towards the next system in SC, as was my original plan. Then, I want to turn around, and SC back to the star. Check for any more drops, or strange behavior .
+
+Then I'll jump to the next system, see what happens, and go crazy in the next system, XD
+Once that's done, I'm also go to re-SC out from each star toward the other, until I get much closer, then try jumping from those areas, like being 1 or 2 LY out from one star, and then making a hyper jump to the other, then Visa Versa.
+Reactions:
+Emperor, Edelgard von Rhein, Han_Zen and 2 others

@@ -1,0 +1,38 @@
+Thatchinho
+Sep 6, 2019
+#11,990
+Six6VI said:
+I'm inclined to agree with this observation. It's one thing for a system to have been semi / fully explored (but not mapped) and present in eddb / inara and all the other external databases since prior to the Horizons release and then have an INRA base retroactively dropped on an airless moon much later with a handwavium "Well, you couldn't land on moons to find it the last time" from FDev.
+
+In theory now they added the FSS / mapping, nothing can hide on any planet, even if we can't land on it.
+
+[Edit: Gets up to make coffee and stumbles head first through a logical perception error and sees an obvious flaw in that argument: If / when the Atmos / Gas Giant patches are added there could be a further locking mechanism that's removed only for those who purchase the upgrade, revealing untold millions of occupied, living and breathing settlements that may not even exist prior to FDev retrofitting that content.]
+Click to expand...
+Yeah, it’s just another of those things one has to accept as a consequence of the development approach.
+
+It’ll be easy enough to just assert that atmospheres distort signals too much for the current FSS / scanners to distinguish specific signals. No real worries on that front.
+
+Probing/mapping of non-landables is a bit more of a problem, but only really due to the names used. If we just consider it as a Level 3 scan, then the problem goes away.
+
+Besides, we do know though that all the scanners are fallible. Off the top of my head;
+
+- Gen Ships - if not near a body are still only picked up if within 1,000ls (word on the street, haven’t tested personally)
+
+- Huge amounts of non-permanent surface POIs - not detected by FSS or DSS, but detected by ship’s radar and SRV wave scanner.
+
+- INRA bases, etc - can’t be detected by ship’s radar, detectable by FSS and Probing (can’t remember for SRV scanner)
+
+- Guardian sites - originally undetectable except by MK1 eyeball. Shows up on scanners following an upgrade from Ram Tah. Detectable by FSS and DSS. (I think they still don’t show up on radar, but haven’t specifically checked so could be wrong.)
+
+- Lots of debris in space doesn’t show up.
+
+- The survivor of the Thargoid attack on the Far God base didn’t show up.
+
+For the INRA bases, to all intents and purposes, they could have been there from the start of the game. With being MK1 eyeball only originally, they wouldn’t have been found until something turned up to indicate they were there to be looked for.
+
+
+There’s plenty of scope for things to be credibly explained away on that kind of basis.
+
+Equally though there’s plenty of stuff where it would be credibility breaking.
+Reactions:
+Xaintly, Vetinari, Crimson Echo and 3 others

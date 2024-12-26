@@ -1,0 +1,19 @@
+yelboc
+Aug 7, 2019
+#10,319
+Given FDEv's love of procedural generation, is there perhaps a procedural mapping between the positions of the 1984 elite versions of the old worlds, and their ED counterparts? Such a mapping may be complex as its goes from 2d-3d.
+
+There is a spreadsheet linked from here with the original coordinates:
+
+http://wiki.alioth.net/index.php/Oolite_planet_list
+
+Some posibilites:
+Only a small cluster of planets of the old worlds lie together, many fewer than the galaxy 1 map
+RA is quite distant from the others, and so is Aona, so it maybe that the mapping spreads worlds widely
+Its possible then that some worlds may be away from the bubble and thus not discovered.
+In the original game intergalactic jump points were fixed. In Galaxy 1, the arrival system is Usle, which is not in EDSM, or on my previous list of places in ED
+This is my previous list of Galaxy 1 systems in game from this thread:
+
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/page-322#post-7462659
+Reactions:
+Han_Zen and PeteACarter

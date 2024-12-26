@@ -1,0 +1,44 @@
+Louis Calvert
+Jan 28, 2024
+#33,209
+D7 said:
+On another note, regarding looking a audio signals in space. It would be nice to listen in on that "Whisperer in Witch-space". However witch-space is the time-space tunnel we travel through in a hyper-jump. Obviously we can't just go "visit" Witch-Space since, unlike the early travelers using a risky FOSC system, we don't get accidentally trapped in witch-space. However, we can try to record the sounds in a hyper-jump. So, I did that just now. This is just a very first raw shot at it and it's not from a camera but from the cabin. I didn't find much in the signal but I will look further and try to clean it up. I do notice what looks like a small wheel in a triangle, but it's probably nothing but random chance. The area is a bit more distinct in Audacity itself.
+
+View attachment 381733
+In relation to the above discovery, which I refer to as the "D7 Anomaly". I've been doing some stuff. Posting here with D7's permission.
+
+I took many recordings of Hyperspace from the bubble all the way to the centre of the Galaxy:
+So far I've found no significant variation (i.e. it doesn't get weaker or stronger that I can see anywhere along that route).
+Location may cause it to vary, it's just I haven't found any variation myself in the limited testing I've done.
+I then took the cleanest image of it I could get by fiddling with spectrogram settings into krita (photoshop-like software) and adjusted the levels and contrast to bring out the shape a lot more. I then use a partial opacity eraser to knock back the background to bring out the shape.
+
+This image isn't me drawing over the shape, this is the actual shape that's present, it's just enhanced to make it easier to see. I encourage anyone to do this (Krita is free).
+The version on the LEFT I've over-cleaned it a little to bring out the outlines more.
+The version on the RIGHT I've only cleaned outside the outer outline, and I added the circle back in by hand because I'm about 80% sure I could see it on the raw images.
+
+You'll notice on both of these there appears to be something sticking out of the bottom right of the shape, a long thin double line with what might be a circle on the end, and possibly something similar on the left corner too. I only noticed after making these images (I did this a few days ago and have had more time to look at them!). So there might be more to it that I was too heavy-handed on erasing in the original pass, I will continue to attempt to get better versions.
+
+As always, I would encourage people to try this for themselves. To investigate this yourself all you need is Audacity to see it. Krita, or photoshop, or similar helps for making the spectrograms more visible, it is a small shape. There are no special conditions; it appears in every hyperspace jump I've recorded, it can be hard to spot but D7 highlighted where it appears - it always appears in the same place - once you see it it's hard not to see it
+
+This artefact is also directional:
+
+If you record while facing forward (the default position), the D7 artefact only appears in the LEFT channel audio.
+For reasons I won't go into now (still testing), I started recording while looking in other directions:
+Looking all the way LEFT while recording in Hyperspace makes the D7 anomaly appear in the RIGHT channel.
+Looking all the way RIGHT while recording in Hyperspace makes the D7 anomaly appear in the LEFT channel exactly the same as looking forward.
+Conclusion: The audio source that makes this shape is coming from somewhere on the LEFT side FORWARD of the ship.
+
+After a little testing I found that looking about 45 degrees LEFT while in Hyperspace gets the D7 anomaly to appear in both LEFT and RIGHT channels equally, implying that (For whatever reason) the audio originates from that direction in Hyperspace. There might be an up/down component to it too, but I can't really think of a way to test that.
+
+It has existed for at lest 7 years:
+
+Using youtube recordings of other people's hyperspace jumps I have confirmed it exists in recordings from as far back as 2017, possibly further. It gets clearer and easier to see post-Odyssey when the Hyperspace graphics were changed (actually it was more that stuff was removed).
+
+Theories:
+
+I have no idea what this is, what it means, or even if it means anything. It may well be a developer joke for all I can tell. What I can say fairly certainly is that it's not random noise or Pareidolia; This shape does exist in all audio recordings of hyperspace, as first identified by @D7 in the post above.
+
+The area it appears in is the block of sound that can be described as "whispers". I believe this is directly related to the Raxxla Codex clue: "To the whisperer in witch-space...", but... I don't know what it means even if it really is that connection?
+Last edited: Jan 28, 2024
+Reactions:
+Planewalker, Robert Rockbite, simulacrae and 5 others

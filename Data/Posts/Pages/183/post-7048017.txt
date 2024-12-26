@@ -1,0 +1,17 @@
+Jorki Rasalas
+Sep 27, 2018
+#3,649
+ModishNouns said:
+You've got me grepping systems.csv. Again!
+
+There are also "a?" systems with no hyphenated suffix.
+
+Curiouser and curiouser.
+
+There are only 6176
+
+That Reddit reference has “The last part of system names, which I call the "STAR-CLASS" (e.g. c6-4, d13-7, etc.) actually means something. The first letter is based on the mass of the star (possibly includes the mass of all stars in the system). The first number is part of its coordinate within its sector, and the last number is arbitrary.”
+
+I think if there is no hyphenated suffix then the implication is that there is only one of the A mass type objects in that subsector (subsubsector?), & if there are more than one then the hyphenated suffix is used to index them. The reason why there would be such a low local probability of low mass systems escapes me (astrophysics is not my thing), might be the tail end of a statistical distribution but it is an interesting anomaly that might bear investigation, most explorers seem to go for the higher mass (G to H) systems in the hope of getting profitable black holes etc, so maybe we should start systematically exploring the opposite. Are you going to post a link to your csv search results so we can contribute?
+
+of course Han_Zen may be right (he often is ) that the rogueplanet object type is merely a placeholder, but hey, futile searching is what we do best (or at least have most experience of)

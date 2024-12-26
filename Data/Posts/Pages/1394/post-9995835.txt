@@ -1,0 +1,17 @@
+Jorki Rasalas
+Nov 13, 2022
+#27,878
+Louis Calvert said:
+That's fascinating So you're primarily looking for a black hole with an alien object around/near it? I would hope if you find such a place it will respond to a D-Scanner!
+
+A black hole does seem really likely. I always thought it's weird Fdev put one in Maia, afaik there's no hint of one there IRL. Not sure if that was ever explained?
+We have had very few things explained by FD! Not really since MB’s departure IMHO!
+
+A gravitational wave source (Dark Siren, GW Whisperer) is likely to be a close binary (BH-BH or BH-NS), or a pulsar with an asymmetrical mass distribution so the mass wobbles as it rotates. That source would have been detected by the Gaia satellite.
+
+How the Omphalos is then implemented in-game is moot. Could be the BH itself (hence why I dive them to see if it leads anywhere), or an alien device that needs to be triggered to create the wormhole to Raxxla....
+
+Edit: but since we dont know much then we dont know how reliable the Omphalos actually is....there could be an element of random number generator in actuating the Omphalos....
+Last edited: Nov 13, 2022
+Reactions:
+Louis Calvert

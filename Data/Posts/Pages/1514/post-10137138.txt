@@ -1,0 +1,22 @@
+CMDRCorrMorningstarFelian
+May 4, 2023
+#30,276
+Grens404 said:
+I'm really having a difficult time finding a program that will translate my CSV file of systems with their (x,y,z) coordinates into a 3d space. This would allow me to look at the relation between the systems, especially by proximity. Does anyone know of such a program?
+Note: Elite Dangerous coordinates are x,z,y
+
+Where...
+x is left or right of Sol
+y is below or above Sol
+z is further from core or closer to the core than Sol
+
+Note: Not the same thing as Galactic Coordinate System (Right ascension, Declination). Elite Dangerous is basically Cartesian coordinates but with Left-Handed Cartesian coordinates:
+https://mathworld.wolfram.com/Left-HandedCoordinateSystem.html
+
+
+Galactic Coordinates
+I've seen a few people mention galactic coordinates in posts or mention things are a certain distance off the galactic plane. Can someone explain where this information is located and how it is read? I've looked on the galactic map but I can't seem to find anything. Thanks
+forums.frontier.co.uk
+Last edited: May 4, 2023
+Reactions:
+Han_Zen and simulacrae

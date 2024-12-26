@@ -1,0 +1,32 @@
+Yuki Estelle
+Jan 28, 2021
+#20,621
+Here are the Green Glow videos:
+SPOILER: GREEN GLOW VIDEOS
+
+
+
+
+Some Observations:
+Entering the asteroid belt during SC causes a known bug to occur in the Orrery System Map, which will display your position incorrectly.
+New signals will often be detected but won't show up on radar.
+The green glow possesses these characteristics:
+Source seems to come from above, behind or below ship, near asteroid belt.
+Varies in strength, though causes are undetermined.
+If it appears, it is always just after the Orrery System Map is closed. (@Jorki Rasalas clarified this has happened to them before using the Orrery System Map)
+Seems to originate from a distant location in most instances, but fades quickly. One or two videos suggest it could be close to player's crafts.
+Honking at it does not seem to have an effect.
+
+Suggestions
+Set up recording software before attempting tests (I recommend Shadowplay if you use NVIDIA if you can get it to work, ReLive if you use AMD). If possible, perform tests in a Wing with one or more other players. All tests are meant to be performing during or just after a Green Glow sighting.
+Use external ship camera to quickly do a 360° flip around your craft, noting anything that might be the source.
+Quickly flip ship around to see if the light reacts to various angles.
+Test to see if other members of your Wing can see the green glow after or at the same time you do.
+Have other Wing members honk at the green glow in sequence.
+After encountering glow, remain in the same position long enough for the glow to do a full orbit.
+Prove that the glow can appear before entering and then exiting Orrery System Map.
+Identify positions of new signal sources during green glow, especially instances that are very close.
+Enter FSS during green glow and look for anything scannable (credit to @Filthymick420)
+Last edited: Jan 28, 2021
+Reactions:
+Fiera, Dr. Lexus, Mrrshal and 3 others

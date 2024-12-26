@@ -1,0 +1,12 @@
+alexzk
+A
+Feb 13, 2020
+#15,200
+Will answer to meself at https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8288524
+
+Just came XTE J1748-288, it is 163.xx sols masses ... still no heat until u hit excl zone. This is biggest one I met except Sag A*
+Also there is cool bug ... once u engage from ...u have thing to align, u aligned, and stopped drive ...well ...because it does not work immedial and overheat( I think u need rotation match too) ... so any next time u engage - that align point is not shown any more ....guess urself
+If somebody can repeat near heavy objects (starting from planets) - plz make a tickets separated to fix it. Also I would put rotation bug .... i dont need rotate (around symmetrical axis of ship) to engage in direction.
+Last edited: Feb 13, 2020
+Reactions:
+John Stoutbeard, [PS4] Filthymick420 and Machina Ergo Sum

@@ -1,0 +1,22 @@
+Han_Zen
+Mar 27, 2023
+#29,563
+Jorki Rasalas said:
+It doesn’t crop up in any RL search, so I think it’s imaginary. All we have in-game is the title “Princess Astrophel and the Spiralling Stars”, plus the phrase
+“some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.”
+
+We do not (cannot since it is imaginary) have access to the text of the book, but the book (if it did exist) would contain its own title, hence my belief that the title is itself the clue and implies an anagram of some of the letters of that title.
+
+However treating the title as an anagram and checking against a body search-generated list of systems with increasing distance from Sol led me to over a hundred possible solutions that are valid system names within the game, at which point I got fed up with the process. I am confident that more solutions are feasible if you have the stamina!
+Click to expand...
+It's true that the only thing we have from the story, is the title. If we want to explore the option that the author hid the facts in the title, there are plenty of options besides anagrams.
+
+One could start looking at the capitalised letters, to make it simpler.
+
+PASS
+
+Looks visually similar to RAXX, anagrams into ASPS and SAPS, can be numerically converted to 16 1 19 19 (HIP/HR/HD number, coordinates, RA / DEC?)
+
+There are almost endless possibilities with just those four letters.
+Reactions:
+yelboc and Jorki Rasalas

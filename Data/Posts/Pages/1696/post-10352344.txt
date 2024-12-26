@@ -1,0 +1,10 @@
+Astro13
+Apr 19, 2024
+#33,915
+El Saico said:
+Elite was written on the much cheaper, 8-bit MOS 6502, with a 16-bit address space.
+
+This is what made porting to the NES even possible in the first place, as a lot of assembly code could be reused with focus going to the I/O - a monumental task on its own.
+Originally Elite was written on the BBC micro, which was the computer the UK commissioned the BBC to create. At that time the UK was quite behind on the whole computing thing, And the Micro was meant to be cheap. I have looked into the code of the original Elite, It is impressive. Now I wonder if anything in the source code for Elite points to Raxxla, I would not be surprised if FDev is trying to reference something in the original code, Or they snuck something into the emulated one you can get for free on the store.
+Reactions:
+Ravenloft45 and El Saico

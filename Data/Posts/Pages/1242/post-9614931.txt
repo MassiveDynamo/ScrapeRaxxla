@@ -1,0 +1,15 @@
+Zieman
+Nov 19, 2021
+#24,824
+Han_Zen said:
+This picture, is a flat not top down view.
+
+
+It's like this circle
+Click to expand...
+Yeah, but no. I tried to get the orbit show perpendicular to its own plane, not orrery view top-down, because those planes are quite different.
+Here's the top-down view of orrery:
+
+You can't get the planet's orbit to look circular, until you twist the view so that the perspective will distort it.
+Reactions:
+Han_Zen

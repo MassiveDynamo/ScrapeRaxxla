@@ -1,0 +1,11 @@
+[PS4] Filthymick420
+Oct 22, 2019
+#12,943
+-=fox=- said:
+If you build a route with a jump into only one system, then after the jump, the sound file is played. At the same time, I noticed that if there are guardian beacons in the system, then this is a certain type of sound file. The theory is as follows: if there is any object in the system associated with R or DW, then the file must be some kind of special one.
+
+P.S
+Sorry for Google translation.
+I like this idea but I don't know. I've learned music will play after you've spent X amount of time in an srv, and it's always mysterious sounding imo. Also the music will play after a multi jump route too, on the destination system. I didn't notice the guardian systems had different music though, that is cool.
+
+Does it play the music if you are jumping into a guardian system, but just passing through on route to another system? If so, this extremely useful. If not, it's still pretty useful to some extent but still doesn't guarantee R or DW will have music or not.

@@ -1,0 +1,95 @@
+selbie
+Jan 1, 2024
+#32,815
+Merlin StWahgwaan said:
+Also, random thoughts...
+
+Has anyone ever taken Ancient Keys, from the Guardian Beacons, to the Anomalies?
+Or Thargoid stuff for that matter?
+
+Try flying around, see if they behave differently, jettison them and test....
+
+Anomalies
+
+Maybe somthing might happen...?
+I realize I might just have opened a can of worms, but someone with Corrosion experience and some time, could check it out XD
+
+I'm certainly unable too XD im still out near Beagle Point... and I'm not in the best of situations XD after repairs in BP, I headed out... and lost an SRV...annndd Passed Out on the surface of a planet.... "-_- Oi my life...
+Lost all my exo-bio scans since BP, which isnt fun considering those were the first i ever did, ever, lol, lost an SRV, and all for what?
+Lol, So I could stand WAY to close to a Lava Gyser in a basic Artemis Suit without any shields turned on.... XD OOOPS lol
+Anyways, off to the next adventure lmao....
+
+Headed to a DSSA Fleet Carrier next, on route to the large, oddly shaped Permit Locked Region out here by BP... it has me curious... just wish I had a Key from a Beacon with me for some Guardian theory chasing...
+
+
+P.s. - Note to Devs.
+THANK YOU F.DEV !!! for not having me completely die on the surface of that planet, and lose my ship and go to the great unknown with none of my exploration data...!
+I havnt sold the vast bulk of my ships nav data since I left the bubble, expecting a huge payout for first discovered systems with full system scans... was about to rage quit forever after I passed out and thought it was all gone!
+Thank You F.dev!
+And Happy New Year to All!
+Click to expand...
+
+Has anybody tried bringing the artifacts near the Brain Trees to see if their sounds change at all? BTs seem to be heavily associated with Guardian systems so I wonder if they react in any way. Additionally their tech is nano-bot based so the items themselves may respond or change?
+
+Louis Calvert said:
+Follow up to my previous post investigating the Landscape Signal.
+
+Right folks. I want you all to get a brand new piece of tinfoil from your Pilot's Federation official tinfoil container. Make sure there's no holes in it. Do not re-use an old piece! Fashion it into a sturdy new hat, it's advised that you use two layers for extra protection.
+
+
+
+I believe the Landscape Signal might be a (partial) map.
+I've drawn lines over a composite of of recordings of the Landcape Signal taken from many different locations and under many different conditions (total of about 10 hour of recordings). I've picked out the details that occur in the of spectrograms. This is, at best, an of what I'm is actually there - but I can't say for sure that I've got this right. I encourage you ALL to do this for yourself. All the software I used is completely free and the rest of this post details the methods I used. Please, please test this yourself. The below is a work in progress:
+
+
+
+There's an alternative which is representative of what's there, but I'm not sure if the additional pillars in the image below are part of the 'landscape image', or are part of the signal coding since similar 'pillars' also appear later in blank areas in the same configuration (still investigating).
+
+
+I have compressed the following within Spoilers to keep the physical post short.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I think it's an image of the "Omphalos Rift" on the surface of a planet. I think the 'towers' are the 'gate', the valley between the two mountains is the 'rift', as in, .
+
+I do not know why the left and right channels seem to be different. Most notably there's that very weird thing in the top left corner. It appears regularly enough that I'm sure it's there, but it's hard to see properly, what you see in the image is my current best interpretation, and yes, it seems to be different between left and right. It's possible the difference is just an artefact of the spectrogram processing.
+
+
+
+This is 11 seconds out of 100-ish seconds of signal. There are of other shapes in there but I wanted to get this out here and get feedback on it while I'm working on the rest.
+
+My hope/guess is that the Landscape Signal is essentially a fragmented treasure map.
+
+I wonder if there is more audio that can be found in more specific locations which we can use to 'fill in the blanks' in the Landscape Signal? Much like piecing together a map that's been torn into bits. The key is that the Landscape Signal can only be detected in realspace - how many of us have sat in solar systems in real-space and recorded audio? How many systems? how many planets? I bet not many. Most explorers stay in supercruise most of the time (any why not!)
+
+I believe that the key to solving Raxxla is to find additional unique audio in realspace that we can combine with the Landscape Signal to create a full map. I think that's what the Raxxla Logo shows. Possibly even recording the audio while looking towards the Landscape Signal source, which will fill in the blank sections... something like that.
+
+That's all I've got for now. As I said, work in progress, just wanted to share this with you all Happy New Year!
+
+(Please do test this yourselves, I'm very frequently wrong!!! The Landscape Signal is pretty much the same when recording in Sol as it is here right next to the apparent source, so everyone, everywhere in the Galaxy can do this if you want.)
+Click to expand...
+The recordings you provided have definitely cleared up a lot of things for me in terms of what is part of the signal and what is noise. They also show much more detail in the shapes and lines. There are definite repeating elements (the mountain is exactly the same in each iteration during the spectrogram), however, the hard part is figuring out what the common factor is for the repetition - I have a feeling the "original" signal is intermittent and what we receive is quite literally very fuzzy incomplete clue to point us to an idea or place.
+If it is a place, perhaps it's located at one of the systems nearby its origin and we just need to figure out which mountain range it's pointing to shouldn't take too long...........
+Last edited: Jan 1, 2024
+Reactions:
+Merlin StWahgwaan, Louis Calvert and CMDRCorrMorningstarFelian

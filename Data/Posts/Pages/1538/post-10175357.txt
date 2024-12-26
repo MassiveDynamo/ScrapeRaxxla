@@ -1,0 +1,33 @@
+Han_Zen
+Jul 5, 2023
+#30,747
+Jorki Rasalas said:
+It might be worth noting that the word “Omphalos” has several different meanings:
+a religious stone artefact
+the mythical stone that the Titan Rhea gave the Titan Cronos to swallow instead of the new born baby Zeus
+navel, central point, hub, focal point
+Hypothesis/book by Phillip Goss arguing for creationism
+marble section of the floor of Hagia Sophia
+
+And condensing all we know about Raxxla from the Codex:
+“Legend of Raxxla has been circulating, in whispers, for centuries...mysterious place, the location of which is a deadly secret....unremarkable moon....Omphalos Rift described as a gateway/tunnel”
+
+Now: that bit about circulating for centuries in whispers strongly suggests to me it’s orbiting and hidden; the Ancient Greek centre of the world was at Delphi where the omphalos stone was sited; “hub/focal point/central point” could mean a barycentre.
+
+I’ve long thought that Raxxla may be hidden in Sol (Mars alien artefact strongly indicates prehistoric alien visitation) and the logo suggests Raxxla may be at or past Saturn (hexagonal storm nicknamed Omphalos by New York Times readers) or Neptune (dark bands of logo suggesting a trident). I’ve done a lot of investigation into Saturn and Neptune, but going past these the next (minor) planet out is Pluto. Pluto the outer edge of Sol in the original game release (reminiscent of old E/F mission from Shinrarta, deleted early in 2016, which mentioned “obfuscated in the outer rim”). Perhaps those old E/F missions were deleted because that clue was deemed to be too obvious? And Sol was extended with additional bodies to make Raxxla harder to find? (Edit: wasnt that expansion of Sol in 2016 at around the same time that those E/F missions were removed?...ah yes, 25Oct2016 under stellarforge...this is suspiciously close in time!) . This might also explain the phrase “outer rim” relating to TDW if TDW are just a red herring to obfuscate Raxxla’s location.
+
+Pluto has an unremarkable moon Charon. Charon was the mythical ferryman of the dead over the river Styx to the Underworld and his name was supposed to be spoken only in whispers lest he be invoked. Together Pluto and Charon orbit a barycentre (which in-game has an associated bodyid, so clearly proximity to the barycentre could be tracked by the software). There is an installation named “Delphi Control Chapter” close to that barycentre.
+
+My current hypothesis is that you either have to
+(1) SC drop out at or very close to the barycentre to trigger the “omphalos event” (to download Raxxla from the FD server), say less than 50 km- the drop distance to enter a comet’s instance (and since comets are in-game SmallBody this would fit MB’s “you have to make some things a tiny little bit obvious”), or
+(2) that the Omphalos trigger point is hidden in that Delphi Control Chapter installation.
+
+Many have dropped at Halley’s Comet in Sol, which can be easily located via the galmap search bar, but nobody has reported that the Raxxla event was triggered. But has anyone dropped at the Pluto-Charon barycentre? It’s almost impossible to drop within 50Km....which makes it a very good hiding place.
+
+The other possibility, that it is hidden within the installation, will incur combat and this could comply with the original criteria from Holdstock’s novella that “you have to be Elite” -my investigation on my last visit in my exploration ship had to be cut short as I got a trespass bounty and was being attacked from all sides. This fits the “deadly secret” phrase of the codex.
+
+My arthritic thumbs and tendonitic wrists prevent anything other than minor combat. Anyone want to take on the challenge? Edit: though there’s a possibility the faction there (Sol Constitution Party IIRC) TDW and perhaps you need to provide some form of support to that installation to gain access?
+I have tried to drop there several times. No idea if I made it.
+I think you get the ID in the log file.
+Reactions:
+CMDRCorrMorningstarFelian

@@ -1,0 +1,17 @@
+Lakon Spaceway
+L
+May 15, 2020
+#16,431
+I took my tin foil hat off and it appears that I have an aluminium foil head under it; so, here goes nothing:
+
+When they found the Formidine Rift Alpha site (and Conflux and Hawkin Gap), they found that the transmissions from the unregistered comms beacons could be decoded by a keyed Caesar cipher using the EXODUS as the Key.
+
+Putting RAXXLA through that same cypher, I got NEWWHE.
+
+assuming that I might be onto some thing and that this might be the start of a message, and that it might run New Whe--- ..., I abduced that the second word would most likely be Wheel. That gave me the next two letters (EL) as AP when I ran it through the cipher.
+
+I tried querying systems starting with AP in EDSM, and I ran those through the cipher. I got nowhere good out of it, and I tried adding each letter of the alphabet after AP (APA... APB... AP B... etc.).
+
+To cut a long story short, I shouldn't have bothered starting tellling it; but, anyway, that's where I'm at with that one. If anyone has any ideas for developing on this then, go for it.
+Reactions:
+PeteACarter, Machina Ergo Sum, darkflemish and 4 others

@@ -1,0 +1,82 @@
+Louis Calvert
+Dec 18, 2022
+#28,535
+SpocksOddSocks said:
+I saw something on here recently that said generation ships were being sent out until about 2400, and that hyperdrive was too unreliable for transporting people until around that time.
+
+I think the link was a transcription of an interview with Michael Brookes.
+
+70,000 still seems like a lot, but it definitely wasn't limited to as short a timespan as 33 years.
+That quote would be nice if you can find it. There's a lot of... creative interpretations using alternative lore sources here, so 2400 needs some backup.
+
+I did the transcription of the interview with MB (others have too), the spoiler tag here is a repost from my notes (typing errors abound, beware!) because I cna't find my post on it where I'd corrected the typing errors!:
+
+SPOILER: MB INTERVIEW TRANSCRIPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is what I mean - Michael has clearly put thought into it, and for whatever reason, decided that 70,000 generation ships is a reasonable number?!?!
+
+He also doesn't comment here on DJ's comment about there being a "200 year gap" in the lore around that time - might be nothing, but... well it's weird.
+
+If you read this Dev update from Michael Brooks, there's a lot of weird confusion here with dates:
+Putting on my story hat for a moment the sharp eyed amongst you have noticed a story in GalNet about ‘The Missing’. In brief The Missing is an encompassing term for everyone who has disappeared without trace in deep space. This includes colonists on the ancient generation ships, lost colonies, disappeared scientific expeditions and a host of others. Some will know from our timeline that many thousands of ‘generation ships’ left the safety of Earth beginning in the 24th century onwards, and headed out into what was then largely unknown – with just some data from probes to guide them. The process was completely unregulated, and many were not as well prepared as they should have been. In those days when faster-than-light communication didn’t exist, many of these potential settlers faced terrible risks alone, travelling thousands of light years into the black, not unlike the wagon trains that set out across continental US in the 18th and 19th centuries before them. Not all were successful at founding new worlds. Most were not. Some managed to return with tails of their adventures. Some were lost in deep space, the dead hulk of their ship carrying on an almost endless trajectory ever deeper into space. Others managed to land and survived for many decades before being overtaken by some local disaster. Some may still be alive, just restricted to low power light speed communications, or no comms at all, as their equipment has failed over the centuries in between. We say they have disappeared without trace, but just maybe some will find some traces of them that are still out there…
+Click to expand...
+
+This was posted in 2015, and it says that "many thousands of ‘generation ships’ left the safety of Earth beginning in the 24th century onwards".
+The overall idea matches, but the date (24th century) doesn't match this Galnet article (presumably penned by Brooks too:
+
+"Before the development of faster-than-light travel, colonising distant star systems was a profoundly difficult proposition. For the people of the 21st Century, the answer was the generation ship. These vast interstellar arks, equipped with everything needed to sustain human life, were crewed by multiple successive generations – pioneers who were born, lived and died aboard a starship."
+
+"The first generation ship was launched in 2097, and in the centuries that followed, many more set off into the vastness of space. Most of these ambitious expeditions were funded by large corporations, and the penalties for interfering with them were severe, given the enormous cost of mobilising them."
+
+"At the time of writing, there are believed to be somewhere in the region of 70,000 generation ships coursing through the galaxy. The approximate location of most of these ships has been calculated, but not all are accounted for. Many of the corporations that funded the original generation ships have now been dissolved or assimilated by other organisations, so it is difficult to determine exactly who is responsible for some of these vessels."
+Click to expand...
+
+So what's we seem to be seeing here is a lot of confusion around these early dates.
+
+And yet we also have the information from the Codex that Raxxla was already a known circulating myth from prior 2296 - which is on the cusp of the 24th century.
+
+Even if we assume that Gen ships were still dispatched for 'centuries' after 2097 (for some bizarre reason). The question remains - why? Why send gen ships out at all? and doubly so decades, centuries after FTL was invented - even if it wasn't yet commercially viable, the fact that it exists means that Gen ships will be long overtaken before they reach the goal (which we're also told did happen to most of them). Even if we say that Gen ships launched for 300 years after the first, taking us to 2397 (24th Century) then that's still over 230 ships launched per year, an incredible amount of ships to construct every year for 300 years straight.
+
+Edit: I forgot to say, notice too that in the Galnet post above it says "there are believed to be somewhere in the region of 70,000 generation ships coursing through the galaxy", not that only 70,000 were launched, but that 70k ships are still travelling, I just used that as my lower estimate number for the maths, this implies there were many more than that.
+
+Edit 3: So so sorry, I mean to include this too from Galnet:
+In this modern age it’s hard for us to imagine that before the Federation, humanity existed on just a single world, bar a few small colonies on Mars and the Moon. Even stranger to our current experience was the fact that so many disparate tribal groupings, or ‘countries’ existed on one world.
+
+The Federation arose from the ashes of the Third World War in the mid 21st century. The war caused tremendous devastation across the planet, decimating the population.
+
+Many different factors changed humanity’s outlook after that. The rise of the corporations, the discovery of the first fossils on Mars, and the explosive exploration triggered by the invention of the hyperdrive by Li Qin Jao and others in the 22nd century, first by unmanned probes, then with manned craft, overtaking the generation ships sent in the previous decades. Despite the huge dangers involved, a massive land-grab followed, fuelled by the voracious corporations.
+Click to expand...
+This confirms the Galnet statement above, that Gen ships were launched prior to FTL, and then manned FTL ships overtook Gen ships - so again, the idea of still sending gen ships out after FTL was viable for travel (even on a small scale) is very, very strange and doesn't make sense.
+
+Essentially I feel like one of two things has happened to muddy the waters:
+
+a) (in-game )History was changed via a conspiracy (similar to the conspiracy that redacted the entire first Thargoid war)
+b) (out of game) The writers made some significant changes to "something" in the early part of the timeline that required the shuffling around of a lot of dates and timescales and ideas.
+
+Both of these lean towards the idea that there's something we're not seeing in that early part of history - the part where we know Raxxla was first discovered.
+
+Edit: @CMDRCorrMorningstarFelian I can't even...
+Last edited: Dec 18, 2022
+Reactions:
+Maidor, CMDRCorrMorningstarFelian and Rochester

@@ -1,0 +1,26 @@
+Merlin StWahgwaan
+Jun 2, 2020
+#16,982
+simulacrae said:
+I seem to remember that both nav beacons and stations transmit morse... but its been ages since i looked into that.... I have vauge recollections on the old thread of a discussion about that...
+
+I think you might be right, up to a point....
+
+As CMDR Yates mentions here:
+
+CMDR Yates said:
+The funny-named installations were added in Beyond: Chapter 2 as a location for the new installation interactions and assault/defence/heist scenarios. All of which are interactive to base game players IIRC.
+
+Previous to this, there were a few dozen/hundred hand-placed, hand-named installations (and listening posts, which were hidden message-related) but Beyond added thousands more procedurally named and placed examples, and some of them have weird, suspect-sounding names as a result of their machine-generated origins. I think there are naming templates with set "bins" of words that the installation names are plucked from, and thrown together. I've seen ones almost identical to this. For example, there's a Pinnacle Biochemical Analysis in Chacobog. So I suspect one of the name templates for science installations is [[corporate-sounding word]] [[name of a science]] [[name of scientific activity]]. Likewise, one of the templates for industrial installations seems to be [[letter of Greek alphabet]] [[name of space phenomena]] [[industrial activity]] so you have names like Zeta Comet Fabrication and Epsilon Eclipse Industries.
+
+Of course, this doesn't mean there's nothing hidden at some of them. Just that the station's existence, name, and accessibility to non-Horizon's players isn't itself an indication of anything unusual.
+
+On the flipside, Sirius is of course deeply involved in the game's back-story and there are several conspiracies involving that system/Sirius Coporation/Wreakin Construction/etc. so anything there is worth checking out.
+
+I would be sure to check as many other similar science installations to make sure they don't all have the same sound. It might still be something interesting even if it is, but if you find the transmission is unique to Sirius (or if each system is unique), then that would set alarm bells ringing.
+Click to expand...
+
+
+So bottom line, there probably ARE a bunch of stations/installations that transmit Morse code or some other data, but I have no idea which ones, and its unlikely that they all or even the majority of them, do.... its going to be hit or miss to find the ones that do now if what CMDR Yates said is correct...
+Reactions:
+[PS4] Filthymick420

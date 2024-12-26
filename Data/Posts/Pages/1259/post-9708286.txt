@@ -1,0 +1,14 @@
+Jorki Rasalas
+Jan 21, 2022
+#25,162
+Lashed said:
+Are we agreed that the game is accurate to star systems around us? So therefore real world data has been used and can be considered canon to the development of the universe in the game?
+Mmm, not totally convinced on this point. DB is IRL interested in astronomy, & he has said (David Braben Gamescon 2016, m.youtube.com/watch?v=wQaK-j1n8co) at 3:30 minutes “Scientific accuracy is really important to me”.
+
+FD did feed IRL star catalogues into Stellar Forge when populating the ED galaxy, though this has led to some errors within game due to inaccuracies/contradictions in those catalogues, e.g duplicate stars, sometimes with different names but at only a light year or two separation etc. I found, and reported, a duplicate system out in IC1805- same name, different bodies, dont think it was ever corrected. The major contradictory point is LAWD 26, where the second star (actually the one you jump onto) is a Wolf-Rayet star. Now WR are massive stars and exceedingly bright. The nearest WR IRL is Gamma Velorum (reputed home of the Guardians) which is at 1096 ly from Sol but “is one of the brightest stars in the night sky, and contains by far the closest and brightest Wolf–Rayet star” (Wikipedia).
+
+At 26ly from Sol the WR in LAWD 26 should be the brightest thing in the sky, day or night. This is a glaring inconsistency which has not been explained, in lore or anything else. I’ve explored that system several times but never found anything leading to Raxxla, or anywhere else. Talk about “you have to make some of it a tiny little bit obvious” (Michael Brookes, DJTruthsayer [TIQ] Michael Brookes Lore interview 14May2016
+player.twitch.tv/?volume=0.8&video=v66487974&time=1h40m30s)
+Last edited: Jan 21, 2022
+Reactions:
+Rochester

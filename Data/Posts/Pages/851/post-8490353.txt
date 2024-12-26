@@ -1,0 +1,10 @@
+Han_Zen
+Jun 2, 2020
+#17,004
+Merlin StWahgwaan said:
+hhmmm..... intereting.... need a corrosive cargo hold now.... hmm.... ive had theories involving the thargoid items... time to start investigating.....
+It’s a bit tricky to get the station name, after they(TS) also started to scan ships. The morse message changes when you are within 1000m of the TS.
+If you want the station name, you need someone else to drop the TS.
+If you drop it your self, you imediately get the ‘Ship scan detected’ message and will not get the station or planet name.
+Reactions:
+Machina Ergo Sum, B1rdy, [PS4] Filthymick420 and 2 others

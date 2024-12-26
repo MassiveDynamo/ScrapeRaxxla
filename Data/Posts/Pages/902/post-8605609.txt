@@ -1,0 +1,24 @@
+Cmdr SpaceMerlin
+Jul 21, 2020
+#18,021
+RG_in_space said:
+I've just finished grinding Imperial Duke rank too, and got 2 tip-off missions.
+
+Only tested one before logging off, because for once it didn't talk about a crashed ship.
+
+Here's the message:
+View attachment 181555
+Got there, 0.37G planet, and it's a Federal Python, landed (it fires but never takes off) on the ground, with no cargo on board, inside the fence of a heavily defended installation (3-4 turrets shoot at you once you get within 3km and they're pretty mean - tore through my Conda's shields in under a minute). Scanning (manifest+data) the ship yields nothing. Tried getting close with the SRV but the turrets started shooting from 1.5-2km away. A transport ship (type-7 from Cupinook Industry) hovers over the installation then high-wakes to Naitis before being replaced by another.
+
+I will try replacing my weapons with fixed ones and come back to get rid of turrets before taking care of the Python. Maybe tomorrow or later. Go check it out if you think it may be interesting.
+
+The other tip-off ( i haven't tested it yet) was a classic crashed ship on Juracame 1 A at Lat 3.12, Long 146.83, expires on August 1st.
+
+I'll post in the dedicated upon completion of the two.
+Click to expand...
+
+Just a little follow-up on this: it was most likely off-topic for Raxxla, sorry.
+It's in fact a previously known tip-off mission, and the settlement is of the "M6H" type, apparently the toughest. I'll scan it tomorrow, but there is nothing more to be expected than firmware mats (which is still pretty good).
+Just in case you come across such a surface POI though, i'll leave here this extremely useful Reddit post with recommended scan paths that i found while researching the place.
+Reactions:
+[PS4 Pro - PC] earthtone99, PeteACarter, Hanerib and 2 others

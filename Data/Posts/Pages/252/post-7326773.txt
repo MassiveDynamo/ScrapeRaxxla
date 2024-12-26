@@ -1,0 +1,13 @@
+CyberTribe
+C
+Jan 8, 2019
+#5,025
+CyberTribe said:
+Also, one of strange things that i stumbled upon, it's most likely not connected to the Raxxla search, but why not:
+
+On the wiki and Cannon website there is listed only one comms beacon for Formidine site Beta in Eafots LZ-H b10-0
+However arriving there i found 2 of those.
+Quick google didn't get me a definitive answer, so was it already discussed and discovered earlier, or is that one beacon a new thing, as it's not listed in the original Formidine rift project?
+
+Listened for both, message is the same, one is broadcasting every hour at the start of an hour, second is broadcasting at 15 minutes past sart of an hour.
+Nothing to see there.

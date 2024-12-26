@@ -1,0 +1,17 @@
+Beng_Ammon
+B
+Nov 7, 2024
+#35,248
+Inverted Walrus said:
+Ah right, I wondered if HexCube was just a secondary alias for you.
+I'll have to find a way of contacting FDev that isn't just a generic support ticket, as I don't really want to waste their time.
+
+
+The tesseract idea is interesting. I've remade your diagram and tilted it 30 degrees to make it easier to see the layers.
+View attachment 407419View attachment 407420View attachment 407421View attachment 407422
+Thank you, I have no image editing skills at all
+
+
+These images you can see the "Arrows" that form from the negative space much more clearly.
+
+Edit: this is actually very clear on explaining my line of thinking. Each "Face" of the outer 3d cube has 2 paths, 1 that gets to raxxla, one that doesn't. (or one that hits the orbiting body, and one that doesnt.

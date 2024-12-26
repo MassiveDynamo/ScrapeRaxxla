@@ -1,0 +1,12 @@
+Robert Rockbite
+R
+Sep 6, 2022
+#27,126
+Jorki Rasalas said:
+When you select any system “signal” from Pyroboros’ spreadsheet it is identified on the star background as “systemname” [Threat 0], you then need to fly out to its position and drop into it. It then appears in the journal as “systemname comet Xx”. You then select the next “signal” and repeat until all bodyids are known and the final one crashes the game. So you have three comets there!
+
+Mmm. Might be interesting, having identified a “comet”, to try fss scanning it?!
+OK, so I no longer see "Comet" in game, but only in the journal files. Confirmed as Alpha Cygni Comets 1,2,3.
+FSS scanning is possible, but the signal is visible in FSS only while it is targeted. No info, and some clackediclack sound, a bit like an asteroid cluster, but a lot more subdued.
+Reactions:
+Han_Zen and Jorki Rasalas

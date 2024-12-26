@@ -1,0 +1,15 @@
+alexzk
+A
+May 13, 2020
+#16,399
+Hmm ...new discovery
+https://www.edsm.net/en/system/bodies/id/16814302/name/HR+6819
+This was known as double star till lately. Now we know it has blackhole there too. Whom to write to fix star system?
+
+Btw, in beta funny things happen - people cannot catch up carriers - not enough of speed. I think because systems are heavy populated, carriers are on very low orbits where speed is big
+Also scanning details:
+once carrier arrives orbit you can see (1) human signal on map, AND (N) geological signals or whatever planet has even if u didn't DSS it yet. To be able to target need to do DSS.
+So that could be good practice put carrier on 8th moon orbit if any. So you check for DW as well.
+Last edited: May 13, 2020
+Reactions:
+Machina Ergo Sum, Vetinari, PeteACarter and 1 other person

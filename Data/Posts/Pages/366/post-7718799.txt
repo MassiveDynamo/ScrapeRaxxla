@@ -1,0 +1,6 @@
+AegisXOR
+A
+Apr 6, 2019
+#7,303
+The "J" beginning each number might be the typical format, but I haven't checked against anything in-game yet.
+The coordinate sequence is the sexigesimal J2000-equinox RA and declination, hence the "J" designator.

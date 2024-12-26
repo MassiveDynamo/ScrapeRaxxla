@@ -1,0 +1,46 @@
+simulacrae
+Jul 28, 2021
+#24,072
+Vasquess said:
+SPOILER: AFAIK THOSE SYSTEMS FROM ORIGINAL ELITE ARE IN ED:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This information is without guarantee
+
+Ya i played around with this a bit last night
+Used the list the thread 'Systems from Elite (1984) in Elite Dangerous'
+Got the coordinates from the Galaxy 1 and did an overlay with their Elite Dangerous locations… doesnt really translate. 1984 elite lacks a ‘z’ axis so spreads them out more… in ED looks like they did a relative distance … so most are in a nice bubble…. There are a few outliers though … like Ra.

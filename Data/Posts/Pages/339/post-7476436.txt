@@ -1,0 +1,10 @@
+Jorki Rasalas
+Mar 17, 2019
+#6,772
+Old Duck said:
+I admire your approach and dedication! I just wonder if Frontier would have gone through the trouble of writing the programming code for something as complex as this. They've done some crazy things in the past, like embedding maps in audio files, but it feels like they have less time to spare these days for "extra-curricular" development. Unless an "unlock Raxxla" mechanism was added very early in the development of the game...
+
+Raxxla has been in-game since the beta (source DB), hence it makes sense for the mechanism to access it (if it is indeed accessible, we assume so else this thread is pointless) should also have been implemented from the outset. The in-game object which represents Raxxla may have been polished/upgraded with game improvements (as Zurara was upgraded from a derelict anaconda to a derelict megaship when the latter were introduced) but I doubt the access mechanism has been altered. And yes, I also doubt that access mechanism requires overly-complicated procedures. I suspect it is “hidden” in plain sight but nobody has thought to try to access it in the correct manner, e.g. a black hole that has been set up as a hyperspace transition (like a high wake point) once you get within the event horizon, or a low-emission station with low reflectivity that must be seen visually (“eyes to see”) within a short distance (e.g. a light second or so).
+
+Another possibility is that it is hidden off the beaten path; MB once said something about things of interest being off the ecliptic & I don’t think we ever had that comment explained. The only things I’ve ever found off the ecliptic were uss.
+Last edited: Mar 17, 2019

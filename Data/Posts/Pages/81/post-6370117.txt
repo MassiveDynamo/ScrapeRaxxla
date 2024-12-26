@@ -1,0 +1,31 @@
+Jaiotu
+Jan 31, 2018
+#1,610
+Han_Zen said:
+Continuing on the Sirius/Raxxla link, I decided to take a closer look at the Sirius system with the help of good old Kepler.
+
+Fact sheet for Sirius:
+SPOILER
+
+Kepler'e law of planetary motions.
+http://www.astro.cornell.edu/academics/courses/astro201/images/mbin4.gif
+
+I started checking the different bodies.
+
+Sirius A and Sirius B has a=20 AU and P=49.698 years. Put them in the formula and M=3.239 Solar masses. The game says that the combined mass of Sirius A and Sirius B is 3.2382. I call that a match.
+
+Sirius A and Waypoint has a=2 AU and P=1.777 years. This gives M=2.533 Solar masses. In game the mass of Sirius A is 2.5312 and the mass of Waypoint is ignorable small. Another match.
+
+Sirius B and Lucifer has a=0.05 AU and P=0.271 years. This gives M=0.017 Solar masses. In game mass of Sirius B is 0.7070 Solar masses. This is way of. Lucifer should be further out or orbit much faster.
+
+Another funny thing about Lucifer is that it's marked as tidally locked, even though its orbital period is 99 days and rotational period is 4.9 days. This could be described as a 20:1 sync., but it's still kind of funny.
+
+I decided to reverse the calculation to see what orbital period Lucifer 'should' have had. Put a=0.05 AU and M=0.707. This gives P=4.86 days. Same as the Rotational period.
+
+Whats up? Is this a bug or is something hidden out there that slows Lucifer down, but prevents it from falling into Sirius B?
+
+It doesn't look like anyone has uploaded data for Sirius at http://www.elitegalaxyonline.com
+
+If you upload the system data into the system you should be able to generate an orrery view. I'd do it myself but I'm working on getting the Sirius permit (well, I DO have a permit but that account is over at Colonia).
+Reactions:
+Macros Black

@@ -1,0 +1,6 @@
+yelboc
+Jul 9, 2019
+#9,481
+In the same way a circle is a projection of a sphere from 3d to 2d, so a tesseract is the 3d projection of a 4d cube - a cube being the definition of a connected space where all points connected are at 'right angle' to each other and 'sides' of equal length. The animation often presented is of a 4d cube stereographically projected onto 3d space, whilst being rotated in one of the visible dimensions (i.e. it only appears to change because its being rotated). Its also capable of translation like any other object, but it's shape would only change in the 3d projection if it was rotated or if it was translated in the invisible direction, thus changing the projection.
+Reactions:
+Edelgard von Rhein and FullM3talX

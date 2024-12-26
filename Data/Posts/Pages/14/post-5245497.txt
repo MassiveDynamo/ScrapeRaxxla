@@ -1,0 +1,41 @@
+Alex Ringess
+Mar 6, 2017
+#265
+Hi everyone, hi The Black.
+
+I read that tonight very carefully and the whole.
+Very interesting quest and method. I think the method is the right one. Brute force method, here, wouldn't be doable, which mean that that quest should be longer than expected.
+
+Some thoughts about the "Dark Wheel" missions (sorry for the followed words, I'll quote Drew Wagar from memory, I have no links, but I guess Drew could confirm).
+
+1 Drew said few times (the most recent was when he was a guest the BroCast of Josh Hawkins, a CoR was also guested by Josh but I don't remember who) that Raxxla could be found by everyone in the game, which mean that is not necessary to be Elite to find evidences or clues, nor having Horizon. Then, Raxxla is not settle on a planet, it must be in space.
+
+2 He also said that it could be found ingame, which also means that all we need to find Raxxla is ingame, even the tools.
+
+3 Drew said that Raxxla could be found by Brute Force method but it would be very hard in that way (he also said that lonewolf could find it too). On the other hand, he said that Raxxla was not a particular place we could find like an USS or so.
+
+4 He said that Raxxla would be obvious when we'll have all the pieces of the puzzle in our hands (maybe we could have Raxxla in front of our eyes from the begining but we didn't know that because we didn't understand WHAT is Raxxla exactly, as we didn't have all the pieces of the puzzle in our hands).
+
+5 Finaly, he said that Raxxla could be found by chance by anyone, alone or not, which could mean that it is a particular object.
+
+
+
+Regarding the point 1, its obvious that it couldn't be the right direction to go, as these missions imply to be Elite. Its also obvious that it couldn't be in a permit locked system too.
+
+
+
+About the rogue planet hypothesis (this one is my favorite, to be honest).
+
+The very first rogue planet, if we believe Wikipedia, was found in 2011 ("Astrophysicist Takahiro Sumi of Osaka University in Japan and colleagues, who form the Microlensing Observations in Astrophysics (MOA) and the Optical Gravitational Lensing Experiment (OGLE) collaborations, carried out a study of microlensing which they published in 2011. They observed 50 million stars in the Milky Way using the 1.8-meter MOA-II telescope at New Zealand's Mount John Observatory and the 1.3-meter University of Warsaw telescope at Chile's Las Campanas Observatory. They found 474 incidents of microlensing, ten of which were brief enough to be planets of around Jupiter's size with no associated star in the immediate vicinity. The researchers estimated from their observations that there are nearly two rogue planets for every star in the Milky Way." https://en.wikipedia.org/wiki/Rogue_planet). We must keep in mind that the Stellar Forge is pretty accurate. Its a simulation system. All the properties of each objects in the Galaxy was created in a one shot process by this simulation, which means that the whole Milky Way is not created step by step proceduraly as we travelling thru it. What is generated proceduraly is the % of ressources avaliables, the USS, etc... And FDev can also using this ground to put some fixed POI on it (like the Ruins Sites, e.g.). Raxxla is probably one of those fixed things putted in hands by FDev but we not must think that Raxxla should be created proceduraly (and I don't believe that it could be in the navigation panel after a honk, even with the new properties of our ADS). That's not the case I believe. Just think about how accurated was the Stellar Forge about Trappist-1 ! It was created ingame by the Stellar Forge few years before astronomers uncovered it, which is mind blowing !
+
+
+If I follow my reasoning in the light of the elements I have mentioned above, as Raxxla is not probably a landable planet (it could be found without Horizon), it could be a rogue planet like a gaz giant, a super-earth, etc... I tend to think that Raxxla is probably something orbiting around a rogue planet, maybe it's controling its run. I have a small preference for the gaz giant, as some brown dwarfs could be very small and very close to a gaz giant in matter of properties and due of the properties of the Stellar Forge AND Galmap (see Trappist-1 system, its main star is a brown dwarf so small that it could be seeing like a gaz giant), I think FDev would have opte to that kind of objects. I don't think there is a way to find a rogue planet with the tools we have ingame but we can find a gaz giant with all the elements we have ingame. A very small brown dwarf would also have some advantage for FDev. Its more controlable with all the tools they have actually, and the orbiting mecanics are enough to making it alive, in the case Raxxla was something orbiting around it.
+
+
+
+So here is few thoughts I had during my read. I hope it'll be helpfull. Anyway, I'll follow this with a close eye.
+
+See you all later
+Last edited: Mar 6, 2017
+Reactions:
+Macros Black and M. Grey

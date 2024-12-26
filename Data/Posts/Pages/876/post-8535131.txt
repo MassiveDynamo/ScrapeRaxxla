@@ -1,0 +1,7 @@
+tangowhisky77
+T
+Jun 16, 2020
+#17,515
+More of a technical issue or bug found that only seems to happen with LFT 509. If you try and bookmark the system from your navigation panel in the ship you will get disconnected and any time you try bookmark any other system while in the same system you tried the original bookmark it will kick you again. You have to jump to a different system to get the bookmarks working again but it will reoccur when you try and bookmark LFT 509. I thought it must be a bug with permit locked systems but Sol and Ross 128 don't have this issue and I can bookmark them from my left panel no issue. Probably doesn't help in any way but it proves that there is something different about that system in particular.
+Reactions:
+[PS4] Filthymick420

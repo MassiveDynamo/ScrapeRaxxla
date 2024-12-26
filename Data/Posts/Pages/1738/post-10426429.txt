@@ -1,0 +1,12 @@
+Louis Calvert
+Sep 9, 2024
+#34,756
+Han_Zen said:
+I checked a bit on this a while ago. The clumping from lists is quite clear. This page seem to be the basis for the religion / mythology section of names: https://en.wikipedia.org/wiki/List_of_deities_by_classification
+If you check against the game, you see clumping of both classification and the specific religion. I have not bothered to check the if the system IDs follow the lists in order.
+What is clear, is that there has been filtering of the lists. Any names with non English letters, apostrophes or other difficult stuff, have been dropped.
+I also suspect that names have been left out, because their assigned system already had been assigned a catalogue name.
+
+Some systems have of course been fully manually and deliberately named, as well. These are mainly systems named by backers, systems from the official novels and significant historical Elite systems.
+Click to expand...
+Good info Thanks

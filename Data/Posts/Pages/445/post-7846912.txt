@@ -1,0 +1,9 @@
+Thatchinho
+Jun 13, 2019
+#8,892
+DrewCarnegie said:
+Just FYI:
+The 'boxy sectors of stars missing' is an artifact of the way that the Stellar Forge created the galaxy, not a graphic resource issue. The skybox is drawing everything, it's just that the star density is not smoothly delineated between sectors.
+
+There are plenty of threads about it, but I'm on my phone and can't search for a link right now. I'll try to find one later.
+It’s both. There’s the long time SF issue (which isn’t really fixable). However, there’s another issue which directly effects the skybox. The skybox one gets worse jump after jump, but restarting reverts the skybox to normal (according to reports).

@@ -1,0 +1,9 @@
+Blaggerdy
+B
+Jul 14, 2022
+#26,447
+Jorki Rasalas said:
+I tried the search in galmap but nothing seemed to be targeted.
+I had similar issues to when I originally looked at this, the important part I found is the bold bit - does that help.
+
+Open the galmap, then the search bar. Wait for the current system popup to disappear then paste in the search criteria and target the result once the popup reappears.

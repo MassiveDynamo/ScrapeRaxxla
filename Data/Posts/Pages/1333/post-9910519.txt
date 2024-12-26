@@ -1,0 +1,4 @@
+Crimson Echo
+Aug 10, 2022
+#26,651
+Have not tried since update 13, but before that goids ignored sap8 and trinkets. Only Guardian stuff, Goid stuff and escape pods (all stuff with non-standard cargo container models) seemed to give a reaction if memory serves.

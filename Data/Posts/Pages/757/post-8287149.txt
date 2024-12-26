@@ -1,0 +1,12 @@
+John Stoutbeard
+Feb 9, 2020
+#15,128
+Koben said:
+The point is that as we cannot target it, we're most likely dropping on the Asteroid Belt "Region", not at the center of it... and as I wrote before, the area is a disc about 600ls in diameter... so, quite a big area to cover... x3 because I found at least 3 of these Asteroid Belt locations.
+
+SPOILER
+Agree. And it seems that the innermost part (closer to mars orbit) appears to give better hits and show the cluster-icon.
+However if all the belts appear inside the sun, while having a location out in the belt I suspect it's still bugged.
+There's a big chance the triggers (if any) for 'stuff' is also linked to the bugged state inside the Sun.
+Reactions:
+Six6VI, Dr. Lexus, Machina Ergo Sum and 1 other person

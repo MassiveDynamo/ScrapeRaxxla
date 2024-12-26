@@ -1,0 +1,33 @@
+GURU-951
+Apr 4, 2024
+#33,764
+Rochester said:
+What’s the probability this is a graphical anomaly from lensing? Isn’t the sky box just a low res 2D graphic of a starfield plotted by the Stella forge, relative to your position in game around a 3D mesh (still impressive), lensing is just that backdrop being magnified and distorted relative to the BH in that instance.
+
+Could one presume it’s a blocky graphic being magnified?
+
+I generally have an issue with how BH are so poorly replicated in game, eg how stars or bodies in a system with a powerful BH don’t likewise have their graphics warped, let alone Earth like worlds with habitable temps etc, hardly scientific.. so there’s room for random graphical glitches? I don’t understand why this is so important!
+
+What would such an effect look like in video, or image colour saturation filtering?
+
+I’m all for literal doors in space… or monoliths…
+Click to expand...
+I'm not too versed in the mechanics of it all, but can only say that I've lensed a crap ton of blackholes over many nebulas, and only two nebulas seem to have these artifacts, Horsehead Dark and Witchhead Nebula, which has a very large patch of this sort of thing. WH nebula's patch does some incredible stuff with proper lensing, but it's rather tough to get the alignment for it. I almost think that the WH patch is a distraction from the single "monolith" that Horsehead Dark Nebula provides. Can say this, nearly everyone I've presented this to has shrugged it off as a graphical error or limitation, which has been rather frustrating. Worth mentioning is that the artifact doesn't appear if you're too many light years from Horsehead Dark, or too near, it also doesn't work if you're on the opposite side of Barnard's Loop, the permit locked side, at Epsilon Orionis for instance. Not all the images attached were from Mintaka, these are a collection from various black holes between Mintaka and Barnard's Loop during the research.
+Attachments
+253392x1487.jpg
+191.5 KB · Views: 42
+253393x5495.jpg
+250.8 KB · Views: 45
+253396x1766.jpg
+291.7 KB · Views: 47
+253397x4660.jpg
+163.6 KB · Views: 49
+253398x1625.jpg
+279.6 KB · Views: 53
+253399x6301.jpg
+299.1 KB · Views: 45
+253400x1825.jpg
+194.2 KB · Views: 41
+Last edited: Apr 4, 2024
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

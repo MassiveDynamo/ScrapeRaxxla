@@ -1,0 +1,25 @@
+selbie
+Jan 20, 2024
+#33,046
+Louis Calvert said:
+Here we go, my friend in the bubble helped with some recordings. We couldn't find the system "Asuhail", but since you were able to detect the sounds from elsewhere we did it in Lave, so this supplements my previous recordings from outside the bubble.
+
+In the Spectrograms below: the top one is flying directly towards Andromeda, recording in supercruise, with the cam at max range in front of the ship.
+The next one is exactly the same, but pointing the free cam 90degrees to one side (laterally to the direction of travel).
+View attachment 381366
+You can see the spectrograms are different. The second is very similar to the sound you recorded. The first one matches "default supercruise" sounds.
+
+To test this theory I recorded your Youtube video (top), and then did my best to copy your cam movements in a second recording (bottom). I've aligned them so you can see:
+
+
+The differences are mostly because yours is a recording of Youtube, and mine is direct from the game - but you can see the lines (which are the extra 'alien warbling' type sounds, are basically identical.
+
+Most of your vid was recorded with the camera pointing in directions other than the direction of travel, therefore you were picking up this "dopplering effect" of the sound, that sounds like warbling and tweeting and odd sounds like alien signals. As you move the cam around it changes the sound.
+
+Unfortunately, I'm not able to detect anything that seems out of the ordinary and I was able to replicate something extremely similar to your video from another location looking in different directions - which suggest you're not detecting a signal coming from a particular source.
+
+However, it's entirely possible I'm missing something, so I'd suggest you keep testing until you're happy
+Click to expand...
+Hmm, it's very subtle but I do see something there in the 2-8kHz range that matches the Lave one at 90 degrees lateral. Also for some reason it is stronger in the left (?) channel in that instance.
+Reactions:
+Louis Calvert and Quaero

@@ -1,0 +1,61 @@
+Han_Zen
+Aug 11, 2023
+#31,223
+ThArGos said:
+Dear Raxxla seekers,
+
+I would like to share with you something I've been looking into since a few days now.
+
+The starting point of my investigations is PMD2009 48 also know as the last beacon of the Michael Brooks tour.
+This tour starts with a megaship with a decal 'Raxxla Ho!' and ends with a beacon explicitly mentionning Raxxla.
+Apart from the codex those are the only other mentions in the game.
+I thought we were put on a track. I tried to keep things simple.
+is located in the Orion Nebula. This region is filled with stars from official catalogs like 2MASS.
+PMD2009 systems (there are 15) do not exist in "real life".
+This seemed quite odd to me and thought they must have been put there manually. I decided to go to all of these.
+I quickly realized that they are all perfectly aligned except for one which is dangling below: .
+
+I obviously thought about the golden chain and the pendent world.
+Then just next to this specific system I saw a system named . This started to be a lot of coincidences as this is the name of the book written by Michael Brooks.
+I then realized this chain of systems is perfectly aligned with .
+I wanted to be sure so I wrote a piece of code to check that out:
+
+
+You can see for yourself here (sorry it's been written very quickly and it's not a nice looking page):
+
+Along that quest I have seen other strange features only visible near the end of the chain of systems (PMD2009 32 for instance).
+It's barely visible but there's a polygonal shape visible from here, just above us:
+
+
+
+
+But I feel this may only be pareidolia and I should focus on the chain of PMD2009 systems and the text of Lost Paradise book 2 close to the quote of the beacon.
+So I looked at blue stars because a Saphire is blue:
+
+There are a few O, B and A spectral type stars around. I haven't seen them all yet.
+What do you think?
+Why is PMD2009 183 dangling below, just 1.5 LY from the Legacy system?
+Why are the PMD2009 chain of systems perfectly aligned with sol?
+I tried hearing with the FSS a lot but found nothing particular.
+There are two PMD2009 systems with shepherd moons:
+PMD2009 183 (4 A and 4 B)
+PMD2009 72 (4 A and 4B)
+
+
+I've been searching for gas giants with shepherd moon in this region.
+
+I don't care if I'm not the one finding raxxla, but I feel that together we can do this.
+sounds a lot like to me
+Wikipedia says it means
+
+Thanks for your feedback.
+o7
+The PMD2009 stars do exist in RL. http://simbad.cds.unistra.fr/simbad...&Radius=2&Radius.unit=arcmin&submit=submit+id
+
+I think PMD stands for 'propper motion detection'.
+
+The estimated distance to stars that are that far away is not very accurate, but the angle is. This gives the 'sting of stars' effect, when imported into a 3D environment. There are several of these stings in the game. They all point to Sol.
+
+All this does of course not mean that FD haven't used this phenomena to their advantage, when creating some mysterious content.
+Reactions:
+Darrack, Rochester, ThArGos and 1 other person

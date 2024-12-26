@@ -1,0 +1,24 @@
+Merlin StWahgwaan
+Mar 6, 2022
+#25,558
+Jorki Rasalas said:
+Many thanks!
+But was more interested in understanding the mechanism behind this search string
+Maybe I can help explain some
+
+So first off, I generally play on Xbox, and Pryrobros search mechanism doesn't work on Xbox or Horizons PC due to the old galmap interface still being used. That's confirmed, so trying will lead to failure. Experienced myself.
+
+As for how the search actually works.
+
+You need to start with the 64bit system ID, not the systems ingame name, as many systems have their names changed manually but their 64bit ID is still kept the same, so that's how you get Wregoe AC-D d12 instead of Sol for the system name, Wregoe AC-D d12 was the proc-gen name for the system, and then you need its system ID number (get from EDSM or logs).
+This is how you solve the issue of star class, renamed/custom named systems/regions, ect....
+
+Once you have the ID number, cmdr Pyroboros sheet, does the math required to clac out the body id's within the system.
+
+The rest is self explained, search from within the system already, this is to be able to target the body instead of the main star. Then just SC Assist to the location, done.
+
+Hopefully that helps explain things more.
+But yes, you need to get his sheet, and I also had trouble getting it, you may want to try another device or another browser, I had to open it on my Laptop not my android phone for it to open correctly and save before I could move it to my phone.
+Last edited: Mar 6, 2022
+Reactions:
+John Stoutbeard and Adel

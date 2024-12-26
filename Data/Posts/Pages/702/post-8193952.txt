@@ -1,0 +1,18 @@
+Machina Ergo Sum
+Dec 14, 2019
+#14,025
+Darth Ender said:
+I could explain that email as the most likely option. It is auto generated and planet is the default response for anything not listed in its database.
+
+Though it would not surprise me for fdev to accidentally leak info about a mystery. It's happened before.
+
+No it was quite deliberate because iirc the CMDR put in a request for a hint for Christmas.
+
+Edit 1: Here's the source in this thread https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-6166912
+
+Edit 2: Ah ok nevermind, I get where you are coming from @Darth Ender
+
+Edit 3: If its auto generated then I'm not sure why the word Planet would be only partially italicized. Seems like a human error to me.
+Last edited: Dec 14, 2019
+Reactions:
+bluecrash, 3navis and [PS4] Filthymick420

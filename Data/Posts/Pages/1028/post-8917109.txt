@@ -1,0 +1,11 @@
+Jorki Rasalas
+Jan 24, 2021
+#20,543
+Emperor said:
+I'm always messing with game mechanics, the things you would normally do... was trying to fly in to Sol yesterday or see if anything unusual happened as I couldn't scan it, the day before I tried jumping to a system whilst in the jet cone of a neutron star... thought trying to jump whilst operating beyond safety limits might cause a miss-jump, it didn't ;-)
+
+I'm struggling to find the asteroid clusters in Sol, never been a great explorer (my last of the 3 Elite ratings!) - any tips?
+
+Fly (fairly) slowly around the belt, say at 1327 ls from Sol which is the middle of the belt. If you select Jupiter you can see its orbit line in SC, then deselect it and fly keeping level with that orbit line and the correct distance from Sol. Asteroid cluster symbol will show up in the left holographic display on the cockpit hud. But they don’t last long! If you want you can occasionally slow down and check your position in the sysmap orrery view. You’ll see it jump 15 sectors when near an “asteroid cluster”; but there are no asteroids there, even if you drop down into normal space!
+Reactions:
+[PS4] Filthymick420

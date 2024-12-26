@@ -1,0 +1,12 @@
+Vektorboson
+V
+Jan 20, 2021
+#20,428
+Ok, here's an observation regarding the FSD-jump animation/sequence.
+
+So far I assumed that the whole animation is just a visual effect that is always the same; well with the exception of stars passing by, which I assumed are fluff (since the animation takes as long as the network request for the target system takes).
+
+When finally arriving at the destination you see the target star and you might see a few more stars close to it. I assumed that multiple stars meant that the system will have multiple stars and it seemed to be always the case.
+When visiting the "Two Ladies"-system I noticed an orange star very very close to the single star in the Two Ladies-system. I kind of assumed that Two Ladies references the two big gas giants. I repeatedly jumped into the Two Ladies-system, and there was always a second star very close by. I also assumed that it could also be one of the other star systems close to Two Ladies. Also I noticed the "phantom star" to be visible at other single star systems, but it wasn't as close as in the Two Ladies-system.
+Reactions:
+Rochester and [PS4] Filthymick420

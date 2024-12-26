@@ -1,0 +1,10 @@
+Han_Zen
+Apr 17, 2022
+#26,037
+Jorki Rasalas said:
+@Han_Zen , @Zieman :
+Have you any ideas for efficiently searching a planetary ring set? Each one must contain thousands of asteroids. I cant see that a single pilot could stand a significant probability. If we have to find the correct asteroid with limited detection range (possibly only by visual detection? and perhaps not in supercruise?) then that would definitely fit with MB’s Raxxla...”is something in the game world (not text) and very hard to find”, “it’s not a random thing” and “anyone can find it and more than once”.
+
+It would even fit with the rumour that DB said
+“It would be more likely to reveal itself to a group of players.... If you are at the right place and you scan it enough..."
+Rings are to big to find anything without a signal. You would need som sort of map.

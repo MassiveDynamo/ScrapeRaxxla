@@ -1,0 +1,15 @@
+Merlin StWahgwaan
+Jan 20, 2022
+#25,156
+I also just want to point out that those original games systems, were in different "galaxies", where as in ED, not only are they all in the MilkyWay, but they are for the most part, all in the same relative galactic area...
+
+So things from previous games, and RL, just arnt 100% in game the same.
+After the great retcon of 2017, basically, if its not ingame itself, or on the wiki or sites that have direct API access to the game/cmdr files like EDSM and INARA, than you can't assume or consider it anything cannon, and anything about realism with stars being moved/renamed from/too RL ect, is likely just a choice fdev makes if they find something in RL that closely matches the forges output already ect...
+But yea. Raxxla information should basically be taken from ingame only or from those specfic sites that can be trusted to match the game lore/content/bgs, ect
+
+
+Off topic: if fdev were updating the game to match 100% to RL constantly, first off, they'd be changing systems and planets that have no lore or consequential reason to do so, other than to take the time and money out of their budget, to have a hyper-accurate representation of the galaxy.
+And at that point, if they'd have been doing this for the last 7 years, and I've thought often about why they don't do it anyways, but, wouldn't you think, someone like NASA or the ESA or ect, would have tried to get a copy of the Stellar Forge, and its base code, ect, so they can make their own, manipulatable representation for science and things like planetarium ect?
+Like, I think if NASA thought fdev were going thru all the effort of already making a hyper-realistic galaxy, they'd be jumping on trying to license a copy of the code for themselves to use forever for having for themselves....
+Just my thoughts and reasoning behind why I know fdev dont make the galaxy 100% real, same reason nasa doesn't try to get or make their own version, the money and time involved arnt worth it for little to no reasoning besides being accurate for the sake of being accurate.
+Last edited: Jan 20, 2022

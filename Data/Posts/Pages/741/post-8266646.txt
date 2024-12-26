@@ -1,0 +1,15 @@
+Darth Ender
+D
+Jan 27, 2020
+#14,820
+we were always supposed to be able to fuel scoop gas giants. It just never came to be.
+
+The only thing that could be considered a shadow system would be the errors caused by the stellar forge where we incorrectly generate stars inside eachother.
+
+There are a number of systems on the galaxy map you can't actually navigate to, but you can travel to if you're close enough and you direct select the system. Problem is, that system is inside another existing system (that you could have navigated to)... due to the way the stellar forge parsed the star map data to create the galaxy. There's no way to remove these systems in the current engine without re-generating the entire galaxy so fdev just left it as-is.
+
+There's no opportunity for anything hidden in these non-navigatble ...non-existing systems as they physically dont really exist in the game separate from the system they inhabit.
+
+Note, this is a different situation from how fdev creates custom systems. That method is done by taking a procedurally generated system and overriding it with another hand-created system that occupies the same exact location ...in which case the old procedural system is totally hidden along with all traces of whatever it's name was and contents and is completely inaccessible.
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum and John Stoutbeard

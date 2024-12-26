@@ -1,0 +1,42 @@
+Han_Zen
+Aug 30, 2017
+#593
+Thatchinho said:
+It's the quote from Elyssia fields that Han Zen mentioned coupled with the hinted retcon of the intergalactic jumps to long distance intragalactic.
+
+As to why do I say drives took a step backwards, several reasons (I'm talking about the loss of the type 1 (Quirium fuelled) tech btw:
+
+a. Galactic hyperdrive capabilities were lost
+
+b. Reliability and jump distance were improved but jump time went from a couple of seconds to days or weeks, which gives a net result of vastly decreased distances which could be covered. (And I don't use the word vastly lightly, I've done the workings - spoilered below).
+
+c. Drew's lore page says it! (Well specifically it says "hyperspace capabilities regressed somewhat" at the time in question, though I don't know if there would have been the maths behind it to say how much things has regressed.)
+
+Anyway the maths (open to critique, obviously! ):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The problem with a 7ly jump range, is that you can't go anywhere. You will at least have to follow the center of the galactic arm, to get very far. We only had access to one ship in Elite though. Other ships may have had longer range?
+
+In FE2/FFE, some ships had well over 50ly range(Turner class has 94ly). It would be resonnable to cover 3-5kly a year. A ten year trip would not be a problem, as you spent most of the time in the Stardreamer.
+
+Scooping was tedious in all the previous games, as you didn't drop next to the star.
+
+The technical aspects of the different jump drives aren't realy significant to the Raxxla mystery, I think. No location can be excluded based on their limitations.

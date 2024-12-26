@@ -1,0 +1,7 @@
+simulacrae
+Sep 8, 2021
+#24,244
+I have a general suspicion that when they set the galaxy spinning it was in tune (as much as it could be)… but with each update, patch, downtime etc... some slippage may have occurred.
+
+But ya i do like comparing against stelarium and seeing if there is a regular difference…. Then we could apply a correction and look for things like hilda/chiron with possibly better accuracy
+Last edited: Sep 8, 2021

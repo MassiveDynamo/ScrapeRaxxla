@@ -1,0 +1,9 @@
+Han_Zen
+Jun 11, 2021
+#23,685
+Exekrator said:
+I have a question. Every time a system is discovered, it is generated procedurally. With this in mind, wouldn't it be obvious that if Raxxla exists in the game it would be within a system that has already been discovered? Because if it's not discovered, it doesn't really exist in the game, right?
+No system exist, when you aren't in it. They don't get put in a server, when they are discovered. It's still just a key that is put in a generator, when you jump in.
+The server basically just stores what you can see in the log files.
+Reactions:
+[PS4] Filthymick420 and Exekrator

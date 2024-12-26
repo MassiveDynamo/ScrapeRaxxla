@@ -1,0 +1,24 @@
+Six6VI
+Apr 4, 2019
+#7,231
+Thatchinho said:
+No probs. And yeah it's quite similar, but 5 would have to move. And because it's in the middle layer it can't do tat independently.
+
+Basically what happens is you try to adjust your location so that this happens:
+
+View attachment 126734
+
+
+But because of the relative locations of the stars, if you try to do that, what actually results is this:
+
+
+
+Oh, and looking at the main image again, there's actually another important point - the 3 - 2 line in the image is approximately parallel to the galactic plane. In the Crux it's roughly perpendicular to the galactic plane. So via that just on it's own, I think we can definitely say it's not the Crux in the main image.
+Click to expand...
+
+You could, in theory get 5 to cross the 3-2 line and still comply with parallax by traveling to a position directly behind the Crux constellation relative to Sol, which would of course mirror the 1-4 angle as well and that's not what we see on the menu screen.
+
+If that was Crux this might be the only way to view it in proximity to Orion's belt, since they're closer to being on opposite sides of Sol. You're going to run into parallax issues again with Alnilam (Epsilon Orionis) some 2KLy from Sol while the other two are significantly closer, Alnitak around 0.4KLy and Mintaka around 1.2KLy.
+
+Assuming the back to front Crux was visible in the foreground and some distance away, I'm not sure the skybox would still be showing Orion's belt at that range either, and there doesn't appear to be any trace of Barnard's Loop, which is usually fairly prominent in game, or the Orion nebula to help with a definite location?
+Last edited: Apr 4, 2019

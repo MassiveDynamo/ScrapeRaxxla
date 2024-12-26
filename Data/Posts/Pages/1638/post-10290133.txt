@@ -1,0 +1,52 @@
+Louis Calvert
+Dec 26, 2023
+#32,753
+I've been inspired by Rochester to do some 3D mapping of the stars involved near the Landscape Search. Still getting to grips with this, but I needed a 3D representation that I can add lines and colours and stuff to!
+
+
+
+Yellow are the stars identified by the IRH search:
+It is thus concluded that the point of origin for the Landscape Signal is between the following 5 systems which if connected form a diamond around the source:
+[A] JUENAE AC-B D1-10264 JUENAE PS-L A7-41 [C] JUENAE AJ-C C2-1768 [D] JUENAE ZI-C C2-3115 [E]: STUEMEAE GG-Y C4801
+
+Green is the star closest to the signal source as identified by Canonn. The red dot is the coordinates where Canonn identified the signal originating from.
+Canonn’s commander Seventh_Circle performed his own measurements of the signal and concluded that it was within a 0.2 ly radius sphere at Galactic Coordinates 14.889 / -25.061 / 25894.980. Using 4 measurements that were closest in value, he narrowed it down further to 14.971 / -25.043 / 25894.964 with a radius of 0.075ly
+
+As you can see, there's a little bit of discrepancy there, but it's all very close (this whole area of space is only a few lightyears across).
+
+Continuing to gather more data. My goal is to verify Canonn's point-of-origin research before anything else. In order to do that I needed to develop a better method of visualising the stars in 3D space! So far all my testing has verified that the signal definitely comes from somewhere around this area, and it seems likely that Canonn's point-of-origin is accurate.
+
+Realistically if it's something even the size of a large planet, it's massively unlikely we can find it without better detection methods.
+
+My current working theory is that Fdev have deliberately placed it outside any system so it can't be reached via supercruise. This is backed up by the attempts to reach Canonn's signal source location and the fact that the apparent source of the signal doesn't move in relation to distant stars (suggesting it's outside the system instance). This means that either:
+
+1) The signal isn't mean to be reached. (so what's it for? a marker? a map?)
+2) The signal is reached via Hyperspace like any normal star system. (How though without Galmap allowing a hyperspace lock?)
+
+
+Further lines of inquiry:
+I've collected a considerable amount of recordings of the signal now. It's longer and more complex than has been so far discussed (although I'm sure those involved in the search already know, I assume it's just not been posted on the forums). There are several features, which appear at predictable places every time, meaning that the signal itself is not random, or randomly assembled from parts, it's the same signal being repeated. There are a range of sounds that aren't part of the normal galactic background, the most obvious is the singing.
+
+I've been trying to identify what the structures seen in the Landscape signal might be (if they are anything at all). To do that I'm attempting various filters and ways of cleaning up the signal, including compositing several of the strongest together to see if more features become clear.
+
+I'm unclear if the signal "means" anything in itself. It might be there simply to provide visual markers since the audio component isn't as accurate for triangulation.
+
+I have two broad question that I'm mulling over:
+
+1) Is the signal deliberate? (in-game I mean, is someone/something beaming it out)
+2) If it's natural, it doesn't match any known object, so what is it? (I have recorded stars, planets, black holes, asteroids, in real-space and in FSS, etc.)
+
+In playing around I mirrored a particularly strong signal image just to see if it spelled out anything... I'm sure this isn't the solution, but I thought you'd be interested:
+
+SPOILER: LANDSCAPE SPECTROGRAM MIRROR VERTICAL
+
+I almost immediately thought of the Arecibo message, but I don't think it's supposed to be anything like that. What's interesting though is that I'm pretty sure there's more in the spectrogram that we don't usually see. I've got dozens and dozens of these images now and I'm attempting to composite a complete image from the best parts of all of them.
+
+I think maybe part of it is trying not to see the mountain because I think that tricks our brain into just seeing the mountain. I actually wondered it was lightning, or a river delta, lots of possibilities.
+
+Not sure, lots of questions and ideas at this stage.
+
+What's certain though is that Fdev put this here for a reason. I'm pretty sure that reason is Raxxla, but even if it's not, it's an interesting investigation
+Last edited: Dec 26, 2023
+Reactions:
+Han_Zen, Merlin StWahgwaan, Adel and 1 other person

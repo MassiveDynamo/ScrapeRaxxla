@@ -1,0 +1,7 @@
+Macros Black
+Aug 26, 2024
+#34,632
+Took a look in HIP 9369, specifically B 2 H. Nothing interesting I could see.
+Tagged some first footfalls on the way down and back.
+Reactions:
+Ian Doncaster, simulacrae and CMDRCorrMorningstarFelian

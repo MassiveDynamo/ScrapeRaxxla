@@ -1,0 +1,10 @@
+Djidjel
+Jan 28, 2021
+#20,690
+Jorki Rasalas said:
+The main asteroid belt has inner radius 1027 ls from Sol outer radius is 1631 ls, so middle is 1327 ls.
+If you want to see the asteroid cluster symbol shown in the hud then you mustn’t have anything selected. It’s easy enough with a headtracker to keep glancing over at Sol to check the distance, or a quick look in the nav panel if Sol is at the top of the list.
+
+Ok. Distances from sun. 1st vid - aprox 1071 kLs, 2nd vid - unclear, 3rd vid - unclear, 4th vid - 1501 kLs, 5th vid - 924 kLs, 6th vid - unclear, 7th vid - unclear, 8th - unclear, 9th - unclear, 10th - unclear.
+
+Even with those numbers, on one instance the green glow appeared outside those numbers. We need to know if the glow can appear even outside belt limits, or if it's belt-only.

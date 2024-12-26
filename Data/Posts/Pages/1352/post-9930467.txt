@@ -1,0 +1,29 @@
+Jorki Rasalas
+Sep 2, 2022
+#27,028
+Ok, repeating here for discussion my thoughts recently posted on IRH discord...
+
+All we know about Raxxla (anything else is pure supposition!):
+(MB) “It’s in the Milky Way” and “you have to make some of it a tiny little bit obvious so people know what they’re doing”
+Q: founder's world name?...Shinrarta Dezhra... I'm a tiny little bit disappointed they didn't call it Raxxla - A: (MB) “Raxxla is something different”
+(MB) “FD did look at a story involving Raxxla, but felt that was a story that should be played out in game rather than as a novel”
+(MB) “It’s something in the game world (not text) and very hard to find”
+(MB) “It’s not a random thing”
+(MB) “Anyone can find it, and more than once”
+(Allen Stroud) “it is a topic within the Alien lore book” (that we have no insight into)
+(DB) “You don’t know what it is”
+
+We also have a credible but unsubstantiated report from Ascorbius that MB said in a closed Q&A session that “the system Raxxla is in has been visited”
+
+IMHO Raxxla is unlikely to be a system, because (1) the galmap search would find it and (2) MB‘s “the system Raxxla is in has been visited” implies Raxxla is an object of some form & not a system. Moreover it is not permit locked, unless the permit can be obtained. I’ll agree that those statements are now quite old and Raxxla might have been placed in an area which is now permit locked, but I dont think DB or MB would have done that.
+
+I suppose FD could have manually assigned “Raxxla“ as a system name and built a filter into the galmap search to prevent it being found easily, but it seems unlikely to me. As an interesting consequential thought to that-how does the ship’s nav panel know what systems are within 20ly of current position? Is that the results of a query on the galmap search during the hyperspace transition? If so then “Raxxla” would presumably not appear in the nav panel either, so how could it be targeted & jumped to?
+
+On a bit further consideration of my “what we know about Raxxla summary“ above- “It’s not a random thing”, which alleviates one of my worries that FD might have put a really difficult RNG factor into finding it. So if it’s not an RNG-controlled event then why is it so difficult to find? It could be hidden somewhere totally at random within 400,000,000,000 systems, however that contradicts the codex hints about the first rumour date and fsd range & reliability travel limitations at that time, unless the “ alien artefact” found on Mars is the source of the rumour which is quite possible (the dates are only 16 years apart). In that case Raxxla could be anywhere within an alien bubble; my money is Guardian, (though thargoid audio messages on UA/TS come to mind!) but that space (Gamma Velorum) and Col70 goid space is permit locked which contradicts the previous conclusion that Raxxla is not permit locked! So I still conclude from the codex it is not that far from Sol (within 200ly?) but still is difficult to find....mmmm, WHY?
+
+So, might be disguised as a comet, which we know are in-game but are difficult to find & have never been visually implemented (despite FD having the capability to do so-witness the trails of ships in SC, of surface probes, and own ship exhaust trail). Once you know where a comet is you can find it again, as could anyone else (edit: but its only very recently that @Pyroboros gave us a method to find them). Comets were apparently in-game from the outset, and the Pareco system seems to be designed to highlight their existence to us....
+
+Any other thoughts? The floor is open for discussion!
+Last edited: Sep 2, 2022
+Reactions:
+simulacrae, Macros Black, Dox Paradox and 1 other person

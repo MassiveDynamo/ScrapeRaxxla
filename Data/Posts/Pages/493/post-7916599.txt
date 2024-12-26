@@ -1,0 +1,24 @@
+[Diplomacy] Carnegie
+Jul 26, 2019
+#9,841
+Oseris said:
+I’m running into a bit of an anomaly here, with a couple points of interest. Stumbled upon a system called EM* LKHA 361.
+
+The asterisk is usual. It was used when naming Sag a* because the radio signal was “exciting” and atoms in an excited state are denoted with an asterisk. Apparently there are a couple other systems that use the asterisk besides Sag A.
+
+Further, it’s a permit locked system, in a permit locked region by the cone sector, however EDSM is showing 1 ship passing thru in the last 7 days.
+
+Is this suspicious?
+
+Edit: There’s also a giant gap next to it that’s almost entirely void of any stars, in a region where it’s pretty consistently cluttered.
+Click to expand...
+
+EDSM reads a journal text file. You can manually edit that journal file to make EDSM think you've been anywhere at all.
+
+There's also a case-sensitivity issue - 'e Centauri' and 'E Centauri' are two different stars. They both show in the GalMap as 'E CENTAURI', but the journal used the correct name. The original implementation of EDSM (or EDDiscovery, or both) failed to differentiate between the two stars, which causes no end of confusion.
+
+Then there's the fact that the Cone Sector used to be unlocked, but 'unreachable' - that was the whole reason that the Gnosis was planning on jumping there in the first place - so it's possible that someone using a FSD Range hack visited.
+
+Finally, EDSM could just be wrong.
+Reactions:
+[PS4] Filthymick420 and Oseris

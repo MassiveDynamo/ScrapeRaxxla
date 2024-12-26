@@ -1,0 +1,9 @@
+Koben
+Mar 20, 2021
+#22,201
+Jorki Rasalas said:
+... it’s difficult enough to get obvious bugs corrected!
+
+It's difficult enough to establish what's a "bug" and "working as intended"... once "by design" pretty much sums up every single reply from FDev.
+Reactions:
+Crimson Echo and SergMx

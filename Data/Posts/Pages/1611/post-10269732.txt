@@ -1,0 +1,15 @@
+Edelgard von Rhein
+E
+Nov 28, 2023
+#32,212
+Han_Zen said:
+Regarding the whisper in witch space. This does not have to be overly complex, to be a possible implementation of the Raxxla mystery.
+Even though the hyperspace sequence is a loading screen, it's not entirely static. It does change a bit, depending on the target star. Some form of data is loaded into the sequence animation. The sound probably has the same option.
+
+We know there are hidden systems in the game. At release you could search the galmap for test or test2, and the map would move to locations in the central bubble. one of them was very close to Sol. You cold not select them jump to them. They were used by FD for testing.
+
+FD could easily made another hidden system and put Raxxla in it. If so they would only have to override your target system for the hyperspace jump, if all the required criteria were in place. If they use Shinrarta Dezhra as either the jump from system or target system, you even get the Elite requirement for free.
+Click to expand...
+I knew of test systems (I think that there even used to be a star in one that appeared on the skybox from surrounding systems - the Sol test lights or something iirc) but I did not know that they were searchable in the Galaxy Map.
+
+It would not then be inconceivable for Raxxla to be searchable but under a different name - and maybe there is something else in the game that will provide us with that name, that lurks in the Lost Realms? If that is the case, then it fits the old lore (Jason Ryder finding evidence for Raxxla's existence but needing an expedition to get there) and it could be right under our noses (as somewhere 200LY or so from Sol is these days). Alternatively, Raxxla itself might be in the Lost Realms but the clue could be anywhere, even in a book, perhaps, without being in-game.

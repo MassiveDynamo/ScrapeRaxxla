@@ -1,0 +1,19 @@
+[Diplomacy] Carnegie
+Jun 4, 2019
+#8,621
+Let's, for the sake of argument, assume that the Codex contains encrypted/encoded clues regarding Raxxla. The question then becomes "How do we decode them?"
+
+So, what are our options?
+
+Character substitution cipher:
+The thing about character substitution is that the output invariably looks like somebody threw a Scrabble set at a wall. You simply don't get human-readable out of it, even in a different language. (See the Exodus logs for examples.)
+So we can safely assume this isn't the way.
+
+'Hidden' text:
+Hiding the real message inside a longer text - first letter of each word/line for example. Poetry is a good medium to use for this, since nobody cares about grammar or line lengths, making the creation of the fake message somewhat easier. The Codex could be using this style, but it's easily brute-forced and I personally would be disappointed.
+
+'Cryptic crossword' clues
+Do I need to explain these?
+If there's anything in the Codex to lead us forward, this is how I'd expect it to be presented - but I still don't believe that Raxxla will be found by an easter egg hunt. Still, I like the intellectual exercise of trying to decipher them, even if it's almost certainly pointless.
+Reactions:
+Edelgard von Rhein, PeteACarter and [PS4] Filthymick420

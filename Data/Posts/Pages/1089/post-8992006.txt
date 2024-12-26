@@ -1,0 +1,10 @@
+Spaceman Spiff
+Mar 9, 2021
+#21,768
+Han_Zen said:
+Lagrange point mechanics are supported by the game. The planet Lagrange in Alpha Centuri is the only example I can think of, but it works.
+
+Only L4 and L5 are on the orbit. The three other are on the line through the two bodies.
+I think I see what you're saying, but L3 is on Jupiter's orbit line opposite Jupiter.... other side of the sun, never sees Jupiter. Which satisfies my claim and yours at the same time.
+Reactions:
+Han_Zen

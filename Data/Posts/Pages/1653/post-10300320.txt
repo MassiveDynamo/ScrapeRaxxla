@@ -1,0 +1,26 @@
+Louis Calvert
+Jan 18, 2024
+#33,042
+CMDR Davanix said:
+Where these recordings made in camera view far away from your ship to cancel out ship noise? If not can you try this, im hearing it all over this area of space not just this system. move a good bit away from any planets, stars etc, go into camera view and cycle out to the max 3000m then point away with the volume up high
+Yes, that's exactly what I always do in recordings
+CMDR Davanix said:
+EDIT: Location has shifted from Andromeda after many jumps! I am uploading now to post it here however please raise your volume its very subtle its like a mix of radio frequency changing to robotic type chatter, and yes i chose the Raxxla logo for the video image as to keep with this thread lol
+
+Click to expand...
+Ok, so I think I know what's happening here. Firstly when you move the camera, there is always a sort of "warbling" noise and other sounds caused by the camera moving, this sound persists for a little while (few seconds) after you stop moving the camera.
+
+Judging by your video, you rarely settle in one location for more than a few seconds at a time.
+
+Secondly, I think the sound is different if you're looking laterally from the super cruise "tunnel" (e.g. not in the direction of travel).
+
+I think these features are to simulate sort of doppler effects coming in as you're whipping through superluminal real-space.
+
+Could you test your idea again, but do this:
+
+1) Repeat as your video, but allow the camera to settle for at least 30 seconds before moving it again.
+2) Repeat your video, but always keep the camera faced in the travel direction of the ship (directly forward) for at least 30 seconds. Obviously you need to face the ship in different direction in order to record different parts of the sky.
+
+If you still hear the noises when doing these two steps (and thereby eliminating the variability in super cruise), you may well have found something new
+Reactions:
+Quaero and CMDR Davanix

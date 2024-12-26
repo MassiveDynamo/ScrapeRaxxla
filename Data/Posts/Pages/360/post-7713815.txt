@@ -1,0 +1,14 @@
+Yshido
+Y
+Apr 2, 2019
+#7,185
+Thatchinho said:
+Welcome to thread, cmdr!
+
+I don’t recall there being anything in the Zurara logs which was encrypted. We’re you thinking of something in particular?
+
+Using an actual real life hexeditor would (AFAIK) be in violation of the ED End User Licence and Terms of Service, and hence is a big no-no. I’m guessing that’s not what you meant though. We’re you thinking of something which can be used in-game?
+
+Thanks for the answer. I havent even thought about "reverse engineering using a hexeditor". I was more curious about the idea to translate the messages, or parts of the messages into HexCode. Maybe you find something interesting. I did it on my own but i am missing the knowledge to see anything in particular.
+
+Cheers

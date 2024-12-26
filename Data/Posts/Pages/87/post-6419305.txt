@@ -1,0 +1,7 @@
+Jorki Rasalas
+Feb 16, 2018
+#1,724
+Gaiseric said:
+This might be a stupid question, but I often see blue orbit lines around planets when zoomed in on a system map. Are these related to these so-called comets? The object near McMonagle Dock does not seem to be exhibiting very comet-like behaviour. More like a small satellite orbiting a planet. Real comets tend to pass through the inner planets rather rapidly. What is being described here is something that is persistent around a local position, at least in the medium term.
+
+I think those blue lines are the drop zones oflandable planets. Orbit lines are orange.

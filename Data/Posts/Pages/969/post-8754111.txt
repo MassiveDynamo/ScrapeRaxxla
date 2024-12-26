@@ -1,0 +1,15 @@
+Jorki Rasalas
+Oct 19, 2020
+#19,378
+@Han_Zen/Simulacrae: thanks guys, knew I could rely on your memories!
+
+I’m currently working an hypothesis (very thin & speculative) in a system where there are lots of pirate USS, so allied with the main local faction then shipped my Corvette over and doing some BH, though my hand problems are probably going to terminate this line if enquiry. Was pondering whether hunting pirates could be the DW test, but of course that would mean pirates had to be in-game from the outset.
+
+Might try further cargo missions since I seem to remember an FD comment that reputation continues to rise...ah, just checked & he seems to be talking about Superpower rep
+
+https://forums.frontier.co.uk/threa...-provide-rank-progression.336994/post-5277153
+"All missions which provide reputation provide rank progression. Rank progression is directly derived as a function of the reputation earned with a superpower-aligned faction during a mission.
+...Even if the top end of allied is the cap for an individual faction, you can still earn reputation, you just don't get a change in reputation. When a mission ends, if it wants to give a reputation award it will tell the webserver that. At the same time, it calculates the superpower "skill" that corresponds to that reputation award and tells the webserver to apply that, too. If the webserver comes back and says "Sorry, nope, the commander is already the most beloved, the apple of this faction's eye; I'm not gonna increase their rep", this doesn't block the superpower skill from increasing."
+Last edited: Oct 19, 2020
+Reactions:
+Han_Zen, Dr. Lexus, [PS4] Filthymick420 and 1 other person

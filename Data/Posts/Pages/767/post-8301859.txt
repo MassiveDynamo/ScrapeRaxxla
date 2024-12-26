@@ -1,0 +1,18 @@
+Vetinari
+V
+Feb 19, 2020
+#15,323
+alexzk said:
+Anybody knows what is it ?
+https://inara.cz/data/gallery/90/90860x1741.jpg
+breaks scanner as thargoids do
+...tried to feed it by mining asteroid near it - don't eat
+this thing can fly itself, also close to ship it can control my engines. If i try to "mine" this thing it turns engines so i go close to it to "hit" and it drains shield.
+If you just fly direct to impact, you just pass through.
+
+Maybe it need xeno scanner installed? >:
+Click to expand...
+
+Scan it with the Composition Scanner, have a look in the Codex for what it is...should be in a Stellar Phenomenon/Lagrange Cloud but a lot of bugs out in the black so not sure what should be where sometimes.
+Reactions:
+Machina Ergo Sum, John Stoutbeard and [PS4] Filthymick420

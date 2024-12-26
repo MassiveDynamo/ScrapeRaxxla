@@ -1,0 +1,6 @@
+Thatchinho
+Jan 22, 2019
+#5,390
+Jorki Rasalas said:
+Think it was Taylor Keep on 12 Trianguli. Purposefuly hadn’t been there. Human (actually showed as Guardian) signal showed in fss scan. Expected that the base would show when I got within 1000ls but didn’t. Did a planet probe but that didn’t localise it. Had to get down to about 60km away for it to show, thereafter shows up fine. May have been a bug ....
+They don’t show up on the NavPanel or HUD prior to mapping the planet, but it should have done after. Just to double check, did you fully map the planet (as opposed to just probing the relevant area)? And did you try switching from Analysis HUD Mode to Combat HUD Mode after mapping the planet?

@@ -1,0 +1,11 @@
+alexzk
+A
+Mar 3, 2021
+#21,593
+Evoflash said:
+Because you didn't visit it yet. If I switch "visited" checkbox there I see number 13 AND 19 there. 13 changes to 19.
+
+I don't get that result
+Because you didn't visit it yet. There are 2 stars there number 13 and 19, I can see number changing if I switch "visited" checkbox.
+Reactions:
+[PS4] Filthymick420 and Evoflash

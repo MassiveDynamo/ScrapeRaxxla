@@ -1,0 +1,107 @@
+Louis Calvert
+Dec 6, 2022
+#28,259
+Pyroboros said:
+View attachment 336245View attachment 336246
+
+
+They really look alike.
+It's not like it is a trivial task to render/generate a Planet in ED.
+I totally agree. Below is everything I have, I'd love if it we can go Mythbusters on this one
+
+Note: these are not all planets, I've been trying to collect evidence of anything weird in witchspace. Again, the goal here is prove/disprove. I've only collected two confirmed planets, plus now the anecdotal evidence of three more (two you've seen here in this thread).
+
+The below from my notepad, I've not got any real thoughts other than cataloguing them so far, make of them what you will. I'd love ideas and help on this. @Yuki Estelle (Ithink that's right?) and @MrShinyTorterra and @Chaparral was also interested in Witchspace ideas.
+
+
+Source: https://www.youtube.com/watch?v=9IhV27I23GM
+
+Hypersapce jump tunnels goes weird...long-green
+
+Source: https://www.youtube.com/watch?v=0v8_12P_im4
+
+Same as above, different person.
+
+Source: https://www.youtube.com/watch?v=wtCAlyPAQc0
+
+Same as above
+
+Source: https://www.youtube.com/watch?v=PWcuXPPs744
+
+Same as above
+
+Note: Can't find any of these bug reported?? Doesn't look the same as a braben tunnel or other jump issue? something new? bug??
+Note: contacted Bro Jamgles from 1st vid to see what he was doing at the time, no reply.
+-------
+greenglow discussion - green witchspace tunnel connection??!
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8923795
+
+Note: investigation fizzled out, but they focused only on the sol connection? bug?
+-----
+Source: https://www.youtube.com/watch?v=5RVhArLVrlQ
+
+Really long weird jump - PLANET!
+
+Source: https://www.youtube.com/watch?v=vkhwmH1GY-k
+
+FC sees PLANET in Witchspace and ends up off course (Debunked Misjump, the destination name is weird, the system has 2 names in Galmap)
+-------
+https://forums.frontier.co.uk/threads/cg-predictions.556536/post-9925261
+Report of "hyperspace anomaly" bug?
+
+Repeatable? note: Tried jumping into high-carrier system areas, couldn't replicate the bug.
+---------
+Martha's Pulsar - 2 stars occupying almost the same place, jumps betweem them are weird
+Source: https://www.youtube.com/watch?v=pe2W1DBQLzo
+
+
+----------
+https://forums.frontier.co.uk/threa...eries-thread-9-the-canonn.300054/post-4987591
+Changes in Witchspace tunnels?
+
+https://forums.frontier.co.uk/threads/the-formidine-rift-mystery-part-4.324796/post-5078256
+---------
+Source: https://www.youtube.com/watch?v=fWXrbDZxT0Y
+
+UFO-light in witchspace?
+
+Note: Reflection? graphics bug? can't find any other reports, can't find a way to replicate?
+-------
+------------
+"Green tunnels" are not a known bug (not in the bug reports system, nothing in Fdev patch notes)
+------------
+What does an actual witchspace bug look like???
+
+Source: https://www.youtube.com/watch?v=ajytHoaK_o8
+
+This is a typical lag/dc/network error
+
+Source: https://www.youtube.com/watch?v=Hy1aH_WRa04
+
+Braben blue tunnel
+
+jump disconnect, this is what happens:
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8993366
+
+Note: have experienced many witchspace connection bugs myself. long tunnels are not significant. CTD results from a hard disconnect, not significant. Can't replicate green tunnel??
+--------
+"could it be in hyperspace"
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9920307
+
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9297146
+-------
+connections:
+Jaques?? Antares? Halsey? - all misjumps/jumps gone bad. Are there others?
+Were these clues to consider witchspace?
+
+How did Jaques jump 20k ly?? He was an explorer and came back to the bubble before making his last jump, heavily modified his station, how??... Jaques station randomly placed? why would it be there specifically? signficant?
+-----
+Older Witchspace version for comparison:
+Beta 3 demo
+Source: https://www.youtube.com/watch?v=HuDzWswfDnE
+
+
+Alpha 4 witchspace
+Source: https://www.youtube.com/watch?v=FIPVegyKksI
+Reactions:
+Chaparral, Sunyavadin, John Stoutbeard and 1 other person

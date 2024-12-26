@@ -1,0 +1,8 @@
+Han_Zen
+Dec 1, 2017
+#1,242
+Jaiotu said:
+Unless you are a Unix/Linux sysadmin in which case recursive acronyms are simply par for the course
+
+I could have accepted a sub-acronym.
+A self referencing top level acronym will create and infinite acronym loop, that may collapse an create an acronym singularity........................Wait a minute...

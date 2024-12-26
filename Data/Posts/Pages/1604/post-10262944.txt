@@ -1,0 +1,22 @@
+Rochester
+Nov 17, 2023
+#32,069
+If a sector or system is directly locked, eg it’s identified by having an unknown permit, or is a system at the centre of a larger locked region then it’s intentional and likely either part of the current narrative or an older discarded narrative. There’s no point trying to get to it, and is just a simple a case of waiting for FD to unlock it via some storyline or community event, which may or may not happen.
+
+If it’s possible to reach said location, namely there is no permit lock but the drives simply don’t work (?) or there is a crash then it’s a bug.
+
+There have been significant narrative bugs before which FD were unaware of for a considerable time.
+
+If the above cannot be established by a simple lock it’s likely a bug. If you communicate this to support in a logic they understand you can get them to confirm if it’s intentional or not. Because ‘failure to communicate’ a game mechanism or poor communication generally - as to what is / isn’t intentional is ultimately counterproductive, it’s semantics, but ultimately could be wasting their time and resources, not just ours.
+
+We expect that FD is all knowing and they care about every aspect of the game, this might not be the case, certain elements may have been passed off historically as ‘working as intended’ but in reality they’re busted, FD may not want to acknowledge this publicly because it might damage their public image, or it’s simply cheaper to ignore it because it’s not a massive deal to them.
+
+We inflate such content because our impression is it’s important to us.
+
+The older PF/DW are a perfect example of this. FD never publicly acknowledged this was broken; only because players brought it up. The public information in game still points to these missions, likewise Support still falsely promote them.. Why - who knows but it’s likely as a result of historical internal business reasons, a solution was issued (the Codex?) so essentially fixed… one could say FD probably don’t have the resources to care about every little bug..
+
+At the end of the day ask yourself if you enjoy tipping at windmills all day long.
+
+Last edited: Nov 17, 2023
+Reactions:
+Jorki Rasalas, Sysmon and CMDRCorrMorningstarFelian

@@ -1,0 +1,15 @@
+simulacrae
+Aug 28, 2021
+#24,202
+Ok so I have been playing with the Codex Map... and come up with my version of it...
+
+Working off of the picture in the codex you can see that the galaxy is divided into 92 slices, and combining that with the galactic sectors, I figure 30 concentric rings (very roughly about 1670ly between each ring). All of these are also centered on a point that is not Sag A*...
+
+I took points on many corners and edges of the sector boundaries to see how they lined up with the rings and slices and it seems to do fairly well... The 92 slices in the codex map seem to - atleast in the lower half of the map match up with a equally divided circle- however the upper right and upper left quarters appear to have been slightly shifted, causing a some discrepancies (which I crudely made up for in my map) . Anyoo was fun to put together.... and it added appreciation for how FD came up with all this in the first place. o7 FD!
+
+SPOILER: CODEX MAP
+
+SPOILER: INVERTED VERSION
+Last edited: Aug 28, 2021
+Reactions:
+yelboc, Djidjel, Jorki Rasalas and 2 others

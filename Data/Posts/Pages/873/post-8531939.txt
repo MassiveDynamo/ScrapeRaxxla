@@ -1,0 +1,17 @@
+Han_Zen
+Jun 15, 2020
+#17,459
+Thatchinho said:
+Important point first - we don't know we can detect Raxxla even with those tools.
+
+Second point - the infinte range has always been 'infinite within the scope of what's generated within the instance of the present system' (phrasing is mine there), it's never been literally infinite. (Can you imagine how long a hyperspace jump would take if the entire universe had to be procgen'd prior to system entry? )
+
+Anyway, the ADS had infinite range since the point of it's introduction. It's generally accepted that that's what transmorphed into the DS in 3.3. It certainly wasn't the BDS or IDS as using the range limits in them would have a. caused an outcry, and b. been spotted straight away.
+
+The ADS specified its range as being infinite, and Michael Brookes is on record expressing some regrets about it being infinite.
+
+Could they have made it very high but non-infinite in 3.3? It's certainly not impossible. Would be very very hard to find out in-game though. Probably worth a check through patch notes etc. first to see if there's any 100% direct confirmation the infinite range was continued into 3.3.
+Click to expand...
+I've honked at least a couple of ly out. The reported body count is still the same.
+Reactions:
+turkwinif, [PS4] Filthymick420, PeteACarter and 2 others

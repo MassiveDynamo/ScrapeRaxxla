@@ -1,0 +1,44 @@
+CMDRCorrMorningstarFelian
+Feb 14, 2022
+#25,296
+Sethioz said:
+Well I'm not going to read thru 1200+ pages, but I've been following progress on Raxxla every now and then. I just want to straight out ask / suggest few things and see what people think, so please don't be rude like "just read the topic". I'm interested in Raxxla, but I don't have entire year to read thru 1200+ pages, hope you can respect that and just get down to the point.
+
+My first thought, is what some already suggest, that Raxxla is near Sol, but it moves around and can only be accessed at right time in right place (maybe you must also carry specific cargo, like some artefact that opens the gateway).
+
+Q1: Did Raxxla exist in Elite 1984 game? I know that the story about Raxxla was made before the game, but is Raxxla actually in Elite 1984 game?
+If answer is yes, does it mean Raxxla is in same place in Elite Dangerous? If no, then it means devs could have implanted it in any possible way, which makes me think that devs must have also watched lot of movies and seeing how much devs like puzzles, they might aswell have taken the ideas from movies, such as "Cube 1997" movie, where the exit room moves around and is "outside" the cube.
+At first I thought HIP 13044 might have something to do with it, but then I saw that they teleported someone into the system and kind of ruined the surprise for everyone else .. so I doubt HIP 13044 has anything to do with Raxxla, BUT the idea is still there, that Raxxla is outside playable area, but entrance to that area is near Sol. So perhaps we're just running around in circles, when really all we have to do .. is sit still in right place and wait for Raxxla to come to us.
+
+I listened to Zurara's logs and read over them too, it seems like most people are overlooking the rest of the message. They just see "Hexedit", thinking that's the only clue and see nothing more, but I think it's significant that it mentions it first wipes the memories and then kills you. I think this is a clear reference that you can use hex editor to reveal something that was long forgotten. I see someone already suggested that Raxxla logo could be the key, as it's very simple and could potentially hold some sort of a clue when viewed or edited in hex editor, however for that, we would need the original Raxxla logo that haven't been converted or copied in any way. Perhaps the one in-game, but I doubt screenshotting it would work, perhaps this clue tells you to hex edit game files and find the original Raxxla logo? Can someone extract original Raxxla logo from game files? It could hold some clues.
+
+Q2: I saw some people cross referenced Elite 1984 systems to Elite Dangerous and found that about 32 systems are same, so if Raxxla exists in Elite 1984, then entrance to Raxxla MUST be in one of those systems. So question is, has anyone decoded / uncompressed the original Elite 1984 files and simply looked for "Raxxla" within game files? It should be fairly easy for a programmer / reverse engineer.
+
+Q3: Has anyone decrypted / unpacked Elite Dangerous game files and looked for any reference to Raxxla? I know universe is randomly generated, but some systems are hand crafted, so Raxxla must be in the game files already. For example this is how people found "cheat codes" in older games. Devs never revealed them, but they were found anyways. For example cheat codes in Tomb Raider were quite complex, it wasn't just about entering some alphanumerical code, you had to do things like "spin left twice, step back, step forward, spin 3 times right, jump backwards" and you had to get it right, you can't just randomly spin, you had to face a specific object that tells you this is where spin starts/ends.
+My point here, is that such codes were not just tested by players, they were dug out from the game files by reverse engineers and programmers, this is how such codes were revealed. So has anyone tried digging something out of ED game files? I know it's "online only", but if I look at my network usage while playing, most of the time it won't send/receive any data at all. So it means it doesn't download game content while playing, it only uses internet to keep track of your savegame and nothing more. All the game content is already in your computer.
+
+The Dark Wheel
+I also think that TDW is important, because they claim they are looking for Raxxla, so perhaps "Find the Dark Wheel and find Raxxla"?
+I haven't looked much into TDW at all, apart from what was said in the TDW article in the codex.
+
+FACTS (?)
+1. Raxxla can't be on any planet, it must be accessible using original ED only (no horizons or odyssey)
+2. It's confirmed to be in the game, so it's an actual place / object, placed there by developers.
+3. Rebecca's message refers that Zurara was just a contingency plan and there's nothing out there, she said to look in the core systems and that's where she's heading. So I assume there's nothing out there in the formidable rift area (as many think Raxxla is there, but I'm quite sure it is not).
+4. The Dark Wheel orbits 8th moon of unnamed gas giant
+5. The Dark Wheel is a station that doesn't emit signals and cannot be detected, so even if you know the system it's in, you'd have to visually find it, which makes it extremely hard, because you can only see stuff in ED from closer than 1000km. Maybe if you get lucky and see something glow on black background, but still .. very hard to find I assume. So I wouldn't be surprised if it has been right under our noses this whole time.
+6. The Dark Wheel is searching for Raxxla (find one, find other?)
+
+Anyway, my theory is still that Raxxla (or gateway to Raxxla) is close to Sol (within 300ly), but reasons why nobody has found it, are:
+1. It moves around, perhaps it changes location every hour or so and circles thru several systems. (perhaps it orbits something massive, like massive star? and that's what allows it to move through systems)
+2. It cannot be detected by scanners, so you have to visually find it (like Dark Wheel).
+
+Even if all these ideas have already been discussed, the point of my post, is not to necessarily add anything new, but to make people discuss things. Big discoveries are often made by discussing things that have already been discussed. People often overlook things, but realize this when they go back and forth and look thru the old information to find something that was earlier missed.
+Click to expand...
+From a strictly lore perspective, the first game occurs in GalCop territory after the region is established. Lave itself isn't even colonized until 2412 per Lave History beacon. That means at minimum you have 116 years between Raxxla rumors definitely spreading in Tau Ceti and Lave having colony ships arrive (and the system gets remamed from L-453). That is a bare minimum. Given there was something approximating civilization in the region you can probably safely tack on another 150-200 years after 2412 before the first game happens. It should be noted humanity didn't really start getting real access to hyperspace type technology until 2300 and Raxxla rumors are known to be spreading by 2296. So, yes, odds are at least good it is in or near one of the earliest populated systems. Most of the early ones are from the set of books called Frontiers and the gazettes about these systems can be found here: http://www.dream-ware.co.uk/frontier/books/gazetteer/
+
+Also, the stories are here: http://www.dream-ware.co.uk/frontier/books/stories-of-life-on-the-frontier/
+
+Personally, I'd be looking at these systems (by the way there are four that cannot be accounted for at present) or their immediate neighbors. Also, datamining is one of those things we don't really do around here.
+Reactions:
+John Stoutbeard

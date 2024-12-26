@@ -1,0 +1,10 @@
+Emperor
+Jan 24, 2023
+#29,028
+Jorki Rasalas said:
+Re the “infinite range” Advanced Scanner-could be. Can’t figure out when that was actually introduced into the game. I thought it was before Lavecon 2017, when MB was supposed to have uttered that statement in a closed Q&A, but I could be wrong on that. And of course even after it was introduced an early explorer might just have had basic or intermediate scanners.
+v2.1 "The Engineers" & v1.6 - 26th May 2016
+Ability to scan a Nav beacon to get that system's exploration data added
+Was it part of that change?
+Reactions:
+CMDRCorrMorningstarFelian

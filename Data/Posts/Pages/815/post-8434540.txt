@@ -1,0 +1,16 @@
+Jorki Rasalas
+May 1, 2020
+#16,281
+Psyral said:
+To anyone interested, I believe it is one of these two threads that @Vetinari is referencing. Both have responses by FDEV.
+Investigation into the "Mysterious Stranger"
+At some point while many of us have been carrying out missions or otherwise just flying around, each of us may have recieved a message from someone identified only as "Mysterious Stranger". These messages can be in few different forms. Those that I have recieved have either given the location of...
+forums.frontier.co.uk
+Click to expand...
+
+I’ve read (quickly) through both threads & to précis:
+Mysterious Stranger / Tip Off missions appear to be related to pure game mechanics and nothing to do with Raxxla or the DW. They occur in Colonia as well as the bubble. Staying in a game area, undocked, in a populated system, for 15 minutes will trigger a call for a mission. You won't necessarily get one, nor will you necessarily know you've got one. The request will go out, though. Most of these missions are hidden to start with and just subtly manipulate the game world around you by spawning ships or USS events. Once you've performed a pertinent action, you get an inbox message with further details. There should always be something at the tip-off locations (if visited while they're active). Also they don't disappear when somebody visits them. They're largely in the Web and Content team's domain; there is a rotating pool of locations and they stick around for two weeks and FD give out tip-offs for them within the first week before activating the next set. So they're not permanent, but they're also not particularly short-lived. It's not meant to be a competitive feature... there is some geographical check when deciding which of the active sites to present to you, but FD are not trying to make you fight each other, they just try to find an active site near you instead of one on the other side of the world...someone had an installation at Nguna as the target of a TO, apparently this is what is known as a "High Value Target" settlement. there should be a beacon somewhere within the settlement with a big green light (24 corporate logs in this group) on it that, when scanned, will give you a bonus like the other data caches do. Non-station missions spawn after spending 15 minutes in a populated system, not tip-offs; Tip-Offs are a direct result of completing a mission. Djadjock: the anonymity of the mission giver contacts is linked to game engine implementation, not to any mysteries https://forums.frontier.co.uk/threads/investigation-into-the-mysterious-stranger.443594/post-8162504.
+
+Djadjock also said “there are some really rare messages, members of 1 or 2 rare groups (out of 8). Supposedly no more then 12 messages (most probably less)”. I’ve asked for clarification, just in case this is relevant to our quest.
+Reactions:
+Rochester, Edelgard von Rhein, [PS4] Filthymick420 and 2 others

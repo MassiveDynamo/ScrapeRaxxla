@@ -1,0 +1,13 @@
+Koben
+Mar 9, 2021
+#21,749
+Han_Zen said:
+Asteroid clusters are often way of the disk in the system map orrery. The disk is just a schematic visualisation. There are RL asteroids that are more than 30 degrees of the average plane.
+Searching up and down from the disk, may be smart?
+I'm not using the Orrery map for this... but the lower left Box on your main screen that shows your current location. As far I'm aware of, for every body/asteroid/star there's a "location zone" where the actual target containing the signal source spawns. For instance, several light seconds before you reach any planet you'll seen on this box its name stating that you are "in its zone".
+
+There's a similar game mechanic whenever you're flying over a planet's surface and a blue circle appears indicating something will spawn there whenever you het close enough... and at the very begining of the game, the very same mechanic of a blue circle on your radar indicating a signal source was also how we'd drop from SuperCruise to normal space to find random stuff. Today we have the "unkown signal source" to lock on. Maybe some long forgotten manually added mistery is still using this original game mechanic.
+
+But hey, if you have any specific direction you wanna fly towards to, we're all here testing theories... even these Tetha 7 and Theta 12 from Adamastor mistery may be an indication of spherical coordinates (angles) to find something we're still missing... so, once again, welcome aboard!
+Reactions:
+TrillClinton, Exekrator, clavain and 1 other person

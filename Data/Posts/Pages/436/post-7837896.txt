@@ -1,0 +1,28 @@
+[Diplomacy] Carnegie
+Jun 7, 2019
+#8,715
+Scytale said:
+No, I didn't since the "early days of ED". Could be a way to do some outer rim explo, as hurry is not a point there.
+
+I'm never in a rush, so it suits me - and it means I barely need to use the FSS.
+DrewCarnegie said:
+Here's how I use it:
+
+1. Honk
+2. Open FSS
+3. Examine spectrum to determine if there are bodies I may want to scan
+4. Close FSS
+5. Fly around identifying system bodies using parallax observations
+6. Perform close fly-by of bodies to auto-resolve
+6a. I may occasionally stop to check the FSS spectrum to see if I've located everything of interest
+
+Depending on the system, I may also do the following after auto-resolving all bodies:
+
+7. Open FSS
+8. Zoom into landable bodies to check for biological/geological sites
+9. Fly to identified sites and map the body
+
+This process keeps the time I spend in the FSS to an absolute minimum and removes the necessity to play 'hunt the blob' and 'tune n zoom'. In addition, I feel a sense of achievement for every body I find by parallax, especially those off the orbital plane or long distances from the drop-in point.
+Click to expand...
+Reactions:
+Scytale

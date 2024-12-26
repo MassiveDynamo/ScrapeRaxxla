@@ -1,0 +1,19 @@
+Jorki Rasalas
+Jul 24, 2022
+#26,493
+Jorki Rasalas said:
+I notice the comets only seem to be associated with event "SupercruiseExit". Perhaps that's why they dont show up on scans. Must check Halley's & Grey's for event type!
+
+Edit: mm, also “SupercruiseExit"
+Mmm, I must admit to not fully understanding instancing....
+I’m wondering if the reason I’ve had no luck in getting Pareco comet 1 or 2 to show in the nav panel is because I’m not actually dropping into their instance? Even though I’ve got within a few metres of the USS position... If they are only associated with event “supercruise exit” does this mean that they may only instance if you drop out of SC within their sphere of influence? (which I think is 50km-very difficult to achieve!) And that you can’t then encounter them by travelling towards them in normal space? I’ve tried the latter and get some strange behaviour when travelling towards a station in the vicinity of where the comet should be- the distance to the station actually seems to start to increase!
+
+What is puzzling me is that I had interpreted Esvandiary’s post (https://forums.frontier.co.uk/threa...ormal-space-close-to-them.350586/post-5486213) as saying he had found the comet by travelling from a station in normal space, though on re-reading I think I misunderstood. If you have to drop into a 50km SOI from minimum SC speed then this could explain the difficulty I’m seeing.
+
+edit: I'm now trying to drop into comet 2 at the centre of the Pareco stations. Selecting the USS, slow down to 30km/s (minimum SC speed) & dropping out at: 40km, 80km, 700km, 1Mm & 1.5 Mm from the USS...each time have dropped out with the USS apparently 550km behind me....this is consistently failing!
+
+If Pareco is the hint to make comets "a tiny little bit obvious so people know what they're doing", as seems likely IMHO , it's still proving dam difficult to find one!
+
+AAAND
+I was obviously getting too close, as my gaming PC failed and wont restart,
+Last edited: Jul 24, 2022

@@ -1,0 +1,19 @@
+El Saico
+Oct 23, 2023
+#31,815
+Emperor said:
+Been thinking about the golden thread in relation to Zeus... Anyone remember why they added Persephone to Sol? Pluto being Hades and therefore the underworld...
+
+There's a number of very distant objects, the largest of them being dwarf planet Sedna, whose orbits cannot be explained by our current knowledge of the solar system. One of the leading hypothesis (and certainly the most enticing one) is the interference of a yet undetected planet:
+
+Sednoid - Wikipedia
+en.wikipedia.org
+Planet Nine - Wikipedia
+en.wikipedia.org
+
+FDev added it using the upper theoretical values of the time - mass 10 times that of Earth, orbital period of 15 Earth years, semi-major axis of 700 au, etc.
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+And Persephone is a popular name for a trans-Neptunian planet; Arthur C. Clarke in particular used it several times. However, it's unlikely to be used IRL as there's already an asteroid with this name.

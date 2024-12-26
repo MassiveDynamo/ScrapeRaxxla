@@ -1,0 +1,28 @@
+BluWolve
+May 25, 2023
+#30,528
+Jorki Rasalas said:
+I don't understand instancing. If Raxxla is at Neptune’s ring, and we drop out of SC at the appropriate radius and motor along in normal space honking continuously (I have a PWA as well, grouped with the D scanner on the same thumb button, since it’s quite dark out there & the PWA lights up the rocks) will we eventually reach its position giving it a chance to appear? I presume the rocks are generated dynamically so disappear once we’re past them (can’t imagine millions of rocks being generated once then maintained until we go into SC again), but its location should be ‘fixed’ like the locations of asteroid bases (‘fixed’ in quotes as I think we’ve decided rings rotate)
+
+So for Lassel ring radius is ~54,200 Km, so circumference ~340,550 Km, so at 340 m/s in my Phantom around 3 hours to circumnavigate the ring....dont think my arthritic thumbs can manage that amount of boosting/honking.
+
+Forgot to say last night that I now prefer Neptune to Saturn’s rings due to (a) the presence there of the permit-locked Triton and (b) the prominence of the Triton figure from Portugal’s Pena Palace in MB’s tattoo. The logo in this hypothesis seems to be a conceptual map guiding us from Sol in the centre, past the asteroid belt (3 arcs), past Saturn (hexagonal “Omphalos” storm and dots denoting ring system) to Neptune (the trident denoted by the broad “corridors” and dark polygons at the edge,
+
+Perhaps if we find it we’ll get the permit to land on Triton & that’s the “Raxxla storyline” that MB mentioned?
+I find it difficult to view the logo+codex entry as constituting a storyline.
+
+Edit
+I’m not into myth, but it’s interesting that Triton (son of Poseidon, & they lived in a golden palace at the bottom of the sea) sometimes carried a trident and blew on a Conch shell like a trumpet “Its sound was so cacophonous that when loudly blown, it put the giants to flight, who imagined it to be the roar of a dark wild beast” (wikipedia) .....sounds like the D scanner honk to me!
+
+Edit2
+I’m still hoping for a Guardian ark ship, but I noted there’s a Void Opal hot spot in the vicinity...could Raxxla be a huge Void Opal?
+Click to expand...
+As far as instancing goes, i would imagine that you would have to drop out of SC within a certain distance of the object for it load in the asset, unless the asset is a planetary body.
+
+I could be wrong, as i dont know exactly how the games handles that sort of thing, but realistically if we look at game design it is not good practice to load in every single object like space stations, asteroids and all the rest until you are within a certain distance.
+
+I know that things like events involving npcs such as those found in USS's are not happening unless you drop in within a specific range, so it could be that other assets work the same way.
+
+In my opinion i would think you would want to drop in at specific coordinates, and the asset will be visible.
+Reactions:
+Rochester and Jorki Rasalas

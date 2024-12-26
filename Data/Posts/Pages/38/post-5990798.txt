@@ -1,0 +1,11 @@
+lorrad
+Oct 4, 2017
+#755
+Han_Zen said:
+Sounds like a server connection problem to me. We had a lot of similar occurrences at the beginning of Horizons.
+
+Wonder if it's tied into the third party api problems and one I have since the last update. For a couple of days noticed it took really long to bring up the system map but about 3 days ago it got fast but started returning less information when DSS'ing stars and bodies as well getting no materials list returned scanning landable bodies.
+
+Bug-reported but as usual no response.
+
+Was wondering if others are seeing things like this exploring?

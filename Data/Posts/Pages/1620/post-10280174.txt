@@ -1,0 +1,26 @@
+Han_Zen
+Dec 8, 2023
+#32,389
+I've been looking a bit more into the idea that there could be hidden systems. I have no idea where they are, so I made one up.
+
+My hidden system is at the coordinates 85, 20, 55. These are the simplest coordinates I get fro the word Raxxla. It's just the Roman numerical values for RA, XX, LA, using standard form and medieval Roman numerals. This gives:
+
+R=80
+A=5
+X=10
+L=50
+
+RA= 85
+XX=20
+LA=55
+
+Roman numerals - Wikipedia
+en.wikipedia.org
+
+This point isn't to far from Shinrarta Dezhra at 55.71875, 17.59375, 27.15625, so I wanted to have SD as either start or end system for the jump. The best target system I have found so far, is Nariya at 105.40625, 22.0625, 75.09375. A jump from SD to Nariya passes 0.3590892392606653 ly from 85, 20, 55.
+
+I've tried a few locations to jump from in both systems. Raxxla has not revealed it self. I might try to supercruise to to the perfect jump of coordinates to pass exactly att 85, 20 55, but that is a long journey to 56.23892876, 17.09306171, 26.67937395 (0.8652661285187726 ly).
+
+Fun testing though. Even if the jump is a bit long at 69 ly and I need a basic FDS boost to do it.
+Reactions:
+Vasquess, Adel, Macros Black and 3 others

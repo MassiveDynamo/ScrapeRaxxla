@@ -1,0 +1,42 @@
+Julio Montega
+Aug 12, 2015
+#33
+I like to try my dry brain cells on this topic aswell,
+as i did theorize on the UA thread here are my thoughts.
+Maybe you can helP?
+
+Still working on my "Quest for Raxxla",
+i'm a bit lost...
+I counted every letter in the fabled "Raxxla" and substituted the name with the number of position:
+
+R A X X L A
+18 1 24 24 12 1
+
+Now astrologers do not use an X/Y/Z coordinate-system,
+and i highly doubt, that a three or four digit relative position in each axis is enough to
+navigate the galaxymap of E: D.
+
+But they use another system consiting of three values per variable to locate an object,
+the "Right ascension", short RA and the declination, short dec.
+
+In this system the name Raxxla and the allocated numbers indicate a position at:
+
+RA 18h 1min 24sec
+dec +/-24° 12' 1"
+
+My google skills however do not yield a result in a named system,
+can anyone point me on how to navigate to those 2 possible locations?
+I am not sure even, if those coordinates take the earth as the origin or maybe SagA*?
+Any ideas?
+
+The reason i post this, is because of FFE lore, there is a system with a "Hypergate" rumored to exist, and very hostile human military remnants guarding it.
+Maybe you got the key and i got a trace?
+I do rule out Polaris out as an option, simply because lacking accessability,
+and some UA owners already tried going there with no success (maybe due to a bug?).
+
+Now i looked into the "aladin" star-atlas and found a star right at the coordinates:
+"18 01 24.082 -24 12 2.26" in the positive angle there is a super bright star very close,
+but nothing right next to the coordinates.
+
+Now to find out what designation the coordinates have...
+Last edited: Aug 12, 2015

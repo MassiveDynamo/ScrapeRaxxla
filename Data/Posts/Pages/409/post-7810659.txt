@@ -1,0 +1,23 @@
+Jorki Rasalas
+May 22, 2019
+#8,175
+ironshirt said:
+Hi RaNaketh!
+I feel very sorry and guilty for the loss of your ship! Should have made things more more clear.
+After visiting Rothfuss Vista again, I have to admit that this is one of the tougher settlements IF you gain fines to the point that the turrets start firing.
+Edited the original post to avoid that somebody else relies on this rather bad advice .
+
+However, if you are quick, it IS possible to scan the core data terminal.
+And you really need to scan ONLY the core data terminal (the one with the green light cone), not the other data points!
+Boost through the restricted zone towards the terminal, scan it with your data-link-scanner(!) and boost your way out. This is how I usually do it.
+I am not sure if the core data terminal is always marked as 'inactive' - the scan should work in any case, just the outcome would be different (core data package with message vs core data package without message). If you were not able to scan it (e.g no 'progress bar' during the scan) then there must be something wrong with your data-link-scanner. Please make sure you have it in a fire group!
+For the case you were able to successfully scan it, but got no scanned message. only the core data package, please check if your Tip Off already expired!
+
+Again, sorry for you loss - if you are on PC I hereby offer you compensation in form of a cargo of your choice. Contact me via PM if you are interested!
+
+O7 and fly safe commander!
+Click to expand...
+
+Nice to see Honour among Questors being exhibited once again!
+Reactions:
+Count dEstard, AOpsyche and RaNaketh

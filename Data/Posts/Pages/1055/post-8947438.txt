@@ -1,0 +1,14 @@
+CMDR Sophie Joanne
+C
+Feb 12, 2021
+#21,086
+Technos Skydiver said:
+This last screen seems to have been blurred a bit.
+But the interesting part, to me at least, is that the other parts of the video - where the call to action is shown - seems to be rendered inside the game.
+The green glowing in the bottom seems to be a star, due to the god rays, and that may be a POV of the location.
+
+I'm willing to check, but I have no idea yet of how to find a location using just the skybox.
+I heard some have done this before.
+Finding a location using the skybox is trial and error - select a star in the map, is it the right direction? If yes, jump there. Is what you were looking at on the skybox still in front of you? Jump again. If not, turn around and repeat!
+Reactions:
+[PS4] Filthymick420

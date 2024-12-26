@@ -1,0 +1,13 @@
+Crimson Echo
+Feb 7, 2022
+#25,251
+It seems strange how comets seem to have been hand placed in hand crafted or imported systems from old games. Given we are on like the 4th version of planet tech, and all the ships got remodeled with EDO it is odd that comets still do not have a in-game model. Other small bodies in Sol like Ceres, Phobos and Deimos were omitted.
+
+Perhaps 'Comets' serve some other purpose. USS spawns can differ based on being near (in the Body Sphere of influence) of certain bodies. (Thargoid probe being found near ammonia planets original would be an example, and uss spawns near stations belonging to the station faction being another.)
+
+Thargoid items might have been the intended method to find comets. The Pareco system seems designed to call attention to the existence of comets. Given Comets have no models/assets it would "normally" be difficult to determine what systems have them by paying attention to normal system loading etc.
+
+
+Comets might not be orbiting visible stars, or may have some information hidden in their orbital elements. For those that have been able to track down comets it might be useful to figure out/ calculate the orbital parameters of these objects. Fdev could be riffing of the idea of a planet erased from the records only detectable via gravity a la Kamino in star wars for the raxxla mystery.
+Reactions:
+Jorki Rasalas and Adel

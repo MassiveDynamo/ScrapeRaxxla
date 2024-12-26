@@ -1,0 +1,6 @@
+CMDR Davanix
+Mar 15, 2022
+#25,717
+Artie said:
+Ah, thanks. Then it's a case of the missing star system in the database - I am not storing an entire (discovered) galaxy as it will be a pain with the database size and performance to have every unimportant star system there and it's rarely needed anyway. The region selected is the only way in this case I am afraid.
+Ah ok no problem, Cheers I thought it would work on distances calculated no bother, and love the work you do

@@ -1,0 +1,11 @@
+Jorki Rasalas
+Jan 27, 2021
+#20,604
+Filthymick420 said:
+I feel like given the nature of the location being just a place in open deep space it would be otherwise impossible to find without opening the system map multiple times to check your location relative to where the belt should be. Also I feel like if that was the case you could repeat it every time just by opening and closing the system map
+
+I suspected a lighting bug but have (almost) ruled that out. The only thing that raised a suspicion in my mind is the colour green in the vivid example I captured is similar to the green of the Earth and the Earth orbit line when in the orrery view. However it doesn’t depend on the same angular relationship from ship to Sol or Venus, and the example I encountered Sunday afternoon while winged with Macros didn’t seem to be related to sysmap. It occurs infrequently so if a bug then it’s very strange. It’s easy to dismiss something as a bug, but there doesn’t seem to be any evidence to support that. The more I search for it the more I suspect is an RNG-related function. But I will be the first to stress that this phenomenon is extremely frustrating!!!
+
+And there is also the wording that DB used “you don’t know what it is!”. It could turn out that the Raxxla myth boils down to a strange green glow with nothing behind it, but I suspect that is not the case.
+Reactions:
+Dr. Lexus, [PS4] Filthymick420 and Rochester

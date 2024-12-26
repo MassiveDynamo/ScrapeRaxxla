@@ -1,0 +1,40 @@
+Cmdr SpaceMerlin
+Jan 8, 2019
+#5,019
+Still a new account, hope this won't get buried, but thought it might interest you. Equip tinfoil hats
+
+Long story short: i found a system that can't be flown to, can't be selected, but is there on the map. It might be a bug, a mistake on my part, or some placeholder, but.
+
+
+
+A few days back, i made a thread on EliteExplorers over at Reddit a few days back about possible links between FR Alpha site's messages and Raxxla's Codex entry (i also posted here about it).
+
+It yielded, from fellow commanders, a lot of info that i had never known, missed out on or forgot, among which Salomé's message that the Formidine Rift, Hawking's Gap and The Conflux all are tied to what happened in the Pleiades at the time (the return of the Thargoids). And we also know that Thargoids may have some kind of relation with Raxxla (possibly hinted by the Delphi renaming thing and how it relates to clues about Omphalos).
+
+Hawking's Gap retained my attention, because, with a little bit of reaching, one could see the Pueliae Nebula, right in the middle of it, as the "Jewel that burns on the brow of the mother of galaxies" (with the eye being Sag A* and the brow being the gap between the Scutum and Carina arms).
+
+So i opened my galactic map, wanting to bookmark some random place in said nebula for future use when i'm back from the Rift in a month or two, and i found this thing:
+
+SPOILER
+
+Pueliae AA-A H0. It sits right in the middle of the nebula, in the center of Hawking's Gap. You can find it through the search bar, but you can't bookmark it, or even get any info on it for that matter. No entry about it on EDDB nor EDSM either, so it never was accessed. Are there many systems like this?
+
+My current theory (which will probably change a thousand times before i go to bed tonight) is that Raxxla may be in the Bubble, but the "bridges" to access it are scattered across the Galaxy. There may be one in the Formidine Rift, one in Hawking's Gap, one in the Conflux, and maybe others.
+
+
+
+Oh, also:
+
+Ko Shiji said:
+I did that, about half a year ago.
+
+Riedquat and Reorte are too close together; the system coordinates you get from the map only have a few decimals of precision, and the line they form is determined by 2 points only a few LY apart. Trying to extend such a line 20k LY will give you a huge compounded margin of error. So, instead, I took the Riedquat + Zurara system coordinates, and extended THAT (12k LY) line to the edge of the galaxy (to 20k LY).
+
+I tried to follow this line as best I could, but it's a huge distance past Zurara, and with 60LY jump range, many stars are bypassed, so it's certainly quite possible to "miss" star systems of any importance. I did notice one odd thing, but it may be just an artifact of the stellar forge: past the Formidine rift you're flying through a thin sheet of fuel stars, sandwiched between thick layers of sub-M, like a galaxy-wide Oreo.
+
+In any case, the R-Z line takes you slightly UNDER the thickness of the galactic disk, so you'll hit rarefied stars earlier than if you try to go down the middle of it to the farthest stars. I tried to hit the galactic edge, but with 60 LY (120 charged), I had to detour upwards and then come back down to the line, in order to get at the "farthest star" along the line. The systems at the very edge had already been discovered by someone else, but you may see my name on a few stars close to the edge. I flew around and did full system scans, with the Adv. Discovery Scanner and the DSS we had available at the time (3.0). The info we had at the time seemed to indicate that Raxxla may be a planet that does not appear on the system map, so I did full system scans and counted in-flight orbit lines vs. planets appearing on the system map. Didn't find anything, of course.
+Click to expand...
+
+Thanks for all the info (still a new account, can't give points rn). I figured i wouldn't be the first one to attempt the thing, and you actually made it in a way more professional fashion than i expect to myself. My spirit right now is mainly enjoying the new exploration/mining stuff (then hitting Trade Elite once back in the Bubble), while on the side still lightly investigating / helping if there happens to be POIs on my path.
+Reactions:
+eadghe, Han_Zen and Armstrong

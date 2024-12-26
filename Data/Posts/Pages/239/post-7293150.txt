@@ -1,0 +1,7 @@
+Stinja
+S
+Dec 26, 2018
+#4,779
+Regarding the rumoured Dark Wheel station, is there any way to interrogate EDDB / EDSM's database directly, with a search for systems with gas giants >= 8 moons?
+
+If it is in/near the bubble, it may have been honked already, and would give a more focused list of systems + moons to check.

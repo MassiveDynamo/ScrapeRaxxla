@@ -1,0 +1,10 @@
+[DAX]
+Apr 29, 2019
+#7,835
+Oseris said:
+I’m checking up on a much lesser known clue and I’m encountering music I’ve never heard before in the game...it’s almost like the guardian site music but it’s definitely not the same.
+
+Will update when I sort this out. My game keeps crashing oddly.
+This is interesting. I hope you have found something interesting, keep us posted!
+
+As a side note - with the latest patch I have noticed significant changes in the game sounds. Most prominent change is the boost sound. Maybe some sound filters or parts of the sound engine in the game were changed and this affected music too. To be honest, these changes sounding more like a bug to me.

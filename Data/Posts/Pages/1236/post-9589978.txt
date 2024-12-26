@@ -1,0 +1,103 @@
+Han_Zen
+Nov 5, 2021
+#24,710
+Hi,
+
+I made a complete list of bodies in the Sol system. This was done by scanning the nav. beacon and taking the data from the Journal log file.
+
+BodyID Body Ring ParentID
+BodyID:0 Sol Asteroid Belt
+BodyID:1 Mercury
+0
+BodyID:2 Venus
+0
+BodyID:3 Earth
+0
+BodyID:4 Moon
+3
+BodyID:5 Mars
+0
+BodyID:6
+BodyID:7 Jupiter Jupiter Halo Ring
+0
+BodyID:8
+BodyID:9 Io
+7
+BodyID:10 Europa
+7
+BodyID:11 Ganymede
+7
+BodyID:12 Callisto
+7
+BodyID:13 Saturn D Ring
+0
+BodyID:14
+BodyID:15 Enceladus
+13
+BodyID:16 Tethys
+13
+BodyID:17 Dione
+13
+BodyID:18 Rhea
+13
+BodyID:19 Titan
+13
+BodyID:20 Iapetus
+13
+BodyID:21
+BodyID:22 Uranus ZetaCC Ring
+0
+BodyID:23
+BodyID:24 Ariel
+22
+BodyID:25 Umbriel
+22
+BodyID:26 Titania
+22
+BodyID:27 Oberon
+22
+BodyID:28 Neptune Galle Ring
+0
+BodyID:29
+BodyID:30 Triton
+28
+BodyID:31 barrycenter
+0
+BodyID:32 Pluto
+31
+BodyID:33 Charon
+31
+BodyID:34 90482 Orcus
+0
+BodyID:35 Vanth
+34
+BodyID:36 (307261) 2002 MS4
+0
+BodyID:37 Salacia
+0
+BodyID:38 Actaea
+0
+BodyID:39 Haumea
+0
+BodyID:40 Hi'iaka
+39
+BodyID:41 Quaoar
+0
+BodyID:42 Makemake
+0
+BodyID:43 (225088) 2007 OR10
+0
+BodyID:44 Eris
+0
+BodyID:45 Sedna
+0
+BodyID:46 Persephone
+0
+
+Interesting to see that asteroid belts and planet rings are the same thing.
+As you can see there are some bodyIDs missing. BodyID: 6 seem to be the asteroid belt (between Mars and Jupiter). BodyIDs 8, 14, 23 and 29 correspond to the rings of the Gas giants.
+
+BodyID: 21 is unknown. It's an orbit between Saturn and Uranus. It could be the fabeled Halley's comet? I would have to do a similar check in Pareco, to get a better idea on how the comets are implemented.
+Last edited: Nov 5, 2021
+Reactions:
+Djidjel, Macros Black, CMDRCorrMorningstarFelian and 5 others

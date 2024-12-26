@@ -1,0 +1,36 @@
+Pyroboros
+Aug 30, 2022
+#26,963
+Dox Paradox said:
+What about Raxxla being the "center" (like Sol is for the Bubble) of Guardian space?
+Read in the codex the Guardian had a territorial space similar to the Bubble.
+that was the initial route for my search. Went do all sorts of centers. That route was the reason to study zhe System ID and System Naming Stuff.
+Results:
+Sector Centers = No Raxxla
+Mass Center Galaxy (SagA*) = No Raxxla
+Center of the GalMap Bounds (closest System: JUENAE ST-A D2742) = No Raxxla (Footfalls still available)
+Center of ID System (in Bounds but No System anywhere close )
+if any h mass System are near it they would be named:
+Ployoo AA-A h0-0 Pos:[30655; -1305; 56535]
+Ploya AA-A h0-0 Pos:[31935; -1305; 56535]
+Bya Brou AA-A h0-0 Pos:[30655; -25; 56535]
+Byue Broo AA-A h0-0 Pos:[31935; -25; 56535]
+Cha Eoq AA-A h0-0 Pos:[30655; -1305; 57815]
+Chue Eorg AA-A h0-0 Pos:[31935; -1305; 57815]
+Slawu AA-A h0-0 Pos:[30655; -25; 57815]
+Slawaea AA-A h0-0 Pos:[31935; -25; 57815]
+these 8 Sectors would touch in the 64bit ID System center
+
+Center of the lower left south Octant of the ID System aka 31,31,31 - 32,32,32 (closest System? OOSCS AOB FB-A C2432)
+Boesky AA-A h0-0 [-10305; -1305; 15575]
+Boeph AA-A h0-0 [-9025; -1305; 15575]
+Bya Airg AA-A h0-0 [-10305; -25; 15575]
+Iowhairld AA-A h0-0 [-9025; -25; 15575]
+Eol Flyou AA-A h0-0 [-10305; -1305; 16855]
+Eoch Flyuae AA-A h0-0 [-9025; -1305; 16855]
+Ooscs Aob AA-A h0-0 [-10305; -25; 16855]
+Oephaidst AA-A h0-0 [-9025; -25; 16855] Beautiful young WNC0 I < 1e6 years old already nearing the end of its life cycle.
+Raxxlas = 0
+Ability to find every Body and Name every Sector even they are void = 1
+Reactions:
+Macros Black, simulacrae, Dox Paradox and 2 others

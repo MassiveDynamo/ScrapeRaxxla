@@ -1,0 +1,17 @@
+Marco Santos
+May 31, 2019
+#8,455
+Thatchinho said:
+Hmm... Need to do a slight process of elimination here to check a few things...
+
+When you say honk and go to, are you talking in the sense of honking, then selecting things in the navpanel/sysmap and flying to them?
+
+Yep readed what i wrote and i see the issue.
+
+Basically in the systems i had this was basically, honk it says there is X bodies, i then use FSS and find the ones it had said in the honk, and them i go for the mapping part and in the case of the one that had a gas giant 561k from me, i selected it in the nav panel, used supercruise assist and let the ship do the route, when i was really close to it i honked again and the result was diferent, using the FSS it revealed the other bodies that previously i couldnt see even using the FSS. (the 1st time when i entered the system)
+
+Not the 1st system i get this, i have already quite the number of systems that at 1st glance was already discovered and mapped by other commanders, that had left 1 or 2 bodies unmapped cause of their distance, and when i got there i not only mapped those as i discovered more of them.
+
+Basically what i stated and am telling with all this is, if u see a sun that is 500K or more away from u, its worth flying out there and using the FSS again, cause i can say in 5 of this situations only 1 of them didnt had nothing new to discover...
+Reactions:
+[PS4] Filthymick420 and Thatchinho

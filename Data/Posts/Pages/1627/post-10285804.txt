@@ -1,0 +1,21 @@
+Louis Calvert
+Dec 16, 2023
+#32,539
+Merlin StWahgwaan said:
+hmm, very strange, wish I wasn't out on the other side of the galaxy XD
+
+my brain wants to ask a stupid question... did anyone ever use that galmap search trick, while it was working, on this system? maybe they are comets? and this is just the first time we've found a visual bug thats depicting them in some way?
+You can 'see' comets listed on INARA. For example this shows 'Gary's Comet in Lave, Halley's Comet in Sol, etc. You can also see barycentres in INARA bodies search, since they're represented in-game as non-interactable objects for things to orbit (so in Sol there's 9+10 which I believe is Pluto+Charon's barycentre.).
+
+There's nothing listed for Alpha Cygni - therefore I'd assume it's not a comet!
+Merlin StWahgwaan said:
+if not comets, I'm at a loss.... no way to find them in the system? only on the SysMap?
+No, but if they are Asteroid-Size, then... that's a LOT of space to search with no real reference points and in supercruise... not sure it's even possible to see a single asteroid if they're not represented as signal sources?
+Merlin StWahgwaan said:
+or are these pics from in SC/normal space flight? if they're visual disturbances in system, and not comets, speechless I am XD
+They're from the system map screen - but I tried in both in SC and normal space to see if they would appear in both, which they did.
+Merlin StWahgwaan said:
+really wish I was closer, I'd boot up my desktop and 4k monitors and check er out...
+Have you ever been to Alpha Cygni? If so you should be able to see the system map... worth a try.
+Reactions:
+Merlin StWahgwaan

@@ -1,0 +1,9 @@
+Merlin StWahgwaan
+Mar 6, 2022
+#25,560
+Adel said:
+I had pb too thr first time but we have to download a copy then either change the application (excel or calc for open office) or change every functions called "ShiftLeft" something into the function defined in your language.
+Yea that too, idk how to explain that part correctly though...
+For me, when I opened the sheet on my PC Excel, it gave me a pop-up notice that some formulas were incorrect and a symbol was added/changed too @ i believe....
+
+All I did was go to each cell that had a ref error or null or some error, and checked the formula for any extra @ symbols that were in the wrong place/not referencing anything... turns out I just had to delete like 3 total @ symbols from different cells, and the formulas worked fine.... not sure what the issue actually is between different 'english' languages, but it works so

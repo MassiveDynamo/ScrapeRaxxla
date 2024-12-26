@@ -1,0 +1,10 @@
+Ian Doncaster
+Sep 11, 2024
+#34,773
+Dox Paradox said:
+I checked on nearby Antares and that wasn't the case... maybe not always?
+Did you look behind it? From the default map angle, Antares B in realistic mode ends up behind Antares A with a fairly small separation and isn't obviously visible.
+
+It seems to me to be pretty consistent behaviour for any selected multiple-star system in Realistic mode on the map - though sometimes the separation is small enough that they can be quite hard to distinguish without looking very carefully and maybe rotating the map.
+Reactions:
+Jorki Rasalas

@@ -1,0 +1,49 @@
+Maidor
+Dec 9, 2022
+#28,346
+Jorki Rasalas said:
+I think we must ignore all previous lore and only use in-game ED information, which condenses down to the Codex. I think the only external thing we can rely on is MB’s “it’s in the Milky Way”. Condensing further (stripping out what I think is dross/misdirection) the Raxxla Codex entry I think we are down to:
+
+1) The Alleged Toast: "To the jewel that burns on the brow of the mother of galaxies! To the whisperer in witch-space, the siren of the deepest void! The parent's grief, the lover's woe, and the yearning of our vagabond hearts. To Raxxla!"
+
+2) “The legend of Raxxla has been circulating, in whispers, for centuries”
+
+3) “The earliest recorded mention of Raxxla dates from 2296”...in Tau Ceti
+
+4) “The earliest documented stories tend to agree on several points, however: that Raxxla is a definite place and that it holds a mystical secret.”
+
+5) “Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed. These details, however, were later shown to bear a striking resemblance to the children's story Princess Astrophel and the Spiralling Stars, and soon lost credibility. Undaunted, some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.”
+
+
+my own, my very own, personal thoughts about the puzzle:
+1 - sounds like it should be a clue, perhaps the start of the Raxxla storyline?
+2 - sounds like a joke/pun on the Spiralling Stars from 5....and maybe a hint that is worthy of attention?
+3 - I think this just says it’s a very old rumour. This might limit the search range to somewhere near Tau Ceti Raxxla was actually physically found that early, but I still think this is a red herring and it could have been observed astronomically by telescope (e.g. Gaia space telescope) etc which could put the potential search range out to the edge of the Milky Way. And if it was physically found remember that explorers were getting out to the edge of the galaxy quite soon after game release...(Augustus Branquith? That Tourist Beacon mention sounds like another hint!)
+4 - IMHO fluff, apart from telling us it is not Witchspace, or a state of mind, or the friends along the way!
+5 - I think this is the heart of the clue!
+Omphalos Rift could imply many things (Delphi system, Aquila constellation conical hole, etc etc that people here have explored in various hypotheses), but I think is a hint that Raxxla is accessed by a special mechanism and won’t be found in-game in a system as an object named “Raxxla” (I still think it will be in/an instance downloaded from the FD server when the Omphalos is triggered. This is the obvious way FD would use to foil data miners. I dont the Omphalos will be so named either, for the same reason; it will be hidden as something, or within something, mundane)....
+
+I found the phrase about “the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see” very suggestive. The only thing we have of that book is the title “Princess Astrophel and the Spiralling Stars”. So, is there an anagram buried therein? (I’ve tried this & there are a of possible in-game system names!) . But I still prefer the interpretation that Astrophel is a Black hole and the Spiralling Stars are Neutron Stars or Black holes, both of which spiral in-game. One possibility occurs to me that I’ve not tried for a while... which is the conical hole of the Omphalos implies we should try to fly into the rotating beams (conical hole) of a Neutron Star and approach the neutron core. I’ve tried it once or twice but always got thrown out by the violent motion, and presumably it would have to be the NS! If this interpretation is valid then there ought to be something unusual about that particular NS! Unless we have to solve the toast to take us to the correct one.
+
+Edit: I give up on the logo! It’s so obscure it could mean anything. I can imagine it might mean that Raxxla is the name of a hidden space station!
+Click to expand...
+
+You sir are now in sync with the right mentallity.
+I've pointed this out last month but I think things are close and simple, and we need to make more objective tests on suspected places close to Sol.
+
+Recently after the thread got back to speculation I headed over to Sol. And started making jumps that could go along with the Toast and clues.
+-Tau Ceti, Serious, Delphi, and other named legends in the proximity. I do most of this in a Cobra because it has a fairly related Jump-Range with the old ships.
+
+I was heading from Geb to Delphi trying to find a system right in the middle with equivalent distances. For some reason I was thinking It was funny that ''Source'' is in the center of the galaxy and ''Waypoint'' is in Serious. And the Route-Planner got wierd. Sending me to a system called STOPOVER.
+
+Some wierd things happened then.
+-It was a very interesting name for the guffy theory developing in my journey.
+-It was completely bugged with another system on top of it that I was not being able to target. ( was frustrated and didnt screenshot thinking my Galaxy map was at it again)
+-Once I gave up and jumped to STOPOVER it has 2 stars spinning around nothing and one of them has a diffrent name from the system or close by systems.
+
+My wierd next conclusion was. The ''map'' to Raxxla is just that.
+I've been trying to say we have all the clues and don't bulk test them. but its probabbly just it.
+
+A very simple 3/6 steps jump map, around Sol systems, that when you get back you realize something is different. Something is off, and when you check it you wont make much of it. But It's the next step into Raxxla, a ''confirmation clue'', because so far there are only clues meant to broadden the search and make people speculate.
+Reactions:
+Louis Calvert, John Stoutbeard and Edelgard von Rhein

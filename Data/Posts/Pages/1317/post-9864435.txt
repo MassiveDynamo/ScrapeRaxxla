@@ -1,0 +1,9 @@
+Robert Rockbite
+R
+Jun 12, 2022
+#26,332
+Don't worry: Finding one could well mean finding more of them.
+For example, [insert random wild hypothesis here] - eh, Raxxlas could be tiny objects that emit exotic gravitational forces. And these exotic gravitational forces would distort spacetime to stabilize fancy star systems with 3 or more stars into stable orbits.
+And that's because, usually, I would expect at least some star systems to be completely chaotic. And if that would be the case, I would expect that FDEV would not want to run real-time simulations of millions of chaotic star systems on their servers.
+So maybe FDEV had to nudge orbital mechanics a bit to make some star systems stable. And maybe FDEV felt that if they had to nudge orbital mechanics, they would have to introduce some thingy that does the nudgin'.
+And that would mean we would "just" have to find a way to identify star systems that need nudging. If we could do so reliably and with a certain computational efficiency, we would just have to run an algorithm over 60 GB (compressed) of public star system data and find an impressive number of systems stabilized by Raxxlas in one go.

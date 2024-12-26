@@ -1,0 +1,13 @@
+Zieman
+Nov 19, 2021
+#24,816
+Han_Zen said:
+The World of Death is an example of what I'm talking about. It is quite extremely eccentric, but the orbit does not look elliptic. It looks like a wheel, with an offset hub.
+What you're describing is this:
+
+
+Han_Zen said:
+I would expect the shape of the orbit to be visibly stretched. It could be just the map that makes it hard to see.
+And this is what's in game, clearly an ellipse:
+Reactions:
+Han_Zen

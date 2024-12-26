@@ -1,0 +1,26 @@
+Stinja
+S
+Dec 17, 2017
+#1,364
+Jaiotu said:
+Speaking of crazy ... if you read the letters in Raxxla as "medieval Roman numerals" you get the following values:
+
+R = 80
+A = 5
+X = 10
+X = 10
+L = 50
+A = 5
+
+I was doing some Guardian poking (relating to Raxxla), and remembered this post when I noticed my current coordinates weren't far off if you turned those into X/Z/Y.
+Took a look in Galaxy Map, and checked if there were any systems near +/-805 +/-1010 +/-505 (+/-RA+/-XX+/-LA) and there was a system almost right on one of those! On the rim? Check. A little bit obvious? Kinda check.
+Headed out there, but nope... no USS, POIs, stations or rogue planets*.
+
+All I found was a condor(?) way out in the middle of nowhere:
+
+
+and a lot of black empty space...
+
+
+* Given the difficulty of dropping on a comet which is known, I do wonder if it's in any way reasonably possible to find a rogue planet by accident.
+Last edited: Dec 17, 2017

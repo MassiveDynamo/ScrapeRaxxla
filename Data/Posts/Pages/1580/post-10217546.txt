@@ -1,0 +1,20 @@
+CMDRCorrMorningstarFelian
+Sep 11, 2023
+#31,584
+simulacrae said:
+When you type in HIP 2066219… does it take you to lave in the map? Not at computer atm.
+You must be talking about this:
+Code:
+https://simbad.cds.unistra.fr/mobile/object.html?object_name=HIP%2066219
+
+Space characters in HTML mark-up for links is encoded with %20. That isn't actually part of the name - just how SIMBAD formats the identifier request being sent to their database.
+
+Background info:
+HTML URL Encoding Reference
+W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.
+www.w3schools.com
+
+HTML URL Encoding
+W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.
+www.w3schools.com
+Last edited: Sep 11, 2023

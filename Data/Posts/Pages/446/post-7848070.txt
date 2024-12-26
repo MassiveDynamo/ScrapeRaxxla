@@ -1,0 +1,21 @@
+[Diplomacy] Carnegie
+Jun 14, 2019
+#8,913
+Today's Exploration Weirdness Report:
+
+As some of you may know, I'm primarily exploring by parallax these days. However, I'm on a mission to scan the systems for all HD and HIP catalogue stars, which means that sometimes I need to use the FSS to locate hard to spot bodies (those tiny black ones a long way from the star are the devil to spot). Once located, I'll point the ship in the right direction then go look for the tiny moving speck.
+
+So I'm at HR 4938, which had only the primary star explored. There's a second star at 37 kLs away with no orbiting bodies, and a third at 275 kLs out, which is where all the planets are hanging out.
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+I do the supercruise thing and locate and resolve bodies 1 through 8, but I'm not getting 'System Scan Complete', so I take a look around with the FSS and track it down to an orbit pretty much perpendicular to other 8 bodies. So I point my ship in the general direction and fly off to do the parallax thing. At around 1 kLs from the star I'm not seeing any motion so I flip to the FSS for a quick look - the body is no longer in front of me, it's behind me, apparently at one zoom level in, along with bodies 1 and 2. This obviously isn't right, since I've got 1 through 8 tagged and most of those are way further out than I currently am. Weird, but okay. I try zooming in, but the FSS really doesn't like zooming at that range and all I can manage to get is flashes of the star as it shoots across the screen in response to tiny mouse movements.
+
+So I turn around and fly back to 300 Ls and FSS again - yep, it's back behind me again. This time I check what range it's at (normally I don't because that's 'cheating') - 26 kLs. Naturally, my spider-senses are tingling at this point, so I fly back out to 1 kLs to see if it reappears behind me. It does, and a quick trip back to 500 Ls puts it back out in the distance again.
+
+At this point I have to option of heading out 26 kLs in the hopes that I can pick out a tiny body at that distance from the star, with no hope that the FSS is going to help me find out, or simply resolve it with the FSS. If it hadn't been past 11pm on a workday, I might have done the experiment, but as it was I just resolved it. Sadly, my screen didn't explode into fireworks, spelling out 'Raxxla' in glowing letters - just a regular atmospheric HMC. I flew out and mapped it anyway, just to see - nothing exciting happened.
+
+So I'm going to put this down to a bug, but if anybody wants to go investigate, feel free - I'm not worried about tags or credits these days, I've got plenty of both.
+Reactions:
+Midian Cabal, [PS4] Filthymick420, PeteACarter and 4 others

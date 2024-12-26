@@ -1,0 +1,9 @@
+Crimson Echo
+Nov 10, 2021
+#24,770
+
+I was under the impression that the sol system was more or less directly imported from older games, but the elements in Elite Dangerous do not seem to match. Would it be possibly for someone with access to the older games to post the elements for mercury, venus, and ceres as well to see how they compare to ED?
+
+Looking at Triton's Elements in ED sparked an idea why it might be permit locked. The negative inclination, and negative orbital period might have broken some aspect of how things work/are updated in real time in game on the surface, and fixing it was not practical for whatever reason. So to avoid the problem they added the permit lock. Normally inclination is between 0 and 180.
+Reactions:
+Adel, SergMx, CMDRCorrMorningstarFelian and 1 other person

@@ -1,0 +1,7 @@
+Jorki Rasalas
+May 17, 2020
+#16,455
+A rogue planet is not gravitationally bound to a star and may even be in a “system” instance just by itself. Hence it is a good idea to look through the nav panel every time you arrive or before jumping out, just in case a “Raxxla” system is shown! If a rogue planet enters a system but is not captured by a body therein it will have a hyperbolic trajectory which should be shown on the orrery view-it would enter & exit the system instead of circling around. I don’t think a rogue planet would be shown on the galmap which is filtered by star type; if it was then I guess it would be shown by the “other” star type filter setting.
+If a rogue body were to be captured within a system then it would likely be shown in the system orrery map with an orbit at a significant angle to the other orbits, e.g. in Merope one of the objects looks like it’s been captured.
+Reactions:
+PeteACarter, Machina Ergo Sum and Charming Fawn

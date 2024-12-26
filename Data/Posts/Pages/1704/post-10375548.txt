@@ -1,0 +1,27 @@
+El Saico
+May 14, 2024
+#34,066
+Jorki Rasalas said:
+Hiding Raxxla by making it an unnamed system (rather one who's name is suppressed in galmap) is a good hypothesis, though presumably it would still show in the nav panel to allow FSD jump to it. But how would Ross 629 match the clues we have? Is the system IRL in the region of the Empyrean (or Hell)?
+
+Edit: Frank Elmore Ross catagoued variable stars and stars with high proper motion-perhaps Raxxla is moving after all?!
+Frank Elmore Ross - Wikipedia
+en.m.wikipedia.org
+
+Edit2: I found a simbad page for Ross 629, it has other names & one of those might be used in ED. You could also check it's coordinates (e.g. Spansh body nearest system?)
+
+Click to expand...
+The only other of those catalogues that ED uses is 2MASS, and that alias doesn't match.
+
+SIMBAD coordinates come from the PoV of our Earthly sky: the ICRS and galactic systems. They can be derived from the game's absolute 3D positions, which EDSM does in the summary page, but they're not trivially searchable.
+We can, however, check for the off-by-one hypothesis right now:
+
+Right ascension Declination Longitude Latitude
+Ross 628 (SIMBAD) 11h 50m 07.845s +4º 54' 26.590" 266.898 +63.405
+Ross 629 (SIMBAD) 11h 54m 06.969s +6º 28' 20.596" 266.944 +65.258
+Ross 628 (EDSM) 11h 52m 40.914s +4° 38' 10.468'' 268.429 +63.501
+
+And the answer is - no, the Ross 628 ingame is correctly labeled.
+Any further searching will have to wait until work is over and I can access the bubble database on my desktop.
+Reactions:
+Han_Zen and Rochester

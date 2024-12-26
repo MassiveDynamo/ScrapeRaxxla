@@ -1,0 +1,6 @@
+Jaiotu
+Jun 13, 2019
+#8,881
+Jorki Rasalas said:
+And for this to be a truly scientific test it should be done by a range of pilots with a tange of internet connection speeds jumping between the same two systems and at a range of times of day to check FD server loading effects. I have said a few posts earlier I have seen occasionally a minor amount of rotation recently when out in vicinity of Heart nebula, nowhere near any permit locks. I have 100mbit/s optical fibre internet connection.
+Yeah ... I saw your post right after I typed up mine. You're absolutely right. To be scientific we should also make sure to perform the test in Solo to make sure that instancing with other CMDRs isn't a factor.

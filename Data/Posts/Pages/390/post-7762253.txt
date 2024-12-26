@@ -1,0 +1,9 @@
+[PS4] Filthymick420
+Apr 29, 2019
+#7,792
+[DAX] said:
+Accordingly to EDSM:
+0.009639% of the galaxy has been discovered on EDSM, it will take 39,934 years, 8 months, 9 days to discover it entirely.
+EDSM listed only stars reported by 3d party software directly from commanders who use it, but this is exactly that rough estimate you wanted to see.
+So, if we exclude all permit-locked regions, we can estimate roughly 20 000 years to find Raxxla by brute-force exploring
+I'm entirely certain someone could easily write a program that would essentially find raxxla.

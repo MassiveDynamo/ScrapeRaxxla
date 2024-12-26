@@ -1,0 +1,146 @@
+Louis Calvert
+Nov 11, 2022
+#27,842
+NOTE: I asked Customer Services about Mimas, the convo can be found here. TLDR: Mimas is missing by intentional design.
+SPOILER: DISCLAIMER
+
+
+
+
+READ: Edit 2: After much investigating and conversing with CS (linked above), and full explorations of Sol and Saturn particularly linked here. It seems unlikely that Mimas being missing is relevant to Raxxla. I've left the post below unaltered for future reference. I consider this connection DEBUNKED unless/until more evidence presents.
+
+Saturn-Raxxla connection (Expanded): The Mimas Report
+Codex: "Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed."
+Omphalos can also refer to a mountain: (Source):
+Gilbert also points out that in Homer’s time, “omphalos” ... As used in The Iliad and The Odyssey ... could also mean the “highest point,” usually with the connotation of being the central point as well. Crete’s main city was on a hill and was referred to as the “city of the navel.” The Bible referred to mountains as “navels of the earth.”
+Saturn (Cronus) is intrinsically linked with Omphalos (Source):
+Rhea secretly gave birth to Zeus in Crete, and handed Cronus (Saturn) a stone wrapped in swaddling clothes, also known as the Omphalos Stone, which he promptly swallowed, thinking that it was his son.
+
+The Mimas Connection:
+So, Omphalos may also be a mountain. Or a mountain right in the middle of a massive circular crater... A mountain caused by an impact on a moon of Saturn, for example. Such a place exists, friends!, and it has a very famous appearance:
+
+
+(it also kinda looks like a wheel...)
+
+Mimas' big crater and mountain (source):
+Mimas's most distinctive feature is a giant impact crater 130 km (81 mi) across, named Herschel after the discoverer of Mimas. ... its central peak rises 6 km (4 mi) above the crater floor. ... The impact that made this crater must have nearly shattered Mimas...
+We know from Darrak's question to support that Fdev seems to be aware of the decisions they made with Saturn (i.e. probably not an accident that Mimas isn't there). Which means... is this a clue!
+
+What would make Mimas important at all?
+Maybe nothing. Maybe it was simply the place where Hyperspace was first developed, a secret test facility. Maybe the impact that caused the crater was actually some gigantic ancient alien spacecraft that was passing our system 4bn years ago... Maybe the asteroid that hit Mimas contained some rare mineral that was vital to Hyperdrive research...
+
+Whether or not Mimas was originally linked to the Raxxla myth doesn't matter much. Maybe "what happened to Mimas" was intended to be a part of the narrative deeply linked with Dark Wheel missions. Maybe that didn't work out, so later they decided to create codex clues to it so people would see it's missing and question it rather than being pointed there by non-existent missions. Who knows!
+
+The Raxxla Codex logo Part 1: Saturn and Mimas:
+Here I pull my tinfoil hat more firmly into place and try to spin a story that puts everything together.
+
+
+
+Basically "Look for Mimas around Saturn" - if we're going with in-universe explanations from the DW graphic designer explaining it: "It depicts the location of the Omphalos Rift project base"
+
+It's not the end-point of the puzzle, it's the start.
+
+It's the reason the prototype Hyperdrive was called the Omphalos Rift.
+
+A narrative that ties it together:
+Imagine this chain of events:
+
+In the post WW3 Sol of the late 21st C./early 22nd C. corporate-backed explorers looking to exploit the mineral rich moons of Saturn discover a derelict alien ship, long dead. Perhaps this alien ship was simply crashed on Mimas, perhaps it was actually the cause of the massive crater that nearly destroyed the moon.
+
+Li Qin Jao reverse engineered the alien FTL systems to develop a workable Hyperspace theory. Li Qin Jao enjoyed ancient mythology and considered the crater with the massive mountain in the centre where the ship was discovered, the idea of creating a new 'axis' around which humanity would pivot, working in his labs around Saturn, contemplating ancient Greek mythology in the naming of things... He called the alien hyperdrive project "Omphalos Rift".
+
+Project Omphalos Rift eventually developed into commercial FTL that gave humanity the stars, but before that there was years of research and development...
+
+Early test pilots using the Omphalos Rift engine working for Li Qin Jao reported a strange 'corridor' (the) ship travelled through during a hyperspace jump, they named it 'witch-space'.
+Galnet: "It was around this time the phrase 'witch-space' first appeared, reflecting the inherent dangers of early hyperspace technology and the strange 'corridor' a ship travelled through during a hyperspace jump.
+
+These brave test crews/pilots probably had a high accident rate - just like in early aviation history and jet-fighter development. Possibly a group of early test-pilots experienced a misjump that didn't kill them, but it did give them a glimpse of something wonderful, mystical...
+
+Codex: "To the jewel that burns on the brow of the mother of galaxies! To the whisperer in witch-space, the siren of the deepest void! The parent's grief, the lover's woe, and the yearning of our vagabond hearts."
+
+This directly ties in with what Jasmina Halsey experienced in 3302 when Starship One misjumped: “I saw a place of extraordinary beauty. A paradise. It was truly wonderful...This was no dream - it was a glimpse of something very real....We must find this place. It could be our future.”
+
+These survivor test-pilots, surely picked from the brightest and best, Elites you could call them, would never forget what they'd witnessed...
+Codex: "The quest for this mysterious place...was said to be the principal aim of the Dark Wheel, a putative fraternity of legend-chasers from the early days of interstellar travel.
+
+Jasmina Halsey, Hyperspace, and Ancient Aliens
+I always loved this story. I did a whole article on it for Sagittarius Eye way back when it happened. Starship One misjumped (due to sabotage, but that was revealed years later). Months later former President Jasmina Halsey's escape pod was recovered...
+
+She spent a while in hospital, then gave a press statement:
+"It was wonderful. Amazing. I saw the universe, and our galaxy within it, as I'd never seen it before, and I felt the presence of the real caretakers of our galaxy. The paradox of their existence – tiny yet gargantuan, fleeting yet eternal. They spoke to me as I drifted in the void. It was amazing. I must share their message."
+
+Later she gave a more organised address where she said:
+“I saw a place of extraordinary beauty. A paradise. It was truly wonderful.”
+
+“This was no dream - it was a glimpse of something very real.”
+
+“We must find this place. It could be our future.”
+She later issued a public request for exploration data from across the galaxy to substantiate her claims of meeting "the true architects of creation", and that data revealed the presence of Guardian Ruins. That was essentially seen as the "answer" to Halsey's visions - and her visions are in the Guardian section of the Codex for this reason.
+
+But the Halsey story continued. Her character entirely changed. She left the Federation, joined the Alliance, started doing peace work and set up a lot of aid stuff, and she's now tacitly re-joined the Federation working as an ambassador to the Alliance working towards peace.
+
+I think it's extremely likely that this was a clue to Raxxla, as well as helping us find Guardinans. Jasmina experiences a Hypserspace accident and comes away talking about seeing visions of "a place of extraordinary beauty. A paradise. It was truly wonderful.... a glimpse of something very real." - this was never found, but people passed this off as 'she was seeing the distant past of the Guardians'.. maybe she was, maybe Raxxla was actually Guardians, but... what if that wasn't the right answer?
+
+Compare Jasmina Halsey's experiences with these lines in the Raxxla Codex:
+Raxxla Codex: "The earliest documented stories tend to agree on several points, however: that Raxxla is a definite place, and that it holds a mystical secret... the legend exerts a strangely potent fascination on the minds of seekers. ... spent his or her entire life in a futile search for it.
+
+The common connection here is, again, Hyperdrives and Hyperspace - not exploration and discovery.
+
+This explanation covers why the myth of Raxxla existed in the earliest days of human travel. Those early test-pilots saw the same thing as Halsey, then went on to form The Dark Wheel to search for it. Codex: "The quest for this mysterious place...was said to be the principal aim of the Dark Wheel..."
+
+It's been over a thousand years since Raxxla was first seen by those early test pilots that became the Dark Wheel...
+Codex: "Raxxla also plays a role in several conspiracy theories, most of which attest that it has already been discovered by some kind of sinister cabal (or sole tyrant), which has leveraged its power to establish covert dominance over humanity."
+
+The Raxxla Codex logo Part 2: Destination Raxxla:
+This one needs some explaining.
+Codex: "Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed."
+As I've laid out here I think "Omphalos Rift" is just another name for Hyperdrive technology, maybe the first "alien" drive system that was used to build our own.
+
+The "gateway or tunnel" matches with this description of early Hyperdrive and our own experience of using FSD:
+"The first commercially available hyperspace system was known as the 'Faraway Jump'. The Faraway system was far from perfect, however, depending on a complex network of monitoring satellites, branch lines, stop points and rescue stations – which took hundreds of years to establish – to operate smoothly."
+
+"It was around this time the phrase 'witch-space' first appeared, reflecting the inherent dangers of early hyperspace technology and the strange 'corridor' a ship travelled through during a hyperspace jump.
+
+"Even today, hyperspace remains poorly understood. Many pilots have reported glimpsing inexplicable lights, and even structures, within the witch-space tunnels. It may be centuries before all of its mysteries are unravelled."
+Click to expand...
+
+Perhaps Hyperspace remains "poorly understood" because we didn't develop the science to build the technology to access it, we leapfrogged that bit by using extant alien technology.
+
+The Negative spaces in the hexagon that sits behind the Raxxla logo could easily represent tunnels/paths, maybe even the Faraway Jump's "branch lines". It can be seen as a geometric one-point perspective representation of a tunnel too, as shown below, which can be read as graphical representation of the same witchspace tunnel we travel through even today.
+
+
+
+
+I think the Raxxla logo is literally a representation of the idea that Raxxla's mystery is inherently tied to Hyperspace.
+
+Further hyperdrive connections:
+"... To the whisperer in witch-space,... To Raxxla!" - Alleged toast of the Dark Wheel
+Given all this, I think Raxxla has always been intrinsically linked with Hyperdrives/Hyperspace. Interestingly if this idea is correct that our Hyperdrive has always derived from alien technology, there's some strangeness to explain:
+
+Guardian technology:
+19/28 : Technology Log – Hyperdrives This log details the Guardians’ faster-than-light technology. ... What is clear is that the Guardians’ hyperspace technology was very different from our own.
+Thargoid:
+"Thargoid drive tech differs radically from our own. Rather than shift space around the ship, it appears to create this stable wormhole for the ship to travel through. It sounds crazy, but the maths don’t lie. ..."
+Hyperdrive History says Effie Ratling was comparing the Thargoid drive to late-stage Quirium drives (3150s). Ram Tah examining the Guardian data (3300s) was comparing Guardian Hyperdrives to current FSD.
+
+To explain why neither alien Hyperdrives are similar to ours, the easiest explanation is that Ratling was comparing Thargoid drives to Quirium drives (our original Hyperdrive tech, possibly based on the as-yet-undiscovered Gaurdains' crashed ship), and Ram Tah was comparing the Thargoid-derived FSD with Guardian drives.
+
+The Mimas "Omphalos Rift" drive could well have been another ancient alien species entirely, which is also an interesting possibility!
+
+(NOTE: Non-Game sources derived from Fdev material do explicitly say that FSD is derived from Thargoid technology captured by INRA and eventually developed and distributed by Sirius as FSD - but I don't think that's actually ever explicitly stated in game. I do think there are extremely strong hints in game that this is the case, but until it's in-game I can't use it).
+
+Thargoids obviously can interact with FSD jumps (and anecdotally Quirium jumps too) and have been confirmed to "hover in hyperspace". Ram Tah has managed to make Guardian FSD boosters for us. I think it's safe to say that "Witch Space" is Hyperspace, and there are many different ways to access it and use it, but they're all accessing the same place. An alternate/parallel dimension if you will...
+
+Codex: "Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed"
+Galnet: "Many pilots have reported glimpsing inexplicable lights, and even structures, within the witch-space tunnels."
+
+Delphi (Pleiades), Oracle, Spiralling Stars.
+I still think the Codex points towards Delphi by connection to the Omphalos, but I think that's a red herring. Follow that and you'll end up embroiled in the cool Thargoid story and will have fun there, so it's like a consolation prize really rather than a dead end.
+
+It may well also be connected in terms of Hyperspace. We know Thargoids are way better than us at Hyperspace stuff, so if you'd followed the Raxxla clues to Delphi and maybe come to the conclusion that it had something to do with them, you'd be right because I'm sure in future we'll get a better understanding of Hyperspace through them - if Raxxla hasn't been found by then, I'm sure Fdev can include it in a future Tharogid-related story arc if they needed to.
+
+What happened to Mimas?
+Researchers activated the alien Omphalos Rift drive and the moon vanished into Witchspace, or it shattered and dropped into Saturn, or fired off across the system, or the drive imploded and swallowed the moon into a micro black hole that's still there, or the Dark Wheel have enough influence to erase it from our ship's systems these days. Doesn't matter really, the fact that it's missing is the clue.
+Last edited: Nov 28, 2022
+Reactions:
+MrSuction, CMDR Davanix, Macros Black and 9 others

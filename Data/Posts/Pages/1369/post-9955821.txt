@@ -1,0 +1,27 @@
+jixxed
+Sep 27, 2022
+#27,370
+I don't believe this to be a clue to raxxla, but I have to say the stars aligned there for a second.
+
+I do have a different theory for where raxxla might be. I believe the toast to be related to Homer's Odyssey. The choice of words in the toast, the hint of it's a journey that everyone has to travel for themselves, the DLC being named Odyssey.
+After studying the Odyssey for a bit I found out some things:
+Odysseus is hidden on the island Ogygia by Calypso -> https://en.wikipedia.org/wiki/Calypso_(mythology) ; In Greek mythology, Calypso (/kəˈlɪpsoʊ/; Greek: Καλυψώ, "she who conceals")[1] was a nymph who lived on the island of Ogygia, where, according to Homer's Odyssey, she detained Odysseus for seven years. She promised Odysseus immortality if he would stay with her, but Odysseus preferred to return home.
+Ogygia is described as the omphalos thalassas or "navel of the seas". (omphalos rift hint)
+
+If you go looking for Calypso ingame, you will notice she, unlike basically all the other greek mythological figures, is missing. Even from Sol itself.
+I believe we can find Calypso on the map in an obfuscated form:
+
+I have investigated all these systems that exist on the border of Kepler's crest and the Formadine rift, but came up empty.
+There is still another region that matches this pattern, but unlike SOAC, exists of 100s of systems(it's near Sag A*):
+LASO CP-Y
+LASO CY-P
+LASO PC-Y
+LASO PY-C
+LASO YC-P
+LASO YP-C
+
+I suspect one of these systems will house a planet or moon called Ogygia, which will be the solution to the mystery upon which the finder will be immortalized.
+There may be some reference to raxxla in the system, but I suspect they removed any reference to it to prevent it being leaked. Finding Ogygia will however confirm the theory.
+Anyone up to the challenge to go map out all these systems?
+Reactions:
+Emperor, yelboc, Rochester and 3 others

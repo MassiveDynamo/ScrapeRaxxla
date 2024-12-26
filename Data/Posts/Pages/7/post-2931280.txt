@@ -1,0 +1,86 @@
+Macros Black
+Oct 11, 2015
+#125
+Anaconda 408t Rares Run To Ceos
+
+Start: 11 oct 3301 17:18
+Balance: 13,091,264 CR
+Balance at Ceos pre sale: 14,673,194 CR
+Balance at Ceos post sale: 22,014,483 CR
+Profit: 7,341,289 CR
+Ship: Anaconda
+Cargo: 408t
+Source: Elite Rare Trader
+
+System Station Rare Buy Sell # Distance (LY) Time Note
+Tanmark Cassie-L-Peia Tanmark Tranquil Tea 1,814 18,354 1 17:18
+Tanmark Cassie-L-Peia Lucan Onion Head 815 16,945 7 17:18
+Utgaroar Fort Klarix Utgaroar Millennial Eggs 1,795 18,327 1 34.98 17:30
+Quechua Crown Ring Albino Quechua Mammoth Meat 2,538 19,375 5 63.70 17:39
+Belalans Boscovich Ring Belalans Ray Leather 882 17,039 8 38.53 17:47
+Aerial Andrade Legacy Edan Apples of Aerial 615 16,663 6 70.08 17:58
+Jaroua Mccool City Jaroua Rice 385 16,338 12 60.67 18:07
+Irukama Blaauw City Giant Irukama Snails 1,810 18,348 8 45.05 18:16 Buy Tobacco at 4,777
+Karsuki Ti West Market Karsuki Locusts 915 17,086 1 67.04 18:27 Sell Tobacco at 5,434. Buy Tea
+Goman Gustav Sporer Port Goman Yaupon Coffee 1,451 17,842 7 50.18 18:39
+Eshu Shajn Terminal Eshu Umbrellas 2,050 18,686 6 89.98 18:54 Sell Tea(1,810). Buy Marine Equipment.
+Rapa Bao Flagg Gateway Rapa Bao Snake Skins 550 16,571 4 84.41 19:20 Sell Marine Equipment
+Wuthielo Ku Tarter Dock Wuthielo Ku Froth 420 16,388 7 46.46 19:33 Buy Tea.
+Kamitra Hammel Terminal Kamitra Cigars 6,218 24,564 6 81.45 19:49
+Delta Phoenicis Trading Post Delta Phoenicis Palms 412 16,376 9 86.83 20:05
+Coquim Hirayama Installation Coquim Spongiform Victuals 255 16,155 12 61.68 12 oct 08:31 Sell Tea.
+Phiagre Greeboski's Outpost Giant Verrix 6,522 24,993 2 30.19 08:46 Buy Marine Equipment.
+HR 7221 Veron City HR 7221 Wheat 415 16,381 5 49.42 08:58 Sell Marine Equipment. Buy Tea
+Baltah'Sine Baltah'Sine Station Baltah'Sine Vacuum Krill 825 16,959 5 57.45 09:12 Imperial slaves(16,300)?
+CD-75 661 Kirk Dock CD-75 661 Kitten Brand Coffee 2,373 19,142 5 40.34 09:22
+Zaonce Ridley Scott Leathery Eggs 24,350 50,135 1 73.68 09:37 Sell Tea. Buy Marine Equipment.
+Lave Lave Station Lavian Brandy 3,500 20,731 5 5.22 09:48 Sell Marine Equipment.
+Diso Shifnalport Diso Ma Corn 335 16,268 3 3.59 09:57 Buy Tea.
+Uszaa Guest Installation Uszaian Tree Grub 965 17,156 4 5.19 10:06 Sell Tea.
+Orrere Sharon Lee Free Market Orrerian Vicious Brew 630 16,684 6 2.00 10:23 Buy Imperial Slaves.
+Leesti George Lucas Leestian Evil Juice 457 16,440 13 9.35 10:35
+Leesti George Lucas Azure Milk 4,123 21,610 2 9.35 10:35
+Toxandji Tsunenaga Orbital Toxandji Virocide 535 16,550 20 102.82 11:06 Sell Imperial Slaves. Buy Progenitor Cells.
+Sanuma Dunyach Gateway Sanuma Decorative Meat 860 17,008 26 76.02 11:23
+Any Na Libby Orbital Any Na Coffee 1,790 18,320 8 94.75 11:37 Buy Tea(1250).
+Arouca Shipton Orbital Arouca Conventula Sweets 1,191 17,475 3 28.17 11:49 Disposed 1 Competent Python.
+Deuringas Shukor Hub Deuringas Truffles 1,892 18,464 5 46.33 12:01 Sell Progenitor Cells. Disposed 1 Competent Vulture.
+AZ Cancri Fisher Station Az Cancri Formula 42 6,442 24,880 7 119.90 12:23 Sell Tea. Buy Land Enrichment Systems.
+Eranin Azeban City Eranin Pearl Whiskey 1,620 18,080 4 57.12 12:37 Sell Land Enrichment Systems.
+Ethgreze Bloch Station Ethgreze Tea Buds 3,261 20,394 6 42.97 12:44
+Rusani Fernandes Market Rusani Old Smokey 5,810 23,989 10 69.95 12:57
+Damna Nemere Market Damna Carapaces 315 16,240 2 71.50 13:09 Buy Tea.
+Volkhab Vernadsky Hub Volkhab Bee Drones 3,262 20,396 5 123.39 13:30 Sell Tea. Buy Marine Equipment.
+Alacarakmo Weyl Gateway Alacarakmo Skin Art 1,421 17,799 10 130.47 13:51
+Rajukru Snyder Terminal Rajukru Multi-Stoves 682 16,757 22 88.14 14:14
+Kongga Laplace Ring Kongga Ale 585 16,620 4 71.47 14:33 Sell Marine Equipment. Buy Tea.
+Esuseku Savinykh Orbital Esuseku Caviar 2,450 19,250 9 54.50 14:46
+Ochoeng Roddenberry Gateway Ochoeng Chillies 998 17,203 13 46.83 15:57
+Heike Brunel City Ceremonial Heike Tea 1,920 18,503 1 122.95 15:57
+Helvetitj Friend Orbital Helvetitj Pearls 3,620 20,900 1 54.89 16:35 Dispatched Dangerous Imperial Clipper
+Eleu Finney Dock Eleu Thermals 864 17,014 10 64.28 16:55
+Kinago Fozard Ring Kinago Violins 7,279 26,061 1 71.26 17:19 Sell Tea. Buy Marine Equipment.
+Vanayequi Clauss Hub Vanayequi Ceratomorpha Fur 615 16,663 9 55.61 17:35 Sell Marine Equipment. Buy Tobacco. Dispatched Master Asp.
+Kamorin Godwin Vision Kamorin Historic Weapons 2,650 19,533 9 94.50 18:06 Sell Tobacco. Buy Marine Equipment.
+Kachirigin Nowak Orbital Kachirigin Filter Leeches 467 16,454 8 26.73 18:17 Sell Marine Equipment. Buy Tea.
+Nguna Biggle Hub Nguna Modern Antiques 919 17,091 1 60.71 18:32 Sell Tea. Buy Crop Harvesters(58).
+HIP 10175 Stefanyshyn-Piper Station HIP 10175 Bush Meat 2,105 18,764 1 98.86 18:53 Sell Crop Harvesters. Buy Coffee.
+Momus Reach Tartarus Point Momus Bog Spaniel 1,825 18,369 3 50.95 Sell Coffee. Buy Performance Enhancers.
+Witchhaul Hornby Terminal Witchhaul Kobe Beef 4,520 22,170 9 25.78 Sell Performance Enhancers. Buy Tea
+Fujin Futen Spaceport Fujin Tea 992 17,194 1 23.86 19:34 Sell Tea.
+39 Tauri Porta Tauri Chimes 924 17,098 11 13.02 19:42
+Hecate RJH1972 Live Hecate Sea Worms 1,190 17,474 1 49.37 19:56
+Bast Hart Station Bast Snake Gin 1,080 17,318 10 46.61 20:04
+Zeessze Nicollier Hanger Zeessze Ant Grub Glue 374 16,323 18 32.87 20:13
+George Pantazis Zamka Platform Pantaa Prayer Sticks 3,620 18,355 11 14.90 20:22 Full load at 408t. Off to Ceos. 41 jumps. Sold 8 rares to fit. Eta: 21:00
+Epsilon Indi Mansfield Orbiter Indi Bourbon
+Altair Solo Orbiter Altarian Skin
+
+The motherload:
+SPOILER
+
+Trade bonus (349,248 CR):
+SPOILER
+Last edited: Nov 16, 2015
+Reactions:
+Patau82 and Futuristic Kung Fu

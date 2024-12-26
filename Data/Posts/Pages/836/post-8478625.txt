@@ -1,0 +1,11 @@
+alexzk
+A
+May 25, 2020
+#16,719
+Fact - Elite has 2 different types of objects
+1. Beacons, stations
+2. Ground objects like geo site or planetary port.
+
+You can see (1) from infinite range, and disengage on it right from orbit. That happens when they place tourist beacon on ground. Question is what class raxxla belongs, so that will define behavior.
+Reactions:
+Machina Ergo Sum and PeteACarter

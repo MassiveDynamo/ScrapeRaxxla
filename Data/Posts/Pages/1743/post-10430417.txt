@@ -1,0 +1,16 @@
+Ian Doncaster
+Sep 18, 2024
+#34,855
+Neestar said:
+As a former QA & rudimentary 'coder' ( SWG ) , i tend to agree with you there ^ yep. However, something just occurred to me: Remember that aforementioned permit-locked planet 'LAVE 2' i stumbled upon ( without knowing it was commonplace) in my previous post earlier? Well, that planet is run by the..... 'Lave RADIO Network' . hmm.... coincidence?
+"Lave Radio Network" is one of the player-named factions (and, as one of the earliest-added ones where Frontier really hadn't thought through the rules yet, were given placement in a lore-significant system)
+
+They control the main system station so have default jurisdiction over any space not very close (varies depending on type, but never more than 1000km) to a station/settlement/installation owned by another faction
+
+They took control of the system through normal BGS processes from an Alliance faction who really didn't want to give it up, leading to a big fight in mid-2018 which temporarily caused Lavian Brandy to be unavailable - and therefore, Didi Vatermann being really difficult to unlock for the new players of the time.
+
+selbie said:
+Wasn't it also confirmed by FDev that it was an intended feature? As in they knew what they were doing placing it in such a way and that it was not a bug.
+https://issues.frontierstore.net/issue-detail/446 was closed as "By Design" without comment. Obviously that doesn't confirm anything about what it was designed for.
+Reactions:
+selbie, Neestar and Rochester

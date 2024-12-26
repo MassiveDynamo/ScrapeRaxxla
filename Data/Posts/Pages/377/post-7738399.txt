@@ -1,0 +1,13 @@
+Ko Shiji
+Apr 17, 2019
+#7,531
+Someone just posted on Reddit that there's a hidden scientific installation in orbit around Delphi 2 with a beacon transmitting some sort of coded / cipher message. Not sure if it's Raxxla related, or Thargoid related or what. Can't check it out right now.
+
+I tried a Caesarian Shift on the bit of code he posted, and a shift of 23 reveals "HQ" something.
+
+EDIT: Embarrassingly, this is just Eagle Eye 6 broadcasting a warning in the keyed Caesarian (key = invaders, shift = 0), for OU Geminorum. Canonn needs to edit its Eagle Eye page to replace Pleiades Sector IR-W d1-55 2 with its new name Delphi 2.
+
+Thanks Yoda711 and everyone else. Sorry.
+Last edited: Apr 17, 2019
+Reactions:
+Midian Cabal and Count dEstard

@@ -1,0 +1,33 @@
+PeteACarter
+P
+Jun 16, 2020
+#17,513
+Mrrshal said:
+Friends, I have news.
+
+I tried many things around LFT 509. Using population and government filter I have found a number of interesting systems.
+Remembering Lave and Achenar importance in thinking about Raxxla, I looked upon Imperial Capital surroundings and noticed system
+with a name of CD-58 16.
+SPOILER: GALMAP CD-58 16
+It is unpopulated system, Empire/Corporate/Extraction and has two planets. One of metal, One of rock.
+The names of these planets are definitely custom: SUONTAKA and it moon S-ONE
+
+Interesting thing is, searching in EDSM for this system, gives wrong body information on system summary:
+
+Metal-rich body (2 to 20 ls), Earth-like world (311 to 467 ls), Water world (255 to 988 ls), Ammonia world (646 to 1,757 ls), Terraformable (242 to 484 ls)
+
+While next tab ''Celestial bodies'' gives correct info about system bodies. This suggests that Frontier changed this system at some point.
+
+Now, searching the whole forum does not give any results on Suontaka and S-One !!!
+
+Does anyone have any information about all this?
+---------------------------------------------------------------------------------
+Now, I relogged back to game after a break and was shocked. I spawned as expected 0,17 Ls away from S-One and 0,19 Ls from Suontaka in normal space, but suddenly I hear unfamiliar music starting playing and my pilot doing heavy breaths during all of it.
+I panicked, because of course my first thought was my life-support system failed, but it was ok and no timer visible!
+Music stopped playing and with it pilot stopped making any noise. Normal ambient continued afterwards.
+
+I downloaded Audacity program. Will try to reproduce this and record.
+Click to expand...
+Wow! Some amazing progress CMDR. Keep us posted! O7
+Reactions:
+[PS4] Filthymick420 and Psyral

@@ -1,0 +1,11 @@
+D7
+D
+Feb 21, 2024
+#33,472
+Ian Doncaster said:
+If anyone did want to look there for it, that should be possible to check in principle. Given the relative masses, the L1 point should be just over 1% of the Tionisla - New Caledonia distance away from New Caledonia, or around 3.3 Ls away. It's hard to be more precise than that because the masses are only recorded to fairly low precision, and keeping an exact course between the planet and the star would be tricky too.
+
+In theory there could be a hidden POI there - like the Pareco comet - which doesn't show on FSS and is only detectable by getting within 1000km so you're in its frame of reference. If so, actually finding it would require extremely careful flying.
+
+"and keeping an exact course between the planet and the star would be tricky too"
+Why tricky? fly from Tionisla orbit pointed directly at the sun and go about 3.64 Ls from New Caledonia's surface...

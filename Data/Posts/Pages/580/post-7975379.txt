@@ -1,0 +1,7 @@
+alexzk
+A
+Aug 30, 2019
+#11,581
+Just tested FSS sensevity on https://canonn.science/codex/34-virginis-abandoned-srv/
+Well, it detects "1 human signal" from huge dist. Planet scan gives targetable visually point but NOT in left list until you get close to it (appears during glide started).
+So what do you think....this SRV does more emitions then whole DW station? >:

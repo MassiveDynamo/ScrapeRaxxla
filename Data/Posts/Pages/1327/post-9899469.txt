@@ -1,0 +1,12 @@
+Robert Rockbite
+R
+Jul 29, 2022
+#26,535
+Strange that system "PMD2009 48" appears here and now.
+The system just popped up in some, eh, let's say, "general data mining activity".
+The system is not very special as this algorithm yields approx. 1000 systems.
+The results of this algorithm didn't look particularly helpful.
+So I suspected another dead end.
+But maybe I should give these results another look at some time...
+Reactions:
+simulacrae

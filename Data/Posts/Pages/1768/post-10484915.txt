@@ -1,0 +1,28 @@
+Beng_Ammon
+B
+Nov 17, 2024
+#35,344
+Emperor said:
+But did someone from Fdev say that there are no mis-jumps?
+
+API's is a technical implementation of web based services... They could quite easily implement mis-jumps in an API
+Yes. it was in the original dev notes. The specifically said they didn't include it. I cant find the original post, but you can find a bunch of posts that reference it and quoting it as them not moving forward with it.
+
+broken link to post: https://forums.frontier.co.uk/showthread.php?t=5443
+broken exact link to dev response:https://forums.frontier.co.uk/showthread.php?t=5443&p=93106&viewfull=1#post93106
+
+links to post that reference the above, stating they didn't include it:
+Missjump
+Is there a concept of a missjump where you could end up anywhere with lots of little factors adding up to generate a missjump. So you could end up many light years away from where you are expecting to be?
+forums.frontier.co.uk
+two questions about hyperspace jumping
+There must be threads about this, but my searches did not turn up anything specific. 1. I seem to remember that in Frontier I was unable to do a hyperspace jump while under attack. How is this going to be handled in ED? 2. Will we be able to force mis-jumps like in Frontier?
+forums.frontier.co.uk
+
+
+And in the one of the dev diaries or youtube updates, they specifically say misjumps don't work with how the technology of jumping works. but they had something like it for the story later. And then we got thargoids and them grabbing you from witch space.
+
+The API point is set when you initiate the jump. it triggers when you align and full power. When you see the timer on your screen, it has sent the api call. Thats why it automoves your ship in the last few seconds if you're not auto-aligned. To me, nothing about raxxla's known hints are around misjumps or its lore. But on the other hand would think it would be neat if Braben did stick in an easter egg with a controller thing. Would be weird for raxxla since nothing has pointed us in that direction.
+Last edited: Nov 17, 2024
+Reactions:
+Rochester and Louis Calvert

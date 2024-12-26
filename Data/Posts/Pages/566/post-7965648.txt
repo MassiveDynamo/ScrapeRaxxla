@@ -1,0 +1,9 @@
+alexzk
+A
+Aug 25, 2019
+#11,314
+Noobilite said:
+If it's 6, doesn't that just change the location. That could be a set of lines intersecting in a cube instead of a plane. The Raxxla logo is a 2d version of a teseract and other geometric shapes technically.
+Again, many options. It will be something with 6 vertexes (maybe even perfect cube) ... but for such object u can imagine many properties as well.
+
+Btw, if there are 4 points, then there is only 1 sphere which fits all 4. And you can get center of it.

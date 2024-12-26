@@ -1,0 +1,57 @@
+madbilly
+M
+Dec 14, 2017
+#1,347
+Moribus said:
+<snip>
+The fact that this is a new thing (we're not doing a TOS era Trek and finding all these "old" human colonies in uncharted space - at all) - that suggests that, despite theoretical limits, there was something that held humanity back for the majority of our hyperdrive-equipped space travel years, and that something no longer does whatever it was doing.
+<snip>
+Drive maintenance. The longevity of 2b drives was terrible, I'll assume it was for type 1 drives too.
+Cmdr Shijima said:
+I'm sure I recall hearing a little while back that all systems within the bubble have now been discovered. If that's the case then my thoughts are that either it's not in the bubble, it's hiding in plain sight (Founders' World theory) or is a planet in a system that has not been detail scanned/doesn't appear on scanners...
+AFAIK there are still undiscovered (non-scanned) bodies in the bubble.
+Jaiotu said:
+I think the original Cobra Mk III was released around 3100AD. Since Alex Ryder and Elyssia Fields stole an old one from the Tionisla Graveyard the events of The Dark Wheel would have to have happened after 3200.
+The date of the original Elite game is 3125AD so TDW novella would be set earlier than that. FE2 is set in 3200.
+
+Thatchinho said:
+Hmm, do we have a date pinned down for Jameson's strike with the Mycoid Missile?
+Moribus said:
+Also BTW forgot to mention, Jameson's Mycoid attack was around 3150-3151 since that's when the war ended and all Thargoids vanished (Sarasvati logs).
+Is this the new information that comes from the crashed Cobra MkIII? The mycoid storyline originated in FFE which starts in 3250, I think the missions involving INRA, the mycoid vaccine and the Thargoids are in 3252 or 3253.
+HexCube said:
+Maybe it's not the asteroid field that's of interest here; the asteroid field is moving, and it can't be doing that by itself, if we can find what's pulling it along, we might find either Raxxla, or part of the puzzle. I would try myself, but I'm 10Kly from the bubble, and not returning anytime soon...
+All bodies in the game orbit a centre of gravity.
+Trickylion said:
+If it's a journey, only quadruple elite players with max ranking And all permits unlocked and visited will be able to find...
+Ask them
+Straw poll - how many people on this thread have actually achieved this? If not then shall we all do it then see if anything new crops up?
+
+Evoflash said:
+I don't think "Obfuscated by The Outer Rim" is a play on the phrase The Outer Rim like a cryptic crossword clue.
+
+I put all of the system names in to an excel sheet (all 8661 of them which I found here: https://cim.sotl.org.uk/elite-dangerous/ )
+
+I removed the spaces and then filtered for systems with 11 characters as per "The Outer Rim".
+
+I searched for anagrams of "The Outer Rim"
+
+No matches
+
+I searched for anagrams of "Outer Rim"
+
+No matches
+
+I then searched for names where characters 3 and 7 were the same, and characters 8 and 9 were the same - maybe a cypher.
+
+No matches.
+
+I then tried the same with just "Outer Rim" and the matching R's. 11 systems meet this criteria however there's no further pattern I can see that links the remaining letters to an type of cypher shift.
+
+No matches.
+
+Thanks for doing this, I had the same thought a while ago but never got round to testing it - you've saved me the effort!
+
+micky1984 said:
+No the founders kickstarters invested so you can have a game to play in the first place and should be rightly recognised and rewarded
+Please lose the sense of entitlement. The kickstarter finished ages ago and definitely isn't still funding the game's development. The only reason we've still got a game to play is because new players join and existing players continue to spend money on in-game shiny stuff.

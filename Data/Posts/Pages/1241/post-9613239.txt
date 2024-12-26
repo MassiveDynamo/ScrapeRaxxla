@@ -1,0 +1,14 @@
+Han_Zen
+Nov 18, 2021
+#24,808
+Jorki Rasalas said:
+Are you sure? What is the reference source for that statement?
+We know comets are in-game though not visually represented. How big are comets? I’d be surprised if they were larger than 200km diameter.
+The minimum size for planets (moons) in ED, seem to be about 135km radius (137km are the smalest found). Smaller rocks seem to require an instance, like a cluster or a ring.
+I think there are known bodies in Sol with a radius larger than 135km, that haven't been implemented.
+
+According to Wikipedia, 2060 Chiron may have a radius as large as 135.69 km.
+
+I think the missing Boy ID in Sol is Halley's comet though. It's confirmed and even searchable. Perhaps we get to see it, when the engine is ready to handle smaller bodies?
+Reactions:
+Jorki Rasalas and Adel

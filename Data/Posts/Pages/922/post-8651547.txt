@@ -1,0 +1,21 @@
+Emperor
+Aug 17, 2020
+#18,433
+PeteACarter said:
+Interesting. Could correspond to Raxxla logo, where we have:
+6x6 sided shapes on the outside
+Then 33 dots
+Then 3 dashes
+Before the final circle and dot???
+
+Where are you getting 171, 171, 204 from?
+
+
+unless it's late hex to decimal conversion
+
+
+ab = 171
+ab = 171
+cc = 204
+Reactions:
+Dr. Lexus, [PS4] Filthymick420 and PeteACarter

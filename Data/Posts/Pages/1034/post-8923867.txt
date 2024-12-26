@@ -1,0 +1,26 @@
+Jorki Rasalas
+Jan 28, 2021
+#20,677
+clixer said:
+Shoutout to the Independent Raxxla Hunters, some seriously impressive work done in the last few days. Here are all the video links from the investigation channel.
+
+youtu.be/FQLM1naJQCA (Spliffz - green glow)
+youtu.be/01eG3gr0VKA (Spliffz - green glow)
+youtu.be/mhhGyzSbeyU (Spliffz - map teleport)
+youtu.be/t14kFActDvM (clixer - green glow)
+youtu.be/MCTjPxpQlBs (Falconscreech - green glow)
+youtu.be/pjaktBqYTj0 (SteelQuagmire - green glow)
+(Spliffz - map teleport)
+(SteelQuagmire - green glow)
+(SteelQuagmire - green glow)
+(Spliffz - green glow external cam)
+
+Unfortunately I haven't had time to watch them all and look for patterns, hopefully this is useful to someone.
+Click to expand...
+
+Very interestink!!
+That first one of Spliffz is about the strongest I've seen the glow. Interestingly he was only about 1100 ls from Sol, heading away from Sol towards Jupiter, & quite a way above the plane of the belt. Light source seems to be astern.
+
+The last one, with the external cam, is disappointing, in that I can't see any sign of an external light source that would cause this glow (although seems weak in this example).
+So is it a lighting bug after all???
+Last edited: Jan 28, 2021

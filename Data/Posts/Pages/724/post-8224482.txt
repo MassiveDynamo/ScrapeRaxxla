@@ -1,0 +1,10 @@
+Ararera
+Jan 3, 2020
+#14,468
+Babellon said:
+yea there are a lot of stars that result in an empty location. like trying to look at the highest star on the map according to EDSM when you search it in galmap you cannot see or target that star at all.
+I'm trying to recreate the error, but I'm able to see that highest star on my own galaxy map; Dryeau Aub AA-A h4.
+
+Do you know the name of any others that behave like this? Sorry to be a pain!
+Reactions:
+[PS4] Filthymick420

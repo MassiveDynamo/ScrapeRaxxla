@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Mar 16, 2022
+#25,737
+Jorki Rasalas said:
+In my ipad saved pics I have one of two moons/planets hiding behind a cloud. Anyone know what that is &/or where it came from?
+View attachment 296561
+If I had to guess that's a lagrange cloud. You generally need a class D or greater system for those to form. Trying to find the forum post on it but on systems without proper names you can tell by the name sequence. You generally need a class F main star or greater to for there to be a good chance of a large enough lagrange point. Look at the top of the 2nd page. You are looking for the Mcode (or mass code). This isn't mine but yes it is entirely possible to tell what kind of things you would expect to find in the system based on mass-code for that system.
+Attachments
+ED_System_identifiers_notes_-_Rev1.pdf
+551.6 KB · Views: 149
+Last edited: Mar 16, 2022

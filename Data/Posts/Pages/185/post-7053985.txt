@@ -1,0 +1,22 @@
+Jorki Rasalas
+Sep 30, 2018
+#3,684
+Scytale said:
+A Rogue Planet cruising inside a system shouldn't be called "Rogue" as long (very long time...) as it doesn't quit the system boundaries. Rogues orbit Sgr A*, by definition. (btw, incredibly low probability for a system to catch a rogue...)
+Protostars, afaik, are a totally different stuff. Nothing to do with a "solid" body.
+But, again, why not ? ED/FD definition of "consistency" is wide....
+I think we could imagine Raxxla appearing in the GalMap as a class X, and as a rogue planet in the system map. It would fill both descriptions.
+If there is only one X in all the GalMap, and maybe even obfuscated, then it wouldn't be surprising that nobody found it for now.
+We assume the current ADS detects and maps all the bodies, except comets, inside a system. Don't we ?
+
+Yes, I almost added exotic type as a possible filter criterion, but couldn’tremember the definition in the journal spec; insufficient breakfast coffee!
+
+Mmm, never been convinced about the ADS providing an infinite scan range within a system! And it doesn’t work for USS...
+
+While I’ve been thinking about the RoguePlanet object type as a possible solution for Raxxla, I’m still not 100% convinced that it would be, on the grounds that a dark planet would be pretty boring. Yes, it is a planet in Holdstock’s original source book, and again in Drew Wagar’s Oolite series of fan fiction. However I wonder with FD’s (i.e. DB’s) penchant for retconning previous lore whether this might not have been changed for the in-game solution. Holdstock’s original source had: “Raxxla's no alien, Alex. It's a ghost world. A planet. A legend...... Does it exist, or does it not? If it does, then on Raxxla there's an alien construct that's a gateway to other Universes, and all that's in those Universes in the way of bounty, and treasures, and aliens, and life”
+
+And there is one interesting comment that might define the criterion for finding it: “One thing's for sure,' Rafe went on drily. 'Unless you get there, unless you become élite, you'll never get to Raxxla.”. So maybe you do have to be Elite in combat (the only rank division in the original game, or perhaps triple elite in ED) to find it, however I can’t see that fitting in with the fact that it might be haphazardly found by some random explorer. This suggests Raxxla will be found either via the Shinrarta permit, or an elite-rank mission (which would presumably provide the permit to the system containing).
+
+Moreover Holdstock had: “Could Cirag be Raxxla? Could it be the world my father mentioned before he died?' 'No way. Cirag is Cirag, and Raxxla—if it exists—is in another Galaxy”; now this was for the original Elite game which had several galaxies which I think correspond to ED sectors, in ED we only have one galaxy. So Raxxla should not be in the same ED sector as Cirag (does Cirag exist in-game?). And we know FD have said there will be only one galaxy in ED, so Raxxla cannot have a gateway to a non-existent second universe, so perhaps it is a galaxy in the sense of the original game (i.e. a wormhole between two ED sectors), alternatively it might be a station named “Raxxla Gateway” with some unusual alien commodities. In the latter case it might well be currently locked behind a system permit since the current in-game Guardian & Thargoid aliens don’t seen to have such commodities or stations so it might suggest a third alien race that FD are reserving to extend the game life. That might be why the Dark Wheel missions have disappeared for the present.
+
+whatever the solution to Raxxla , I’m sure it will not fulfil the desires of many and there will be much salt spreading when (if) it’s actually found. I’m just enjoying the puzzle!

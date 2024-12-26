@@ -1,0 +1,13 @@
+Han_Zen
+Oct 30, 2019
+#13,082
+Jorki Rasalas said:
+That’s actually an interesting point. DW’s quote of DB’s utterance was in July 14 (https://forums.frontier.co.uk/threads/the-day-i-met-david-braben.25158/post-536632), which from the change notes thread was at the time of beta 1.04; I think DW said this was when he met DB at Lavecon (5-6 July 14). I was under the impression from somewhere that DB had said Raxxla had been in-game since the gamma; Gamma 1.01 was released Nov 2014. So was it actually in-game earlier? Am I mistaken in my gamma belief?
+Could be it was in-game from beta 1.04, or earlier, but still being realised? Seems reasonable to assume that its implementation took a fair degree of polishing since it’s a major easter egg and DB’s baby.
+
+But yes, Raxxla has been ‘in existence’ since circa 1984!
+Gamma was when the galaxy was opened up. Before that(beta period) the game space was limited to cylinder from the Eranin region, almost to Sol.
+There was also a regeneration of the galaxy at gamma launch. Many systems changed quite a bit.
+Gamma was when we got the galaxy we have now. Even if Raxxla was coded earlier, it would probably not have been 'in the game'.
+Reactions:
+Jorki Rasalas, [PS4] Filthymick420 and Deleted member 38366

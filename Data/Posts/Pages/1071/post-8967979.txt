@@ -1,0 +1,19 @@
+Jorki Rasalas
+Feb 24, 2021
+#21,403
+yelboc said:
+As a post-script to the Sol Asteroid Belt investigations:
+
+I've had a look at other systems that have belts that are not around a star, but after a couple of planets, like in Sol. They do not behave the same as the Sol Belt:
+
+when cruising in Sol with nothing selected, when you are in the right places a hologram of an Asteroid cluster will appear on the left projector. This occurs in a small area of space. Dropping out, so far, has never (to me) revealed any actual rocks.
+
+In other systems, its impossible to get the hologram to appear by itself. Even if you approach a cluster very closely, the hologram will not appear by itself. I've tried this in 2 or 3 systems now, and its consistent.
+
+This means there is definitely something fishy about the Sol asteroid belt - its mechanics are different to other systems.
+
+This leads me to wonder if there are rocks there, but you must be in precisely the right place to find them - this is tough - normal dropout is 1Mm - a real needle in a haystack if you don't know where to drop out.
+Click to expand...
+Or perhaps they are there but not visually implemented? I read somewhere that comets are supposed to be in-game but with a similar bug. Yes, for a hand-crafted system and the home of humanity it does indeed seem strange to get such bugs... which led me to start thinking about why, and whether it could be part of the obfuscation of Raxxla. I still think Raxxla is in Sol and likely a Guardian ark ship, from the date of the rumour and metathinking about the storylines, but suspect it may be out at Neptune‘s or Pluto’s orbits &possibly even off the ecliptic and searching for it out there doesn’t seem to be interesting gameplay to me.
+Reactions:
+[PS4] Filthymick420

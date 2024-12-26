@@ -1,0 +1,29 @@
+D7
+D
+Jan 20, 2024
+#33,052
+Louis Calvert said:
+View attachment 381482
+
+Interesting!
+
+I'm not sure why there's such a difference, I assumed that it was because Ava was looking "left" when she did the recording. I didn't get such a left/right bias in mine when I was testing it. However... I don't know. There's also a consistently left channel bias in the Landscape Signal too, for no reason that I can see.
+
+@CMDR Davanix was right in that the sounds of Supercruise are very strange and almost entirely unheard by most people (it's a lot of work to implement those sounds when so few folks will hear it). I could well imagine there is meaning in there somewhere, I just wasn't able to find anything.
+
+Speaking entirely hypothetically and personally - IMO the sound design in Elite is extraordinary and consistently blows me away. There are sounds everywhere and for everything, and most of them are really complex and impressive and mysterious. I wouldn't find it hard to imagine additional mysteries hidden in audio! I also think it's a relatively untapped area of exploration since you need a certain amount of setup to investigate.
+Click to expand...
+
+
+I generally stay in a 3 earth system near Freetio FC-B D14-3. It is a long way from the Sag A. I recently noted two things:
+
+1) When I pointed toward the Sag A from my [pit (Krait Phantom - dead stop / not in SC, 2.6 Million LS from nearest star) I heard the periodic onset of a musical sound stream which would come and go on about a 1 minute period. There also are wildlife sounds like the jungle... like ancient strange birds, reptiles, chimpanzies and prehistoric background sound. There are a couple other sounds as well such as a faint AM band distortion frequency.... But there is also two or three distinct types of robotic, almost voice-like sounds, and a consistent thumping of a big gong or base drum. When I the used my camera far away from my ship and pointed toward Sag A I heard the same sounds except the robotic sounds were not there at all. Also, the consistent bang of the drum was completely gone as well.
+Conclusion 1: The cockpit is picking up ship sounds that are electronic and metallic in nature as well as heart beat-like banging sounds. None of these sounds likely come from the galaxy but simply are an artifacts of the ship
+Conclusion 2: You have to be very careful to use good and bad controls to analyze ED sounds.
+
+
+2) When I pointed the camera normal to the galactic plane, and again, I was very far from the the core and any solar system, I heard (and recorded) only the control background sound. It is a basic background hum of the universe and it is on a 45 second period. All other sounds are complete gone.
+
+Conclusion: This background pulse would need to be subtracted from any unique galaxy sounds I want to fully explore.
+Reactions:
+Louis Calvert and Quaero

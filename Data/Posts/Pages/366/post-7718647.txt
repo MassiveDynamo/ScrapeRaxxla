@@ -1,0 +1,21 @@
+AegisXOR
+A
+Apr 6, 2019
+#7,301
+Six6VI said:
+Edit: Wait, maybe it's...
+[Ra] Right ascension [XXL] 30 [A] Um, Anarchy? No? How about...
+
+Just a tiny bit obvious? Now there's an idea. If you interpret "RAXXLA" as celestial coordinates with a letter-number cipher, you get "18 1 24, ±24 12 1" here are the two closest stars in the 2MASS catalog.
+
+2MASS 18012414-2412033
+2MASS 18012143+2412078
+
+Though I see something else.. if you look at the positive declension interpretation (turn on the 2mass catalog on the right) there are six 2MASS stars roughly evenly spaced out around it. Sound familiar? Wonder if all those stars exist in-game, and if you were to bookmark them, would there be anything in the center?
+
+tinfoil.jpg
+
+Edit:
+Last edited: Apr 6, 2019
+Reactions:
+ExoForce, Macros Black and Six6VI

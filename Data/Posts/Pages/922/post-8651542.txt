@@ -1,0 +1,29 @@
+Thatchinho
+Aug 17, 2020
+#18,432
+Han_Zen said:
+One would expect the 7 and 8 IDs to be planets / moons in orbit around 34 P Cygni 3, outside the A ring. I doubt there is room for an orbit between 3 and 4/5.
+
+The ring on 3 is wide, so I guess a couple of tiny moons could hide inside the ring?
+
+Could also be a couple of comets. In that case, I have no idea how to search.
+Hmm, I wonder if the SF simulates shepard moons but doesn’t actually present them as objects.
+
+I think we just need to establish a couple of baseline examples for comparison. Having looked at a couple of logs, here's phase 1.
+
+Pareco:
+
+Travel to Pareco
+Honk
+FSS scan all system objects including stations
+Check logs
+Do logs give the Stations' Body IDs from having FSS'd?
+If yes, post all Body Names and ID's from Pareco here. Done.
+If no, continue below
+Travel to each station one by one (no need to enter station, just exit supercruise at the station as normal then re-enter supercruise and proceed to next station.
+Get the Stations' (and other) Body IDs from the logs and post all Body Names and IDs from Pareco here. Done.
+This should tell us how comets are handled in terms of Body IDs. (Or it'll confirm/eliminate one possibility for how they're handled at least.)
+
+Can't do it myself at the moment, so over to anyone who's in the vicinity of Pareco, is on PC and who fancies giving it a look!
+Reactions:
+Fiera, Crimson Echo, PeteACarter and 2 others

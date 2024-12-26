@@ -1,0 +1,7 @@
+ajg007
+A
+Feb 22, 2024
+#33,495
+varonica said:
+That's correct, ED measures to 6 decimal point accuracy but in game that's never presented to players, getting to exactly 3,155,760 will get you close but it will be somewhere within the range of 1ls because the game doesn't give you the decimal points.
+Thank you, it's more informative than you realise.

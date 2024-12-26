@@ -1,0 +1,48 @@
+Rochester
+Nov 17, 2022
+#27,923
+Louis Calvert said:
+The Mimas Conspiracy, part 3.
+As promised, here's all my convos with CS regarding Mimas, Saturn and it's moons. I will be posting my investigations into Saturn later on but you can see some of them are here in my email to CS. Make of this what you will Raxxla Hunters!
+
+NOTE: I think this well is dry, I don't think bugging CS with more questions about Saturn will get anywhere. I'm certainly going to give them a rest for a while.
+
+TLDR:
+Q: Why is Mimas Missing?
+A: "This particular case would be an intentional design decision"
+
+Q: Mimas' exclusion has no deeper significance than an arbitrary design decision?
+A: "I'm afraid we have no further information beyond that already provided in regards to Mimas not being included by intentional design."
+
+Q: Points out other things that mismatch betwen IRL Saturn & moons, and in-game
+A: "We cannot comment on specific design decisions for Saturn's moons any further than we already have. We appreciate your enthusiasm, but this is not something we can elaborate any further on."
+
+Q: Why can't you comment on them?
+A: "We have already told you all the information we have about Saturns moons, and there is nothing further we can elaborate on."
+
+
+
+
+
+
+
+
+
+
+
+Again, mad respect to CS for putting up with me that long.
+Click to expand...
+So in the words of FD ‘it didn’t make the cut’.
+
+So my interpretation is; it’s left out (as are other things) due to economical reasons, eg not enough time/resources to replicate a 100% accurate model.
+
+This I feel matches the actual description of ED, many (not myself) hold to it to be a scientific endeavour, it in my opinion it is not, it is a simulation that utilises abstraction to build a complex fictional model.
+
+There are many iterations were RL data is replicated in game but is wholly in error.
+
+I don’t see this as a flaw, just evidence of design decisions based on practicality. Eg I think M Brookes was responsible for inputting star locations, I take it as red without any insight that he was not an astronomer nor a GIS mapping analysts, so anomalous data is expected,
+
+It didn’t make the cut, for me personally that would indicate it’s just a bug / flaw.
+
+Eg I am an astronomer so know of various ‘famous’ systems, these are not in game, some have culturally significance, even to the linguistic terms FD use in their game, but they are not in game, simply because FD did not use a certain star catalog, and they lacked the resources to plot it manually, which in hindsight would be a continuous endeavour, and we know FD do not operate like that…
+Last edited: Nov 17, 2022

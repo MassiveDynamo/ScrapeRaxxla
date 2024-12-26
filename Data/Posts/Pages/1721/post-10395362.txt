@@ -1,0 +1,72 @@
+Louis Calvert
+Jul 3, 2024
+#34,415
+Ataxia said:
+Bringing a few things across..
+
+For a few science things I'm working on, some defimately require a tin hat...
+
+Systems and signals to check;
+
+Due to a rabbit hole about thorn turning to TZO stars;
+NR - not found at this time,
+Likely cannidates found listed (found from edsm)
+
+I will be planning a tour for any bubble local objects and include distances as well as signals found in the area's.
+
+I also plan to check the landscape signal from the reacheable locations.
+
+BD+61 2536 (TIC 470710327)
+NR
+
+GRO J1655-40
+<>
+
+VZ Sagittarii
+<>
+
+U Aquarii
+<>
+
+KN Cassiopeiae
+<>
+
+IO Persei
+<>
+
+V595 Cassiopeiae ** location issues **
+Based on a parallax of 1.37, V595 Cassiopeiae distance from Earth can be calculated at being 2,380.75 light years away or -9090.91 parsecs.
+?- V509 Cassiopeiae (V509 Cas or HR 8752) is one of two yellow hypergiant stars found in the constellation Cassiopeia, which also contains Rho Cassiopeiae.
+
+HV 11417
+- in small magellon cloud
+
+HV 2112
+- in small magellon cloud
+
+---------
+
+As for the station ae signal, there is a decoder script for it, trying to find it - seems to elude me at this time.
+
+It breaks the symbols down into alpha numeric A-Z, 1-0.
+
+I have the hex dump of one stations audio tx that I've looked at and it could be a cypher but until some kind of comsistancy can be found decrypting this one will take more time.
+
+
+Found it..
+
+
+Long ago cmdrs noticed the signals inside the stations near the back on the axis. I remember reading this and everyone thought that this was in reference to the numbers written on the outside of the stations. Reading it now it is pretty clear this is in reference to the code in the antenna since numbers painted on the outside of the station are not "transmitted". It is unlikely that the characters are the only encoded message.
+
+To record (need to provide better details):
+1. Dock at station and remain on the surface
+2. Turn off all in game music
+3. Go into free cam and move toward the back of the station at the center
+4. Open Audacity and record using a loopback
+5. set the track to Spectrogram
+Click to expand...
+I saw a youtube vid recently, they said they were unable to find any Imperial station broadcasting those sounds. Interesting if accurate. They said not every station broadcasts it, but they suggested it wasn't related to type or interior type. Not sure how accurate that is.
+
+I'm unsure if they mean anything (or even if they're numbers and letters) but it's very interesting and clearly someone during development decided to create this system rather than just have literally any other type of "sci-fi code bleeps" on loop. If nothing else it's yet another highlighting of the depth and complexity of audio use in the game.
+
+I do think Raxxla is an audio signal (to us) that's broadcast across the galaxy (in one form or another), so this may well be related in some way.

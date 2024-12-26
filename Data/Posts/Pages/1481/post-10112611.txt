@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+Mar 29, 2023
+#29,608
+SergMx said:
+I think Tau Сeti should not appear in the search help in any way. After all, the secret is guarded by some powerful community, it is unlikely they allowed to publish explicit clues in the Codex.
+GalMap and Universal Cartographics works as follows:
+-System names are not scan dependent. This is just name lookup for navigation routing purposes.
+-System details are scan dependent and will not show unless a CMDR has submitted data to Universal Cartographics. However, major named bodies will show even if submited by another CMDR. This is also true for stations and ports.
+-Minor surface locations and settlements will not appear unless you have been there or multiple CMDRs have validated what is present in system.
+-Some things will only show for you when you are in system with a detailed surface scanner and only after you DSS scan the body.
+-Orbital installation and surface installations are tracked only by your personal scan activity. They are, however, often uploaded to 3rd party services such EDDB, EDSM, EDastro through shared community tools.
+-Codex Map and different locales and POIs are scan dependent and operate on initial scan submission (rumored) and secondary scan validation (confirmed).
+Reactions:
+Dox Paradox

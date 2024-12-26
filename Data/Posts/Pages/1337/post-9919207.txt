@@ -1,0 +1,14 @@
+Ataxia
+Aug 20, 2022
+#26,732
+Pyroboros said:
+Still works: #1 Solution in GalMap -> Bookmark it.
+If u select ta System outside the Bounds via Bookmark the cursor does not snap back in to the bounds.
+I think HIP 57951 was the first System found been outside the bounds. (at least its the first i heard of)
+
+here is a list of the System i have as BMs
+HIP 57951
+HIP 60952
+HD 10446
+Click to expand...
+Yep those psr j0024 are in a cluster, unfortunately on playstation the curser jumps and you cant select them as it passes.

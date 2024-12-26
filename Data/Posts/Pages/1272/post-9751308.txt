@@ -1,0 +1,8 @@
+SpaceGoblin
+Feb 22, 2022
+#25,425
+And now I have another question.
+
+Is there a version anywhere online of an ED Galaxy map similar in any way to the in game one?
+
+I want to tray and triangulate positions relative to a number of systems, but if I zoom the ingame map out far enough to see them all, it becomes unreadable - ie too far out to see the systems in wuestion.

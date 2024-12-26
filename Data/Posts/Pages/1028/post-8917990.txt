@@ -1,0 +1,13 @@
+simulacrae
+Jan 25, 2021
+#20,556
+Jorki Rasalas said:
+Can anyone give a personal comparison of Joystick Gremlin versus AutoHotKey?
+I need to convert a hat press to shift+windows+g
+
+This is all ive got...
+
+SPOILER: COMPARISON
+
+Reactions:
+Fiera, Merlin StWahgwaan, Hanerib and 4 others

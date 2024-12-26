@@ -1,0 +1,16 @@
+Ozric
+Volunteer Moderator
+Saturday at 12:55 PM
+#35,672
+Pyroboros said:
+And here Quick, dirty, unedited and unscripted how to do it urself. -(just mute me i am not a public speaker also forgive me my bad controls my Hotas has to much dust on it and i really don't want to setup my Keybinds -again-)-
+Click to expand...
+You sir, are a legend! As always. That's far better than I've ever tried to explain it, and the fact you missed it first time is actually perfect for the science part Very nice work.
+
+Jorki Rasalas said:
+Comets are objects created in StellarForge, which as far as I understand things is common to all versions of the game, so I'd expect the BodyId to be common.
+
+Edit
+Just watched @Pyroboros ' video above. I suspect if FD have gone so far as to remove the comet name then this may be a dead end. To me it suggests it is unrelated to Raxxla...pity, that bit about relationship to Polaris and spiralling stars was fairly convincing.
+
+Yes it's the fact that the Body Type is different that I find so confusing. Removing the name so it displays the Shipping Lane is one thing, but showing the body type as a star rather than a Comet does imply something very specific has happened. I'm still not going to say for certain it was on purpose though And as Howard (journal dev) has retired I'm not sure how we'd find out.

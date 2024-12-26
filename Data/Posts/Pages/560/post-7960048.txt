@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 22, 2019
+#11,184
+Non Grata said:
+Actually it appears you can - see last line of my sig.
+
+Edit the signature, highlight the linked text, click the water drop icon, click the eraser icon at bottom right, click okay, click save.
+
+thanks for your help. Finally managed to change the colour of the LP/UCB summary link, but the obvious method didn't work, had to toggle the BBcode within my signature & play around with that. For some reason the colour for this link was set to an "rgb(X, Y, Z)" code value rather than the hex code from the toolbar selector, which stubbornly refused to implement the colour change. Changed the BBcode & all resolved!
+Reactions:
+Non Grata

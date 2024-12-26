@@ -1,0 +1,7 @@
+Han_Zen
+Aug 25, 2019
+#11,320
+alexzk said:
+Well, actually there are infinite number of points which are equal remote from triangle vertexes in 3D ... and they're laying all on 1 line which is perpendicual to plain of triangle and this line goes through the center of circumscribed circle. So yeh can be not exactly where u expected ... that's why I stopped to play with this, solving plain equations and picking exact point in plain is too much for me too have been 20+ years since I did it.
+If you search a bit, you will find online tools tha gives you what you need.
+This one probably does the job: https://www.triangle-calculator.com/?what=vc

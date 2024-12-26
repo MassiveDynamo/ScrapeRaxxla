@@ -1,0 +1,5 @@
+Dr. Nagi
+Mar 13, 2019
+#6,578
+So, given that codex entry got implemented at the same time as the new scanners, it is to be assumed that it still doesn't show up after any scan.
+At least I interpret it that way.

@@ -1,0 +1,114 @@
+Louis Calvert
+Nov 30, 2023
+#32,240
+Following up on Investigation #1
+Hyperspace Whispers Audio Investigation #2
+I've now completed over 60 jumps, including: Hyperdiction, Neutron star, Neutron Jump, Wolf-Rayet.
+SPOILER: JUMP LIST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So far, I have seen nothing that I would consider anomalous, but this is a very small sample size considering the scope of possibilities.
+
+It is, however, enough to put together a working model of the audio part of the hyperspace jump sequence, which I think gives us an insight into how the jumps are put together:
+
+
+
+I have collected three main types of Hyperspace Jump.
+Standard Jumps. These are what I think of as "minimum duration jumps", they last for the shortest possible time.
+Prolonged Hyperspace Jump. These are jumps that take longer than the minimum and usually "feel" much longer too.
+Hyperdiction-Interrupted Hyperspace Jump. Interdicted by Thargoids - so far only tested in the Pleiades.
+This is all subject to change and refinement after collecting more data.
+
+Conclusions so far:
+The Hyperspace jump is divided into three sections:
+The "spool up" in realspace: This can have a lot of audio variation since your environment changes this. Ignoring this section for these reasons.
+Witch-Space: The actual time spent in witch-space.
+Exit "Whump" at destination star (or emergency exit because of Hyperdiction).
+So, section 2 is where we need to concentrate this investigation because that's the only portion where the whispers are. As previously noted there seems to be a different mix for each jump, but it's subtle. It's almost exactly the same sound each time, I doubt a human could tell the difference.
+
+Here are the main takeaways so far:
+Consistency:
+It would appear that there is a high degree of consistency in the first 10 seconds of any/every Witch-Space jump. At approximately the 10 second mark Hyperdictions start, which is a clear two or more seconds before the normal exit checkpoint. Since that's only applicable in areas with Thargoids, I'm not sure if every jump does this check, or there's some sort of global 'region' flag that causes this check to happen only in certain areas?
+
+For every jump, other than a Hyperdiction-afflicted one, after 12 seconds there seems to be an "Exit/No exit" check. It seems that if this check fails (due to network lag, for example), you enter a "Prolonged Jump" sequence where a new 15 second long audio mix starts. At the end of this 15 second segment it appears this same check is repeated. I've got one recording of this second check failing and it goes into what seems like a third 15 second sequence with the same pattern up to a certain point, then it's different at the end, but I've only had that once so I need more samples before I can see if that's a weird one (It was Delphi to HR1185, FYI).
+
+Note: Timings are approximate, but within +/- 1 second from the samples I have collected.
+
+External factors:
+So far, nothing at all seems to affect the audio. The origin or destination stars seems to make no difference at all. The length of the jump in realspace (in Lightyears) seems to make no difference at all. Neutron-boosted jumps are exactly the same as standard jumps. Fuel level and module configuration seems to make no difference. Jumping from Supercruise, realspace, near a star, near a station, near a planet, etc. seem to make no difference. I've jumped across the bubble and out to the Pleaides, and there's no evidence of any difference in the audio depending on galactic location - at least across this small area.
+
+I haven't tried different cargoes yet, but I don't expect it to make a difference (other than if something is a deliberate trigger). I haven't tried jumping with the ship damaged, etc. I will try carrying Thargoid and Guardian cargo in the future too as previously mentioned.
+
+Conclusion:
+At this early stage it seems like the first 10-second audio segment always happens. Then there's at least one trigger condition that can switch to an alternate sequence (Only Hyperdiction so far logged, but clearly that capability exists). Then at 12 seconds there's what I assume is the 'primary' check to see if the 'end sequence' can load and you end up where you meant to go.
+
+I think this means that if Raxxla were detectable in Hyperspace, it's pretty likely that audio 'signal' (or whatever) would appear after 10 seconds into Witch-Space. I'm assuming (with really nothing to base this on other than it makes sense) that the first 10 seconds is the 'loading' sequence. If it needs more time, it'll extend the sequence by another 15 seconds, and maybe another after that, etc. The Hyperdiction event starting at the 10 second mark means there's a trigger that allows an alternate load at that point. I'm not sure why they didn't set that at the 12 second exit-point that already existed, but... for whatever reason, that's how it works.
+
+My gut feel is that if Raxxla is going to show as audio in Witch-Space it would start at 10 seconds and be a 'fake' sequence like Hyperdictions, or at 12 seconds and be a 'special' type of prolonged sequence. However! It's also possible that there could also be additional audio added to the mix within the first 10 seconds - I have seen no evidence of this at all, but... it's possible since that segment is clearly not a pre-recorded sound, there's at least some level of variation there.
+
+So - Keep your eyes out for long jumps that take over 15 seconds. If one does, it might be worth jumping back and forth a couple of times to see if it was simply lag or whether it's something else.
+
+
+@Rochester Thanks, I've added your systems to the list. I finished today at Shamash (Nothing to report on the jump in) so next time I'll do all your systems before heading out to Regor.
+Reactions:
+Macros Black, Edelgard von Rhein, Han_Zen and 5 others

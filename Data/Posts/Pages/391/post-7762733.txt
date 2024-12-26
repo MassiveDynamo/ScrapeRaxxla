@@ -1,0 +1,15 @@
+Redden Alt-Mer
+Apr 29, 2019
+#7,805
+Left part is a simple ROT-13:
+
+
+Zl ynfg erdhrfg vf gung lbh nyinlf... Erzrzore
+ROT 13
+My last request is that you always... Remember.
+(Thanks Node_ for pointing out the first one was a Z rather than a G )
+
+Right part looks like the output of a more complex encryption, maybe Vigenere.
+Last edited: Apr 29, 2019
+Reactions:
+Edelgard von Rhein and Bigmaec

@@ -1,0 +1,45 @@
+selbie
+Sep 13, 2024
+#34,796
+simulacrae said:
+Something I ran across in the past but then forgot to mention.... In Earthwind by Holdstock - Aeran is a planet much like Kamelos from his Timewinds novel.
+Everyone reverts to primal state so to speak - a major part of the code (paraphrasing) - in order to be respected is to be a warrior and have proof of your kill...
+
+Also the people from outside the world had the iChing as their "oracle" while the people of Aeran had the Earthwind which is associated with the triple spiral symbol
+
+anyway on pp39-43 - The outsiders consult the iChing about continuing their mission.I did a little googling - so im an iChing master now... Here is what i made of what was said...
+
+they flipped coins until they got to the last line and the first hexagram could either be a 45 or a 12 - 45 being the good outcome but it was 12 The proclimation was "Stagnation" followed by a moving line of 6... "He hides in Shame" (so assuming a 6 in third place)
+
+The captain told the iChing "oracle" named Ashka he was done
+but Ashka went ahead and looked at the second number - withdrawl... an indication of favorable communication and success in the event of persistance..
+
+"."
+Click to expand...
+
+遯 (dùn) - "Retiring" - aka retreat / yielding
+I also happened to be looking at hexagrams a few weeks ago I was looking into how you could interpret the yin (⚋) and yang (⚊) symbols into binary.
+In this case Dun would be: 111100 = 60 decimal = 3C hexadecimal, which corresponds in the ASCII table to ' < ' (less than).
+
+Playing around with the logo symbols:
+iChing No. Name Meaning Binary Decimal Hexadecimal ASCII Computing
+1 ䷀ qián Force 111111 63 3F ? = question Boolean True/False evaluation.
+3 ䷂ tún Sprouting 010001 17 11 DC1 =
+Device Control 1 Power Device On/Off
+33 ䷠ dùn Retiring 111100 60 3C < = less than compare / comparison operator.
+6 ䷅ sòng Arguing 111010 58 3A : = colon used in assignment statement? ( := ) eg. Machine operations Move & Store
+
+On the topic of 'Just a key'
+I've been thinking about different ways the expression "Door is also the key" could be a play on words.
+Earlier I mentioned "key" could be a hint towards the similar-sounding Arthurian character Sir Kay.
+Then it also struck me that the word "dor" - whilst normally defined as "a flying insect that makes humming noise", it also has an obsolete definition meaning "a trick, joke, or deception".
+The source of this archaic use of the word is from a stage play A Wife for a Month. This play was part of a folio collection of John Fletcher and his collaborators.
+By some cosmically bizarre coincidence you wouldn't believe the name associate with Fletcher's folios!! - a certain beautiful mountain
+
+Maybe this is too far down the rabbit hole, but there could a more logical aspect to this line of thinking.
+ED lore is all about deception and trickery. Think of the Winking Cat narrative for example.
+We trick the guardian sites with their own technology to gather materials, we dump foreign objects into the dead thargoid husks to activate spiral holograms.
+
+Perhaps other "tricks" in gameplay and lore could be used to unlock something?
+Reactions:
+simulacrae

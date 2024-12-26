@@ -1,0 +1,17 @@
+alexzk
+A
+Aug 16, 2020
+#18,405
+Mapped a bit equal remote to those:
+C++:
+const static Point A{-3183.53125, 73.59375, 8595.65625}; //Pru Aescs NC-M d7-192 (coflux delta mission 4/4 "Gravity." -> it is the Mother of Galaxies)
+const static Point C{-5805.78125, 129.875, -5969.875}; //    Eafots EU-R c4-1 (fr alpha)
+const static Point Zurara{-9529.4375, -64.5, -7428.4375}; //Syreadiae JX-F c0
+const static auto &B = Zurara;
+
+Nothing too much there >: Darn.
+Attachments
+inf_line.txt
+6.1 KB · Views: 207
+Reactions:
+Fiera, Vetinari, John Stoutbeard and 2 others

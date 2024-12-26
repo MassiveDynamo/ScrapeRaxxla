@@ -1,0 +1,14 @@
+Han_Zen
+Mar 9, 2021
+#21,773
+Spaceman Spiff said:
+I think I see what you're saying, but L3 is on Jupiter's orbit line opposite Jupiter.... other side of the sun, never sees Jupiter. Which satisfies my claim and yours at the same time.
+Good point. All L3s are there. Not just Jupiters.
+L3s aren't exactly on the orbit, but usually very close.
+
+I use this calculator, to find exact distances: http://www.orbitsimulator.com/formulas/LagrangePointFinder.html
+
+Also remember that L1, L2 and L3 are unstable. Objects in those point will not stay for a long time. L4 and L5 are stabile as long as the primary mass is about 25 times the secondary, or more.
+Last edited: Mar 9, 2021
+Reactions:
+Jorki Rasalas and clavain

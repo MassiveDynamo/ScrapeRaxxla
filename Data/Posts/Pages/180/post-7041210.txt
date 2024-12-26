@@ -1,0 +1,7 @@
+Jorki Rasalas
+Sep 24, 2018
+#3,595
+HunterwithGreenScales said:
+Has anybody heard of any files for Elite Dangerous that where listed as "Rouge Planet" and/or "star class X = exotic" from some forums from Fdev?
+
+I believe someone looked at the Journal file format when it came out & that has object types that include those. But can’t find my link to that journal spec. Should be googlable!

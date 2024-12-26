@@ -1,0 +1,8 @@
+Macros Black
+Aug 9, 2015
+#30
+FrogsFriend said:
+Just a thought, but do the numbers printed on the outside of the SAP 8 Core cargo containers mean anything to anyone?
+
+I compared one of my container's numbers with another one on the wiki today, and they look identical. I'm thinking that any useful information would be stored in the data crystals inside the container; however as to the meaning of the numbers, I've got no clue other than they are simple (identical) identification numbers for the canisters.
+Last edited: Aug 9, 2015

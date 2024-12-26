@@ -1,0 +1,8 @@
+rOmiLaYu
+Feb 19, 2021
+#21,204
+SpocksOddSocks said:
+I'll try not to worry until we start detabting what "what" and "mean" actually mean.
+
+Not a criticism, just claryfing for someone who doesn't check these things: I believe you might have the decimal point in the wrong position. It think it should be 0.05 and 0.01% (actually EDSM currently says 0.015421% as I write this).
+I think we are now up to 0.5% And keep in mind, EDSM only accounts for PC players running EDD or the like. Add in Console CMDR's and PC CMDR's not running third party tools....well, 0.015 times three is 0.045...so there's that.

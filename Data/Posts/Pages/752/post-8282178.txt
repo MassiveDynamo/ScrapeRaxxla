@@ -1,0 +1,8 @@
+Noobilite
+Feb 5, 2020
+#15,035
+But does it reduce the fuel to jump and allow you to jump to locations you couldn't otherwise?
+
+Someone once told me you can't do it because it will calculate fuel as if you were near the star of the base system and it's pointless. I'm still wondering about this.
+Reactions:
+Machina Ergo Sum

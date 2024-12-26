@@ -1,0 +1,4 @@
+CMDRCorrMorningstarFelian
+Mar 20, 2023
+#29,458
+I'll do a write-up then. Mostly sourced from Elite Dangerous but used ships in TDW and got in-service dates from both 1st manual and Elite Dangerous (dates do agree) and events to establish a start date. Will take a bit to compile. It started out as a sanity check on assumptions since I don't trust much from Lave especially in light of decoded message (standard substitution cipher) where key was THARG and based on "First Thargoid Contact" beacon. The alien script is in first few pages of Lave Revolution.

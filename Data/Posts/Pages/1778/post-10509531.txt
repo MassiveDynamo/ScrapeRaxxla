@@ -1,0 +1,12 @@
+Ian Doncaster
+Dec 15, 2024
+#35,557
+Inverted Walrus said:
+As soon as the distance from a station goes from 1000km to 1 megametre, the station very quickly catches up by 5km, leaving the distance at 995km.
+This is the way that "relative to" works - if you're within 1000km, you move with the station's frame of reference, so your speed is away from the station. Outside of 1000km you move in the system frame of reference, so if the station is orbiting "towards" you, it's going faster in its orbit than you are, so it catches up. And then you're back in its frame of reference again, so it stops catching up and starts dragging you along with it.
+
+If you run away from the station in the opposite direction, you'll probably find that once you get over 1000km the station accelerates away from you even faster (though in Pareco, the next station around will then "catch" you)
+
+It's not physically realistic (you have a major change in velocity relative to a distant observer every time you cross a "relative to" boundary) but it's simple to calculate, does what you'd expect in 99.999% of situations, and because most of the time those boundaries are crossed is in supercruise, normally the velocity shift is considerably smaller than the multiples of lightspeed you're doing anyway.
+Reactions:
+Han_Zen, Jorki Rasalas and Rochester

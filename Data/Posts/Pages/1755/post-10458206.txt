@@ -1,0 +1,29 @@
+selbie
+Oct 21, 2024
+#35,090
+Ian Doncaster said:
+The original Dark Wheel description - combined with the Codex description - also does include a bit more ambiguity.
+Different - but associated - things can have the same name: is "Colonia" a nebula, a star system, or an inhabited region. Of course, it's all three.
+So in the original Dark Wheel ... is Raxxla the planet, or the alien gateway there? The Codex certainly blurs the two concepts a bit.
+
+
+In game terms:
+- we started the game not able to land on planets, so either Raxxla is a planet and discovering it a simple matter of "find the planet called Raxxla", or the object we're looking for is actually orbiting the planet, and we'll know the planet is Raxxla because it has an alien gateway orbiting it, rather than because it shows up as "Raxxla" on the navigation panel.
+- that gets back to "if it's a planet and near the bubble, why has no-one already found it?". Planets aren't exactly difficult to find; in/near-bubble space has been thoroughly scanned by conventional means
+
+
+Possibilities if it is a planet:
+- it's not all that near the bubble. My recent tour I was finding unscanned planets 600 LY out and entirely fresh systems 1000 LY out, which is still pretty close
+- it's a hidden planet, so it won't show up on FSS or the old ADS; it's a long way out of the system and you have to pick it up with parallax (like the old BDS/IDS would have trained us to)
+- it's in a hidden star system, so you'd first have to find that by noticing a suspicious extra star on the skybox from a nearby system, then figure out a way to get there.
+Click to expand...
+Somewhat related to this and Macros Black's current investigations - the other in-game component to consider are asteroids which I recall being discussed earlier. Not the specific Asteroid Station assets, but more like a trick FDev could be employing to creatively exploit the existing asteroid asset spawning to conceal this so-called "unremarkable moon".
+
+In other words, use a banal "unremarkable" asset in a way that does not flag it as unique or identifiable via standard body detection or other brute force methods. If there was a player that passed through the system, there is a very good chance they weren't checking for named bodies, or even knew about Raxxla - assuming the body is named.
+
+There are known bodies in the game that can be as small as 200km or so in diameter. These would still appear on a system map so if the rumour of "unremarkable moon" is an overt clue then we would simply have to find the correct system to discover Raxxla - even if the body is unnamed. Fairly straightforward with the current FSS once the mystery's path is found.
+
+Another possible scenario is that FDev don't want us to stumble across a planetary body because it would be easier to detect at a larger range (the primary method to identify bodies pre-Horizons), so they exploit the asteroid generation system to spawn a moon-sized asteroid which does not get listed as a body or station, and which can sit comfortably in a belt or ring. The theory is certainly a stretch, but I do wonder what lengths FDev have gone to disguise Raxxla so that players can ONLY find it via mystery puzzling.
+It does also relate to the FDev stream where they were talking about Raxxla whilst presenting the asteroid deep core mining gameplay.
+Reactions:
+simulacrae and Jorki Rasalas

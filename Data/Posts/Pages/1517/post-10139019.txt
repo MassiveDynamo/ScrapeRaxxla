@@ -1,0 +1,4 @@
+CMDRCorrMorningstarFelian
+May 8, 2023
+#30,328
+In case it wasn't evident, the current Python flyable by CMDRs is the Boa that has been renamed. The original Python was discontinued.

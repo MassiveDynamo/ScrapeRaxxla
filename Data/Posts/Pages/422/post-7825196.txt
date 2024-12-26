@@ -1,0 +1,36 @@
+Thatchinho
+May 31, 2019
+#8,429
+Scytale said:
+FTL.. Wormholes.. Relativity is slippery ground. That's why ED was made "Newtonian" (but in an universe where "even light is faster than light", though).
+One question, the point: is light travelling through a wormhole FTL ? Mmmh ? Ofc not. It is simply following a shorter path.
+Frame reference is the point. As always in relativity.
+Indeed.
+
+Tacticus2711 said:
+Exactly, the point I was trying to make
+
+And is there in what I said (though maybe implicitly rather than explicitly):
+
+Thatchinho said:
+If we're talking realistically then you can't ever be moving faster than the speed of light, and all hypothetical forms of FTL travel involve getting around that restriction in a form where you don't locally move faster than light (which you can't) but still arrive at the destination faster than light would (if that light was travelling the 'ordinary' route through normal space).
+
+@Tacticus2711 , what seems to be the point of contention is that you appear to be asserting wormholes as a special case. This may be just things getting mixed up in the posts though. So here's the point I'm making, broken down.
+
+(All with regard to the context from earlier in the discussion...)
+
+1. A normal object going faster than the speed of light (or even reaching it) i.e. achieving a real velocity of >= c is impossible.
+
+2. Reaching any destination in a time* less than the minimum time* it would take light travelling through normal** spacetime involves finding way to do so that is consistent with point 1.
+* time being from the perspective of someone on the start point or destination, just to keep things clean
+** 'normal' spacetime meaning no wormholes, no warps, etc. just standard spacetime.
+
+3. Because of point 1, everything that falls under FTL is as described in point 2.
+
+4. Because of the above, there isn't anything else that's 'FTL'.
+
+A wormhole is consistent with the above. So are Alcubierre drives (or any other type of warp drives which involve manipulating spacetime rather than classical propulsion). Hyperspace is also consistent, though the previous two have a RL foundation, whereas hyperspace doesn't.
+
+Therefore, wormholes are just as much FTL as any of the others.
+
+Hopefully that makes the logic/rationale behind the point I'm making clear, and allows any point of disagreement to be more clearly identified and productively discussed.

@@ -1,0 +1,7 @@
+Jorki Rasalas
+Jan 24, 2021
+#20,555
+Can anyone give a personal comparison of Joystick Gremlin versus AutoHotKey?
+I need to convert a hat press to shift+windows+g
+Reactions:
+[PS4] Filthymick420

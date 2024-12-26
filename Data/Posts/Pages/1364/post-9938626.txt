@@ -1,0 +1,9 @@
+Bushido Brown
+B
+Sep 11, 2022
+#27,277
+Jorki Rasalas said:
+I’m using Horizons too.
+
+But tis definitely odd that EDD is not recognising stars B& C. Having been there before it should show all bodies in the system. I suspect this is a hand crafted system, but I cant see any reason for it to be!
+Can't say I'm seeing the same result on EDD. They all showed up when I honked. Are you running an up-to-date version? I'm on 15.1.1.0

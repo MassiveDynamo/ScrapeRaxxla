@@ -1,0 +1,18 @@
+John Stoutbeard
+Apr 28, 2019
+#7,786
+Noobilite said:
+What if ciphers like that are what they use in their name generation systems. Did anyone every figure out the name generation for the different elite games?
+Sort of, all I can say without breaking any copyrights, the name-generation is based on a carefully constructed string. It should be the same as used in early Elite games. However it changes depending on version/edition.
+
+You can get the source for the name-generation in several online repositories for the Oolite universe.
+One place is the "Oolite interactive map":
+Oolite Interactive Map
+
+Via 3dOoliteGals.js you can read & reconstruct the name-generation from the "function getSystemName(w0, w1, w2)"
+
+If you wish to play the Oolite edition (sorry, getting offtopic) have a look here: http://www.oolite.org/download/
+
+Sorry, I thought it would be nice to share this, but I'll stay away from responding anything that goes offtopic Raxxla from here on.
+Reactions:
+[PS4] Filthymick420 and K M Butler

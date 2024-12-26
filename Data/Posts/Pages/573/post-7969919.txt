@@ -1,0 +1,6 @@
+yelboc
+Aug 27, 2019
+#11,453
+Not being able to land on the moon may be a technical limitation, btw: In order to render the moon's surface recognisably, it would then not be possible to generate the surface procedurally to allow landings.
+Reactions:
+Han_Zen

@@ -1,0 +1,28 @@
+Thatchinho
+Apr 3, 2019
+#7,221
+CMDR Mister Dartay said:
+It does make a lot of sense! Thanks for your in-depth reply.
+
+But what if the change in location is extremely minimal? As in: a location very close to Sol? It does really seem easy to overlay the following image (rotated leftward 90°) on the title screen:
+
+
+
+Only number 5 would have to shift slightly, if anything.
+
+I won't have access to the game for another few days. But I will definitely play around with this in the galaxy map when I do. Thanks for listing the in-game star labels!
+Click to expand...
+No probs. And yeah it's quite similar, but 5 would have to move. And because it's in the middle layer it can't do tat independently.
+
+Basically what happens is you try to adjust your location so that this happens:
+
+
+
+
+But because of the relative locations of the stars, if you try to do that, what actually results is this:
+
+
+
+Oh, and looking at the main image again, there's actually another important point - the 3 - 2 line in the image is approximately parallel to the galactic plane. In the Crux it's roughly perpendicular to the galactic plane. So via that just on it's own, I think we can definitely say it's not the Crux in the main image.
+Reactions:
+Six6VI, GURU-951 and Dartay

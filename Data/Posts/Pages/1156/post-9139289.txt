@@ -1,0 +1,17 @@
+Koben
+May 3, 2021
+#23,109
+Jorki Rasalas said:
+I’m confused (may be my age). If these “hidden” signals are seen in the FSS but cannot be located, then how can they be located at the first planet in Merope??
+
+I am wondering if these FSS signals are, in fact, comets since we have been told (somewhere, haven’t got a reference) that comets are in-game but not visually instanced??
+How I did it...
+
+1. Honked and opened FSS;
+2. As I have mapped this system before, all bodies were already displayed in FSS "tuning frequency bar" except for the "new signals" which were in the Asteroid Belt range;
+3. I "zoomed-in" again on every planet and payed attention to when the new signal would disapear;
+4. As it was a "by chance" selection, the new signals "resolved" when I zoomed into the 1 planet which is the pink gas giant I mentioned.
+
+Hope this answers your question.
+
+Bonus note: On some of the other systems reported here, as I was zooming into some stars in "orerry" mode, I was able to find the missing "Asteroid Belt" inside the sphere of the star (not the main stars).

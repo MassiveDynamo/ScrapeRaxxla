@@ -1,0 +1,13 @@
+Jorki Rasalas
+Feb 24, 2021
+#21,399
+yelboc said:
+You are right to be suspicious of Inara data - Inara has some data that is user editable and I have come across anomolies there before when users have modified the data, but then it hasn't been updated when things change.
+
+EDDB and EDSM do not modify the uploaded data from journals so these can be trusted.
+
+Some system descriptions strings may be out of date on EDSM, thats all I found to not trust, and the bottom right panel descriptions on some places are also player generated. But the map and bodies are as per the journal.
+
+Yes, I rechecked the Inara entry that Davanix had linked & saw the Dark Wheel faction he was talking about is a player squadron set up by ScolioTheMost who’d claimed it was headquartered at HIP 22469(Overlook), so clearly a joke.
+
+I only use Inara for checking engineer blueprints and nearest Interstellar Factors, but regularly use EDSM for system and faction checking.

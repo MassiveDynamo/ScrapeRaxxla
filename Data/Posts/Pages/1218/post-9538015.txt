@@ -1,0 +1,11 @@
+Jorki Rasalas
+Oct 2, 2021
+#24,359
+Still pondering the missing E/F missions. Apparently they disappeared when rank-locking was removed from missions in 1.5/2.0 update. 1.5 Patch Notes General Fixes/Tweaks said “Elite/Founder missions are now only available at the Founders World” https://forums.frontier.co.uk/threads/horizons-2-0-and-ships-1-5-change-log.211781/
+
+Note-the change note said they’d only appear at “Founders World”, not “Jameson Memorial”. Founders World is not landable...was this the cause of the bug?
+The other obvious thing that needs to be tested is if a logical AND was coded in, so they only appear for a Founder AND elite player vice a Founder OR elite player....
+
+Interesting...have just scanned that same 1.5/2.0 change note and spotted, also under General tweaks, “Fix an issue with entering the reference frame of a space station while on the surface of Lave 2 by shrinking the station's reference frame size”. Can’t understand this as Lave 2 is not landable-it’s permit locked at the request of the author of “Lave Revolution” with no known way of getting the permit.
+Reactions:
+Rogue1474, Rochester and Macros Black

@@ -1,0 +1,27 @@
+Noobilite
+Apr 26, 2019
+#7,754
+Three could be logically related if you view it as a cube though. Maybe. Technically you would be triangulating in 3d space.
+
+Would it make sense to chunk them in 2s to get 3 overall marks? Either way, they could represent 3 points needed to find a location.
+
+Void is a sector also. I've noticed a lot of the raxxla info or similar fit sectors and or real names in game.
+
+Is there anything siren related in the void sector? What would sirens represent?
+
+I know. Each thing could represent each side of X,Y,Z. If it's realted to a cube. The points could be teh center points of the cube. Or the corners potentially. Either way. That would make 6 objects representing 3 points. Maybe Raxxla is in the center where they meet?!
+
+If the black shapes represent the corners of a cube. The space in the middle represents the center of each side, if I'm not mistaken. That would be how you find the center. If you use the map coordiantes you can easily find the location. Use basic trig to find it. Particularly easy if they make right angles. You can even easily find the distance.
+
+Between two locations all you need to do is find the difference between all coordinates on the map. X,Y,Z (A,B,C) then add the sqaures of each difference and find the sqaure root.
+
+sqroot(A^2+B^2+C^2)
+
+You can use similar to figure out the the rest of the cube probably. Can't think of how off the top of my head. If you can find the locations the rest is easy.
+
+What if you just use the sectors themselves to generalize it. Void sector could be one.
+
+Also, potentially treat the conjoined things as on the opposite side of each other. So, whispers in witch space might be across from siren of the deepest void.
+
+Is whisper in witch space potentially related to thargoids? That is a certain distinct area of space potentially. Is the void sector across from it? That could be your first line.
+Last edited: Apr 26, 2019

@@ -1,0 +1,10 @@
+Mrrshal
+Jun 16, 2020
+#17,518
+I just noticed another odd thing in CD-58 16
+When I looked at the star from the planets in FSS mode, I noticed another orbital line around star that is at 90 degrees to the planetary plane!
+
+SPOILER: SCREENSHOT
+I see it only in FSS but not in supercruise.
+Reactions:
+Dr. Lexus, Rochester, PeteACarter and 3 others

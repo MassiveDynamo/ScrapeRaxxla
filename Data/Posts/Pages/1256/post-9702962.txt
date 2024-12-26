@@ -1,0 +1,7 @@
+Pyroboros
+Jan 16, 2022
+#25,109
+@ Merlin StWahgwaan
+what you whant is simply not posible. Although the caltulation would be easy. (just everyday phytagoras), there is no Data to do those calculations whit.
+there are not eve 0.01% of the stars in any database.
+The Stars are proceduraly generated. And as long as we do not know how StellarForge works, we need to collect the data needed by hand. wich would only need a couple million years. and what would such a tool help anyways. It would generate an unbarable amount of secondary data. Draw a line from Sol to Sag A* 10k -100k - or maybe even a Million Stars near this line.

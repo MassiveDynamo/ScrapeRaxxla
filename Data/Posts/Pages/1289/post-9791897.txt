@@ -1,0 +1,6 @@
+Jorki Rasalas
+Mar 27, 2022
+#25,771
+Did a few Distress Call (threat 0) refuel/repairs over the last few days, accepted the mission via the local comms panel & completed the refuel/repair and they then hyperspaced away upon which I got a success notification in the top right panel, but the Codex/Commander stats/SAR counter isn’t incrementing. Is this a bug?
+
+My SAR count is stuck at 35, which I guess is the number of “passenger rescue from burning stations” missions I did.

@@ -1,0 +1,11 @@
+alexzk
+A
+Aug 25, 2019
+#11,333
+Well, from tech point it's just "please wait" message while client/server loads stuff. Maybe it is done by showing stars with x100000000 speed + random. So it is different a bit on each jump and looks true hyperspace.
+But I doubt they could encode there anything.
+
+ALso there is related question - can they add star systems as they wish or cant ? If they cant - then no point to search 3 "raxxla stars" ....because, do you really think they could make toast for 3 already existing stars? >: I wouldnt do that. I would place 3 stars in configuration I need.
+Last edited: Aug 25, 2019
+Reactions:
+[PS4] Filthymick420

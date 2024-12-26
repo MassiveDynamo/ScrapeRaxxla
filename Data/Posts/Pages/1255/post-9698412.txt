@@ -1,0 +1,116 @@
+Adel
+A
+Jan 13, 2022
+#25,095
+Jet Blaqq said:
+Cool post on reddit by u/Dominik_1102 here:
+Hey have found a Secret Message in the Raxxla Codex Entry.
+
+We may [wanna] have a closer [look] here i guess.
+
+Z3non_RAXXLA_Bj5 WE-A H17-6
+
+
+When you enter that in the galmap these coordinates take you to Maia. When you change the 6 at the end it moves the system to one often located in the middle of a nebula. Maybe its a lead? Has anyone seen this before?
+
+
+EDIT:
+u/Dynamite56 just posted in the same thread
+
+edit 2: I have the full list here
+
+Z3non_RAXXLA_Bj5 WE-A H17-0: HIP 9221
+
+Z3non_RAXXLA_Bj5 WE-A H17-1: HIP 18175
+
+Z3non_RAXXLA_Bj5 WE-A H17-2: HIP 103442
+
+Z3non_RAXXLA_Bj5 WE-A H17-3: HD 236894
+
+Z3non_RAXXLA_Bj5 WE-A H17-4: HD 14947
+
+Z3non_RAXXLA_Bj5 WE-A H17-5: NGC 1333 Nebula
+
+Z3non_RAXXLA_Bj5 WE-A H17-6: Maia
+
+Z3non_RAXXLA_Bj5 WE-A H17-7: California Nebula
+
+Z3non_RAXXLA_Bj5 WE-A H17-8: Aries Dark Region
+
+Z3non_RAXXLA_Bj5 WE-A H17-9: Perseus Dark Region
+
+Z3non_RAXXLA_Bj5 WE-A H17-10: BD+30 623
+
+Z3non_RAXXLA_Bj5 WE-A H17-11: The trail ends here, the last one is H17-10
+Click to expand...
+Awesome discovery!
+
+In Odyssey, you have to write Z3non_RAXXLA_Bj5 WE-A H17-to at least show a fragment of result.
+Starting from Z3non_RAXXLA_Bj5 WE-A H17-1 it seems that the last one is not Z3non_RAXXLA_Bj5 WE-A H17-11 but Z3non_RAXXLA_Bj5 WE-A H17-42
+42, the answer of questions on universe? .
+
+I'd like to know HOW this "Z3non_RAXXLA_Bj5 WE-A H17-1" was found in the codex.
+
+EDIT:
+
+I have this list (different than @Jet Blaqq ) :
+
+System in Codex System in GalMap
+Z3non_RAXXLA_Bj5 WE-A H17-0 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-1 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-2 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-3 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-4 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-5 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-6 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-7 CALIFORNIA NEBULA (no clear coordinates)
+Z3non_RAXXLA_Bj5 WE-A H17-8 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-9 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-10 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-11 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-12 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-13 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-14 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-15 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-16 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-17 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-18 HIP 18175
+Z3non_RAXXLA_Bj5 WE-A H17-19 "-1232;-47;-402"
+Z3non_RAXXLA_Bj5 WE-A H17-20 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-21 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-22 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-23 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-24 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-25 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-26 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-27 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-28 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-29 HIP 103442
+Z3non_RAXXLA_Bj5 WE-A H17-30 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-31 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-32 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-33 HD 236894
+Z3non_RAXXLA_Bj5 WE-A H17-34 HD 236894
+Z3non_RAXXLA_Bj5 WE-A H17-35 "-898;-37;-506"
+Z3non_RAXXLA_Bj5 WE-A H17-36 HD 236894
+Z3non_RAXXLA_Bj5 WE-A H17-37 HD 236894
+Z3non_RAXXLA_Bj5 WE-A H17-38 HD 236894
+Z3non_RAXXLA_Bj5 WE-A H17-39 HD 236894
+Z3non_RAXXLA_Bj5 WE-A H17-40 HIP 9221
+Z3non_RAXXLA_Bj5 WE-A H17-41 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-42 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-43 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-44 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-45 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-46 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-47 HD 14947
+Z3non_RAXXLA_Bj5 WE-A H17-48 HD 14947
+
+Some "Z3non_RAXXLA_Bj5 WE-A H17-??" are following a same GalMap system but some are coming more often such as HIP 9221.
+I Don't have data but in eddb.io 2 bodies are missing for HIP 9221:
+Planet 9 and 10. BUG?
+
+I was bored, now i have 48 systems to explore
+Last edited: Jan 13, 2022
+Reactions:
+denispage and dysonl

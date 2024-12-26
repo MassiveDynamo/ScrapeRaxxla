@@ -1,0 +1,16 @@
+El Saico
+Mar 12, 2024
+#33,554
+Yesterday I finally got around to plot the hand-assigned sectors on 3D (thanks to the hard work on the EDTS library and the FreeCAD API being very easy to generate elements programmatically).
+
+My initial focus was the inexplicable, very distant permit-locked regions with clearly procedurally-generated names: Bovomit, Dryman, Bleia 1 to 5 and such. But then, my attention turned to the Bubble and its numerous overlapping sectors, and a question emerged: what if the regions postulated by the Miltonian model have an actual ingame representation?
+
+The Core Sys sector - 100ly-wide and centered on Sol - was an obvious stand-in for our physical universe, but what about the rest?
+Most sectors on the Bubble are named after constellations; and I believe Alrai should count here, as an official system name. The others, however, paint an interesting picture:
+ICZ is a weirdly-shaped mass of 80ly spheres (the only region under such an arrangement) which seems to cover the original Imperial territory, but it might be redundant for our purposes - more on that later
+A handful are named after very old names for stars: Tascheter is how the Persians called Aldebaran, Jastreb is an ancient Slavic name for Capella, while Shudun and Sharru were used in Mesopotamia for Arcturus and Regulus, respectively. Yin is much harder to pin down - it might be the Mandarin word, but not even that is guaranteed - yet it follows the same pattern as the others: they all surround - and partially overlap - the Core Sys sector.
+This leaves out Bei Dou and Shui Wei, both asterisms from traditional Chinese astronomy. The former belongs to the Purple Forbidden Enclosure and translates to "northern dipper", corresponding to the West's very own Big Dipper where Alioth resides, and lightly touches the Core Sys sector; while the latter, meaning "water level", is part of the Well mansion from the Vermilion Bird of the South. It also heavily overlaps with the ICZ sector.
+
+A 3D representation of the ancient stars (yellow), Core Sys (red), Bei Dou (green) and Shui Wei (blue) sectors.
+Reactions:
+Han_Zen, simulacrae, Ian Doncaster and 1 other person

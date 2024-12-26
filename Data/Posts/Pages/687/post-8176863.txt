@@ -1,0 +1,14 @@
+FullM3talX
+Dec 4, 2019
+#13,730
+Machina Ergo Sum said:
+Both of you are mixed up.
+
+There is an installation in LFT 926 B A Belt Cluster 1 aside from the Jailhouse Rock & Blues Bar which is unnamed and under the description says The Dark Wheel. I've been there before. The screenshot is in this thread from FullM3talX .
+
+personally i didnt see any other instalation in there other than the jailhouse rock. the installation from that screenshot WAS the jailhouse. but it's placed weirdly far from the small cluster of rocks in there. and apparently the installation is owned by the DW too, even though it doesnt show it in the name. when i was hacking around it, the turrets activated, and by targetting them i saw that they were owned by TDW faction.
+
+i think it's confusing because the jailhouse rock installation is both a separate POI aswell as being inside the Cluster. you can either go to it separetely, or go to the cluster, and you'll find it there too. it was around 30km distance from the main asteroids when you drop there. like BlueWolve said, it could be either a bug, or a unique rare instance of having two separate pois be so close to each other, they appear in each other's instances when you drop to them.
+Last edited: Dec 4, 2019
+Reactions:
+Machina Ergo Sum and BluWolve

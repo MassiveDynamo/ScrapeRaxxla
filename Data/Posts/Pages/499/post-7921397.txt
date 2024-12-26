@@ -1,0 +1,9 @@
+Han_Zen
+Jul 30, 2019
+#9,971
+DrewCarnegie said:
+Yes, ED massively simplifies gravity, putting bodies in fixed orbits around centers of mass. Given that nobody has actually solved the n-body problem, it's probably asking a bit much of 'realism' in a computer game to handle it.
+
+If you want a REALLY good scifi novel which revolves (pun intended) around the subject, I thoroughly recommend "Three Body Problem" by Cixin Liu.
+The only simplification ED does, is using of-center circular and not eliptical.
+Other than that the game is spot on, exept for a few hand made mistakes.

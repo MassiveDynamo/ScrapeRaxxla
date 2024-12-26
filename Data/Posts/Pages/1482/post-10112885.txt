@@ -1,0 +1,11 @@
+Jorki Rasalas
+Mar 29, 2023
+#29,627
+Dox Paradox said:
+Someone was asking for decode tools, a few hours back.
+If automated analysis is required on some text/name, a few websites offer their services.
+As we speak about a game, only the simplest (de)obfuscation methods are reasonable to consider (like Cesar letter or word substitution)
+https://www.dcode.fr/tools-list#solver
+No I was asking if we have any deciphering experts on the thread. I’ve already tried those tools, with no success, but then I am definitely not a cypher expert
+Reactions:
+Rochester and Dox Paradox

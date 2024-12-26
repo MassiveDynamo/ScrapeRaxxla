@@ -1,0 +1,33 @@
+yelboc
+Oct 11, 2020
+#19,289
+CmdrMcGreen said:
+Greeting Commanders,
+I'm on the long way home from my last WR trip .. a lot of time to think about this and that while my explorer vessel jumps from system to system.
+And again and again my mind snaps back to the old systems. Some time ago I played around with the system generator and some random seeds.
+..nothing. (What else..)
+
+But they still "haunt" me, and I came up with another idea.
+We know that we have 35 system which are also within the original game. Good. We accepted that, beside the fact that those systems originally come from different "galaxies" within Elite. OK, so FDev choose them by whatever reason.. (leaves this bad feeling ..)
+Now I had this thought: The classic generator is used to generate galaxies with 256 systems, their descriptions and so on.
+What If the 35 names in ED are not random at all, but have been generated? When that's the fact, we might have 221 systems which could be checked.
+Otherwise FDev just took those 35 out of 256, which would be another strange act. (Almost identically to "wildly choose" 35 systems out of 5 galaxies)
+So IF we could determine the seed which generates those 35 systems names, we might have a chance to check whether the remaining names are within ED or not.
+I'm not sure if the algorithm can produce those 35 names in a system though...
+
+Again that would be "obvious" and the number of 35 systems is the hint to look further, not the fact that they come from different galaxies or their galaxy numbers.
+The problem is to understand this algorithm and to find the correct seed. The generator has to generate LAVE and RAIN together for example.
+Not sure if that is possible.
+
+Only 34 pages to go...
+
+o7
+Click to expand...
+
+The algorithm from E84 is known and described, I think in detail on Ian Bells page, as well as on the oolite pages. The seed makes 256 systems - the names are on the oolite pages for all the galaxies. The ones in the ED galaxy, 'the old galcop worlds' are all from galaxy one, except for just a couple. One is Aten, and another is Ra. Both are Egyptian references so likely a chance overlap. So I'm fairly certain that all the galcop worlds are from G1 and any others are co-incidences (Rain likely to be too)
+
+Please contradict if you know better - it was a long time ago I looked into this.
+
+I'm interested in why Qube has no planet...
+Reactions:
+Dr. Lexus, [PS4] Filthymick420 and Hanerib

@@ -1,0 +1,10 @@
+Jorki Rasalas
+Dec 13, 2022
+#28,434
+SpocksOddSocks said:
+I'm not experiencing any issues. However, there is an option for galaxy map quality: Options>Quality>Galaxy Map Quality. (between material and terrain quality)
+
+Mine's set on high, but I vaguely recall there being a bug (that I thought was fixed) where medium was using more resource than high.
+Ok, I’ll try messing around with that setting next time I fly, thanks!!
+Reactions:
+John Stoutbeard

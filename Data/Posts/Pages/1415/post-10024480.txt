@@ -1,0 +1,26 @@
+Rochester
+Dec 7, 2022
+#28,282
+Although I am vey open to ‘any’ possibility the idea of a planet in witch space I find less plausible generally, for a number of simple reasons.
+
+1: the witch space tunnel is primarily a loading screen, a transition where the game loads a new instance not a physical movement but the process of waiting for data to be accessed and then download.
+
+This is dependent upon internet access, location and RAM, this opens up too many variables for bugs or glitches; and although an enjoyable bug, I accept it as the most logical explanation, although still nicely spooked out by it.
+
+FD do employ a secondary loading screen for Thargoid interactions, so there does exist the possibility it could be utilised for a Raxxla loading screen?
+
+2: The concept if true, generally looks awful. Although technically not impossible, I find the concept lacking due to its poor execution; if actual then it would not / should not get confused as a bug and much like the Thargoid interdiction mechanism, it should be far shinier.
+
+3: Over time FD have endeavoured to evolve this graphical transition, so that it marries with the very first trailer, which showed stars moving relatively. Via what seemed a ‘traditional’ warp bubble method.
+
+In my opinion this would identify that ‘hyperspace’ in lore is not tied down canon and that FD want to move away from the older ‘witch space’ concept eg us doing the old ‘Event Horizon’ method and literally travelling to and through another reality / but rather moving at a higher dimension relatively eg bending space time to create a gravitational warp field.
+
+The concept only supports a planet if it were in ‘Witchspace’ as another reality; if it involves us travelling there entirely; which although alluring and technically possible I find implausible due to the general lack of promotion of this mechanic in game, as developers want us to see and utilise their work it begs the question why not?
+
+If hyperspace is fluffy and supposed to be a relative gravitational warp bubble then to have a planet floating in it is illogical, as it would likewise be travelling at higher relativistic speed; not so if it were in another reality - which if my memory serves, is what wichspsce is.
+
+Again the best way to test is repetition and analysis of RAM usage.
+
+Source: https://youtu.be/q5JJGX-Wppk
+Reactions:
+Jorki Rasalas and John Stoutbeard

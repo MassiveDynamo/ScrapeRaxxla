@@ -1,0 +1,62 @@
+Louis Calvert
+Dec 24, 2023
+#32,737
+selbie said:
+Thank you for this! Yes currently I am only using the flac audio file from Canonn's page. If you can share some small 1-2 minute clips of those variants that would be great I plan to get back into the game at some stage to explore more of these interesting clues. First I need to get my theory structured to make any sense.
+I can see differences in the low frequency imaging (the red/white band) as well, indicating that it likely also forms part of the Signal.
+
+To clarify the 'heartbeat' is only in the low frequency range. There are many layered aspects to this audio (likely deliberate to obfuscate something) - so hopefully this might help others dissect the different features for their own independent analysis. In this diagram pay close attention to the Hz ranges.
+
+View attachment 379145
+I have attached the sub-200Hz audio that I separated out from the Canonn audio file and applied noise filtering to.
+This audio is sped up by 3.5x (which increases the freq to around 600Hz).
+
+The real test will be to see if this is unique to the LS or if it is just a repeating sample used by the audio designer. I'm leaning towards unlikely to be a repeating sample, because all the other aspects of the audio are unique and well blended across the entire audio clip.
+Click to expand...
+Oooh awesome! I mean, that audio does sound very much like an ultrasound of a heart to me (having recently had one done it's maybe on my mind lol). I will upload the recordings I've made later today and post the link for you
+
+Triangulating the signal: Test 1
+IRH's method works great for getting a good sense of where the signal comes from, but they mentioned some type of measuring system but the link doesn't work. So I've been testing my own.
+
+I've collected a bunch of standardised recordings yesterday using a targeting jig I can overlay on my screen to try to get some repeatable angles off any given point. Not sure if it's right yet, but here are the first batch of test results.
+
+SPOILER: TARGETING JIG METHOD ILLUSTRATION
+
+
+
+
+I recorded 10minute clips at 2cm intervals on my jig from Juenae PS-L A7-41 looking towards Stuemeae JM-W C1-5825 (where Canonn suggests the signal is very close to), aligned to the galactic plane with the correct up/down alignment as per galmap for standardisation purposes.
+
+In theory what I should see is that the recordings going left (into the minus numbers) should be 'weaker', whereas the ones going right should be 'stronger'. The up/down here should also see similar signal dropoffs since this arrangement is approximately on a flat plane. This test is just a proof of concept, since it took 2 hours to do these recordings (plus hours of testing before that).
+
+SPOILER: PRELIMINARY RESULTS SPECTROGRAMS
+
+
+
+In the above images:
+B1 is a test using the exact same method but facing exactly opposite from Stuemeae JM-W C1-5825, therefore there's no Landscape Signal present at all. You can see the horizontal banding, that's typical of the milky-way sans-landscape signal.
+A1 is pointing directly towards Stuemeae JM-W C1-5825. The letters/numbers in the subsequent images relate to the centre position of the ship's centre reticule compared to the location of Stuemeae JM-W C1-5825 on screen (targeted as if for a jump).
+Expected Result:
+The further into the minus numbers (the further left) from Stuemeae JM-W C1-5825 the weaker the Landscape Signal. The higher the number (further right), the stronger the signal (to a point). Up and down (A+ or Z-) should both get weaker. B1 should have no audio or visual of the landscape signal at all.
+
+Note: During a 10minute recording the landscape signal varies in "strength" for unknown reasons as it repeats. this was noted by IRH in their investigation too. This testing does not normalise the signals (I haven't figured out how to do it reliably yet). Therefore this current prototype testing is really only useful for a general test of the method.
+
+Actual Result:
+B1 shows no sign (or audio) of the landscape signal, as expected. A1, A1:2, A1:4 appear virtually identical. A1:-2 appears virtually identical to A1. A1:-4 does appear visually 'weaker'. A1:A and A1: D do appear progressively weaker. A1:-Y and A1:-W similarly appear progressively weaker.
+
+Conclusions:
+The 'up/down' results do seem to concur that the signal originates approximately on a plane with Stuemeae JM-W C1-5825 as viewed from Juenae PS-L A7-41. There is virtually no detectable different between A1 (directly on Juenae PS-L A7-41) and A1:4 (4cm to the right). In theory I was hoping to see an indication of 'strengthening'. However, there is (slight) perceivable difference between A1 and A1:-4 (4cm left of centre) and A1:4, (8cm away from A1:4).
+
+This broadly supports Canonn's theory that the signal originates near Stuemeae JM-W C1-5825.
+
+However - As we all know, the signal doesn't have a 'range', it's the same apparent 'strength' 22kly away in Sol as it is for me 2ly away from it. It's purely directional. The path of the angle I've been testing at from Juenae PS-L A7-41 also intersects with a portion of the region where IRH identified the signal as originating from. Since there wasn't really any significant 'WOW' moment in signal strength during this test, the only thing I can say is that the signal gets weaker the further away 'left, up and down' I looked from Stuemeae JM-W C1-5825 - unfortunately this is what I'd expect if the signal originated elsewhere in the volume identified by IRH.
+
+The good news is that the general method seems to work, and using the jig I can get accurately spaces recordings which should give some consistency to angling the ship and comparing the recordings.
+
+Next Steps:
+In thory if I use the same method looking towards Stuemeae JM-W C1-5825 from Stuemeae GG-Y C4601 (1.84ly), which is at a 45 degree angle above and corewards from Stuemeae JM-W C1-5825, then I should see the signal getting stronger in the -Z to -S range, due to the position and angles involved, and weaker in all others. I could then do the same from Juenae AC-B D1-10264 and expect to see the signal getting stronger in the -2 to -6 range, and weaker in all others. If that happens, then I'll feel much more confident that Canonn's theory about the origin of the signal is correct. If it doesn't then I can use this method to do some more general searching.
+
+Can anyone see any flaws in this method? Any suggestions of how to improve it?
+Last edited: Dec 24, 2023
+Reactions:
+Adel, selbie and Rochester

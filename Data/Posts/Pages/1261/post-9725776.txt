@@ -1,0 +1,47 @@
+Adel
+A
+Feb 2, 2022
+#25,205
+Nice done .
+"I am not going to tell you how i found it" => Can you just answer this: did you find/target it after a honk or did you use another way?
+
+While out in the black i'm still checking logs to understand how BodyIDs are done in-game:
+
+Counted as "NonBodyCount":
+Notable stellar phenomena
+Belt (Group)
+Belt (Chunk)
+Ring
+Tourist Beacon
+
+Counted as "Bodies":
+Stars
+Planets (landable or not landable)
+"Small Body" => See post 25,262 (CMDR Pyroboros) with Halley's Comet.
+
+For the "NonBodyCount", there are some stuffs i seem to miss, but don't know what for the moment (maybe space installations?)
+The only civilizations on my way back are H&S nebulas, i'll check that there.
+
+But for example, "PI Andromedae" 's discovery log:
+(Paste it in Notepad++ to see lines easier)
+
+SPOILER: PI ANDROMEDAE
+
+Now look at system map picture: there are 2 missing "BodyIDs" (8 & 9) between bodies ABC3 and the barycentre of bodies ABC4/ABC5.
+All the bodies are counted and look that:
+
+"BodyCount":10, "NonBodyCount":0
+
+Some BodyIDs are neither counted as Body nor NonBody.
+
+So what could it be?
+
+For Sol:
+
+SPOILER: SOL
+Attachments
+20220201164034_1.jpg
+142.1 KB · Views: 116
+Last edited: Feb 2, 2022
+Reactions:
+Han_Zen and Rochester

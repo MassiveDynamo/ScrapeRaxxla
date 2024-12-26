@@ -1,0 +1,21 @@
+Pyroboros
+Dec 13, 2022
+#28,438
+Robert Rockbite said:
+Which systems?
+Why, I would use brute force and check all known stars in a certain range around Sol if they form a certain geometric shape - usually within some tolerance, to get any results at all.
+Didn't do that search for 7-systems-forming-a-3D-cross-shape, though.
+That is a insanely long computation we talking here.
+lets say 100 Systems.
+For the first line (ignoring the order/direction) you have (100 * 99)/2 = 4950 Lines
+2. Line still has (98 * 97)/2 = 4753 different Lines.
+3. Line has (96 * 96) / 2 = 4560 Lines
+that makes (4950 * 4753 * 4560)/6 = 17 880 786 000 tests
+that will take a couple minutes.
+go for 1000 Systems and we talking heat dead of the universe long^^
+
+I can have missed some symmetries that do not need to be checked twice, still the number of tests explode for every system that gets in the pool.
+
+Hope is that since the probability for 6 random point having a 7th point in common goes to 0. So if there are such systems it's a nice we -should take a closer lock-
+Reactions:
+Louis Calvert, Robert Rockbite and Rochester

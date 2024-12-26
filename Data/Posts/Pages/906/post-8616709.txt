@@ -1,0 +1,21 @@
+Cmdr SpaceMerlin
+Jul 27, 2020
+#18,110
+Emperor said:
+A tinfoil thought.... has anyone analysed the jump animations at all for any actual constellations previously?
+
+That would be truly a little bit obvious and a journey we all have to make...
+
+View attachment 182150
+View attachment 182151
+View attachment 182153
+(my boblehead not an actual ship!)
+Click to expand...
+
+Just a quick comment before i launch ED (and finally get that Cutter ): The other day while doing the rounds in the Bubble for mining i noted down in my "to do later" file a strange witchspace while jumping from Lawd 49 to Sharru Sector DG-X B1-1. Just before the destinqtion popped upm it looked like mini-galaxies flying past the ship rather than the usual stars. At least it looked unfamiliar enough to me that i noted it down. I wasn't recording at the time, and haven't gone back to it, but i intend to do some testing later this week: is it replicable and does it appear in all graphics settings? If yes, is it really unusual or was it just me paying attention for once?
+
+But as far as i recall, previous attempts at analyzing the visuals and sounds of witchspace often came to the conclusion that it's just a fancy loading screen and nothing much should be read into it. Still, we know that FDev have at least created one special version of it (the one for hyperdictions), so in the end it might still be worth investigating.
+
+And now i'll go back to mining for realz.
+Reactions:
+Fiera, Oseris, roryclague and 2 others

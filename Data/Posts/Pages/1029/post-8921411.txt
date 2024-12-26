@@ -1,0 +1,16 @@
+Yuki Estelle
+Jan 27, 2021
+#20,578
+Jorki Rasalas said:
+No, I trained Windows10 Speech Recognition, just had problems with VA performance while flying. Perhaps it doesn’t like a Yorkshire accent! But no problem.
+
+I played around with it yesterday. Can assign two simultaneous hotas button presses to trigger a command to perform events such as keyboard presses. So I got the XVidRec and ToggleVidRec functions working ok, which are shifted hat commands, but the unshifted hat commands (Lights, night vision) are also triggered. Not a major problem just a slight niggle.
+
+No, I have an NVIDA GTX1080, and used to use NVIDIA Experience+ShadowPlay but it’s such buggy bloatware and “updated” so often (each time it stopped working for me & often lost at least a day getting it to work again, plus losing the ability for screen capture whilst doing so, missed some interesting ED shots) so I gave up on it after a couple of years of frustration. Pity, it could be (& used to be) good, but every time they “update” it to cover new special features for some game or other they seem to introduce a load new bugs. I then tried MSI Afterburner for video capture but I had problems with that too. In the end sometime last year I tried the Windows10 Xbox gaming bar software & that has been much more reliable. There seems to be some constraints over which keyboard combinations I can use to trigger screen capture but it does work very well. I couple it with EDDiscovery’s ability to convert a screenshot into a compressed jpeg and rename the pic with the date and system+nearest body and move it into a folder with the system name in my ED pics file area -it’s great! The only drawback is EDD doesn’t have a similar renaming facility for videos, so they accumulate in my captures folder and I manually move & rename them (or delete them as I’ve missed the important bit!!!) as required.
+
+Spent another couple of hours late yesterday afternoon fruitlessly looking for that darned elusive green glow. I think I’m going to nickname it “the Veridian Pimpernel”!! (That’s showing my age! )
+Click to expand...
+
+I was actually going to recommend Shadowplay if you're using NVIDIA, it's the primary way that I retroactively record videos and encounters. Very helpful since you can adjust settings to save your last x minutes of gameplay. I've also had issues with mine in the past but it appears to be working fine now, even if it does sometimes take a minute to render the clip.
+Reactions:
+[PS4] Filthymick420

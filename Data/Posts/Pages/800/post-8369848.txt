@@ -1,0 +1,13 @@
+alexzk
+A
+Apr 7, 2020
+#15,982
+Zimous said:
+Btw, what is the majority opinion on the type of star that shows on the Codex, on the photo?
+Not sure what u ask ...
+
+Zimous said:
+Is there a way to search for systems which have at least one gas giant with 8 moons? Never used EDSM before, only use EDDB.
+I don't think so, people do a copy of DB to own servers then do SQL queries on in as they like. But as I said, if anything is listed on EDSM this means somebody already was there & checked.
+Reactions:
+Machina Ergo Sum

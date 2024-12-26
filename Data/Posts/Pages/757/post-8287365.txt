@@ -1,0 +1,6 @@
+Koben
+Feb 9, 2020
+#15,137
+Have you noticed that the "IPv4 Address" on the top of you DBX cockpit frame does not fit a regular IPv4 address:
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

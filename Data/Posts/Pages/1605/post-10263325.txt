@@ -1,0 +1,8 @@
+CMDRCorrMorningstarFelian
+Nov 18, 2023
+#32,092
+Louis Calvert said:
+No, the star Gliese 293 is a White Dwarf star, which is the A component of the system in ED. Source 1, Source 2. We're talking about the hecking massive Wolf-Rayet star that's the B component in the system, which absolutely doesn't exist IRL.
+Okay, yeah now I am confused. The SIMBAD entry clearly is referecing the white dwarf (mentioned spectral-class DA9). So, yeah what gives FDev?
+Reactions:
+Louis Calvert

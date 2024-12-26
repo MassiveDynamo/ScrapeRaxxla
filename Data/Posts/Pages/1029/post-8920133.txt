@@ -1,0 +1,13 @@
+Emperor
+Jan 26, 2021
+#20,571
+Jorki Rasalas said:
+However I didn’t have much success in getting it to recognise my commands vs false recognitions and gave up.
+
+Don't forget to train the speech recognition in windows and if you still have problems the log shows you what the computer has "heard" and if it keeps picking up the same wrong sentence or if you find you panic and keep saying something similar to the command you want but not quite right, you can add the misheard/incorrect words into the command you want... or just make up your own voice commands it can understand and map them to the relevant command.
+
+Give me a shout if you get stuck, it's been a while since I configured my voice attack but can have a play and see if i can replicate the recording...
+
+I'm guessing your GFX card is not made by NVidia? I think Shadow play can save the prev 5 mins with a hot-key which would get you past the "Damn I missed that green light again"....
+Reactions:
+[PS4] Filthymick420

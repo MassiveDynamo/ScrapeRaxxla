@@ -1,0 +1,20 @@
+Ian Doncaster
+Sep 14, 2024
+#34,804
+Darrack said:
+I wasn't here at the start of Elite Dangerous (i branched into Everquest after 'First Encounters') were Factions introduced from the very start?
+Yes, all inhabited systems had at least one faction in them, usually more, with frontier systems generally having fewer. It was player adoption of certain of those factions which led to the original implementation of player-created factions as a way of meeting the unexpected demand for deliberate BGS manipulation.
+
+The original state of Shinrarta Dezhra contained a "Pilots Federation" faction and the "Dark Wheel" faction; due to the slightly odd way that expansions worked in the original BGS, the other factions present there nowadays were "pulled in" by the Pilots Federation expanding into systems they were present in.
+In version 2.4 the Pilots Federation was turned into a "virtual" faction which no longer appeared on the influence charts - though it can and does own stations.
+
+For Tau Ceti its original factions are the ones tagged "N" (for native) but not "Player" (best 3rd-party guess at PMFs) on https://inara.cz/elite/starsystem/1441/
+There was also a change early on in that in 1.0 faction names didn't have to be unique - so e.g. the Tau Ceti Crimson Boys might just have been called the Crimson Boys back then - and they were made unique for clarity later. (Or they might have been the Tau Ceti CB all along - the only factions I definitely remember this affecting were the various <system> Emperor's Grace factions).
+
+There are around 78,000 factions in the game, almost all of which have been there from the start. Only around 3,000 are player-created PMFs which were added gradually between 2015 and 2023 ... and a few of the other factions were also added later by Frontier as new systems were populated.
+
+Darrack said:
+as the player DW faction wasn't the real DW faction?
+Whether or not the Dark Wheel faction in Shinrarta is "the real Dark Wheel", it's certainly not a player-created faction. It has of course been adopted by various players over the years, with very limited effect until the chaos around the release of the 3.3 BGS rewrite (combined with the earlier 2.4 removal of the Pilots Federation as an influence faction) let it get an Expansion out of Shinrarta, and then a larger group of players adopted it on the (apparently wrong) theory that expanding it to certain locations would do something interesting above and beyond the normal BGS consequences and pushed it into considerably more systems.
+Reactions:
+marx, selbie, Louis Calvert and 4 others

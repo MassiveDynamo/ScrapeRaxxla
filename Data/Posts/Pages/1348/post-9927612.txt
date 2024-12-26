@@ -1,0 +1,8 @@
+yelboc
+Aug 30, 2022
+#26,958
+I think @DoxParadox was meaning the 'centre' being of the Guardian bubble.
+
+One difficulty was that guardian sites were not implemented in the early releases, having come along with Horizons. Depends if you follow the 'available in gamma and not changed since' or 'it may have been updated over time' camp as to whether that is a problem..
+Reactions:
+Dox Paradox, Ataxia and Rochester

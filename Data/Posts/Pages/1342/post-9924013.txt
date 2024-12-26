@@ -1,0 +1,46 @@
+clavain
+Aug 25, 2022
+#26,838
+@Jorki Rasalas is going to just love this for reasons that will become apparently momentarily.
+
+So yeah I was bored at a conference and reinstalled.
+
+Got thinking about "a little bit obvious", and breadcrumbs.
+
+First recorded report of Raxxla, Tau Ceti. Went there, did all the usual crap we always do, found nothing of interest. Sat in the main station, Ortiz Moreno. Wait a minute, who the heck is he? An astronomer of course. Famous for finding - a dwarf planet near Neptune, Haumea. And off we go to the Sol races. (There is also a system called Haumea if anyone wants to check it out, but if you find Raxxla we share the credits and fame, K? Spoilers, it is pretty dull) https://en.wikipedia.org/wiki/José_Luis_Ortiz_Moreno
+
+So, Haumea you say: https://en.wikipedia.org/wiki/Haumea
+
+Interesting, has two little moons formed after something big collided with it. More interesting, only one of said moons is in the game - Namaka is missing. Even more interesting, Namaka has an unusual, eccentric orbit, and the two moons play hide and seek with observers on Earth: https://en.wikipedia.org/wiki/Moons_of_Haumea
+
+So poking around we go, while continuing to madly click wikipedia links as the space madness sets in, again. Haumea (in Horizons at least) is a very run of the mill little ice body with some very deep crevasses, and a few small mountains. It looks at first glance like the crevasses might connect somewhere, like, oh., I don't know, at a big point of impact? Unfortunately it is hard to find, because;dark side and annoyances of trying to search a very small body from orbit. Haven't landed yet to go for a spin but will at some point.
+
+Did some parallaxing with and without orbit lines turned on (damn I'm old school) but no hide nor hair of a hidden orbital station nor Namaka. Tried flying around in the orbit of Hi'iaka to cover every possible area within 1,000ls of my ship, but nothing on nav or contacts or that I could see, and no mysterious speed dropouts or warnings.
+
+Also, Haumea has a ring that isn't in the game either (likely because it was only discovered in 2017, but geez Frontier, c'mon, keep up won't ya?).
+
+Back to reading wiki, came across something guaranteed to drive Jorki round the bend (this is the best part) ;-)
+
+So it seems whatever collided with Haumea not only created its two moons, but an entire family of objects known by the cool kids as the Haumeids. What are these you ask? Well, only 18 members of the Transneptunian collisional family of Jorki. https://en.wikipedia.org/wiki/Haumea_family
+
+I don't think any of these are in-game, but wouldn't it be fun to try to calculate their orbits/positions in game and go look for them to see if you can find them? Wouldn't it Jorki? Highlighted in green for you below and with more details on the page above, should be easy-peasy if you haven't even already found them all given your expertise in this area... ;-)
+
+
+
+And of course there are all the usual interesting connections with various deities and their offspring and enemies and lovers &c. &c. from various cultures, but I will leave that to someone far more knowledgeable than I in such matters (@simulacrae @Rochester ) to set forth appropriate hypotheses in the scientific manner for testing. With a cool illustrated map I hope and lots of Hawaiian art.
+
+And if you do, don't forget to outline an alternative hypothesis based on the original name Ortiz Moreno wanted to give Haumea: https://en.wikipedia.org/wiki/Ataegina#Dwarf_planet
+
+Just a little bit obvious right? Too obvious maybe?
+
+PS Don't forget to double-check everything in Odyssey, with crappier chances of seeing anything in crap graphics using parallax.
+
+PPS My working theory of course is that it was a space whale which collided with Haumea.
+
+PPPS None of the Haumeids from that table appear to be in the Sol system. Which leads to the completely unrelated and likely irrelevant question, why are the trans-Neptunian objects 2002 MS4 and 2007 OR10? Smokescreen to distract us from the Haumeids and Namaka is what I say. The truth is out there. The great white space whale shall be found and we shall not be distracted from the hunt. https://en.wikipedia.org/wiki/(307261)_2002_MS4 https://en.wikipedia.org/wiki/225088_Gonggong
+
+
+PPPPS I'll even make it simpler by providing all the orbits for Jorki:
+Last edited: Aug 26, 2022
+Reactions:
+Macros Black, yelboc, Jorki Rasalas and 4 others

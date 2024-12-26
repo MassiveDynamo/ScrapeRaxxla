@@ -1,0 +1,10 @@
+SongOfTheVoid
+Nov 23, 2022
+#28,017
+Louis Calvert said:
+I really strongly feel this method should not be promoted here.
+
+Accidentally finding comet listings in INARA or EDDB, or seeing stations orbiting something invisible and investigating to find that it's an invisible comet, is one thing - but this method is widely considered to be a game exploit.
+
+This is not how Raxxla should be found, it should not be part of the search methodology promoted here.
+Its actually wildly against the rules and is a bannable offence to do what he is suggesting, Altering game files as suggested isnt allowed and abusing client side files to tease out server side 'errors' is VERY LARGELY in the realm of Datamining/Client-Manipulation. Reported for what it is hopefully others do the same...

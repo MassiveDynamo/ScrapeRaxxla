@@ -1,0 +1,30 @@
+selbie
+Jan 7, 2024
+#32,901
+Edelgard von Rhein said:
+This afternoon I visited the systems on the Brookes Galactic Tours and recorded ~10 min of video in each system, whilst in normal space pointing as close to Sgr A* as I could. Then I loaded the audio into Audacity and followed Louis Calvert's steps to highlight the landscape signal.
+I was able to identify the landscape signal in each recording except the initial attempt at Artemis but I was fiddling with the settings a bit at that point - it was there when I returned after visiting the fifth system.
+
+I have to admit that it is a very subtle feature. If no one had said anything about the Landscape Signal, I would certainly not have paid it any attention. This also means that I have no idea whether or not I actually found anything new. Each recording has small differences in the high frequency range (3000+ Hz) and there are features that I have no idea whether or not are noise but which feature in each recording.
+
+My first conclusion, from looking at cycle to cycle variation, is that I have not seen anything like the landscape signal in between the recognisable mountain-esque feature that recurs every 2 min or so.
+Secondly, I can conclude that I might just be able to identify a variation in the landscape signal from as little as 5 min of video.
+Therefore, I can occasionally make recordings in systems of interest but my findings, positive or negative, should be considered dubious and in need of verification.
+This is a seriously obscure way to hide a treasure map if that's really what it is! (I think FD may have said at one point that they would not do anything like the Thargoid Probe signal again as it was asking a bit much to use out-of-game tools like this, though that is not the same as removing any existing puzzles...).
+Click to expand...
+There is usually some small variation due to different sounds overlapping in different phases. The 3000Hz line is one that I'm curious about because it has a wavy, almost sinusoidal shape to it. It also has the ripple effect of a true vocal sound, and never shifts alignment with the other shapes, so I wonder if that is part of the clue.
+
+and yes, the signal is 1:49 in length, so 4-5 mins of recording should catch enough for time efficiency.
+
+Emperor said:
+Just trying a few things but I have just recorded 10 mins from Alsuhail...
+
+What settings are you using in audacity for the spectrogram?
+
+This is typically what I use. Scheme is purely preference, but I like the contrast of roseus.
+I usually keep Min/Max freq at the full range, but the shapes fall between min. 2500Hz to 10,000Hz.
+Varying the colour values doesn't usually bring out much more, but changing the High boost number can usually bring more brightness to the higher ranges.
+To make the low frequencies less blurry, set the 'Window size' to a higher value like 4096 or 8192.
+
+Reactions:
+Adel, Emperor, Rochester and 1 other person

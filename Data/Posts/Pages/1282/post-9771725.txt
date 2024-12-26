@@ -1,0 +1,7 @@
+Jorki Rasalas
+Mar 12, 2022
+#25,639
+Pyroboros said:
+Jepp, some Stations crash the Searchbar. I have no clue why. 2 of the 6 Stations Orbiting Pareco Comet crash it. Thats were i first noticed it. So SD 68 could be a Station. I sadly have no time atm for extended ED Gameplay hope it will change i a couple of weeks and i can go Hunting again.
+This thread is amassing, keeps me hooked even i can't play atm.
+Mmm, at a rough guess (and not being a programmer!) I’d tentatively suggest your spreadsheet is coming up with a search string for them which somehow is not pukka. Or it is somehow triggering a defence mechanism for those objects, but why it should happen for 2 of the Pareco stations, which are visible & not hidden, is puzzling!

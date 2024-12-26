@@ -1,0 +1,13 @@
+yelboc
+Dec 1, 2021
+#24,914
+IngvarGreen said:
+Getting to the asteroid base in the Heart nebula yesterday, I noticed that all the surroundings around were scanned, but they were scanned very poorly - some stars were scanned, but the planets were not. Because of human laziness, the object of the search can really be right under your nose and no one will see it. The embarrassing thing is that Drew Vagar asked Braben about the Raxxsla and he said that some pilots had visited that system, but apparently it was not scanned, but simply refueled and flew on. Considering that all inhabited stars and their neighbors are somehow open and scanned, does this not indicate distant regions of space? I think that these are either distant, still unexplored regions or closed sectors like the Polar Star (Polaris).
+There are a number of errors in the above. Drew's conversation over a drink confirmed Raxxla is in the game. The 'somebody honked the system and jumped on' comes from Michael Brookes at a Lavecon, and supported by CMDR Acorbius' confirmation of it (we have no other independent verification of this).
+
+The partly scanned systems date from before the FSS, when the honk would only reveal bodies up to 1000ls from the ship. This means many systems are only partly discovered. The Formidine Rift saga, which prompted much scanning in the H+S nebula region was before the FSS, so yes there will be bodies to be had now. In the main bubble, there are many fewer of these, though you will occasionally find un-scanned bodies.
+
+In general, as far as we know, all bodies are revealed by FSS out to infinity. The FSS will tell you how many POIs to expect on each body, but their locations are reveals by DSS scan on the body itself. Stations, Megaships and Probes etc. are also shown by FSS, unless they reside in a ring or asteroid field.
+Last edited: Dec 1, 2021
+Reactions:
+Coehoorn

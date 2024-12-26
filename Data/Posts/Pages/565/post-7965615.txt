@@ -1,0 +1,6 @@
+Noobilite
+Aug 25, 2019
+#11,297
+I think your inputs are using a positive on the 343.375 instead of a negative on the middle corrdinate somehow even though it says it's negative. Your answers are all coming out in the positive spectrum and on Positive 350 range on the galmap.
+
+I think that is the last error.

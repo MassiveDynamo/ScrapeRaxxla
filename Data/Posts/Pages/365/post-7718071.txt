@@ -1,0 +1,14 @@
+John Stoutbeard
+Apr 5, 2019
+#7,294
+Unusual Markers
+
+A heads up for being observant re 'hidden in plain sight'. I just realized another variant to look for:
+* NPC lo-wakes near gas-giant locations (only for those we suspect fit the pattern from the codex).
+
+
+Also, just the standard checklist mentioned several times already:
+Waiting for (specific) random-mission in a system.
+Waiting for (specific) USS giving a special event.
+Non-inhabitated systems having unusual traffic / USS or other markers.
+FSS location-hints on (re)scanning. Make sure they are represented just as locations.

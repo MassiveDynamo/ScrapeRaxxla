@@ -1,0 +1,13 @@
+alexzk
+A
+Aug 11, 2020
+#18,341
+ok...got close as I could to exact same distance to 3 star systems I posted some above. Mapped all stars to edsm around, best to calculated point is
+Pro Eurl DP-A c15; 3.81 (ly)
+Distances at that virtual point:
+9638.91; 9638.85; 9638.85
+....I assumed Y coord be same though for initial calc. It was almost same, +/- 100ly.
+
+Maybe should try all combinations of each 4 sites of each 3 expeditions and see what happens. But then need some exact algo to get initial center.
+Reactions:
+PeteACarter and [PS4] Filthymick420

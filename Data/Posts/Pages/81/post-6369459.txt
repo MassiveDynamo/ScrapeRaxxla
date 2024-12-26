@@ -1,0 +1,6 @@
+Louis Calvert
+Jan 31, 2018
+#1,609
+Bug report it. If it's an error they will say so and correct it (just happened to someone in our discord, they spotted a star class was incorrect from known observations of that star). Fdev replied saying they'd look into it and see if it was possible to alter.
+
+If they don't.... welllll

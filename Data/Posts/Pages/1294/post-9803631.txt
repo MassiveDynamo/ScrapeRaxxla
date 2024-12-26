@@ -1,0 +1,4 @@
+Fi5hboN3
+Apr 7, 2022
+#25,862
+no I double checked that, I also thought that it may be the current bug where bodies (that look like distant stars) in the system duplicate and vanish when you super cruise past them. its just a strange one. bug or something.

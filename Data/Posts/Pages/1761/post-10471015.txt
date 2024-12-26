@@ -1,0 +1,75 @@
+Beng_Ammon
+B
+Nov 4, 2024
+#35,208
+Hello all.
+
+I have an update on my Raxxla search.
+
+My thesis: I believe DB and DW and MB, when they all confirmed raxxla is in the game. I don't think it has been updated since launch. I think its a boring ol' planet. That's not landable, nor has Odyssey functionality. I think it is a planet in a system that actually exists, and that system is accessible by all. it probably just has a beacon pop up when you discover it, with something about how something catastrophic happened. Maybe we get a bajillion credits. Or maybe the devs then remove it, and put in galnet how a pilot found it, but it moved again.
+
+We need to find the "Starting point" per se. Which we have to assume is Sol, since any "lore" around it would come from Earth explorers, and would relate things to Earth constellations. And we know these basic game mechanics have been used in story/mysteries:
+
+1: Voyager satelites is an example of hiding something until a player gets close. They have to go X distance from a known starting point, and 'hunt' for it. It shows up when you come within X distance.
+2: we know planets "move" with in a system, and a player can exit FTL, and sit in a spot, and watch things move around them.
+3: We have exactly 2 ways to jump to a different star: we can use the map, or we can wake scan
+
+now to the only known clues.
+
+"To the jewel that burns on the brow of the mother of galaxies!"
+
+The only mother of a galaxy is Cassiopeia. (We know Braben loves his mysteries wrapped in constellation lore)
+
+Cassiopeia's constellation is the W in our sky. But the W only represents her body and legs. The head is typically not part of the constellation. It obviously changes based on the scale of any image you're looking at.
+
+Using this tool: https://server1.sky-map.org/v2
+
+You can map out stars. If the star exists in game, you can search by the Hip, or HD designation.
+Cassiopeia has some interesting star names. A lot are HIP, some are their Greek, etc. Most are interesting systems. (Howard (the star system in game), has a real life star designation. So they can be anything in game, but if Fdev used an actual star map designation we have, its sub listed when you click on the star, and can entered into the search bar)
+
+If you go to sol, and bring up the constellation, Schedar is Cassiopeia's Chest, So the head is "above" that
+
+See that "burning" star? Thats part of Cassiopeia, and is HR 124. Is my guess for the "Jewel" (for now). It can be seen from inside almost any system in the bubble., so you can track cassiopeia from any system near or around Sol. And is faintly visible from Delphi.
+
+Source: https://imgur.com/a/NMFhuMB
+
+
+Nothing special there. As we expect. but, it's close enough to be a candidate for the lore, and you can travel on just Cassiopeia stars with a small jump range ship, from sol, all ~400 light years there. In fact, from what I can tell, You can jump to every Cassiopeia designated star, from just cassiopeia stars, starting from earth, all the way out at least 700 lyrs)
+
+buuuuuuuttttt.
+
+If we look at the raxxla and Dark Wheel images, they feature an Orrery View (yes the orrery view came later, you dont technically need it, but it makes it easier to see the "mechanical view" of a system, and thats how the clues are drawn)
+
+I think the raxxla image is a hint of what raxxla does, and where raxxla is.
+
+Raxxla is the 2nd planet from a star. The first planet is always visible. Raxxla is only visible sometimes. (it insinuates 3 times, out of that system's "year", since a circle on an orrery, is that star system's 'year')
+
+And if we look at the dark wheels image it also features an orrery, and on the 2nd path (same path as Raxxla's brokenline), is 3 circles, insinuating that the system in the dark Wheel image has 3 bodies (1 main body, 2 moons, or 2 bodies, and 1 has a moon) on the 2nd circle.
+
+I think the raxxla image and parts of the dark wheel image need to be combined.
+
+Add in the Ouroboros, and spiraling stars (somethign that happens if you spin your ship in a circle....) and my main theory at the moment is:
+
+If we are "retracing footsteps" we start in sol, and head towards the jewel that burns on the brow.
+
+Maybe we have to travel on only known cassiopeia stars. with enough mapping, maybe they make "spirals"
+
+Some Interesting systems I found in my search, I dont think have anything to do with Raxxla, but maybe:
+
+27 Gamma Cassiopeia has a black hole, and is 497 lyrs from Delphi. You can get to it by just travelling on Cassiopeia designated stars. You can see hR 124 from it. If you view Delphi through the black hole, and go fowards or backwards, it "dances" or "spirals" with another star ( I can't tell what it is)
+
+27 Gamma Cassiopeia is also known as "Navi" or the mid section of cassiopeia
+
+ETA Cassiopeia is mentioned in the codex elsewhere, and has a gas giant named "Between"
+
+When you jump between systems, witch space turns the opposite direction of the ouroboros on the dark wheel image.
+
+
+
+I have more...ahem..'research' and a few private theories. But maybe something above kicks off something in your brain, or you find something. If not, then happy exploring anyways!
+Attachments
+schedar-whats_that_star.png
+101.7 KB · Views: 20
+Last edited: Nov 4, 2024
+Reactions:
+Macros Black, Emperor, Hanerib and 2 others

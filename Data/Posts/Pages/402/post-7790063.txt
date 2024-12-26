@@ -1,0 +1,20 @@
+Ko Shiji
+May 11, 2019
+#8,036
+CMDRGURU951 said:
+A small snippet gif from the Interstellar Initiatives video, Bridging The Gap at 1:52. Sadly was not able to slow it down enough to see it frame for frame.
+Starts in Dahan, closest system to Ithaca (Home of Odysseus) and as it zooms out it reveals Aganippe and Demeter, among others, including Ao Qin. Also shows Barnard's Loop and Andromeda. All the systems which launched me into this black hole of a journey.
+
+The path of that camera movement is a line. It's like a ship backing out of a garage port, then u-turning to boost forward along the same direction.
+
+It's easy to set up a utility in Excel for "give me the line created by these two points"; the x,y,z coordinates of the points along the line just increase proportionally to the coordinates of your two index points. You can get the coordinates for any "distance" along the line, 1000 LY, 2000 LY, etc. You can go there.
+
+You have several points, so that means you have a jitter (cylinder around the line where things may be).
+
+The galaxy is a pancake. Some lines can be very short, if they angle up or down and hit the floor or ceiling of the pancake. For example, Sol -> Maya -> beyond. Some lines can be medium: Cupid's Arrow -> Maya -> beyond. Some can be very long, Reorte -> Riedquat -> Syreadiae JX-F C0 -> beyond.
+
+There's a lot of jitter if you take Reorte -> Riedquat as the points for a line; they're too close together. Not enough digits of precision in the coordinates of those two systems results in hundreds of LY of jitter by the time you get to Syreadiae. However, Reorte -> Syreadiae is a very thin precise line; the points are far apart.
+
+In any case, you've identified those systems and they're familiar. Follow the camera along its line.
+Reactions:
+CMDRGURU951

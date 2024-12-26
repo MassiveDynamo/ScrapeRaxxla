@@ -1,0 +1,15 @@
+Tacticus2711
+May 29, 2019
+#8,301
+Edelgard von Rhein said:
+There is no way at present of earning any of the regional permits. I think this has been confirmed by FD at some point but I think it was a Q&A or AMA and I don't have time right now to track it down.
+
+Prior to 2.1, the permit locks around the Barnard's Loop region, including the Cone Sector, did not exist and there are people, including me, who have a few tags around those areas. If you have been to a system before you can view it, even if it has been subsequently locked away. FD have said that it was a bug that those regions were not permit locked prior to 2.1 but because it was only fixed about 18 months after launch many people have been around the area. You cannot get to the systems you previously visited though.
+
+The permit locked regions around Barnard's Loop are structured similar to spheres where systems are locked with spheres where the permit lock is not applied within, such as around the Witch Head Nebula and the Orion Nebula. Jackie Silver has a map of the region (in the Exploration subforum somewhere, best to check the Guides stickied at the top of the forum, it's probably there but I don't have time to search right now.). It is possible with sufficient jump range to go through the middle of Barnard's Loop and out the far side. None of the other permit-locked regions have this complex structure and they all appear to be spheres of different sizes, or collections of interlocking spheres in the case of Bleia and Praei. EDSM should have outlines of the structure from various expeditions (I'm not the only one to have visited these places but I probably visited more on one expedition than had been done previously and laid the groundwork to facilitate future visits).
+
+I'm currently at Star One (unofficial name of the closest system to Andromeda) and will be making my way to The Void as time allows over the coming weeks. I see that 'blue dot/smudge' that has been mentioned by SpaceAce and it is definitely extragalactic but I'm not sure what the object is supposed to be - I'd need to try and narrow down its RA/DEC and check the SDSS catalogue (which has good coverage and a visual interface to see what you're looking at) or something similar.
+Click to expand...
+
+Unsure but there was confirmation of a star system which was unavailable to access and was around 20,000 lyears away from the closest star system called ‘
+Source: https://imgur.com/UbEOD2D’

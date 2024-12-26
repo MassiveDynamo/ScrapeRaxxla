@@ -1,0 +1,13 @@
+simulacrae
+May 19, 2020
+#16,492
+So I was staring at the Codex Map today and noticed the grid was centered on SagA* (in my mind how it should be) not Sol - looks like it has the PM going through Sol though. So I cleaned it up a bit and tried to figure out the numbers they were using. Dont know if someone has already done this , but..
+Here is the Codex map
+SPOILER: CODEXMAP
+
+Here is what I was able to see
+SPOILER: GALAXYMAP
+
+Does make for an odd 93 slices, and probably meaningless... Just thought it interesting.
+Reactions:
+yelboc, KillerSkull_Mk, Machina Ergo Sum and 6 others

@@ -1,0 +1,19 @@
+Pyroboros
+Feb 2, 2022
+#25,206
+Adel said:
+Nice done .
+"I am not going to tell you how i found it" => Can you just answer this: did you find/target it after a honk or did you use another way?
+
+While out in the black i'm still checking logs to understand how BodyIDs are done in-game:
+Honking will not show them no matter how close you are.
+But after some testing and magic after my initial succses yesterday, i am now able to SupercruiseExit in any SOI of any Body
+I would explain but it may is a bug that i don't want get fixed. (even though i reported something similar 19 month ago but still is not fixed. in fact it got worse. But it is very spezial and no one sems to care)
+
+Here are ur missing Bodys 8 & 9 for Pi Andromedae but they are also just empty Space.
+
+SPOILER
+
+
+Reactions:
+electro, Han_Zen and Adel

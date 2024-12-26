@@ -1,0 +1,48 @@
+Jorki Rasalas
+Nov 30, 2018
+#4,356
+Edelgard von Rhein said:
+I thought that the planet you see on the main menu screen was just Ariel (moon of Uranus, has steep ridges in-game) and that the station (Coriolis in standard, Orbis in Horizons) was just a generic station. It's an inventive idea to think there might be something hidden right under our noses but I'm sceptical that there is any meaning in this particular case.
+
+Thatchinho said:
+I looked but couldn’t see anything. They’re videos rather than the game engine so I don’t know whether the High Res screenshot option would work.
+
+Thatchinho said:
+Yeah, I was dubious about whether they related to anything, but the TDW stuff in the Codex talks about a dark orbis. And I can’t see any real signs of lights on the orbis from the Horizons screen. That could always just be down to contrast due to the lighting, but it’s still a possibility that it’s actually lightless.
+
+Sorry, I was confusing things by combining three separate hypotheses:
+1) the station shown in the basic game start menu screen is Raxxla Gateway.
+2) it is orbiting an alien planet (to keep some alignment with the original Holdstock novella description), which therefore might be a stray Guardian Ark ship (just a common sense possibility, otherwise how is it alien?)
+3) the station in the Horizons start menu screen is the stealthed Dark Wheel station mentioned in the codex. This is a follow-on from the first hypothesis. It has been suggested in the past that it is meaningless marketing artwork showing a generic station orbiting Arial from the similar look of the planetary ridges, but I have never seen any evidence to support that-has the skybox been matched to prove it is Arial? It may be meaningless artwork, but I am unconvinced.
+
+The first hypothesis is the important one here and it is based on three pieces of evidence:
+a) in the video that precedes the start screen the horns/wings of the guardian statuetteElite symbol seems to me to highlight a bright (giant or twin) yellow (G type) star.
+b) the Astophil and Stella poem alluded to in the codex has an interesting verse 22
+“In highest way of heav’n the Sun did ride,
+Progressing then from fair twins’ golden place:
+Having no scarf of clouds before his face,
+But shining forth of heat in his chief pride;
+When some fair ladies by hard promise tied,
+On horseback met him in his furious race,
+Yet each prepar’d with fan’s well-shading grace
+From that foe’s wounds their tender skins to hide.
+Stella alone with face unarmed march’d.
+Either to do like him which open shone,
+Or careless of the wealth because her own:
+Yet were the hid and meaner beauties parch’d,
+Her daintiest bare went free; the cause was this,
+The Sun, which others burn’d, did her but kiss.”
+
+Since the implication is that Stella represents Raxxla, then to me this describes the system where Raxxla is located:
+fair twin’s golden place -> twin G type star
+Having no scarf of clouds before his face -> no asteroid belt near the star
+some fair ladies by hard promise tied -> twin planets
+each prepar’d with fan’s well-shading grace -> each planet is ringed
+Stella alone with face unarmed march’d -> except for the Raxxla planet which has no ring
+The Sun, which others burn’d, did her but kiss -> and the Raxxla location is far from the star
+
+c) the basic game start menu screen shows an octahedral station (looks old design to me) in a system with twin G type stars.
+
+I have been trying to match the star patterns shown in that video for the last five weeks, so far without success. I have one more piece of (circumstantial) evidence to support this hypothesis but you’ll have to wait until tomorrow or Sunday for that (it’s on my gaming machine).
+Reactions:
+Rochester

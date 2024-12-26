@@ -1,0 +1,12 @@
+Ian Doncaster
+Feb 12, 2024
+#33,374
+FE2/FFE's autopilot worked from a gameplay experience point of view very much like supercruise assist + docking computer: you picked your target and it took you through space to it for a few minutes, then if it was a station you'd dock with it and if it was a planet you'd stop in the vicinity of it (usually moving slowly enough to avoid a collision). It even had some of the same quirks/bugs as supercruise, though not necessarily for the same reasons.
+
+From a lore perspective they were very different, though: FE2/FFE were extremely sub-luminal using (implausibly efficient) reaction drives, and so time acceleration was used to make the perceived time be minutes rather than days or weeks.
+
+
+
+The original Elite used microjumps in most versions, but a few of the later versions (ArcElite? ElitePlus? PC Elite? Can't remember exactly) had a continuous-travel drive instead which also had that supercruise sort of free-form movement feel to it (though without realistic scale, it interacted a bit differently with non-empty space and didn't require either time acceleration or superluminal speed)
+Reactions:
+Quaero, Han_Zen, CMDRCorrMorningstarFelian and 1 other person

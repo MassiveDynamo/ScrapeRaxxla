@@ -1,0 +1,7 @@
+ScolioTheMost
+Jan 22, 2020
+#14,754
+Raxxla is probably the algorithm that generates the galaxy. When you provide a seed (value) it grows a tree and can be used to travel (generate) other galaxies. The algorithm is Yggdrasil, the world tree, obfuscated in the code. This method is center (the Omphalos) to our Elite world.
+Last edited: Jan 22, 2020
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum, ExoForce and 2 others

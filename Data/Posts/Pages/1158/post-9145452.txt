@@ -1,0 +1,13 @@
+Han_Zen
+May 6, 2021
+#23,152
+simulacrae said:
+So looking at this again with stellarium I think the X in Sagittarius corresponds with the Lesser Mysteries (around the spring equinox) - While the Milky Way there is fancier - the effect of the Zodiacal Light is not as straight up and down - skews off to the south and is lower on the horizon (using Eleusis as location and March 12 of this year as probable time edit would be nice if i paid attention to things... I read new moon but it was 20 days after new moon... so ya well doesnt really affect the x locations...gerrr but indicates the moon plays a part in it...) . In the Fall the milky way might not be as fancy but the Zodiacal Light is much closer to straight up from the horizon - makes for a prettier "path of souls". And lets face it Heaven might be bright, but most souls were probably headed the other way.... don't forget Hades is where that hot chic Persephone is
+
+YA so a an X roughly in Sagittarius at Spring Equinox (Polis?)
+An X roughly in Gemini at Fall Equinox (1 Geminorum?)
+Click to expand...
+Roughly shouldn't be necessary in ED. The milky way is the galactic plane. Zero on the Y coordinate(Sag. A is at about - 20, but that is basically nothing).
+The ecliptic is Earth's orbit line.
+Reactions:
+simulacrae

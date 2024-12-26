@@ -1,0 +1,11 @@
+Jorki Rasalas
+Jul 22, 2021
+#24,015
+I know Thursday morning is server update day, but I'm so tired with lack of sleep due to the UK heatwave I forgot today's Thursday. So booted up the launcher, "Server Status OK", tried to launch game - "servers cannot be contacted"
+
+Why doesnt the server status reflect that they're offline for update? and when are they likely to be back up??
+Sleepy of Mu Leonis
+
+
+Edit: apparently some bug fixing & now back online.
+Last edited: Jul 22, 2021

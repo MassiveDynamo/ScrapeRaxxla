@@ -1,0 +1,20 @@
+Noobilite
+Jun 4, 2018
+#2,567
+Comandante said:
+Well, I just tried EDSM and typed RA[A-Z] (so RAA, RAB, RAC, ... , RAY, RAZ) in the search box - no matches came up for anything that matched RA??LA. So either it's NOT in EDSM, or there's no such system.
+
+I don't think EDSM allows for partial word searches.
+
+https://www.edsm.net/en/system/id/17903639/name/Dryu+Bra+XX-L+a7-0
+
+They need to change that btw. They need to add multiple ways to look up partial terms. Specifically mutliple * in one name.
+
+I just noticed something. EDSM states there are 8 celestial bodies in the system. I wonder if the guy saw that and assumed it meant 8 planets and not a star and 7 planets.
+
+It also says Lorrad discovered it... That is either rOmiLaYu's in game name or someone actually beat him to it by a short time.
+
+That system was first discovered for EDSM by lorrad on Oct 31, 2017, 6:42:38 PM.
+4 ships passed through Dryu Bra XX-L a7-0 space, including 3 ships in the last 7 days.
+0 ship passed through Dryu Bra XX-L a7-0 space in the last 24 hours.
+Last edited: Jun 4, 2018

@@ -1,0 +1,11 @@
+Cunder
+C
+Nov 7, 2022
+#27,711
+So would it be smart if possible to create a Sphere of influence based on year?
+Say if I were to were to draw a sphere stretches from Sol to Tau Ceti. Then move the sphere at the center of Sol then I would have a possible sphere of influence of that year.
+
+Then if I were to draw sphere of influence between Sol and Achenar and move that sphere so it is dead center of Sol I would have a possible sphere of influence of that year.
+So on and so forth. So we get a hard estimate of possible travel time they made between years and match up what we can in-between?
+Reactions:
+Louis Calvert and Rochester

@@ -1,0 +1,10 @@
+Jorki Rasalas
+Mar 13, 2021
+#21,956
+I've cut and cropped the Codex galactic region map. The black numbers run anticlockwise, why?
+Lost resolution in the process (its not great to start with) so cant see if the inner circle of black dots are also numbers.
+It seems to me that there is also a set of numbers in light blue running "vertically" down and horizontally across through Sag A* & it seems to tie in with the light blue galactic coordinate "squares".
+So, apart from the fact that I cant actually read much due to the poor resolution I've got (and my ageing eyes!) this seems to me to be a galactic coordinate scheme. It's strange because I thought immediately it was circular coordinates, but the "90 degree" light blue line lies at around 23 in the black numbering, whereas I'd have expected 90! so it's not in degrees of arc.
+Last edited: Mar 13, 2021
+Reactions:
+simulacrae, TrillClinton, Koben and 3 others

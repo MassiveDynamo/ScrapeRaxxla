@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jul 5, 2023
+#30,749
+John Stoutbeard said:
+Yes, been testing that installation in the past and recently, although last week I was not able to recon-scan the com-datapoints. It just failed. 'limpet failed'. This may have been during the DDoS attack / server overload at AWS/Frontier.
+Oh? hadn't heard of that.
+Don't think datapoints etc will be involved. It's a 2015 puzzle...probably just got to find the right hole to pop down...
+wearing a Mad Hatter's titfer and drinking a cup of tea and eating a strawberry jam tart
+Reactions:
+CMDRCorrMorningstarFelian and John Stoutbeard

@@ -1,0 +1,43 @@
+Ughkoff
+Apr 18, 2022
+#26,044
+Jorki Rasalas said:
+Current half-baked hypothesis:
+
+The alleged toast as a set of directions-within Sol leading to Mars or Jupiter?
+
+the jewel that burns on the brow of the mother of galaxies: Sol/Mother Gaia (galnet quote, & Gaia was the mother of Uranus the Heavens))
+
+the whisperer in witch-space, the siren of the deepest void: Earth- Li Qin Jao (inventor of hyperdrive) station, Venus (Marvel Comic siren), also in classical and medieval folklore Venus became associated with witchcraft via the ars veneris, or love magic, OR Burnell station (Jocelyn Bell Burnell found the first pulsar which elsewhere have been called sirens in space)
+
+The parent’s grief, the lover's woe: Jupiter (In Greek myth Zeus, lost his mortal son & had many lovers, four of them are the in-game Jupiter’s moons). Mars was god of War-> death of children & separation/death of lovers.
+
+The centre of the Raxxla logo might not be showing astronomical symbol for a star but instead Jupiter’s Great Red Spot!! So an Asteroid station hidden in Jupiter’s rings?? In the film 2001 Space Odyssey the monolith that was a transportation gateway was orbiting Jupiter. And we have in ED a tribute to 2001SO with The Blue Danube playing on entering a space station, as it did in the original game. Raxxla first documented rumour date only ~16 years after Mars terraformed. Allen Stroud’s PhD thesis quotes the lore bible as “In 2280, the first non-human relic was found in space. The object, no bigger than a child’s hand was collected by an orbital probe around Europa” (Jupiter’s fourth largest moon), yet this was changed in-game to being found on Mars! Why? too near the hidden easter egg?? Jupiter’s rings contain a lot of asteroids, so Raxxla here would be very difficult to find!
+
+BUT from Pyroboros’ research there are no outstanding BodyIDs in Sol. So either Raxxla is not a conventional body type, or it is not in Sol!
+
+We have in the Codex mention of the Omphalos Rift... an alien artefact, as a possible tunnel or gateway to Raxxla ...what body type could that be? Could be a space installation since they have tunnels! There are several installations in Sol, but from EDSM none near Jupiter or Mars. There are no installations in Shinrarta, and the Toast doesn’t seem to fit that system. From Pyroboros however there are 12 comets by Shinrarta Dehzra AB2j A ring...which seems suspiciously high. There are three broad green “lanes” in the logo, and six black areas. Are these supposed to indicate something related to the comets?? Is it a map of a ring system with a hidden asteroid station??
+
+The “SmallBody” data type mentioned in the journal files for comets is not in the current spec. In Journal specification v3.2 the only body types enumerated are:
+15.7 BodyType values
+"Null" (a barycentre )
+"Star"
+"Planet"
+"PlanetaryRing"
+"StellarRing"
+"Station"
+"AsteroidCluster"
+
+So, I guess it is possible that Raxxla is either a body type that is not disclosed to us in the journal spec, or it (or the Omphalos “tunnel”) is disguised as one of the aforementioned body types. IMHO it seems that the likeliest possibility for the Omphalos is that it’s a tunnel within an installation, which I believe have been in-game since gamma as a form of station. If we are looking for Raxxla directly then I suspect it’s unique, the body type is not disclosed, and it has very short detection range.
+
+I logged out at the Halo Ring of Jupiter...there’s an awful lotta rocks!
+Sigh
+Click to expand...
+there is an easter egg. hexagonal of Jupiter, but no matter how much I searched there, I didn’t find anything with which I could interact.
+try interacting with Voyager again, I didn't find anything special, but Voyager has been on the ad banners ever since release. suddenly you find something that we missed, a signal that needs to be decoded or something
+Attachments
+Jipiter.jpg
+112.9 KB · Views: 91
+Last edited: Apr 18, 2022
+Reactions:
+Louis Calvert and Adel

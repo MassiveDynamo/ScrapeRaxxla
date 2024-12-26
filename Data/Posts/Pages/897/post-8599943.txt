@@ -1,0 +1,9 @@
+Emperor
+Jul 18, 2020
+#17,940
+Oh on 7... If “-“ = 0 and “|” = 1 (binary) then it’s 1,2,3 in decimal... the order you have to do something.....?
+
+there are thoughts that Thargs work in octal due to the eight sided nature of their ships...
+Last edited: Jul 18, 2020
+Reactions:
+PeteACarter and Cmdr SpaceMerlin

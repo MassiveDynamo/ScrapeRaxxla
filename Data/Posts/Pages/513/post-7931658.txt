@@ -1,0 +1,46 @@
+Han_Zen
+Aug 5, 2019
+#10,254
+Time for a little tinfoil.
+
+I've tried to analyse the clues from the Codex in a slightly new way. The idea is that the Dark Wheel toast, is in Dark Wheel lingo and has to bee seen from their traditional perspective. Therefore I decided to build a hypothesis on the idea that 'Mother of Galaxies' is Galaxy 1, from the original Elite.
+
+What we have left of Galaxy 1, is the Lave cluster. This region is the biggest known anomaly in the galaxy. A bunch of systems are aligned in the galactic plane at Y = 48.75. The region also has an odd amount of planets with exactly one earth mass.
+
+I started checking with assumption that anything on the brow, should also be on Y = 48.75 or close. I therefore plotted lines like the Reorte - Riedquat line, to see what came up.
+I chose Riedquat as my local 'Omphalos', just to have a starting point.
+
+Projected in the Y = 48.75 plane, I got this.
+[spoler]
+
+[/spoiler]
+
+Orange line: Good old RR-line
+Purple line: Line Riedquat - Uszaa - Orrere. This follows the 'North axis' and almost hits Sag A.
+Green line: Zaonce - Riedquat line: Passes Alpha Cygni(Deneb) at about 0.8ly in the plane. 3D distance is about 2.6ly, well inside the system.
+Red Line: Tionisla - Riedquat line: Does not seem to hit anything in particular. I left it in because Tionisla could be 'parents grief' and Riedquat 'Lovers woe'? It also creates a few intersections.
+Grey dot: Alpha Cygni
+Purple dot: Sadr
+Teal dot: Star of India
+Black dot next to RR-line: Polaris
+The Sifi EP-T b3-3 is only a reference system at exactly Y = 48.75.
+
+I then moved to Princess Astrophel and the spiraling stars. Assuming it means Vega and the stars in the Milky Way band. My Milky Way band is set to Y = 48.75.
+Yellow line: Vega to Cygni X-3. Cygni X-3 is one of the strongest sirens and the it's in the deepest void in ED. https://en.wikipedia.org/wiki/Cygnus_X-3
+Blue line is the Sol(big blue dot) - Vega Line
+I also added a black line. This is the mystery line. If I have managed to plot correctly, this is the intersecting line between the Y = 48.75 plane and the Right ascension = 20h plane. I know this looks weird, but it's an attempt to fit the name as well in to the equation.
+
+Raxxla -> Ra = Right ascension, xx = 20, la = Lave or Lave altitude/ascension or 50(L=50) altitude/ascension.
+
+Interesting observations:
+Star of India is at R.A. 20 and double Y coordinate of Lave.
+Polaris is at four times Y coordinate of Lave.
+The line from Sol to Star of India also continue to V1357 Cygni. Wikipedia and Simbad list V1357 Cygni and HIP 98298 (Star of India) as the same star.
+Both Alpha Cygni and Star of India have an shadow object that appear in the local map, after a while. No other systems seem to have this.
+Hope you find something interesting here. Perhaps @simulacrae could make a prettier plot?
+
+Here is my plot:
+https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/?type=point;point=68.84375,48.75,69.75;visible=true;color=rgb(255,0,0);size=4&type=point;point=74.03125,48.75,64.75;visible=true;color=rgb(255,255,0);size=4&type=vector;vector=-5187.5,0,5000;visible=false;color=rgb(0,154,255);size=2;initialpt=74.03125,48.75,64.75&type=point;point=687.0625,-362.53125,-697.0625;visible=true;color=rgb(0,255,0);size=4&type=point;point=232.59375,-232.90625,-1761.625;visible=true;color=rgb(255,0,255);size=4&type=point;point=1099.21875,-146.6875,-133.59375;visible=true;color=rgb(153,0,0);size=4&type=point;point=-1405,46.125,132.5;visible=true;color=rgb(153,153,153);size=4&type=point;point=80.75,48.75,69.25;visible=true;color=rgb(0,0,0);size=4&type=vector;vector=-11906.25,0,500;visible=true;color=rgb(20,210,70);size=2;initialpt=80.75,48.75,69.25&type=point;point=71.625,47.75,64.8125;visible=false;color=rgb(166,77,121);size=4&type=vector;vector=2781.25,-1000,-4937.5;visible=false;color=rgb(0,154,255);size=2;initialpt=68.84375,48.75,69.75&type=point;point=-322.6875,194.59375,-212.4375;visible=true;color=rgb(0,0,0);size=4&type=vector;vector=0,0,25900;visible=true;color=rgb(105,17,192);size=2;initialpt=68.84375,48.75,69.75&type=point;point=75.75,48.75,75.15625;visible=true;color=rgb(0,0,255);size=4&type=vector;vector=-6906.25,0,-5406.25;visible=true;color=rgb(255,153,0);size=2;initialpt=75.75,48.75,75.15625&type=point;point=-1840.5625,95.25,610.3125;visible=true;color=rgb(0,255,255);size=4&type=point;point=82.25,48.75,68.15625;visible=true;color=rgb(197,23,208);size=4&type=vector;vector=-13406.25,0,1562.5;visible=true;color=rgb(255,0,0);size=2;initialpt=82.25,48.75,68.15625&type=point;point=-1695.28125,48.75,302.125;visible=true;color=rgb(255,255,0);size=4&type=point;point=-7095.375,401.25,2396.8125;visible=true;color=rgb(0,0,0);size=4&type=text;text=Sifi EP-T b3-3;visible=true;point=-1695.28125,48.75,302.125;color=rgb(0,0,0);font=Times New Roman;fontsize=14pt;bold=true;italic=false;fontmath=true;align=Upper-right&type=point;point=-1794.6875,53.6875,365.84375;visible=true;color=rgb(105,17,192);size=4&type=vector;vector=-389.6875,0,233.34375;visible=true;color=rgb(173,255,0);size=2;initialpt=-1405,48.75,132.5&type=point;point=0,0,0;visible=true;color=rgb(17,109,192);size=10&type=vector;vector=-36417.71875,443.9375,6522.71875;visible=true;color=rgb(255,255,0);size=2;initialpt=-21.90625,8.125,9&type=point;point=-1164.531,48.75,216.375;visible=true;color=rgb(0,0,0);size=4&type=point;point=-484.71875,48.6875,91.125;visible=true;color=rgb(255,0,0);size=4&type=vector;vector=-21906.25,0,9000;visible=true;color=rgb(17,109,192);size=2;initialpt=(0,48.75,0)&type=point;point=-193.094,48.75,80.75;visible=true;color=rgb(0,0,0);size=4&type=implicit;equation=138997.66992188x+587944.7109375y+327425.97460938z~0;cubes=16;visible=false;fixdomain=false;xmin=-4096;xmax=4096;ymin=0;ymax=4096;zmin=-4096;zmax=4096;alpha=105;format=normal;constcol=rgb(255,0,0)&type=implicit;equation=y~48.75;cubes=16;visible=false;fixdomain=true;xmin=-4048;xmax=2048;ymin=0;ymax=2048;zmin=-4048;zmax=2048;alpha=105;format=normal;constcol=rgb(255,0,0)&type=vector;vector=-2119.1875,1.25,806.0625;visible=true;color=rgb(0,0,0);size=2;initialpt=(-80.67,48.75,53.11)&type=vector;vector=-4355.625,0,4778.125;visible=true;color=rgb(173,255,0);size=2;initialpt=-1405,48.75,132.5&type=window;hsrmode=3;nomidpts=false;anaglyph=-1;center=131.90825407657894,-1526.6928054199732,-718.5495778471687,1;focus=0,0,0,1;up=0.014778761575128335,-0.42475628703552054,0.9051870993502414,1;transparent=false;alpha=140;twoviews=false;unlinkviews=false;axisextension=0.7;xaxislabel=x;yaxislabel=y;zaxislabel=z;edgeson=true;faceson=true;showbox=true;showaxes=false;showticks=true;perspective=true;centerxpercent=0.7067463563299086;centerypercent=0.8245887350054193;rotationsteps=30;autospin=true;xygrid=false;yzgrid=false;xzgrid=false;gridsonbox=true;gridplanes=false;gridcolor=rgb(128,128,128);xmin=-4096;xmax=4096;ymin=0;ymax=4096;zmin=-4096;zmax=4096;xscale=2048;yscale=2048;zscale=2048;zcmin=-8192;zcmax=8192;zoom=0.003784;xscalefactor=1;yscalefactor=1;zscalefactor=1
+Last edited: Aug 5, 2019
+Reactions:
+Thatchinho, Edelgard von Rhein, TotallySirius and 11 others

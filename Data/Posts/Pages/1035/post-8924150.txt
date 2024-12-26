@@ -1,0 +1,8 @@
+Tibercov83
+T
+Jan 28, 2021
+#20,692
+Hi, i asked frontier about the star sol constantly scanning, finishing and restarting. The reply seems it may be a bug. Has anyone had the same scanning issue with other stars?
+Attachments
+Screenshot_20210128_194100.jpg
+106.8 KB · Views: 110

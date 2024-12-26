@@ -1,0 +1,22 @@
+Jorki Rasalas
+Jul 25, 2019
+#9,785
+Scytale said:
+Right. My point was, if that station is so well obfuscated, so dark, anybody who wants to find it will have to explore (I bet in normal flight) different possible orbits.
+Is there a way (ofc it is doing some statistics math) to determinate the most probable, based on the average values of a set of already known stations? In other terms, are the station orbits totally random in ED or do they follow some rule, probably based on planetary parameters. Knowing that formula might help those who want to look for that hidden TDW station. Because, as I said, I don't think that FSS, probes, and randomly orbiting the body in SC a couple of times may be enough to unveil it. Would already have been done.
+(I am not saying I am waiting for our brilliant Herr Professor-Doktor to do the work and figure out that formula, but it could be interesting to investigate if there is such a feature in ED . Canonn nerds never wondered about it ?)
+
+The thing is, we even don't know if the "ED Raxxla" follows the lore of " TDW novel Raxxla". We just don't know what FD have done with RH's creation.
+It could be just as Rafe Zetter described it, or it could be just anything else that DB and MB imagined and deigned to implement into the game, with much, little or none respect for the original. Is it a functional , or is it a barren Soontill-like planet, another petty, shortviewed and finally uninteresting FD creation ?
+Best question which should be asked to DB is not "Where is Raxxla " but "What is Raxxla". The Codex doesn't help, but succeeds in muddying the waters even more.
+(I, for myself, always liked the "Oolite Raxxla". Not saying it is what we have in ED.)
+Click to expand...
+
+It’s not occurred to me that TDW station might not be visible in SC. To date I have assumed that it should be visible in SC and would also be detected as a human signal by mapping the appropriate 8th moon. If this hypothesis is incorrect and we have to drop out of SC at the correct orbital point at the correct 8th moon to stand a chance of detecting it then it might never be found
+
+The station should be orbiting an 8th moon, which in turn is orbiting the parent planet. The obvious thing for FD to do would be to locate the station at one of the Lagrange points, I’m guessing at L1 or L2 (https://www.google.co.uk/search?sou...131j0i131j46.PU4rlvg8pEs#imgrc=_yMEjRbtc4mfyM) or it could be orbiting around the moon as the diagram shows. Either of these three possibilities seems to comply with the Codex phrasing, and possibly the Horizons start menu pic.
+
+I don’t think we have any indication of likely detection range do we? All we know is that it’s operating at minimum power, hence dark. Can we deduce any of the likely characteristics? We know it’s an old station (look at the Horizons pic, that’s not a current station design), therefore probably smaller mass than current stations. Can we estimate how much power is minimum?
+Last edited: Jul 25, 2019
+Reactions:
+Scytale

@@ -1,0 +1,6 @@
+Frankymole
+Dec 1, 2021
+#24,921
+Han_Zen said:
+I suspect that the comets are invisible, because FD does not have a satisfactory implementation of them yet. I think they want them to look cool, have a tail and be visible in SC.
+Comets don't develop their tails until they come close to a star though. When they're in far off stages of their orbits they would look just like an nice asteroid from a ring (possibly dirtier).

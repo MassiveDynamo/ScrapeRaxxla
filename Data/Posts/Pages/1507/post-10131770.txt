@@ -1,0 +1,21 @@
+Jorki Rasalas
+Apr 25, 2023
+#30,121
+Han_Zen said:
+Anagrams are funny and “Princess Astrophel and the Spiralling Stars” is a long title. Some form of code is usually more FDs modus operandi.
+
+It's still enjoyable to play with anagrams. I like to combine these to online solver tools, when I play with them:
+Internet Anagram Server / I, Rearrangement Servant : anagrams, wordplay, solve, crossword, transmogrify, pangram, shuffle, fun
+Discover the magic of anagrams with the Internet Anagram Server
+wordsmith.org
+
+They give a balance of between solving huge anagrams and the ability to add 'custom' words.
+
+An example of what you can get from “Princess Astrophel and the Spiralling Stars”: SCAN ALTAIRS THIRD PLANET SENSORS RIPPLES GH
+
+The GH at the end is a bit iffy, but I interpret it as ' Good Hunting'
+Click to expand...
+My hypothesis, if I can justifiably call it that, is that MB has given us a clue to Raxxla’s location and it lies in the text string “Princess Astrophel and the Spiralling Stars”. I suspect a subset of the letters within that string, when appropriately rearranged, gives the system name. However the ED system naming is rather weird and an everyday English dictionary cannot help...and last year doing the check manually I found 90+ potential matches within 64ly of Sol...
+Last edited: Apr 25, 2023
+Reactions:
+CMDRCorrMorningstarFelian and Han_Zen

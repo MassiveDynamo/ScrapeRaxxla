@@ -1,0 +1,19 @@
+simulacrae
+Sep 8, 2024
+#34,742
+Ian Doncaster said:
+"Randomise the list order" is such an obvious thing to do (given that they're building a random system name generator in the first place) and there's at least three different plausible ways to do it with essentially identical effects.
+- concatenate all the lists, shuffle them, draw from the top
+- concatenate all the lists, don't shuffle them, draw from a random index
+- don't concatenate the lists, pick a random list each time and draw from the top
+All of these would give partial usage of each list - automatically reserving names for later. All of these are simpler than dividing each list into a "now" and "later" set by hand first, ensuring that just enough are in the "now" set to cover whatever the system use turns out to be (bearing in mind that "name after famous thing" is the rarer form - various syllable concatentations are far more common for the randomly-named systems)
+
+
+Also: most of the named-by-theme systems particularly clustered. Looking at the Greek Pantheon set as used:
+
+We don't need a particular theory to explain why these systems were allocated names in consecutive order ... because there's no evidence of that happening to start with: they're scattered in lots of different directions, there are other systems from other lists "between" them on pretty much any criteria whether spatial or masscode or internal ID or distance from Sol or anything else you might use to suggest the "order" in which they were allocated.
+
+(Their distances to Sol all within a fairly narrow shell, true - but they still span a wide enough range for many other lists to overlap it)
+Click to expand...
+
+How do you get the Internal ID ?

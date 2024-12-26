@@ -1,0 +1,11 @@
+Han_Zen
+Dec 3, 2018
+#4,375
+Jorki Rasalas said:
+Ah I see. When you get a ways out from the bubble there’s a load of interstellar dust, some is reddish, the rest is bluish; so I think the blue in the image is dust rather than blue nebulosity as in the Pleiades. I was going to ask about this since I remember the Pleiades colour was adjusted not so long ago to make it true to life & I think it was originally reddish, however has the start video changed at all?
+
+But I started young Tyko on his training today & of course he started his journeying in the bubble. Looking at the background skybox “it” may be closer in than I thought; there’s a lot of dust around Asellus Primus area. I’m wondering if FD have been really sneaky and adjusted the size of BLoop and Witchhead to further obfuscate; it’s features A & B that are the real sticking point. I need to play around in galmap, but shoulder was hurting & dinnertime so I closed the pc down.
+
+The movies you are investigating are open to watch, in the Movies folder of your installation. The startup movie looks like it was updated for Beyond chapter 1.
+Reactions:
+SpocksOddSocks

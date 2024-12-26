@@ -1,0 +1,7 @@
+yoda711
+Apr 4, 2019
+#7,254
+CMDR Mister Dartay said:
+With regard to Stellarium, I've actually been messaging the mods of r/askastronomy to see if they could help us out with this matter (more on that below), they mentioned using something called SpaceEngine to figure out the location. Apparently it lets you travel the milky way in a manner vaguely similar to the ED galaxy map. I haven't looked into that software myself yet.
+
+You should ask them if they know of any online tools that would be like a virtual star tracker like those used on real spacecraft for navigation.

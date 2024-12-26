@@ -1,0 +1,9 @@
+electro
+Oct 12, 2021
+#24,468
+Is there someone that have found a NPC character with a familyname of Ryder?
+I only found one engineer and the player faction (Ryders of the void)
+But my guess is that this is important.. could you all search your game logfiles which system Ryder family exists
+Last edited: Oct 12, 2021
+Reactions:
+simulacrae

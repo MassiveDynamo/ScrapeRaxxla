@@ -1,0 +1,17 @@
+Machina Ergo Sum
+Apr 11, 2020
+#16,015
+Vetinari said:
+Does it change if you mine the Core, assuming only one in a belt? I doubt it as probably a generic sound for Core potential belts if that is what it signifies but just curious.
+
+Still doesn't really answer what that Visitor Beacon is for, I mean I've seen some that almost introduce the thing its talking about almost like a new player guide. Some of the ones just describing what a geo-signal is for example. So maybe its that type just saying that some asteroids have this other sound, or maybe it hints at something else, or its just an easter egg or its just fdev messing with us meta style which they do do and is great fun I think.
+
+edit: it could be as simple as fdev saying to players who don't know, listen to the bodies in the FSS they have real sounds from space
+
+Its not linked to any of the authorised literature is it, there was a book of short novellas as well as the novels, anything in any of them?
+Click to expand...
+
+Well I just pm @Oseris to confirm that its the music effect again but if its the same sound as @alexzk heard, then it is just a effect marking Rocky belts and not Metal Rich or Icy belts. I don't think cores are involved. Just did a rough test but did not go into the belts to search for cores but I'm pretty confident my small sample testing is right. You guys can do this yourself by clicking on the belts in system.
+Last edited: Apr 11, 2020
+Reactions:
+[PS4] Filthymick420 and Vetinari

@@ -1,0 +1,11 @@
+Han_Zen
+Mar 16, 2022
+#25,726
+CMDRCorrMorningstarFelian said:
+Has anyone seriously looked into why the Frontier gazette says Altair should have 20 bodies but has 5 planets in Elite Dangerous. Ackcanphi should have had earth-like but is just 2 stars. This is just sampling of the initial discovery reports being not even remotely close to what is in-game. There are also several systems such as Enaness that are straight up completely missing. These lore important systems. Shouldn't these match reasonably closely. Even factoring in 2296 - 3308 is 1,012 years and it has been 1,211 years since the first generation ship (2097 per Galnet) there should be at least reasonable consistency. I could understand if one of the systems was Jackson's Lighthouse which per the system description the binary stars formed the magnetar in 2672. I mean if key pieces are gone the immediate assumption should not be retconn but that maybe you need to look nearby or see if the system had a name change over all those centuries.
+The Gazetteer isn’t lore. Almost all systems have changed their composition, since the Fe2 galaxy. The system generator was not as accurate, as the one in ED.
+many systems were not realistic or even physically possible.
+
+I would focus on the stories from the old games. Not the numbers.
+Reactions:
+CMDRCorrMorningstarFelian and Rochester

@@ -1,0 +1,28 @@
+Rochester
+Dec 23, 2023
+#32,719
+Louis Calvert said:
+Cool articles Brookes explained something similar in his interview with DJ (about modelling systems by starting with a dust cloud and ageing them up).
+
+Personally I'd suspect that the "passing comets and rogue planets" are mathematically modelled into the data, rather than physically modelled into the game.
+
+I suspect that's why there's the entry in the planet bodies list for Rogue Planets but no-one's found one. Necessary for Stellar Forge, not actually part of the game.
+
+That might also explain why there are comets in there and they've never had physical representation in-game, it might simply be an artefact of the Stellar Forge process we were never meant to see. If there hadn't been the strange oddities with some things ending up orbiting comets - and players using the Journal files to make out-of-game-plugin systems - then we'd never know they were there.
+Click to expand...
+I agree, comets are obviously programmed into the game, and I would presume Rogue planets too, but I believe many Cmdrs probably presumed said rogues would exist on their own, eg instances without a star, whereas I suspect they do exist in game but either they do so as you identify, as an artefact or unfinished aspect of the forge, or / and they exist as stable points in a system as ‘captured’ bodies, existing on the perimeter of systems?
+
+Although there was that comment by Brookes that rogues not needing a star?
+
+We have a great deal of supposition about the game, because FD seriously don’t want us looking at how it works, presumably I suspect there is a great deal more going on behind the curtains, but ultimately I feel that is directly linked to how FD originally wanted the game to work pre-launch.
+
+I suspect rather a lot of content was actually dropped from the game, during a pre-crunch launch phase, some parts may have been coded in error, or applied in haste, resulting in various anomalous areas in game, I don’t hold with the older concept the FD had plans for future fixes / development, one might presume that to be PR spin.
+
+If such assets existed in game not as an aspect of the forge, but intended I would advocate FD would at the first instance want to build and inject these graphical elements… so my suspicion is it’s unintentional, and likely more an example of areas of the game that was never fully developed.
+
+As example: there is code in game which details many modules we have never utilised in game for over 10 years… evidence of development concepts they built and dropped.
+
+Its as possible rogue planets do exist, but they are simply data, to keep the cosmos together, but I think they ‘wanted’ to build on them but they never got around to it and it’s been brushed under the carpet,
+Last edited: Dec 23, 2023
+Reactions:
+Bushido Brown and Louis Calvert

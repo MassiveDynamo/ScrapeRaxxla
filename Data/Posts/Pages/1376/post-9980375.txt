@@ -1,0 +1,15 @@
+Han_Zen
+Oct 24, 2022
+#27,505
+Rochester said:
+Little more info please; sounds interesting?
+
+I don’t think this thread ought to be a resource for ‘undocumented’ rumours, more of a repository of imaginative lateral thinking, or quantum leaps in logic, at least based upon some factual information seed….
+
+View attachment 329008
+It's not that mysterious. I had a game crash and the text was in the Windows crash dump file.
+Not sure if I'm supposed to look there. It feels a little like hacking.
+
+I was in 30 Comae Berenices at the time of the crash, but I doubt that had anything to do with it.
+Reactions:
+rOmiLaYu, Macros Black, simulacrae and 1 other person

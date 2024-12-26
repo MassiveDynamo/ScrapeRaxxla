@@ -1,0 +1,33 @@
+Jah'bastah II
+Sep 13, 2018
+#3,483
+Because the name Raxxla is nowhere to be found (I checked my astronomy books and other sources, including the obscure "Star Names and Their Meanings" by R. Hinckley Allen; and the incredibly general: Google search) I can't help but notice how symmetric the word is and go on this strange crypto-tangent (other posts by me on this thread), so yeah, here's another piece based on the 'sator' or palindrome square. Door = key = X marks the spot. Since I'm new, I'm not as familiar with the lore, but I'm doing my best to read up and catch up on all the source material. Hence, the non-lore inquiries and exploration. Why two X's in Raxxla? Because it looks cool/alien? Very uncommon in natural language. When writers make up words, they more often than not base it on things they know. So the name itself may signify something we haven't discovered yet. I may be adding irrelevant information, but I'm hoping that, just like mathematicians studying fireflies, I can add something to the table that will inspire other more fruitful thought.
+
+Code:
+R A X X L A
+A ? R D ? L
+X D O O R X
+X R O O D X
+L ? D R ? A
+A L X X A R
+
+At one point in my search, I thought raxxla had to do with roman numerals:
+
+R: roman
+A: either an inverted V (5) or Λ (etruscan or IIII prior notches, so also 5)
+X: 10
+L: 50
+
+It would then read as roman 5-10-10-50-5. I know, a bit of a stretch. Anyway, if these are sectors, here's a sector (approx 13k LY from sol) that could be candidate for the host system:
+
+II. [5, 10] Bleae Aeh, Synookeia, Bleia Hypai, Lyookaa
+X = 6335 to 7615
+Y = -1305 to -25
+Z = 11735 to 13015
+
+Then we have 3 remaining numbers, [10,50,5] to further subdivide coords or look for systems that match these somehow.
+
+Of course, I don't believe this is relevant in any way. Just adding some routes.
+Last edited: Sep 13, 2018
+Reactions:
+Hanerib

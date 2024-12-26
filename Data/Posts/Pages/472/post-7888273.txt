@@ -1,0 +1,11 @@
+Macros Black
+Jul 8, 2019
+#9,437
+Could not repro the CTD.
+Source: https://youtu.be/MGgCvA5rGzA
+
+Numerous systems have appeared in various patch notes for CTD fixes for one reason or another.
+Edit: Not all for naught though, found an untagged main catalog star.
+Last edited: Jul 8, 2019
+Reactions:
+Jorki Rasalas

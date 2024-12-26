@@ -1,0 +1,23 @@
+lorrad
+Feb 8, 2018
+#1,677
+MakahiGames said:
+This is quite thought provoking. I must say it does very much feel like we're no closer to finding Raxxla than before ED was released. Like, it's all well and good saying Raxxla is in the game but without any legitimate leads it's basically useless info.
+
+But if Raxxla isn't it's name, but it's location, now that's interesting.
+
+I swear I read recently there is a way to query EDDB to find systems with specific bodies i.e. ammonia worlds that are within x LS of the main star etc.. can't for the life of me remember where I found it though :S!
+
+That's a bodies search in ROSS at EDDB.IO.
+
+However it's been changed so you can no longer search the entire DB but are restricted to 100 lyr around a target system, there may be away around that depending on your search terms.
+
+However you can download the entire DB https://eddb.io/api and create your own db to search any way you want.
+Your EDDiscovery DB has all that too so you could pick it apart too.
+
+May be useless for Raxxla as EDDB only has stuff already found.
+
+Best bet would be to get FancyBear to hack Fdev. :x
+Last edited: Feb 8, 2018
+Reactions:
+Macros Black

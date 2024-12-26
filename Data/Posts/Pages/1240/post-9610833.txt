@@ -1,0 +1,16 @@
+yelboc
+Nov 17, 2021
+#24,800
+Yes, checking orbits of the planets in Sol themselves some time ago, they didn't match Stellarium's positions at any date I could find. Stellarium's modelling is sophisticated. They use VSOP87 which should give 1 arc second accuracy over the interval we are considering for the major bodies. Things like Charon, we're pushing even Stellarium's accuracy by 3307.
+
+VSOP model - Wikipedia
+en.wikipedia.org
+
+The models in E: D are, I think quite simple ellipsoidal models with no adjustments for multi-body interactions, which is not surprising really.
+
+Stellarium also accounts for the motion of the galaxy, something which is not modelled in E: D at all, so the skybox in E: D wont match Stellarium accurately either. Elite has the star positions as they were in the year 2000, apart from nebulas which are as per 1950
+
+[edit: must say I prefer the other VSOP ]
+Last edited: Nov 17, 2021
+Reactions:
+Han_Zen, electro and Jorki Rasalas

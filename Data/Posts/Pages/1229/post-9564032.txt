@@ -1,0 +1,7 @@
+electro
+Oct 20, 2021
+#24,561
+Does someone know if there is an orbitcalculator (rather graphical) outside the game that shows chirons orbit all the way to 3310?
+I want to try to land on chiron , even if it not visible. This should be possible to measure distance between landable moons in solar system (to sync orbital time)
+And then get three / four point of known moons in the solarsystem to chiron and then land on it.
+But I NEED the orbitcalculator , with graphics since it will help when making the distances out.

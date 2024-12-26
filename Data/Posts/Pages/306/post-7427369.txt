@@ -1,0 +1,12 @@
+Han_Zen
+Feb 18, 2019
+#6,117
+oblackhando said:
+This is 100% true but I wasnt sure that we confirmed thats what COL 70 sector fy-n c21-3 looked like just that this was the system the probe came from. Its been awhile since I looked over all that so could be remembering it wrong.
+
+There are four systems on the map. Merope and COL 70 sector fy-n c21-3 are fixed. The one on the bottom is the system where you get the map in the Thargoid device. The one on the top is the target system, to find the next site.
+
+Three known systems, to get the next one.
+
+Three isn't really enough to get a precise position. You will often get one false solution. The Canonn tool matches the results with known systems coordinates in EDSM, to filter out the false positives. Quite clever.
+Last edited: Feb 18, 2019

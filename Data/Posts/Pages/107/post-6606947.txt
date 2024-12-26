@@ -1,0 +1,9 @@
+Comandante
+Apr 8, 2018
+#2,132
+Jaiotu said:
+You get the "Frame shift drive operating beyond safety limits" audible message when traveling toward Sirius B from Sirius A. It happens when you are still a great distance from the White Dwarf. This could be linked to the description of the system found in the Gazetteer:
+
+"Lucifer itself is an interesting planet. It orbits Sirius B very closely indeed, hence the enormous power the corporation can extract using the coils wrapped around the planet, and from their solar collector panels. Visitors should beware of the high radiation levels mainly from Sirius B, but also from the fuel plant."
+
+OK, makes sense now - thanks for the clarification. TBH I don't think our answer lies in the overcharged FSD, but it doesn't hurt to try (everything).

@@ -1,0 +1,17 @@
+HoneyDaPooh
+H
+Nov 26, 2018
+#4,301
+I've been lurking reading this thread for a few weeks. I, too, would like to embark on a quest to find Raxxla. I have a few theories (many of them touched upon in this thread) and therefore a few areas to search, but I fear the search is too immense for a lone commander.
+
+I feel like we need a tool to organize the search. Precisely, I would like to have some sort of unified exploration schedule as well as an automated way for commanders to report on the systems and planets they have explored.
+
+Coding is my craft so I have started to build a tool, that rests upon 2 components :
+
+1. A website where one can browse the ongoing expeditions, which are sets of systems currently explored. Systems can then be assigned or self-assigned for exploration and one can view the status of each celestial body in every system ('view' as in 'explored' or not).
+
+2. A Windows client that reads the game's logs and update the status of visited systems and flown-by bodies automatically. This would account for the changes in the new discovery scanner.
+
+Here are the github repos. Don't mind the github organization name, it's botched. My only intent was to draw a parallel between this quest and the Knights of the Round Table's for the Holy Grail. I am almost done with the backend part, but quite a bit of work remains to be done with the other parts.
+
+Would you guys think such a tool would be useful ?

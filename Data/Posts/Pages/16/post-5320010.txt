@@ -1,0 +1,17 @@
+AndyJ
+Mar 27, 2017
+#313
+drew said:
+There are vague references in missions issued by the Dark Wheel Faction in Shinrarta Dezhra, these may be important, they may not.
+
+AFAIK Drew, these original missions for Elite level and "Founding Members of the Elite" haven't been seen for over a year now.
+They weren't originally ported to the new mission system that arrived with version 1.5/2.0 - I asked about them being missing in a dev live-stream at the time (which I haven't a link for unfortunately) and got an answer to the effect that they hadn't had time to add them...
+
+I did later raise a support ticket too but never did get an answer on it, other than "thanks, will chase it up".
+
+Maybe you could ask FD / MB if they were important and are still meant to be in the game?
+It might be they've never been added. It might be the change in v2.0 to limit "Founder or Elite" missions to the Founders system isn't working properly when selecting missions to display.
+
+It'd be nice to know too if anything's planned to happen with the Dark Wheel faction in game?
+Likewise the "Founding members of the Elite". Rare missions were promised once upon a kickstarter, but have never materialised...
+Last edited: Mar 27, 2017

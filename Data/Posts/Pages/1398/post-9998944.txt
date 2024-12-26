@@ -1,0 +1,25 @@
+Rochester
+Nov 17, 2022
+#27,942
+SongOfTheVoid said:
+The vast majority of them are clearly from the "Tidyup" phase after galaxy generation which from appearances occured in the following order:
+Form Galaxy and distribute matter, Add Darkmatter and recalculate distribution and streams, add additional stars from HIP and other indexes and papers, Remove duplicates from last step, Apply max-hidden flag status to confirmed 'blocked to client-server access' systems, Apply soft-hidden flag status to special imported list.
+Gating is 100% still in use though ive no idea regarding rankings or the like Human stuff/Lore/puzzles has no interest for me though I can confirm for you that the game is using a "Content X requires PlayerID-YourID to have triggered/obtained 'ServerFlag-Event' before the Server will honour/reply to requests for interacting with that content."...
+You should also notice the difference in grading between the hidden systems as Im sure everyone yourd ever seen before would at least tell you the systems StarType and information, ones that are max level hidden will even hide that from you and will merely show the loading information placeholder, that right there from a ex-Devs point of view is what we call the smoking gun of the gating system as the systems "You must have Server Flag xxxx to interact with this object" kicks in even on the galaxymap level... that is therefore very very specific to its function. Ie> This is why when you select a Perm locked system itll show a flag on the information for it being perm locked, but once you have the permit you wont get the same information screen on galmap as, even on the galmap level your Server-Flags (Which is what Permits are) get checked.
+Spoilers: Every "I Will map every star in X ly radius of Sol" project so far is doomed at the start as there are several hundred soft and hard hidden systems in that region alone So If they do not KNOW 'EXACTLY' what they are looking for, theyll never find it
+Click to expand...
+Well we know certain systems are gated via permits, and also certainly that players cannot ever access certain permits ever because FD has confirmed that. So it’s not beyond belief they’ve hidden systems for narrative reasons.
+
+Bruce Forsything exploration won’t I agree find something if it’s narratively gated, that’s true and something we (I hope) all take into consideration as being a reality.
+
+I certainly hold this to heart, and I presume certain mysteries we won’t find because FD simply don’t want us to solve them until they want them solved.
+
+I partly quest for the fun of it, to obtain verification of such insight, but also potentially identify arcane mysteries which if they exist, give a flavour to pointless exploration.
+
+So far, for instance we now know it’s pointless trying to obtain a mysterious invitation off the DW because FD effectively confirmed its archived, likely as are certain systems linked to it…
+
+Difficult to utilise this as information to cross examine FD as they will attribute it to data mining, but food for thought.
+
+I presume many who quest are very much aware much of it is totally pointless. It’s tin-foil not science.
+
+Last edited: Nov 17, 2022

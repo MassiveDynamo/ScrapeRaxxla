@@ -1,0 +1,26 @@
+Pyroboros
+Nov 28, 2022
+#28,111
+Louis Calvert said:
+... Let's explore some of the plausible Raxxlas that have been put forward here over the years. I've made a start below, and tried to arrange them from "easiest" to "hardest" to implement and maintain in the game - input most welcome in better defining these or adding more versions ...
+Recent events make number 5 win the race for me.
+
+In the Journal docs (this is Official no Data mining conspiracy) there was always under
+SPOILER: 15.2 STAR DESCRIPTIONS
+
+Stellar Forge seems to be designed to be able to create Exotic Stars and Rogue Planets. (None have been found)
+
+In a Stream from MalikVR Dr Kay Ross (former Developer for ED ) was in the Chat (~1.Sep.2022) and People started asking her Questions. One response was that she did work on something that could be expanded on to make objects visible from other systems. That was off course Stargoid related.
+Nevertheless the Game has Star Descriptions that no one ever has found.
+Furthermore there are two 15.7 BodyType values that have been found but are not in the documentation.
+So why have Exoticstars and RoguePlanets in the Documentation but (not allowed to further mention) and (not allowed to further mention) not?
+
+
+For the part what would be needed to for such a Raxxla.
+The mechanisms that are used for the whole Stargoid Stuff is possible since a very early State of the Game. Maybe not to its full extend.
+Since these new Stargoids behave pretty much like (superluminal) RoguePlanets and Stellar Forge seems to support RPs from early on. Raxxla could be of similar nature.
+
+IMO an Barren Moon or a Rogue Planet are the most likely Raxxla Versions. Barren moon the easier option.
+I only know a few bits and pices about the Cobra Engine but i could imagine it to be able to load Modules like Raxxla assets dynamically from the server as long as the expected requests are limited both spatially and temporally (not many clients want that info at the same time). which is a reasonable assumption for a mystery yet to be solved. After its been discovered an Patch can put it in the game files permanently.
+Reactions:
+Louis Calvert and CMDRCorrMorningstarFelian

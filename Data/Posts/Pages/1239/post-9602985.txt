@@ -1,0 +1,45 @@
+Han_Zen
+Nov 12, 2021
+#24,780
+Missing Body IDs are probably comets.
+
+List of bodies in Tau Ceti:
+BodyID Body Ring ParentID
+BodyID:0 Tau Ceti Tau Ceti A Belt
+BodyID:1 Ring: 1
+0
+BodyID:2 Tau Ceti A Belt Cluster 1
+1
+BodyID:3 Tau Ceti A Belt Cluster 2
+1
+BodyID:4 Tau Ceti A Belt Cluster 3
+1
+BodyID:5 Tau Ceti A Belt Cluster 4
+1
+BodyID:6 Saunders's Claim
+0
+BodyID:7 Taylor Colony
+0
+BodyID:8 Bell's Wreck
+0
+BodyID:9 Tau Ceti 4
+0
+BodyID:10 Tau Ceti 5
+0
+BodyID:11
+BodyID:12
+BodyID":13 Tau Ceti 6
+0
+
+As you can see, there are two empty IDs in the list. These are located between Tau Ceti 5 and 6. In the game, there is nothing there.
+
+It used to be though:
+
+SPOILER: OLD SYSTEM
+
+
+Avagadro's Enterprise used to orbit an invisible comet, between TauCeti 5 and 6. The station now orbit a planet, but the comet is probably stil there. It also seem to have a twin.
+
+Pics from this post: https://forums.frontier.co.uk/threa...e-still-not-found-raxxla.555068/#post-8713255
+Reactions:
+electro and Jorki Rasalas

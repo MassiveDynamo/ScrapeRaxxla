@@ -1,0 +1,9 @@
+John Stoutbeard
+May 8, 2019
+#7,986
+Jorki Rasalas said:
+on the hypothesis that it may be very obvious, and the RAX_XLA letters spell out system coordinates, I've just jumped from Core Sys Sector ON-T b3-7 (18, 1, 24) to LHS 2429 (24, 12, 1)
+conclusion: nothing to report!
+You're doing it wrong. You must calculate the coordinates from the centerpoint of Omphalos Rift.
+Reactions:
+Jorki Rasalas

@@ -1,0 +1,18 @@
+Pyroboros
+Jan 28, 2022
+#25,199
+EDSM Duplicate Names (570 Systems) there also triple and a quadName
+
+StellarForge would call them:
+"Synuefe QZ-O e6-23" <-> (64#: 100103349436) and
+"Prua Dryoae UO-A f5" <-> (64#: 2852647525) = "Prua Dryoae UO-A f0-5"
+
+my guess (can't start game atm) the Synuefe is the one whit the bilionares description.
+
+SystemNames do not need to be uniqe (but still most are) only the 64bit# must be uniqe
+there is also this List whit Systems having same Coordinates.
+
+Sadly nothing to worry to much about.
+Last edited: Jan 28, 2022
+Reactions:
+Adel and Han_Zen

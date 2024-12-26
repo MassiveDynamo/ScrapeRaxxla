@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jun 14, 2019
+#8,916
+sam23694 said:
+I think this most likely hits the nail on the head. My assumption is that whenever you are jumping to a system you not only receive the system data you also receive information on everything nearby in order to render the skybox. If there is a nebula then the rendering process is slightly more intensive then normal (it's projecting a volumetric cloud onto a skybox afterall, leading to a slightly longer load time, and tunnel spin. From my understanding of how 3D rendering works this means it's not necessarily dependant on network speed, but on how it's coded. One or two additional seconds added to a loading screen doesn't seem too extreme.
+
+I have also seen the boxy sectors of stars when I increased the number of stars rendered in the config file. Again, my assumption is that it renders the stars in the skybox "by sector", dividing the total number (by default 4000) among the sectors in some weird way, resulting in denser sectors being visibly boxy. I've seen areas on the galmap that are actually in a box shape, but I've also seen this skybox bug everywhere.
+Click to expand...
+
+I’m slowly heading back towards a nebula, I’ll monitor this and see if the spinning effect becomes more noticeable as I near it (may take a while, I keep finding more things to look at, plus playing around with new hosas binds...).

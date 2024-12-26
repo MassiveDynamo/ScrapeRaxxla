@@ -1,0 +1,38 @@
+John Stoutbeard
+Jan 8, 2023
+#28,813
+Rochester said:
+if it were so I would propose FD would just use a different faction name, and not utilise a mis-spelling
+Jorki Rasalas said:
+I don't understand the background sim anywhere near enough to consider/comment on that.
+Jorki Rasalas said:
+getting to elite rank to receive the SD permit is then a first step along that journey. Those PF TB are only in SD
+
+That's the topic : "Have MB/DB have put in place conditions to allow commander discovery of Raxxla?"
+No need to understand the BGS, it is a different thing.
+
+Misspelling in public articles has no bearing on conditional checks. Conditional checks uses a 'PilotsFederation' reference (this is the Named-ID of the faction).
+Spelling errors in Tourist Beacons (which are pieces of story IMHO) most likely use text that was typed by staff.
+Spelling errors in ID (such as a faction ID) would be critical.
+Spelling errors in the Localisation (or displayname of the faction, displayed on your screen) is irrelevant, unless MB intended to confuse us.
+
+I'll humor you with another Rhetorical question - this is just an example
+If I was MB, would I have put conditions in front of the Raxxla discovery? Absolutely.
+What conditions would I have used?
+Game progress condition; Elite Pilot/Trade/explorer rank.
+Discovered some clues; Must have visited "Place ABC" + "Found Beacon 1, 2 and 3".
+Superpower reputation: Alliance (ally)
+Faction TDW : Ally
+Faction XYZ: Enemy
+A timed condition? Perhaps a 30 day one? Inbox notification of XYZ? Expires after 30 days.
+Travel trought certain systems System CYZ+System ABC+System GHI?
+Must have found a certain Key, Software Decryption Key? From scanning a Beacon/Outpost/Encoded USS ... ? (I read all my inbox scanning messages, it's Tinfoil deluxe).
+
+Back to real-John now.
+Do I believe PF and TDW reputation is part of a condition to access Raxxla?
+Most likely, I'm in the 75% ballpark convinced it is. Which rank for each of them then? Hostile, cordial, ally - I don't know.
+
+For any other conditions, except the 'Elite' requirement, I don't know.
+This is what I try to learn to try/fail loops while I'm playing.
+I try to keep my Inbox busy with discoveries & notifications and using my knowledge from the Codex & general state of the Storylines to match up whats important.
+Last edited: Jan 8, 2023

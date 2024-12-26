@@ -1,0 +1,15 @@
+Jorki Rasalas
+May 19, 2020
+#16,494
+Han_Zen said:
+The only two systems I have found them consistently are Alpha Cygni(Deneb) and Star of India. There are two of them in each system. In Deneb they are quite close to each other, in the bottom right part of the map. In SOI there is one center / top of the star (it's behind the star unless the sysmap is zoomed out a bit) and one low left.
+
+It takes about a minute in the map before they start to show.
+
+That there are two seems suggestive of a Magellanic Clouds visual artefact, but with only two system samples it is not possible to draw a conclusion, however the fact that it takes about a minute before they start to show then seems very odd, possibly (though I am no graphics expert) suggesting they are not a graphics artefact? Did you raise a bug report on this and if so what was FD reaction?
+
+Their appearance seems suggestive of something designed. Is their shape fixed or does it change with time once they appear?
+Do they show on FSS once they appear in the system map?
+Did you try to hunt them down in system to see if their position in system map changes as you move around the system? Would be a slow job if you have to wait a minute after every localisation run...
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and Vetinari

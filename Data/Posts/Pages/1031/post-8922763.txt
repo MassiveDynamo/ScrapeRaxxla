@@ -1,0 +1,9 @@
+CMDR Alexander Sarethi
+C
+Jan 27, 2021
+#20,609
+Let's think, so if it's a bug then why it's bound to specific location? (same sectors) If it's map bug then it should be reproducible in other systems. If it is lighting bug it probably should be the same all the time. Why it is happen after some time but not immediately after map is closed?
+I think it's some kind of beacon with activity timer. It could explain why it's not glowing when you turn back your ship. Maybe we need to have in cargo something specific, like guardian or thargoid artefact.
+Last edited: Jan 27, 2021
+Reactions:
+Dr. Lexus, Ravenl0ft, Rochester and 2 others

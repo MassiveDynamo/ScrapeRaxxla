@@ -1,0 +1,8 @@
+Oseris
+Jul 26, 2019
+#9,857
+Jorki Rasalas said:
+I agree with most of these. But Scytale raised the possibility that TDW station may not detectable in SC. It may be true- normal stations are visible in SC through their reflectivity, they shine brightly. However if this is a stealth station, e.g. covered in anti-reflection material, then the only way to spot it would be wither to drop out of SC in close proximity or see it against a bright background.
+
+I hope this is not the case. All the codex says is that it is operated at minimal power to be undetectable (by ship sensors, and presumably fss), presumably unless the detecting ship is quite close.
+If it’s in low geocentric orbit on the dark side of a body, it wouldn’t have much light to reflect. I like the idea of spotting by seeing it against a bright background though. IIRC the codex picture is the station with a star behind it.

@@ -1,0 +1,15 @@
+Macros Black
+Jan 11, 2016
+#195
+1adog1 said:
+According to Drew Wager, Frontier (David Braben to be exact) has confirmed in an interview with him that Raxxla has been in the game since its release "I spoke to David Braben directly in 2014 and he confirmed to me that “It’s out there and we (FD) know where it is.” – So it does exist." According to the lore, it could be either a moon or a planet. This being the case means that it can only be discovered through a detailed scan, which also means that the chance of any explorer discovering it is about 1 in 4 trillion, and the chance of this explorer noticing the name after scanning it is even lower. Heck for all we know, it could have already been discovered.
+
+- - - - - Additional Content Posted / Auto Merge - - - - -
+
+I might be getting a bit ahead of myself with this, but I did just notice something while reading through Drew Wager's post. A quote from the original Elite game:
+
+
+
+There's a chance this little hint might actually make the job a lot easier. The above line could suggest that Raxxla is a Rouge Planet, a celestial object that is not bound to a star's orbit. This would mean that in the galaxy map, Raxxla could be found by looking for systems which show up as an Unclassified star type, or even better, systems that only show up in realistic view, and not when all star types are selected. Either way, the time required to search the entire galaxy reduces ten-thousandfold, and can mostly be done from the comfort of a station or city in inhabited space...
+
+An excellent idea, CMDR. Now we just need the practical implementation of a method to do the search in GalMap. To reduce the search scope further, one could concentrate on doing the visual inspection in nebula's only, just as a place(s) to start. I don't know if there is a list of known nebula in the galaxy, perhaps Dr. Kaii knows. I'll ask him.

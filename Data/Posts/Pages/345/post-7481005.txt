@@ -1,0 +1,29 @@
+Garand1987
+G
+Mar 20, 2019
+#6,889
+wetwire said:
+A problem with Raxxla's time frame.
+
+The premise of this discussion is that the myth of Raxxla's first recorded appearance is not enough time for humans to have explored far from SOL.
+Some raw data first.
+Year 2097 - The first Generation ships where deployed.
+Year 2100 - The first hyperdrive was invented
+Year 2151 - The first colony was set up at Tau Ceti
+Year 2296 - The first mention of the word Raxxla
+Year 2800 - The Faraway Jump system was developed (Hyperdrive Type 0)
+
+The Generation Ship Problem
+Now if the rumors of Raxxla where first propagated by the Generation ships that started back in 2097 the position of Raxxla (assuming an astrological body) could be found in a small 44.77LY bubble around SOL. To reach this conclusion we take a look at the generation ships we have found thus far. The most distant one discovered by CMDR Swift Viizions and CMDR Nextmhgdanger on Aug 8 3304 in the Coelachi system. Which is 272.03LY from SOL. The difference between the First launch and First discovered date 3304 is 1207 Years. To figure the best reasonable sub-light speed of the Generation ships. 272.03LY divided by 1207 Years = 0.225LY/per year. (Sub-Light Speeds) Time from First launch to first Raxxla report 2097 - 2296 = 199 Years. 0.225LY X 199 Years = 44.77LY bubble around SOL.
+
+The First Hyperdrive Problem
+The first hyperdrives developed in Year 2100 have very vague descriptions of their capabilities. Have yet to find the actual distance they could travel. Biased on flavor text of the drives i assume they could only achieve super-cruise capabilities. They are described as the first Faster-then-light drive, no witch-space or tunneling yet. The only descriptive text i could find about them related to range was this. "" We know Tau Ceti is 11.94LY from SOL. it describes the time frame as "years" to reach its destination. So more then 1 year. 2 years would be a couple, and 3 years described as a few. I have assumed "years" is meaning 4-5 year travel time to reach Tau Ceti. This puts the first drives capable of covering 2.98LY per Year of travel. 11.97LY / 4 = 2.98LY.
+With this ballpark guess the max range the early hyperdrives could reach by the time Raxxla was first used in conversation was, 584.08LY from SOL. With a max round trip range of 292.04LY. (First Raxxla report 2296 - First Hyperdrive 2100 = 196 Years. 2.98LY X 196Years = 584.08LY Max Range.
+
+Both of these do not factor in the time it takes for a report/rumor to become a legend/myth Which would only serve to reduce the range from SOL that the report of Raxxla would originate from.
+If the dates are to be trusted, and my guess of the first hyperdrives capabilities are true. this Puts the origins of the Raxxla myth to originate from a system within a bubble around SOL that only extends 584.08 Light Years. This is extremely close for something that has yet to be found given how often the habitable bubble is traveled on a daily bases.
+Click to expand...
+
+That is true. But having spent some time brute force searching an area 100ly from sol (radius) and An area between Grandmort and Brohman/Lanaest I can say that there exists a large number (and in the case of the Grandmort area the vast majority) of systems that are mostly unmapped if not completely unmapped. Which comes as a bit of a surprise to me to be honest.
+Personally, I’d think Raxxla is relatively close, and I also don’t think Soontill that is in game is the actual Soontill (a ruse set up either by CIEP or TWD to keep their treasure hidden. Unless the description of Soontill was retconned immediately and they don’t bother to mention it to anyone, even their official author). Raxxla may not be marked “Raxxla” on a honk. You may need to map the planet and discover it’s locations first.
+If Raxxla, like Soontill (supposedly a Thargoid area so it should be a low G planet in a system with an ammonia world or ammonia gas giant) is an alien world as described we could lower our “deep search” parameters by what we know of the 2 alien species that are known to be in game.

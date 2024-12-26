@@ -1,0 +1,18 @@
+Han_Zen
+May 14, 2018
+#2,422
+Jorki Rasalas said:
+I do quite like the hypothesis that Raxxla is in one of the aforementioned systems:
+DRYU BRA XX-L A7-0
+PHOOE BRA XX-L A76-0
+HYPAE BRA XX-L A7-0
+OOSCS BRA XX-L A7-0
+
+any of these in the “outer rim”?
+
+Raxxla is not in any of those systems. I found them by brute forcing the sector list: https://cim.sotl.org.uk/elite-dangerous/
+
+rOmiLaYu was relatively close by and checked them all. Nothing special in any of them. They are all far away, but not what I would call 'on the outer rim of the galaxy'.
+
+As far as I know, there are no tools that allows searching for systems that contains 'RA XX-L A'. It has to be done semi manually. That means that I have probably missed a few.
+Last edited: May 14, 2018

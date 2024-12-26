@@ -1,0 +1,33 @@
+AndyJ
+Jul 31, 2017
+#423
+I don't think that the original "Founder or Elite" missions are currently available in the game, but haven't been able to get an answer on this.
+
+First they were first nerfed in 1.5/2.0 to only appear at Jameson Memorial, and they promptly disappeared from sight. I logged bugs in both beta and post release (link) and never got an answer back from QA other than they'd chase it up.
+
+Then it seems that they almost certainly weren't converted over to the new mission boards which arrived with Engineers in 1.6/2.1.
+
+I asked about that in the live stream Q&A in the run up to it's launch (link). The post was partially answered in stream, but not with regards to the Founder missions, so I asked again the following day and got this response:
+
+(link)
+Hi,
+
+I did have a founder answer but we ran out of time. There are a couple of founder only variants of missions in for 2.1. They will be more rewarding variants of a couple of the templates you know. It's what we could do for 2.1 and we want to try to find time to work on them later.
+
+To clarify, missions require you to be a founder or elite, so the only rank gated missions in the game.
+
+Adam
+
+So I've taken from that the original missions weren't converted, and pretty much all I've seen since then is the bog-standard cargo delivery mission "Sensitive Supply run".
+
+I've asked a few times since if they were converted, most recently in December in the "mission changes feedback" thread:
+(link)
+I will try to look into this, they should still be available. Obviously this doesn't seem to be the case.
+
+I've stopped asking since, because as a FMotE kickstarter backer I'm pretty fed up with the way this pledge level has been dealt with from the outset, and I've asked enough times now to probably qualify as badgering.
+
+
+Perhaps someone else can try logging a bug or if Drew has a Batphone direct to the desk of FD, perhaps he can find out for sure if they're there and not appearing or are indeed still AWOL.
+Last edited: Jul 31, 2017
+Reactions:
+madbilly and Macros Black

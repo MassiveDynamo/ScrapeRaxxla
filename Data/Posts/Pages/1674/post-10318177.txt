@@ -1,0 +1,13 @@
+D7
+D
+Feb 21, 2024
+#33,471
+Han_Zen said:
+"The the cemetery is always between the planet and its star" . This means it has the same orbit time as the planet. It probably sits in the Lagrange point (L1).
+Han_Zen said:
+"The the cemetery is always between the planet and its star" . This means it has the same orbit time as the planet. It probably sits in the Lagrange point (L1).
+
+
+Aha- Ok that makes sense. So, the L1 Lagrange point is 3.64 Ls from the surface of New Caledoinia by my calculations. That may in fact be the distance of the POI id have to check. That seems to settle the Graveyard location!! Thanks for the input.
+Reactions:
+Han_Zen

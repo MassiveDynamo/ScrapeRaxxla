@@ -1,0 +1,9 @@
+Edelgard von Rhein
+E
+Dec 16, 2018
+#4,580
+For those looking to find clues in the alignment of stars in NGC 7822, I should point out that this is an artifact of the fact that FD used real star catalogues to place them in the game. In those catalogues, the distances have much larger error bars than the right ascension and declination (position on the sky), so you end up with a stretched band of stars. Also, the accuracy of the distance measurements is typically only allowing for a small number of decimal places, so you can see the stars line up in 'bands' in-game that are perpendicular to the direction to Sol. There are many other star clusters showing this phenomenon in the game (the Eagle Nebula is well-known for this and there is also a stretched-out group of stars in the Orion Nebula).
+.
+In reality, these stars are probably clustered in a spherical or nearly-spherical arrangement (Gaia data would allow a better check, as its distances are much more accurate). I would be extremely wary of trying to associate the positions of stars with clues to Raxxla. The positions of constellations and nebulae is a different matter and I like many of the suggestions I've seen and I also think (from a meta perspective) that FD would want to make Raxxla an impressive find. Whether you need to join or find The Dark Wheel in order to find Raxxla is a separate matter! (I think the Codex image is the best clue to TDW location, with a gas giant with at least 8 moons in a very close orbit of a red dwarf star or a couple of Kls from a red giant).
+Reactions:
+Louis Calvert, Han_Zen and Rochester

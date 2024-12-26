@@ -1,0 +1,24 @@
+HexCube
+Nov 28, 2017
+#1,190
+Well, it would seem that, after getting on Elite tonight, and continuing my expedition after some galaxy map testing, I have a few things of note to bring up. First of all, I, too, can confirm that a search for 'PLANE' will point you to Lave. The second thing is that in ED, if you search for a station, it will point you to the system the station resides in. Well, I thought to myself, can it do the same with planets? What if there is more than one Lave, and that's why we haven't found Raxxla. Whilst I can confirm that there is only one Lave, I did find something of interest. A search for 'LAVE' returns, of course, to Lave. Initially. If you click the arrow, or search again, it points to a different system - one which has a station named 'Lavekyn Hub'. I continued to search, and was pointed to 12 different systems, in total (including Lave itself). As I am 10Kly from the bubble right now, I cannot visit each system individually, and I do not have a system map for every system, but it may be a good idea for someone else to check them out - if you guys think it could mean something. Here they are, with station names where I have data:
+
+Supay - Lavekyn Hub
+Awabara - No Data
+Tau-3 Eridani - Lavekyn Orbital
+Hixkaramu - Lavekyn Orbital
+Kopik - No Data
+Chernobo - No Data
+BD-07 4419 - No Data
+CD-55 1514 - Lavekyn Port
+NU-2 Canis Majoris - No Data
+Nona - Lavekyn Terminal
+Riss 340 - Lavekyn Terminal
+
+I count 6 out of 12 systems with a Lavekyn Station, of some sort, and wouldn't be surprised if the 6 I have no data for also have a Lavekyn Station. Is it worth someone checking out?
+
+@Kzak, galactic coordinates 0:0:0 point to Sol, however, that does not mean your suggestion is invalid - as you specified, it may be close to 0 on one or two of the axes only - but I can't really check from my position.
+
+I thought I'd share what I know in the hope someone else can do better with the knowledge than what I can.
+
+Good luck Commanders!

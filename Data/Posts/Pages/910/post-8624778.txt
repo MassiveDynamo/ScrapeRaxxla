@@ -1,0 +1,10 @@
+Mrrshal
+Aug 1, 2020
+#18,200
+There is more strange things after FC update.. When you try to buy Cartographic Data on GalMap, some stars will be highlighted as having available data, but they will lack the button to buy it. I have found that some of these systems were scanned by me previously, but not fully and when I mapped last planet it would turn off from the filter.
+But some systems just stay like that, suggesting to me that they have yet unexplored objects!
+
+Commanders! Check your GalMap with Cartographic Data filter and tell us you experiences and thoughts!
+Last edited: Aug 1, 2020
+Reactions:
+Fiera, Rochester, [PS4] Filthymick420 and 1 other person

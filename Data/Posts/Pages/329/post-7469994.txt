@@ -1,0 +1,8 @@
+Thatchinho
+Mar 13, 2019
+#6,577
+MrMarkusCZ said:
+That is what mapping do too - that medical centers, science centers, satellites and similar structures are on orbit of the planet and visible in navigation after mapping. We found this behaviour when searching in the bubble.
+They’re there after FSS scanning. No need to map. (Also they should show up within a certain distance anyway, usually 1,000 ls.)
+Reactions:
+krylite

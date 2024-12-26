@@ -1,0 +1,17 @@
+Edelgard von Rhein
+E
+Dec 18, 2023
+#32,614
+I switched to my Vulture to do some signal source diving around Siren/Shibboleth and noticed that there is a Phanes system nearby, which shares a name with one of the Generation Ships. I forgot which one so I looked through my logs, as I think I have visited all of them, but not all of the logs give the name of the ship. In looking, however, I noticed two things of interest:
+
+1) Generation Ship Odysseus. The logs are called 'Our New Eden'. Provocative naming! It does not stop there, as the inhabitants of the ship are killed by a disease that seems to go through different stages, similar to the Thetis. There is talk of an initial infection after exposure to a meteor storm but the infection returns decades later, repeatedly. The final log has the line 'But you can't kill this, it hides, it retreats and mutates and comes at you again'. This Generation Ship is located here for those interested:
+SPOILER
+
+2) This Generation Ship is not named in the logs but it is recorded under the heading 'The Prisoner'. This is the story of a lone prisoner who is the sole survivor of some disaster that either killed everyone else or led to an emergency evacuation. He is locked in his cell for 1047 days, according to the timestamps of his log entries, and slowly goes mad. The final entry begins 'It's whispering to me. I can hear it through the air vents. The void is speaking to me. It wants to tell me something but I can't make out the words.'. Sound similar to someone? More than one! For those interested, this Generation Ship is located here:
+SPOILER
+
+The latter of these two made me realise that Halsey, the above prisoner and the crew of the Thetis all had something in common: they all heard an audio signal that affected them in some way and they were all alone in deep space for a long time in a very quiet environment. This could also be said to apply to the reports from some Dynasty Expedition bases, as the ships of that era spent a long time in hyperspace.
+
+So I've taken my Vulture out over 500 Kls from the star in an empty system close to Siren and Shibboleth (Thesan, I think - memory not so good today). When I'm next on I'll shut down everything except life support and see if any unusual audio crops up. Sometimes, you just need to stop and think!
+Reactions:
+RaNaketh, Adel, Rochester and 1 other person

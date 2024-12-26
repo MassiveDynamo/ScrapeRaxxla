@@ -1,0 +1,23 @@
+selbie
+Jun 23, 2024
+#34,294
+Jorki Rasalas said:
+Well, clearly it's not named "Raxxla" in the game files or the data miners would have found it in 2014. As I understand it the game files run to generate the universe totally on our end and the FD servers are just there to handle interactions and hold the odd hand-generated poi, like the old Formidine Rift bases that caused the game to crash when a player's machine "discovered" one and tried to download it.
+
+Raxxla wasn't honked, the report was that someone had jumped into the system that contains Raxxla, honked, presumably refuelled, and jumped out without discovering Raxxla (see my FD Quotes thread, link in signature). This was likely in the days before the "infinite range" scanner we have now, but even that does not detect all objects- FD can amend the detection range of game objects, witness the generation ship that was hidden in an asteroid belt cluster, Guardian bases only detected within 1000ls, etc.
+
+So Raxxla is not a system, it is an object that may only be detectable at close range. Perhaps it is only downloaded when a player finds/triggers the "Omphalos Rift"- that may be invisible....what would a rift in space look like in ED? It might be that MK1 eyeball is the way to detect it. If it's hidden in a planetary ring then perhaps it looks like a ring asteroid until..........what? Do we have to try to mine it to activate the rift???
+
+As the great Bert Gummer said "I can't help feeling I've been denied critical need-to-know information!"
+
+(Found "Tremors, a cold day in hell" on Netflix last night. Didn't know it existed! )
+Click to expand...
+Oh I understand those aspects, and my wording around the "raxxla system" means just that - a mysterious, seemingly banal system containing.... "it". Same deal with the honk. Poor old Raxxla was sitting there in the system, quietly minding its own business and some noisy tourist didn't even bother to swing by and say hello What a different galaxy we would be in now if that happened.
+
+Regarding the game files - it doesn't have to be named and certainly will not exist as a specific file. All the pieces are there in the system seed, it just won't look like a Raxxla-shaped hole to anyone trying to datamine. That's the beauty of proc gen. All we might need to obtain is the correct seed 'key' function to tell stellar forge to generate it. When the noisy tourist arrived, it was there, for the same reasons the planetary ring asteroids always stay in the same position - such as this very peculiar Raxxla-shaped one. It could be open for all, or it might require a process to reveal it.
+
+If anything is needed from the FDev servers it would be authorization credentials to access the specific bit register which generates the Raxxla entity - much like System Permits keep us locked out. No access to the seed bits, no system spawn. If Raxxla is some kind of gateway portal / rift device, then where it takes us will also be determined by the Stellar Forge processes.
+
+It's the one saving grace of this whole mystery and why I don't mind devoting time to Raxxla despite the bumpy road ED has been on. If I am correct in my understanding, Stellar Forge is the one genius piece of tech preserving the 'sanctity' of this whole mystery
+Reactions:
+Rochester, Jorki Rasalas and Darrack

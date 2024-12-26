@@ -1,0 +1,31 @@
+Jorki Rasalas
+Apr 5, 2022
+#25,824
+Rochester said:
+Allen Stroud alluded to something similar:
+Post in thread 'The Quest To Find Raxxla'
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9625297
+
+I would image there are a number of obstacles to this: firstly there’s FD ability, I doubt they have the organisational skills to pull this off.
+
+Then there’s timing; eg if it’s an actual human interaction then you can’t expect it to be something that will work everyday - due to play/sleep patterns.
+
+Then no one could really be trusted to keep quiet, some players are likely to be under age, or outside international laws, it’s possible a player group could undertake this, but the internal power struggles/personality clashes introduce too much risk, plus generally people like to brag; so an NDA isn’t reliable.
+
+So its more likely to be an algorithm or a FD employee with a database held on FD server’s that someone there checks every couple of days.
+
+Generally for this to work smoothly this would need to utilise some specific coding to identify this activity, not impossible, and it could be done manually.
+
+It’s likely it would need to involve some type of filtering, linked to specific activity, to weed out all those generic players who grind out the ranks. If they just invited everyone then it’s only logical that someone would eventually spill the beans.
+
+This is obscure enough to work but only if the invite list was relatively low; it also might just go undetected, because most people might not want to accept a general friends request off a complete stranger due to trolling/grief hunting practices.
+
+We don’t know if it’s potentially linked to open only also, but given FD practices there are too many variables for my liking for this to work, again you fall into this trap, if it’s SO good why is it so secretive, why haven’t FD applied such a practice across the whole game?
+
+Easy enough to test - next time someone ranks up just accept those invites and see what happens, collate that data and look for comparative patterns.
+
+Personally I’m still at Dangerous rank through choice, I explore for the journey not the pay off, I fight only when I need to and trade only if it’s legally profitable as I roll-play. I’m not one for grinding and in no hurry to race to Elite; I’d like the rank rewards to mean something.
+Click to expand...
+Oh, I suspect these friend requests are either algorithmic or an FD employee tasked to do this as part of his job, so probably a CM. We know the game keeps stats, they’re in the Codex, though I suspect there are others that are not visible to us & probably related to ranking up with the other PF cliques. The game uploads some data packets, so the monitoring could be done locally and FD notified as appropriate, then notifications either go into a database or an inbox. As I (edited) mentioned in my previous post, I don’t think either of these friend requests are likely to be relevant to the Raxxla/DW storyline. But to determine that, & decide whether NPC or human, we need someone to accept the friend request. Or maybe someone who is already triple elite to raise a friend request to MadDogDiver?
+Reactions:
+Rochester and Koben

@@ -1,0 +1,20 @@
+Merlin StWahgwaan
+May 21, 2020
+#16,560
+alexzk said:
+GDB online Debugger | Code, Compile, Run, Debug online C, C++
+Online GDB is online ide with compiler and debugger for C/C++. Code, Compiler, Run, Debug Share code nippets.
+onlinegdb.com
+
+Update there A/B/C coordinates, take from EDSM
+In "main" (very bottom) update what u want to find, currently it gives center of circle inside triangle ABC. I.e. it is a point on equal range from AB-BC-CA routes.
+It will print a link to query edsm, just paste in browser.
+
+But..for example, i did'nt finish "equal remote from a-b-c" - as it will be line intersecting surface abc. Need 4th point.
+Click to expand...
+
+AND BTW, thanks for the link, i finally got 5 min to sit down and use it, edit it with my coordinates, but THANKS, huge help, now I can triagulate from any 3 systems I want, I've got a few I wanted to try, but its been so long I gotta look em all up again, lol
+
+But thanks, I got a different result for centroid using your code than the picture I was given, so im going to check out about 20 or so systems around each one... they are not far far from each other, but slightly off...
+Reactions:
+alexzk and [PS4] Filthymick420

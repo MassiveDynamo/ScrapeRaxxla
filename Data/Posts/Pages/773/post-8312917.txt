@@ -1,0 +1,10 @@
+alexzk
+A
+Feb 27, 2020
+#15,443
+Jorki Rasalas said:
+Addition of declination still wouldn’t give you a coordinate. RA plus declination gives a bearing line, you need a distance to then get a coordinate.
+I missed a bit ... you need coordinate start. In real astronomy it is Earth and horizon of it (to count angle). However you cannot land on Earth >:
+Also we move faster then light. So we cannot relay on current astro data. As they show many years ago values. And now we see different stories moving immediate there.
+Reactions:
+John Stoutbeard, [PS4] Filthymick420, Rochester and 1 other person

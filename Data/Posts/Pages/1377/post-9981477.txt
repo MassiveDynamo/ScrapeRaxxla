@@ -1,0 +1,19 @@
+CMDRCorrMorningstarFelian
+Oct 25, 2022
+#27,524
+System: Ackwada
+Distance to Sol: 78.90 ly
+Distance to Arrival: 9 ls
+Situated: Orbital
+Body: Ackwada
+
+
+Group: Beacon
+Beacon Type: Tourist Beacon
+Tourist Spot: 0216
+
+
+
+The official discovery of this system and its habitable planet is nowadays accredited to Augustus Brenquith, although the Rockforth Corporation claim the land deeds and development rights to the system. Thirty nine years after the Corporation declared the system its own; an ancient message capsule (a common way for sending messages at the time) was recovered from outside the orbit of Jupiter in the Sol system.
+
+The discovery aroused considerable interest amongst archeologists on Earth at the time while the capsule was in transit to the New Delhi University there was heated debate as to whether the artefact should be opened or not. When the capsule was studied, the seal was seen to be broken, so the matter was resolved. Inside the capsule was a message crystal with the log of the second five years of Augustus Brenquith's solitary search for new worlds, his 'glittering legacy', included in the list of planetary systems that he had stumbled upon was that of Ackwada.

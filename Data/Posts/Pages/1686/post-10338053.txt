@@ -1,0 +1,155 @@
+Jorki Rasalas
+Mar 23, 2024
+#33,701
+Mmm from
+https://www.reddit.com/r/EliteDangerous/comments/g641q3
+Source: https://www.reddit.com/r/EliteDangerous/comments/g641q3/demographic_changes_in_the_galaxy_2020/
+
+
+Got
+2015 (source):
+
+Allegiance Systems Population
+Alliance 369 219bn
+Empire 5,514 1,919bn
+Federation 6,542 2,886bn
+Independent 6,593 1,549bn
+Total 19,019 6,572,987,331,639
+
+Other searches have only turned up: 78 Ursae Majoris, Alioth, Lave, Diso, Reorte, He Bo, G122-60, LHS 2637, Gateway.
+
+Does that 2015 table seem right? If so then Spansh system search centred on Alioth gives
+337 within 40 ly
+362 within 41 ly
+384 within 42 ly
+406 within 43 ly
+430 within 44 ly
+462 within 45 ly
+496 within 46 ly
+533 within 47 ly
+578 within 48 ly
+623 within 49 ly
+663 within 50 ly
+
+Given the nature of the Alliance, comprised of a loose grouping of Independent systems, I'd think a lot of systems would remain independent from it so an Alliance space radius of 50 ly from Alioth seems reasonable for 2015/3301. So if the theory is correct then "Raxxla system" should lie within around 50 ly of Alioth. It would be sensible to allow a bit of leeway on that, so I'm thinking search for all named systems within 55 ly of Alioth and see which names are subanagrams of "Princess Astrophil and the Spiralling Stars"..I only have libreoffice and my spreadsheet programming is abysmal.
+
+My notes on the anagram substring search are:
+Observe that words that are anagrams are basically permutations of each other. So, the frequency of each character in each word should be equal (modification for ED substring check-the frequency of the candidate string characters should not be greater than the same characters in the reference string). We can obtain this by hashing the frequency of the characters with two hash arrays, and comparing the frequency of each character for both words.
+Note- don’t need to output the substring(s) or index position(s) using sliding window, for ED purposes just check whether it exists or not
+Note - in this particular example of Ref$ if Test$ contains any numeral then can reject
+Note - all characters in systemname should exist in reference string
+
+Ref$=reference string
+Test$=ED systemname to be tested for substring candidacy of Ref$
+
+Sub Main
+ProcessString(Ref$, NoSpacesRef$, RefStrLength)
+Put parameters into spreadsheet cells
+CharHash (RefHash, Ref$) REM create hash table for Ref$
+
+FOR all Test$
+ProcessString(Test$, NoSpacesTest$, TestStrLength)
+Put parameters into spreadsheet cells
+CharHash (TestHash, Test$) REM create hash table for Test$
+END FOR
+
+FOR all Test$
+FOR i=1 to TestStrLength. REM Compare each char in Test$
+REM compare TestHash(i) against corresponding RefHash(i)
+IF TestHash(i) > RefHash(i) REM invalid Test$ so notify and exit to next Test$
+THEN
+Validity=FALSE
+END FOR
+ELSE
+
+END FOR
+END FOR
+
+END SUB
+
+
+Function ProcessString (InStr$, NoSpacesStr$, UpperStr$, StrLength)
+NoSpacesStr$=SUBSTITUTE(InStr$;” “;””) REM remove spaces
+UpperString$=UPPER(NoSpacesStr$) REM convert to uppercase
+StrLength =LEN(UpperString$)
+ProcessString= REM if string contains a numeral then INVALID
+End Function
+
+
+Sub CharHash (HashArry, Str$)
+
+
+
+DO for all candidate Test$
+{Test$=SUBSTITUTE(Test$;” “;””) REM remove spaces from Test$
+Test$=UPPER(Test$) REM convert Test$ to uppercase
+TestLength=LEN(Test$)
+Output TestLength REM longer anagrams -> higher probability for Raxxla?
+IF TestLength > RefLength
+THEN
+Validity= FALSE
+ELSE
+IF REGEX(Test$; [:digit:]) REM If Test$ has any numerals then invalid
+REM else test char value in a for loop
+ELSE
+{Test$=UPPER(Test$) REM convert Test$ to uppercase
+initialise integer vector TestHash(26)=0
+Characterhash (TestHash, Test$)
+Comparehash
+
+Sub Characterhash (Hash, Test$)
+DIM vector Hash(26) as Integer. REM create hash table & set cells to zero
+End Sub
+
+Sub Comparehash
+FOR i= 1 to TestLength REM only need to test for actual #chars in Test$
+IF INDEX(TestHash,1,CODE(MID(Test$,i,1))-64) > INDEX(RefHash,1,CODE(MID(Test$,i,1))-64)
+THEN
+Validity = FALSE REM return substring check is invalid
+EXIT FOR
+ELSE
+Validity =TRUE
+NEXT
+}
+}
+LOOP
+End Sub
+
+Separate char frequency count from the hash table comparison to can use also to populate RefHash and reuse algorithm for other Ref$!
+Having problems getting this to work as Libreoffice Cal macros!
+
+N.B. MID() function returns a string, need to convert to a number for use in INDEX()
+In Excel could test if a string contained one or more numerics using
+=COUNT(FIND({0,1,2,3,4,5,6,7,8,9},B5))>0.
+BUT in libreofficecalc try
+=SEARCH([:digit:]?;Test$). #VALUE! error is returned when no match is found
+So =NOT(IF(ISERROR(SEARCH([:digit:]?;Test$))) Output FALSE else...
+
+In LibreOffice can use the VLOOKUP function. It allows you to treat a column pair as a hash map, where you lookup keys in the first column and return values from the second. There are several "lookup" functions in Calc: VLOOKUP, HLOOKUP, INDEX, and MATCH. VLOOKUP searches for a value in the left column of a table and returns the value in the same row of another column of that table.
+https://www.libreofficehelp.com/lookup-references-libreoffice-calc/
+
+Basic
+Arrays must be declared before they are used, by default, the initial index is selected as 0.
+Dim MyArrayVar(1 To 5) as string......String array with 5 elements from 1 to 5
+
+
+C++ algorithm found online somewhere (also remember seeing a Python algorithm for this, somewhere...)
+bool areAnagrams(string A, string B) {
+if(A.length() != B.length()) {
+return false;
+}
+int hashA[26] = {0}, hashB[26] = {0};
+for (int i = 0; i < A.length(); i++) {
+hashA[A - 'a']++;
+hashB[B - 'a']++;
+}
+for (int i = 0; i < 26; i++) {
+if(hashA != hashB) {
+return false;
+}
+}
+return true;
+}
+Last edited: Mar 23, 2024
+Reactions:
+simulacrae

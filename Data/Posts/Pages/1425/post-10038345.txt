@@ -1,0 +1,13 @@
+Ozric
+Volunteer Moderator
+Dec 17, 2022
+#28,487
+CMDRCorrMorningstarFelian said:
+If it is public data, I have no problems. Here's where you are running into problems: I know EDSM, in particular, hides certain systems as Polaris is findable on EDDB but EDSM it is hidden (via the normal web interface for each). I believe they hide unknown permits and anything within region locks. If you are only dealing in public scan data (stuff any CMDR would be able to access in-game) it is alright. The gray area is the fact that in-game until we get those region locks to fall you may be dabbling in non-public information. I just think caution is advisable here given public vs non-public data. Heck, with EDDiscovery you can download public scan data for all discovered systems. This wasn't for any reason other than use only what you can access on EDSM website or the API without requesting hidden data entries. I hold nothing against you personally.
+You contradict yourself.
+It is also not up to you to decide what other people can and can't do because of what you think may or may not be something.
+
+
+So to everyone, let's stop discussing each other and their perceived intentions, and get back to the topic at hand.
+Reactions:
+Louis Calvert, Rochester, SpocksOddSocks and 4 others

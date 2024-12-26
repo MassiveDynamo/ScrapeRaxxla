@@ -1,0 +1,32 @@
+Vetinari
+V
+May 13, 2021
+#23,235
+Han_Zen said:
+They are cool coincidences, but I don't think you are supposed to add up the numbers in . I think they should form complete roman numbers.
+The sequence MLXIII (1063), is the highest year I can see.
+Then again, you were seemingly allowed to rearrange the letters.
+
+Personally I think the codex is would be a little dubious for FD to encode, as it comes in different languages.
+
+I think so too but ignoring the last bit anyway just for tinfoil and lols and coz I really enjoyed learning about the code...and after all that myth and astronomy it was something I could understand
+
+We can break the numbers up by just stopping when it gets to the end of the 'sequence' so for example:
+
+Vetinari said:
+50 + 1000 + 50 + 10 + 1 + 1 + 1 + 1 + 100 + 100 + 1 + 500 + 5 + 1 + 500 + 10 + 10 + 50
+
+Would become:
+
+50 = 50
+1000 + 50 + 10 + 1 +1 +1 +1 = 1064
+100 +100 + 1 = 201
+500 + 5 + 1 = 506
+500 + 10 + 10 = 520
+50 = 50
+
+which gives us 6 numbers / coordinates (7 or more in most of them though). Which means nothing to me.
+
+Mainly though Ill be looking for this code elsewhere from now on and running stuff through it just for fun. Although it doesnt seem like a 'typical' Frontier code.
+Reactions:
+[PS4] Filthymick420 and Ravenl0ft

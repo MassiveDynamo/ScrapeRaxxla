@@ -1,0 +1,9 @@
+Koben
+Mar 13, 2022
+#25,680
+CMDR Davanix said:
+anyone know how to use the fleet carrier search in Inara, anything i use it it displays none in a 50kly radius..I mean that's impossible as mines 11k away and Inara knows this lol
+Launch Horizons and open galaxy map... filter it by systems with a Fleet Carrier.
+That would do the trick (I guess)
+Reactions:
+CMDR Davanix

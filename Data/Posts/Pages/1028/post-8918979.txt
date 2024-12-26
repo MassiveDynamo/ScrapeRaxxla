@@ -1,0 +1,14 @@
+Emperor
+Jan 25, 2021
+#20,559
+Jorki Rasalas said:
+Can anyone give a personal comparison of Joystick Gremlin versus AutoHotKey?
+I need to convert a hat press to shift+windows+g
+
+Thought about using Voice attack? - you can set up a macro to do the recording for you without having to let go of the HOTAS. Pretty sure it has a trial license so you could try it with no risk.
+
+Couple it with a HCS Voicepack and you can give the hands more of a rest all of the time with one of the Elite profiles....
+
+I bought them when I was playing with VR and carried on using it when I use the HOTAS, can't recommend it enough.
+Reactions:
+[PS4] Filthymick420 and simulacrae

@@ -1,0 +1,154 @@
+Louis Calvert
+Jan 17, 2024
+#33,017
+selbie said:
+Players found a shortcut and likely skipped a bunch of narrative elements FDev wanted to lay out
+Sorry missed your post earlier. You raise good points, and this is indeed the oft-repeated statement!
+
+I have been looking into this a bit and found this a little difficult to source: Do you, or anyone, know if there is any official source for this?
+
+I was able to to find this but the link the original is broken sadly.
+
+In that same list later on you can see that when the community did solve something (Thargoid related) before all the clues were out, Brookes said "We'll still publish the remaining parts, just so people can see the full flow if they wish." so there was precedent to Fdev completing a puzzle even if players solved it 'early'.
+
+But no mention of Halsey in anything I can find, other than speculation by players. Would love to see any sources anyone can find
+
+
+I thought we could all have a look at Halsey's narrative as told via Galnet and in the Codex. I've put this massive post together to make it easier so people don't have to do homework (but please do if you can/want to check everything). I've provided source links for everything that appears here. Please let me know if I missed anything.
+
+Here's the timeline of Jasmina Halsey's 'visions' to get us started:
+FYI: Everyone here can see all the Galnet articles by using Birdnet to easily search Galnet
+
+Halsey's initial experiences are recorded in these Galnet articles: 29 MAR 3302, 04 APR 3302, 28 APR 3302, 05 MAY 3302, 07 MAY 3302, 13 MAY 3302, 14 MAY 3302, 08 JUL 3302, 15 JUL 3302, 29 JUL 3302, 20 SEP 3302.
+
+Key parts from these Galnet articles are:
+"Jasmina appears to be in good health, but she did seem rather distant. She said some things I didn't understand – something about stars and...creation, I think – but given what she's been through I thought she was remarkably lucid, most of the time. I'm sure she'll be back to her old self soon."
+A reporter from the Alliance Tribune asked President Halsey what it was like to drift through space for so long:
+
+"It was wonderful. Amazing. I saw the universe, and our galaxy within it, as I'd never seen it before, and I felt the presence of the real caretakers of our galaxy. The paradox of their existence – tiny yet gargantuan, fleeting yet eternal. They spoke to me as I drifted in the void. It was amazing. I must share their message."
+
+This unorthodox statement prompted a flurry of further questions, but Halsey's escorts promptly led her from the room.
+...Jasmina Halsey has repeatedly spoken about the allegedly transcendent experiences she had while drifting through space.
+
+The former leader purports to have seen "the true architects of creation" and to have been shown what she describes as "the infinities of the cosmos"...
+
+Now the former president has launched an appeal for exploration data that she hopes will validate her claims. According to a member of her personal staff, the former leader believes the data will prove there are super-intelligent beings living in the depths of space.
+
+The former Federal president released a brief statement to the media:
+
+"They are out there. I have seen them. We must put aside our petty differences and work together to establish contact. There is so much we could learn from them."
+Click to expand...
+The campaign yielded a huge quantity of exploration data, but despite being subjected to extensive examination, the information did not yield any proof of Halsey's assertions.
+
+The spokesperson went on to say that the former Federal president had been admitted to a secure psychiatric facility on Mars for "extended care and review"
+"It seems even former presidents aren't allowed to speak the truth. Jasmina Halsey is right – we should keep expanding, pushing out into space – but the Federal government isn't interested. And now they've had her imprisoned."
+President Halsey was met at the entrance of the clinic by a crowd of supporters, to whom she gave a brief statement:
+
+"I would like to thank the staff of this fine institution for helping me during this troubled time. It's fair to say I haven't quite been myself recently, and I apologise wholeheartedly for any distress I might have caused."
+At a recent charity event, former Federal president Jasmina Halsey made her first public appearance since she was discharged from a secure psychiatric facility on Mars two weeks ago. The woman seen at the event differed dramatically from the frail individual seen leaving the Clearwater Clinic. Some commented that she appeared even more confident than when she was in office.
+
+After the event, reporters asked President Halsey what she has planned for the future.
+
+"I know that many of you have been perplexed by my recent statements, but having reflected on my experiences, I have accepted that what I saw might not have been literally real. I do believe, however, that the message contained in those experiences is valid, and that I have a duty to share that message."
+
+"As a species we have learned nothing from our history. We plundered the Earth for its treasures, treating it with callous indifference, and now we stumble blindly into space in pursuit of wealth and glory. And all the while we are heedless of the damage we cause."
+
+"We remain a violent species, unable to cooperate, and we are therefore deprived of the prosperity that true peace would bring."
+
+Halsey further surprised reporters by stating that she had recently met with Alliance Prime Minster Edmund Mahon, and that she would soon be relocating to a system within Alliance space.
+Click to expand...
+
+Halsey's Exploration CG was in April/May 3302. She went into psychiatric care right after, then came out in July 3302 saying she was feeling better, etc. and went to work for Mahon.
+
+Then after that on 20th September 3302 she made the famous statement from Alioth:
+(Which in itself is weird given the previous statements, and is explicitly stated in the article as being 'peculiar'.). This is almost exactly the same as the Tourist Beacon around Mars (0679) - which is weird since she made the statement in Alioth...?
+Since leaving the Clearwater psychiatric centre in July, former Federal president Jasmina Halsey has maintained a relatively low profile. But now the former leader has broken her silence to share news of "a compelling vision" with the galactic community.
+
+In a public address at Gotham Park in the Alioth system, Halsey described the nature of her vision:
+
+"I saw a place of extraordinary beauty. A paradise. It was truly wonderful."
+
+"This was no dream – it was a glimpse of something very real."
+
+"We must find this place. It could be our future."
+
+Halsey's peculiar statement will no doubt disappoint those who believed she had made a full psychological recovery.
+Click to expand...
+Tourist Beacon 0679:
+On September 20th 3302 former Federal president Jasmina Halsey broke her silence to share news of "a compelling vision" with the galactic community.
+
+In a public address at Gotham Park in the Alioth system, Halsey described the nature of her vision:
+
+"I saw a place of extraordinary beauty. A paradise. It was truly wonderful."
+
+"This was no dream – it was a glimpse of something very real."
+
+"We must find this place. It could be our future."
+Click to expand...
+
+Then there's nothing from Halsey at all for 4ish months (20th Sept 3302 to 2 Feb 3303).
+
+Commander xdeath found the Guardian ruins on 27 October 3302 allegedly from nebula/star matching from this trailer on 25th October (here's the official release day patch notes). That's one month after Halsey's statement in Alioth during which time Halsey said and did literally nothing at all. Galnet 31 October 3302, 3 November 3302, 10 Nov 3302, and many more (search for Ram Tah on Birdnet).
+
+There's no statement (at any point) from Halsey being like "WOW! Yeah, that's what I was looking for, Those Guardians Ram Tah is describing are the aliens I saw! He's describing the civilisation I saw! I'm vindicated! That's amazing!" Which you'd think she would have done...? And there's no connection drawn by Ram Tah or anyone else that I can find linking the Guardians to Halsey at any point.
+
+If Halsey was supposed to lead to the discovery of Guardians but it was interrupted by xdeath, I don't see why Fdev didn't simply re-write at least one article having her comment on the ruins to make that connection - because lore-as-written there literally is no connection whatsoever.
+
+In early 3303 Halsey started her peace work, anti-war activism, and started working for Mahon - which ties in with her earlier statements, and her 3307 revelation about the reason for the assassination attempt. When she appears in Galnet hereafter she's clearly trying to levy for peace and justice. The next article mentioning her visions is from April 3304, which is a profile of Halsey (so contains no new information), It's worth reading the entire article though, here's an extract:
+“Critics argue that Halsey’s extraordinary claims of encountering super-intelligent beings and seeing paradise are meaningless without evidence. And yet, in a cosmos containing Thargoids and Guardians, can they be easily dismissed? Or are her outlandish claims designed to cultivate a following among the disenfranchised and make her into a messianic figure?”
+No connections drawn here between Guardians and Halsey's visions, other than to say "there are weird aliens out there, why not more?".
+
+The next time her visions are mentioned in in conjunction with Gan on 24 May 3305, again, no mention of the Guardian ruins in conjunction with any of this.
+
+Interestingly, in the investigation into Starship One's sabotage in 3306/3307 it's revealed that before Starship One left on the tour Halsey spoke to her senior staff and told them she wanted to change course, politically, that's what led to the assassination attempt. Here's the relevant articles: 11 Sept 3306, 25 Jan 3307, 27 Jan 3307, 29 Jan 3307, 5 Feb 3307, 8 Feb 3307, 15 Feb 3307.
+
+Here's some key takeaways:
+“Vincent was questioned about a secure transmission from his office to the presidential vessel on the 24th of May 3301, ordering an unscheduled diversion to the Azaleach system for routine maintenance. This is where Webster’s engineering team followed Vincent’s orders to install the sabotaged hyperdrive component that caused the misjump.”
+“Jasmina Halsey confirmed that the orders for Starship One’s unscheduled stopover in the Azaleach system came directly from Fleet Admiral Vincent. She added that the presidential itinerary was often altered for various mundane reasons, and at the time this seemed routine.”
+
+“Halsey also provided an account of the vessel’s destruction, describing the chaos and panic onboard as the hyperspace misjump caused rapid structural disintegration. She praised her security detail for getting her into a cryogenic stasis pod and launching it moments before Starship One exploded.”
+
+“During cross-examination, the defence counsel quoted her reported visions after being rescued, when Halsey described meeting the ‘caretakers of our galaxy’ and experiencing the ‘infinities of the cosmos’. It was suggested that the testimony of someone suffering from such obvious delusions should be discounted.”
+
+“Halsey admitted that she no longer has any memory of making those statements, and may have been suffering from post-traumatic shock. ”
+Click to expand...
+“Jasmina Halsey provided details of a top-level Federal Cabinet meeting in late April 3301, an event which was never declassified. Its aim was to address the high levels of public dissatisfaction with her administration.”
+
+“At the meeting, Halsey explained that she had been inspired by various peace activists to refocus on the wellbeing of citizens. She planned to reduce taxes, invest in social infrastructure and slash Federal Navy spending. As yet this was only a preliminary plan, to be implemented later that year.”
+A Federal High Court jury has found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.
+
+The court heard how Vincent worked with Core Dynamics CEO Jupiter Rochester to sabotage Starship One and assassinate then-President Jasmina Halsey, in order to increase military contracts.
+
+It seems to me like this is "the full story" so far as presented in Galnet:
+Halsey realised she'd been a terrible person in her career (see her early presidency). She planned to radically change her government style to focus on peace and citizen wellbeing, this would divert funds from the military.
+Military-Industrial complex planned and executed an assassination, but Halsey survived.
+Halsey had a visitation from 'Caretakers of the Galaxy' while in her escape pod -OR- thought she did due to trauma or brain damage. She then had visions of 'paradise' a 'place that could be our future'.
+After delivering her visions clearly and openly on 20 Sept 3302, she stopped talking about them entirely and hasn't mentioned them in the past 8 years.
+Halsey started doing peace work and anti-war activism as part of the Alliance immediately after her Sept 3302 statement - this is what she wanted to do before the assassination, so this seems to be her "returning to normal".
+I believe that this very much shows Halsey was influenced or infected by an alien being specifically to deliver those visions. Call it possession or just 'brainwashing', whatever. Once that was done it left her and she returned to normal. She didn't experience behavioural changes due to her experiences, it's clearly stated that she always planned to change her attitudes and ambitions, the assassination attempt simply interrupted her plans.
+
+Not a single link between Halsey and the Guardians has ever been put forward in Galnet that I can find.
+
+
+The Codex entry is the only place that links Halsey and the Guardians, this is what it says:
+In 3301, the Federal presidential vessel, Starship One, suffered catastrophic drive failure during a tour of frontier systems, resulting in the ship's destruction. Jasmina Halsey, at that time the Federal president, was left drifting in an escape pod, unconscious. During this period of stasis, Halsey believed she was visited by Trans-dimensional beings of extraordinary intelligence and compassion. Later, when she was rescued and revived, she was left with the conviction that this experience had been real, and not merely a hallucination.
+This ^^ matches the Galnet articles and is a good summary of known events.
+Halsey proceeded to experience visions of mysterious alien worlds and cities - dense metropolises full of activity and life.
+I can find nothing that mentions this ^^^ at all in any of Halsey's visions reported in Galnet?? where does this statement come from? Does anyone know? Have I missed something? (I've looked really hard, but I could have missed this particular connection?).
+She shared these visions with the rest of humanity, prompting explorers to set off in search of these undiscovered planets.
+This is sort-of true. Halsey never mentioned "mysterious worlds and cities" that I can find, but people did go looking for her "architects of creation", so it's a partial truth.
+This led to the discovery of the first Guardian ruins, in the Synuefe XR-H d11-102 system.
+This chain of events never happened. But... why is this in the Codex, because Tourist Beacon 0635 at Synuefe XR-H d11-102 says this: "The interception of a video transmission provided enough information for Commander Basch Fon Ronsenburg to triangulate the Location of these ruins.... " which easily could have been put into the Codex as part of this section to link it all together.
+The fact that these sites were devoid of life led to speculation that Halsey had seen the Guardian worlds not as they are, but as they had been.
+This was indeed some people's speculation, and still is - but as we've seen above, this link exists nowhere in the lore except here in the Codex (that I've found so far).
+
+
+So to me it seems like there's a pretty clear cut narrative for Halsey laid out over a couple of years in Galnet that doesn't link her at all with the Guardians and in fact she seems totally ambivalent to the Guardians (she's present in some Thargoid-related articles). This was backed up after the Codex came out during the Starship One investigation where Fdev had a great opportunity to link Halsey to the Guardians in any of the 7 Galnet articles that dealt with that whole issue - and they didn't.
+
+And then there's the Guardian Codex which very clearly associates Halsey with the discovery of the Guardains, seems to wrap it up nicely and neatly. It mis-quotes her actual statements, mis-represents what she actually claimed to have seen, misrepresents what happened in the actual discovery of the Guardian Ruins, and closes with speculation that very few (if any) people actually seemed to express instead of the speculation that she met post-Guardians, which is something many people think.
+
+The Codex knowledgebase is supposed to be an in-game source of information (as opposed to a source of meta-information available in-game), so are we supposed to notice these little discrepancies and think "aha, something's not right here!". Is this evidence of the Codex being a retcon? is this evidence of the "missing parts" of Halsey's story? Is this a mistake? Is this evidence of a conspiracy?
+
+????
+Reactions:
+simulacrae, CMDRCorrMorningstarFelian, Macros Black and 2 others

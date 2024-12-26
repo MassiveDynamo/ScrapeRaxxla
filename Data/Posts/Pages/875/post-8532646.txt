@@ -1,0 +1,13 @@
+Thatchinho
+Jun 15, 2020
+#17,481
+PeteACarter said:
+I think your thoughts regarding random events being prior to day 0 MUST be correct, because after day 0, I can't see how the algorithm could garuntee we all get the same system at the same time.
+
+I read a really insightful post into rogue planets a few days ago, but I cant find it now. IIRC, the best way to determine if a planet is not just to look for eccentric orbit, but also to look at the planets type and composition.
+
+If you have a HMC world further out than the gas giants, its probably rogue. If a planet in the outer system, has an eccentric orbit, look at its composition. If a high percentage of its materials are not found elsewhere in the system, its probably rogue.
+Click to expand...
+Yeah, that's pretty much what I was saying - the composition is what I meant by 'elements'. Need to look at stuff like that to try to distinguish captured bodies from bodies in disturbed orbits.
+Reactions:
+[PS4] Filthymick420, turkwinif and PeteACarter

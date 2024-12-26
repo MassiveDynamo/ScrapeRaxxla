@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Dec 29, 2023
+#32,791
+To clarify my earlier post, I think the components give hints directly (interactions like turning on or off stuff, download beacons, comms, hacking, etc) or indirectly (through in-game descriptions), give an idea of where to search. That said, anyone who wants it appears to have their work cut out for them. Also, I suspect a Holdstock link but time will tell on that.
+
+Beyond the big prize, getting deeper into comms networks and such may shed light on other mysteries.
+
+Note: There are installations mentioning cryptography (e.g. Conjoint Cryptographic Analysis amongst others). Just like how you scan to see interactions, there are layers to these puzzles. Installations were apparently not just for credits and fighting.
+Last edited: Dec 29, 2023

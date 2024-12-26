@@ -1,0 +1,17 @@
+Jorki Rasalas
+Apr 15, 2022
+#26,003
+Han_Zen said:
+Haven’t checked lately, but I would be surpriced If they are gone.
+You don’t have to be in the system to check. If you have the sysmap, they show up.
+OK, just checked. Ran up EDO and looked in both Star of India and Alpha Centauri system maps. Nothing showed, even after 20 minutes of watching the SOI system map, but then the star wasnt very active wrt CME..
+
+For interest of anyone who didnt check the previous references here is SOI in Horizons from 28/5/2020 showing the anomaly to the left of the star.
+
+and here are three pics of it taken just now, also in Horizons. The first two show how it grows with time, and the last shows the star shifted vertically, but the anomaly hasnt shifted as much, while the star background doesnt move, demonstrating they are all in different graphical layers.
+
+and here's a pic of the one (just above the mouse pointer) in alpha cent in Horizons taken just now. Had to brighten them all to make the anomaly show in the pics.
+Edit: the fact that these “anomalies” didnt seem to appear in EDO, and their graphical behaviour, reinforces my belief that they are from some software bug related to the way the CME animation operatesin Horizons!
+Last edited: Apr 16, 2022
+Reactions:
+Crimson Echo and Han_Zen

@@ -1,0 +1,174 @@
+Noobilite
+Jul 9, 2018
+#2,941
+I said this somewhat jokingly, but if you (can) plot out all the Braxxla systems can/do they make a particular pattern? Maybe it reveals something. They looked like they were all in the same area. Or many were. It would be funny if they make an arrow or a bullseye or something. Or an image that looks like the wheel of raxxla. No reason not to exhaust the idea. 8) (I would do this but the game is not working on linux atm and I don't know of any websites that would let you do this easily and I don't knwo for sure what all of them are.) I think if anything else you could try to make sure the image is perfectly lined up and edit in a paint thing. The one website does use an actual image of the galaxy. Might have to zoom in a bit though which might be tricky. Or can you put in several locations in EDSM maps or use a plotted course in game if they are close enough?
+
+I know. Likely a wild goose chase.
+
+Is it possible for two systems to have the exact same name? Or are all system names unique?
+
+Known locations: (I can locate in this thread.) (I stopped at page 170 going backwards from here.)
+
+PHOOE BRA XX-L A76-0 ; Phooe Bra XX-L a76-0 (Checked by rOmiLaYu)
+Hypi Bra XX-L a21-0
+Hypi Bra XX-L a117-0
+HYPAO BRA XX-L A7-0 ; Hypao Bra XX-L a7-0 (Checked by rOmiLaYu)
+Hypao Bra XX-L a76-0
+Dryu Bra XX-L a36-0
+DRYU BRA XX-L A7-0 ; Dryu Bra XX-L a7-0 (Checked by rOmiLaYu)
+Dryu Bra XX-L a49-0
+DRYU BRA XX-L A21-0 ; Dryu Bra XX-L a21-0
+Dryu Bra XX-L a9-0
+Dryu Bra XX-L a35-0
+DRYU BRA XX-L A63-0 ; Dryu Bra XX-L a63-0
+Dryu Bra XX-L a76-0
+Dryu Bra XX-L a118-0
+Dryu Bra XX-L a117-0
+Dryu Bra XX-L a62-0
+Ooscs Bra XX-L a7-0 (Checked by rOmiLaYu)
+Ooscs Bra XX-L a7-1
+Ooscs Bra XX-L a7-2
+Ooscs Bra XX-L a36-0
+Ooscs Bra XX-L a90-0
+Ooscs Bra XX-L a90-1
+Ooscs Bra XX-L a104-0
+Ooscs Bra XX-L a35-0
+Ooscs Bra XX-L a63-0
+Ooscs Bra XX-L a76-0
+Ooscs Bra XX-L a117-0
+Ooscs Bra XX-L a62-0
+
+Edit: 28 systems counted!
+
+There are a few that don't have hyperlinks. This is from literal copy paste and then putting them in the master list. So those might not have been visited. Or I missed a link or there wasn't one for someone visiting those systems. Obviously the ones visited by rOmiLaYu are likely visited. Unless I oops.
+
+
+
+
+Edit: 26 systems counted. Unless They are overlapping. Might be missing 2 compared to the above list.
+
+Looks like someone already did this.(including the picture above.) I completely missed that post.(Does it have them all at that point?) Still interesting. Maybe if seperated into OOSCS and DRYU etc... (I know busy works. 8p) Or at different angles. It could be like connect the dots.(I'll get a paint program. NVM, can't see enough names.)
+
+Interesting note: There is 1 of each A76-0 for each type of system: PHOOE BRA XX-L A76-0, HYPAO BRA XX-L A76-0, DRYU BRA XX-L A76-0, OOSCS BRA XX-L A76-0
+
+Except hypi that is. I didn't notice hypi was a different name.
+
+There are also alot of repeats like 117, and 21, etc.
+
+
+Here is a list with the numbers in order. Then alphabetical:
+
+
+Dryu Bra XX-L a7-0 (Checked by rOmiLaYu)
+Hypao Bra XX-L a7-0 (Checked by rOmiLaYu)
+Ooscs Bra XX-L a7-0 (Checked by rOmiLaYu)
+
+Ooscs Bra XX-L a7-1
+
+Ooscs Bra XX-L a7-2
+
+Dryu Bra XX-L a9-0
+
+Dryu Bra XX-L a21-0
+Hypi Bra XX-L a21-0
+
+Dryu Bra XX-L a35-0
+Ooscs Bra XX-L a35-0
+
+Dryu Bra XX-L a36-0
+Ooscs Bra XX-L a36-0
+
+Dryu Bra XX-L a49-0
+
+Dryu Bra XX-L a62-0
+Ooscs Bra XX-L a62-0
+
+Dryu Bra XX-L a63-0
+Ooscs Bra XX-L a63-0
+
+Dryu Bra XX-L a76-0
+Hypao Bra XX-L a76-0
+Ooscs Bra XX-L a76-0
+Phooe Bra XX-L a76-0 (Checked by rOmiLaYu)
+
+Ooscs Bra XX-L a90-0
+
+Ooscs Bra XX-L a90-1
+
+Ooscs Bra XX-L a104-0
+
+Dryu Bra XX-L a117-0
+Hypi Bra XX-L a117-0
+Ooscs Bra XX-L a117-0
+
+Dryu Bra XX-L a118-0
+
+This means there are 13 or 16 groups of unique numerical references so far. 13 if you count the repeating -1&2 as the base number and 16 if you count them separately.
+
+
+Phooe: (rightfully named)
+Total Systems: 1
+Total Stars: 1
+Total Planets/moons: 0
+Total Planets: 0
+Total moons: 0
+Total bodies: 1
+Planet-less Stars: 1
+
+Hypi:
+Total Systems: 2
+Total Stars: 2
+Total Planets/moons: 16
+Total Planets: 15
+Total moons: 1
+Total Bodies: 18
+
+Hypao:
+Total Systems: 2
+Total Stars: 2
+Total Planets/moons: 11
+Total Planets: 8
+Total moons: 3
+Total Bodies: 13
+
+Dryu:
+Total Systems: 11
+Total Stars: 11
+Total Planets/moons: 69
+Total Planets: 64
+Total moons: 5
+Total Bodies: 80
+Planet-less Stars: 2
+
+OOSCS:
+Total Systems: 12
+Total Stars: 12
+Total Planets/moons: 91
+Total Planets: 75
+Total moons: 16
+Total Bodies: 103
+Planet-less Stars: 2
+
+All:
+Total Systems: 28
+Total Stars: 28
+Total Planets/moons: 187
+Total Planets: 162
+Total moons: 25
+Total Bodies: 215
+Planet-less Stars: 5
+
+*I haven't seperated planets and moons yet. That might be interesting.
+
+
+BTW, the finger of god looks more like the fist of god to me. But with a long extended thumb looking from a slightly downward angle. Like god saying. Damn right! I made the universe! ><
+
+Edit: Is there a simple program that could take the generic numbers of the system locations and use those to draw lines etc and map them out just from those references? Example: -20369.75 / -18.4375 / 29737.3125.
+Those are just grid locations. Just fairly large ones. I can't think what common program could do that off hand. Is there one in linux windows or mac anyone knows that could quickly input those numbers and do things like connect lines without having to go in game?
+
+I found something called gmsh and it was installable from my fedora repositories. Still figuring out how it works and if I can make it do what I want. Does anyone know how to do this? I'm assuming it's not too hard if you know what you are doing. I think you can plot points and then connect lines in this program, but I haven't quite figured out how to do it yet. I don't use stuff like this so I'm unfamiliar.
+
+I'm installing freecad with it to see if it's needed for it to work. I'm not likely to get this working though any time soon. So, if anyone wants to give it a shot we could have a nifty quick downloadable file with the points plotted out and possibly ways to view them by name.
+Last edited: Jul 11, 2018
+Reactions:
+Friedenreich Xante, Han_Zen, Jorki Rasalas and 1 other person

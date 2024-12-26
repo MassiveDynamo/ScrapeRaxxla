@@ -1,0 +1,41 @@
+Adel
+A
+Mar 14, 2022
+#25,704
+Koben said:
+I'm not so sure the bookmark always targets the orbital centre... specially with comets because some might have hyperbolic trajectory.
+
+Also, Sol system, hence its Asteroid Cluster, was hand-crafted by Frontier... so, everything we see or don't see in there is planned upon... this includes the target-to-drop for the Asteroid Cluster being inside the Sol (main star) to prevent us for easily finding it or dropping at it.
+Just to be precise:
+Cluster = a signal source, for example "Shinrarta Dezhra A A Belt Cluster 1"
+Belt (origin) = "Shinrarta Dezhra A A Belt"
+
+In fact there is NO CLUSTERS at all in Sol from asteroid belt (and i already saw that in another system but cannot remember the name, so it's not a fdev mistake this time).
+
+When you see logs from other systems (which have clusters), the pattern is always the same (example: Shinrarta Dezhra):
+1) Star around which the belt clusters will be attached, and is also the origin point of the belt:
+
+JSON:
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", [B][U][COLOR=rgb(65, 168, 95)]"BodyName":"Shinrarta Dezhra"[/COLOR][/U][/B], "BodyID":1, "Parents":[ {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":0.000000, "StarType":"K", "Subclass":4, "StellarMass":0.648438, "Radius":533171360.000000, "AbsoluteMagnitude":7.129517, "Age_MY":8068, "SurfaceTemperature":4343.000000, "Luminosity":"V", "SemiMajorAxis":173078793287.277222, "Eccentricity":0.018651, "OrbitalInclination":21.118831, "Periapsis":201.271868, "OrbitalPeriod":159594273.567200, "AscendingNode":0.000000, "MeanAnomaly":342.599692, "RotationPeriod":285618.408516, "AxialTilt":-0.041915, [COLOR=rgb(65, 168, 95)][B][U]"Rings":[ { "Name":"Shinrarta Dezhra A A Belt"[/U][/B][/COLOR], "RingClass":"eRingClass_Rocky", "MassMT":1.1762e+14, "InnerRad":8.7973e+08, "OuterRad":2.1867e+09 } ], "WasDiscovered":false, "WasMapped":false }
+
+2) The Belt Origin
+
+You can see that on the line above in section "Rings":
+JSON:
+"Name":"Shinrarta Dezhra A A Belt"
+
+3) Clusters
+
+The signal sources we can target and drop in/out:
+
+JSON:
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 1", "BodyID":4, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":4.891631, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 2", "BodyID":5, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":4.667826, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 3", "BodyID":6, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":6.669680, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 4", "BodyID":7, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":4.255642, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 5", "BodyID":8, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":4.596694, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 6", "BodyID":9, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":3.463373, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-02-08T12:15:55Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Shinrarta Dezhra A A Belt Cluster 7", "BodyID":10, "Parents":[ {"Ring":3}, {"Star":1}, {"Null":0} ], "StarSystem":"Shinrarta Dezhra", "SystemAddress":3932277478106, "DistanceFromArrivalLS":3.309002, "WasDiscovered":false, "WasMapped":false }
+
+So the fact that when someone target Asteroid Belt in Sol, which belt origin is the Sun, is normal.
+Now if you want to try it, bring sun glasses because you will drop very close from the Sun

@@ -1,0 +1,7 @@
+Noobilite
+Aug 25, 2019
+#11,286
+I did based on coordinates. I have no idea how to figure out mass. I was using very low end math without sin or cos stuff. I figured out based on a cube/rectangle and then figured out the other directions and adjusted from the starting location.
+
+You can use ED coordinates to do SquareRoot(|A1 + A2|^2 + |B1+B2|^2 + |C1+C2|^2). This gets the distance of the hypotenuse between the two targets. then I figured other angles out with Pythagoras theorem. In this case I cheated and assumed a right angle in the end and used the 1/3 2/3 ratio for a center mark to cheat and get the distance and then assume the same 1/3 of all distances from the cetner of Maia and Chi Orionis to get the +890ly coordinates. So, it's a little rounded and shortcuted. But it's fairly accurate. I think.
+Last edited: Aug 25, 2019

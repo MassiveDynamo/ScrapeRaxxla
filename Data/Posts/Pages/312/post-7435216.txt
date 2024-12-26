@@ -1,0 +1,7 @@
+Jorki Rasalas
+Feb 21, 2019
+#6,228
+Garand1987 said:
+Anyone actually chase the coords from the listening post in Delphi? Never noticed it before myself, but it gives a thing about someone being chased (probably by thargs) an incomplete lat and long location, and a statement that the signal is also found in a HIP system and a Pleiades Sector System. Didn’t get a change to chase it myself yesterday as the servers went down for maint.
+
+Can you pm me the details & I’ll update the LP/UCB sheet (see my signature)

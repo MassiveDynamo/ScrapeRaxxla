@@ -1,0 +1,9 @@
+Han_Zen
+Aug 6, 2019
+#10,306
+Xenia_K said:
+as I understand it they only need the model on the server, system details will be generated upon first discovery only - hence it shouldn´t take to much server-space....
+The system is actually created locally on your computer, every time you enter the system. As we all have the same seed for the generation, it will look the same for all of us. Even down to individual rocks on a planet surface.
+In a proc. gen. system without anything special, you only download first discovery information and probably some hand shake info.
+Reactions:
+AOpsyche

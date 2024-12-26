@@ -1,0 +1,6 @@
+Vasquess
+Mar 8, 2019
+#6,430
+We have Lagrange clouds, which could be a hint that this mechanic might work. Even though clouds would not accumulate at unstable points, as L2. A station could stay at L2 with little energy for position correction.
+Reactions:
+Jaiotu

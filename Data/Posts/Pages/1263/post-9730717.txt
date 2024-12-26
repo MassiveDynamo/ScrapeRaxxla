@@ -1,0 +1,31 @@
+Adel
+A
+Feb 5, 2022
+#25,241
+alexzk said:
+Fixed that for you
+C++:
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>                                       // I need this to use the pow() function (power)
+#include <string.h>                                      // i need this to convert number into string
+
+
+
+ 
+
+     ID_Base                               
+     ID_Overflow  ID_Base                               
+    stdcout    ID_Base    ID_Overflow  
+     
+Click to expand...
+Thx mate .
+But i don't have the same output result than Cmdr Pyroboros's spreadsheet.
+What do you have for output?
+
+Look mine:
+
+Code:
+Base: 10477373803; ID_Overflow=10986322712854528
+Process returned 0 (0x0)   execution time : 0.075 s
+Press any key to continue.

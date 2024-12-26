@@ -1,0 +1,31 @@
+CMDR Davanix
+Dec 1, 2021
+#24,922
+yelboc said:
+1 ly = 365.2*24*60*60 lsecs (i.e. number of seconds in a year)
+
+1ly is then 31.5kls. so 0.1ly =3155ls, so close enough. Your 17261ls is ~0.55ly
+
+But if you are using Stellarium or other orbital software to find it then you may be disappointed as ED doesnt model the orbits in the same way as they do. Stellarium, for instance uses a multi-body model that corrects for all the interaction between bodies. ED looks like its just simple ellipses, so the comet wont be where the tools say it is. Even tools like Stellarium have doubful accuracy projecting forwards to
+
+IngvarGreen said:
+Click to expand...
+I am being honest i have never seen this before...now I think personally it is a graphical glitch where the game crashed and done so before the colour pallet loaded for the background environment of the jump as iv had jumps do this however only maybe 1 colour, however due to the colours being missing I have noticed that there is a group formation of stars I have never seen in the jump that may usually be obscured.....I wonder what group formation of stars this is and are they in every jump? if so whats so special about them to pass you 3-4 times while jumping...
+
+
+
+1st time
+
+
+
+2nd time
+
+
+
+3rd time
+
+and more after and on the other side when jump turns
+
+Last edited: Dec 1, 2021
+Reactions:
+Rochester and Adel

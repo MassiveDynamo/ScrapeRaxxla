@@ -1,0 +1,13 @@
+Elliot Coleman
+Nov 21, 2020
+#19,744
+Jorki Rasalas said:
+Odd. I've been using WIn+Alt+PrtScrn for about a year to save screenshots. Now when I try it the game crashes. Works ok at the Win10 desktop level.
+
+Error message said a file has failed to load as Direct3D couldn’t lock a buffer. I’ve checked the graphics card & keyboard drivers in Win10 & it says they’re both up to date. Though the screenshot is taken and converted by EDDiscovery.
+
+
+
+I use HCS and simply tell Archer to do it.
+Reactions:
+[PS4] Filthymick420 and Macros Black

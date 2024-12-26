@@ -1,0 +1,5 @@
+Jorki Rasalas
+Jun 10, 2020
+#17,233
+Ah, server backup (strangely the status on the launcher page showed OK throughout the last 30 minutes!)
+They've clearly revised the galmap MMI- sysmap icon only shows if you've visited there, and bookmarks still a horrible orange shade!

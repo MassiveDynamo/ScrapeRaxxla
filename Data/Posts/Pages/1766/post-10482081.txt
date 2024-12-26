@@ -1,0 +1,10 @@
+Jorki Rasalas
+Nov 14, 2024
+#35,308
+Rochester said:
+MBs statement that some bodies might not necessarily have a star; or his various references to Dark Systems in his writings, might, I do wonder - pose an interesting possibility for hiding Raxxla?
+We've discussed this many times. The question is how to find it....the original dark systems of the literature were just one or more planets, no star, so the in-game system name would be something like XXX-XXX Axx, the A coming from the extremely low mass of a planet on the stellar scale. Dont think it would show at all on the Realistic Map view. If we entered such a system it would (should) be entirely black without a star to provide illumination, so visually very uninteresting. A Rogue Planet might emit infrared radiation if it had internal heat (e.g. from residual nuclear isotope decay) but I dont think we could see that ...although the game lore says our ship sensors detect heat we cant see it and the "night vision" implementation in-game is IMO unrealistic. Although the system star type specification allows for Rogue Planets, I suspect FD might have carefully considered the original dark system type and decided not to implement them as they would be just meh for gameplay. But the Exotic Star might be an explanation for Raxxla- it might look like a normal in-game NS or BH, but might lead to an entirely different place if used for boosting or entered...possibly allowing a boost into a regional locked area or into a far distant star cluster (think MB said there are a few in-game), but then there would be no chance of return so truly an end game!
+Exotic star - Wikipedia
+en.m.wikipedia.org
+Reactions:
+Rochester

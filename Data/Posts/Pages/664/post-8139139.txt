@@ -1,0 +1,30 @@
+Han_Zen
+Nov 13, 2019
+#13,263
+yelboc said:
+so it is ! Curious that its not in EDSM by HIP number. This is the correct star, but what a boring place.. just the A star and nothing else - in RL its an eclipsing binary, so really there should be a secondary star.
+
+https://www.edsm.net/en_GB/system/bodies/id/30513/name/Alphekka
+
+Now just because there is nothing there, doesn't mean its not of interest - it maybe that its part of a trail map or location line etc.
+
+thanks for the corrections !
+
+Coma Berenices is related to the tale of Ariadne and Dionysus. Ariadne the Minoan, the half sister of the Minotaur. Dionysus (also known as Bacchus) brings us back to the
+Click to expand...
+Catalogue numbers like HIP are always searchable in-game, for stars that have them. EDSM lacks this function. Both EDSM and the game lacks 'part name' search. This cam make it tricky to find real stars.
+
+If you want to find HIP 76952 you will find it in-game, but not in EDSM. If you were to search for Gamma Comae Berenices(Bayer designation), you wouldn't find it in either.
+In ED it's called 8 Comae Berenices(Flamsteed designation). Sometimes the game even combines the two. The name would then be '8 Gamma Comae Berenices' (It's not).
+
+Prioritization of names in ED seem to be approximately:
+
+1. Real name
+2. Bayer designation
+3. Flamsteed designation
+4. Flamsteed / Bayer combo
+5. Special catalouge number (Gliese, Wolf, LTT, HR etc.)
+6. HD number
+7. Hipp number
+Reactions:
+VoltaDynam7cs, [PS4] Filthymick420, Six6VI and 3 others

@@ -1,0 +1,21 @@
+Cmdr SpaceMerlin
+Jul 18, 2020
+#17,944
+Emperor said:
+Oh on 7... If “-“ = 0 and “|” = 1 (binary) then it’s 1,2,3 in decimal... the order you have to do something.....?
+
+there are thoughts that Thargs work in octal due to the eight sided nature of their ships...
+
+By the way, was this image ever decoded (it's the spectrum of the noise emitted by the Tharg Probe / UP)? I can't remember what became of it.
+
+
+
+I have a few grinds to finish before i get back to mystery stuff, but seeing as we're given steps here too, i'd be curious to see what happens if you take a ship to Merope 5C and try some stuff. Here's what i see :
+
+Step 1 : Fly (below blue line) from 0°N/0°E to 45°S/90°E
+[get back above blue line]
+Step 2 : Fly (below blue line) from 0°N/90°W to 90°N
+Step 3 : Honk from 45°N/90°E
+Step 4 : Go to 45°S/90°W and see if something is now "open" ?
+Reactions:
+PeteACarter, Emperor and [PS4] Filthymick420

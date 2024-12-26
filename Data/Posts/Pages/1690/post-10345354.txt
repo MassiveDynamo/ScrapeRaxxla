@@ -1,0 +1,8 @@
+El Saico
+Apr 5, 2024
+#33,785
+CMDRCorrMorningstarFelian said:
+What software are you using? Asking because there are other mysteries beyond Raxxla where visualization may actually be helpful.
+It's Blender; a proper 3D tool, which helps with visualization, its objects can belong to multiple collections and the Python API helps a lot with importing system data.
+Reactions:
+CMDRCorrMorningstarFelian

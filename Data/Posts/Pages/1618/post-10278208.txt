@@ -1,0 +1,32 @@
+RaNaketh
+Dec 6, 2023
+#32,352
+El Saico said:
+There is also an M (above the Sidewinder's top view, crossed by the outer circle) and what appears to be a partially obscured letter (by the last E in "ELITE").
+Bushido Brown said:
+SPOILER: MANUAL FRONT COVER
+
+
+Here's one for the "little bit obvious" crowd.
+The letters V, H, G, R, A. Can be read on the manual's cover. Putting aside futuristic marital aids, a map?
+This occurred to me as a joke, but I still feel I must post.
+
+I've also thought we missed some obvious things, and your post made me take a closer look at the manual image. I went back to v1.05 and whilst it's still the same image, I thought I'd start closer to the original release to verify.
+
+I un-blended the image into varied layers / colour removals to see if anything stood out. It lead me to notice that there are base-schematic diagrams that have been used. What looks like a Train Loading Gauge system (Gabarit UIC 50?), a potential motorcycle cyclone engine, and a historical building schematic, in which the letters you can see were often used.
+
+GIMP un-blending
+
+
+Train Gauge?
+
+
+What did strike me though, was this section of the image which looks a lot like an FSS / DSS scanner tuning. But as I wasn't playing right at the start, I don't know if something like this existed for a system to discover what's there? It's a reach but the larger circle with 4 smaller orbiting circles, and the other three larger ones might indicate a system of some kind we should be focused upon?
+
+
+
+Fly Dangerously.
+/ Ra
+Last edited: Dec 6, 2023
+Reactions:
+StuBaDub, CMDRCorrMorningstarFelian, Han_Zen and 4 others

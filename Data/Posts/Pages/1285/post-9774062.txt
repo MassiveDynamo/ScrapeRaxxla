@@ -1,0 +1,8 @@
+Koben
+Mar 14, 2022
+#25,694
+Jorki Rasalas said:
+Thanks Cmdr! That was really clear. Having to set & select a bookmark is similar to when we were searching for asteroids in Sol, the bookmark ends up in the centre of the Sun because we were selecting the centre of their orbit, no actual asteroids involved.
+I'm not so sure the bookmark always targets the orbital centre... specially with comets because some might have hyperbolic trajectory.
+
+Also, Sol system, hence its Asteroid Cluster, was hand-crafted by Frontier... so, everything we see or don't see in there is planned upon... this includes the target-to-drop for the Asteroid Cluster being inside the Sol (main star) to prevent us for easily finding it or dropping at it.

@@ -1,0 +1,21 @@
+Leadfoot
+Jun 17, 2020
+#17,557
+Mrrshal said:
+I just noticed another odd thing in CD-58 16
+FYI, I went out there today, did a full sweep as if it was the first time the system had been entered. Checked the FSS and found over a dozen "unknown signal sources" which turned out to be debris from wrecked ships. Some (but not all) of them had a transmitter there. Tune into it and you get "data" you can use with an Engineer. I originally thought it was a bug with the message simply not coming through in the mailbox but this is not the case - it's just data stuff for engineering purposes.
+
+Fully scanned both planet and moon. The moon has a number of geologic points. The planet is the odd one - it says "one human signal source" but it doesn't show up on the Nav panel. Did a few orbits around it and nuttin'.
+
+Tried landing on the planet. Picked a huge crater and landed in it. I want to say that is some really red outgassing there:
+
+
+
+
+On the ground, the only "things" other than rocks you can shoot turned out to be some "hidden base" with a security area around things. Several sentries there and was visited by an NPC patrol ship checking to make sure no one was breakin' da law. That might have been the "one human signal" I noted on the FSS but I know there's more than one. The wave scanner was picking up a rather significant number of signals in the high-band and this was only in the crater area I landed in.
+
+I checked out another area outside the crater and the same thing was found, i.e., lots of signals in the high-band, security areas, etc.
+
+My conclusion is that this system was "hand crated" for missions to "go in there and get stuffs."
+Reactions:
+[PS4 Pro - PC] earthtone99, Jaymundo87, PeteACarter and 2 others

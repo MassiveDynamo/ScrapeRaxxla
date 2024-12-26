@@ -1,0 +1,50 @@
+Louis Calvert
+Jan 26, 2024
+#33,175
+Ian Doncaster said:
+Tried a refinement of the misjump idea; the system grid is 1/32 resolution so use endpoints where the midpoint is also a valid grid coordinate.
+
+List of systems that didn't work for under the cut.
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I also tried it with SagA* and Juenae VC-E c1-859, on the thinking that to avoid leaving clues in the hand-coded systems data, the hidden signal source would ideally be a fully procedural system; at that point, even with star density in the core it's tough to find 3 systems in a perfectly evenly-spaced line, so being able to handplace SagA* without anyone suspecting anything [1] would be beneficial.
+
+This was the closest one using SagA* as an endpoint, it comes in well over a LY off the estimated signal location, and also obviously didn't work.
+
+
+
+
+[1] I mean, I'm somewhat suspicious - there are oddities in the way the boxel grid is constructed and SagA* is positioned that are a bit odd given that it's apparently a human-centric coordinate system.
+- the grid is aligned so that Z points towards the galactic centre, but SagA* has a non-zero X-coordinate. I don't know if that's realistic (SagA* is also orbiting the galaxy's centre of mass at a small distance) or not
+- the positioning of the sector boundaries relative to Sol seems really arbitrary: having the Y-boundaries line up roughly to the galactic plane makes sense, but the X- and Z- ones don't appear to line up with anything; neither Sol nor SagA* is at the centre nor the intersection of the grids
+
+Whether this is a secret clue or just that the grids were put on with some other Stellar Forge criterion (e.g. to make them roughly symmetric about the galaxy's mass) and Sol is where it is, I don't know - but even then it's still a bit weird that the X-alignment of the grid is at -65 relative to Sol and -90 relative to SagA*
+
+Why does the coordinate grid come really close to using a Sol-SagA* line as the one arbitrary baseline it can definitely pick ... but not quite actually do it?
+
+(It's probably nothing; the Thargoid's have based their probe's measurement system on Merope 5c for apparently equally arbitrary reasons)
+Click to expand...
+This is interesting. A lot of it is beyond me unfortunately, am I right in thinking that you're saying that the way the galaxy is constructed around Sgr A* could be seen as strange enough to obfuscate hidden systems or other oddities?
+
+On a different note, to save making another post:
+I have been checking old Youtube videos of hyperspace jumps to see if the @D7 anomaly appears in them. It does as far back as 2017, before that I'm struggling a little bit since it's already a bit harder to see due to youtube compression.
+
+It gets quite a lot easier to see after the Odyssey witch-space update (both Horizons and Odyssey checked) - that may relate to any number of technology improvements in any part of the process, not necessarily indicative of a deliberate attempt to increase its visibility.
+Reactions:
+Emperor, Quaero and CMDRCorrMorningstarFelian

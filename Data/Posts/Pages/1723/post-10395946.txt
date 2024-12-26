@@ -1,0 +1,19 @@
+selbie
+Jul 5, 2024
+#34,446
+Louis Calvert said:
+I agree, I've not seen this tested on the forum thread(s) yet strangely, but the youtube vid I watched where someone talked about this said that they believe the sound is instanced for the individual "client side" (4:20 in the linked vid), but they were not specific about any other details and didn't sound like they'd tested it.
+
+I've seen no actual tests for this yet.
+
+He also says the signal doesn't appear in all stations, actually none he checked in the Empire "at all", and some elsewhere. He's not specific about how many he checked.
+The client-side aspect may be a result of the game relying on Peer to Peer synchronisation. It may also indicate that it is based on your pilot status - thus, lore-related.
+The video comment raises a good point:
+What might be a reason that Imperial stations don't send to YOU in particular?
+What's your standing with the Imperials...or their enemies?
+It's a shame the creator didn't respond with his Fed and Empire ranks because it would have clarified that pretty quickly.
+Regardless it would be fairly straightforward to test:
+Does the signal appear in Empire stations with low rank? Does it appear with high Empire rank? Same deal for Fed stations.
+Similarly for the local faction reputation. For example, one station controlled by Faction A with ally status could have the signal, but Faction B with enemy status within the same system doesn't.
+Reactions:
+Rochester

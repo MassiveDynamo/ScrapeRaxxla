@@ -1,0 +1,27 @@
+Edelgard von Rhein
+E
+Apr 19, 2019
+#7,575
+Noobilite said:
+Galaxy 1-4 from:
+
+
+
+I have this in a document. Having problems with alt tabbing because of wine/linux atm. It has the full list(non reduced) of the systems I've check with galmap in game. These are the end results of 1-4. Haven't done 5-8 yet.
+
+Underline means direct result. Non underline means no direct result but get some odd result. * is a bit reduntant and means multiple results in gal map. This can apply to both of the previous.
+
+You'll note that so far only galaxy 1 and 2 have any systems represented. And only one from galaxy 2.
+
+I was also planning on making a list of all searches producing more than one result or a result besides the text given. And list all results. From the ones I've done I think only 2 are very far from the bubble. They are near colonia. The results are very weird when it comes to non given results. It's so odd I wonder if it's on purpose. It doesn't make search as a general result for name base search. So, is it on purpose?! If not it may help understand the galmap search function better to understand the game.
+
+Quickest way to search: double click name to get it to highlight. CTRL-C. Alt tab into game. Have galmap open and click the search bar or hit spacebar to speed this up potentially. Hit CTRL-V. Hit enter or click the triangle to search. Search as needed. Alt tab to document. Use(or make) shortcut to strikethrough. rinse repeat!
+
+I won't be able to search more until wine/linux/vram limitations stop making it impossible for me to alt tab. 8)
+Click to expand...
+The in-game search will return results also from space stations, planetary outposts and named worlds within a system. It also gives partial matches, so if the first three characters match, for example, then it would give unrelated matches that you do not want. I tried this myself a few weeks back for systems in galaxies 1-4, excluding the better-known systems and also Isinor, as I surveyed the permit-locked systems around December/January. Most of the systems from the first Elite are around the 'Old Worlds' region but a handful are elsewhere, like Ra, which is well out of position compared to the other Galaxy 1 worlds.
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/page-322#post-7463488
+
+The main problem with investigating the relevance of old systems in this game is that some were also in Frontier Elite 2 (FE2) and Frontier First Encounters (FFE) and the database of named systems from those games was brought over to Elite Dangerous. That means you are effectively asking why they were included in FE2 and FFE, where there was seemingly no Raxxla mystery, and then suggesting that this is applicable to Elite Dangerous. The effort is still useful as there could easily have been systems added from the first game that were not in FE2 or FFE, that could have (the potential for) storyline relevance.
+Reactions:
+Louis Calvert

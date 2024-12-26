@@ -1,0 +1,7 @@
+Koben
+Feb 9, 2020
+#15,141
+The max number on each segment for IPv4 is 255, so an IPv4 address for comms relay 290.422.11.1 does not exist...
+It might be a hint to something. I tried to decode it with no success so far...
+Reactions:
+Six6VI, Machina Ergo Sum and [PS4] Filthymick420

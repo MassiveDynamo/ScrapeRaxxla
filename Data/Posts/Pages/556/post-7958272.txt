@@ -1,0 +1,9 @@
+Non Grata
+Aug 21, 2019
+#11,119
+Jorki Rasalas said:
+Yes thanks, fairly sure that’s what I was doing. This is what I did to get the link in light blue in the old forum.
+Just switched off the PC, will try again tomorrow!
+Looking at the underlying code, you probably need to select more than just the text. Easiest way is probably just to delete the last two lines in one go (including any trailing spaces) and retype them.
+Reactions:
+Jorki Rasalas

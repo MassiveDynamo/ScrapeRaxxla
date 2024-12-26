@@ -1,0 +1,44 @@
+Adel
+A
+Feb 2, 2022
+#25,213
+Pyroboros said:
+What other unknowns in sol? the only thing missing as i know was Body21 all Body IDs are used.
+
+So i have this
+SPOILER
+
+I can check if there is something beyond 46
+
+EDIT: why i have not done it in SOL everywere eles i looked past the highest ID
+"StarSystem":"Sol", "SystemAddress":10477373803, "Body":"Daedalus", "BodyID":47, "BodyType":"Station" }
+thats the first time i see a Station whit an ID like that.
+Click to expand...
+
+When you honk Sol, it says "46 bodies found".
+In the logs:
+
+JSON:
+{ "timestamp":"2021-11-05T17:11:48Z", "event":"FSSDiscoveryScan", "Progress":1.000000, "BodyCount":40, "NonBodyCount":51, "SystemName":"Sol", "SystemAddress":10477373803 }
+
+40 Bodies in Sol
+The 6 missing from 46 to 40 are:
+Asteroid Belt (BodyID 6)
+Jupiter Halo Ring (BodyID 8)
+D Ring (BodyID 14)
+Halley's Comet (BodyID 21)
+ZetaCC Ring (BodyID 22)
+Galle Ring (BodyID 29)
+
+Now "What other unknowns in sol?" either he speaks about the six above or the "NonBodyCount" (51 of them).
+
+Sol has
+14 tourist beacons
+1 Asteroid Belt (no cluster)
+4 Rings
+1 "SmallBody": Halley's Comet
+
+=> So 20 out of 51 NonBodies.
+=> 31 Unknown "NonBodies"
+
+I'm in deep space for now so i don't know what are the signals in Sol (installations, etc), i just remember there are 2 or 3 ancient probes + "voyager" tourist beacon (already counted).

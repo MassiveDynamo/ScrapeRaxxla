@@ -1,0 +1,6 @@
+Crimson Echo
+Oct 12, 2019
+#12,716
+There is a barcode on the conda sort of near the medium hardpoints if memory servers. (the barcode use to render in VR floating away from the hull.) I think there is also a barcode in some stations on the wall/bulkhead thing as you move from outfitting back to the surface (or was it the other way around.)
+
+The detail on the cargo canisters makes me think there may be something in it, but if memory serves it only varied by 'type' of cargo container (the number stayed the same also) , and not cargo itself. (It has been a while since i last messed around with cargo barcodes so i could be remembering wrong.)

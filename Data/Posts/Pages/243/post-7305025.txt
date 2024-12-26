@@ -1,0 +1,16 @@
+Edelgard von Rhein
+E
+Dec 31, 2018
+#4,844
+I think those who are tackling the cryptic clue like CMDRGURU951 are on the right approach - and far more likely to solve the puzzle than I am. My concerns mainly lie in the nature of cryptic clues themselves and, if you don't quite get the answer right, the inability to determine at which point you went wrong. Please keep thinking about it!
+.
+Today I have noticed that the descriptions of permit-locked systems in the Galaxy Map tell you which faction/military issues the permit. I'm guessing this was changed with 3.3 as I don't remember seeing it before. For some systems, like Witch's Reach and Alpha Hydri, it now explicitly says that they are permit-locked by the Pilots Federation and that no permits are currently issued. For a couple of interesting systems - HIP 22460 and Polaris - there is no such statement and you only are told in the pop-up that e.g. the Polaris system permit is required. Perhaps they are now somehow obtainable?
+.
+Currently I am in the Sol system and there are two features that I should report here, (I'll be visiting them later today, they are quite distant): there is now an Installation called 'Delphi Control Chapter' in orbit of Pluto and the most distant body Persephone now has an Installation called 'Primary Transport Authority'. Given the references to Delphi and Persephone, these might be of interest - or they could be procedural names that are just coincidence. I'm in my Viper 4 which is able to take on other small ships in combat so I might try and help defend them if there's an active scenario at either of them but I might have a hard time of it, in which case I'll clear out, visit the remaining POIs (I want to visit New Horizons especially, given that it's doing its flyby of Ultima Thule overnight) and come back in my Python or Vulture.
+.
+EDIT: Having now visited them:
+Delphi Control Chapter is a Security Installation. There is a short-range exclusion zone but it didn't stop me getting very close and I can safely say that there were no Ship Log Uplinks or logs to download. No scenario was active. Getting close to the Pluto-Charon system revealed a Crashed Ship permanent POI on Charon but this seems a regular crash site, with a ship data core granting a voucher worth just over 110K Cr. It's awkwardly placed on the side of a mountain and it was lucky I was in my Viper 4, as this can find places to land even in rough terrain.
+Primary Transport Authority is a Government Installation. There was no exclusion zone and no logs to download. No scenarios were active.
+Last edited: Dec 31, 2018
+Reactions:
+Non Grata and Jorki Rasalas

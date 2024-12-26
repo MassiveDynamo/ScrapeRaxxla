@@ -1,0 +1,11 @@
+Edelgard von Rhein
+E
+Jan 4, 2019
+#4,901
+Jorki Rasalas said:
+Are these anomalies detectable by fss? If so what type of signal do they appear as?
+They should show up in the nav panel just from using the 'honk', appearing as 'notable stellar phenomena'. You can find them in the part of the fss associated with Concentrated Signal Sources (further right than those of Conflict Zones, in about the same place as RES sites and some distant stations and installations).
+.
+Once inside the Lagrange Cloud, keep an eye on your 3d scanner display for a set of unresolved contacts that does not match the location of metallic crystals. You can see metallic crystals from a few km away (also in night vision) but the Q-type anomalies are tiny and you need to be within a km or so (and do not show up in night vision). Fly toward any contact on your scanner that you cannot find a visual counterpart for and, depending on the type of notable stellar phenomena, you might find an anomaly or a life form. The ones in the two Lagrange Clouds in HIP 15310 were Q-type anomalies. Each cloud had only the one type of anomaly (from what I have seen, this is generally true). Scan them whilst they are 'active' to record a 'trait', but be careful!
+Reactions:
+Jorki Rasalas

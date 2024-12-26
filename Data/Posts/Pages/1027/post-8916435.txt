@@ -1,0 +1,24 @@
+yelboc
+Jan 23, 2021
+#20,529
+Vektorboson said:
+Do you remember what happens in the novel at Isis IX? Because there is more oddness in the Isis-system:
+
+none of the system bodies have a "discovered by"-entry This is normal for bubble systems that are named
+almost all planets have 4(!) "mapped by"-entries. Isis IX has only 1 "mapped by"-entry which is different to the others
+the Isis-star is a Class K-star which are usually around 0.6 to 0.9 solar masses; Isis is 0.36 solar masses, thus an unusual K-star
+the orbits of the gas giants have a recursive/fractal pattern (I really should provide a screenshot/animation here!); when you look at the Orrery, you'll find the orbit of Isis X resembles the orbit of Isis IX resembles the orbit of Isis VIII a.s.o. The Isis-star is basically at the same focal point for every orbit of the larger planets
+Then I have the feeling that the Super Cruise acts different, as if it were on hand brakes; as if there were another invisible mass/system body. I wish we had some telemetry-API since then it would be much easier to measure if the SC-acceleration is different to other systems.
+Click to expand...
+
+Whilst not an explanation, at least most of what you say is comon enough for hand authored system (i.e. non prodcurally generated) - see my bold italics above..
+
+The mention in the book is a 1 line throwaway:
+
+'Over the years quite a few depressed locals have killed themselves by jumping into our famous never-completed mineshaft,' he said. 'So perhaps we could encourage tourists to come here to do the same. Establish ourselves as a suicide hot-spot. Set up a stall, sell them farewell knick-knacks.' There was a good deal of excited chatter about this, until someone pointed out that 'farewell knick-knacks' weren't really a thing. Probably there was a boring moral question as well, but the real clincher, Misha argued, was that a half-dug hole on an out-of-the-way rock, even if it had briefly been a celebrated hole seventy years ago, wasn't going to be able to compete with the galaxy's more glamorous suicide hotspots. Nobody was likely to jump down a mineshaft when they could vaporise themselves crashing a rented starship into the rings of Isis Nine, or burn their faces off diving from the thousand-mile span of the Sapphire Bridge into the magma lakes of Cassiopeia.
+
+Interestingly Isis IX has no rings
+
+In general, there are a lot of anomolies betwenn the official novels and the final implementation of the game. It seems like its highly likely that the galaxy was modified between the books being finalised and the game being released. Basically you cant trust in game descriptions or bodies to match the books. In addition there are some glaring errors, such as the location of Tarlak - just down to human data entry errors.
+Reactions:
+bluecrash and [PS4] Filthymick420

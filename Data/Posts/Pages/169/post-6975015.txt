@@ -1,0 +1,9 @@
+Jaiotu
+Sep 3, 2018
+#3,369
+Han_Zen said:
+The only thing odd about the orbital behaviors in Sirius, is the orbit of Lucifer. It orbits about 20 times to slow to keep it's position around Sirius B. It would have to be one hell of a comet to achieve that.
+
+It's most likely a bug. I have reported it a long time ago, but got no response.
+
+Another odd thing about Lucifer's orbit is that it is specifically called out in the Gazetteer. It seems odd that Frontier would botch the job implementing a planet's orbit that had been so clearly described in the accompanying media from Frontier: Elite II.

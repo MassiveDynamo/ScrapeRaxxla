@@ -1,0 +1,4 @@
+yelboc
+Sep 8, 2021
+#24,241
+The difficulty is that stellarium gives the view from a spot on earth's surface, and gives locations in RA/Dec - these then have to be compared with view from a ship which has to be aligned in 3d. So first assumption will be that Earth is in the right place to judge Right Ascension

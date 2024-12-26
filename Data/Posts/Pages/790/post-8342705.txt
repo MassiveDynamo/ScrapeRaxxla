@@ -1,0 +1,13 @@
+Jorki Rasalas
+Mar 25, 2020
+#15,786
+Lest said:
+Here's the Corvette I use for BH/manufactured material gathering. There's room for improvement but it can take easily a wind of dangerous/elite in hazres while standing still. It need 4 pips to weapon the other 2 to system.
+You can replace a cargo by a fighter bay to bait ships that are too far: order the slf to attack an enemy before it gets out from your radar, then call it back. It usually does the trick and avoid you to run after a fresh target.
+
+If you intend to fight alongside authorities, gimballed weapons might be safer.
+
+Thanks. I’ve got all gimballs, apart from the two turrets in smallest slots...perhaps they were the
+problem, but they only fire at hostile targets. I have three long range lasers, so if I cant get close I use those at 6km & draw targets towards me. I got fed up with the collector limpets picking up cargo when all I wanted was materials, so have removed collector controller and cargo rack from my build, replaced with some more guardian srp. Pity there seems to be no way to tell limpets to just collect materials & no cargo, other than putting everything on the ignore list.
+Reactions:
+Machina Ergo Sum and Lest

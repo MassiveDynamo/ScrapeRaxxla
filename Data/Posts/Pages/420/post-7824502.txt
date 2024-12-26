@@ -1,0 +1,12 @@
+Exocortex
+E
+May 31, 2019
+#8,400
+DrewCarnegie said:
+I think it's reasonable to assume that FDev aren't willfully screwing over their playerbase by not actually implementing Raxxla.
+
+A bug which stops it appearing, on the other hand...
+
+Agreed. That is a reasonable assumption. Hopefully they built some nice automated tests around the "finding Raxxla" sequence.
+Reactions:
+PeteACarter

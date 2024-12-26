@@ -1,0 +1,9 @@
+Burning_Scull
+Jan 30, 2021
+#20,799
+It seems to me that to find asteroids, you should look for them based on their real position. This also applies to Trojan asteroids. They are easier to find based on the position of Jupiter. However, there is one problem, here it is necessary to act with mathematical precision. We are very lucky that Jupiter rotates very slowly (11.5 years) compared to other objects of ahahaha. I do not yet understand how to accurately calculate the position and trajectory of the flight in order to accurately arrive at the location of the Trojan asteroid belt. But I think, after studying the theory, you can determine, since it is tied to Jupiter.
+
+I assume that determining the asteroid belt around the sun is even more difficult...
+Last edited: Jan 30, 2021
+Reactions:
+[PS4] Filthymick420

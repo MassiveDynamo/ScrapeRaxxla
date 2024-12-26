@@ -1,0 +1,11 @@
+Garand1987
+G
+Sep 16, 2020
+#18,915
+Mattius101 said:
+Fuzzy halos around certain stars on the galmap
+If you go to the galmap and deselect every star type on the filter screen, you will end up with a blank map... mostly. But scattered throughout the sectors you will see small gray points. If you zoom in on one, and then re-select all of the star filters or go to "realistic" mode, you will always...
+forums.frontier.co.uk
+Seen this too on both PC and Console. They’re really common nearer the core since there’s so many stars. What I think it is is they place this fuzzy halo around really luminous stars to make them stand out on the map but that halo and star are two separate images overlaid so when you deselect the star it leaves its luminous halo.
+Reactions:
+Fiera, [PS4] Filthymick420 and Mattius101

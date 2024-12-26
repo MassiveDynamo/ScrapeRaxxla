@@ -1,0 +1,7 @@
+Koben
+Apr 13, 2021
+#22,908
+Simpler solution "if cluster size = zero, then delete cluster"
+Something that is not present just don't exist...
+Reactions:
+[PS4] Filthymick420 and X8785

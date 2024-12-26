@@ -1,0 +1,6 @@
+Jorki Rasalas
+Feb 8, 2022
+#25,273
+Well, unless you’ve done a military wipe of your hard disc the game logfiles will still be on the hard disc, don’t know where the pilot’s stats are corded but also likely recoverable but you’d need FD advice on that. A normal wipe just clears the index links to files. So a file recovery program should be able to find and resurrect them.
+Reactions:
+Rochester

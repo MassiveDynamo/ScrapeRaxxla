@@ -1,0 +1,22 @@
+Robert Rockbite
+R
+Sep 5, 2022
+#27,107
+Han_Zen said:
+Nice collection. If you want a tinfoily task, you could go out to Alpha Cygni (Deneb). I'm pretty sure it has a couple of comets. I haven't been able to verify, as I haven't gotten the hang of the method.
+
+Would be funny if the system map ghosts matches comets.
+The body id game in Alpha Cygni?
+Been there, done that.
+
+Plaa Eurk TI-B d13-1048576 Alpha Cygni 1
+Plaa Eurk TI-B d13-2097152 Alpha Cygni 2
+Plaa Eurk TI-B d13-3145728 Empty signal about 8800 Ls out
+Plaa Eurk TI-B d13-4194304 Empty signal about 10800 Ls out
+Plaa Eurk TI-B d13-5242880 Empty signal about 4100 Ls out
+Plaa Eurk TI-B d13-6291456 crash
+Plaa Eurk TI-B d13-7340032 crash
+
+Empty signals are not named as comets, just "Alpha Cygni"
+Reactions:
+Han_Zen, Ataxia and Rochester

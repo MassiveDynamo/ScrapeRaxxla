@@ -1,0 +1,17 @@
+Thatchinho
+Sep 25, 2018
+#3,620
+Stinja said:
+Are there any "Nebula" or "StellarRemnantNebula" that you can jump to though?
+
+They are also listed in the Star Descriptions list, and while such things are named in the galaxy map, I don't recall any being a specifically targetable destination: you jump to a star in a nebula.
+
+Han_Zen said:
+It looks like the rogues are their own system. It also looks like nebulae are their own systems.
+A nebula is searchable in the galmap, but not possible to select. They don't show up in the nav panel.
+
+Some nebula share coordinates with a star, like the Pleiades and Maia. Other nebula have no star at their coordinate.
+
+If rogues are in the game, don't think they show up in the nave panel. Someone should have found one by now. Statistically there may be billions of them in the galaxy.
+
+Good points!

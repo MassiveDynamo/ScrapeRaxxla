@@ -1,0 +1,25 @@
+yelboc
+Aug 7, 2019
+#10,339
+darkflemish said:
+Convert txt to binary
+Text to Binary Converter
+ASCII/Unicode text to binary code encoder. English to binary. Name to binary.
+www.rapidtables.com
+
+Convert binary to Fibonacci numbers (txt in it works also)
+Click to expand...
+I don't think you understand those tools
+
+1,1,2,3,5 are just the first five numbers of the natural fibonnaci series.....
+
+if you put the binary for 'darkwheel' in as a (decimal) seed in the fib generator, the output is:
+1346269
+2178309
+3524578
+5702887
+9227465
+
+for the next five numbers from that tool, but given the seed is much longer, I suspect it is limited to short numbers and not really giving the correct answer....
+Reactions:
+AOpsyche and PeteACarter

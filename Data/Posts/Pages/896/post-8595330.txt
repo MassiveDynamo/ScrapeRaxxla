@@ -1,0 +1,8 @@
+Six6VI
+Jul 16, 2020
+#17,913
+Spike78 said:
+I looked into the source code of the original Elite that was released. Nothing there to find about RAXXLA. Also even if there is some possibility that somehow a glitch could happened it clearly was not intentional from the programming side. That is if the released source code we got is truly the original used for the game since at some point the source was released and again taken back due the intervention of DB however some time later the source was released again. I never got my eyes on the first one so maybe RAXXLA was patched out of it. That said this source however is not the one that is used on the Amiga system. The port for Amiga was done by another company and RAXXLA might be a thing on that version.
+I had a rental copy on the BBC and never saw Raxxla. When I got my hands on a PC copy I used XTree Pro / Gold to dig through the .exe via the hex editor, long before Frontier was a thing. While you could read all the mission text that was buried right at the back end of the file I don't recall seeing any system names.
+Reactions:
+Hanerib, PeteACarter, simulacrae and 2 others

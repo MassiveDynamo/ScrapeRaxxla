@@ -1,0 +1,15 @@
+Han_Zen
+Jun 21, 2018
+#2,674
+Friedenreich Xante said:
+BTW how did you search galaxy map to find those Systems? Is there a way to use % or $ or * as a placeholder? Can't seem to find the trick.
+
+I use this site: https://cim.sotl.org.uk/elite-dangerous/
+
+To find sectors that end with 'RA' (Ctrl F - RA ). Remember the space after RA.
+
+Then i copy that sector name (e.g. Byooe Bra) to the galaxy map search box and add 'XX-L A'.
+
+Then I just click trough all the systems.
+Reactions:
+Friedenreich Xante

@@ -1,0 +1,10 @@
+Han_Zen
+Sep 30, 2018
+#3,686
+Jorki Rasalas said:
+Yes, that might be why RoguePlanet is only a parameter in the Star Class type. If reaches a system with other objects then it might well be captured and become a “naturalised immigrant”.
+
+Probably.
+A real rogue could spend hundreds of years within the bounderies of a system, but I don’t think Stellar forge creates objects like that.
+
+If it did, they should be displayed with no orbital period at all.

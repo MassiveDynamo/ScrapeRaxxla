@@ -1,0 +1,41 @@
+Merlin StWahgwaan
+Feb 20, 2022
+#25,393
+Pyroboros said:
+Comets get at least a position from StellarForge but are not in Game. We can figure out were StellarForge would have put them and drop there.
+
+Not an argument, I just want to maybe reclairify some thing.
+
+First, you kind of contradic yourself in that statement. If you can drop there, and see the name, isn't that in game?
+And this is where I hate saying/fighting about things being "in-game".
+
+Ok. In-game.
+
+Both Raxxla and Comets are very much 'in-game', that shouldn't be in question or even talked about. They are, in simple they are.
+
+The problem is, their level of implementation in game.
+
+Raxxla, at very least, is a Codex entry, IN GAME. Therefore exists in game.
+If that's the only level of implementation is the question.
+
+Same with comets.
+They are very much in game.
+You can locate them, SC to them, drop out at them, and have the name of the comet show in ship panel. They can even have stations orbiting them, ie. Gravity.
+In fact, the only parts of them missing, is the implementation of the Visual parts of them, and possibly being able to orbit/land on them.
+
+
+But saying these things are not "in game" very much irks me, when they very clearly are.
+
+We need to be discussing levels of implementation, not if they exist in game.
+They do.
+
+Anyways. Sorry. Not an argument just language usage and general grumpyness over things like Comet visuals, Tinoisla graveyard, ect not being implemented after being "promised" for so long and seemingly being relatively easy things too add.
+
+Edit: like the graveyard has been mentioned in game in galnet, so exists but not in any other way but that basically. I understand making a model is hard, but we're talking years now.
+
+And comets, again, models are hard, comet tails probably even worse, but atleast like, take some asteroid models and use them as place holders like the anaconda was used, and atleast give use SOMETHING to visually represent the comet.
+
+These things don't sound like they should take years to me, considering I'm an amature modder for some unreal engine games, and I learned to do that and created my first mods including additional content and models in under 1 month. With zero game dev experience of any kind, never mind unreal platform, blender or other stuff I had to learn to do that.
+Last edited: Feb 20, 2022
+Reactions:
+CMDR Davanix

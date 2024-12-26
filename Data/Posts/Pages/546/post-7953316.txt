@@ -1,0 +1,7 @@
+Cunder
+C
+Aug 18, 2019
+#10,906
+So from my understanding of the Constellation Cassiopeia in ED is you should be able to see the Constellations when you Select Sol from the Galaxy Map.
+
+My issue is if we know the main stars that form Cassiopeia. Why is it the constellation line itself not show in ED galaxy map from Sol perspective?

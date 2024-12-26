@@ -1,0 +1,9 @@
+[Diplomacy] Carnegie
+Jul 24, 2019
+#9,726
+Scytale said:
+Night vision might help when eyeballing possible orbits ? But only in normal flight... No ? Must be really tedious to low wake every now and then...
+
+Edit: taking examples of the known stations, what would be the most probable orbit ? Equatorial ? And the distance from the surface ? Relative to the body mass ?
+
+I think they're mostly equatorial-ish, but I don't think there's any 'formula' defining the orbital distance.

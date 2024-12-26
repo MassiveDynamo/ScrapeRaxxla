@@ -1,0 +1,123 @@
+Jorki Rasalas
+Sep 5, 2023
+#31,495
+OK, pondered Paradise Lost over lunch. If Adam & Eve are the toast's vagabonds after their expulsion from Eden then perhaps they're yearning to get back to Eden or Paradise? ...
+(musing: perhaps Raxxla a wormhole to transport you to Eden in Alpha Centauri ?? It is a long "personal journey"!)
+
+And I read that in PL Satan considered anywhere without the grace of god to be Hell, so wondered if after the expulsion Adam & Eve are in Hell.. so went from Fall to Paradiso and then Hel.
+
+Paradiso is just two stars, nothing to be found (though cannot check for "comets", but Hel is more interesting. Nothing found but there are plenty of unallocated bodyids!
+
+Hel body search
+system address 2175124097379
+Body#
+Body
+0
+Hel
+1
+ring
+2
+Hel A Belt Cluster 1
+3
+Hel A Belt Cluster 2
+4
+Hel A Belt Cluster 3
+5
+Hel A Belt Cluster 4
+6
+Hel A Belt Cluster 5
+7
+Hel A Belt Cluster 6
+8
+Hel A Belt Cluster 7
+9
+Hel A Belt Cluster 8
+10
+Hel A Belt Cluster 9
+11
+Hel 1
+12
+Hel 1 A ring
+13
+Hel 1 a
+14
+Hel 1 b
+15
+Hel 1 c
+16
+Hel 1 d
+17
+Hel 1 e
+18
+Hel 1 f
+19
+20
+21
+Hel 2
+22
+Hel 2 A ring
+23
+Hel 2 a
+24
+Hel 2 b
+25
+26
+27
+28
+29
+30
+31
+barycentre
+32
+Hel 3
+33
+Hel 3 a
+34
+Hel 3 b
+35
+Hel 3 c
+36
+Hel 3 d
+37
+Hel 3 e
+38
+Hel 4
+39
+Hel 5
+40
+Hel 5 A ring
+41
+Hel 5 B ring
+42
+Hel 5 a
+43
+Hel 5 b
+44
+Hel 5 c
+45
+Hel 5 d
+46
+Hel 5 e
+47
+Hel 5 f
+48
+49
+Hel 5 g
+50
+Hel 5 g a
+51
+Hel 5 h
+52
+53
+54
+55
+56
+57
+58
+59
+60
+Jones Orbital
+61
+Last edited: Sep 5, 2023
+Reactions:
+CMDRCorrMorningstarFelian, simulacrae and Edelgard von Rhein

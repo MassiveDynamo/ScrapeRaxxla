@@ -1,0 +1,15 @@
+Jorki Rasalas
+Jul 4, 2024
+#34,431
+Jorki Rasalas said:
+Yes, I've spent a week or so investigating both systems...but OT Serpentis ABC1 A ring has 33,863km - 46,455km radii, so mean is 40,159km, so mean circumference is 252,326km. At a speed of 400m/sec in normal space it would require 630,815 seconds (i.e. 175.22 hours) to fly round. Honking occurs every 16 seconds, during which time at that speed you've travelled 6.4 Km. I don't believe the range of the scanner is "infinite" for Raxxla, I think it will be very close; how close do we think we have to be to detect it? And then you have to shift over your track by the width of that detection distance and travel around the ring again....& repeat as required to cover the whole belt. And what if Raxxla has an RNG function built into it's detectability? Maybe it needs N honks to show up, where N could be totally arbitrary.
+
+Basically I think I've found the system it's in (either OT Serpentis or Dahan), but I think actually finding it will be pure fluke...UNLESS we can get more information from the garden designs and/or logo!
+Click to expand...
+I realised while half asleep this morning while the dog was encouraging me to get up that I'd forgotten super cruise in this rumination...
+At minimum super cruise of 30km/sec between honks you travel 480km. If we assume the 50km capture region of "comets" as a feasible indication (perhaps this is their reason for inclusion in-game?) for Raxxla/Omphalos then you have less than a tenth of a second to react, even if it shows up on scanner-however "comets" don't show on scanners!
+Edit
+actually I seem to remember the gravitational instance for comets was around 50Km (see Pareco thread) but I used to fly to within 200km before pressing the fsd button...so maybe a bit less than half a second in SC? assuming you get a sensor reading on it at 200 Km!
+
+So, assuming the alleged DB saying is correct then I think you have to be in normal space (you have to be anyway within a planetary ring-the FSD drops out!) and in the correct place (with no visible indication of Raxxla/Omphalos presence) and keep honking to make it appear. This means there must be another clue to give us that precise location!!
+Last edited: Jul 4, 2024

@@ -1,0 +1,18 @@
+Spaceman Spiff
+Mar 9, 2021
+#21,753
+Jorki Rasalas said:
+Yes, thanks for the clarification. I thought I had updated my “Sol in Raxxla” theory post to avoid misleading people on that point, but I don’t think I made it sufficiently clear and have just updated it again accordingly.
+
+However it does raise a further question- for these “sectored asteroid belt” depictions in other systems is it possible to actually find the asteroids? In Sol it is not possible. You can detect an “asteroid cluster” in the left hud display but when you drop out of SC nothing is there even though that “asteroid cluster” is still showing in the hud. Spaceman Spiff also spotted that in Sol if you fss then a count of 8 is shown against the asteroid part of the spectrum window but there is no signal there by which you could locate them. Is this behaviour unique to Sol?? If unique then it is suggestive when coupled with the possible visual resemblance in Greek of “Gallia” to the word “Raxxla” since there is IRL an asteroid named 148 Gallia (as others have pointed out many times).
+Yep, went and checked it out right away yesterday. I am of course a little annoyed that I didn't get it right in my original post... thanks for speaking up, Stalker
+Happily, this changes nothing with the logic of the argument, simply removes the uniqueness.... and in turn, actually strengthens the overall argument. The 32-segment discs and rings (rings when it is a narrow asteroid belt) clearly denote asteroid belts throughout the game.
+
+
+A: You can locate the asteroids in all other systems, target them, and fly to them, and
+B: No other system that I have found so far allows me to drop into a "HUD visual" asteroid field displayed in the HUD. The graphic is reserved for the targetable asteroid clusters. Sol's asteroid field is "disc wide" so far as I can tell, there is not a single place where it doesn't exist relating to the disc. Again, for anyone that may have missed it, you simply have to be within the 32-segment area and put yourself at the system plane.
+
+This whole line of inquiry has certainly only strengthened my resolve that they're there somewhere. So again we are basically told that there IS an asteroid belt, our FSS scanners back that up by telling us there are asteroids IN that belt, and now go find them
+Last edited: Mar 19, 2021
+Reactions:
+Jorki Rasalas

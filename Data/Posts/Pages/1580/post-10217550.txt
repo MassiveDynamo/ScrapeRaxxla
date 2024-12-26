@@ -1,0 +1,13 @@
+simulacrae
+Sep 11, 2023
+#31,585
+CMDRCorrMorningstarFelian said:
+You must be talking about this:
+Code:
+https://simbad.cds.unistra.fr/mobile/object.html?object_name=HIP%2066219
+
+Space characters in HTML mark-up for links is encoded with %20. That isn't actually part of the name - just how SIMBAD formats the identifier request being sent to their database.
+
+No i was just talking about the map in elite- you can often type in the alternate HD and HIP names for stars and it will take you to it even if it is named differently.
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

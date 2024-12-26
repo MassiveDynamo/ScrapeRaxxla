@@ -1,0 +1,22 @@
+Stagmoman
+S
+Feb 28, 2020
+#15,454
+Thatchinho said:
+Ok, I think we’re all more or less saying the same thing.
+
+The issue at hand is (to use the terminology from your post) that we only have the angles, and we don’t have the length of vector from (1) to point.
+
+That leaves us unable to define where the point is other than it is somewhere along the line from (1) defined by the two angles.
+
+Which means we haven’t got a point in 3D space, we’ve got a line in 3D space.
+
+We’ve got a point on the inside of a sphere if we treat it that way, but that sphere doesn’t have a defined radius, so we can’t translate into x, y, z co-ordinates.
+
+So I think the question is what is being used to define the location?
+
+Is it a case of just using Ra and D in the original sense and saying ‘it’s what you can see when looking away from Earth in the direction given by the Ra and D’?
+Click to expand...
+You don't need a vector length, just visit every star along that line until you find something.
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and John Stoutbeard

@@ -1,0 +1,10 @@
+Jorki Rasalas
+Sep 19, 2019
+#12,395
+Non Grata said:
+That's still working for me..
+
+Interesting. I can get one working, but when I use the second it either fails completely or pulls up the login menu then fails when I try to log in....
+So, you've got two copies of the EDLaunch.exe in your games/EDLaunch folder, with different email details, and they both work? Have you duplicated any other files?
+Reactions:
+[PS4] Filthymick420

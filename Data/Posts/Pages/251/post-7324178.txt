@@ -1,0 +1,8 @@
+Armstrong
+Jan 7, 2019
+#5,003
+Spaceman Si said:
+Probably OT, but was there anything odd about Rasalgethi that you noticed when you were there?
+
+It should be a semi-variable star, with stellar gas shells visible out to about 90 AU. If it just looked "normal", then that is another tick for the "Variable stars are either omitted or implemented as standard stars" hypothesis that I'm developing...
+I didn't see anything out of the ordinary, aside from the aforementioned issue with pop-in at 96KLs. Definitely nothing to indicate any semblance of variability, but to be completely honest I also wasn't looking for that kind of behavior specifically, so there's a chance I missed it.

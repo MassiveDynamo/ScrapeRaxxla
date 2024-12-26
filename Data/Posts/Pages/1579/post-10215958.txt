@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Sep 10, 2023
+#31,569
+Rochester said:
+‘The Beaumont system was a frontier world far below Achenar‘ - Michael Brookes Elite Legacy
+Utilizing human habits or referencing a place by something important there and shibboleths to protect information from the unwashed masses, I may be able to help on this one. Historically, it was common practice to reference systems by planets or stations. I am pretty sure this would be a station. You have two main pathways for finding this (you'll need as much context as possible):
+
+Option#1 (in-game): Fly to the reference system, fire up GalMap, search Beaumont. This option is not perfect as results will only pull for systems you have visited and generally well-known systems.
+Option#2 (utilization of external search tools). Go to EDSM and login (enables search nearby), go to station search, put Achenar as CMDR position, set station name to Beaumont, make sure to organize results by distance from CMDR position.
+INARA's search nearby stations function may work but I don't think you can search a specific name. For planets, I used to use EDDB but in-game is probably best unless you know planet type. EDSM is awesome in that case. As stated, GalMap is limited to well known places the Pilot's Federation want you to find and details from systems you have visited. May the odds be ever in your favor.
+Last edited: Sep 10, 2023

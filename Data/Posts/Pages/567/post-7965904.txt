@@ -1,0 +1,11 @@
+Han_Zen
+Aug 25, 2019
+#11,324
+alexzk said:
+No. "Solve triangle" means find all angles and sizes but giving some.
+My code above was trying to find somethign like "Perpendicular bisectors"
+https://en.wikipedia.org/wiki/Bisection#Line_segment_bisector
+
+which is "the center of the circle through the three vertices" which is equal remote point from 3 others points. But ...wiki shows particular one on surface, in 3D for given triangle can be many including that one which is on triangle surface.
+That's true but if all you have are three points, only the solution in the plane is relevant.
+Until you have some distances or more points, that's all you can get.

@@ -1,0 +1,12 @@
+Jorki Rasalas
+Aug 11, 2023
+#31,224
+@ThArGos
+See Wikipedia entry on Two Micron All-Sky Survey
+2MASS - Wikipedia
+en.m.wikipedia.org
+
+They all point to Sol because the survey was conducted using Earth-based telescopes. As Han_Zen says the distance measurements are pretty suspect.
+This sort of thing happens frequently. Check any stars you suspect against the Simbad astronomical database (https://simbad.cds.unistra.fr/mobile/) as the in-game names may differ depending on which IRL star catalogue FD used to import the data. Some stars have many, many names!
+Reactions:
+Han_Zen, Rochester and ThArGos

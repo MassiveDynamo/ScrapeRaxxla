@@ -1,0 +1,16 @@
+Thatchinho
+May 31, 2019
+#8,454
+AOpsyche said:
+Also, i would like to note for the newer guys that in previous versions of the player log journal, there was a celestial body classification of "Rogue Planet". This has been taken out since 2.4 (i think), and to my knowledge, no body was ever found that fit this category.
+Just checked - it's still there, according to the manual at least. As is X (=exotic)
+
+Just to note, they're under Star Descriptions not Planet Classes.
+
+Also under of Star Desciptions in addition to the above, and the normal star classes are:
+Nebula
+StellarRemnantNebula
+
+Make of all that what you will!
+Reactions:
+[PS4] Filthymick420, simulacrae and AOpsyche

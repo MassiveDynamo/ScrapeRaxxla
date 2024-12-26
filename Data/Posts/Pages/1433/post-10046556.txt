@@ -1,0 +1,25 @@
+Rochester
+Dec 27, 2022
+#28,658
+playerwon said:
+what software do you use for these plots, please?
+id be very interested in a software that allowed me to, using elites version of the milky way, plot bisecting routes like this.
+Hi sorry to say, it’s not a route plotter, it’s just a free 3D CAD App called ‘3D Modelling’.
+
+My RL time you see is limited, so I need something rough and ready to use on the go; ironically I do have access to a professional tool, but it takes too long to sit down, load up etc, plus I have professional experience so if I went down that route I would want to take my time and be super smart with presentation etc - would take forever; but my life’s too busy for such ‘work’ - outside of actual ’work’ - so this is all done on a free mobile app.
+
+This allows me to enter X; Y; Z coordinates and rotate them 3D; any in game locations are obtained from the Galmap, EDDB and Canon, I note these into a spreadsheet, anything I extrapolate is just simple math done in the old Mki CPU.
+
+I type in these coordinates / construct / draw these objects by hand - these objects etc are not downloaded; so you would require some basic CAD experience to do this, to me it’s relatively easy.
+
+There are actual route planners online such as: https://www.edsm.net/en_GB/map/planner
+
+The app I use however just helps me visualise positions and identify any potential correlations, rotate them, zoom out and yes assess where I might want to go next etc but very quickly, I’m aware some of these destinations might not exist as if undiscovered so I’ll use ‘Spansh’ to find the nearest know location in game then just explore that sector.
+
+Elite: Dangerous Index
+spansh.co.uk
+
+I built the last image while drinking a cup of tea and avoiding the Xmas in-laws.
+Last edited: Dec 27, 2022
+Reactions:
+playerwon, simulacrae, CMDRCorrMorningstarFelian and 3 others

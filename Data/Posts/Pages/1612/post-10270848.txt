@@ -1,0 +1,62 @@
+Louis Calvert
+Nov 29, 2023
+#32,226
+Hyperspace Whispers Audio Investigation #1
+My plan is to simply record the audio of jumps. I'll note down the origin and destination of each jump, as well as the distance covered.
+Edit: Part 2 of this Investigation is here.
+
+To test this I've done the following trips:
+
+SPOILER: LIST OF RECORDED JUMPS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I've recorded each jump, and I'm in the process of trimming them to start and end at the same part of the trip - specifically the exact moment of entering witchspace to the 'whump' when you land near a star.
+
+My initial results are interesting:
+
+SPOILER: AUDIO WAVEFORM AND SPECTROGRAMS
+
+
+From the three I've processed so far I've drawn the following preliminary results - which might change as I do this over more time:
+It's very clear each of these jump audio is almost identical. I was lucky in that all my jumps took almost exactly the same length of time so it's easy to compare.
+There are slight variations though, it looks to my inexperienced eye that that's something like a live mix going on rather than the game simply playing a pre-recorded mix each time.
+There's no indication of anything buried in the audio.
+Looking over all 21 current recordings this is true of all of them, and from this I'd expect this finding to be the 'baseline'.
+If this is the case, then it would be exceptionally easy to inject another audio channel in there at any time and have it intermixed with the existing audio.
+Now I've got a feel for it, and the method seems to be recording well enough, and is pretty on-brand for a Brookes puzzle test, my plan is:
+See if the variations in audio relate to the type of star at the destination. I plan to jump to at least one Neutron star and LAWD26 just to see if there's any difference. If there is, I'll expand to other star types and include that in the log for each destination system, etc. If not then I'll ignore star types in the survey.
+Travel from Achenar to Shinrarta Dezhra, then to LAWD26, then Jackson's Lighthouse.
+Travel to the Pleiades and record jumps around there, focusing on Delpi and Maia.
+While there I'll get Hyperdicted and compare that audio.
+I'll get a Thargoid probe and do some jumps with that and see if there are any additional audio components: Jaques claimed the probes "sing".
+Travel to the Guardian Ruins and around the Regor perimeter.
+I will collect Guardian artefacts and Relics and see if thee are any variations in audio.
+Travel to PMD2009 48, the tourist spot Brookes Tour beacon that mentions Raxxla.
+Travel to accessible systems in Barnard's Loop area.
+I thought about testing other ships to see if the audio mix is different per-ship, but... ehhhh....
+That's a lot of work, so I might not get all of it done (probably won't!), but that's the plan for now.
+
+What I'm looking for:
+The expected outcome is that all jumps regardless of any other factors are essentially identical, despite minor variations due to what is presumed to be a live mix.
+Judging by the 21 near-identical samples I have already, any variation that's intended to be seen will be pretty easy to spot.
+If there are audio variations introduced by any external factor -like destination star type, or by carrying any specific type of cargo, then I'll have to stop and re-think the plan.
+Anyone have any ideas on other places that might be worth adding to the list, or might be better to visit that something I've already done? Is there anything else I should be testing?
+Last edited: Nov 30, 2023
+Reactions:
+Ian Doncaster, selbie, Adel and 7 others

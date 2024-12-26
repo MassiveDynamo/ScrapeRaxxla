@@ -1,0 +1,10 @@
+CMDR Tom Laeplight
+Aug 7, 2019
+#10,328
+Edelgard von Rhein said:
+This subject was mentioned in one of the Kickstarter Fiction Diaries with Michael Brookes iirc. They brought the FFE map of inhabited systems into ED but had to deal with the fact that that map was very squashed, so some distances would not be the same. It was not a case of bringing the Galaxy Maps from the 1984 Elite into ED. Then they had to merge it with ED's procedural generation... . I don't think it was easy.
+
+In general, I would be cautious about discussing alignments but, as the Formidine Rift mystery showed, you can take the systems once they are in place and use any pair of systems you like to create a heading to follow. It also means you can pick almost any point in the Milky Way and find a pair of systems in the Bubble that line up with it, then rename and handcraft things in those systems.
+It actually shouldn't be too difficult to merge it with Elite Dangerous. The stellar forge let's you override certain areas and hand-author regions. It's like how they import actual stars and their actual positions in from the star catalogues, but for whatever custom systems they want.
+Reactions:
+PeteACarter

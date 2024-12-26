@@ -1,0 +1,62 @@
+djadjok
+Mar 6, 2020
+#15,596
+Xaintly said:
+Hello all, I've updated the summary document: The Quest for Raxxla.
+The summary is intended to let new raxxla hunters catch up on what has already been theorized and tested.
+
+I read all the posts in this thread between May 2019 and now, plus reddit, the IRH discord and some other threads.
+If people had new ideas of things to try or places to search, I added it to the doc.
+If I didn't add your favorite new theory, I probably just missed it; message me and let me know.
+
+If the post just has "lore" or speculation that doesn't narrow the search area or give any concrete hints, I didn't add it to the document (eg. The Dark Wheel is the enemy of The Club).
+
+Here was the stuff I took note of over the past year of posts;
+
+FSS May not reveal all bodies? Fly to outer stars and look -
+
+Spiral of Notable Stellar Phenomenon -
+- "Notable Stellar Phenomenon" seem to be arranged in a curving line.
+
+Tip-Off Missions: Procedurally Generated, not Raxxla Related -
+CMDR Teryd did an excellent writeup of how the procedural generation works.
+
+Tip-offs vs Inbox missions: Both procedurally generated -
+
+Thargoid device activation shows a 2-armed spiral galaxy (Andromeda?) with some highlighted areas -
+
+Overlaying the Raxxla logo on the Galactic Map, the voids overlay "unknown permit" Restricted Areas -
+
+Investigate Alnasl, source of the 'Wow!' signal -
+
+Phaa Chrie sector (in The Void) -
+
+Investigate Taurus, Crab Nebula -
+
+Raxxla logo is a surface scanner -
+- Look for a system with 6 stars & 33 orbiting bodies
+
+Tried: Supercruise Vega > Tau Ceti 0.6ly and reverse -
+
+The statistics of commanders searching for Raxxla could be compared to see if there is something missing -
+
+David Braben says "we know why people haven't been able to find [Raxxla]" in 2014 - from an in-person talk
+
+Try taking Sap8 Containers to the space Jellyfish / Algol -
+
+The Dark Wheel station is in a L brown dwarf system -
+
+CLAIM: Raxxla is 'north east from Sag A* about 41[k] lys from the bubble, on the border between 2 regions in a cluster of brown dwarfs.' -
+
+Lore: The Club and The Dark Wheel are opposing forces -
+
+Lore: The hidden greek mythology storyline -
+
+Lore: Raxxla and the Monomyth / Hero's Journey -
+Click to expand...
+Great work!
+However I must precise that since the exceptionally detailed investigations done by commanders Panzertard, Teryd, Keybuk and many others back in 2016-2017 - TAC thread
+- I have tried to inherit/accumulate all the data collected earlier and started another (and hopefully last) Tip Off related investigation a year ago (still running) as Tip Off themselves have evaluated ~ three times since then. That doesn't invalidates overall conclusion that there are no (and never been) any relation between Raxxla and Tip Off mechanics.
+Last edited: Mar 6, 2020
+Reactions:
+Machina Ergo Sum, John Stoutbeard and [PS4] Filthymick420

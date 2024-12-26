@@ -1,0 +1,21 @@
+selbie
+Dec 17, 2023
+#32,574
+Ok so I figured out what the Thetis signal patterns are.
+A sideband is used in AM radio broadcast with a carrier signal / pilot tone.
+On that wiki page shows an example spectrogram of an AM broadcast with very similar voice patterns.
+
+I found when you offset and mirror this overlaid on itself you start to see the kind of pattern in the signal.
+
+
+Now lets try it with the original voice track itself
+
+Without much effort I was able to replicate the shapes very easily!
+So therefore we are dealing with a carrier signal that is offset by a certain amount and it is being transmitted from somewhere near the Thetis' path of travel 9 generations after launch and 15 LY prior to the first entry .
+Due to the nature of some AM signals, sometimes the pilot tone is in the infrasonic range (ie. inaudible), in this case there is a constant tone at 50 hertz.
+From what I found in that overlay test - the signal is mirroring the 0Hz-2000Hz range and appears to repeat in an interval of approximately 1300Hz through the entire frequency range - you can see 'shadows' of the repeating pattern between gaps in the log audio noise.
+
+The final audio log of the screeching noise appears to be the virus signal itself - with signal period of 20 seconds matching the sine wave period, and amplitude of 2000Hz covers the main audio of the screech and 'morse code' sound.
+Last edited: Dec 17, 2023
+Reactions:
+Merlin StWahgwaan, Han_Zen, Louis Calvert and 1 other person

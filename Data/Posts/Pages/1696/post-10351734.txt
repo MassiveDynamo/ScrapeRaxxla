@@ -1,0 +1,22 @@
+Merlin StWahgwaan
+Apr 18, 2024
+#33,906
+Louis Calvert said:
+Unfortunately it doesn't so much represent the spectrogram in 3D as it does generate a wireframe waveform using an algorithm based on the audio. So, unfortunately, it's not really useful as what you see is only vaguely related to the sound itself.
+
+However, it was a great idea, and if you find anything similar, do give me a shout
+
+That's too bad, when I came across it in passing, the landscape signal was the first thing I thought of...
+
+Not really sure how they work, but if you Google 3d spectrogram you'll be able to find several.
+
+There's one more,
+"3D Spectrogram Visualizer by Chris Donahue"
+that looks alittle more promising, maybe...
+it's able to create spectrograms of words/images in sound...
+I think... lol
+It's on an AWS site, that has GitHub links at the bottom...
+
+But either way, maybe you can have better luck looking for one that might work however it should work, not really sure about the wire frame thing myself....
+Reactions:
+Louis Calvert

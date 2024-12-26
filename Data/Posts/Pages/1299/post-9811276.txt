@@ -1,0 +1,129 @@
+Ughkoff
+Apr 14, 2022
+#25,968
+Jorki Rasalas said:
+Ages ago someone asked about the (graphics?) anomaly that Han_Zen reported and that I investigated with him. Sorry for the delay! ageing memory.....I had totally forgotten until just leafing through old notes on my iPad! I think I still have videos and pix stored on my gaming machine.
+
+ED-strange objects in system map
+
+DESCRIPTION
+
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8314084
+
+
+aCent:
+
+Han Zen has written about this phenomenon in the Quest for Raxxla thread a few times. As you can see from the pics, they seem to take their colour from the main star. Yellow in aCentauri, blue in Star of India (SOI) and white in aCyg (may be indicative? But possibly just the way the graphics work for the sysmap. N.B. For Systems with several anomalies they may be different colours)
+
+Han_Zen: seems to only occur in giant stars in Cygnus (but wasn’t apparent in gamma Cygni (SADR)! And one appears in aCent!!). Alpha Cygni-Deneb, Beta Cygni-Albireo, gamma Cygni-Sadr, delta Cygni-Fawaris (?), epsilon Cygni-Aljanah,
+
+Located near Eta Cygni is the source .
+
+Cygnus X-3 (V1521 Cygni, 18P 57, 145a, X Cyg X-3, J2032.3+4057, 118, 2U 2030+40, 3U 2030+40, 4U 2030+40) is an HMXB high mass x-ray binary (microquasar) containing a Wolf Rayet star,in-game but a long way from bubble.
+Anomalies consistently found in: Alpha Cygni (type A7I, aka Deneb) and Star of India (massive type 09V). There are two of them in each system. In Deneb they are quite close to each other, in the bottom right part of the map. In SOI there is one center / top of the star (it's behind the star unless the sysmap is zoomed out a bit) and one low left. So probably nearer SOI than aCyg? They pop up after a long while (I measured 4 mins. This could fit in with “those with eyes to see” codex clue) watching the map. They are dynamic objects that grow and morph for a few minutes and then start to fade. They are quite small. Their position is fixed in the system map. Once the system is scanned you don't subsequently have to be in the system to see the effect; as long as you have explored the system at some point you don't have to be in the system to see them, it/they will become visible in that system map if you access it in-game.
+The animation is a fade in / fade out sequence over a period of a few (e.g. 7+) minutes. In the middle of the animation, a brighter central dot shows. The anomaly cloud is made of several filament objects. Each of them will slowly change over time, creating the fade in / fade out effect; the central light source is a separate object. Jorki observed in Alpha Cygni that as one starts to fade the other starts to grow & vice versa, possibly implying some physical linkage between them? See hires vids of the animation.
+They are deeper in the system map in a layer of their own between the layer of the stars, planets and the sun bursts/CME, and that of the grid and the background stars. Doesn’t show up in Orrery view. When you move the map, the anomaly moves about half the distance of the regular bodies. Background stars are “stationary” (n.b. may move slightly). In all system maps (for active stars) the stars throw off Coronal Mass Ejections (CME) that are same colour as the star, but are clearly CME & in same plane as the star. These anomalies exhibit quite different animation behaviour from CME.
+Someone suggested they may be a graphics bug, e.g. star animation on wrong layer. Not convinced by this since doesn't look like any part of a star animation (e.g. CME coming from the star & in its layer). Possibly the anomalies represent animated background pulsars or neutron stars? However again the animation doesn’t match those objects as currently seen in-game, and in that case why would they only begin to show after 4 minutes or so? And why wouldn’t the anomaly be visible through the cockpit window?
+
+Jorki travelled 120.5kls above SOI, nothing detected....and 146kls below SOI. Nothing to find in-system! They are definitely not asteroid-related since SOI has only the single star in-system, no other bodies! Doesn’t look like an asteroid either (see vid of asteroid cluster in FSS).
+
+HZ: The line from Sol to Star of India also continues to V1357 Cygni.
+
+N.B. Star of India was player-named by The Great Mapping Project. It used to be just HIP 98298. IRL HIP 98298 is Cygnus X-1, same as V1357 Cygni. That must explain the small difference of ~2 min in RA between EDSM Star of India and IRL Cyg X-1. V1357 Cygni contains the black hole Cygnus X-1 in ED. H_Z checked V1357 Cygni, but didn't see any anomalies.
+
+Jorki tried 22 Eta Lyrae (after looking at Lyta Crane anagrams & wondering if that was another Codex clue) but none apparent.
+VISIBILITY
+
+
+
+Alpha Cygni (Deneb, -1405 / 46.125 / 132.5) has two
+
+Star of India (-1840.5625 / 95.25 / 610.3125)) has two.
+
+Alpha Centauri (type GV, 3.03125 / -0.09375 / 3.15625) has one, but is hard to find . It's seems to be a single, faint, and far more difficult to find, than the two out in Cygnus. Longer wait and lasts shorter. There are also more bodies in aCen, for it to hide behind. It's the same type of object though.
+Sifi DF-R d4-68 has one, short lasting, not repeating?
+Sifi EF-R d4-69 (neutron+ ?+?) two, one white point & one red cloud
+Sifi KR-W e1-3 has one on left between system star & bottom left background star. Didn’t last all that long, & didnt seem to repeat
+Sifi KR-W e1-5 one bottom right corner of sysmap
+Sifi LM-W e1-13. One small dot anomaly initially (took a long time, ~8 mins to appear). Then another white cloud below it and eventually red cloud off to right of screen & top dot became a cloud with dot at its centre.
+
+Sifi MM-W e1-9 has one, abovethe star in the sysmap! Again didnt last all that long, & didnt seem to repeat
+Sifi MM-W e1-17 (47.59 ly almost directly below SOI) has 2, one white one and one red but short-lived
+Sifi MM-W e1-18 (-1844.03125/ 43.78125/ 641.84375, RA 20h 4 min 21.873 sec) FOURare apparent. Two clouds at top & one at bottom of screen seem quite large. Bright dot in middle largely hidden by system star
+
+
+Sifi BK-R d4-53. FOURapparent. This system is close to Sifi MM-W e1-18 (32.9ly).
+
+
+Nothing visible at:
+
+HD 189689
+
+Sifi BF-R d4-40
+
+Sifi FL-P d5-33
+
+Sifi LM-W e1-11
+
+Sifi LM-W e1-14
+
+Sifi MM-W e1-6
+
+Sifi MM-W e1-16
+
+Sifi QS-U e2-16
+
+Sifi ZY-S d3-120
+
+
+
+LOCALISATION
+
+Han_Zen remarked the background stars in the system map are actually a full sky box. If you zoom in on a landable planet, you will get the same background. Then you can rotate it and see the entire thing.
+
+
+
+If they are the same things viewed from several different systems it shouldbe possible to triangulate their position, or at least to estimate their distance-HOWEVER the system map star background is the same inall system maps, it does not change and may not represent any in-game stars which makes this difficult if not impossible! The star background in the system map seems to bear no relation to what you see in-game out of the cockpit or in the galmap. It is not clear whether there even is a direction in the system map! The starmap may be showing a view (from an offset position, not from Sol) e.g. of Orion to the top right? The Universal Cartographics panel at left of sysmap is a right royal pain! Can we switch it off?
+
+
+
+So there is nothing to orient them against for localisation. From apparent size seems nearer to SOI than aCyg. Also we don’t know the actual size of the anomalies so distance by similar triangles method is ruled out. The idea of locating them by triangulation seems to be impossible.
+
+
+
+Can their parallax effect be used? whereas in SOI the anomalies were to the left of the star, in Alpha Cygni they are to the right, and seem nearer (seem to be growing bigger)-took a 12 minute video (normal res) in aCygni of their dynamic behaviour. The star background in the system map seems to be fixed.
+
+Wondering if periodicity/repetition/number is a clue to location?
+
+
+
+Assuming the presence and number of anomalies visible in a system is an indicator (somehow) of distance I searched for them along a line from SOI out to blue supergiant HD 191530 & beyond to a group of three NS in the far distance. Then came back towards Sifi MM-W e1-18 (4 visible, think one had changed position).
+
+I jumped into a system (Sifi -109 from Sifi ), started FSS, then graphics went weird. Came out of FSS & cockpit graphics also weird-the left hologram was jumping between the system name and “deep space”, whole ship seemed to be shaking. Could be I’m in the Rift? Next day-I did manage to startup game, still in-system, strangely there was no sign of any ship jerking, no HUD instability, no hull damage, nothing out of the ordinary at all & everything was as per normal.
+
+I went back and entered the glitchy system from the same origin system, just in case there was a rogue enroute, but the glitching didnt happen. Tried flying around the A star to replicate the glitchy video but couldnt repeat it. Started to look around other systems assuming Sifi MM-W e1-18 (4 anomalies visible) is the centre of the anomaly behaviour; I did go there on the journey back and flew some 80kls below the A star to try and find the bright dot anomaly I saw, but found nothing & no object apparent by parallax.
+
+I am puzzled that I couldn’t repeat the glitching. I was thinking on this & the rest of the screen was stable so not a graphics card problem (I think). Perhaps the exotic star moves around the system? Or between systems? Or perhaps Raxxla is a non-repeating software bug?? Or only exists in the system map? (that would be extremely disappointing!).
+
+I suspect Raxxla may be an Exotic star. It’s one of the permissible star types from the journal manual, and the wikipedia descriptions are interesting . Cold, dark, extremely dense, possibly small, huge gravitational effects. However it could also be a BH attached to a jump point.
+
+Need perhaps to hunt around within glitchy system? BUT it stopped glitching!!
+
+Test hypotheses
+
+1) Intersection of lines from Sifi MM-W e1-18 (-1844.03, 43.78, 641.8437) to Sifi BK-R d4-53 (-1869.94, 56.16, 625.88), FOUR/5 apparent in each, and two systems with dot at edge of screen Sifi LM-W e1-11 (-1988.75, 87.96, 690.09) to Sifi QS-U e2-11 (-1981.84, 71.25, 812.31).
+
+2) Assume centre is near those with most anomalies (Sifi MM-W e1-18 & Sifi BK-R d4-53) and search around them?
+
+3) revisit the sysmaps found to date & try to work out direction? Perhaps X axis is 360 degrees around ship??
+
+
+
+HD 193576(O+3BH, C&D orbiting each other). Two black holes orbiting, lose energy in gravitational waves before they collide-> Codex’s “Spiralling Stars”?
+Click to expand...
+do these ghosts resemble a signal from the center of the galaxy, or is it my imagination?
+Attachments
+TopSOI.png
+33.7 KB · Views: 350
+SignalSegment.png
+169.6 KB · Views: 345

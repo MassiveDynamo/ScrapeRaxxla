@@ -1,0 +1,10 @@
+CMDRCorrMorningstarFelian
+Apr 13, 2023
+#29,893
+Crimson Echo said:
+Has a focused effort been make to explore systems with F class Supergiants ? (Same Star class as Polaris) Many of the odd stars that got added to the game like Gen# +2.12450534 is F class as are many of the surrounding star. Wikipedia has a list of F Class supergiants to check, not all systems seem to be present in game (possibly different names or name variants).
+
+Also the galaxy map does not seem to allow '#' or '&' to be entered into the galaxy search bar, but allows other symbols.
+I wouldn't say the answer is a definite, yes. However, those do fall into the classification of asymptotic giant branch stars which for whatever reason seem to be particularly important. These are very weird stars between 0.5 - 8 solar masses that can go through main sequence multiple times. There has not been a dedicated effort at the very least. Though, these stars do seem to play an outsized place in key galactic events.
+
+https://en.wikipedia.org/wiki/Asymptotic_giant_branch

@@ -1,0 +1,36 @@
+Ian Doncaster
+May 6, 2019
+#7,924
+bigcee75 said:
+My biggest hint that it's bogus is that comment "It's in the game and we know where it is" Of course they know where it is they put it in the game,
+There are ways to guarantee that Raxxla would appear in the game without even the devs knowing which system it will appear in.
+
+For example, it could appear in the five billionth distinct system to be scanned by any player. Frontier would know that this would happen, but wouldn't be able to predict at all ahead of time which system that would be.
+
+There are also some interesting cryptographic ways that Frontier could guarantee it was in a specific system without Frontier knowing what system that was.
+
+So this statement does give slightly more information than just a bare "It's in the game" does.
+
+RolloTreadway said:
+This stuff about eighth moon of an unnamed gas giant. Is there a log somewhere of gas giants with eight moons? Or any further information by which you can rule out an eighth moon? I ask purely because I've just found a hitherto unknown eight moon gas giant. And I'm probably not the guy you want studying it for clues because I don't know anything.
+Eighth moon is a clue to the Dark Wheel station, not to Raxxla specifically.
+
+https://forums.frontier.co.uk/threa...the-the-dark-wheel-which-system-is-it.477422/ is a good thread going through the clues - the theory from there is that it's specifically in a red giant or supergiant system (assuming that the Codex picture is actually a screenshot of the Dark Wheel station) - and all the discovered red giant/supergiant systems with an eight moon gas giant in an appropriate orbit have been checked out. (The EDSM third-party tool can be queried to find these)
+
+So my current working theory after that thread: it's in a so far undiscovered red (super)giant system with an eight-moon gas giant orbiting relatively close to the star. That would be a lot rarer than just any eight-moon gas giant (which aren't rare at all) - but still difficult to exhaustively search for without further clues, and still giving thousands of potential red giants to check out near the bubble.
+
+Noobilite said:
+Can we locate GAl 1-8 based on known info involving the in game planets from elite?
+Gal 1 as you say, is reasonably obvious - bearing in mind that only the "Old Worlds" systems have stayed constant between Elite, FE2, FFE and Elite Dangerous, and that the relative geographic location of the systems in Elite Dangerous is very different to what they were in Elite, with the exception of the Old Worlds.
+
+I suspect Atius is just a coincidence, because when you get one procedural name generator to throw out 2048 names (Elite) and another to throw out 20000ish (Elite Dangerous) and restrict both to producing vaguely pronouncable short words, there's going to be at least a litle overlap. (And there are four systems starting with the string Atius in Elite Dangerous)
+
+One plausible theory would be that the other seven galaxies are within some of the distant permit-locked spheres. (e.g. places like Bovomit) - I don't believe they're anywhere identifiable within the bubble.
+
+Noobilite said:
+Just noticed something funny in the list of original game systems. No systems start with F,H,J,K,N,P,W,Y.(8 letters) Those are numbers 6,8,10,11,14,16,23,25.(adds to 113, a prime.) That is only 18 letters of the alphabet. Does this have to do with 8-bit games. Maybe two 8-bits with an extra bit each.
+http://wiki.alioth.net/index.php/Oolite_planet_list#Where_do_these_crazy_names_come_from.3F explains the Elite name generation algorithm.
+
+I expect they just kept modifying the LEXEGEZA string until it gave some good sounding results and no expletives
+Reactions:
+Xaintly, [PS4] Filthymick420, yelboc and 2 others

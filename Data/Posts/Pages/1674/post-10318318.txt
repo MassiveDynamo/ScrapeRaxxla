@@ -1,0 +1,21 @@
+Ian Doncaster
+Feb 21, 2024
+#33,480
+D7 said:
+Now, I am not really trying to find the graveyard that accurately. I just want to be in reasonably close proximity as a point of origin to fly in a targeted direction that might be in the direction of Rafe's Anaconda 0.1 LY away. I think it would be essentially impossible to land on that spot by falling out SC dead on the target (his Conda home) which would be even smaller than the graveyard - by a long shot. But, I also have to assume that Rafe would have had that same concern so he likely had a reasonably short range beacon at his home so he can find it himself. Short range because his whole thought process was to stay undetected from (presumably) the DW or other bad actors he ticked off over his life. Therefore, if you get in the general area of his Anaconda you should be able to pick up a beacon on your radar or contacts - while in SC. Otherwise it is hopeless trying to find that position - if ED even put anything there.
+Bearing in mind that if the quoted distance was 0.1LY - on a jump system like the original Elite's which measures to 0.1LY accuracy [1] - the real value could be anywhere from 0.05-0.15 LY. The imprecision on where the graveyard is or even which side of the sun it's on is going to be negligible in that context. (And that still holds even if you assume the quoted distance as 0.10LY so between 0.095-0.105 LY as a range)
+
+[1] Technically the original Elite's jump system only measured to 0.4LY accuracy, but you had to really be paying attention to notice that.
+
+D7 said:
+RE: "...so your target is itself moving sideways at around 30km/s relative to where that straight-line course was..."
+I'm not sure the actual game mechanics work in that real-life manner. If you are at New Caledonia and you set your sight bead on the sun in SC you fly to the sun without the reticle really showing any drift at all toward the sun or back toward the planet.
+Oh, absolutely they do.
+
+It's just that planets and stars are generally far too big and slow moving to notice the effect. In the two minutes it takes you to fly from the Tionisla sun to New Caledonia, New Caledonia will move by less than its radius in the sun's reference frame. By the time you get into the planet's reference frame, being off by a fraction of a pixel on your initial course will be entirely unnoticeable ... and if at that point you look back at the sun, it will take most of a day to move by its own diameter against the background stars.
+
+If you find a sufficiently fast-orbiting body, though, it gets a lot more noticeable. Mitterand Hollow is the obvious example - you can see that orbit extremely quickly in real-time, and drag any attached Fleet Carriers and signal sources around New Africa with it. Now try to drop out on one of the FCs around it without using your navigation locks - just by eye. Even typo-d examples like that aside, something like Carcosa B1 orbits its star fast enough (and has a small enough reference frame of its own) that dropping out on the orbiting Amber Dock station can involve some unusual manuevers even with the benefit of navigation tools: going in a straight line from the star will not put you in quite the right place.
+
+Remember that you're normally travelling in supercruise at several Mm every second even when slowing down to drop. Your target moving at <1% of your speed is going to be masked massively by you being even a degree or so off-centre on your flight path ... so it's usually unnoticeable. Dropping exactly on a hidden POI at the L1 point of a planet would be a situation where it is extremely noticeable.
+Reactions:
+Quaero and Jumpin' Jack Flash

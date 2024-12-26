@@ -1,0 +1,9 @@
+PeteACarter
+P
+May 16, 2019
+#8,114
+CMDR Maylor Rom said:
+(RA) +10 +10 +50=A
+(RA) x10 x10 x50=A
+So RA: 10h 10m 50s ?
+But then what is A for the decension?

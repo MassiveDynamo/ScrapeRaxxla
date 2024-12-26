@@ -1,0 +1,18 @@
+Machina Ergo Sum
+Jan 11, 2020
+#14,598
+Ararera said:
+No, not exactly. What I've found, and what Noobilite is confirming, is that when you search for HD 144218 on the galaxy map the query is accepted and the cursor shows you where the star SHOULD be, but there is nothing displayed on the galaxy map. It's as if there should be a star there to route to, but it's simply empty.
+
+One user who posted after me said "yea there are a lot of stars that result in an empty location. like trying to look at the highest star on the map according to EDSM when you search it in galmap you cannot see or target that star at all." According to EDSM the highest star is Dryeau Aub AA-A h4 A. I can see this star on the galaxy map when I search for it, as per any other normal search.
+
+HD 1337 also brings me to a result on the map, not an empty location.
+
+I'm hoping there are other examples and that this is a bug... otherwise...
+
+WE'RE MISSING A STAR BOYS. O_O
+Click to expand...
+
+Ah yes well, my bad, I should be clearer. Search for HD 1337 again after the first AO Cassiopeia result, it will point to an empty space as well, then it will cycle through the other systems. Like I said in my earlier post, its a possibility that Set A just do not map to Set B accurately as a result of 1. accidental mistake 2. deliberate obfuscation.
+Reactions:
+[PS4] Filthymick420

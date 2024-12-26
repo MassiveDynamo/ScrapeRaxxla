@@ -1,0 +1,91 @@
+John Stoutbeard
+Jan 30, 2020
+#14,868
+Jorki Rasalas said:
+Beginning to get pretty bored with this!
+
+Still working on hypothesis that R is in Sol, some thoughts came to mind. When Jorki first got the Sol permit I visited Triton and saw a steady stream of Fed Navy ships arriving & departing Triton, though none now; might fit with the Feds finding the alien artefact on Mars & getting a heads up on alien presence/knowledge in Sol...??
+
+Pluto might suggest Hades- death of a child/loved one? (Parent's Grief/Lover's Woe)
+
+The Codex's "Astrophel" seems supiciously like "Astrophil"s articles in the New Scientist magazine. He had an article on the "Tale of Woe: star-cross'd lovers" - doomed existence of IRL Bellinda and Cupid inner moons of Uranus, but checked that region with no success... In the Omphalos myth Zeus had two Eagles fly from opposite ends of the world & where they met (at Delphi) the Omphalos stone was placed to mark the centre of the world. Bought an Eagle, flew from Sol out to Pluto & Charon, though they and Uranus were unknown to the ancient greeks so their end of the world would have been Saturn. Halfway from Saturn to Sol? Halfway from Pluto to Sol? (10,603ls from Sol), Halfway from Uranus to Sol? (if Pluto discounted as a planet? 4797ls). Olympus is on Mars, so an orbit at twice Sol to Mars? (1462ls); checked these without success. Checked L4 & L5 lagrange points of Uranus, Saturn & Jupiter for any Greek/Roman asteroids or other orbiting bodies (Astrophil had an article on a mighty Trojan asteroid at Uranus L4) -nowt!
+
+Those halfway ideas seem valid, but to search a whole orbit???
+
+Astrophil also had an article that stated there should be stable orbits between Mars & Jupiter for another planet. It's odd that the asteroid belt is marked on the system map for that region but it is not selectable & there are no 'roid clusters there.
+
+time to feed the hound and get a sundowner to drown my sorrows!
+Click to expand...
+
+I feel I need to respond to this since I was intrigued by your first suggestion back here.
+
+SPOILER: TL;DR
+
+WARNING - this is a story of Yak-shaving.
+Progress beyond this point AT YOUR OWN PERIL < ----- POINT
+
+
+Distraction 1 - newscientist.com/article-type/astrophile/
+
+I noticed that it's a series of articles with multiple authors. It was quite frequent as editorial/series, but it has since slowed down.
+Astrophile news, articles and features | New Scientist
+www.newscientist.com
+
+I skimmed the 50 pages or so just to see if I could find any relevant stories in the time-frame given for ED release and the "Lyta Crate" + Astrophile context in the Lore.
+Nothing stands out. And no "L. Crane" authors as far as I can see.
+"Journalist" reference still nagged my mind, so I kept reading.
+
+I was intrigued by many of the references to scientific articles, aka this one: https://www.newscientist.com/article/dn23282-astrophile-dizzy-dwarf-star-will-spin-itself-to-death/
+Protip, bing/google: site:newscientist.com astrophile arxiv.org
+At the end there is a "Journal reference: arxiv.org/abs/1302.4634".
+I then noticed arxiv.org listings; "astro-ph"
+SPOILER: ASTRO-PH
+
+
+
+
+
+
+Distraction 2 - https://arxiv.org/list/astro-ph/recent
+
+astro-ph is a huge area so I tried a few keywords like "Lyta Crane", "Tornqvist", "Omphalos" and a few more.
+I'm not sure whether https://arxiv.org/list/astro-ph.HE/ could be of interest, so I did some similar searches there.
+
+Searching for "L. Crane" in the archives actually gave me some results. One of them stood out.
+But quite quickly I understood it wasn't relevant due to the full author name being Luis Crane.
+
+Still interested?
+[0908.1803] Are Black Hole Starships Possible
+arxiv.org
+
+ARE BLACK HOLE STARSHIPS POSSIBLE?
+By Louis Crane and Shawn Westmoreland, Kansas State University
+
+ABSTRACT:We investigate whether it is physically possible to build starships
+or power plants using the Hawking radiation of an artificial black hole as a power
+source. The proposal seems to be at the edge of possibility, but quantum gravity
+effects could change the picture.
+
+You can grab the PDF from that page if you're in for one heck of interesting read. only if you're a total nerd like me that is.
+Dig into the math speculating the size of a small BH to power a starhip.
+
+Distraction 3 - Omphalos references
+
+As part of this hobby to dig up things from the internets, Omphalos does have some references in Physics.
+Cosmologists may remember Philip Gosse, who in 1857 argued in Omphalos that the world (and the Universe?) was created only a few thousand years ago (say in 4004 B.C.); complete with all that was needed for it to function just as we find it does. According to Gosse the Universe was created with all the fossils needed to keep palaeontologists employed and alluvial gold deposits ready to be mined in California. Young-Earth theologists hold similar views to this day.
+Source https://www.physicsforums.com/threads/entropy-information-and-omphalos-cosmology.126157/
+
+I have not dug into it as of this stage.
+Omphalos (book) - Wikipedia
+en.wikipedia.org
+
+
+
+What I learned - conclusion;
+Shaved a few Yak's. Spent hours on hours just reading on the internets without making any progress.
+
+I feel wiser now.
+Did I make you go shaving a Yak too?
+Last edited: Jan 30, 2020
+Reactions:
+Machina Ergo Sum, Jorki Rasalas, Rochester and 6 others

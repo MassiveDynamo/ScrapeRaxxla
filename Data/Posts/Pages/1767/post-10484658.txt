@@ -1,0 +1,31 @@
+Louis Calvert
+Nov 16, 2024
+#35,335
+Ian Doncaster said:
+But if there was a hidden system not shown on the map, a misjump carried out in extremely specific circumstances might be necessary to reach it. What those circumstances are and how to trigger the misjump isn't clear, of course. (And I've tried all the plausible candidate systems I could think of)
+I've long thought this is an interesting idea, it's a shame you didn't find anything, it seems like a good mechanic for discovery.
+
+Obviously there's something near Stuemeae JM-W C1-5825 (whether you subscribe to my interpretation of what it is or not, the LS originates from a definite location near there), implying that the source of the signal is coming from something.
+
+I am unsure if the origin of it is ever supposed to be reached - but lets assume it is for now.
+
+In terms of the way it's implemented into the game, it's obviously possible Fdev used code-trickery to place the LS source there without there being an instance at all, but let's assume that's not the case for now, and that it's a hidden system (because if it's the former then there's no point trying anything!)
+
+What type of hidden system might it be?
+Is it a normal star system (sun, planets, etc.) which is simply not on Galmap?
+Is is a unique system (no sun but still a 'system instance?) and that's why it doesn't appear on Galmap?
+If it's the former then the normal mechanics of FSD work still (lock onto a star) - the problem is only that we can't 'see' the star on Galmap and so can't select it to jump to - this might suggest that there's a pathway to 'unlocking' or 'revealing' that star, somehow, or otherwise getting a lock (via the nav panel?).
+
+If it's the latter then that suggests a far more difficult problem since there's no known way to jump into a system instance without locking onto a star, except by following a wake (is that right? I don't do much wake following). I've spent about a year in that area now and I've never once seen any NPC ships outside of Explorer's Anchorage anyway.
+
+I've tried to see if there's a star in the skybox in that location that doesn't appear on Galmap, but the star density is too high for me to definitively say either way.
+
+Maybe someone else could try to determine if there's a star in the skybox near Stuemeae JM-W C1-5825 that's not on Galmap? that certainly would immediately confirm a hidden system if there is one. It's entirely possible that that's exactly what Brookes intended as a next step, a hint towards there being a Hidden System. It would be certainly one more thing that falls into the mysterious "for those with eyes to see" category.
+
+Factors to consider:
+The LS source appears to be within 1ly (most likely less) of Stuemeae JM-W C1-5825 (the red dot in the images below)
+That distance is within the bounds of generation for a nearby system instance (I've confirmed that there are systems within .5ly of each other elsewhere)
+The proposed Hidden System might contain a very dim star type - do we know if all known stars would be visible at that distance? What about a black hole?
+
+Reactions:
+simulacrae and Ian Doncaster

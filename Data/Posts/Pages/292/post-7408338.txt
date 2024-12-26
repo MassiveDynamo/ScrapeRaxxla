@@ -1,0 +1,5 @@
+Noobilite
+Feb 8, 2019
+#5,829
+Has anyone figured out if there is a reason behind permit locks besides FD wanting to. Maybe there is an in game mechanic at play that causes this to happen. And maybe a way to reverse it.
+Last edited: Feb 8, 2019

@@ -1,0 +1,11 @@
+SpocksOddSocks
+Dec 14, 2018
+#4,532
+Jorki Rasalas said:
+but I did have a scanner engineered for long range so I could do most of my scanning from the star’s location. The honk gives you some credits, the fss gives you more and the probe mapping gives you still more.
+
+You can get anything from entry point unless it's obscured by primary (or very close star).
+
+All engineering on the DSS is converted to a single one that gives probes a greater surface area. It's the only available scanner mod now since scans are pretty much immediate.
+
+The lighting is a little disconcerting, but it's mostly only close to stars that you get it. In neutron star systems, everything looks a washed out blue instead. I'm not certain if a like it or not, just find it strange.

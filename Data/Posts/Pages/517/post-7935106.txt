@@ -1,0 +1,12 @@
+Vasquess
+Aug 7, 2019
+#10,326
+PeteACarter said:
+For a while, in my mind, I went down the route of "Raxxla can't be a portal to another galaxy and that the end-game is probably TDW" because it would not be financially feasible to host a whole galaxy, never used, just sat there ready for us to find, years and years later. I also thought it would probably be unfeasible to "design/build" a whole new galaxy that is never used and just sits there waiting for us to find, years and years later.
+
+Hope this makes sense @Vasquess
+I think I understand your ideas. But I only wanted to make a little joke. I'm a software engineer myself and from the UML/MOF thingies I like the distinnction between model, meta-model and meta-meta-model which in the end will bring you to the question: When there are so many models, shouldn't there also be an original? I.e. most things one stores in a computer is an abstract model of something real. And a real galaxy, the thing you really can touch, cannot be stored in a computer. Anything in a computer about a galaxy simply is by nature a model of that galaxy. - I'm not talking about a specific layer of a specific software architecture style.
+
+By the way: Considering the power of "Proc. Gen." I don't think that another galaxy will need much ressources in whatever cloud. But I would recommend reading the explanations of the axe wielding penguin - or alternatively there was a live stream from FDev on YT where someone explained stellar forge in depth.
+Reactions:
+Scytale

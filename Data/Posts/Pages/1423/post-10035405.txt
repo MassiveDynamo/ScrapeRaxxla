@@ -1,0 +1,9 @@
+Macros Black
+Dec 14, 2022
+#28,452
+Pyroboros said:
+is there a way to get all text that was written on the last 1423 pages?
+then i could go and check each word if its a system Name in EDSM. and let my PC run a couple days.
+One way could be to traverse all the pages automated using PowerShell with Selenium and saving the page as you go.
+Reactions:
+Louis Calvert and Pyroboros

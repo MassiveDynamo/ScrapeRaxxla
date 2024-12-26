@@ -1,0 +1,13 @@
+Rochester
+Dec 18, 2024
+#35,633
+Inverted Walrus said:
+Could you provide some sources for these quotes?
+I got into this forum when specifically looking at the random characters present in spectrographs at the end of station antennae, and I had a feeling they may be linked to station numbers in some way, perhaps a key.
+These two quotes seem to suggest there is something to be found in stations, or at least a path that starts there.
+I'm not specifically looking for Raxxla in these stations, but I do want to figure out the signal being emitted from (some of) their antennae.
+
+The quote from DB was actually an error, later corrected by the Devs and Michael Brookes himself. It’s got nothing to do with actual ‘stations’ aka starports, but ‘number stations’ eg those satellites which emit weird numbers and dialogue, which actually triangulate to other mysteries, in that instance it was very likely the generation ships… we have been down this path before, DB used the wrong words.
+Last edited: Dec 19, 2024
+Reactions:
+Ataxia

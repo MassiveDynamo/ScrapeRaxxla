@@ -1,0 +1,20 @@
+bitstorm
+Jul 22, 2018
+#3,083
+Jaiotu said:
+Yes but more seriously ... just what is a "SAP 8 Core Container"?
+
+Is it a container for SAP 8 cores or is "SAP 8 core" the name of the kind of container?
+
+Why does it matter? Well ... if "SAP 8 core" describes the container then it is possible that a SAP 8 Core Container could contain something other than the crystal shard described in the object's text. If, however, SAP 8 Core refers to the crystal inside the container then it is descriptive. What the heck is a SAP 8 core?
+
+I presume it refers to what's in the container, what's in the container being a fusion core-containment field.
+
+And that the "SAP 8 Core" is what the "modified" fusion core-containment field is normally used for in its unmodified state, possibly related to ship power plants.
+
+Would also hazard a guess that SAP is an acronym just because of UI limitations, ie an upper limit for a commodity so it had to be shortened.
+
+Then again if SAP8 Core Container is the equipment generating the modified fusion core-containment field, then what would a non-modified core-containment field container be called.
+
+8 also does seem a bit odd.
+Last edited: Jul 23, 2018

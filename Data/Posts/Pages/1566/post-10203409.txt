@@ -1,0 +1,22 @@
+El Saico
+Aug 21, 2023
+#31,305
+Han_Zen said:
+There is a list of the uregistrert comms beacons here: https://canonn.science/codex/unregistered-comms-beacons/
+
+One is listed as Lave 2.
+According to Canonn, the Lave UCB is part of a puzzle ultimately pointing to the Crashed Thargoid Ship on HIP 17403:
+Sol/Achenar/Gateway Numbers Beacon Mystery | Canonn Research Group
+Several Unregistered Comms Beacons that are part of a mystery, which can be found in core systems.
+canonn.science
+
+The most interesting part is the sheer number of outright errors present:
+the initial message (repeated on UCBs across multiple systems) points to beacons on Eravate and Lave, including times for listening to either - which are swapped
+combining both produces a nonogram, but it's unsolvable; you get a system map, yet the bottom rows lack a unique solution
+once this came to FDev's attention, they placed a beacon at Cannon's doorstep pointing to a fix - but its message, which is encoded by the letters' positions in the alphabet, has a 29 in the middle
+that fix is transmitted by an UCB on the Moon; filling the given coordinates shows the pictured system's name, in Braille... with a typo
+solving this puzzle leads you to a scientific installation containing another UCB, whose message gives you the location of the crash; one of the ciphered words in it has another typo
+It fuels my fear that our search has been made more difficult, if not at present impossible, because they dropped the ball at least once along the way.
+Last edited: Aug 21, 2023
+Reactions:
+CMDRCorrMorningstarFelian, Shadowsnog and Darrack

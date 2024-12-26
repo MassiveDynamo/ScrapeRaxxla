@@ -1,0 +1,32 @@
+Han_Zen
+Dec 13, 2017
+#1,338
+A bit more on Raxxla and Sirius
+
+As most people in this dark corner of the forum are regulars, I'm sure you remember my post about a potential Raxxla / Sirius connection: https://forums.frontier.co.uk/showt...-Find-Raxxla?p=6154193&viewfull=1#post6154193
+
+I've gathered some info about the Sirius system, to see if anyone can make sense of it.
+
+First the basics
+SPOILER
+
+Lots of numbers. [big grin]
+
+The Sirius system looks more or less exactly like this:
+
+
+Sirius A and Sirius B orbits the center of gravity, approximately every 49.73 years. The maximum distance between them is 20 AU. The minimum distance is about 8.15 AU.
+Currently we are very close to the maximum, with an in-game distance of almost 19.9 AU.
+
+According to Salomé, the federal documents about Raxxla were dated 2814. Some 489 years ago.
+
+489/49.73 = 9.83 laps of rotation or that we are about 8 years off(early) the position of the system in 2814. Hopefully federal bureaucracy used a bit of time with the archiving and Raxxla was found a few years before.
+
+Other possibly interesting points:
+
+- Lucifer is marked as tidally locked, but has 99 D orbital period and 4.9 D rotational period. It's in a 20:1 resonance. Not seen that elsewhere.
+- Waypoint orbits Sirius A in and almost centric orbit at 2 AU. This is exactly 1/10 of the max distance between A and B. The system COG will at times be inside the orbit of Waypoint.
+
+Just a few observations. Keep searching. [where is it]
+Reactions:
+madbilly, roryclague, Louis Calvert and 1 other person

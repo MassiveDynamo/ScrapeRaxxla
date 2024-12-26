@@ -1,0 +1,38 @@
+CMDRCorrMorningstarFelian
+Apr 1, 2021
+#22,545
+I am pretty sure I have a good idea of how to go about finding Raxxla. First, you have to understand the Alleged Toast of the Dark Wheel is a treasure map or more specifically how exactly to deduce what the true nature of that map is and where it is located. The Raxxla Codex on the other hand establishes relationships and how to deduce exact coordinates of what we are looking for.
+
+First, how to decode the Alleged Toast (see Unified Theory of Raxxla PDF). I am also attaching the Alcman's Cosmogenic Fragment which was acquired via academic channels though it was originally found at Cambridge University in the UK (near FDev HQ). The Alcman fragment established which goddess was the "mother of all galaxies". For the rest, the sources are pretty well cited. The gist of this, is the Alleged Toast in a series of twists leads you to a shield with a map of constellations for the northern celestial sphere commissioned by the mother of all galaxies for her son Achilles. That shield is the map. It points at Polaris.
+
+(See artist interpretation of the shield of Achilles.)
+
+The second part is the actual Raxxla Codex entry. The weird part about Astrophil and Stella is there only for two reasons:
+
+1) Astrophil especially is important in that "star lover" maps to a specific system in-game (specifically a famous astronomer who studied stars)
+
+2) To establish the relationship that exists between the systems represented by Astrophil and Stella and Delphi in particular. The key here is the mythos of the origins of Delphi (two eagles flew from opposite ends of the world and Delphi was formed there).
+
+We can now have enough to solve this and and as a side perk get exact galactic coordinates for Stella (which is likely where Raxxla is located). To do this you need 3 right triangles (two small ones fitting inside the large one).
+
+As far as the Raxxla Codex itself I believe it is describes Delphi as being equidistant from a system representing Astrophil (specifically a well known astronomer) and Stella (a special star system possibly containing Raxxla). The connection here is the eagle myth with Zeus and how Delphi was placed. Given this you need the following to establish the locations of each: at least 2 points on a right triangle triangular_ruler and you need 3 triangles: two small and one large later out as follows:
+
+Small triangle 1 points: Delphi, Sol, and reference system from EDSM which matches Astrophil or "star lover".
+
+Small triangle 2 points: Delphi, Sol, and unknown system referencing Stella
+
+Large right triangle with 90° at Sol:. The other endpoints are Astrophil and Stella.
+
+If you solve the distance for small right triangle 1 you know the radius from Delphi where Stella is (and that it is opposite Astrophil) and can calculate galactic coords exactly. I intend to do the top few candidates matching Astrophil this weekend and get us a region to search. There are a clump of systems grouped together that are all named after famous astromers. This should result in fairly small targetted search zone or an exact system.
+Attachments
+New_Unified_Theory_of_RaxxlaV3.pdf
+126.6 KB · Views: 251
+Alcman's Cosmogenic Fragment.pdf
+835 KB · Views: 188
+Achilles_as_Vagabond_The_Culture_of_Auto.pdf
+900.5 KB · Views: 230
+bookofstarsbeing00coll_0047_cropped_white_balanced.png
+42.5 KB · Views: 111
+Last edited: Apr 1, 2021
+Reactions:
+R3aktor, TrillClinton, Han_Zen and 9 others

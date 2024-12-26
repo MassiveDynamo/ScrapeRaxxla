@@ -1,0 +1,21 @@
+Louis Calvert
+Jan 18, 2024
+#33,040
+CMDR Davanix said:
+Lets everyone forget the landscape signal for a moment and turn your attention to supercruise noise! now i cant record due to being in the room with my sleeping 1 year old however use camera mode and zoom as far away from your ship as possible, now crank up that volume and i mean crank up a good bit! and point towards Andromeda, yes there is a noticeable difference in noise! Im currently in Asuhail incase the location matters il report back when im further away from here if the location changes
+
+Edit: There appears to be multiple different noises ranging from the direction of the Maelstroms, the galaxy center, landscape among a few more im not sure where they point, Now the kind of chirping noise is constant however there is audible differences that are in different locations and always are in those directions and not randomized.
+Easy for me to test this one.
+SPOILER: SPECTROGRAMS OF SUPERCRUISE
+
+
+
+I'm seeing no differences between any heading (currently in the Prieluia XD-Q C6-13 system). I've also recorded the sound of supercruise before a while back when I was testing to see if you could hear the Landscape Signal in it, these all match the ones I was doing back then too.
+
+The sound does change a bit, it's linked to your speed and whether you're accelerating or decelerating, but the changes are relatively minor.
+
+For anyone who's interested here's the Sound of Supercruise, recorded in freecam at max range, in Deep Space (not in a planetary system).
+
+@CMDR Davanix if you're hearing anything other that a sort of distorted mechanical churning noise and deep bassy thumbing, then you're hearing something new. I'll get my friend in the bubble to record in Asuhail too and update later.
+Reactions:
+Quaero and CMDR Davanix

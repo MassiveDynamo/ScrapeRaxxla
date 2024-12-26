@@ -1,0 +1,29 @@
+Pyroboros
+Feb 19, 2022
+#25,376
+Peet von Dachstein said:
+Ok so hi guys first of all. I was going through quite a lot of threads regarding the literaly only thing that can be considered official in connection to Raxxla which is this logo.
+Click to expand...
+Are you sure this is official? I always thought this was made by a CMDR from the Codex.
+I think the only official Images related to Raxxla are those two:
+
+
+
+The circle and the dot for Sol do not match in there proportions.
+The dot needs to be at least dopple as bold.
+
+Sry for been late at this one. My E-Mail bounced so i was no longer able to reply anywhere in the Forum for almost a week now.
+
+Latest experiment:
+Scanned Sols neighbors (same Layer/Masscode Systems whit SystemID 0 but in the 6 neighbors Boxels from Sol) and sold my Data to TDW faction.
+Result: nothing
+
+here the Systems: (no particular Raxxla Candidate among them?)
+Akhenaten (-1 z)
+HR 5779 (+1 z)
+Munfayl (-1 y)
+HIP 60551 (+1 y)
+Moortic (-1 x)
+Beta Hydri (+1 x)
+Reactions:
+Adel and Macros Black

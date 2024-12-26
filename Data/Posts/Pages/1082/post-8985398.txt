@@ -1,0 +1,8 @@
+Jorki Rasalas
+Mar 5, 2021
+#21,634
+FalconFly said:
+It's good habit not to launch the usual uplink/API tools (EDMC, EDdiscovery etc.) when logging into an Alpha or Beta unless you have a good reason to.
+Thanks. And I guess in the same vein, just stick to playing the alpha and delete those journal files?
+Reactions:
+[PS4] Filthymick420

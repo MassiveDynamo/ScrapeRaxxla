@@ -1,0 +1,5 @@
+Jorki Rasalas
+Oct 14, 2018
+#3,888
+Trinkets of Hidden Fortune (in-game description): “This container appears to hold an assorted collection of low-value trinkets, knick-knacks and statuettes. Such trinkets are generally used by superstitious pilots to try and win favour with the lady Fortuna. However, these particular knick-knacks have a much more valuable prize hidden within”...The commodity is directly linked to The Dark Wheel; from the DW missions they clearly contain data crystals that might be decoded for valuable information. Seems quite similar to SAP8 core containers which also appear to contain data crystals?
+Can & how do we get these hidden data crystals decoded in-game?? Is this a step we are missing?

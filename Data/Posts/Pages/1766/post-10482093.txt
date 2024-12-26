@@ -1,0 +1,19 @@
+Rochester
+Nov 14, 2024
+#35,309
+DB did outline the dynamics of how to find dark systems pre-launch. Namely a Cmdr scans various systems in a sector, then this identifies some hidden dark system.
+
+Personally I suspect that to be the source of the mysterious DB quote about ‘multiple scans’ to find Raxxla.
+
+The benefits were, said systems held mysterious POI, but also enabled additional route plotting candidates, allowing Cmdrs to travel much further/faster.
+
+MB actually names a dark system, and describes at least one example of what they might be in Elite Legacy - although this I suspect is open to debate.
+
+“He flies an Anaconda and apparently he was jumped as he passed through one of the local dark systems, LHS 142.”
+
+“jumps arrived within the gravity well of a star. Or a massive enough planet if it was isolated enough, such as in many dark systems. The volume was still huge but at least more manageable than a volume filling an entire system.”
+
+Personally I might consider then, dark systems do exist in game, but were never segregated, and identified as such, out of some unknown FD decision.
+
+Could rouge planets fall into this category, and be just very hot Jovian bodies, or very distant bodies ‘captured’ in another system. Or like with comets as non visible stellar forge functional asset?
+Last edited: Nov 14, 2024

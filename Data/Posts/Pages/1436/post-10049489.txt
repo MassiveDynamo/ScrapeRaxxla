@@ -1,0 +1,215 @@
+Jorki Rasalas
+Dec 31, 2022
+#28,704
+Jorki Rasalas said:
+Well, come to that there’s no confirmation that TDW actually exist! And the lore about them finding Soontil but not Raxxla comes from a book, external to the game and therefore not necessarily canon.
+
+I’m musing over my breakfast injection of sanity (mug of coffee reawakening the little grey cells) and want to push a discussion on this point. And on further thought it is the last day of the year and it seems a good time to post a long meandering message!
+
+There is no in-game confirmation that TDW (& their hidden space station) exist, it is all rumour according to the Codex, our only known canon source. TDW is a nice concept, but is it a red herring?? Perhaps we should concentrate on what we do know!
+
+We do have confirmation of Pilots Federation. There were several different spellings of PF in the Shinrarta Tourist Beacons, which led to my hypothesis that this represented different factions within PF. Those disparate spellings were corrected (obfuscation, or storyline retcon/deletion?). HOWEVER it is proven possible (& several of us have experienced this) to become allied with Pilots’ Federation Local Branch in Shinrarta (by normal mission completion), and quite independently get allied with PilotsFederation by killing Thargoids- I have a pic of that Allied status message on my gaming machine & I was already allied with PF in SD. Is this ability to get independent Allied status a programming bug, or perhaps an indication of a real in-game feature?
+
+I have already posted this but will do so again:
+From EDSM searching on “Pilot” in Minor Factions (not player faction) I saw:
+
+1 Pilots Federation Local Branch -PFDemocracy 0 controlled stations 0 controlled systems.
+
+2 Pilots’ Federation Administration - PFCorporate 5 systems 7 stations Otegine/Aldrich, Matet/Coelho, Dromi/Mawson+Dimery+Aitkins, Sharur/Archias, Orna/ Fuzong, however all these systems need Pilot’s Federation permit-newbies area!! Recently implemented so unlikely to be relevant.
+
+3 Pilots’ Federation Local Branch - PFDemocracy 0 stations 0 systems - in ShinDez
+
+4 PilotsFederation - no detail! -rank via rescue missions or Thargoid kills 0 stations 0 systems
+
+5 The Pilots Federation - IndependentDemocracy 0 stations 0 systems Shinrarta Dezhra
+
+So:
+A) Pilots’ Federation (Admin for noobs area,
+
+Local Branch for ShinDez)- missions
+
+B) Pilots Federation (Local Branch) - combat bonds??
+
+C) PilotsFederation - antixeno/rescue from attacked stations
+
+D) The Pilots Federation -?? (same as b?) might have been in SD then converted to superpower -codex entries/exploration? BH in SD??
+
+
+
+The different (original, now corrected!) spelling discrepancies were noticed in the Tourist Beacons in Shin Dez. Perhaps this beacon set of clues with different spellings is really why they are located in Shin Dez which you have to be Elite to enter? (I.e. part of the “personal journey”?)
+
+We know from Elite Premonition that TDW in Shin Dez are “at the outer rim”.
+Obfuscated In The Outer Rim (Answering The Call Of Adventure)- old SD mission.
+
+
+
+Clearly for some arcane reason FD had set up several factions of PF in-game. Rochester raised a bug report on these different spellings & the response (later deleted!!) indicated that all spellings were correct so there must be a reason. Clearly this is an obfuscation on the basis that most people would assume this was a single faction and put the differences down to bad spelling on FD’s part (which has always struck me as a bit strange, especially since MB was an author and Exec Producer who should have enforced good spellchecking practice). I suspect we need to ally with all these variants to trigger some event. Could this be part of the “obfuscation on the outer rim” from the early SD missions?
+
+This would certainly comply with the definition of a “personal journey”, and might explain why nobody has as yet reported receiving any TDW invitation-there is some part of PF that we are not yet impacting. We need to gain their attention! Discussion on that is in the spoiler below.
+
+To test this hypothesis is a bit of a lengthy effort; we need to test if these two Allied status messages can still be received and compare if the PF spellings for them are unchanged. It needs someone who has not yet done so to attempt to become Elite to gain the system permit & become Allied with PF (fairly easy to do) in Shinrarta, and independently to undertake extensive anti-xeno activities, though with the current Thargoid invasion this is an opportune time to do so. It takes quite a lot (~1860 IIRC, my hands are still painful!) of Thargoid Scout kills to get the final Combat Elite rank (which gave me the second PF Allied message). However I expect many reading this thread will already be well on the way to this level.
+
+Anyone up to the challenge?
+
+
+SPOILER: ORIGINAL TB SPELLINGS AND CONSEQUENT HYPOTHESISING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last edited: Dec 31, 2022
+Reactions:
+simulacrae, Macros Black, John Stoutbeard and 2 others

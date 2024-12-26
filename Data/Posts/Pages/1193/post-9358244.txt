@@ -1,0 +1,48 @@
+Jorki Rasalas
+Jun 29, 2021
+#23,850
+Well, I think I may have made sense of another clue. Been working it this afternoon, but no results so far.
+
+I think there are two possibilities, either Raxxla was placed as an Easter Egg for anyone to find, or it is part of the “personal journey” storyline with a series of event leading up to the revelation. Of course it could have started as the first then changed to the second. Or perhaps it is still discoverable as an Easter egg with an in-game storyline that would lead the player toward it. I’ve been playing for almost 6 years, but I can’t say that I’m aware of any such “storyline” events happening to me.
+
+The evidence for this line of thought:
+13Oct2014DB said “ED has a story that "embraces all the players; it’s not a single-player threaded ‘rescue the princess’ style story, it’s a story of your progression through the game, (i.e. a “personal journely”) we will have things that happen to you at certain stages through the game”
+
+FD implemented Raxxla in gamma (released 22Nov2014) when Raxxla may have been an interesting Easter egg & version 1.0 was released 16Dec2014. At that time there were E/F missions in Shinrarta which seemed to be leading towards Raxxla. These E/F missions appear to have been deleted (1.5 Patch Notes General Fixes/Tweaks said “Elite/Founder missions are now only available at the Founders World) circa Nov 2015 but there are no confirmed reports of them since around that time. In his 14May2016 Lore interview with DJTruthsayer Michael Brookes said “Where is Raxxla? Well, It's in the Milky Way, but I can't tell you where at this stage, it's a journey that everyone has to travel for themselves". And in July 2015 MB said Elite Legacy “was more of a spiritual successor than a direct sequel to Holdstock’s The Dark Wheel. We did look at a story involving Raxxla, but felt that was a story that should be played out in game rather than as a novel.”. So it sounds as though they decided to change Raxxla from an easter egg that could be found randomly to something only discovered through the developing “personal journey” storyline, and thta could be why the E/F missions disappeared. They may have been rewritten/disguised as a more coherent part of the storyline to get to Raxxla, &/or they may have been viewed as being too easy (especially as Elite ranking became easier to obtain with access to Shinrarta and those missions). Enquiries about the disappearance of those missions initially got a “we’ll look into it” type of response, which changed to “nothing to say” response, which seems significant.
+
+
+This is not actually the clue I’ve been chasing today. That’s actually both a revelation and a continuation of what I’ve been doing recently-searching for Raxxla around the outer planets of Sol. Particularly around Rhea, moon of Saturn, since the Codex mentions the Omphalos and in Greek myth Rhea fed the Omphalos Stone to Cronus instead of their baby Zeus.
+
+Now the clue that has puzzled me for a long time is the paragraph in the codex: “Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed. These details, however, were later shown to bear a striking resemblance to the children's story Princess Astrophel and the Spiralling Stars, and soon lost credibility. Undaunted, some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.” This paragraph just seems so odd & out of place; it seems contrived! We don’t have access to that “book”, though many people (me included) have gone looking through Philip Sidney’s “Astrophil and Stella” verses. It suddenly struck me this afternoon that “cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see” could be interpreted as meaning the answer is an anagram of the book title. So I fed “Princess Astrophel and the Spiralling Stars” into various anagram solvers. This one https://anagram-solver.net/AstrophelandtheSpirallinStars?partial=true produced a long list of amusing possibilities, including:
+Leeds train station (as a Yorkshireman I loved this one!)
+Easter Island Airport
+Hitler Rants Parodies
+Lisa Daniels (p 0 rn star)
+Anti Depressant Pill (an essential item in all Questors’ ship’s medicine kit!)
+Astrophel and Stella (yes, them again!)
+Happiness is the Road (a thought worthy of Buddha (there is no Way to Happiness, Happiness is the Way), or MB!)
+Iranian Earless Toad (speak up that alien!)
+National Pipe Thread (I’ve often felt I’m being screwed on this Quest!)
+The Patient Assassin (RP prevents me from pursuing this path)
+Alien Paradise Lost (scary, and reminiscent of my Alpha Centauri/Eden hypothesis!)
+ESports in Thailand (what can I say?)
+Heart Palpitations (lavian brandy+too much coffee!)
+It Started In Naples (do we know where Robert Holdstock lived? )
+DESTINATION EARTH (promising!)
+
+Plus a load of others that might trigger a light bulb for someone with mythology awareness (@Han_Zen, @simulacrae, @Thatchinho ??)
+
+
+HOWEVER the ones that jumped out at me after a short perusal (some letters left over!):
+Alien Ship At Rhea in Sol (Rhea, Omphalos Stone, hexagonal pattern of Raxxla logo suggesting 6th planet with 6 moons...)
+Alien ship Ariel Sol (which is interesting given the Ariel NPC that crops up occasionally!)
+
+But I do like the penultimate, it’s where I’ve been looking!
+A strange bug this afternoon! Destroyed 8 Wanted skimmers protecting loot. Got notification of bounties, got loot (!) and eventually went to Titan Ciy to sell salvage and claim bounties. But no bounties in my transactions tab!
+
+
+
+Edit: I’m not very good at anagrams, so please feel free to do your own word twisting, I’d be interested to see more ideas!
+Last edited: Jun 29, 2021
+Reactions:
+Exekrator, Han_Zen, CMDRGURU951 and 4 others

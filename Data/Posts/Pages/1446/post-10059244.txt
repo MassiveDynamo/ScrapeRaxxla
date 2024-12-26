@@ -1,0 +1,26 @@
+Rochester
+Jan 14, 2023
+#28,901
+Just a note regarding AI interactions.
+
+The bot bases it’s answers upon the questions asked of it, it is not truly ‘objective’; no direct sources are ever used and in many case the AI may use symbolic representation, so one can unintentionally lead the bot.
+
+Eg as with the examples above, I did something very similar, the responses change each time, also if I would open with one particular line of questioning, then change the direction, my previous requests influenced the conclusions.
+
+Cmdrs be careful of utilising bots to generate textual responses as it is not true insight nor analysis; the bots use your prompts to build a response, and a limited library of text (the internet - yes the internet IS a limited library and is NOT the hub of all knowledge).
+
+If utilising this process, look not at what it produces as a whole (and please don’t quote AI, if you do make sure to reference the source as this text then falls into the internet waters as ‘new data’).
+
+Also look for an alternative reference to back up such stuff because an IA is being creative, so will literally make stuff up, if you can’t back up the reference or know it to be false, use the feedback tool (if applicable) and flag otherwise it will learn nothing…
+
+Instead look at it as a randomisation game, it can be useful in identifying abstract or unique references.
+
+Example: in one of my own AI prompts around Paradise Lost and Celestial Spheres it did identify the names of all of the Muses… this was interesting, due to it giving prominence to one particular Muse; who doesn’t actually appear nor is named nor referenced in Paradise Lost… so technically it generated a falsehood, as it mixed references, as John Milton did not directly quote/utilise that sources, he extrapolated his own, however the bot was unable to distinguish this, and later was unable to replicate this response, even when I fed it the exact question on several attempts.
+
+For fun I got into a critical debate with the bot, asking it to provide direct quotes and sources, to which it confirmed it could not, stating that it’s responses were symbolic representation, it then confirmed it’s data was wholly untrustworthy and need to be cross referenced with real world data…
+
+Just a cautionary note… don’t be overly reliant on bots… they’re actually pretty stupid,
+
+Last edited: Jan 30, 2023
+Reactions:
+Shadowsnog, John Stoutbeard, CMDRCorrMorningstarFelian and 1 other person

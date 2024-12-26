@@ -1,0 +1,30 @@
+RaNaketh
+Feb 6, 2020
+#15,056
+Doing random investigation as is I do for TDW & Raxxla ... this time investigating previous Fdev posts for any inadvertent/deliberate tip-bits.
+
+This comment caught my eye from Dom:
+"The mission system is not and has never been aware of your ship or cargo while generating missions.
+All it knows about any particular player before the mission list hits the client is their ranks, reputations, and unlocked engineers."
+
+Found here: https://forums.frontier.co.uk/threads/is-the-game-rigged-or-is-it-just-me.516285/post-7876292
+
+Does anyone have any insight as to why the mission generation system would be concerned with which engineers you have unlocked (Dom, if you want to chime in feel free here!)?
+
+
+Another interesting quote regarding progression in-game:
+"Absolutely.
+The public facing builds don't support any of our trickery as the developer console is compiled out, so no god mode ingame.
+We could cheat progression by using the admin suite that support uses to help stuck players, but that would be... cheating... (Also it's audit logged on the live envronment, so not worth the risk)."
+
+Do FD staff have "God Mode"?
+We have separate development, testing and public servers - playing on public is generally on a normal account. I always use my normal account for that, but I have different accounts for the other servers as needed. Michael So, do you mean that you don't need to block regions with an unknown...
+forums.frontier.co.uk
+
+Which is curious, as I don't know of many games that don't allow developers to jump ahead of other players to validate end-game style content, especially not with an audit function that would concern their staff.
+
+Hmmm.
+/ Ra.
+Last edited: Feb 6, 2020
+Reactions:
+Six6VI, 3navis and Machina Ergo Sum

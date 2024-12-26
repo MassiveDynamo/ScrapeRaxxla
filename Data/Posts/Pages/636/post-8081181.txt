@@ -1,0 +1,10 @@
+yelboc
+Oct 12, 2019
+#12,714
+Darth Ender said:
+You'd have to drop the image to the width numbers regardless of how it's encoded, since no non-custom barcode reader is going to scan it.
+And if you've done that part of the work, which you'd have to do anyway, you could easily check to see if it's ascii if you knew what the name of the ship was that was associated with the barcode, since decoding the width to ascii would be straight forward, with every 2 digits being 1 character.
+
+I see what you mean - normally barcodes are based on a codeset that is chosen to make the life of the scanner easy - patterns with 0 mean and with wide differentiation between codes. What you suggest is that its not a proper RL barcode, but an encoding based on the linewidths. Thats a different matter and I shall have a go at it..
+
+If it varies with ship name or ID then that would be most interesting as there are barcodes scattered all over the place in the game - on canister and crates and racks etc..

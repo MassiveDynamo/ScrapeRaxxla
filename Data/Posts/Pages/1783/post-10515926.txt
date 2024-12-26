@@ -1,0 +1,9 @@
+Pyroboros
+Saturday at 9:07 AM
+#35,659
+Pareco Comet 2 is extremly hard to find, cause there is no indication that one is in its SOI.
+This is what my Journal says where i am right now: (Legacy Horizon)
+{ "timestamp":"2024-12-21T08:37:21Z", "event":"SupercruiseExit", "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco Comet 2", "BodyID":2, "BodyType":"SmallBody" }
+and this i what i see:
+Reactions:
+Han_Zen, Nezzie Muso, selbie and 4 others

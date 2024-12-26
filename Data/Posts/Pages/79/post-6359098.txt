@@ -1,0 +1,14 @@
+Jaiotu
+Jan 29, 2018
+#1,564
+JulesD said:
+Found this reference...
+
+When George Hale and Walter Adams returned at around 3:00 on the morning of November 3, they pointed the new telescope at the bright star Vega (although the star viewed is in dispute). They saw a very sharp image of this celestial object, which is considered the actual First Light."
+
+from
+
+http://spacewatchtower.blogspot.co.uk/2017/11/centennial-mt-wilson-observatorys-100.html[/FONT]
+
+
+I can use Stellarium to go back to 1918, set myself at the LAT/LONG for the observatory and point myself at Jupiter. Deduction suggests they wouldn't have wanted to move the telescope too much so whichever star is closest to 2:30 - 3:00 AM on the 2nd of Nov to where Jupiter was at 11:30 PM - 12:00 AM on the 1st of NOV is probably the best bet.

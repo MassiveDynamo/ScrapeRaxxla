@@ -1,0 +1,10 @@
+alexzk
+A
+Oct 6, 2020
+#19,185
+Tibercov83 said:
+What about being able to pull in the total number of stars such as wolf rayet stars in the stellar forge? So you're not asking for the contents of a system rather the star type.
+1. You need algo of SF. I.e. computer program which works exact as SF.
+2. I don't think it will be possible in short times. To count anything SF will have to create each star and count it. Guess this loop of creation will take couple weeks.
+Reactions:
+Vetinari, Vasquess, Tibercov83 and 1 other person

@@ -1,0 +1,8 @@
+JulesD
+J
+Apr 7, 2018
+#2,117
+Trickylion said:
+what is this FSD overcharged warning? is it different from the neutron supercharged beyond operating limit message?
+
+It is the operating beyond safe limits warning, happens repeatedly in all parts of Sirius system

@@ -1,0 +1,158 @@
+Jorki Rasalas
+Sep 4, 2023
+#31,483
+OK, have tested out yesterday's other thought, which was to go back to Paradise Lost and reinterpret the Toast as Jewel-Earth/Moon, Whisperer/Siren of deepest void-Sirius/Lucifer and Parent's grief/lover's woe - Fall
+because I spotted a system named Fall not far from Sol and the expulsion of Adam & Eve from Eden was a fall, god the father was aggrieved and Adam was a mite upset. Also "two angels find Lucifer, disguised as a toad, whispering into the ear of Eve as she sleeps", and he was the siren of the deepest void.
+
+Went to Sol/Earth, then Sirius/Lucifer then to Fall...
+
+I've searched through Fall, dropped out at co-orbiting moons and rings, and checked the 3 asteroid clusters...nothing found, but again from the Journal file there are some unassigned bodyids that are likely "comet" bodies.
+
+Fall body search
+system address
+1732985819866
+Body#
+SearchString
+0
+Wredguia FV-E c25-6
+Fall
+1
+Wredguia FV-E c25-131078
+ring
+2
+Wredguia FV-E c25-262150
+Fall A Belt Cluster 1
+3
+Wredguia FV-E c25-393222
+Fall A Belt Cluster 2
+4
+Wredguia FV-E c25-524294
+Fall A Belt Cluster 3
+5
+Wredguia FV-E c25-655366
+Fall 1
+6
+Wredguia FV-E c25-786438
+Fall 1 a
+7
+Wredguia FV-E c25-917510
+Fall 1 b
+8
+Wredguia FV-E c25-1048582
+Fall 1 c
+9
+Wredguia FV-E c25-1179654
+Fall 1 d
+10
+Wredguia FV-E c25-1310726
+Fall 1 d a
+11
+Wredguia FV-E c25-1441798
+12
+Wredguia FV-E c25-1572870
+Fall 1 e
+13
+Wredguia FV-E c25-1703942
+Fall 2
+14
+Wredguia FV-E c25-1835014
+Fall 2 a
+15
+Wredguia FV-E c25-1966086
+Fall 2 b
+16
+Wredguia FV-E c25-2097158
+Fall 2 c
+17
+Wredguia FV-E c25-2228230
+Fall 2 d
+18
+Wredguia FV-E c25-2359302
+Fall 2 e
+19
+Wredguia FV-E c25-2490374
+Fall 2 e a
+20
+Wredguia FV-E c25-2621446
+barycentre
+21
+Wredguia FV-E c25-2752518
+Fall 2 f
+22
+Wredguia FV-E c25-2883590
+Fall 2 g
+23
+Wredguia FV-E c25-3014662
+24
+Wredguia FV-E c25-3145734
+barycentre
+25
+Wredguia FV-E c25-3276806
+Fall 3
+26
+Wredguia FV-E c25-3407878
+Fall 3 A Ring
+27
+Wredguia FV-E c25-3538950
+Fall 3 B Ring
+28
+Wredguia FV-E c25-3670022
+Fall 3 a
+29
+Wredguia FV-E c25-3801094
+Fall 4
+30
+Wredguia FV-E c25-3932166
+Fall 4 A Ring
+31
+Wredguia FV-E c25-4063238
+Fall 5
+32
+Wredguia FV-E c25-4194310
+Fall 5 A Ring
+33
+Wredguia FV-E c25-4325382
+barycentre
+34
+Wredguia FV-E c25-4456454
+Fall 5 a
+35
+Wredguia FV-E c25-4587526
+Fall 5 b
+36
+Wredguia FV-E c25-4718598
+Fall 5 c
+37
+Wredguia FV-E c25-4849670
+Fall 5 d
+38
+Wredguia FV-E c25-4980742
+Fall 5 e
+39
+Wredguia FV-E c25-5111814
+40
+Wredguia FV-E c25-5242886
+41
+Wredguia FV-E c25-5373958
+42
+Wredguia FV-E c25-5505030
+43
+Wredguia FV-E c25-5636102
+44
+Wredguia FV-E c25-5767174
+45
+Wredguia FV-E c25-5898246
+46
+Wredguia FV-E c25-6029318
+Babcock Relay
+47
+Wredguia FV-E c25-6160390
+48
+Wredguia FV-E c25-6291462
+49
+Wredguia FV-E c25-6422534
+50
+Wredguia FV-E c25-6553606
+Last edited: Sep 4, 2023
+Reactions:
+Macros Black, Rochester, Han_Zen and 1 other person

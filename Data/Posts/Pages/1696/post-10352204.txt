@@ -1,0 +1,8 @@
+Ian Doncaster
+Apr 18, 2024
+#33,914
+El Saico said:
+² There's a proper writeup somewhere on the internet instead of a source code with zero context, but I lost the link
+https://wiki.alioth.net/index.php/Random_number_generator is a pretty good summary of the basics, with a bunch of links to more detail
+Reactions:
+Ravenloft45 and El Saico

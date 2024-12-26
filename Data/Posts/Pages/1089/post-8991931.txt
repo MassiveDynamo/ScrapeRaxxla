@@ -1,0 +1,10 @@
+Han_Zen
+Mar 9, 2021
+#21,766
+Spaceman Spiff said:
+We (or I) don't believe that the Lagrange points are in play so far. There are actually 3 of them on Jupiter's orbit, perfect for the symbol, but searches have come up fruitless so far.
+Lagrange point mechanics are supported by the game. The planet Lagrange in Alpha Centuri is the only example I can think of, but it works.
+
+Only L4 and L5 are on the orbit. The three other are on the line through the two bodies.
+Reactions:
+clavain

@@ -1,0 +1,69 @@
+CMDRCorrMorningstarFelian
+Nov 5, 2022
+#27,663
+Louis Calvert said:
+Alright then, I've never thought about Tau Ceti before so let's take a fresh run at this Maybe my total noob idiot approach might jog something that might be helpful to you! This is all just from in-game sources as usual.
+
+Tau Ceti from the Galmap description:
+
+
+The Tourist beacons at Tau Ceti detail the history of the first extrasolar colony. They last dated entry is 2242.
+
+
+That's 54 years before the 2296 Raxxla codex date from Art Tornqvist. We know that before 2159 (The first date in the Tourist spots) Tau Ceti was colonised using early FTL systems described as 'slow and inefficient'. How slow?
+
+
+The Tourist Spot says:
+
+
+
+
+So if we assume (because we have to) that the Earth Fleet left immediately in 2228 and went at best possible speed, they reached Tau Ceti in 12 years. Tau Ceti is 11.94ly from Sol, so that means early FTL travelled at approximately lightspeed, and we can assume military FTL was probably as good as anyone could make.
+
+Therefore by 2296, how far could anything containing Raxxla actually be from Earth?
+
+
+The Tourist spots show that Tau Ceti was the colony, and by 2159 it was established and self-sufficient. So let's say for argument and ease that Footfall was 2150. The fact that it's the first (known) colony means that we could start the distance/time calculation from 2138, the assumed launch date of the Tau Ceti colonisation ships given that it took them 12 years to reach Tau Ceti.
+
+, which puts the launch of the Tau Ceti mission extremely close to the first successful Hyperdrive test, it could be within a few years even. so that means, if these older Galnet articles are still to be considered vaguely accurate, that the spread of human exploration and discovery by Art Tornqvist's time was the 157 lightyear radius we get from the assumption of the 1ly per year travel time of early Hyperdrives from the Tau Ceti tourist spot. 157ly assuming a ship launched in the same year as the Tau Ceti mission and just kept going.
+
+Raxxla must have been discovered, then leaked, before 2296 in order for Art to write about it. And, aside from assumed test-ships, we know there weren't civilians like us zooming around in early hyperdrives. Given that ships took 1ly per year to move, they were likely all pretty massive too, having to support crew for years, even if they were in stasis.
+
+
+To me, this heavily suggests that early Raxxla as known by Art Tornqvist must have been near Earth. Certainly closer than 70ly (assuming a ship travelled out there, then turned back and reported Raxxla, then that news got to Tau Ceti for Art to journal about it in a very offhand way. I'm assuming the little colony of Tau Ceti wasn't launching interstellar exploration ships yet so the news would need to travel to Tau Ceti from earth, so 157/2)-12=66.5, rounding it up to 70 for ease.
+
+Given that 70ly away would mean 70 years, and assume a ship left at the same time as the Tau Ceti mission, that's very unlikely, so that to me suggests it would limit the range very considerably.
+
+The Tourist beacons do mention FTL probes, but we have no information on how fast they were or how long they travelled to reach Tau Ceti, so we need to assume that they also move at 1ly per year - hyperdrive is hyperdrive regardless of what it's pushing? If we assume unmanned probes are faster, which is very reasonable, then maybe we could expand the range a little given the news of Raxxla may then travel faster than the people discovering it, or it was discovered by probes - but again, we have no info on that so it's impossible to guess. Going by only what's in-game, we can assume a 70ly limit at maximum.
+
+
+We can assume that ships back then wouldn't have been sent randomly to every system within 70ly, especially since the Tau Ceti beacons tell us that probes were used to assess the viability of the system first. It was probably crazy expensive and so they would prioritise habitable (or profitable) star systems within that range and ignore the rest entirely.
+
+It's also a valid assumption to say that even probes may have been crazy expesnsive. Maybe they used telescope-based methods like we do to determine the likely composition of a star-system before assigning probes to the most likely. That would even further reduce the possiblity of an accidental discovery that would lead to some secret mission. Of course, it's possible Raxxla was discovered pre-hyperdrive - like maybe some astronomer studying nearby stars saw something that couldn't have been natural and so when Hyperdrive became possible a secret expedition went there to explore. We have no info on anything like that, so we can't include that here though.
+
+I suppose making a list of attractive systems less than 70ly of Sol and, starting with the nearest and working out, then check them for clues like POI's or beacons and the like. I assume that's been done and found nothing, so, other than that, I've no idea what any of this could possibly mean, other than Raxxla is closer to Sol than most people are looking.
+
+This set of assumption jenga obviously is flawed, but unless my maths is bad (which is usually is!) the general numbers are correct given in-game info.
+
+
+The only other thing I could think of is the . The Tourist beacon says it was discovered on Mars in 2280, that's only 16 years before Art Tornqvist's journal entry. Given the assumed 12 years travel time for news from Earth, that means Art was writing his entry within 4 years of maybe the first non-human artefact discovered, on Mars no-less!
+
+Galnet makes a firm link by association between the Martian Relic and Thargoids, we could question why Fdev did that if they're not actually linked. Obviously that's old Galnet though so may no longer be a valid source.
+
+I could make a case here that given the connections and timescale here, maybe Raxxla is linked to the Martian Relic and therefore the Thargoids, which means that Tau Ceti's Art Tornqvist journal entry might be simply another thing pointing to Tharogids. What if the Martian Relic was called Raxxla back then...
+
+"Indeed, there is so little concrete information in the public sphere that some have questioned the Relic's very existence. But leaked Federal records confirm that the object, which was sequestered by the Federal government shortly after its discovery, is very real."
+"... Maybe we should go find Raxxla while we're at it!"... (date adjusted for 12year lightspeed delay)
+
+Maybe Raxxla is "R-XX-1a" A catalogue number for the Martian Relic, conspiracy theorists started calling it Raxxla because it's easier to say!
+Click to expand...
+I like it and it is really well put together but I am required to disclose this because the following facts have proven endlessly frustrating in determining the range at which Raxxla must been from Sol in light of colonization and/or hyperspace technology:
+
+Per GalNet "Galactic News: Generation Ships" departs in 2097. This is the first generation ship. It is importantly the Mayflower 97. Per "Birth of an Empire" the majority of the convoy reaches Achenar in the middle of the 23rd Century (approximately 2250). It is notable that unlike what the Codex states, Marlin Duval may not have completed the journey as the moons Duval's Grave and Lawrence's Grave exist in Capella. Mayflower 97 is notable for having stopped in Tau Ceti per First Encounters but has never been located. Tau Ceti is 11.94 LY from Sol. Capella is 42.83 LY from Sol. Achenar is 139.45 LY from Sol.
+
+Then we have the Early Colonies beacon in Delta Pavonis (19.93 LY from Sol) that places era of rapid expansion starting at 2230.
+
+Arcturus is settled in 2304 per system description and is 36.71 LY from Sol.
+Last edited: Nov 5, 2022
+Reactions:
+Louis Calvert

@@ -1,0 +1,44 @@
+Jorki Rasalas
+Nov 14, 2024
+#35,310
+Rochester said:
+DB did outline the dynamics of how to find dark systems pre-launch. Namely a Cmdr scans various systems in a sector, then this identifies some hidden dark system.
+
+Personally I suspect that to be the source of the mysterious DB quote about ‘multiple scans’ to find Raxxla.
+
+The benefits were, said systems held mysterious POI, but also enabled additional route plotting candidates, allowing Cmdrs to travel much further/faster.
+
+MB actually names a dark system, and describes at least one example of what they might be in Elite Legacy - although this I suspect is open to debate.
+
+“”
+
+“”
+
+Personally I might consider then, dark systems do exist in game, but were never segregated, and identified as such, out of some unknown FD decision.
+
+Could rouge planets fall into this category, and be just very hot Jovian bodies, or very distant bodies ‘captured’ in another system. Or like with comets as non visible stellar forge functional asset?
+Click to expand...
+Well then the game departed from the book because LHS 142 has two M class star. It also has an L type Brown Dwarf, and I thought DB had said Brown Dwarves are the dark systems in ED? Given the low light level emitted by brown dwarves this makes some sort of sense. I think the dividing line between cool star and large hot planet gets blurry with Brown Dwarves!
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+Of course many pre-release game ideas were modified or dropped during development- in the released game we cannot scan a system prior to jumping there. You may be correct over that alleged DB saying about 'Raxxla will reveal itself if you're in the right place and scan enough', however the rest of that alleged statement was that a group of players might stand a better chance to detect it, and a basic scanner (which had limited range within a system) would be sufficient..an Advanced scanner ('infinite' range within a system) would be unnecessary. I think that implies the alleged utterance was after release but before v3.3 (Beyond chapter 4) release...from the Wiki "the Discovery Scanner was an optional internal module with three variants: the Basic Discovery Scanner, Intermediate Discovery Scanner, and Advanced Discovery Scanner. Each variant offered a different scanning range, with the Advanced Discovery Scanner or ADS being comparable to the current integrated Discovery Scanner. The old variants were removed with the Beyond Chapter Four update".
+
+Just to repeat for the sake of anyone who hasn't heard of this alleged interview (no source reference has yet been reported, so confidence in it is low!)
+"
+DB: "- It would be more likely to reveal itself to a group of players."
+Interviewer: "- How so?"
+DB: "- If you are at the right place and you scan it enough..."
+Interviewer: "- Advanced scanner or the basic one?"
+DB: "- Basic scanning is enough."
+Interviewer: "- But you have to be Elite..."
+DB: "- You have to be Elite."
+"
+
+I interpret this as implying the object under discussion (mooted to be Raxxla, but not actually mentioned in this alleged quote so might actually have been about something else) is locatable if you are at the right place within the correct system by Discovery Scanner honking, however the detection range is low hence a group of players all honking stand a better chance. The reference to needing to be elite is interesting; it would seem to imply the "something" is located within Shinrarta Dehzra (the only permit granted when you reach elite rank), or that finding it will unleash some really hazardous battle.
+
+Rogue (not rouge! They might be any colour! ) planets may well be be Jovian-like (or smaller) bodies,. IRL planets can be ejected from their parent star system by gravitational interactions, when they will wend their merry way through the galaxy as "solitary vagabonds" (in-game they would have to have a "system identity"), or they may be ‘captured’ in another system (in which case their orbit in the Orrery system map view would likely be at a high angle to the ecliptic, or even a parabolic trajectory which would be shown entering and leaving that system). Or yes indeed they could be like comets, which are implemented in-game by the StellarForge but as non-visible assets. However FD stopped their location method as some were apparently using it to anticipate the incoming Thargoid Titans in that storyline.
+Last edited: Nov 15, 2024
+Reactions:
+selbie, SergMx and Rochester

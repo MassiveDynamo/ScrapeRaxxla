@@ -1,0 +1,26 @@
+[Diplomacy] Carnegie
+Jul 18, 2022
+#26,470
+Jorki Rasalas said:
+You old grumpy sceptic you!
+
+You don’t think Raxxla is going to be a planet that you can SC to do you? With a big signpost saying “here be Raxxla, free parking behind the doughnut stall”, with an alien gateway to distant galaxies? We don’t know what it is, DBOBE said so!
+
+6 letters highlighted by being capitalised, same as RAXXLA with same letter frequency as Raxxla, faction description fits TDW codex description...I’m not saying this is Raxxla, or the faction is TDW, but I’m saying this capitalisation is suggestive. Six stations apparently investigating an invisible “comet”? Could (most likely) be a red herring, or could be a clue that what we should be looking for is hidden as a “comet” (either within Pareco or more likely somewhere else). Since we don’t know what Raxxla is then its worth a “tiny little bit” of testing
+
+I’m no cryptographer, but I think it could be worth the effort for someone who is to check if SCIECE could be a cryptogram of RAXXLA. My ability ends with ROT, which this clearly isn't since ROT applies a constant letter shift across the cryptogram but this appears to exhibit both 4 shift and 5 shift for the duplicated letters ( is that a Vigenére cipher?). I did try an online cipher workbench, but it seems to have stopped working for me, and I wouldn’t know what I was doing with it in any case.
+
+
+Well, my bedroom was 27C last night. Tried sleeping downstairs in my son’s bedroom, got a spider crawling on my back. Woke at 03:20 with hip pain cos it’s a crap mattress (delayed delivery of replacement, a of Brexit!).
+And today is going to be hotter
+Click to expand...
+I'm a very happy sceptic thanks
+I'm just saying that:
+
+Guns and Roses => GnR
+Scholarly Collective of Inquiry, Experimentation and Cosmic Exploration => SCIENnCE
+
+would seem to be the most likely explanation.
+After all, 'There will be no clues'.
+Reactions:
+Han_Zen and Jorki Rasalas

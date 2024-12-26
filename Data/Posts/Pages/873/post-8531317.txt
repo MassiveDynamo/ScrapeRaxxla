@@ -1,0 +1,22 @@
+Mrrshal
+Jun 15, 2020
+#17,441
+Further investigation yielded following:
+Using this web site http://simbad.u-strasbg.fr/simbad/sim-id?Ident=GJ+263 I found that the LFT 509 has also following identifiers:
+
+SPOILER: TABLE
+
+
+The invisible system name was HIP 34104 and searching it on galmap shows empty space, but this table shows that LFT 509 is also known as HIP 34104 and
+Ross 54!
+Cycling trough Ross 54 on galmap correctly points at the end to LFT 509, but HIP 34104 to empty space.
+This web site says that ''Ross 54 -- High proper-motion Star''
+Gal map says LFT 509 is binary.
+
+My hypothesis is that searching by HIP 34104 the galmap locks on the second star of LFT 509 binary! The System's stars are so far apart, many times longer distance than hutton orbital, that it appears to pointing at empty space.
+
+SPOILER: COPY OF MY SAME THOUGHT FROM DISCORD, SHORTER VERSION
+
+Last edited: Jun 15, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, PeteACarter, [PS4] Filthymick420 and 1 other person

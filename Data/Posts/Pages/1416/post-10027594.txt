@@ -1,0 +1,23 @@
+Louis Calvert
+Dec 8, 2022
+#28,320
+Here we go:
+From our original video, carrier jumping to Delkar system, planet anamundi.
+
+
+Anamundi (Delkar):
+
+Very clearly the same planet!
+
+
+
+Ok then, so we know now that "Planets in Witchspace" from both the carrier videos we've had are definitely a bug, and they're both the same bug.
+
+The bug is the destination planet appears during the transition. Easy
+
+This bug, however, is visibly different from the Horizons videos...
+Attachments
+1670525160525.png
+51.9 KB · Views: 62
+Reactions:
+Sunyavadin, Han_Zen, Darrack and 1 other person

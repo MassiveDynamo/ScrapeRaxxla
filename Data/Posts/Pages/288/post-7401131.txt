@@ -1,0 +1,10 @@
+Beng_Ammon
+B
+Feb 5, 2019
+#5,748
+Noobilite said:
+Just got a glimps at this in the picture thread: https://forums.frontier.co.uk/showt...raphy-Thread?p=7400468&viewfull=1#post7400468
+
+I'm waiting for a reply on where he saw this. I'm not sure if this is in game or an edited photo. If it's real that is really interesting.
+
+meh, just a "skybox" thing. Their PC /system can't render all the stars that are there, so it renders the max allowed by the graphicConfig file. Interesting its a triangle, but at the same time, makes sense given how certain textures render.

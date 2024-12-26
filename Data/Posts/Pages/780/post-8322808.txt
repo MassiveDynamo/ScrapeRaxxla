@@ -1,0 +1,23 @@
+Xaintly
+Mar 6, 2020
+#15,600
+ExoForce said:
+Any chance of hi-res picture of that signal?
+
+
+
+I also have a higher-res, 23mb SVG version.
+
+This folder has a lot of recordings, spectrograms & notes taken from various places, angles, etc.
+
+The signal/sound has a definite origin, and it is clearest when your ship is facing the origin, distorted and less-clear as you face away until at about 80 degrees you can't detect it.
+
+We found the origin area fairly quickly. Unfortunately, despite a massive search of the surrounding area with dozens of commanders, we didn't find anything unusual. The signal seems to be coming from an 'empty' location between systems.
+
+The galactic map is exactly 100,000 ly from "north" to "south" and "east" to "west". The signal is exactly in the middle, 50,000.00ly from the edge of the 4 cardinal directions. It is also in the vertical middle of the visible map. (The galactic map we can see 'starts' at about 20,000ly from the bottom of the actual map, and there is a barrier hiding stuff below that point).
+
+CMDR Macros Black discovered the sound and submitted a bug report to FDev. Despite a lot of people upvoting the bug, FDev has not responded or commented.
+
+I think it would be reasonable to conclude that the signal is just intended as a "flavor" ambient noise when you are facing the core. Perhaps FDev never intended anyone to isolate it and track it down. Nothing in the core area near the signal origin offers any more clues as far as we can tell, so it doesn't seem to be 'Step 1' of a treasure hunt.
+Reactions:
+turkwinif, [PS4 Pro - PC] earthtone99, Machina Ergo Sum and 4 others

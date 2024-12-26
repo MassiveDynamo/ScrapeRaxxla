@@ -1,0 +1,65 @@
+El Saico
+Mar 13, 2024
+#33,558
+El Saico said:
+Yesterday I finally got around to plot the hand-assigned sectors on 3D (thanks to the hard work on the EDTS library and the FreeCAD API being very easy to generate elements programmatically).
+
+My initial focus was the inexplicable, very distant permit-locked regions with clearly procedurally-generated names: Bovomit, Dryman, Bleia 1 to 5 and such. But then, my attention turned to the Bubble and its numerous overlapping sectors, and a question emerged: what if the regions postulated by the Miltonian model have an actual ingame representation?
+
+The Core Sys sector - 100ly-wide and centered on Sol - was an obvious stand-in for our physical universe, but what about the rest?
+Most sectors on the Bubble are named after constellations; and I believe Alrai should count here, as an official system name. The others, however, paint an interesting picture:
+is a weirdly-shaped mass of 80ly spheres (the only region under such an arrangement) which seems to cover the original Imperial territory, but it might be redundant for our purposes - more on that later
+
+A 3D representation of the ancient stars (yellow), Core Sys (red), Bei Dou (green) and Shui Wei (blue) sectors.
+Click to expand...
+A quick update:
+
+Comparing the region centers calculated by EDTS with the systems they're named after (with Alioth as the Bei Dou representative) yields incredibly close results - which makes me believe they are, indeed, the actual centers.
+The sole exception is Shui Wei; none of the members of the asterism fit... but Achenar does.
+
+Python:
+In [56]: ha_regions['jastreb sector'].centre
+Out[56]: Vector3(-12.51953, 3.82031, -40.75)
+
+In [57]: from_name('Capella').position
+Out[57]: Vector3(-12.53125, 3.8125, -40.78125)
+
+In [58]: ha_regions['tascheter sector'].centre
+Out[58]: Vector3(1.46094, -22.39844, -62.74023)
+
+In [59]: from_name('Aldebaran').position
+Out[59]: Vector3(1.4375, -22.40625, -62.75)
+
+In [61]: ha_regions['shudun sector'].centre
+Out[61]: Vector3(-3.51953, 34.16016, 12.98047)
+
+In [62]: from_name('Arcturus').position
+Out[62]: Vector3(-3.53125, 34.15625, 12.96875)
+
+In [63]: ha_regions['sharru sector'].centre
+Out[63]: Vector3(37.87891, 60.19922, -34.04297)
+
+In [64]: from_name('Regulus').position
+Out[64]: Vector3(37.875, 60.1875, -35.0625)
+ 
+In [65]: ha_regions['bei dou sector'].centre
+Out[65]: Vector3(-33.64844, 72.48828, -20.64062)
+
+In [67]: from_name('Alioth').position
+Out[67]: Vector3(-33.65625, 72.46875, -20.65625)
+
+In [68]: ha_regions['shui wei sector'].centre
+Out[68]: Vector3(67.51172, -119.44922, 24.85938)
+
+In [69]: from_name('Achenar').position
+Out[69]: Vector3(67.5, -119.46875, 24.84375)
+
+So, what about Yin? Spansh has a nice search by coordinates feature that gave me this result:
+
+System Name Castor
+Distance (LY) 0.04
+X 6.41
+Y 20.19
+Z -47.00
+
+...maybe it's a twins thing, with Pollux being Yang?

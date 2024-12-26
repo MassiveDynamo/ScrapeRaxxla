@@ -1,0 +1,12 @@
+Sublime
+S
+Nov 25, 2022
+#28,030
+SongOfTheVoid said:
+Your telling us that "Fdev provided this method" in which you alter files accessed by the game in a attempt to extract hidden not public information from the game by exploiting the client to load manually edited values?
+Im going to say your either outright lying or id suggest showing proof of this supposed provider from Fdev for this method as altering files loaded by the game without it being authorised "GUI" only changes is a breach of the EULA and as what your saying is 100% NOT GUI related and is related to extracting information from the game you wouldnt otherwise have, thus is a clear breach and is easily under the branch of datamining via exploitation of the client via modified game client files.
+@Ozric Ive Quoted the offending section, please note a) Altering of ED Files, b) for NON-GUI only purposes and c) To trick the client into loading the manually edited values in the file so it provides information otherwise not provided to players....
+To be clear im sure you may believe its acceptable but the fact remains its really not and anything like that should rightfully be called out when seen so bad behaviours or erroneous beliefs can be corrected...
+Click to expand...
+
+Don’t be ridiculous. They are configuration files, the same as you can modify the key bindings file or the graphics settings file to get better visual settings than what is available via the GUI. Both of those have various, lengthy threads. None of those have been removed or blocked. FDEV will encrypt any files they don’t want you to mess with.

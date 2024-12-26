@@ -1,0 +1,9 @@
+alexzk
+A
+Feb 20, 2021
+#21,227
+Some old bugs on 1st ever manuals. I had found some star, it had to be double star, but was accidentally split into 2 systemes, on map u cannot click it separated even, but once you inside 1st system, u can select in (1) another one. I posted name couple hundreds pages ago here.
+Also in California Nebula there is weird ground base. My autodock computer boosts ahead from certain land I did then slowly flies back. And I think I hit there some invisible object too once
+According to beacon that was 1st alliance base established, i.e. "1st such manual designed placement".
+Reactions:
+TrillClinton, FrakesAnim and Vetinari

@@ -1,0 +1,10 @@
+Louis Calvert
+Nov 21, 2022
+#27,969
+For reference, top image is gamma set as recommended in-game (on my screen). The bottom two are from gamma-cranked in-game.
+
+
+I'm not seeing a hexagon in there. There is textural banding and shadow banding, but nothing like the hexagon:
+Edit: Below image is from Cassini, not in game
+Reactions:
+Rochester

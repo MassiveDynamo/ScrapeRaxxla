@@ -1,0 +1,19 @@
+CMDR_Ryunosuke
+C
+Jun 14, 2022
+#26,341
+Robert Rockbite said:
+Don't worry: Finding one could well mean finding more of them.
+For example, [insert random wild hypothesis here] - eh, Raxxlas could be tiny objects that emit exotic gravitational forces. And these exotic gravitational forces would distort spacetime to stabilize fancy star systems with 3 or more stars into stable orbits.
+And that's because, usually, I would expect at least some star systems to be completely chaotic. And if that would be the case, I would expect that FDEV would not want to run real-time simulations of millions of chaotic star systems on their servers.
+So maybe FDEV had to nudge orbital mechanics a bit to make some star systems stable. And maybe FDEV felt that if they had to nudge orbital mechanics, they would have to introduce some thingy that does the nudgin'.
+And that would mean we would "just" have to find a way to identify star systems that need nudging. If we could do so reliably and with a certain computational efficiency, we would just have to run an algorithm over 60 GB (compressed) of public star system data and find an impressive number of systems stabilized by Raxxlas in one go.
+Click to expand...
+
+what you are talking about is a siren, or a dark siren depending on the source.
+
+From Wikipedia: Standard Siren: "Gravitational waves originating from the inspiral phase of compact binary systems, such as neutron stars or black holes, have the useful property that energy emitted as gravitational radiation comes exclusively from the orbital energy of the pair, and the resultant shrinking of their orbits is directly observable as an increase in the frequency of the emitted gravitational waves. "
+
+now there is also a dark siren which is the collision of two neutron stars and/or black holes. Also from Wikipedia: "A dark siren is a gravitational wave event which is being used by astronomers to establish the Hubble constant.[1] It is caused by the merger of two black holes or two neutron stars. The collision of two such objects creates distortions in space-time which propagate as waves through space. These events are fairly rare in the universe, and must be detected by multiple gravitational wave telescopes in order to be valuable for scientists. A dark siren is an alternate form of a standard siren, an interstellar measurement of "loudness" of gravitational waves (analogous to sound waves). In 2019 the neutron star merger GW170817 resulted in a dark siren"
+Reactions:
+Macros Black

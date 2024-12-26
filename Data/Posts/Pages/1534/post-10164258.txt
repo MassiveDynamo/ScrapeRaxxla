@@ -1,0 +1,6 @@
+CMDRCorrMorningstarFelian
+Jun 14, 2023
+#30,674
+Jorki Rasalas said:
+Yep, was going to say I thought the rings were seen in the pic of the planet when you zoom into the fss signal, but don't think they're indicated by the asteroid count in the tuning display. But then there seem to be 5 asteroids in Dahan but nothing showing anywhere in system or in system map.
+They definitely appear on the FSS scanners preview image when you lock onto the body. However, I have only ever seen discovered rings messages with DSS scanner. Meanwhile, generic asteroid belts can even be passively scanned if you are just flying around (even if you don't "honk" the system). Notable that discovery of rings and belts pays absolutely nothing. So, even for explorers it is done more for the making sure everything got scanned (the inner completionist).

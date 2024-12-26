@@ -1,0 +1,11 @@
+Jorki Rasalas
+Nov 3, 2021
+#24,687
+electro said:
+Example of what it cant detect?
+The megaship in an asteroid belt in the recent Hesperus storyline. You had to drop into the belt to discover it. Though other things can be detected in asteroid belts-e.g. several stations orbit within belts.
+
+So it seems to me that objects in-game have either a detectable/undetectable flag, or a value within which they are detectable but not otherwise. The latter has been seen before in-game, things only becoming visible within so many light seconds. FD could set that range to zero and it would be undetectable.
+Last edited: Nov 3, 2021
+Reactions:
+Han_Zen, Rochester and electro

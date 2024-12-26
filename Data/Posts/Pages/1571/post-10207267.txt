@@ -1,0 +1,8 @@
+El Saico
+Aug 27, 2023
+#31,410
+Turns out EDSM's code is open source, so I borrowed its calculations for galactic coordinates and applied it to a system dump - after a series of mishaps and trying to understand what things mean, success!
+
+This should make it easier to focus on specific regions of the Earthly sky...
+Reactions:
+simulacrae

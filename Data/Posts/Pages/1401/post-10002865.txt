@@ -1,0 +1,10 @@
+Macros Black
+Nov 23, 2022
+#28,011
+Jorki Rasalas said:
+You can precisely locate a barycentre using the comet hunting method by selecting its bodyid number. Though when you drop out at it you find that it moves away from you faster than your thrusters can catch.
+
+@Macros Black : hi mate. It might be worth putting a description of the two comet hunting methods on the front page of the thread. I can pm you a text if you’d like.
+Hi CMDR,
+
+Write and/or link to a post and I'll add it

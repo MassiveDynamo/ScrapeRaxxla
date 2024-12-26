@@ -1,0 +1,8 @@
+Noobilite
+Aug 25, 2019
+#11,295
+I think you are doing it correctly but it's doing it with the one coordinate with a possitive putting in the wrong direction. The rest is correct.
+
+It took me a bit to find the error. I corrected it in the above post. I edit alot so stuff I type gets delayed in appearing sometimes. 8)
+
+I thought you changed it to find a different type of coordinate at first.

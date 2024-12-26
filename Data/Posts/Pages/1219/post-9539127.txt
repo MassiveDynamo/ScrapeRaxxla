@@ -1,0 +1,18 @@
+Jorki Rasalas
+Oct 3, 2021
+#24,374
+If you have a query about an in-game star then first check the description, they often have multiple names. Then check those against the Simbad astronomical database which gives a load of alternate names etc. Then you can google them.
+
+The trouble is that the game is based on a whole load of external data, since FD imported several extant star catalogues into the universe before running Stellar Forge to fill out the generated ones, nebulae etc. That import of several catalogues has caused problems since sometimes different stars have very similar positions, or one star has multiple positions, because astronomical data is good at angular measures but distance measures/estimates are not so reliable.
+
+Lori Jameson is an engineer on Shinrarta Dezhra A1. That description from Evararenth does support the idea that she is a descendant of Peter Jameson, the first Elite pilot. But was he in TDW? Does that clarification get us any further? Don’t know, but it may be that a good examination & correlation of system descriptions might lead us somewhere!
+
+All ideas welcomed in this thread!
+
+Edit: but it is a very good thought. How could we conduct that correlation? In-game browsing is a pain (& gets my RSI twanging!). Are the system descriptions for the bubble downloadable somehow? They aren’t in EDSM are they?
+
+Edit2: Wiki states she is descended both James (Great-grandfather) and Peter Jameson (Ancestor). Confirmed in a Galnet article
+Lori Jameson
+Lori Jameson is one of the great granddaughters of John Jameson, the most famous Pilots Federation member ever. She is an accomplished explorer in her own right and has developed various techniques for improved automated systems. Her facility is popular with those seeking to prepare their ships...
+elite-dangerous.fandom.com
+Last edited: Oct 4, 2021

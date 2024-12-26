@@ -1,0 +1,18 @@
+Louis Calvert
+Nov 29, 2022
+#28,119
+CMDRCorrMorningstarFelian said:
+Well, this is going to end up being a hunt through the historical names of systems.
+OK, well when you've got a list I'm happy to check out the systems or whatever they are
+Virtual Yoda said:
+The one thing I wish I could do is load the soundwave recording “signature” of a hyperspace jump into a programme and play it. The digital graph in the bottom right of the HUD. It seems to repeat regardless of time spent in the jump animation.
+I liked your post, good stuff With this section, I can record the audio of Witchspace, but I've no idea how to reverse engineer that little soundwave signature, or even if that's a 'real' soundwave or just a representation, it's so tiny. Maybe need some sort of sound engineer? There must be one in the forums somewhere?
+Pyroboros said:
+In a Stream from MalikVR Dr Kay Ross (former Developer for ED ) was in the Chat (~1.Sep.2022) and People started asking her Questions. One response was that she did work on something that could be expanded on to make objects visible from other systems. That was off course Stargoid related.
+Nevertheless the Game has Star Descriptions that no one ever has found.
+Furthermore there are two 15.7 BodyType values that have been found but are not in the documentation.
+So why have Exoticstars and RoguePlanets in the Documentation but (not allowed to further mention) and (not allowed to further mention) not?
+You make a lot of sense. I agree that those ID types were made for a reason, just because there's nothing found using them yet doesn't mean there isn't anything to find. It's a great point that the Stargoids are an example of an object that both moves and can be seen from a distance of lightyears! nice catch.
+Darrack said:
+by the time England vs Wales kicks off.
+Are you suggesting Raxxla is related to sportball?

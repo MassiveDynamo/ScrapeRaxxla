@@ -1,0 +1,27 @@
+Macros Black
+Mar 22, 2020
+#15,758
+Operation SAR (Sell All Rares): Sell all rares in Shinrarta Dezhra, SOL & Tau Ceti.
+
+Rares:
+- http://zoy.rf.gd/rares/
+- http://www.elitedangeroustrading.com/trade-rares.aspx
+
+Rhuagh original outfitting. Now refitted as storage.
+
+MO:
+One Imperial Cutter for storage, one Python and one Anaconda fpr collecting rares. Altering between ships depending on distance to local destination, e.g. Hutton Orbital. Both fitted with Supercruise Assist and Autodock.
+Sell rares along the route when profit is acceptable
+Retain 4 rares per type
+Deliver to storage ship in batches
+Careful with autolaunch since it's unstable when waiting in queue. Risk of getting jammed in the rails on the station sides.
+My usual travel mo:
+Accept donation missions when below Allied with faction
+Scan nav beacon when in unexplored systems to acquire system data
+Scan ships while in supercruise for encoded mats
+If material trader present, use to balance mats
+
+Making good use of my accounts: One headed for Sothis, another for Hutton Orbial, and the last one headed for Celcius Estate. Christmas wish: Shuttle to Colonia.
+Last edited: Mar 29, 2020
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum, John Stoutbeard and 2 others

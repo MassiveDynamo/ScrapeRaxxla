@@ -1,0 +1,38 @@
+Edelgard von Rhein
+E
+Dec 29, 2018
+#4,823
+Have there been many more Tourist Beacons added with 3.3?
+I decided to check my hunch that there might be a clue somewhere in a permit-locked system and have started systematically going through the permits I have (including Phekda, which started out permit-locked but had the restriction lifted after just over a year). I started in Alliance territory, purely because I had been doing some engineering there, and have so far surveyed Phekda and Alioth, visiting each Tourist Beacon, Installation and Megaship and checking for logs. Alioth now has *eleven* Tourist Beacons! Both systems have three Installations, none with any logs, and of the five Megaships I visited, none had anything more than flight plans that I could find (all were mobile and most changing place every week). It's going to take me a while to complete the survey at this rate!
+Quick summary:
+Phekda (survey date 29th Dec 3304): Tourist Beacons: 2; Installations: 3; Megaships: 1
+Alioth (survey date 29th Dec 3304): Tourist Beacons: 11; Installations: 3; Megaships: 4
+There was nothing that seemed relevant amongst the Tourist Beacons but plenty of interesting things about Alioth's history. I might follow up on that later - the homeworld of Mic Turner was mentioned (Essafa) and also where Meredith Argent's ancestors came from (Ayethi).
+EDIT: continuing to add information on systems I visit:
+Sirius (survey date 30th Dec 3304): Tourist Beacons: 6; Installations: 2; Megaships: 0
+Beta Hydri (survey date 30th Dec 3304): Tourist Beacons: 3; Installations: 4; Megaships: 1
+Nothing relevant found in above systems. No logs other than flight plans found. Installations often have a 'Ship Log Uplink' but no message is given upon scanning.
+van Maanen's Star (survey date 31st Dec 3304): Tourist Beacons: 0; Installations; 2; Megaships: 0
+Hors (survey date 31st Dec 3304): Tourist Beacons: 0; Installations: 1; Megaships: 0
+Ross 128 (survey date 31st Dec 3304): Tourist Beacons: 1; Installations: 0; Megaships: 0
+Vega (survey date 31st Dec 3304): Tourist Beacons: 0; Installations; 2; Megaships: 0
+Sol (survey date 31st Dec 3304): Tourist Beacons: 20 (includes a Tourist Beacon at Voyager 1 not initially visible); Installations: 4; Megaships: 2; Other: 2 Capital Ships, 3 Ancient Probes, 3 Crashed Ship sites (Mercury: 2, Charon: 1); Unregistered Comms Beacons: 2
+Luyten 347-14 (survey date 1st Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 2
+Exbeur (survey date 1st Jan 3305): Tourist Beacons: 0; Installations: 2; Megaships: 2
+PLX 695 (survey date 1st Jan 3305): Tourist Beacons: 0; Installations: 1; Megaships: 1
+Nastrond (survey date 1st Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 0
+Peregrina (survey date 1st Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 0
+Jotun (survey date 1st Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 1
+Terra Mater (survey date 2nd Jan 3305): Tourist Beacons: 0; Installations: 2; Megaships: 0
+Pi Mensae (survey date 2nd Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 0
+Crom (survey date 2nd Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 0
+Tiliala (survey date 2nd Jan 3305): Tourist Beacons: 2; Installations: 2; Megaships: 1 (no flight plan found)
+LTT 198 (survey date 2nd Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 0
+Summerland (survey date 2nd Jan 3305): Tourist Beacons: 0; Installations: 3 (1 bugged at time of visit, could not be scanned); Megaships: 1
+Facece (survey date 2nd Jan 3305): Tourist Beacons: 5; Installations: 5 (2 bugged at time of visit, could not be scanned); Megaships: 1; Other: 1 Military Installation (Capital Ship Dock); 6 Capital Ships
+Achenar (survey date 3rd Jan 3305): Tourist Beacons: 11; Installations: 4; Megaships: 3; Other: Capital Ship: 1; Unregistered Comms Beacons: 1
+Hodack (survey date 3rd Jan 3305): Tourist Beacons: 0; Installations: 0; Megaships: 0
+Shinrarta Dezhra (survey date 3rd Jan 3305): Tourist Beacons: 8; Installations: 0; Megaships: 2
+Isinor (survey date 3rd Jan 3305): Tourist Beacons: 0; Installations: 2; Megaships: 1
+Nothing observed was recognisably a clue to the Raxxla mystery or the whereabouts of The Dark Wheel. Several Installations could not be visited but no logs were found on any Installations (although many have Ships Log Uplinks, these provide nothing) so the chances are slim that they hold a clue. The only logs found on Megaships were flight plans. None of the Megaships were seen to be dockable at this time. The Unregistered Comms Beacons are known to be related to other events.
+Last edited: Jan 3, 2019

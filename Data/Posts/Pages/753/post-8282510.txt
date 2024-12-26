@@ -1,0 +1,13 @@
+Koben
+Feb 6, 2020
+#15,048
+I was trying to get to the Cone nebula way before the Gnosis... almost got it done but Frontier fixed the neutron star FSD Charge double stacking.
+
+To get there I'd need about 21 days in SC, consuming 1.17t of fuel/h with all modules turned off except by FSD and Thrusters. See below my waypoints:
+
+Cone Nebula Jump
+1. PLAA THUA LM-D D12-4 (low fuel tank);
+2. PLAA THUA PN-B D13-0 (fill fuel tank);
+3. CONE SECTOR ZE-Z B0 (392.40Ly);
+Reactions:
+3navis, Han_Zen and Machina Ergo Sum

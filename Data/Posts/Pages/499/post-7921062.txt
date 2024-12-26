@@ -1,0 +1,13 @@
+[Diplomacy] Carnegie
+Jul 30, 2019
+#9,962
+CMDR Maylor Rom said:
+Maybe this is where my confusion is, as Elite usually denotes a barycenter by displaying an "X" between the two when one exists. There is none in this system, which I have become accustom to seeing.
+
+I think (I'll have to check) that you only see the 'X' when there are non-stellar bodies also orbiting the barycenter. A planet orbiting both B and C would be named BC1 and you'd see the 'X' against it's row in the System Map.
+
+Edit:
+Every system that has more than one star in it has a barycenter.
+Last edited: Jul 30, 2019
+Reactions:
+Deleted member 52630

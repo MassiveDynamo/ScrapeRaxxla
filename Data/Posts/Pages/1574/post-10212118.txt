@@ -1,0 +1,26 @@
+Jorki Rasalas
+Sep 3, 2023
+#31,474
+OK, finally felt fit enough to fly today. Got 3 Trinkets of Hidden Fortune in the hold so didnt want to risk attracting unfriendly attention in an anarchy before my reflexes were improved. I've been marooned with covid for four+ weeks in Terra Mater, which seemed to me to be quite a good candidate for Raxxla's location (or at least the Omphalos Rift).
+
+
+Reasoning:
+I focussed down a while ago onto Hecate- Hecate was one aspect of the "triple goddess" and could be the solution to each of the first three lines of the toast (Jewel-Luna (Selene/Hecate), whisperer/siren- Hecate, grief/woe-death/underworld/Hecate)....Hecate was the ancient greek goddess of doorways, triple crossroads & the key holder to the Underworld...perhaps the old "door that is also the key" hint? @Rochester has identified MB inserted/named systems and objects relevant to the various mythological Underworlds, clearly a lot of effort so very probably part of the Raxxla puzzle (though I haven't discounted the possibility this could be more obfuscation). The Raxxla logo in the game codex shows three crossed lines (triple crossroads?) and a dotted line with 33 dots; which in engineering drawing suggests something hidden. I reasoned it might be hidden behind Hecate... as in permit locked with the permit obtainable therein?
+
+The permit for Terra Mater is available from Hecate. Terra Mater has 32 astronomical bodies, so with 33 dots in the logo perhaps Raxxla is a hidden thirty third?
+However today I've flown around in Terra Mater and found nothing (which of course doesn't mean it's not there!). According to the journal file there are possibly 37 "comet locations" (unallocated bodyid values) therein, but we were forbidden from hunting them with the overflow method, and I heard the game code has been changed to prevent that....
+
+SPOILER: TERRA MATER BODYIDS
+
+I did then go back to Hecate to search around Hecate 5A (strange wording of Tourist beacon) and Hecate 6 but nothing found.
+
+I'm stumped!
+Hot afternoon... time for a beer!
+
+P.S.
+there might be a way to find these 37 hidden locations- I suspect that NPCs occasonally drop into/emerge from them. But that is a boring way to game!
+
+where's that beer....
+Last edited: Sep 3, 2023
+Reactions:
+Edelgard von Rhein, simulacrae, CMDRCorrMorningstarFelian and 3 others

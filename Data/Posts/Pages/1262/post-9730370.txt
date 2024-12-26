@@ -1,0 +1,10 @@
+Macros Black
+Feb 5, 2022
+#25,236
+I'm not clear on how using the galnet searchbar is a bug or how it can be used to find bodies?
+
+Maybe someone from fdev could clarify whether or not this is a bug.
+
+If it's a bug/unintended behavior then I wouldn't use it.
+Reactions:
+Adel

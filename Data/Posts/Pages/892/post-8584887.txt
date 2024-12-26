@@ -1,0 +1,9 @@
+alexzk
+A
+Jul 10, 2020
+#17,821
+Yeh ...that is philosophy question of game design We know we're forced to jump to stars as it is "loading screen". So systems without stars could be just not shown.
+They could say "sensors can detect only star-sized masses. So if mass is less, sensors assume this area empty".
+Last edited: Jul 10, 2020
+Reactions:
+Mattius101, PeteACarter and [PS4] Filthymick420

@@ -1,0 +1,28 @@
+CMDRCorrMorningstarFelian
+Aug 24, 2023
+#31,360
+Darrack said:
+I think you can get 85/86 LY from an Annie so thats 172LY on premium, my Annie does 83.36 but im not dropping below a 5A PP, its paper thin as it is and i only use it as a carrier based explorer for high up.
+
+O7
+Neutron boosting (300% increase over normal)...
+~255 LY
+
+Premium Fuel Injection (100%) + Neutron boost (300%)= (hypothetical - suspected not possible)
+~340 LY
+
+Possible ways to close the gap:
+
+"You called an Engineer?" (performance vs mass - the "I don't need no engineers" strategy) (potentially significant)*
+Deep Charge for FSD grade 4 or lower (negligible)
+Mass Manager for FSD grade 5 or higher (negligible)
+Engineered module mass reductions + engineered boost (possibly significant)
+Guardian FSD booster (medium impact)
+Suspect you would need to combine strategies. Still, I have to believe this must be possible. It would be huge as a ship could out jump a carrier.
+
+Which means either there is something more exotic than neutron stars with a bigger boost (~600%) or there is an as-yet uncovered jump mechanic. I get the feeling Drew Wagar was given that figure by either Michael Brookes or David Braben himself.
+
+*-Think bare minimums to get the job done with maximal increase in ship stats with factory parts.
+Last edited: Aug 24, 2023
+Reactions:
+Darrack

@@ -1,0 +1,9 @@
+[Diplomacy] Carnegie
+Aug 16, 2019
+#10,754
+CMDR Maylor Rom said:
+Anyone know why a jump in progress at 50% would shut down, or has anyone seen anything like this?
+
+If your target becomes obscured I'm pretty sure the jump gets aborted. It can happen if you're not lined up on the target when you start charging.
+Reactions:
+PeteACarter and TotallySirius

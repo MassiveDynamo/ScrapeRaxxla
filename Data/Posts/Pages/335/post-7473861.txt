@@ -1,0 +1,8 @@
+stg213
+Mar 15, 2019
+#6,684
+Can anyone confirm that this is in-game: https://en.wikipedia.org/wiki/LL_Pegasi
+
+EDDB doesn't find LL Pegasi (but several Pegasi systems), nor 2MASS J23191260+1711331.
+
+According to the article it should be ~4200 ly from Sol.

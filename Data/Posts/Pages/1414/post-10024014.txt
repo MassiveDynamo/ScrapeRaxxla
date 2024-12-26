@@ -1,0 +1,6 @@
+Jorki Rasalas
+Dec 6, 2022
+#28,271
+I’m definitely no graphics expert, but are we sure this phantom planet isn’t just another example of a graphics glitch, like the green glow that I reported & which turned out to be slow clearout of the colour lookup table? It seems to me that the timing has some similarity. Is it a planet visible at the start of the jump that slowly fades out?
+Reactions:
+John Stoutbeard, Rochester and Frankymole

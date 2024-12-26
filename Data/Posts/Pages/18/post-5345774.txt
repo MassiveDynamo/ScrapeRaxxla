@@ -1,0 +1,24 @@
+CMDR EfilOne
+Apr 4, 2017
+#341
+madbilly said:
+Nice theorising and postulation!
+
+An idea occurred to me. Is Raxxla a planet name that can be generated using the galaxy generation code of the original Elite game, given the correct seed. I would like to think that when David and Ian were deciding which galaxies to use they sent some lists of planet names from various test galaxies to Rob to help him with the book and he chose a name that sounded good - there are also other planet names which are in the book but not game, so this could explain those as well. Then David and Ian decided not to include that seed in the galaxy generator, and this is why Raxxla cannot be found in the original game. In other words, if we hack original Elite and brute-force the galaxy generation can we discover the "key" to Raxxla? The galaxy generation code is available on Ian Bell's website as "Text Elite", so this is a theory we can test.
+
+What we do with that key in ED I'm not sure.
+
+Another idea: Perhaps Raxxla itself is the seed that generates a galaxy containing a planet called Raxxla?! In the text Elite code the seed appears to be 3 16bit integers, written in hexadecimal. Assuming that Raxxla is in ASCII, it converts into 52 61 78 78 6c 61 in hexadecimal. This should be easy to test in the galaxy generator.
+
+Final idea, also related to the original game: There are several systems in ED that have the same name as systems in the original game, e.g. Lave, but also others like Tianve and some from other galaxies. They are distributed differently in ED compared to the original game. We could identify which original systems also appear in ED, and check them all out to see if any contain any clues. Or maybe analysis of which original systems are present will give us some clues.
+
+Nice idea, but unfortunately this wouldn't work ... The system in ED is completely different from the old game :
+
+Now systems have several layers of identification.
+- For procedurally generated one, a system can either be identified by its longID, shortID, or full name (what we see ingame). I can't remember the complete, exact technical details between short and longIDs from the top of my head (Alot and Jackie Silver are far better at understanding this side of things than me), so apologies for the lack of explanation !
+Additionally, stuff like "Core Sys Sector XX-X x0-0" for example have their ingame name overriden, because those sectors are hand placed. So systems in any hand placed sector spheres will have what's called their trueName replaced with the sector one, like around nebulaes, globular clusters and whatnot.
+- Named systems have another layer on top. They can be identified by their longID, shortID, trueName, OR their hand-authored one. And this is where the main difference lies with procgen systems :
+Any system in the bubble actually have a procgen name hidden behind
+
+So effectively, Raxxla can't be guessed by bit manipulation with its name and whatnot, else it would be too "easy"
+Last edited: Apr 4, 2017

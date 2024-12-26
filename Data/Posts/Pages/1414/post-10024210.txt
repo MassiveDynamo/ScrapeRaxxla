@@ -1,0 +1,32 @@
+cmdr milesred
+Dec 7, 2022
+#28,278
+if you are aware of how most games and other programs rapidly change scenes
+it is common to load/draw into ram you are not viewing, then point to it when ready
+old animation and for example keyboard character animation, ansi, many depend on page flipping
+
+the point here is ram and games use it to the max
+
+even though there are glitches and a possibility that some things in witch space are what they appear to be...
+I would bet that most reports are the former, ram issues. not enough, not fast enough
+display in ed is often dependent on ram, HD speed, internet speed and the obvious video card.
+
+when you are going into sc, try minimizing the game then bring it back to full screen. often you will get traces of what was but now has not been cleaned up by the game and looks nothing like what was.
+lots of bright vertical stripes in the center, flowing from lack of refresh
+
+I can go into more explanation of how each version of windows fails or succeeds with ram and many variations of a scene mishandled.
+and between ed and windows there are many ram issues.
+
+so..if any images or videos of the unexpected or un-explained exist from any consoles, then maybe its less likely to be a pc style glitch.
+
+many cmdrs played and likely still play with barely enough ram for windows.
+same for video cards, many have 1gb vram...probably several with less.
+
+Also pointing this out because even though I have seen some odd things, I also can usually tell why.
+
+As a guy that did photography professionally many eons ago, I always have basic photo questions to ask, more intense ones if the photo is not easily explainable by me right away.
+digital has more than the normal amount of details to an image, than a film.
+
+and once upon a time editing was not easy, now any cat can.
+Reactions:
+Crimson Echo, Jorki Rasalas and Rochester

@@ -1,0 +1,12 @@
+Jaiotu
+Feb 5, 2018
+#1,626
+Rock Hermit said:
+There was rumored to be a 9th galaxy where Raxxla was in the bottom left hand corner of the map - But I never found a ninth galaxy. I also searched for Raxxla in Frontier / Frontier First encounters but never found it.
+
+It's not a rumor. There was a 9th galaxy in the 1991 release of Elite Plus for MSDOS. I never visited it myself and from what I understand it was incredibly difficult if not impossible to reach and may have in fact been inaccessible due to a bug. Raxxla wasn't in that game either. The algorithm used by Elite (and Elite Plus) to proceduraly generate the galaxies simply lacks the ability to create a system named "Raxxla". It could be used to generate an infinite number of galaxies and among them there could never possibly be a Raxxla. The table used to generate system names just doesn't have the vowel/consonant combinations available to generate the name "Raxxla".
+
+EDIT: Found where David Braben commented on the 9th galaxy: https://groups.google.com/forum/#!msg/alt.fan.elite/7cCtekAqsvM/COLCC2yGSaUJ
+Last edited: Feb 5, 2018
+Reactions:
+madbilly, Scytale and Han_Zen

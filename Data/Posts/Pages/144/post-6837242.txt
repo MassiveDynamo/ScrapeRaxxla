@@ -1,0 +1,8 @@
+Crimson Echo
+Jul 3, 2018
+#2,869
+The Point Defense can be beat with 3 missile racks (preferably engineered for high capacity). Attacking the PD from the broad side seems to work best as it mostly avoids the missiles hitting any other part of the ship. The first PD take a lot of missiles to destroy, but the last few usually go do in a single volley. The Conda build I have been using to pick them clean is: 3 missile racks (2x small, 1x med), Rail Gun (feedback cascade, medium), and assorted pulse lasers on the remaining hardpoints. A fighter bay is useful to keep the ship from interrupting the main ship's scooping. 2x 5A Cargo Collectors and 1x 5A Hatch Breaker.
+
+That being said, combat is not even required. The group(s) behind the courier apparently have yet to unlock Prof Palin, or the Tech Broker CRCR so if you are patient the thargoid items will eat the cargo hatch for you. (Only negatives are that it takes much longer, and you need to be able to reliably follow their wakes) The npc does not appear to drop cargo in supercruise, and only appears to do so after dropping out.
+Reactions:
+Scytale and Macros Black

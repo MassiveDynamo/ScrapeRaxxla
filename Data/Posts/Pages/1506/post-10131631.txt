@@ -1,0 +1,15 @@
+Rochester
+Apr 25, 2023
+#30,114
+Grens404 said:
+How much information about systems and player interaction is there? It's really tough trying to read through all of these posts and it might have been asked before but...
+
+I've read that the system that Raxxla is in has been visited by at least 1 person unknowingly who honked and left. Is there a way to filter systems by "x" amount of unique players who have visited it?
+The ability to track which star you have visited was not a mechanism available at launch.
+
+Also remember that not every player downloads their data to those 3rd party tools. Which themselves only came into existence sometime after launch.
+
+So ultimately there exists a period of time where there was no data being recorded.
+Last edited: Apr 25, 2023
+Reactions:
+CMDRCorrMorningstarFelian

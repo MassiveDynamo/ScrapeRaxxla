@@ -1,0 +1,20 @@
+Han_Zen
+Aug 17, 2020
+#18,420
+Thatchinho said:
+Hmm. Not sure. No unscanned rings or asteroid clusters or anything like that?
+
+Assuming not, and no one already has a definitive answer, first thing I’d suggest is for Pareco to be visited and scanned and logs compared to see whether comets are reflected in the logs.
+
+A comparison with Sol would be good too, due to rumours of Haley’s comet having been implemented.
+
+Can’t do either of those myself, so it’s one for anyone who’s in the vicinity and is happy to check.
+
+Edit - Also, nice work!
+Click to expand...
+There is nothing that is unscanned in the system. I was lucky that all the sub stars have rings in their branch. If not, I wouldn't have been able to probe them.
+The result comes out like this: "ScanType":"Detailed", "BodyName":"34 P Cygni 5 B Ring", "BodyID":13, "Parents":[ {"Planet":11}, {"Null":9}, {"Star":0} ], "StarSystem":"34 P Cygni"
+
+It's a nice system for mining, if you bring an FC. Lots of expensive material hot spots. I don't even have a mining laser.
+Reactions:
+[PS4] Filthymick420 and PeteACarter

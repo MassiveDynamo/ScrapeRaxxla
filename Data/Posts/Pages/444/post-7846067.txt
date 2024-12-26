@@ -1,0 +1,11 @@
+Edelgard von Rhein
+E
+Jun 12, 2019
+#8,877
+The time you spend in hyperspace is when the next system is loading. The load time is mostly influenced by how long it takes to generate the system and how many CMDRs are close enough to the arrival point for the matchmaker to have to connect everyone. Poor network / Internet conditions can also slow things down, especially if the servers are getting hammered (such as on a Sunday night). If you are visiting a procedural system then your machine only gets what is essentially the 'seed' for the procedural generation from the server and a 'key' for each body that tells you whether that body has been discovered/mapped and by whom - and this is a tiny amount of data. If you are visiting a non-procedural system, then the game has to download a lot of assets: everything that has been set by hand or overridden. That may take longer than generating a system of equivalent size because it has to pull some data from a database and more memory might be required. For complex procedural systems with 60+ bodies, or complex systems with a mix of handcrafted and procedural content,where you have scanned everything, then the generation process can be noticeably longer as you have to load up what you scanned before. e.g. Whenever I visit Maia, which has many bodies and which I have thoroughly scanned, it can take almost twice as long to load as a 'regular' system. If I notice a longer load time when travelling long distance, then I take it as a sign that either there's a bit of lag or the next system has many bodies to scan.
+
+I have not noticed spinning to an extent that it made me take note on my current journey (Colonia to Star One to The Void). I have not had long load times and only once have encountered a system with 60+ bodies on this journey.
+
+A minor point: the Thargoid hyperdiction tunnel is a cutscene and not generated in the same way as when you are travelling. It is possible to see the point where the cutscene kicks in, as ordinarily when I jump there is a small amount of 'shake' and this disappears when the cutscene starts. I think the 'shake' might be something you can turn off, like I think it might be with fuel scooping, but I'm not sure where and have not investigated it (it would make a difference scooping in a DBS if I could, as it's really bad for that ship).
+Reactions:
+[PS4] Filthymick420

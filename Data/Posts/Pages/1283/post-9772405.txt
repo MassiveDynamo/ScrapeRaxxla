@@ -1,0 +1,29 @@
+Jorki Rasalas
+Mar 13, 2022
+#25,650
+Pyroboros said:
+why it crashes when the ID has nothing to point at is because the Searchbar returns something the Game did not expect and has no clue what to do.
+I just dug a bit and found that ID 68 and 69 are in reverse order in "something shall not speak of here "
+But it seems there is indeed something hidden in SD.
+
+SPOILER
+
+
+
+
+
+
+
+
+
+
+That makes sense storywise, with “You've got to become élite, Alex” (Rafe Zetter in the novella, and possibly DB from unsubstantiated rumour). It’s close enough to Sol for it to be the TDW hidden station since SD would have been explored and settled early on. Might even be Raxxla itself - perhaps a Guardian ark ship arriving and affecting the development of PF (triangular guardian-like motif on ship’s display).
+
+But how can we find it if we cant detect/ target it?
+
+Ah, OBE-should have read the last post!
+
+Edit: but sorry, I dont understand the method!
+
+And how come it’s at AB3, when the numbering sequence seemed to indicate it should be between the primary star and Founder’s World?
+Last edited: Mar 13, 2022

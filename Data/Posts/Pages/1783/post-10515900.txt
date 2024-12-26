@@ -1,0 +1,20 @@
+Jorki Rasalas
+Saturday at 8:00 AM
+#35,654
+Nezzie Muso said:
+OK I've done a billion credits worth of missions in Pareco the last couple of weeks, no new inbox / tip-off missions received. I've also again carefully explored the edge of Asire's sphere of influence. Even though the comet is just 17km outside Asire, at no point does the comet's USS or sphere of influence ever appear in the HUD. Its completely swamped by Asire's 100km wide shipping lane. I can go to the approximate (within guage accuracy) location of the comet, either in normal space or by dropping out of SC. It makes no difference. All I get is shipping lane. So .... any other ideas folks? I've used night vision, I've honked repeatedly to no avail. There must be some other way of progressing from here. I know folks have suggested that i carry trinkets of fortune, but the fact you can only acquire them by pirating peaceful NPC traders makes me feel this really can't be the way forward.
+in other news, has anyone else yet become allied and receieved the blackman silo data theft mission ?
+@Nezzie Muso @Ian Doncaster
+According to the Codex: "The Dark Wheel is the name given to a legendary group of adventurers, explorers,
+investigators and treasure-hunters"...Ive pointed out before that Elizabethan-age pirates were often called "Gentlemen Adventurers"
+
+Dont you have to be within a system for 40 minutes to an hour to get TipOff missions?
+
+Given the close relationship between TDW and Raxxla in the original novella discussion of TDW is quite acceptable in this thread. However while I personally believe Raxxla is hidden within the game, I'm not convinced TDW is anything other than narrative fluff (but I remain open to the possibility I could be wrong on this!), FD have never confirmed its existence, whereas both DB and MB did so for Raxxla.
+
+Nezzie- Macros said he had some TOHF for sale on his FC. I'd suggest going back to the original discoverer of the Pareco comet and asking him how he managed it (https://forums.frontier.co.uk/threa...-drop-into-normal-space-close-to-them.350586/). Without the Galmap overflow method to mark its location I suspect it is just a matter of timing and sheer dumb luck. I think you'd have to travel in SC at a slow speed but sufficient to make the orbital markings visible, align yourself on the axis of the station orbits, travel down towards the centre of those circles and drop out of SC at that point...you have to be within around 50-100 Km to drop into its instance so it is just a tedious RNG exercise, which FD designers were overfond of in the early days.
+
+I wasnt aware of Pareco until I learnt of the overflow method so I think thats the only way I used.
+Last edited: Saturday at 8:05 AM
+Reactions:
+Rochester

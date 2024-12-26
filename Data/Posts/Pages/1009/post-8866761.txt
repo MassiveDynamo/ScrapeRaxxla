@@ -1,0 +1,34 @@
+Jorki Rasalas
+Dec 21, 2020
+#20,161
+In Sol looking for the Main Asteroid belt between Mars & Jupiter. Looked for an hour, nothing showing!!
+
+Edit: found it, but it isn’t a continuous asteroid belt as shown on the sysmap orrery view. It appears (so far, need to complete the circuit to confim) that there are three “patches“ where the icon changes to show an asteroid belt. Dropping down from SC shows nothing (so far) on scanner, no asteroids at all! I flew outwards from Sol past Mars towards Jupiter & confirmed inner edge of belt is at 1029 ls form Sol & outer edge at 1630 ls, so midway is ~1327ls. I then flew clockwise at this radius (plus or minus around 5 to 10 ls) from Sol& dropped down when the icon changed to show a belt, then noted the distance to Mars, Mercury and Jupiter. There seemed to be one main area, with a small patch on the other side of the sun, and then just encountered another (but finished flying for tonight - G&T time).
+
+Why am I doing this? Well:
+We’ve always said an asteroid belt would be a good place to hide Raxxla as nobody ever looks there (that changed with the advent if mining, but there are still a lot of asteroid belts in the universe!)
+
+Cmdrs Koben & Stoutbeard did this already (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8287107) and had some interesting comments
+
+There are no belt clusters and hence nothing is targetable, which seems strange. Especially for Sol, humanity’s home system. Back in around 2016 when I first got the Sol permit the asteroid belt was targetable but it showed as being within the sun.
+
+Long thought the Raxxla Codex logo might show the astronomical symbol for Sol, surrounded by a belt, and 33 blobs. What could the 33 signify?
+
+Koben was adamant (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8199366) that he’d seen a video interview (anyone got the reference for this?) where DB said “"if you're at the correct place and you scan it enough..." and "it is most likelly to reveal itself". All of this implies that you have already to be somewhat sure of its location and then it would reveal itself once scanned enough.”
+
+Koben also said (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8286434)
+A couple of unusual things about the Asteroid Belts in Sol: 1. You cannot drop on a wing's beacon... you must drop manually within about 10km to get to the same instance; 2. Search&Rescue Conda/ASP quite often drops there after you; 3. No local comms...
+If this is true then there is something mighty weird about Sol’s asteroid belt!! And specifically so since this behaviour hasn’t been reported anywhere else.
+
+Scytale (bless him! https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8045873) suggested that Sol could be the toasts’s real jewel (which makes poetic sense, I think). Edit: there’s a galnet post saying something about Sol being the Jewel of the galaxy!
+
+It struck me that all the Codex bumpf about TDW’s hidden stealthy station might actually be obfuscation and a hint as to Raxxla itself being stealthy & hidden. That would fit with Koben’s report of the DB interview.
+
+That unsubstantiated rumour that MB said the Raxxla system had been visited by a pilot but Raxxla wasn’t noticed - well, was this major obfuscation? Sol has been visited by very many, and if it is stealthy Raxxla wouldn’t be noticed, and Sol is permit-locked.
+
+That alien Artefact was found on Mars, which is not too far from the asteroid belt.
+
+So, how do we “scan enough”? To use the FSS you need to be in SC which could take you out of the instance. I’ve pinged the Discovery Scanner every time I dropped out of SC in the belt but found nothing.
+Last edited: Jul 7, 2021
+Reactions:
+Exekrator, Dr. Lexus, Hanerib and 4 others

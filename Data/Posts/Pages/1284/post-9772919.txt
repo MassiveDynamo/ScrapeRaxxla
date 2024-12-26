@@ -1,0 +1,11 @@
+Pyroboros
+Mar 13, 2022
+#25,668
+John [Panzertard] Stoutbeard said:
+Great workaround with the BM. Clever!
+
+EDIT: But also, if this is a 'moving target', the moment you bookmark it you BM a static position in space perhaps. As with some objects that has high motion it may have moved away from the position it was bookmarked. I highly doubt it though, but in a 0.001% scenario it may give us a miss. I'd hate that to happen if it's TDW or Raxxla.
+
+Tried at Jackson's Lighthouse Barry Center of Jackson's Lighthouse 3 + Jackson's Lighthouse 4. I am unable to get in its SOI but the marker is moving whit it. So BMs are not pointing to a point in Space they get attached to the object itself.
+Reactions:
+John Stoutbeard, Koben and Adel

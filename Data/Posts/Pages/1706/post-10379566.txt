@@ -1,0 +1,11 @@
+Jorki Rasalas
+May 22, 2024
+#34,115
+Ah. Yes. I remember being asked to submit triangulation positions to EDSM years ago. So that partially makes sense, if the incorrect positions have been updated in EDSM that would explain why they didn't show in my latest Spansh search around Alioth. But the two permit locked ones should have appeared...possibly FD development/test systems? have they been removed from in-game or are they still in-game?
+I used to monitor the EDSM thread. Probably need to post there or in their Discord...
+
+Edit
+at 13:46 just tried these again in EDSM - Blu Thua EK-Y b2-0 has moved around 1500 ly away (now at 1060.9375/ 358.0625 / 1555.125). But none of the other systems are recognised by EDSM system search...has Raxxla been removed from game??
+Last edited: May 22, 2024
+Reactions:
+Rochester and simulacrae

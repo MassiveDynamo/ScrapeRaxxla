@@ -1,0 +1,21 @@
+Jorki Rasalas
+Sep 5, 2022
+#27,108
+Robert Rockbite said:
+The body id game in Alpha Cygni?
+Been there, done that.
+
+Plaa Eurk TI-B d13-1048576 Alpha Cygni 1
+Plaa Eurk TI-B d13-2097152 Alpha Cygni 2
+Plaa Eurk TI-B d13-3145728 Empty signal about 8800 Ls out
+Plaa Eurk TI-B d13-4194304 Empty signal about 10800 Ls out
+Plaa Eurk TI-B d13-5242880 Empty signal about 4100 Ls out
+Plaa Eurk TI-B d13-6291456 crash
+Plaa Eurk TI-B d13-7340032 crash
+
+Empty signals are not named as comets, just "Alpha Cygni"
+Click to expand...
+When you select any system “signal” from Pyroboros’ spreadsheet it is identified on the star background as “systemname” [Threat 0], you then need to fly out to its position and drop into it. It then appears in the journal as “systemname comet Xx”. You then select the next “signal” and repeat until all bodyids are known and the final one crashes the game. So you have three comets there!
+
+Mmm. Might be interesting, having identified a “comet”, to try fss scanning it?!
+Last edited: Sep 5, 2022

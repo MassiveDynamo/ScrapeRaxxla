@@ -1,0 +1,25 @@
+Louis Calvert
+Nov 30, 2023
+#32,246
+selbie said:
+Amazing work, and very valuable to help isolate any associations with the Toast.
+
+selbie said:
+While we're on the topic of audio sleuthing have you experimented with Audacity's spectrograph settings yet in case there are any patterns / shapes we can sink our teeth into?
+I had a quick look just for you - from the few I've checked there's nothing that I would consider to be significant in the spectrograph, so far...
+
+In the images below, the thin vertical pink bars you can see (look a bit like rain streaks to me) are the "fly-by whisps", the things that you can hear quite clearly going 'few.. few...few few, few...few' as you travel. The slightly thicker areas of "pink static" is the 'ghostly sighing' as it changes in volume. The yellow at the bottom is the "Wind-rush-groaning" sound.
+
+
+SPOILER: SAMPLE SPECTROGRAPH OF THE 3 JUMP TYPES
+
+
+
+
+
+
+Here's a link to the raw audacity file for anyone that wants to have a play too I've been labelling every track so if there is an anomaly in there you can tell where it happened. The list in my post here is the same order as the recordings in the audacity file.
+
+It would be great if more people wanted to check out these recordings, more heads the better
+Reactions:
+selbie, Rochester and Han_Zen

@@ -1,0 +1,11 @@
+Han_Zen
+Oct 20, 2021
+#24,560
+FD aren't going to give us anything more specific than this line, from the codex: "Raxxla is a definite place, and that it holds a mystical secret"
+
+FD are quite happy to keep it a mystery. Hiding stuff in ED is easy. You could put a decent planet in Sol and no one would find it, as long as it does not scann and has an odd and large orbit.
+If it's an asteroid cluster that doesn't scann, it is literally invisible until you get close enough (FD decides what close enough is.)
+
+Non of this takes any programming. It's just settings on a hand placed standard object.
+Reactions:
+Adel, Jorki Rasalas and Rochester

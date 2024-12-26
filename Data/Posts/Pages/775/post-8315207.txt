@@ -1,0 +1,12 @@
+Oseris
+Feb 29, 2020
+#15,496
+Alexium67 said:
+Yep. Sometime in the system map may be visible strange graphical things. It may moving as you move the map. It's not the background picture.
+I’m at alpha Cygni and can confirm this ghost on the system map. Doesn’t show up in orrery. Doesn’t seem to actually be triggered by the system map. Fades in an out randomly. It does move with the map suggesting it’s in a really close system or inside the system itself.
+
+Im trying to find it using the background stats in the system map to align but I am curious if the stars in the system map can be used to triangulate the angle at which the system Star is being viewed?
+
+Edit: the background stars in the system map are always the same, regardless of the system
+Reactions:
+[PS4 Pro - PC] earthtone99, Han_Zen, [PS4] Filthymick420 and 2 others

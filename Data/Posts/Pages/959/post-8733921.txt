@@ -1,0 +1,11 @@
+Fiera
+Oct 6, 2020
+#19,176
+Jorki Rasalas said:
+Third party search tools that we use do not have direct access to FD’s Stellar Forge for in-game “ground truth” (nobody has that access, other than FD which they use in livestreams to move around the galaxy at will). They rely on EDSM’s (also third party) database which is populated by players who upload their journal files to it, many use a tool such as EDDiscovery which does the reporting in the background. If you’re not using EDD then I recommend it, it’s got a lot of useful features, but be warned the full database is currently 4.2Gb and really ought to be stored on an SSD. I use a HDD and just had to reload it-took around 7 hours & I’ve got fast broadband with Unlimited data. So EDSM only has a subset of systems, but it’s pretty good.
+
+@alexzk: Don’t understand how your ED M+plugin can tell you where systems are that have not been visited by anyone. Surely to do that it would have to do a comparison of the EDSM database against an FD in-game “ground truth” database (which doesn’t exist)? OR access Stellar Forge directly to ascertain if anyone had visited? The in-game Galmap “visited systems” filter only tells me what I haven’t visited, so I assume that database is held locally.
+Click to expand...
+When someone goes to their ingame nav panel, there is a list of “nearby” stars to select as an FSD jump destination. Someone could write a plugin to scrape that list and show only the stars not in EDSM or previously visited. But that’s probably against the ToS.
+Reactions:
+[PS4] Filthymick420, Jorki Rasalas and Vetinari

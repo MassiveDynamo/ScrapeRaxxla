@@ -1,0 +1,19 @@
+Cmdr-Wotherspoon
+May 31, 2018
+#2,543
+Neil Gratton has updated his Facebook post thusly:
+
+APRIL FOOL!
+My apologies to anyone who took this far too seriously, but as many suspected this was a partial photo edit by way of emergent content / practical joke / social experiment.
+
+
+Okay, I do see on EDSM that following my visit there were a Python and an Asp that have passed through that system (good effort to get there that quickly in a Python!). Direct message with proof it was you, and I'll buy you a paint job. Sorry guys
+
+
+Production notes: I started with two screenshots in the actual system itself - yes, I did travel there and spent a couple of hours there yesterday. One screenshot of space, and one of planet 7. I did actually initially produce a flawless image, but it felt too obvious. so I added distortion (some warping and rippling) onto the planet because I thought the 'possible glitch' story would add reasonable doubt and wasting too much of people's time. I then pixel checked the original (5120 x 2880) screenshot to check for and remove any final signs of tampering.
+
+
+I then decided I should give the observant a way to PROVE this wasn't a real screenshot, So I made two small changes. The "8" in the current object display was made slightly brighter than the rest of that line. And the rectangular area just to the right of the distance to target body was made darker. Any other 'photoshop glitches' people noticed were actually introduced by facebook image compression (and, I see, someone else's transfer of the image for use on reddit). For example, there was no distortion or overlapping with the DBX's cockpit, as that section was masked off during editing.
+
+
+Hmmm, anyone still talking to me?

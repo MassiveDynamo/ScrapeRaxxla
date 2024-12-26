@@ -1,0 +1,28 @@
+Jorki Rasalas
+Jul 6, 2021
+#23,913
+Aurora Velius said:
+I like that idea, but I personally don't think they would use an anagram clue that only works in English. You get very different letters when looking at the codex entry in the other languages, so I am not sure this is what they used to hide a clue. But... one word does not change in number of letters: Astrophel. And by coincidence, if it is that, Andromeda could easily replace Astrophel since it is a name with the same amount of letters. Also, the Omphalos being the rotational axis of an astronomical body could also refer to a neutron star, if you look at their holographic depiction in the ship's HUD when targeted. I still think what we are looking for is probably hidden somewhere in the Andromeda constellation.
+
+There are so many references to the whole myth surrounding that princess within the codex entry, it would be surprising if it had nothing to do with it. The parents are there, surrounding her, as well as the lovers are there too in the form of Andromeda and Perseus. The Tau Ceti reference at the start of the Codex entry could be one as well, since Tau Ceti is in Cetus, which is the monster that they wanted to sacrifice Andromeda to. I find that paragraph is also a bit strange since a random report from some mechanic to be the first recorded version of someone mentioning a popular myth... well, I don't know. Kinda weird. But we get a system name, so that might be the bit of importance there. Either because something is in that system, or the name of the system ties in with/points at the rest of the clues.
+
+I have also been thinking of how finding the right spot could be featured in the game, meaning mechanics. I think it could be similar to wing beacons, in that you suddenly get a spot where it charges up your FSD to jump you to a special instance if you approach it, similar to how you can jump after a wing mate when you have that navigation link option activated while in group.
+Click to expand...
+Indeed, Han_Zen said the same thing about different languages. I’m not fully convinced. English is the language of the developers, and they would naturally initially think of any clues using English; it may be that clues and other languages were considered later. Would they expect players to think about the English language implications? Not sure, perhaps the clues are translatable, or common concepts. Consequently I had a brief look at the problem. Most of the book title can change significantly across various languages, according to Google Translate, but the name should not. In the English version we have Astrophel whereas in the Spanish it’s Astrophil. At which point I suspect the translation program or a typo! If we assume it should be Astrophel across all languages, since a name should not change, then we get (in English, I’ll leave it to others who are good at other languages to explore alternatives):
+
+Star Phel (“phel” means “hater” in at least one language, is there a system named Phel in-game?)
+Rhea sol
+Sol heart
+
+Heart of Sol system (& its hub - alternate omphalos meaning) is Sol! So could Raxxla be hidden within Sol? Dont think it’s the right type to be one of those special “dual stars” ( cant remember the name). I did try to test this possibility a while ago by approaching Sol, but it gets quite hot very quickly, it’s not a special case for ship heat levels, so I discounted that. But hidden at the heart of Sol is the bookmark for the asteroid belt, which has always seemed strange- interesting!
+
+So I’m coming back to the possibility of Sol’s asteroid belt. I’m wondering if it might be a logic puzzle, could you have to drop in on all 8(?) “asteroid clusters” before it can be discovered? Or drop in on them in a specific sequence?it might be a way of avoiding a casual player finding this easter egg, you’ve got to look in a certain way?
+
+Yes, Andromeda does fit the toast, as do many other possibilities & have been examined in this thread. But that hypothesis ignores one clue that signals Sol - the Mars Artefact is a clear hint that aliens travelled to Sol. We don’t have any such indication to support any other hypothesis. Not trying to dissuade you, if you want to pursue that hypothesis then carry on, this is the scientific method. But it seems to me that Sol is the target area.
+
+Like Djidjel I find it strange that Ceres is not in-game and have found no FD explanation or lore to explain why. I seem to recall in the Scott Manley interview (see FD quotes thread in my signature below) DB ignored a question about Ceres, though they were both drinking in a noisy bar). Ceres is the largest object in the asteroid belt between Mars and Jupiter and the only dwarf planet located in the inner solar system, it comprises 25 percent of the asteroid belt's total mass. To the early astronomers asteroids initially appeared to be points of light, like stars, showing little or no planetary disc but with high apparent motion which fits the “spiralling stars” phrase (the concept of spiralling stars is common whatever the language).
+
+Leaving language differences aside, “Sol” from “Astrophil/Astrophel” anagram, plus asteroids as “spiralling stars” does fit “some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.”
+Last edited: Jul 6, 2021
+Reactions:
+Han_Zen, Rochester, Exekrator and 1 other person

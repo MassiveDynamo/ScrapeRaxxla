@@ -1,0 +1,31 @@
+RaNaketh
+May 22, 2019
+#8,173
+ironshirt said:
+You can do the scan with the data link scanner (?) of your ship. Simply boost towards the core data terminal and get really, really close too it. This makes it appear under the contacts panel and therefore selectable. Select it and finish the scan. In order to avoid fines you need to be quick, but even if you gain a fine there is no problem. Did a lot of these with my DBX, without SRV onboard. Collected 7 or 8 different messages by now and got a lot of duplicates. In fact I had even more messages, but those got wiped back in january.
+
+However, here is the link to the messages for those of you who are interested:
+(sick of trying howto correctly embed an Imgur album, so here is just the link)
+
+Imgur album - Tip Off messages
+Click to expand...
+
+Hi Ironshirt,
+
+I tried scanning the data-point last night with my ship, but the Core data-point was displaying as 'inactive' when I locked it up (ship nose almost touching it) and scanned it through to completion. I then checked all the other data points on the base and they were likewise 'inactive', and tried to scan these also to no avail. I had a friend flying cover and drawing their fire at the time so I wouldn't be targeted so I could scout it out.
+
+I tired again without his cover, and running a 2-10% heat spamming heatsinks (which didn't seem to do anything in preventing the system defences from spotting and locking me up), and after about a minute I was fined, bounty, wanted, and killed by the system defences. Seemingly because all the points were inactive again, otherwise I think I'd be able to scan and get out in time.
+
+Has anyone else seen the data-points inactive? I must be missing something, but not sure what!
+
+@ Eclip5e - I don't recall this being a nano-med tip off, I haven't done many of these so might have missed that part about it? Here is the tip-off mission message in-case it's different for any reason from others you've all noticed before. It looks pretty 'generic' so I'm not expecting anything to come of it, but we have to try!
+
+
+
+
+/ Ra
+
+p.s. Macro, you're right it's a medium installation level 3.
+Last edited: May 22, 2019
+Reactions:
+[PS4] Filthymick420

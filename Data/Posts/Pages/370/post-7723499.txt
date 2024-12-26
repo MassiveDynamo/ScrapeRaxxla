@@ -1,0 +1,26 @@
+Deleted member 38366
+D
+Apr 9, 2019
+#7,392
+yelboc said:
+Anyone know of a list of player named systems? The reason I ask is because I'm in a strange area - a globular cluster - dozens of F type stars here - but there is one hand named system called 'Gilthaven' - 34 bodies but nothing human or out of the ordinary here though..
+
+All the other stars have 2mass names and Gxxx catalog names and HD 50 etc. - its the blanco 1 cluster, btw - well under the disk of the galaxy 800ly from Sol.
+
+Why go to the trouble of hand altering that one star?
+
+YB
+Click to expand...
+
+AFAIK it's always worth checking distant/oddball named Systems in Deep Space with an Anagram solver.
+(if I remember correctly, a long time ago that was amongst the 1st steps of Drew "teaching" interested Players in understanding a few things, together with little ROT-13 challenges etc.)
+
+Gilthaven for example produces : Night Vale / Nightvale
+...which in turn produces something like this : https://en.wikipedia.org/wiki/Welcome_to_Night_Vale
+
+"In an interview with NPR, Joseph Fink said that he "came up with this idea of a town in that desert where all conspiracy theories were real, and we would just go from there with that understood."
+
+Now if that's purely accidental or reflects easter eggs (someone in early FDev ELITE design was aware and a fan) or points to something in-game... that's all-open to speculation.
+Last edited by a moderator: Apr 9, 2019
+Reactions:
+yelboc

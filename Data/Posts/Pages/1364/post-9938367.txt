@@ -1,0 +1,23 @@
+Robert Rockbite
+R
+Sep 11, 2022
+#27,270
+Jorki Rasalas said:
+Returned to Beta Hydrae. Body search method still screwy as previously reported. Done a NS boost & "FSD Supercharged" reported. Ship range in Systems Panel reported as increased to 244 ly. But galmap wont use it, insisting my first jump is 60 ly, and no degredation to my FSD health!!
+
+weird system!!
+
+edit:
+dropped out of SC & disabled FSD then re-enabled. Now showing 98% health. Still can't use the darn extended jump range!!
+and EDD isnt showing all three stars, though I have already visited & discovered them!!
+
+weird system!!
+Click to expand...
+Found nothing unusual in Beta Hydrae (except for the rare combination of body types, of course).
+
+The body-id theory seems to be incomplete.
+It is not unusual that the body id does not work to select anything.
+It happens when the large number behind the last letter exceeds 2-billion-and-something.
+And this can happen when the last letter before the variable number is at least an f (high multiplier) and there are many bodies to select.
+
+The FSD boost from Beta Hydrae C worked normal for me - and for me it's normal that the galmap router does not consider an already applied FSD boost - but I am using Horizons, maybe Odysee is different in this regard.

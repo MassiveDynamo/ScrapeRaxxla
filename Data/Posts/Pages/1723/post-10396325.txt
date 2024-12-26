@@ -1,0 +1,8 @@
+CMDRCorrMorningstarFelian
+Jul 6, 2024
+#34,455
+Minor discovery that may be relevant: all movements of the Frameshift Suite are either constellations or asterisms from Claudius Ptolemy's Almagest. Ptolemy was a Roman citizen during the era when Rome controlled Egypt. It may therefore be important to pay particular attention to the constellations as recognized then and not the modern version (especially given the Empire is modelled in the likeness of the Roman empire). This same text is where we got most of the information on Greek astronomy. An English translation of Ptolemy's Almagest can be found here.
+
+Last edited: Jul 6, 2024
+Reactions:
+Han_Zen, Ataxia, simulacrae and 1 other person

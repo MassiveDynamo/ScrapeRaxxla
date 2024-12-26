@@ -1,0 +1,18 @@
+Han_Zen
+May 18, 2021
+#23,278
+Is there more to the funny Right ascension of Lave.
+
+Lave has the equatorial coordinates: Right ascension: 13h 37m 12.643s / Declination: -36° 46'56.659''. At first glance the RA of 1337 (LEET - ELITE) seem like just a funny nod to the original game.
+
+If we add a layer of tinfoil and mix in the Name Raxxla, there might be something else to it?
+
+Raxxla decomposed could be: Ra = Right ascension, XX = Hours and minutes and La = Lave.
+
+Ra: 13h 37m gives us a plane. Polaris, Earth, South pole star and Lave are all in this plane. It stretches indefinitely from the line through Earth and the two pole stars, in the direction and past Lave. Constellations cut by this plane are: Octans, Chamaeleon, Musca, Centaurus, Hydra, Virgo, Coma Berenices / Bootes, Canes Venatici, Ursa Major, Draco and Ursa Minor. That's quite a slice of space. Not much help, by it self.
+
+The declination of Lave does look a bit dubious. It's basically a sequence 36,46, 56, 66. No idea if this means anything.
+
+It's still fun to play with some coordinates.
+Reactions:
+clavain, Six6VI, simulacrae and 2 others

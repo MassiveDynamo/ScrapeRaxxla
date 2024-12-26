@@ -1,0 +1,9 @@
+John Stoutbeard
+Jul 26, 2020
+#18,068
+norlin said:
+Actually it highly reduce the number of the systems which need to check, in case of a bruteforce search. Though it's not adding any real clues about how to solve the mistery itself.
+That's obvious, no offense. But as long as the information can't be classified as reliable it would potentially send you off looking at the wrong parameters when you investigate.
+Do you want to spend the next 3 years searching, knowing you may have excluded a large portion of one of the other categories?
+Reactions:
+PeteACarter, [PS4] Filthymick420, Rochester and 1 other person

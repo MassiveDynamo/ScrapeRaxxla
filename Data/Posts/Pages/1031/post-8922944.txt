@@ -1,0 +1,12 @@
+Yuki Estelle
+Jan 28, 2021
+#20,615
+Posting this from my phone so I won't be able to elaborate or directly quote other messages.
+
+In the video I'll (hopefully) be posting tonight you'll see that orientation didn't matter much in my encounter. In fact, I was facing the sun and my ship was outside of the asteroid belt, so if the glow is coming from another system I would be curious to see how my alignment compares with Jorki's. I was also in a completely different region, somewhere around sector 30.
+
+I had also considered the possibility that the green color matches earth-like orbit lines and to some extent the grid. I doubt either of these would trigger a visual bug, but stranger things have happened. In my opinion the strongest evidence for this being a bug is how the light saturates brightly lit portions of the ship and doesn't respond to movement like we would expect to see (such as in starlight).
+
+Finding the direction this is coming from, or verifying if it's even visible from multiple cockpits would almost surely put a huge dent in the bug claim. I suggest a few wings fly around the system for a couple of hours with a navigator at the lead focused on keeping them oriented. At this point the information would be extremely helpful.
+Reactions:
+Jorki Rasalas, CMDRGURU951, [PS4] Filthymick420 and 1 other person

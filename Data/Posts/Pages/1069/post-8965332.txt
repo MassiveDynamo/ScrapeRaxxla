@@ -1,0 +1,45 @@
+RaNaketh
+Feb 23, 2021
+#21,370
+Jorki Rasalas said:
+Yes, I pointed this out a while ago.
+Seems like there are different spellings (cliques?), e.g. goid hunting bonds is spelt different from that in Shinrarta & seems to have hidden progress bar. I got allied with them by goid hunting in the Pleiades. Perhaps we must get allied with them all? From EDSM searching on “Pilot” in Minor Factions I see:
+Pilots Federation Local Branch - Democracy
+Pilots’ Federation Local Branch - Democracy
+Pilots’ Federation Administration - Corporate
+PilotsFederation - suspiciously no detail! -increase rank via rescue missions or Thargoid kills
+The Pilots Federation (in Shinrarta) - Democracy.
+Asellus Primus Pilots Federation Local Branch Academy?? Cooperative???
+N.B. AY Indi (which has population btw) - the only system with Pilot's Federation allegiance that isn't a starter system (apart from Shindez)
+Click to expand...
+
+Dredging up a thread from a while back @Jorki Rasalas, as I just received notification that I've become an Ally of PilotsFederation in my 'inbox' and took a screen shot for you as I recalled you'd posted about it a bit ago. I'm also suspicious as there is no details, nor can I find where that ranking is stored?
+
+SPOILER: PILOTSFEDERATION - ALLY
+
+
+
+I checked my log, and there is no entry for the message, just the kills, and the hand-in bond reward.
+
+{ "timestamp":"2021-02-23TZ", "event":"FactionKillBond", "Reward":10000, "AwardingFaction":"$faction_PilotsFederation;", "AwardingFaction_Localised":"Pilots' Federation", "VictimFaction":"$faction_Thargoid;", "VictimFaction_Localised":"Thargoids" }
+
+{ "timestamp":"2021-02-23TZ", "event":"RedeemVoucher", "Type":"CombatBond", "Amount":336000, "Faction":"PilotsFederation" }
+
+Not only that, I've been tracking my minor faction adjustments to see if anything note worthy might occur that might help identify potential TDW (rings?). Now aside from fighting for Jupiter & Silver legal in the recent CG, I haven't done or touched anything for the rest of the factions in the image below (to the best of my knowledge). All I have done, is equip my Krait MK2 for AXI and fly lots of hops to Asterope where I've started my initial steps of defending against the Thargoid threat for humanity.
+
+This is when I received the allied notification, but doesn't explain the reputation changes below, unless they are perhaps aligned fore and against the PilotFederation? Unfortunately I don't have a screen shot to perform a delta against to show the % +/- of the change below to help narrow that possibility.
+
+SPOILER: INARA - TRACKING REP CHANGES ASSOCIATED WITH PILOTFEDERATION AND ASSOCIATION WITH OPERATION LESS THAN THREE?
+
+
+
+
+So questions arise:
+1. I assume others have also received 'ally' status for PilotFederation? Was it also fighting Thargoids, or doing something else at the time?
+2. Has anyone else tracked a change in minor faction rep that might highlight a 'common' faction from my list, specifically when they've been doing other things elsewhere that are un-related directly to these factions?
+
+Fly Dangerously,
+/ Ra
+Last edited: Feb 23, 2021
+Reactions:
+TrillClinton, [PS4] Filthymick420, simulacrae and 2 others

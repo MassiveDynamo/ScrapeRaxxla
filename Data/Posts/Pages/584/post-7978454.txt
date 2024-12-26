@@ -1,0 +1,45 @@
+Jorki Rasalas
+Sep 1, 2019
+#11,670
+Edelgard von Rhein said:
+The ELW is because the painting Terra Absentia was stolen. Again that's just a hunch. I'm out at the Cat's Paw nebula now so I'll have a look around but so far even the M dwarf systems have all been tagged.
+
+As to why it might be TDW involved: it's not that I think they have to be (the m.o. fits a Rogue AI better), it's that it solves TDW's problem as to how to issue an invite to explorers who might be of a mind to join the search for Raxxla. Explorers generally tend not to spend much time around the Bubble visiting bulletin boards and doing missions and, when they do, often it's not for long. TDW would have very little opportunity to reach a person they want to speak to in that way. By taking an action that gets put up on Galnet everyone gets to see it.
+
+To use Galnet in this way, the action must not implicate them as that would attract the attention of unfriendly eyes. It must appeal to the sort of person who might be able to help in the search for Raxxla, so it must contain a puzzle - not an obvious one but it must have something anomalous that will attract attention so that someone thinking it over will realise information is in there. In this case, the art thefts were all of extremely valuable pieces and related to all three superpowers. The thefts were of very specific pieces, when other items were within the thief's reach. To me, it seemed like the thief was sending a message. This time, they have put something valuable back. What they chose to put back was also intended to attract attention as before and I suspect it is another part of the puzzle.
+
+The Winking Cat insignia serves to link the crimes but, as any other symbol could have been chosen, I cannot but suspect it contains information also. I don't know if it is a clue to location or to the thief's identity.
+Click to expand...
+
+It wouldn’t surprise me if the Winking Cat stories are some form of clue. They all seemed to be a bit strange to me, their style seemed a bit different and, in a way, more pointed reporting than the other galnet posts, if that makes sense.
+
+Progress report: After my spell of BH diving I went centroid hunting, did about 7 different possibilities including back towards the bubble then way out near Altera’s Eye again! (think that was the centroid of Heart Neb, NGC7822 and Zeta Cass). Then had a sightseeing trip through the Orio-Persean string (pretty B types, nothing to report), then back via a 2Mass-xxx asteroid base to sell data, back to another centroid near Zeta Cass, and a final BH dive. All in vain, so decided to do a little mooching in the bubble. Friday afternoon I visited Earth (possible poetic solution to jewel?) and its tourist beacons (p.s. there were 4 probes detected in Sol, one’s a bug, two Voyagers, I think third is New Horizons but I’d have to go check my pix from previous investigations). Then Alphekka/Gemma (Scytale’s Corona Borealis, but that’s Ariadne’s crown not Cassiopeia’s as I originally thought), Thetis at Nefertem 6a and Siren (possible whisperer/siren solutions), then Styx, Asphodel, Tartarus and Tionisla (all relating to death, possible solution to third line of toast). Did a search of Tionisla 6 moons (has 8), flew at slow SC from star to New Caledonia, then investigated all 7 asteroid clusters. Nothing to report!!!
+
+I was interested in Tionisla because Simulacrae’s comments about it and DrewW’s comments on the lore importance of the orbital graveyard made think & I did a search on Dark Wheel to refresh my memory. I found:
+Elite Dangerous: Premonition by Drew Wagar:
+“Just before we’d paid a visit to this weird junkyard in Tionisla …’
+‘The graveyard?’ Luko queried, ‘Ah … yes.’
+‘You know about the graveyard?’ Hassan asked.
+Luko pursed his lips for a moment as if considering what to say. ‘I have heard much of it. A strange place, no? They say it is connected with old stories. They say it was once the headquarters of the Dark Wheel …’
+Hassan frowned. ‘The Dark Wheel? Aren’t they a faction in Shinrarta Dezhra?’
+Luko chuckled.
+‘Somehow I think they are not related,’ Luko said. ‘Hmmm … Life, she saw, hope.’
+‘I’m sorry?’ Hassan said, with a frown.
+‘That’s what Shinrarta Dezhra means,’ Luko explained. ‘Life, she saw, hope. Languages of old Earth I was told. Zhizn, life. Ra’at, she saw. Nadezhda, Hope. Zhizn Ra’at Nadezhda.”
+
+Elite: The Dark Wheel by Robert Holdstock:
+“Tionisla itself is a bright yellow world, and the cemetery is always between the planet and its star. As you fly close, the whole strange graveyard seems to be expanding from the circle of the world behind.
+The first thing you see is a shimmering, silver disc, a double spiral of tiny bright points. It slowly turns: it's a galaxy in miniature, with the same intense blur of light at its centre, because here is where the biggest tombs are to be found.
+.......
+Tethered below this vast, rotating mausoleum is the dodecahedral shape of a 'Dodo' class space station, the home of the Cemetery Authorites. Here you go through security checks and get your visitor's visa. And as you stand in the queue, staring up through the translucent ceiling of the Customs Hall, you can see the battered, broken ships of many of the dead, still attached to the silent tomb that contains the body.”
+
+So: old-style station, only used by “Cemetery Authorities” so low-powered? (might have been retconned to a wheel?), miniature galaxy=“spiralling stars”, Astophel=“star lover”= the interred pilots? Home (“hub”? of the Dark Wheel? Rotating on the inner rim!). I know DreW is tied by NDA, but to publish the first extract in an FD-sponsored book means they didn’t object to it; so it must be either lore or a red herring (suggestive, but not really very helpful! ).
+
+DrewW’s comments about the lore importance of Tionisla made me wonder if FD actually had included it from the outset (possibly updated in subsequent phases) as “Raxxla”. Death can, after all, be said to be a gateway, and it is certainly “a journey we all must make”.
+
+Not sure, however, if the game instancing constraints would permit its inclusion, it should, after all, comprise hundreds/thousands of ships plus other bits (crosses, henges, etc to which the ships are attached). (Edit: just to clarify- I did not expect the graveyard to be visible in the normal instance, I was looking for a “gateway” uss etc that might be a transition to a separate instance which would be hiding it).
+
+Summary: off-the-wall interpretation of what and where Raxxla might be, but not found as per clue interpretations. Still suffering Raxxla Madness, confused, last remaining hypothesis disproved; but I have renamed my ship to “Deep Fernweh”!
+Last edited: Sep 1, 2019
+Reactions:
+simulacrae, Six6VI, Macros Black and 6 others

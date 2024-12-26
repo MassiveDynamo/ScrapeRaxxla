@@ -1,0 +1,16 @@
+simulacrae
+Dec 6, 2019
+#13,835
+Han_Zen said:
+Sorry for replying to my own post.
+
+I wanted to test the accuracy of this image, with real in-game data.
+I made a 3D model with the Galactic plane and plotted in Polaris for NP, Cat's Eye Nebula for NPE (Orbital pole) and NPG in Coma Berenices at Coordinates: 0 / 300 / 0. Then I made a plane from Sol, Polaris and Cat's Eye and rotated until this plane and the galactic plane were flat.
+
+This cam out:
+
+It cam out pretty accurate. From a certain view point in space the image is correct. It does not look like earth is ever in this position. From earth's viewpoint, the Sun is only in the galactic plane at the equinoxes and the sun only aligns with Polaris and Cat's Eye on solstices.
+Click to expand...
+This makes me happy
+Reactions:
+Rochester, [PS4] Filthymick420, Hanerib and 1 other person

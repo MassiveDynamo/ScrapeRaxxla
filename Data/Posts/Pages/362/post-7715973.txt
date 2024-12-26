@@ -1,0 +1,6 @@
+Six6VI
+Apr 4, 2019
+#7,238
+yelboc said:
+Aside from strange NPC behaviour (like what is that all about?) - has anyone else tried data-link-scanning NPC ships in flight - is this another way to get information?
+I tend to have all scanners aboard any given ship (of ~33?) set to the same binding and fire group so, when up close using the KWS I often end up completing D-Link scans as well but I've never noticed anything special like engineering data or mission invites coming out of it.

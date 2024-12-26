@@ -1,0 +1,74 @@
+Noobilite
+Jan 12, 2020
+#14,631
+Yea, maybe we are looking for one odd station...
+
+You would have to see it to leave. So maybe the expectation is someone will notice the pattern eventually.
+
+654656 = 32
+646 = 16
+566 = 17
+
+Possible number:
+665465
+654656
+546566
+465665
+656654
+566546
+
+Normal base lines leave FSP#:
+
+6654 = 21 128/22=6.0952380952380952381
+6546 = 21
+5465 = 20 128/22=6.4
+4656 = 21
+6566 = 23 128/22=5.56521739130434782609
+5665 = 22?! 128/22=5.81...
+
+Total = 128 Common value in the game.
+
+*6 coordinates?
+
+128/22 = 5.81...
+128/33 = 3.87...
+128/44 = 2.90...
+128/55 = 2.3 27...
+128/77 = 1.662337...
+
+A circle could refer to a repeating value. 1.662337... is interesting.
+
+656565 would only leave FSP#:
+
+5656 = 22
+6565 = 22
+
+Total = 44
+
+656565 = 33
+
+Total = 77 (or 55 if using 22+33)
+
+77/22 = 3.5
+77/33 = 2.33...
+77/44 = 1.75
+77/55 = 1.4
+77/20 = 3.85
+77/21 = 3.66...
+77/22 = 3.5
+77/23 = 3.34782608695652173913
+
+Do we know where these 8 stations are located? Are there any resources that can find stations by numbers or that show the number of the station without visting everything?(NO FSP number overlap in those two setups.)
+
+What if this has to do with the FSP# on a station?
+
+the fact that the 3 lines are pressent is intersesting. Plus the opening is supposed to aim towards the sun. This means the image fits with a base. What if Raxxla is the original DW base. maybe they got kicked out by someone and they remembering the crime against their organization or similar. Or the two 65656 stations are Raxxla and DW base.
+
+And that the sybol is upside down compared to the icon in the solar system map screen.
+
+This would go with the RAXXLA as RA #### as it's a 24hour meaning full circle. Maybe this is pointing to the circle representing coordinates to Raxxla on the circle inside bases.
+
+And Raxxla and the idea of the 12 gates of jerusalem(new or old) is potentially interesting. Isn't the bible linked to each gate being related to a gem. There is lots of potential astronomy in the bible also. Do the gems correlate to constellations or anything?
+Last edited: Jan 13, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Han_Zen, Rochester and 3 others

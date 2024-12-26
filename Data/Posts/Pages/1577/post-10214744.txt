@@ -1,0 +1,50 @@
+Han_Zen
+Sep 8, 2023
+#31,534
+Edelgard von Rhein said:
+TL;DR I think that we are on the right track looking for possibly both Raxxla and TDW base in the 'lost realms / underworld' region, however I think that there is a precondition (possibly more than one - and not only Elite rank) for us to be able to find it, that essentially precludes accidental discovery.
+
+I often think about the journey to Raxxla and am left with questions, which I sometimes try to answer in-game (testable hypotheses) and some are more metaphorical or philosophical. Today my thoughts are about in-game activities, with a meta-game slant.
+
+It occurs to me that the journey to Raxxla, being essentially an activity in a computer game that has huge storyline impact, must meet two basic requirements (very likely more but these two are what I've been thinking about):
+
+1) It must be . I know we are having fun learning about mythologies and literature and debating what is or is not a clue but here I mean an in-game activity, not out-of-game. Flying around, scanning and mapping stuff, looking for points of light in ring systems or deep space that don't show up on a scan, or diving into every asteroid belt cluster is not terribly fun, or at least not so different to standard exploration. It would feel kinda unfulfilling if we just had to scan the right moon in the right system to find it.
+
+2) It must be . The difference between a journey and an adventure is that you expect to get back from a journey but with an adventure it is not guaranteed. It must be ! Think of the traditional 'leap of faith' in a hero's journey or passing a 'point of no return'. There are plenty of such activities in Elite Dangerous, from combat to transporting criminal mastermind or explorer passengers (neither of whom like to be scanned) to smuggling illegal goods, or even just having cargo in your hold. So how to make finding Raxxla a risk? There is something that we have to en route. A precondition that explorers do not normally do when flying around scanning things - a deliberate risk that you might normally run away from.
+
+So what in-game activities are both fun and risky? Combat. The risk of ship destruction mostly happens in combat, though it can happen if you are scanned carrying a wanted passenger, attempt a high-g landing, getting a jet cone boost from a white dwarf or face pirates/police for carrying (illegal) cargo (OK, being attacked because of whom/what you are carrying is also combat). Time-sensitive activities are also risky in that they have a chance of failure (like getting a bonus for delivery missions). For the latter case, there ought to be an obvious, repeatable trigger that then gives you a known time to completion. I suspect that, since TDW missions were removed, this is not the solution.
+
+I wonder whom/what we have to (eventually) fight to reach Raxxla?
+
+Does this make any sense, or have I gone off on a tangent again?
+It is interesting to look at possible preconditions and how they may work.
+Personally I don't think Raxxla cares. Raxxla is most likely ancient and alien. Who you are, what you have done or where you have been, should not matter to Raxxla.
+
+TDW on the other hand, will care about all these things. There are however a few problems with them, as well. First of all, they haven't found Raxxla (at least they hadn't found it in 3301). They may still sit on information or equipmet that are absolute requirements to locate Raxxla.
+The second issue with TDW is that the seem passive, for now. With all the commanders flying around the bubble with maxed out everything, someone should have heard from them.
+
+Where does that leave the journey?
+Is the journey metaphorical? Is it the things we learn as we study the galaxy, it's history and mythology? In that case, we can find Raxxla when we understand Raxxla.
+Is Raxxla locked of by coincidence or some powerful group? Raxxla being in or has to be accessed from a permit locked location, gives the option for all kinds of preconditions. Being Elite and having access to Shinrarta Dezhra is the simplest option. Becoming Elite could also be the personal Journey.
+There is a treasure hunt type of riddle in the game. A traditional Journey, from location to location. This would require that there are people in the galaxy that knows where Raxxla is and want worthy commanders to find it. They would also have to be powerfull enough to make the treasure hunt. The Club is a candidate, but there could be others.
+
+We have to consider what is resonnable.
+What would DB and MB want to be a part of the mystery?
+What is technically possible now and what was possible at release?
+How can something be found relatively quickly by someone with the technology of the 23. century and then stay hidden for the next thousand years?
+
+Any possible preconditions that we may come up with, has to be met with the questions: How does this work and why is this a precondition.
+
+If Elite is a precondition it means that:
+You need access to Shinrarta Dezhra and/or
+You need help from someone that requires Elite rank to help you.
+
+Why would someone help you?
+They also want to find Raxxla and need the best commanders to help.
+They know where Raxxla is and are testing you, to see if you are worthy.
+
+Then we can ask which of these options are reasonable to implement and in line with what FD might want.
+
+Other preconditions may be harder to find answers for, but it's equally important to ask the questions.
+Reactions:
+CMDRCorrMorningstarFelian, Edelgard von Rhein and Rochester

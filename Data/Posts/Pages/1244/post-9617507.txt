@@ -1,0 +1,60 @@
+Allen Stroud
+Nov 21, 2021
+#24,864
+Jorki Rasalas said:
+Hi Allen, nice to hear from you!
+
+I have many questions about ED, and expect I share them with most of the people in this thread. But I’m not interested in getting new clues to Raxxla ( wouldn't turn any down though! ), rather just clarifying some of the confusion. I understand that there are NDAs in place, and a desire to maintain the mystery of the game, but would appreciate answers if you can (& if you cant then perhaps you could take up the questions with FD directly since they just don't answer our questions on these matters).
+
+I can try. I do believe, which I've said a few times, there is a Wizard of Oz element to these things - "pay no attention to the man behind the curtain". Sometimes the answers are less interesting than the journey to earn them.
+Jorki Rasalas said:
+I think the first major question I have is about The Dark Wheel.
+David Braben said in a video “ED has a story that "embraces all the players"
+(m.youtube.com/watch?v=gDh9G1gDgMU) that “things can happen to you at certain stages through the game, you’ll get invited to join things, if you get invited to join a secret organisation that’s a thing that can happen to lots of players, if you don’t get that invitation you’ll think to yourself why? I did kill that policeman the other day maybe I need to get my reputation higher”.
+
+The Codex entry on TDW also implies that TDW is an organisation that players can join. We have therefore assumed that TDW is the secret organisation he was referring to, but after 7 years we have not heard of anyone being invited to join. So my main question is this- “is TDW in-game an organisation we can really join?” If the answer is yes then the consequent question would be “is the membership invitation regularly tested and proved working ok as we’ve had no invites!”
+Click to expand...
+
+So, I would expect this was a development/continuance/extrapolation of David's explanation about Elite not wanting to be a "Skywalker Saga". The ethos of Elite at the time was to be a game that allowed you to make your own story. There were one or two writers who tried to centralise their stories, trying to make their narratives essential. Frontier had already experimented with that kind of narrative when making Frontier: First Encounters. The clever use of text designed to centralise around the player (using the newspapers) was clever design and programming and you can certainly see clever work being done with the mission system, building on this. But, with Elite Dangerous being an MMO, that kind of specific 'hero' focused story design was not part of the planning and I do think David and others wanted to communicate that.
+
+With regards to organisations, I think David was talking generally. I could be wrong, but 'join' may refer to the process of allying with specific factions in given systems - which is/was as near as you could get to 'joining'. Worth bearing in mind that the specific wording of communication texts is tailored to how well you get on with someone.
+Jorki Rasalas said:
+The second question I have is about the journey to Raxxla. Michael Brookes implied several times there is an in-game storyline that relates to this
+(DJTruthsayer [TIQ] Michael Brookes Lore interview 14May2016
+player.twitch.tv/?volume=0.8&video=v66487974&time=1h40m30s;
+“Legacy was billed in the Kickstarter campaign as a sequel to The Dark Wheel, however, I was expecting more of a direct follow up ...There was a throwaway reference to Raxxla near the beginning the story but...
+MB “It was more of a spiritual successor than a direct sequel. We did look at a story involving Raxxla, but felt that was a story that should be played out in game rather than as a novel.”” forums.frontier.co.uk/threads/elite-legacy.50320/page-15#post-2566545)
+
+We all expected Elite: Legacy to be a direct sequel, which was why most of the other writers steered clear in their central plots and then tried to hint at things that could relate to Raxxla, the Dark Wheel, etc. These areas were pretty much off limits for a direct narrative at the time. However, replication of Holdstock's mythmaking is something many of the writers attempted. There are connections between the books, the game, the rest. It is worth looking at T James' book Out of the Darkness (which I edited) to get a snapshot of how close many of us were allowed to 'the crown jewels' The mythos around Thargoids was very closely guarded. T. James worked up the Thargoid booklet draft. I had a bit of time to look at it and we had one or two discussions (T James, David Braben, Michael Brookes and I), where we considered the origin of Thargoids and how that related to other elements of the mythology. I was very much the fourth person in that discussion, whereas I was more involved in the other areas.
+
+Michael made several announcements whilst project lead during that period. He was incredibly overworked trying to fulfill the commitments placed on him by the Kickstarter and Frontier. He was lovely to work with. I'd say he was more Lovecraft influenced than Holdstock influenced, but there's a similarity. I would say his intention was always to include Raxxla, The Dark Wheel, and references that would provide a narrative continuance. I worked with that in mind, preserving and developing the hints given in the background from Frontier: Elite 2 and Frontier First Encounters. I don't know how far they got on game implementation of that narrative but he would always reply confidently that it was in the game.
+
+
+Jorki Rasalas said:
+However we have been searching for a long time and seem to have made no progress in finding/starting this storyline. We thought the old E/F missions (e.g. Obfuscated on the Outer Rim”) from TDW faction at Jameson Memorial were the second step along this storyline (the first being to attain Elite rank to get the SD permit), but they disappeared circa 2016 and FD have recently confirmed to Cmdr Rochester that they were deleted from the game. Can you confirm there is indeed such a storyline and that it is also regularly tested to ensure it is working correctly?
+
+See above. I think its worth adding that we all wanted there to be that story - everyone. Whether it happened/is happening. I don't know.
+Jorki Rasalas said:
+In your PhD thesis you presented some of the ED lore bible. One of the points was about the Mars Artefact. You wrote “In 2280, the first non-human relic was found in space. The object, no bigger than a child’s hand was collected by an orbital probe around Europa and quickly brought back to Earth. No information has ever been circulated as to the properties of this item or its origin.” However this was changed in-game, Tourist Beacon 0175 says “In 2280, the first non-human relic was found in space. The object was found buried on Mars; it was no bigger than a child's hand and is still surrounded in secrecy, even in 3300. No information has ever been circulated as to the properties of this item or its origin, other than it is non-human”. Can you explain why this lore was changed?
+
+Probably because someone didn't read the old guide draft? When developing these kind of macrotexts, you need to have a caretaker who updates things based on new things so there is continuity. The Star Wars Holocron (shared between Timothy Zahn, Michael A. Stackpole, etc) was passed to each writer, updated and moved on. The original reference is (I think) from Frontier: Elite 2. I expect Frontier didn't expect players to dig out sections of my Ph. D. They weren't particularly interested in it when I let them know I'd submitted it and qualified. I did expect a mention in the newsletter at the time, but... well...
+
+Generally, its important that whoever care takes, isn't too caught up in the journey. I've see plenty of curious folk who are fabulous 'loremasters' - in that they know the lore, memorise it, value it, and occasionally use their knowledge as status points within a fandom. There's absolutely nothing wrong with that at all, but it does require a different mindset to be the person who creates the answers. It requires evaluation of the effect of those answers.
+
+You may want to consider that with regards to Raxxla. There is no greater tribute to Holdstock that the search continues. But, what happens when someone finds it? If it becomes a status point for an individual player to post on Youtube or somewhere else, that wouldn't really be a fitting tribute to his work. I'd much prefer something that offered a narrative reversal of some kind or built something clever and elusive. There are a variety of design models that could achieve this and there are a lot of clever people at Frontier who know a lot more about implementing that kind of thing than me.
+
+The early design processes were very meticulous. I wrote speculative drafts of factional history, culture, society, etc. Others would then scribble on them. This essentially developed the role of 'concept writer', which I'm currently doing for several international projects now. It means when you don't quite know what you want someone can put something in front of you that you can work from. It turns the design process into a positive, building process rather than a negative one. I'm generally not precious about changes unless somebody really dumps on my work. That happens occasionally. I don't recall many occasions like that with Elite: Dangerous. In many areas, I expanded things that were already there. In this instance, I expect the change was to make things easier for future design.
+Jorki Rasalas said:
+Being found in orbit at Europa seemed to be a hint that Raxxla might possibly be a tribute to 2001 Space Odyssey, so I understand there might have been IPR grounds behind this change, or perhaps because it was too strong a hint to the location of Raxxla (though some of us have spent a long time in Sol trying to find something that doesn’t seem to be there!) but the result seemed to be a strong hint that a historical alien presence at Mars was relevant. Was it actually a tribute to Total Recall’s huge underground alien machine that terraformed Mars when triggered (by a human hand)?
+
+Could have been. There are loads of small call backs and tributes in the texts. Sometimes they went a little OOT and got flagged. I hold my hand up for one or two silly ideas. When you are working with someone else's lore, you do need to be respectful of it. I've learned a lot over the last few years about that. I don't think I've made massive missteps in my time, but I've seen others who have. Sometimes I was looking at tributes written by writers fifteen or twenty years before I was looking at them. Continuity was my goal, trying to link things. The Sohalian Plague is a good example of this. I made good use of the journals - http://www.dream-ware.co.uk/first-encounters/journals/all/
+
+Jorki Rasalas said:
+Can you say why is Ceres missing from the game? What happened to it?
+
+Finally, and being very cheeky, I recently posted a discussion list of my current hypotheses. I’d welcome any feedback you can give on any of those points!
+(https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9616047)
+
+No idea about Ceres. I've taken a read of your writing. I'll try to put together some small thoughts if I can.
+Reactions:
+Louis Calvert, clavain, Exekrator and 9 others

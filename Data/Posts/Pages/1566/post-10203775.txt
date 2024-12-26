@@ -1,0 +1,14 @@
+El Saico
+Aug 22, 2023
+#31,316
+Han_Zen said:
+You really only need a condition or a set of conditions, for the game to change the target system to something else. This something else could be a system(we must have a target system) that is not targetable from the galmap. For example 'in witchspace'.
+
+A set of conditions could be something like: In the influence zone of the Moon, in normal space, targeting Tau Ceti and then jumping.
+
+Most likely either the start location or the target system, is Shinrarta Dezhra. This is the simplest way to ensure that only Elites can go to Raxxla.
+
+If the jump of point is at a random unremarkable moon, there are a lot of combinations to test.
+Or a specific sequence of stars to traverse, like a galactic cheat code.
+Reactions:
+Edelgard von Rhein

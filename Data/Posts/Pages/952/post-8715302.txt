@@ -1,0 +1,9 @@
+Q Hung
+Q
+Sep 23, 2020
+#19,033
+It's still trying. Crunching away. I've maxed out the physical memory of the machine and it's now paging to and from the hard disk, on a 32GB machine.
+
+Not sure how possible this is gonna be via my methods.
+Reactions:
+Vetinari and [PS4] Filthymick420

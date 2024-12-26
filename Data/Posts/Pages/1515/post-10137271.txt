@@ -1,0 +1,18 @@
+SergMx
+May 5, 2023
+#30,282
+CMDRCorrMorningstarFelian said:
+Note: Elite Dangerous coordinates are x,z,y
+
+Where...
+x is left or right of Sol
+y is below or above Sol
+z is further from core or closer to the core than Sol
+
+Note: Not the same thing as Galactic Coordinate System (Right ascension, Declination). Elite Dangerous is basically Cartesian coordinates but with Left-Handed Cartesian coordinates:
+
+
+Click to expand...
+I hope you remember the discussion here that the Raxxla logo is a map of our galaxy. The points on it are polar coordinates and can be seen on the galaxy map in the codex. Where zero is the center of our galaxy.
+Reactions:
+Dox Paradox, CMDRCorrMorningstarFelian and simulacrae

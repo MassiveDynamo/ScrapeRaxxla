@@ -1,0 +1,19 @@
+Edelgard von Rhein
+E
+Mar 12, 2019
+#6,555
+Macros Black said:
+Sign me up initially for:
+21 Zeta Cephei
+NGC 2682 FBC 3456
+HD 14284
+
+Can you update your list with CMDR names as to minimize overlap. If I encounter more from the list on the way southbound, I'll check those too.
+I'll check HR 6001 next time I log on. As for narrowing down the list, I would suggest the following criteria:
+if stellar_radius less than or equal to 1.0, then distance to gas giant with 8+ moons must be 100ls or less
+if stellar_radius greater than 1.0, then distance to gas giant with 8+ moons must be 1500ls or less
+This is because there are some stars labelled as red giants in the Stellar Forge even though they have stats resembling red dwarfs (e.g. the system in Bleia Eohn in the list) and the others are much larger than Sol, so the above should separate the two groups quite well.
+.
+This being said, a red dwarf system would need the gas giant to be so close to the star that the station would be more easily found by passers-by (unless it was a very distant secondary star). Red giants would also attract the attention of explorers. From that perspective, it might be fruitful to search for systems where the gas giant with 8+ moons is close to a star other than the primary, especially in those thousands of systems with a red dwarf primary star. The catch here is that if the gas giant does orbit a star other than the primary, then the initial search needs to cover star types other than type M in order to find which have red dwarf companions!
+Reactions:
+Macros Black

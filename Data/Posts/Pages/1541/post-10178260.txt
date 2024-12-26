@@ -1,0 +1,14 @@
+SergMx
+Jul 11, 2023
+#30,811
+CMDRCorrMorningstarFelian said:
+Keep in mind, the Elite Dangerous coordinates are left-handed Cartesian coordinates. Most tools you use will be using would be setup for right-handed Cartesian coordinates
+
+Right-handed coordinates (X, Y, Z)
+Left-handed coordinates (X, Z, Y)
+
+More info:
+Right-hand rule - Wikipedia
+Remember discussing a few years ago that the chain of dots on the logo is maybe radial coordinates from a galaxy map with a Codex.
+Why did they need to show radial coordinates on that map in the first place (map from Codex)?
+Last edited: Jul 11, 2023

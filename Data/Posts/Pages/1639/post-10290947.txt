@@ -1,0 +1,10 @@
+Edelgard von Rhein
+E
+Dec 28, 2023
+#32,777
+There's an odd system in the Lost Realms region that came to my attention through one of the racers scouting out unpopulated, atmosphereless moons within 75LY of Axis Mundi to land on for the race I am currently running. I was wondering if anyone here knows if this is a backer-named location, something related to one of the works of official fiction or something that might have been hand-crafted by Michael Brookes that has relevance to us.
+
+The system is CD-58 16.
+This system has no population but its description shows is to be an Imperial, Corporate system with an Extraction economy and Low Security. There is a single planet, named Suontaka, which has a moon, called S-One. Both are landable and have the usual surface POI but there are no settlements, installations, megaships, space stations or even belt clusters in the system. If you fly out to the planet you will find yourself in a shipping lane. The space-based POI I saw today were universally Degraded Emissions (Threat 0). There is another feature that is unique, to my knowledge: an orbital line about 50 Ls distant from the only star that only shows up in the FSS scanner but not on the HUD or orrery view. I flew a couple of orbits along this line, or as close as I could, but saw nothing like a point of light that would have suggested a body not showing on the scanner.
+Reactions:
+Macros Black, TR, CMDRCorrMorningstarFelian and 4 others

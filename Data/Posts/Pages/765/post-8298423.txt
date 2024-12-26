@@ -1,0 +1,19 @@
+Yuki Estelle
+Feb 17, 2020
+#15,284
+Alright, I promised this sheet a few days back so here it is. Took way more coffee and far too many hours but I'm pleased with where it's at. Will probably be working on it more in the future.
+
+Cupid's Arrow Project
+
+These spreadsheets contain the following (cycle through the tabs on the bottom of the sheet):
+A research window for compiling easy-to-read results.
+A coordinate calculator (probably the most useful feature. Input origin, direction and distance for a new destination).
+A quick reference sheet to paths I have and haven't tested so far.
+A card template for the research window that automatically loads calculator results for easy copypasta.
+
+Let me know if you have any suggestions or questions. This probably won't be too useful, but if you ever need to line up two stars (looking at you Reorte and Riedquat) and figure out where they're pointing this will save you tons of headache.
+
+NOTE: To use these sheets for your own projects and calculations you will need to create duplicates for yourself. Go to File > Make a Copy to do that.
+Last edited: Feb 17, 2020
+Reactions:
+Machina Ergo Sum and John Stoutbeard

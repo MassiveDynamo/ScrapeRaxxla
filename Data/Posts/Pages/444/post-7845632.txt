@@ -1,0 +1,12 @@
+Jorki Rasalas
+Jun 12, 2019
+#8,874
+Han_Zen said:
+I get spinning everywhere. More on long jumps than short jumps, but it always some spin.
+
+Ship spins anti clockwise, so the stars appear to rotate counter clockwise. The spinning only starts in the last part of the jump sequence. I've always figured it was some small effect to wake us up before drop out.
+
+I’m out in vicinity of Heart Neb & I’ve had some occasions of hyperspace spin. It seems to vary, and I would say it’s dependent on the time duration of the transition (it’s when the next system details are downloaded), so if there is a networking delay then there’s more apparent spin.
+If people want to explore it as a Raxxla hypothesis then good luck, but I think it’s a dead end!
+Reactions:
+Jaiotu and CMDR Beni Stingray

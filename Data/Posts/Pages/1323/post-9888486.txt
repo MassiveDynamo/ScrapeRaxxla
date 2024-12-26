@@ -1,0 +1,9 @@
+Jorki Rasalas
+Jul 15, 2022
+#26,448
+Ah interesting. Is that in Odyssey? Because in Horizons Galmap I dont think the current system ever disappears...
+
+I assumed the “overflow search” method worked with both Odyssey and Horizons.
+
+Edit: ah, have tried it and now understand. You meant when the highlight on the current system in the right hand side map has disappeared, not the current system name in the left hand side.
+Last edited: Jul 15, 2022

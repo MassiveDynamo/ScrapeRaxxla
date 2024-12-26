@@ -1,0 +1,4 @@
+Spaceman Si
+Mar 6, 2019
+#6,385
+Considering they still haven’t fixed the “planet already scanned” bug with the DSS, and the FSS had some fun times with repeating evey scan of an asteroid cluster, my money would be on a bit of a bug

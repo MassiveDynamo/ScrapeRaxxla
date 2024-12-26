@@ -1,0 +1,13 @@
+Edelgard von Rhein
+E
+Jul 3, 2019
+#9,269
+Jorki Rasalas said:
+We shall compadre!
+
+But this is a hypothesis as to how Raxxla may be instantiated, so is worth spelling correctly.
+
+And speaking of instantiation, does any old FRifter remember how the PC glitch was resolved when the Dynasty bases were found? I remember the PC crashed & something about the bases not being properly instantiated. Did it need a game update to resolve? My memory is hazy (old age, lavian brandy....)
+Yes, it needed a client update to fix (2.2.03 iirc). This took some time - months - and nearly derailed the plot line, requiring some extra hints to the location of the Zurara to help things be solved 'in time'. I think this minor update was also when military compartments were added, along with some other tweaks and balances.
+Reactions:
+Jorki Rasalas

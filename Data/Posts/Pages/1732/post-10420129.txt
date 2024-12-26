@@ -1,0 +1,18 @@
+Ian Doncaster
+Aug 26, 2024
+#34,634
+Jorki Rasalas said:
+That codex picture has been graphically manipulated. I had a quick look at it ages ago (search this thread). IIRC comparing it against the rear view of a similar station (think I used the one in Aulin ) it was obvious the colour had been shifted & I posted a colour -corrected view & I think that changed the star type to a cool red dwarf M6. But then I think the geometry is also wrong-cant be that close to a planet and star...so the question is whether it is meant to resemble the TDW station (IF it exists & isn't just a rumour/misinformation by Lyta Crane as suggested by the codex phrasing) but is distorted to obfuscate it's location, or whether it just more flavour - with FD we just don't know!
+Yeah. I checked what the closest "8 moon gas giants" were to their stars, and you don't tend to get closer than about 150-200 Ls, whereas you'd need to be within 10-20 Ls to get that much detail or apparent size off a red dwarf star. Even with a zoomed focus it looks impossible.
+
+I am wondering about red giant stars, though. Obviously you wouldn't need to get as close to those, and you can get some 8MGGs at reasonably plausible distances - next stop will be to check some of those out, not so much with the hope of finding it but to see if it is geometrically plausible to use one.
+
+I don't like the idea that the picture in the Codex isn't of the actual station; if the station exists, but you can't get something resembling that picture from it, there's barely enough information in the Codex as it is to need to put red herrings in too. Similarly, sure, the Codex says that it's all rumour and no proof but it would be rather unsatisfying if what little concrete information it did put forward was also wrong.
+
+(I did also wonder about "NSP cloud" as an explanation for the colour shift; you can get some interesting dimming of stars from within one of those, but I haven't been in one for long enough to tell if that's plausible specifically)
+
+Macros Black said:
+Took a look in HIP 9369, specifically B 2 H. Nothing interesting I could see.
+No, nothing obvious at B 4 h either. Nice system but probably nothing unusual going on.
+Reactions:
+Macros Black and simulacrae

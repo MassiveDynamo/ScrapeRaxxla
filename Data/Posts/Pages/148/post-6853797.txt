@@ -1,0 +1,25 @@
+[Diplomacy] Carnegie
+Jul 9, 2018
+#2,943
+Just a note about proc-gen system naming:
+
+Each sector will contain multiple XX-L A?? regions.
+These regions will always be in the same places in each sector.
+Since the number after the 'a' is defined by where the region is on the north/south axis these values will be consistent across sectors.
+
+If you look stars where there are two numbers you'll see that it occurs when the region is at the eastern side of the sector and 'loops' around to the western end.
+
+This gives a consistent pattern of
+7 +14
+21 +14
+35 +14 wraps to 36
+49 +14
+62 +13 wraps to 63
+76 +14
+90 +14
+104 +14
+108 +13 wraps to 118
+
+The anomaly in the list above is Dryu Bra XX-L a9-0 - it shouldn't be there!
+Reactions:
+Han_Zen

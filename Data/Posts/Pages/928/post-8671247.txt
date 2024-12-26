@@ -1,0 +1,121 @@
+Cunder
+C
+Aug 27, 2020
+#18,548
+Emperor said:
+To the jewel that burns on the brow of the mother of galaxies!
+
+Gravity is the mother of galaxies....???
+
+Using Wiki as the mother of all knowledge that burns on my brow.... ;-)
+
+Ancient world
+The ancient Greek philosopher Archimedes discovered the center of gravity of a triangle. He also postulated that if two equal weights did not have the same center of gravity, the center of gravity of the two weights together would be in the middle of the line that joins their centers of gravity.
+
+The Roman architect and engineer Vitruvius in De Architectura postulated that gravity of an object did not depend on weight but its "nature".
+
+In ancient India, Aryabhata first identified the force to explain why objects are not thrown outward as the earth rotates. Brahmagupta described gravity as an attractive force and used the term "gurutvaakarshan" for gravity.
+
+So are any of these Elite Dangerous systems...?
+
+Archimedes - not that I am aware of but many references within systems!
+Architectura (or Vitruvius)- There is no reference I can find in the Gal Map...
+Aryabhata - Yup it's a system in the Gal Map...
+
+
+
+Modern work on gravitational theory began with the work of Galileo Galilei in the late 16th and early 17th centuries. In his famous (though possibly apocryphal) experiment dropping balls from the Tower of Pisa, and later with careful measurements of balls rolling down inclines, Galileo showed that gravitational acceleration is the same for all objects. This was a major departure from Aristotle's belief that heavier objects have a higher gravitational acceleration. Galileo postulated air resistance as the reason that objects with less mass fall more slowly in an atmosphere. Galileo's work set the stage for the formulation of Newton's theory of gravity.
+
+So does he have an Elite Dangerous systems...?
+
+Galileo - Yup it's a system in the Gal Map...
+
+
+
+
+In 1687, English mathematician Sir Isaac Newton published Principia, which hypothesizes the inverse-square law of universal gravitation. In his own words, "I deduced that the forces which keep the planets in their orbs must [be] reciprocally as the squares of their distances from the centers about which they revolve: and thereby compared the force requisite to keep the Moon in her Orb with the force of gravity at the surface of the Earth; and found them answer pretty nearly.
+
+So does he have an Elite Dangerous systems...?
+
+Newton - Yup it's a system in the Gal Map...
+
+
+The equivalence principle, explored by a succession of researchers including Galileo, Loránd Eötvös, and Einstein, expresses the idea that all objects fall in the same way, and that the effects of gravity are indistinguishable from certain aspects of acceleration and deceleration. The simplest way to test the weak equivalence principle is to drop two objects of different masses or compositions in a vacuum and see whether they hit the ground at the same time. Such experiments demonstrate that all objects fall at the same rate when other forces (such as air resistance and electromagnetic effects) are negligible.
+
+So are any of these Elite Dangerous systems...?
+
+Galileo - Yes, see above....
+Eötvös - There is no reference I can find in the Gal Map...
+Einstein - not that I am aware of but many references within systems!
+
+
+In general relativity, the effects of gravitation are ascribed to spacetime curvature instead of a force. The starting point for general relativity is the equivalence principle, which equates free fall with inertial motion and describes free-falling inertial objects as being accelerated relative to non-inertial observers on the ground. In Newtonian physics, however, no such acceleration can occur unless at least one of the objects is being operated on by a force.
+
+Einstein proposed that spacetime is curved by matter, and that free-falling objects are moving along locally straight paths in curved spacetime. These straight paths are called geodesics. Like Newton's first law of motion, Einstein's theory states that if a force is applied on an object, it would deviate from a geodesic. For instance, we are no longer following geodesics while standing because the mechanical resistance of the Earth exerts an upward force on us, and we are non-inertial on the ground as a result. This explains why moving along the geodesics in spacetime is considered inertial.
+
+Einstein discovered the field equations of general relativity, which relate the presence of matter and the curvature of spacetime and are named after him. The Einstein field equations are a set of 10 simultaneous, non-linear, differential equations. The solutions of the field equations are the components of the metric tensor of spacetime. A metric tensor describes a geometry of spacetime. The geodesic paths for a spacetime are calculated from the metric tensor.
+
+Notable solutions of the Einstein field equations include:
+
+The Schwarzschild solution, which describes spacetime surrounding a spherically symmetric non-rotating uncharged massive object. For compact enough objects, this solution generated a black hole with a central singularity. For radial distances from the center which are much greater than the Schwarzschild radius, the accelerations predicted by the Schwarzschild solution are practically identical to those predicted by Newton's theory of gravity.
+
+The Reissner-Nordström solution, in which the central object has an electrical charge. For charges with a geometrized length which are less than the geometrized length of the mass of the object, this solution produces black holes with double event horizons.
+
+The Kerr solution for rotating massive objects. This solution also produces black holes with multiple event horizons.
+
+The Kerr-Newman solution for charged, rotating massive objects. This solution also produces black holes with multiple event horizons.
+
+The cosmological Friedmann-Lemaître-Robertson-Walker solution, which predicts the expansion of the Universe.
+
+
+So are any of these Elite Dangerous systems...?
+
+Einstein - See above.... to save you scrolling - not that I am aware of but many references within systems!
+Schwarzschild - not that I am aware of but many references within systems!
+Reissner-Nordström ("Reissner" or "Nordstrom") - There is no reference I can find in the Gal Map...
+Kerr - not that I am aware of but many references within systems!
+Newman - not that I am aware of but many references within systems!
+
+
+An open question is whether it is possible to describe the small-scale interactions of gravity with the same framework as quantum mechanics. General relativity describes large-scale bulk properties whereas quantum mechanics is the framework to describe the smallest scale interactions of matter. Without modifications these frameworks are incompatible.
+
+One path is to describe gravity in the framework of quantum field theory, which has been successful to accurately describe the other fundamental interactions. The electromagnetic force arises from an exchange of virtual photons, where the QFT description of gravity is that there is an exchange of virtual gravitons. This description reproduces general relativity in the classical limit. However, this approach fails at short distances of the order of the Planck length, where a more complete theory of quantum gravity (or a new approach to quantum mechanics) is required.
+
+So now it get's a bit more complicated, with many more names mentioned around the history of this field of science...Faraday, Maxwell, Planck, Einstein, Bohr, Broglie, Heisenberg, Schrödinger, Dirac, Pauili, Jordan, Oppenheimer, Wheeler and the list goes on.....
+
+So are any of these Elite Dangerous systems...?
+
+Faraday - not that I am aware of but many references within systems!
+Maxwell - not that I am aware of but many references within systems!
+Planck - not that I am aware of but many references within systems!
+Einstein (again) - not that I am aware of but many references within systems!
+Bohr - not that I am aware of but many references within systems!
+Broglie - not that I am aware of but many references within systems!
+Heisenberg - not that I am aware of but many references within systems!
+Schrödinger ("Schrodinger") - not that I am aware of but many references within systems!
+Dirac - not that I am aware of but many references within systems!
+Pauili - not that I am aware of but many references within systems!
+Jordan - not that I am aware of but many references within systems!
+Oppenheimer - not that I am aware of but many references within systems!
+Wheeler - There is a "Wheeler's Star" but also many references within other systems!
+
+
+So where are the guys with systems names listed above (excluding the ones with various references)...?
+
+Aryabhata....
+Galileo....
+Newton....
+
+You can throw in "Hawking's Reach" (RIP) and a load of cosmanauts and NASA pilots too....
+
+
+
+
+Just a thought...
+Click to expand...
+
+I would also like to contribute to your gravity idea but based on gravitational-waves idea and just ran into this just now and I would like to know if anyone got knowledge of this.
+
+It's basically called Gravitational-waves Standard Siren measurement. I don't fully understand and hopefully someone here can make any sense of this.
+Reactions:
+Vetinari and [PS4] Filthymick420

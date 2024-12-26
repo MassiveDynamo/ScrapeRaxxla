@@ -1,0 +1,13 @@
+CMDR Davanix
+Jul 20, 2022
+#26,483
+Jorki Rasalas said:
+Well, it can/could be done, as per the pic in the first post of the finding comets thread https://forums.frontier.co.uk/threa...ormal-space-close-to-them.350586/post-5486213.
+
+I suppose the question is -is it still possible to drop in on comets in this way? Not been obfuscated/“corrected”?
+If so then it should be consistently repeatable, unless there really is an RNG element involved....
+
+Perhaps this is just a Horizons thing? anyone able to do it in Odyssey?
+Try after the Thursday server restart, I iv found this with Haleys and some others its like the cobra engine slows down or something and the locations can go funky, its the same when you sometimes see some pois but when you drop on them you end up at it but its right in the centre of the belt rather than its generated free space of the belt (which is sometimes very fun when roids are glitching out your framerates when hitting off the poi)
+Reactions:
+Jorki Rasalas

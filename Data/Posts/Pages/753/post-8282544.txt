@@ -1,0 +1,26 @@
+Noobilite
+Feb 6, 2020
+#15,057
+RaNaketh said:
+Doing random investigation as is I do for TDW & Raxxla ... this time investigating previous Fdev posts for any inadvertent/deliberate tip-bits.
+
+This comment caught my eye from Dom:
+"The mission system is not and has never been aware of your ship or cargo while generating missions.
+All it knows about any particular player before the mission list hits the client is their ranks, reputations, and unlocked engineers."
+
+Found here: https://forums.frontier.co.uk/threads/is-the-game-rigged-or-is-it-just-me.516285/post-7876292
+
+Does anyone have any insight as to why the mission generation system would be concerned with which engineers you have (Dom, if you want to chime in feel free here!)?
+
+/ Ra.
+Click to expand...
+
+It also says:
+
+After it hits the client, it makes missions available or unavailable due to the player's ship, but it doesn't typically hide anything, it just stops you from accepting the mission (e.g because the ship is too big to land at the target market).
+
+Maybe we need to do missions in a cobra MK III. Maybe a Stock Cobra MK III!! 8)
+
+What stats did the person the Cobra MK III comment come from or were about have that we know of? Were they ever triple elite?
+Reactions:
+3navis and Machina Ergo Sum

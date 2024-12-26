@@ -1,0 +1,79 @@
+selbie
+Jul 1, 2024
+#34,379
+Louis Calvert said:
+Where were you when recording? At the centre of the Galaxy near the Rift itself, or in the bubble or elsewhere?
+
+Because what's interesting is that I've tested Canonn's recording from their Landscape Signal page (being the only recording I have that's not from my own hand, so to speak), and the bird-in-the-mountain creature is MUCH harder to see on that - though it's there and I can see it, many of the features are weak and I can't see most of the interesting stuff. If I'd not already known where to look I'd not have seen it. At a guess I'd say that recording was made from the bubble because it most closely resembles the recordings I made with my alt from the bubble.
+
+Also, as per my posts - the Canonn snip is only one repetition of the signal and doesn't take into account the Galactic Background noise, so it may well just be a bad recording because they didn't know what they were trying to show at the time - it's not even a very good recording of the "mountain" features, you can obviously see them, but it's low fidelity compared to the quality you can get. I also don't know if maybe different computers audio setups make the recording easier/harder to see... again, sadly not enough people are testing this out in good faith to know how to optimise this for the masses.
+
+The hidden images are much stronger when you're closer to the Rift itself. My guess is that most people who try this are not at the centre of the galaxy. You see at least the not-bird from anywhere, but it's much weaker, "ghostly" and barely visible - That's the purpose of the "mountains" - to get people to see there's there and go looking for the source, as IRH did originally.
+
+I really, really don't understand why people are struggling to see these things. Yes, they hard to see. I really don't know what else to do, and what's infinitely frustrating is that this is Or...if this isn't Raxxla then it's some deeply hidden mystery at the figurative and literal heart of the galaxy.
+
+They are there. They are waiting for people to see them. They really, really are there. I can't think of anything to do other than just continually say that they are there and all you have to do is go look and hope enough people do. I know I'm missing something, I know there's got to be a way to fully reveal the image properly, I just don't know what that is.
+
+I'm fully willing to engage with people testing this in good faith. I people to test this. I want everyone playing Elite to go and make recordings of the Landscape Signal. That's the only way we'll figure this out, and (with no disrespect to you Selbie), one person testing this and struggling to see the images doesn't mean anything, I've no idea what you might or might not have don't wrong. For all I know you're pointing in the wrong direction If you can upload your recording of the Landscape Signal I'll very quickly be able to tell you if I can see anything in it, if you want to try that. Then you can at least be sure we're working from the same recording and try to figure out testing methodology for other people to follow - maybe even figure out what we need to do in order to see the images more clearly!
+
+Edit: If you don't want to clutter up this thread do it on mine.
+Click to expand...
+First and foremost I am certainly not trying to dissuade you from your investigation. If investigations reveal a clearer signal that has a similar intensity and clarity as the LS itself which proves beyond doubt there is something there, that is beneficial for everyone. I no longer have my own recordings because there was nothing to me that showed any noticeable improvement in the signal readings - this included tweaking the spectrogram settings. I am aware that does not help your investigation, so I apologise for not considering sending those through at the time.
+
+Some clarification on what I actually did, so as to mitigate any misrepresentation:
+I took multiple ~5-10 min recordings around 2000-2500 LY both east and west of the bubble.
+They were pointed directly toward Sag A* and were in high quality FLAC format.
+My camera was over 1000 metres from the ship, located far away from the local star and placed the star behind me to avoid any potential interference.
+I had also studied your siren recordings from 2023, even the ones facing away from the signal. This included checking left and right channels independently.
+These are the recording file names so you can check the audio I'm referring to:
+A
+A1
+A1:2
+A1:4
+A1:-2
+A1:-4
+A1:A
+A1: D
+A1:-Y
+A1:-W
+B1
+B
+C1
+C1:2
+C1:4
+C1:6
+C1:8
+C1:B
+
+I would advise that your specified of 8192 window size in my view is hindering any potential visibility because a higher window size only enhances the very low frequencies.
+1024, 2048, and 4096 are the sweet spots for the upper, middle and lower zones of the signals respectively.
+
+I also checked dozens of your hyperspace recordings of 28 Nov 2023 to see, like you say, if hardware was a factor in somehow revealing it differently, and to independently look at it with different eyes. Nothing was visible to me in the background noise that wasn't a product of pareidolia. So at the very least, you can take this information as a data point for your investigation regardless of its validity in your eyes.
+
+
+
+CMDR Davanix said:
+I had posted up vids of sounds when pointing at different parts of the galaxy before and it was largely ignored while others said it wasnt there at all, one4towards andromeda while in multiple different locations around the bubble etc and other directions, not sure if these sounds relate to the galaxys your pointing towards or if they change direction based on larger distances but they are certainly out there andi started searching since the first Thargoid UIA
+
+Click to expand...
+That's a new one to me. I don't think I had seen this before so thank you for flagging it. The fact that it's in supercruise might seem like more noise at first, but it shows another valid feature to explore.
+Even just a tiny snippet of a low quality rip of your video shows why...
+
+
+Banal molehills? or Beautiful Mountains?
+First impressions make me think it's just an aspect of the supercruise audio effect, but the same could be said about the LS too.
+This can be investigated in a more controlled manner. For example:
+Recording the audio without moving the camera for a longer span of time, say ~2-5mins. If short preliminary recordings indicate a pattern then longer recordings can happen after.
+Record sets of different flight directions such as in each cardinal direction, facing the camera in different directions as well.
+Further detail again would be recording these sets at different locations in the galaxy.
+The goal would be to isolate whether these sounds are directional from somewhere, locational in proximity to something, etc.
+
+FFMPEG is a good option to directly convert video / audio recordings into a lossless format like FLAC, and it is needed anyway for Audacity's features.
+The setup might seem technical but guides like this one will get people where they need to start.
+Once the setup is done, the basic steps are:
+1. Open Command Prompt (type 'cmd' in the start menu)
+2. If the file is in a drive different to the default C: then point it there - eg. for D drive = type D: enter
+3. Point to the folder path containing the file, eg cd Documents\Stuff\Things\Folder  enter
+4. type ffmpeg -i "File Name.mp4" "New File Name.flac" (the quotation marks help it recognise file names with spaces)
+Reactions:
+simulacrae, CMDRCorrMorningstarFelian, CMDR Davanix and 1 other person

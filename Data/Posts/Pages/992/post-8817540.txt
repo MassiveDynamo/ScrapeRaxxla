@@ -1,0 +1,33 @@
+Jorki Rasalas
+Nov 26, 2020
+#19,827
+CMDR Zulu said:
+@Jorki I’ve spent the better part of 2 hours trying to get into the old Design Discussion Archives with no luck, all links I found are dead, I’m going off my recollection of that DDF topic and another forum user who remembered it similarly. But I came across an old post on this thread where a user quoted David Braben and Michael Brookes regarding Dark Systems and Rogue Planets see quoted post. Braben states Dark Systems will not show-up until someone locates it (so how do you locate one if it doesn’t display on the map?), scans it, and sells the data. Michael Brookes stated “Not all planets have stars” here on the forums. We also have the Star Classification of “Rogue Planet” in game files. I believe Rogue Planet is in the codex too as a discovery but that’s just off my flawed memory. I also read that a user made a big report on Rogue Planets and got a response stating that they would not comment on things not discovered by players.
+
+I wish I could provide more substantial evidence but given what we have access to currently I’d still go out on a limb and say that Galmap is missing these things purposefully and will not lead you to a dark system or Rogue Planet. Perhaps that reason is because we haven’t gotten close enough to one of these things and used our Nav panel to travel to them.
+
+It does sound very tedious I admit but if some of us just take the time to check our Nav Panel more often then who knows? Maybe we could get lucky and locate one of these things.
+
+The bubble may be easiest to experiment in because the further out you go the more uniform the system names become thus making it even harder to distinguish between actual systems or Rogues, etc.
+
+I didn’t expect to cause such commotion with this idea so I apologize for any ruffled feathers, that wasn’t my intention.
+Click to expand...
+
+No, no feathers ruffled! I’m just trying to progress our understanding and search procedures by logical argument. Apologies if I seemed terse! I just want to get verifiable statements down and then separately consider uncorroborated statements.
+
+I have the MB statement on “Not all stars have planets, but then again not all planets have suns either” on the FD quotes thread (https://forums.frontier.co.uk/threads/fdev-ed-relevant-quotes-videos.553526/#post-8671776), which does indeed seem to confirm rogue planets. I remember seeing the DB statement that “Dark Systems will not show-up until someone locates it” but I can’t remember if that was first, second or third hand. But I agree- how do you locate one if it doesn’t display on the map? It must be via the nav panel, that’s the only mechanism we have left. However I’m also of the opinion that Dark Systems were originally intended but were not in the end implemented, but I don’t have a source for that either (if anyone comes across any relevant quotes please let me know so I can update the quotes thread!). During my time in the FRift hunt I emailed DB to ask if they were implemented, because all I knew of them from was Drew Wagar’s book, and got no response. I sort of understand why, but for immersion pilots would know whether or not dark systems exist (we do IRL, astronomers have found a couple of candidates)-we pilots should too!!
+
+No, my problem with the nav panel method of location is not in checking the nav panel per se, it’s that how would we know any of the “systems” it mentions are actually rogues? Unless they are specifically named “rogue planet” or “wanderer” or “Raxxla” then they would, by the rules of system naming (there’s a reference on that somewhere) be named something like XXX XXXX SECTOR XX-X aX-X, where the “a” comes from the low mass that “system” would contain. So it would look very similar to all the other systems in the vicinity. That doesn’t seem to be enjoyable gameplay to me.
+
+Edit: I also did some googling for this reputed DB statement. I could only find:
+https://www.reddit.com/r/EliteDangerous/comments/27e7g4
+Source: https://www.reddit.com/r/EliteDangerous/comments/27e7g4/david_brabens_question_time_summary/
+
+https://www.reddit.com/r/EliteDangerous/comments/48a0bg
+Source: https://www.reddit.com/r/EliteDangerous/comments/48a0bg/has_anyone_actually_tried_to_misjump/
+
+
+But I’m dubious about anything that comes from Redditt. Scribd has a pdf of various Q&A type interviews but I couldnt see anything on dark systems https://www.scribd.com/document/231802796/Elite-Dangerous-David-Braben-Answers-Questions
+Last edited: Nov 26, 2020
+Reactions:
+Dr. Lexus, [PS4] Filthymick420, Vetinari and 1 other person

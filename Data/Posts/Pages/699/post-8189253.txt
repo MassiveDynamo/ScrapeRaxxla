@@ -1,0 +1,8 @@
+Alerta Antifa
+Dec 11, 2019
+#13,969
+There is a classification Rogue for planets in game, but none ever found.
+The way the game is currently built, a rogue type planet would either be wrongly classfied on map as a Brown Dwarf (real world astronomy is unsure whether some spotted objects are dwarf's or Rogue planets) or only be in a system for a limited time (when its orbit brings it to the edges of a system).
+My guess would be that a Rogue would only be in system at certain times, for a week, after a server update, then leave the system again, until x amount of time has passed and the update adds it back again, would be easy to miss one this way. Maybe some of the mythology people have dug up around Raxxla could indicate a date, a religious celebration from history? But even then you would have to know what system, or have a team of people in a number of systems at a certain date to chek.
+Reactions:
+[PS4] Filthymick420 and BluWolve

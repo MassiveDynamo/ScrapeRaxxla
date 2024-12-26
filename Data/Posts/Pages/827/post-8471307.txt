@@ -1,0 +1,16 @@
+alexzk
+A
+May 21, 2020
+#16,539
+GDB online Debugger | Code, Compile, Run, Debug online C, C++
+Online GDB is online ide with compiler and debugger for C/C++. Code, Compiler, Run, Debug Share code nippets.
+onlinegdb.com
+
+Update there A/B/C coordinates, take from EDSM
+In "main" (very bottom) update what u want to find, currently it gives center of circle inside triangle ABC. I.e. it is a point on equal range from AB-BC-CA routes.
+It will print a link to query edsm, just paste in browser.
+
+But..for example, i did'nt finish "equal remote from a-b-c" - as it will be line intersecting surface abc. Need 4th point.
+Last edited: May 21, 2020
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

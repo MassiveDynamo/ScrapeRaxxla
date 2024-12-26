@@ -1,0 +1,5 @@
+Bushido Brown
+B
+Dec 16, 2023
+#32,529
+How does one analyse audio? I'm looking at the Thetis logs and they all have a "beep" at the start of each message, but it's different each time. Then there's the audio from log 5 which is interesting, especially compared to Shamash log 8.

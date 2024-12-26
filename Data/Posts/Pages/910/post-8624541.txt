@@ -1,0 +1,13 @@
+Jermainwelch
+Aug 1, 2020
+#18,197
+Hey guys I wanted to let you guys know this. After docking at a FC in LTT 11159 my GalMap showed the system had a Black Market. ( this isn’t caused by FC’s as 1. No FC there had a Black Market 2. Afaik Fc’s that have a Black Market do not appear on the GalMap either
+This seems to only appear when you have Trade Data for the system. This remained after restarting the game, and only disappeared after my trade data ran out. Still see it now 2 weeks later after visiting today)
+Attachments
+6C863CB0-C58A-49F6-AB67-9D90DAFB3AD2.jpeg
+304.9 KB · Views: 241
+73B5963C-659C-4E68-A639-0201AA7C37BF.jpeg
+355.9 KB · Views: 240
+Last edited: Aug 1, 2020
+Reactions:
+Cmdr SpaceMerlin, Mrrshal, [PS4] Filthymick420 and 2 others

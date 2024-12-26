@@ -1,0 +1,23 @@
+Jorki Rasalas
+Mar 4, 2022
+#25,535
+John [Panzertard] Stoutbeard said:
+I may need some help to understand what is going on.
+Sol. Charon. Crashed Anaconda.
+Landed on Charon, approached the Crashed Anaconda.
+Heard a black box signal (voice).
+Approached it with my SRV. It was underground (bug?). Could not entirely hear the message. Could not scan it with data-link. It was targetable, it was listed in contacts in the SRV.
+
+Then I:
+
+Then:
+- I noticed in my SRV Navigation list two things:
+1. "Crashed Anaconda 50m" POI
+2. ""
+
+Is this a
+I have not accepted nor received any missions while being here.
+Click to expand...
+I think that’s one of the tip off missions.
+Reactions:
+Adel, Rochester and John Stoutbeard

@@ -1,0 +1,34 @@
+CMDRCorrMorningstarFelian
+Oct 27, 2022
+#27,543
+Rochester said:
+Not currently in game, what systems reside at the X; Y; Z of: -34; 113.5; -48?
+
+For context this is the point which is roughly opposite (to a degree) of Pandemonium, with Sol as the central axis, drawing a pole straight through them.
+
+* This post will be updated/amended with further ramblings…
+
+Discarding my Yggdrasil conundrum, and the Tau Ceti sphere of influence; if we follow the logical application of Pandemonium’s placement, as identified by John Milton in Paradise Lost, it ought to be directly below Earth and directly opposite the Empyrean!
+
+
+* The above image shows a sphere drawn from Sol (centre) to Pandemonium (South pole), note this is not galactic north/south as this new pole is off by a few degrees).
+
+
+* The above is more accurate depiction, showing this new pole in relation to true galactic north/south alignment.
+
+
+* Milton’s Division of universal space - Masson / Miltons Astronomy 1913
+
+What systems are in that location potentially identified by the new North Pole?
+
+Taking Milton’s universe as inspiration, then Pandemonium sits well within the lower hemisphere (Chaos) interestingly so does various systems linked to Yggdrasil and the lower elements linked to its underworld.
+
+The upper hemisphere is effectively the heavens. This area is well within the sphere of influence depicted by the Tau Ceti 2296 sphere.
+
+My running theory is based on a presumption, what if M Brookes placed Raxxla in a location linked to the upper convex, or the opening of the Jasper Sea (a literal portal) where the heavenly gates also reside… (a key motif in M Brookes commissioned artworks), this technically according to Milton ought to be someplace within this upper hemisphere…if true then that reduces to search area by 50%, although this is just speculative.
+
+Where is another question entirely.
+Click to expand...
+Your single best bet on this is EDDiscovery's route planner tool. You can enter coordinates into the appropriate box and it will give you what is closest to that location. Worth noting, that in Elite Dangerous your coordinates are X, Z, Y where X is left or right of Sol, Z is vertical from Sol's relative position in the galactic plane, and Y is either towards the core or away from it.
+Reactions:
+Rochester

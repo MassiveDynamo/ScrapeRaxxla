@@ -1,0 +1,18 @@
+AOpsyche
+A
+May 31, 2019
+#8,492
+CMDR Maylor Rom said:
+I have given a great deal of thought to a rouge planet. I seems that Stellar Forge is great at predicting the current locations of existing planets and stars, or the possible existence of bodies in the galaxy, as it has verified predicted discoveries of earth like planets for NASA and astronomers in the past, but since (in reality) NASA or astronomers have not yet found one which they suspect could be labeled as "rogue", there would be no code in Stellar Forge for these types of bodies. As well, since we as space travelers cannot move from one system to another, as each is in it's own "instance" and a "system boundary" which currently prevents us from doing so. A "rouge" planet would have to be specifically programmed in Stellar Forge to allow for it to cross "system boundaries" and "game instances", which would make Stellar Forge much less accurate in placing currently known or suspected planets, stars and bodies around them.
+
+In conclusion, I don't think Stellar Forge was programmed to allow for this in it's mathematical computations for placing planets, suns or bodies, since there is no "real example or precedence" to allow for such an event to be programmed into Stellar Forge. So, if code in Stellar Forge allowed bodies to pass from one system to another, then I think it would also allow for ships to do the same. You would have to locate a system for which a "rouge" planet were allowed to pass and use that same "corridor" to get through, or "loophole" to get through. I am currently testing this theory of "system boundaries" to see if I can get from one system to another, by working all the way around a system, to see if there are "holes" in the boundary for which I can pass through.
+
+o7....
+Click to expand...
+
+I like what you're thinking about here, although i doubt the game systems would need actual holes in system boundaries to make rogue plantes work. In fact, if we assume that a rogue planet moves on some trajectory (parabolic or otherwise) through the galaxy, it actually would be EXTREMELY unlikely to ever enter any systems, unless specifically programmed to. In this case, it would HAVE to be a one time occurence. If the planet entered a system more than once, it would have to be in some sort of regular orbit, no longer considered rogue.
+
+Edit: of course, i havent ruled out the possibility that Raxxla is a body that can defy physics. My suppositions are only about run of the mill rogues, not places that arent even places.
+Last edited: May 31, 2019
+Reactions:
+Tacticus2711

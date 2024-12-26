@@ -1,0 +1,29 @@
+Hanerib
+Jun 15, 2020
+#17,495
+Eeka said:
+Hello guys,
+
+So, i've been working on the hypothesis of range limitation on DS/FSS and here's what i've found:
+
+I went into Zeta Reticuli and started SCing towards LHS 160 (2.36ly away). As i gathered distance from the bodies in Zeta i've tested both DS and FSS detection many times. During this period i also kept my sensors activated to check for anything out of regular.
+
+My intent was to do a FSS at 1ly range from the main star but since i left the ship steering while i was working i managed to reach a little further than this. Currently i'm at 1.69ly from Zeta-2 Reticuli.
+
+My conclusion is, both DS/FSS work within the system that have been loaded into the game engine, no matter what distance you're from the bodies (max distance tested 1.69ly). If something is hidden +2ly (considering this as the range limit for DS/FSS) from the main star it will be simply impossible for anyone to find without a significant clue, coordinates or different equipment.
+
+Here is the evidence:
+
+
+
+
+
+
+
+
+
+Do any of you want me to try anything while i'm still steering far away from this system? I plan to jump out of this soon.
+Click to expand...
+Travel the high path of the Krios Khrysopokos! I guess it makes sense not to have shields on a ship that is named after a cloud nymph.
+Reactions:
+PeteACarter, [PS4] Filthymick420 and Eeka

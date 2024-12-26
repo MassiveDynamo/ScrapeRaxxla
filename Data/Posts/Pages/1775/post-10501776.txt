@@ -1,0 +1,30 @@
+Louis Calvert
+Dec 5, 2024
+#35,498
+Don Alvarez said:
+I have a question for the experts here. Always been curious about the Raxxla mystery and I've developed a lead I'm investigating, but I've a question maybe someone can answer. From the Wiki:
+
+In some versions of the Raxxla story, which were later shown to have a striking resemblance to the children's story "Princess Astrophel and the Spiralling Stars" (see Wikipedia: Astrophel and Stella) and consequently became discredited, Raxxla is said to hold an alien artefact called the Omphalos Rift, which acts as a gateway to parallel universes. Even after it was discredited, staunch supporters of the Omphalos Rift theory insist that the author of the children's story had knowledge of Raxxla's exact location and deliberately wove clues into his book.
+
+Are the versions of the Raxxla "stories" they're talking about here available in any greater detail to read anywhere, other than the original Astrophil and Stella by Philip Sidney? Or is Sidney's poem the only actual available resource for delving for clues?
+
+And where does this originate from? The reference points back to the KB article for Raxxla. But where did it originally come from?
+Click to expand...
+Realistically there's only one 'version' of the Raxxla story, other than the contents of the Codex. It's the original Dark Wheel novella from 1984, this is the digital version but (aside from typos) it's the same text as appeared in the printed novella with the original Elite game.
+
+There's only a tiny bit of it that relates to Raxxla, basically the last page or two and a few sentences near the start. That's the novella that launched a thousand ships, as they say, and there's obvious similarities between that story and the accounts in the Codex.
+
+Don't make the mistake of thinking that what's written there is lore though, it's not and many, many people have gone down that rabbit hole and are still falling
+
+Arguably there are many, many other stories of Raxxla - the ones we've invented and theorised over the years. The Codex makes oblique references to the Raxxla hunters like us, so take your pick with the knowledge that they're all made up by people that don't know anything.
+
+Fundamentally though, ignore literally everything except the EXACT things that appear in-game via Galnet or the Codex, or occasionally elsewhere, like the official novels (which are cannon, but contains nothing useful on Raxxla specifically, though some on The Dark Wheel which is useful in a way) - or you'll already be off to a rocky start. Anything outside of the game is, at best, inspirational material and again, lots of folks have gotten very lost in non-elite materials. I do mean Holdstock's works here too, including Alien World, ignore them.
+
+I'd ignore Astrophel and Stella and Astrophel too, no-one's found any references to anything in them at all, and I think the reference is more of a literary nod than a clue in a specific sense. Brookes didn't expect people to read dusty poems to solve the mystery in a space game set 1000 years in our future, he expected people to play Elite Dangerous.
+
+In short, consider the Codex as Fdevs first (and really only) actual hint and first ever actual in-game confirmation of Raxxla and start there with the assumption that they put that in when they didn't have to (no-one was expecting it at all and the quest was virtually dead), so they wanted us to have that specific set of info. It says what it says because Fdev made it say that deliberately and with intent.
+
+FYI you can easily search all of Galnet's articles via this awesome website. I encourage you to do so because Galnet is pretty much the primary method Fdev had for feeding us info before the Codex. This spreadsheet contains all the known Tourist Beacons, since that's the other source or genuine lore materials in-game. There's a few other things, like ship logs and settlement logs, the Canonn webstie is handy for that since they have archived all that too - I recommend the 'abandoned settlement' logs since they are typically a souce of interesting mysteries.
+Last edited: Dec 5, 2024
+Reactions:
+Don Alvarez and Rochester

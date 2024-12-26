@@ -1,0 +1,23 @@
+Louis Calvert
+Dec 23, 2023
+#32,730
+Yeah, I'm actually pretty up on AI stuffs Thanks for the info though!
+
+That's exactly why I've been asking ChatGPT. It's like a megamind of all the stuff on the internet, so what it's good at is giving you a sort of overview of what's out there and it comes up with some weird connections that are fun to consider. It's just a bit of fun
+
+So far on asking about Elite Dangerous stuff it's been broadly accurate, but it struggles a lot with the finer details. You can usually see how it's gotten confused though. Like it thinks Jasmina Halsey leads the Children of Raxxla (because they're strongly associated due to her exploration data gathering CGs and stuff) but it accurately reports on her near-death experiences and her position as the former president of the Feds.
+
+That's how it works with most of the Elite Characters. Broadly accurate, usually get the job position and broad facts right, but then often makes some weird links due to strong associations in-game, usually cos of events like CG's and such. Try it yourselves, ask it about all your favourite folks (but without too much framing, just to see what it comes up with).
+
+It once told me that Barnard's Star is in the middle of Barnard's Loop. Again, innacurate, but you can see how it got that wrong.
+
+The Cynthia Sideris answer though is really out of left-field because it doesn't even get the basic facts right at all, yet it's very adamant that she's associated with the Engineers, specifically Martuuk. I've asked it loads of questions about UC and the Engineers and even outright told it that Cynthia is chair of UC, and it simply said "that makes sense of why she'd be associated with Martuuk" (paraphrasing).
+
+My confusion here isn't that I think Chat GPT is smart, it's the opposite, it's extremely stupid, it doesn't know what it's saying at all - but like I said, you can usually see why it's wrong about Elite stuff, there's a sort of logic to it - but with Cynthia I just can't figure out where it got the info it's using for that reply. Very weird.
+
+Edit: To clarify, if you frame the question very specifically it does get it right, but that's usually not necessary for most characters. I think of it like testing an open ended question just to see what it'll say! - though in Cynthia's case, ChatGPT still adds in that you can potentially unlock Engineering things with her.
+
+Anyway, just weird AI stuff
+Last edited: Dec 23, 2023
+Reactions:
+selbie

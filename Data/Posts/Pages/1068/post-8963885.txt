@@ -1,0 +1,21 @@
+SergMx
+Feb 22, 2021
+#21,345
+Vektorboson said:
+Speculation time.
+
+I got a new idea how to interpret the weird naming scheme in the Isis-system based on Sifi KO-G b24-5. This is actually kind of an idea that I had very early while playing the game.
+
+The naming in Isis is: Isis 1, Isis 2, Isis I, Isis II, ... Isis X
+
+Why does the naming change after 2? My guess is, that it's either a hint for base-2 or it's a hint for exponentiation.
+So basically:
+I have a few systems visited where the age of the primary star is 64/128/256/a.s.o.
+
+So my current working theory what the Omphalos Rift might be:
+Click to expand...
+Base 2 is as much of a no-brainer as base 10.
+Only in the first case it is related to computers as 0 and 1, and in the case of 10 it is the number of fingers on the hand.
+If we had 2 hands with 3 fingers each we would count to 6.
+Reactions:
+[PS4] Filthymick420 and Vektorboson

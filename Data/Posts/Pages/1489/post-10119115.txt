@@ -1,0 +1,26 @@
+Jorki Rasalas
+Apr 6, 2023
+#29,778
+yelboc said:
+I think the station thing is on the mark. The codex says abandoned and thats exactly what the CIEPs stations were. Natural for TDW to take them back under its auspices after the CIEPs decimation. CIEP also probably still exist, but much diminished, according to the authors comments.
+
+Gunn's CIEP station has a fairly detailed description of its environs, but alas all system descriptions in the novels are unreliable as things changed after their final edit. The GG in the book, called there 'Middleton', does not exist anywhere under that name, again due likely to the botched implementation of the authors requests for systems in game. The cockups here are legion - some systems have swapped assets due to human error. All of this makes finding the CIEP assets extremely difficult.
+
+The author's notes at https://forums.frontier.co.uk/threa...eel-may-contain-spoilers.402645/#post-6366667 are instructive and also give a fair view of some of the issues between FD and the authors with respects to accuracy of the in game data.
+
+Certainly there is some attempt between the authors to drop little cross links in between books - the CIEP council being a prime example with it also having Luko on board. Would that we could identify the others, particularly The Architect , as he is likely running the CIEP show now.
+Click to expand...
+“
+Which system is Gunn's hidden circle space station in? It is probably a former imperial system since the rotation generates imperial standard gravity. It's somewhere explored, in the frontier, but apparently uninhabited apart from the Ceepers. The base is round a blue-white-green striped gas giant orbiting outside an asteroid belt around a red dwarf; it wasn't destroyed, so where is it?
+
+SECRET”
+
+The TDW codex pic does indeed look like the Orbis is orbiting a gas giant of a red dwarf. This is why I spent some time looking at star colours vs temperature over the last few days. IMHO the codex pic is correct vs real life; the in-game star colours are incorrect as no star should be so purple. Red dwarfs are cool and should be dull red in appearance, brown dwarfs etc get cooler so should be even darker red fading towards black (but actually radiating in the infrared).
+
+But I’d also missed that there should be 4 to 7 CIEP bases since the project Endure message went to 7 destinations & at least 4 were base commanders. Soontill was the main base, the Orbis another, so at least two more CIEP bases....
+
+Edit
+No the gas giant Middleton is where they got trapped by the Ceeper fighters, not where the Ceeper Orbis was located. In the book Middleton was in “CD 32-331 system”, & in response to the questions John Harper clarified the system numbers might have been transposed in-game
+Last edited: Apr 6, 2023
+Reactions:
+Rochester and simulacrae

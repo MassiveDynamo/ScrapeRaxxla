@@ -1,0 +1,22 @@
+Thatchinho
+Jun 1, 2019
+#8,530
+Jorki Rasalas said:
+I believe the theory is that rogue planets are formed normally within a star system, but due to instabilities the planetary orbits move around within that system (just as apparently happened in Sol) and occasionally some planets may be thrown out of the system entirely, becoming rogue and wandering the cosmos for eternity, unless captured by another system-some of the highly angled orbits we see (e.g. in Merope) might represent such a rogue body that has been captured.
+
+Edit: such a rogue body might enter another star system, but I think if it was not captured by that system its trajectory in-system would be parabolic/hyperbolic so at some stage it would exit that system and continue on its merry way.
+Yeah, I’m not disagreeing with that as being a model of how rogue planets are formed.
+
+The issue with it however is that for the galaxy to properly incorporate rogue planets produced that way, the full procgen up to 3300 would have had to be done for every system in the galaxy prior to launch. Now I might have got this wrong, but I’ve always been of the understanding that the full procgen of a system only happens when a cmdr first enters it. (Happy to be corrected on that of course!)
+
+So to create a hypothetical situation, system A is entered for the first time. The full system procgen is done and a rogue planet is expelled from the system as part of that - does it suddenly get added to the Galmap? Or what if it’s trajectory would put it in a system which has already previously been entered and fully generated (with no rogue planet)?
+
+But anyway, that model and what I was talking about aren’t mutually exclusive.
+
+What I said still stands - there’s not really any other option. Assuming the amount and distribution of the source material is sufficient for gravitational clumping to occur but not sufficient for a star to form, then all that’s left is planets and smaller bodies. - although there might always be an effective lower limit on body size due to mass distribution in the source material, which could potentially preclude the above.
+
+It’s kind of academic anyway, as what counts is whether (and if so how) the Stellar Forge has built that stuff in.
+
+Having said all the above, another possible explanation for the RoguePlanet star category being there is so that FD can manually add them to the galaxy if/when they get discovered in Real Life.
+
+Would be a good thing to ask about if anyone meets or knows Dr Ross, or if there’s an appropriate livestream!

@@ -1,0 +1,9 @@
+Agony_Aunt
+Feb 13, 2018
+#1,714
+MakahiGames said:
+Wait what - comets are there, but invisible? I.e.. they have a hit box and I could hit one without seeing what I was going to hit :S!
+
+That's madness ha!
+
+There was a patch where for a brief time you could see comets listed in universal cartographics when you sold the data. Kind of hinting the system has some sort of support for them. Maybe either stuff that never made the cut for release, or planned future content.

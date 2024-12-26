@@ -1,0 +1,16 @@
+[PS4 Pro - PC] earthtone99
+Jul 9, 2020
+#17,813
+Jorki Rasalas said:
+Thanks FD! The first PowerPlay warning message this afternoon finally got rid of the annoying exclamation mark in the comms panel
+
+Unfortunately the second warning message brought it back!
+Sigh
+
+If you put your comms into tabbed mode and click through to the ‘System’ comms tab when you enter a new system, it will clear the exclamation mark.
+
+Unfortunately, this has to be done EVERY single jump to get rid of the [!].
+
+o7
+Reactions:
+[PS4] Filthymick420 and PeteACarter

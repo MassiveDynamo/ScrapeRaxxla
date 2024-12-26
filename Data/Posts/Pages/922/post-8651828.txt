@@ -1,0 +1,14 @@
+Han_Zen
+Aug 18, 2020
+#18,438
+[VR] Panzertard said:
+Nice summary and strong leads.
+
+Does the system have a couple of barycenters perhaps?
+7 and 8 could be barycenters. Perhaps if someone could check a system with barycenter or two for comparison? (sorry I'm off to bed now, so I can't test it myself)
+
+I've seen something similar when you scan a new system via EDD and it throws up a temp-barycenter (a fake 3d-planet as a placeholder) until the siblings have been scanned.
+If the barycenter needs to be tracked by Starforge it would make sense that they have an ID.
+The system has one barycenter. It's the one denoted as {"Null":9}. It's the parent of 34 P Cygni 4 and 34 P Cygni 5.
+Reactions:
+John Stoutbeard, PeteACarter and [PS4] Filthymick420

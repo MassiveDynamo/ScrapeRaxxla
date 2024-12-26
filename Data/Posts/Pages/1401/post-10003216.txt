@@ -1,0 +1,29 @@
+cmdr milesred
+Nov 23, 2022
+#28,015
+fwiw
+the stars etc. seem to align mostly ok between EDO and EDH
+but each body does seem to be on a different rotation
+
+in horizons, park on a body
+relog into EDO and it is a different location but same body and not likely parked
+
+in horizons, park Near a body
+relog into EDO and it is has moved by roughly half of its daily rotation
+this seems to vary a lot from system to system. hard to measure something that should not exist. need an anchor point. in space. in a moving galaxy.
+the rotation gap also seems to be continuously growing.
+
+in Horizons everything looks normal
+in EDO everything sparkles, the sand, ice, stars.
+you stop moving and most of it stops sparkling.
+
+if there are some sync loops created to keep edo and edh properly aligned, it needs fixing.
+it makes little sense that there are 2 sets of bodies, so it has to be the routines used to place things in the skybox
+why different between the 2 versions when you can really only be in one at a time for a given cmdr, is just confusing.
+I enjoy the sky in Horizons
+I dislike the sky immensely in Odyssey. it feels painted, not real, distant. it feels low grade compared to horizons. between that and the new witchspace, feels like a huge downgrade.
+and why I spend most of my time in Horizons still.
+where it feels like I can easily go and touch any star I see. and the sky is not subject to visual degradation if you move.
+
+and nothing to do with raxxla other than it, we and the twinkles are all in the same place.
+if twinkle twinkle little star is a clue to anything, I quit.

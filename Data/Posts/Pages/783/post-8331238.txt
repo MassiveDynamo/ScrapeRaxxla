@@ -1,0 +1,11 @@
+Jorki Rasalas
+Mar 13, 2020
+#15,651
+Panzertard said:
+Good point.
+It's quite possible that we need have wrapped up some conditions for a trigger within limitation of 30 days of archival of these messages.
+
+Mmm, hadn’t thought about having to do a sequence of ev3nts within 30 days. Always assumed that the 30 days was just a timer for how long it would stay in your inbox before automatic deletion.
+Tried again after lunch. One time it rescanned the logs, after that it said the datapoint was already scanned. Seems a bit hit & miss.
+Reactions:
+John Stoutbeard and [PS4] Filthymick420

@@ -1,0 +1,20 @@
+yelboc
+Sep 3, 2019
+#11,749
+Six6VI said:
+You may be aware that when designing PCBs, eg mother boards etc that an allowance must be made when trying to push current round corners, to avoid creating hotspots and points of failure (which may be done on purpose in today's age of planned obsolescence) and when using higher frequencies eg microwaves the wave-guide must include a certain amount of twist along it's length to prevent signal loss.
+
+At risk of drifting off - topic.. As an electronics engineer of some years of experience, I can tell you that what you say above is not entirely accurate. Putting high frequencies around corners much shorter than the wavelength causes radiative losses, yes but that doesn't make things fail or make the board hot - on motherboards there is not enough signal power to make any appreciable heat - the devices on the boards make the heat. Most electronics fails due to repetitively being turned on and off or due to migration of metal at contact points and other such mechanisms.
+
+Also not many applications use wave-guide any more and there's nothing to stop them being straight. Loss is just down to conduction in the walls and twisting it doesn't make any difference (it induces extra losses in fact)
+
+Is academia blinding us from the truth - I doubt it. One of the primary issues is that there is just too much to learn. Take physics - in Feynman's day you could write a set of lectures delivered over 2 years that would give you a good start in all the areas of theory. But now there is so much of it that if you don't specialise, you just get swamped. Sure - its good to hang on to the fundamental concepts and build on a firm foundation - this seems to be a modern failing. With the advent of the library of Alexandria we call the internet, people are wont to get lazy...
+
+A=440 - well again where does that come from - mere convention. In Baroque times, largely A=415 and roughly too, but in the 1900's orchestras kept tuning higher to make themselves sound 'brighter' and so pitches inexorably rose (and drawn steel wire with ever improving breaking strain). A=440 is just a stake in the ground from the 20th century so that we could all agree and make consistent instruments. Its not special. Pitch is relative.
+
+And the site you posted - its one of those things where they have a product to sell and have backed it up with some rather flimsy arguments that don't hold to scrutiny of are just plain unverifiable or meaningless. There is a thing called the scientific method - add occam's razor to that and you should be able to see more clearly when a thing is at least verifiable (there being no truth in science.. just verifiable observations)
+
+Meanwhile, back to our normal program... (do PM me for a deeper discussion if you are interested)
+Last edited: Sep 3, 2019
+Reactions:
+Rochester, [PS4] Filthymick420, PeteACarter and 1 other person

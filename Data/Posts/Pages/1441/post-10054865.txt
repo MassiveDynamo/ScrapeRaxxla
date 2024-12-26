@@ -1,0 +1,18 @@
+Jorki Rasalas
+Jan 8, 2023
+#28,809
+Cmdr @John [Panzertard] Stoutbeard has posted (many thanks!) on the alien architecture thread about the PF promotion message:
+Alien archaeology and other mysteries: Breaking News, Theories and Tinfoil Hattery
+The Quest for Raxxla thread would like to hear from anyone participating in the Thargoid War effort if they get a message saying they are now Allied with “PilotsFederation” (or similar) with a screenshot so we can be sure of the message spelling. In addition we also need to know whether they’re...
+forums.frontier.co.uk
+
+So it seems this Allied PilotsFederation reputation change message is still happening, despite the disparate spelling of Pilots’ Federation in the Shinrarta Tourist Beacons being “corrected” a while ago.
+
+@Rochester do you remember when the spellings were corrected? I seem to remember you challenged Support over the issue a while ago, & they responded IIRC the TB spellings were valid, but they were “corrected” shortly thereafter. My own message was received during the 2020 Lockdown when I killed many Thargoid Scouts with resulting damage to my hands so I can’t forget it.
+
+So, two years (?) later and the message is still occuring. Is this a bug or evidence of a silent progress tracking mechanism? IMHO if I were correcting a bug I’d attempt to correct all manifestations of that bug, not just in the TB. Are there any other tests we might conduct to verify this is a real effect? Or progress with the other possible factions within PF?
+
+If there are multiple PF factions implemented then I believe it is highly likely one of them is the Dark Wheel that we should be befriending...
+Last edited: Jan 8, 2023
+Reactions:
+CMDRCorrMorningstarFelian, John Stoutbeard and Rochester

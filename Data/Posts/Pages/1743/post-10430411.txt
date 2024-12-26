@@ -1,0 +1,39 @@
+Rochester
+Sep 18, 2024
+#34,854
+Neestar said:
+So how do i know which version i go into or have access to while i'm playing, like for example when i'm on the Galaxy Map picking stars to jump & such?
+Regards generally playing the game on PC you ought to have some type of a desktop launcher, I can’t honestly say as I’ve not played ED on PC since EDO was launched so cant confirm how it all looks now?
+
+But it ought to give you an option of a drop down list which shows all iterations of ED you have access to. You get to choose which one to launch. The most recent ought to be at the top by default, depending on what you bought.
+
+For instance on PC I’m a backer with a lifetime pass, so my opinions are EDO; 4.0 and Legacy etc etc but my PC is a dinosaur so I can only run Legacy, 4.0! and EDO are not installed, so my default is Legacy.
+
+Legacy is the older EDH version of the game which used to be EDH it’s essentially 4.0 light without the graphical overhaul and all the EDO elements etc. a frozen time capsule of the game.
+
+I also have it on console, which is my default gaming rig, so by default I’m on Legacy. Because 4.0 and EDO are PC only.
+
+Regards what version your playing to where you are in game, eg the map etc, is irrelevant, if your in EDO, you in EDO, they are all separate servers. The map in EDO etc looks and works totally differently than it does in Legacy because it was overhauled too as part of that update.
+
+Regards to the mystery of Raxxla and the DW, etc we do not know if it is on every version of the game! but it’s logical that it ought to be on everything because the Codex came out before 4.0 / EDO. Also FD do not promote Legacy as a lesser title, it’s just the older version of the game, they don’t want to terminate it as it will kill off all their console audience - which previously was calculated as around 30%- it’s just not supported, so technically it’s frozen in time.
+
+Neestar said:
+Is it all just seemless for me since i "own" both versions? Or is it like some onscreen prompt saying "you are about to enter EliteDangerous: HORIZONS phase" or whatever?
+No it’s all one thing, any prompt is at the desktop. You probably won’t notice it if youre dropping into the default settings which is likely set to EDO.
+Neestar said:
+i also see one of my ingame friends-list players is showing up online as being listed within "ED: Legacy" or something. What does that mean exactly?
+It means they are on a different server to you and playing the older version of the game. To my knowledge you won’t be able to play with them as ED is not cross play.
+
+Neestar said:
+As a former QA & rudimentary 'coder' ( SWG ) , i tend to agree with you there ^ yep. However, something just occurred to me: Remember that aforementioned permit-locked planet 'LAVE 2' i stumbled upon ( without knowing it was commonplace) in my previous post earlier? Well, that planet is run by the..... 'Lave RADIO Network' . hmm.... coincidence?
+
+Maybe, maybe not?
+
+FD did gift certain systems or planets ‘names’ to various Cmdrs as gifts. It’s only a naming iteration, said person doesn’t actually own nor have control over anything.
+
+If that Cmdr had written one of the official books then said system would have been linked to it; also Cmdrs could buy a system or planet to name at launch - based on availability. I don’t think there was much thought out into any of it?
+
+One of the organisers of Lave Radio is an Allen Stroud, a key writer and editor of ED official books, and who was employed by FD to assist / edit with the lore and who wrote many if not all of the tourist beacons.
+Last edited: Sep 18, 2024
+Reactions:
+Neestar

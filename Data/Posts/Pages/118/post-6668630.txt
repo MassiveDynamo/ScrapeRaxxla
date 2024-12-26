@@ -1,0 +1,31 @@
+MakashiGames
+M
+May 3, 2018
+#2,355
+Hi all. Not sure if this has been tried, but going to chuck it out there. I'm pretty certain that Raxxla is in Polaris, but is obviously permit locked.
+
+I'm wondering if anyone could help me try an experiment.
+
+I am wondering if we can cause the FSD to malfunction and drop us at Polaris using the following method:
+
+2 players, one with a Thargoid Probe.
+
+Both players travel to a system that is near to Polaris.
+
+Player 1 plots a route to a system exactly 'on the other side' of Polaris, so that the FSD jump will take us 'through' Polaris. i.e. We're at this system > O ------ (POLARIS) ------- O < this is the destination
+
+Player 2 drops the TP. Player 1 turns around 180 degs from the jump with 0 throttle and boosts once.
+
+Player 1 turns back around and charges the jump.
+
+When it's at 'throttle up' warning, Player 2 starts to charge their ADS.
+
+As it's about to honk, Player 1 boosts.
+
+FSD engages. As the ship is about to jump, Thargoid EMP goes off.
+
+I'm hoping that this will malfunction the FSD, causing it to either a) cancel the jump or, b) drop the ship at the first star it can drop at i.e. Polaris (would make sense from a lore perspective, perhaps not from an architectural perspective RE how Elite is built).
+
+The primary goal is to get around the permit lock built into the FSD. Everyone who has found Raxxla thus far, has done so with a gen 2 FSD that had no ability to be permit locked.
+Reactions:
+Macros Black

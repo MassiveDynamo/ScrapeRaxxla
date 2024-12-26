@@ -1,0 +1,24 @@
+Merlin StWahgwaan
+Jan 2, 2024
+#32,828
+CMDRCorrMorningstarFelian said:
+Original text:
+
+
+Independent Raxxla Hunters decoded it as...(Thanks to @El Saico).
+
+This is a monoalphabetic cipher, the substitution alphabet starts with "jpl". Here's the plaintext:
+
+
+Then we let Google Translate work some magic...
+
+
+Any thoughts as to is this FDev saying we found something important. It seems like a lot of trouble to have to gone through otherwise.
+
+The Ilion reference seems oddly specific:
+Click to expand...
+after quick look, that Faction on INARA was created 1 year ago....
+looks like they have just gone on INARA and chose to support this faction... one of their Fcs shows updated 20min ago...
+Last edited: Jan 2, 2024
+Reactions:
+Rochester, CMDR Davanix, Louis Calvert and 1 other person

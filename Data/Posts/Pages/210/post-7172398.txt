@@ -1,0 +1,32 @@
+Han_Zen
+Nov 14, 2018
+#4,188
+Jorki Rasalas said:
+Yes, it would fit that part of the riddle, assuming the riddle was a clue to Raxxla. But you can’t SC from one system to another, the fsd jump is needed for instantiation. If you SC from one system to another there would be nothing there when you arrive, people have done it.
+
+So an exotic star must be in a system with a normal main sequence star (or BH or NS) to allow the game to instantiate the bodies, but if an exotic star is not detectable by radiation then it would be invisible, so I’m guessing hidden in a USS? Can’t see any other way it could be coded.
+
+edit: we’ve already discussed Rogue Planet instantiation, a system might conceivably have only a single rogue planet that would be “wandering” the galaxy, but would not in practice move in RL timescales. It would be a low mass “A” type system, and I suspect might only be visible to ship sensors on the nav panel within a very few ly. I guess an exotic star could be invisible but have planets orbiting since it would still have a gravitational field.
+
+The 'normal' way to detect exotic stars, would be to use indirect observation. Same way we find comets in in ED. Objects orbiting something that isn't there. Gravity wave detection is the other method that scientists hope will help, in the future.
+
+Another object type that actually exist in ED and has relevant properties, is Wolf-Rayet planetary nebulae. These are hard to see in the galmap(like all planetary nebulae), until you zoom all the way inn. Then they light up very brightly.
+List of RL examples(some can be found in ED): https://en.wikipedia.org/wiki/Wolf–Rayet_star#Examples
+
+Wolf-Rayet stars could possibly be a Guardian connection as well. Guardians had a far wider visual specter than we have. That would probably not have evolved, unless there was a use for it. Gama Velorum(Regor) is a Wolf-Rayet system in 'Guardian space', known as the Spectral Gem of Southern Skies. The entire Regor sector is permit locked.
+
+I would love to find a system like WR 104 in ED. https://en.wikipedia.org/wiki/WR_104
+
+SPOILER
+
+
+
+On a more tinfoily note, there is an funny name trick that can be done with Gamma Velorum.
+
+Take the star γ1 Velorum(companion to the Wolf-Rayet):
+
+- Replace lower case gamma with upper case.
+- Replace 1 with a
+- Replace Velorum with Vela
+
+We get: Γa Vela

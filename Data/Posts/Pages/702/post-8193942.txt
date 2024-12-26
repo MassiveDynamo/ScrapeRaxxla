@@ -1,0 +1,9 @@
+Darth Ender
+D
+Dec 14, 2019
+#14,024
+I could explain that email as the most likely option. It is auto generated and planet is the default response for anything not listed in its database.
+
+Though it would not surprise me for fdev to accidentally leak info about a mystery. It's happened before.
+Reactions:
+bluecrash and [PS4] Filthymick420

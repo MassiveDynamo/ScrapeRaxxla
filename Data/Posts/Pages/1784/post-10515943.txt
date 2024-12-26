@@ -1,0 +1,14 @@
+Ozric
+Volunteer Moderator
+Saturday at 9:55 AM
+#35,661
+Pyroboros said:
+Pareco Comet 2 is extremly hard to find, cause there is no indication that one is in its SOI.
+This is what my Journal says where i am right now: (Legacy Horizon)
+{ "timestamp":"2024-12-21T08:37:21Z", "event":"SupercruiseExit", "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco Comet 2", "BodyID":2, "BodyType":"SmallBody" }
+and this i what i see:View attachment 412575
+My reading of that is that the Comet is shown as the Body you are closed to because that is true. None of the stations would count as a body and there's only 2 other ones in the system. The mythical Pareco Comet 1, and the main star.
+
+Out of interest if you were to fly outside of a body's sphere of influence in another system and then drop into Supercruise, does the journal pick the nearest body?
+
+Unfortunately our data gathering at the time seems to have been very lax. I didn't even think about anything beyond it being cool until the thread was necro'd to mention Raxxla a few years ago. One small thing to note is that if you look through the replies to the original thread you'll see Martin's post has this image, which shows the distance they were from the stations.

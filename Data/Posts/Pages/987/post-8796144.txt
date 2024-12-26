@@ -1,0 +1,7 @@
+Vasquess
+Nov 16, 2020
+#19,726
+What I found about INZAAN in '84 Elite's galaxy 8 might not be bullet-proof, but as far as I get it its probably correct that galaxy 8 had two systems named INZAAN.
+What I did: On Ian Bell's page i found a link to txtelite which claims to be a port to C of the original elte's trading system – along with the galaxies. Stripping only the galaxy generation code from that I could generate a list of all systems. That list matches the spreadsheet linked above well enough (It has some compile options, perhaps one can make it a perfect match?). The generated list also has two systems called INZAAN in galaxy 8. IMHO good enough…
+Reactions:
+Fiera, Ravenl0ft, Crimson Echo and 5 others

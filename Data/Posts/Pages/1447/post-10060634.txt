@@ -1,0 +1,16 @@
+CMDRCorrMorningstarFelian
+Jan 16, 2023
+#28,940
+Still working with the audio file from the probe. Thus far making limited process but looking into splitting the audio so each component plays separately. A couple of observations:
+
+-Assuming this is relatively recent phenomena - anything we get from this started approximately 433 years ago (old tech and fundamental universe speed limits apply). This places events lore-wise before the first game which likely starts mid to late 3100s.
+-Polaris is 433 LY from Sol (in-game) though recent observations suggest it is closer to 323 LY distant.
+-Roughly that places anything we hear to have originated in 2876 when using the in-game distance.
+-Now in all seriousness, does this mean humans know about the transmission? Maybe. Depending on if we pick it up at Earth or Mars. For a practical perspective the probe's power source (radioactivity induced electricity) should long ceased. This may be a case where FDev choose to suspend reality for the sake of story.
+-Signal thus far sounds like one set of sounds is binary (on/off beeps) and the other is something else. The following the merged spectrograph with graph at bottom that shows pulses in the signal followed by relatively flat areas:
+
+
+There is apparently some level of structure. Hopefully, if I can split the audio tracks into separate files we will get something more useful.
+Last edited: Jan 17, 2023
+Reactions:
+Rochester and Macros Black

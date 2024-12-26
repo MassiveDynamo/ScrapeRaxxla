@@ -1,0 +1,11 @@
+alexzk
+A
+Apr 30, 2020
+#16,257
+...didn't play 2 days >: "salesman problem" is damn hard, and described with errors everywhere. Finally combined 5 articles in solution, made a route builder.
+Source: https://i.imgur.com/nctmd2D.png
+
+
+https://github.com/alexzk1/ed_highway
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and Lest

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Mar 10, 2022
+#25,591
+Han_Zen said:
+I think only the named comets are searchable in the galmap.
+Mmm, yes-Grey's comet tracks to Lave. But then how does the search know what is searchable and what is not??
+
+e.g. I assume both Pareco comet 1 and Grey's Comet are "SmallBody" type, not visible in game
+Last edited: Mar 10, 2022

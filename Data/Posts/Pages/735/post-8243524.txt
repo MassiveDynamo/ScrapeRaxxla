@@ -1,0 +1,19 @@
+simulacrae
+Jan 15, 2020
+#14,687
+Ok So ran across this today. ( I know its not a hexagon... but stilll)
+
+I was watching Numberphile(subscribe if you haven't) on youtube and there was an interesting video about trajectories along dodecahedrons today... And he mentioned the Double Pentagon ... had a cool tat for it too. So I looked that up and found this:
+
+
+From a paper "Periodic paths on the pentagon, double pentagon and golden L " by Diana Davis and Samuel Leli`evre
+
+1/3/33 ...
+Also from this paper (below) is a pattern created from a tree word of 303n1. It avoids the center... and creates a familiar pattern.
+
+
+
+
+Currently has me looking into Veech Surfaces...
+Reactions:
+[PS4 Pro - PC] earthtone99, ExoForce, Jorki Rasalas and 4 others

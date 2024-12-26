@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+Dec 3, 2023
+#32,323
+El Saico said:
+The problem here is that the game did not even have neutron stars on launch, yet Raxxla was already meant to be findable.
+It looks like they are there from the beginning but a bug was found in 2.2 "The Guardians" which briefly increased the boost to 400%.
+
+09/20/2016 - 2.2 "The Guardians" Beta 1 has begun. This new beta brought around a whole host of new changes, the more significant one being the updating of a star type, the "Neutron Star". This new star type had giant jet cones spewing out heavy magnetic fields out the cones of the star, and when the ship was inside this cone, the FSD would be "Supercharged".[2]
+
+Well, when the Beta 1 came about, there was a decimal error when calculating the Neutron Boost. Instead of 25% (1/4) as originally planned, the Neutron Star provided a 400% (4/1) boost. This was not intended.
+
+Source: https://elite-dangerous.fandom.com/wiki/Neutron_Highway
+Reactions:
+Louis Calvert and El Saico

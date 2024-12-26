@@ -1,0 +1,8 @@
+Jaiotu
+Oct 3, 2018
+#3,790
+ModishNouns said:
+"hiciacet's equations"? Google says no
+
+Sorry, hiciacet is a forum user. During the Cassiopeia Project hiciacet came up with a python script to convert real world astronomical positions based on Right Ascension, Declination and distance in light years to the game's galactic map coordinates.
+SPOILER

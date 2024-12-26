@@ -1,0 +1,9 @@
+Pyroboros
+Sep 11, 2022
+#27,265
+Jorki Rasalas said:
+Yes, thanks!
+I thought it was all Thargoid-related, didn't expect it to be Raxxla-related. just didnt understand how the new signal type was being found.
+it seems the RSS lacks behind the Anomaly. even though there is a big discrepancy between, were the Anomaly is, and were the RSS is. the anomaly#2 passed the Star before the RSS.
+So far all sighs lead to the same conclusion:
+this is not fully implemented stuff. And will lead a lot of people into hunting ghosts.

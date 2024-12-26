@@ -1,0 +1,10 @@
+CMDR Zulu
+Oct 17, 2020
+#19,353
+Yea all very true information you’re putting out. Thanks Jorki. On a side note I found one of these Camelopardalis systems on EDSM that has Jorki Rasalas as the first “discovered by” back in 2016 I believe, I’m sure there are many more out there with your name on them.
+Jorki Rasalas said:
+This probably came about back in the “Big Bang” (game data creation) through FD’s automated input of data into Stellar Forge from extant star catalogues. If there were separate reported positions for a star (similarly sometimes there were different names for the same star) then it can cause two distinct in-game objects with the same name (often very close so it’s obvious), or long strings of stars because the distance data wasn’t accurate (it never is in astronomy unless the system is close enough for accurate stellar parallax measurements). And typos would also have been automatically input, though FD do seem to have their own unique level of grammar/typing/spelling skills.
+
+Edit: and MB is reputed (though not confirmed by him) to have said that the system containing Raxxla was visited (but it wasn’t noticed) by someone early on, so whether or not others have visited a system may be totally inconsequential to this Quest.
+Reactions:
+Dr. Lexus and Vetinari

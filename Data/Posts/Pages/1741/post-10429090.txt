@@ -1,0 +1,37 @@
+Rochester
+Sep 15, 2024
+#34,816
+@Neestar - Please do read the first page, there are areas which describe specifically how the ‘old missions’ were originally found to be have been removed.
+
+You post a good question, the answer is an unknown unfortunately, we can only hazard a guess as to why.
+
+We know not from the game but through support and devs: that at one point these missions were ultimately removed. But other elements linked to ‘that story’ left in game!
+
+We know from statements made by MB: that there was a known bug.
+
+We know from released patch notes: a series of new unrelated mission updates were also released around that time.
+
+We know due to all of the above: there was some confusion around mission triggers for elites and founders and backers etc and activation levels were edited to accommodate.
+
+We know from leaks made public by code readers and posted, that various historical game aspects - not necessarily linked to Raxxla etc, but which do now exist in game as active game elements, had existed in ‘name’ and code prior to an earlier point. Additionally never released content, models, video and audio has been found in the code, and since removed.
+
+In conclusion: the game existed in a prior state of development than it does now. But something changed and FD decided - as they used the words themselves in the Dev support tickets, to remove that story.
+
+This happens in game development. Good point of example is Deus Ex: Human Revolution. When that game was in pre-launch development the Devs showed plans for large levels of various content which was later cut from the game. Later a whole story arc was released ’the missing link’ which was evidently cut content … my point is in development story arcs are cut all the time for various practical or commercial business reasons.
+
+Personally I suspect FD have done this with the expectation that the player base would not have noticed. The majority of new players or PVP players probably view Raxxla with derision.
+
+Personally I believe FD wrote the codex as a way to explain away this blip, albeit vaguely. It’s not perfect and personally I would have preferred FD making a statement. But still this could allow for audience derision. Better in the long run to apply a level of deniability.
+
+@Neestar - Your question is valid. And that is the primary reason we asked that question to FD because to any new player who does not understand the lore (which itself is malleable) one interpretation advocates a certain path is true, over the other and is instructing players perform redundant tasks.
+
+I think the codex text is written intelligently because FD know their player base is rather informed, and it covers a lot of bases and is cleverly referencing historical architecture and has repurposed it as a spacial map to better orientate us.
+
+But yes it’s not perfect. But remember that game development is actually more akin to the ship of Theseus it is under constant revision.
+
+However accepting this removal provides us context. And allows us to view it abstractly; in doing so the metaphorical nature of the codex becomes far easier to read because we have removed a significant obstacle in our environment, which shifts the physical puzzle into an orientational map; they have given us the directions, we simply need to learn how to read it.
+
+Personally I believe we are 3/4 the way there. We are missing a couple of locational identifiers, once those are better understood the whole thing will slot into place.
+Last edited: Sep 16, 2024
+Reactions:
+Darrack and Macros Black

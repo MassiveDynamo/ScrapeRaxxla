@@ -1,0 +1,16 @@
+Jorki Rasalas
+Feb 21, 2019
+#6,232
+Noobilite said:
+Here is one of the things I've been wondering about. Are there oddities or unknowns about the FSP#'s? Are there two of FSP#000. And, yes, I think we should collect pictures! 8)
+
+Was your's correct or are there two of them? Or is this the same station somehow? I'm honestly not sure. Do the change names or do they have numbers based on system location within an area?!
+
+I just reported the data, I’m not the source. Tyko will start checking as he flies around fed space.
+You need to turn off the hud data when taking a snapshot like this- messes up the detail.
+how many stations are we expecting-could be a big imgur album!
+
+edit: if anybody is good with spreadsheets it should be possible to filter out fed station names & system data from eddb.io & feed into this sheet; then we’d just have to insert the fsp number, and paste pix url if we sort the album storage. Would save a lot of effort in typing!
+
+edit2: good point about the station name maybe having changed. Not sure about this, Han_Zen has a better memory than me. But just in case of changes then we should also have a date confirmed field for each entry to go along with the confirmee name. Then we can know if anything changes as well as cross-check for duplicates.
+Last edited: Feb 21, 2019

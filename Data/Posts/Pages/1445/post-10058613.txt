@@ -1,0 +1,15 @@
+John Stoutbeard
+Jan 13, 2023
+#28,884
+Han_Zen said:
+It would also be a bit strange for FD to chiper texts that are presented to players in different languages.
+That's a very good point, sometimes it's easy to forget these high level observations. Thanks! - we have multilanguage game clients, the outcome would be different in different languages.
+
+EDIT:
+On that note though, isn't "fernweh" spelled equally in all the game language versions?
+Rationale would be that it could either be something important enough to keep the same spelling for all language for such a 'key'-word.
+
+It could also be a foreign phrase which should never be translated ofc, but hey - this is the Raxxla thread after all.
+Last edited: Jan 13, 2023
+Reactions:
+Louis Calvert, Han_Zen and CMDRCorrMorningstarFelian

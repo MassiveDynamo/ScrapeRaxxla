@@ -1,0 +1,9 @@
+Darth Ender
+D
+Jan 19, 2021
+#20,415
+yea.. sabiyhan ...my guess is it must be hardcoded with certain coordinates that cause an exception when the galaxy map tries to locate it.
+
+That would imply that it is a test-type system or a throw-away from a previous iteration of the galaxy and the string just remained instead of being removed from the list of system names that aren't procedural.
+Reactions:
+[PS4] Filthymick420

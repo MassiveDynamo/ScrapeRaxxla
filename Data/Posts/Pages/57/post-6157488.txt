@@ -1,0 +1,13 @@
+Han_Zen
+Nov 24, 2017
+#1,132
+Jaiotu said:
+If you can find a connection between Sirius and the year 2814 you'll have me convinced.
+
+2814 is at least well within the time frame between the establishment of the Sirius colony and the events of The Dark Wheel.
+
+I did a bit of checking on the in-game orbits of Sirius A and Sirius B. Their Semi major axis', match their relative mass. If there is a hidden body in the system, it's either planet sized or very far out.
+
+The difference between a rouge body and a hidden native body in a system, is basically how you locate it.
+For a rouge body(a guest in the system), it should be possible to find it in the same way as the Voyagers were found. Aim for the right system and fly until you get a 'Slow Down' message or see something moving in the sky.
+For a native body, we are dealing with orbits. Very hard, unless you know something specific.

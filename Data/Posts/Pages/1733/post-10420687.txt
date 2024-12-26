@@ -1,0 +1,16 @@
+Louis Calvert
+Aug 28, 2024
+#34,655
+FYI the DW station star colour in the icon on the Codex isn't necessarily a real picture in the strictest sense. I did that thing years back that changes my HUD colours - the DW star colour for me is different to the images I've seen people post of the same image, observe:
+
+
+
+See, it blue!
+
+So what that suggests is that those images are at least tinted by the UI colour scheme for everyone, and therefore aren't necessarily reliable. All of them have a blue-green tint for me, whereas on the default UI colour they are all orange-yellow tinted.
+
+Therefore, either Fdev/PF knew this going in and reverse-corrected the image of the "DW station" so that when tinted through the UI of the ship it would show the right (as in the real-star) colour... or they didn't...
+
+If you're looking for the DW star/station based on that image alone, then at least be aware that the colours may not be as they seem to you.
+Reactions:
+Han_Zen

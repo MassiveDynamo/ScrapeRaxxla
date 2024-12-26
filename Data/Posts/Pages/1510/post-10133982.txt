@@ -1,0 +1,13 @@
+Dox Paradox
+Apr 28, 2023
+#30,195
+CMDRCorrMorningstarFelian said:
+Does anyone know how to get the forum to not break the link from Wikipedia about the esoteric programming language Brain f u c k? I mean it is part of the game yet it broke my link.
+
+No, there aren't spaces and it is a single word in Wikipedia. I had to write it that way so it wasn't auto-edited.
+Not a direct link, but easy enough to navigate
+Brainfuck
+esoteric, minimalist programming language
+www.wikidata.org
+Reactions:
+CMDRCorrMorningstarFelian

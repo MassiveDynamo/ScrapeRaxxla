@@ -1,0 +1,7 @@
+Jorki Rasalas
+Mar 14, 2022
+#25,695
+Mmm, don’t agree.
+1) If a comet (or anything else) is on a hyperbolic trajectory it hasn’t been captured by that system’s gravity & is a rogue body. I think from the journal spec that a rogue body (if implemented) will have its own system and probably nothing else within that.
+2) if you look at Pyroboros’ analysis for Sol (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9726705), the BodyType for the asteroid belt is “StellarRing” & a ring is defined by the coordinates of its centre (within the Sun) & its radius, which us what we see in the Orrery view. I don’t think it has anything to do with FD preventing us from dropping into it.
+Edit: I think from the investigations into the “Sol green glow” that there is another system nearby with a similar asteroid belt. IIRC a bookmark to that also showed within the star.

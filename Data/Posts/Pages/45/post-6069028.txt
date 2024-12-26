@@ -1,0 +1,12 @@
+clavain
+Oct 24, 2017
+#883
+Scytale said:
+I can neither confirm nor deny the amount of tinfoil required to figure out why FDevs have canceled the mysterious Elite/Founders Dark Wheel missions
+
+<cough/>bug. Or the missions never worked or led anywhere so they removed them (as their descriptions implied they did go somewhere..getting everyone's hopes up and leading us by the nose like the sheeple we are and only getting us upset when nothing happened). The fact they have not responded to several requests and bug reports about them would seem to indicate this.
+
+I think one of the threads upstream also suggested they were likely removed when the missions system was reworked to get rid of all the missions that had a prereq of Founder also. Of course these were Elite or Founder, so more indication of a possible error/bug. Presumably they should still be available to anyone who is Elite in the appropriate career (Exploration for most of them IIRC).
+Last edited: Oct 24, 2017
+Reactions:
+Macros Black

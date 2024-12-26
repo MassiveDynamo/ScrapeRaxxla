@@ -1,0 +1,19 @@
+CMDRCorrMorningstarFelian
+Jun 24, 2024
+#34,309
+Han_Zen said:
+Ra = Right ascension (of course)
+xx = 20 (simple roman numerals)
+la = latitude or more specifically celestial latitude
+Would suggest in that case looking for these (perhaps in SIMBAD). From Frontier. These appear to close-ish to Sol. Additionally, from the First Encounters manual there was a list of "interesting" systems that likely need to tracked down as I don't believe we were given this information for nothing (to obtain a copy follow this link) - couldn't attach because of file size.
+
+
+SYSTEM COORDS ALLEGIANCE NOTE GOVERNMENT TYPE
+---------------------------------------------------------------
+
+-11°3759 (-1,-1) Independent Anarchy
+-40°9712 (-1,-2) Independent Policed By Local Corporations
+1°4774 (-1,1) Independent Corporate State
+
+---
+Ninety percent sure these have been renamed. There are some still in-game with similar style names.

@@ -1,0 +1,35 @@
+Han_Zen
+May 9, 2019
+#8,006
+yelboc said:
+A few pages back there was talk of the procedural generation in ED, and its relation to the previous games. Thought I'd try to summarise what I know about it in ED:
+
+In the 1984 game, a single procedural generator was used to create the entire 8 galaxy set including locations and names,economies, etc. All of this is very well documented on the web. Names have been discussed in detail here, and yes its impossible for Raxxla to be a world in the 1984 elite. In fact the entire code has been searched, so there is no Raxxla in that game. This is not suprising given the timeline of the novella which appeared just in time for initial (physical media) release of the game, which itself was almost not finished.
+
+if you like coding then this link is comprehensive:
+http://blog.rabidgremlin.com/2015/01/14/procedural-content-generation-creating-a-universe/
+
+So getting to ED - procedural generation is used here too. What's different is that the Milky way is simulated in its entirety. This includes the inclusion of many star catalogues from real life astronomy which is where names like HIPxxx and HDxxxx come from. There are some oddities to this data and you may notice in the more distant areas from the bubble the occasional cylinders of named catalogue stars with the cylinder pointing towards Sol - these are regions where RL astronomy has concentrated telescope action on a small area of stars.
+
+In order then to create the rest of the milky way, FDEV have used procedural generation to create all the other stars we see in order to get correct star densities (so we stand a chance of making travel) and to map them on to the Herzspring-Russel diagram for star types and lifetimes. For far out areas this is where the names like EORGH PRUAE XR-A D14-5 come from
+
+Other stars have been given names, including the old world systems from the 1984 elite - not all are in the game - there is a list earlier in this thread and there is the google doc mentioned too. Only galaxy 1 is well represented and a couple from galaxy 2 (maybe by coincidence, as Han Zen put it). ATEN appears in 2 galaxies, an anomaly in the old game. In addition the constellations of many earth mythologies are represented along with plenty of other hand named systems, some of them player named.
+
+see: for old world systems
+
+From our work on fed station numbers we understand from official sources that each system has a seed number. This is used to generate the Fed Station number for the 1st station in the system, for instance. What else the seeds are used for is not known. In addition planets and moons are also procedurally generated - this is touched on in this FDEV video:
+
+
+
+
+In addition it looks like station names are generated from list pairs (i.e. Burnell Port - list1;list2) as there are a lot similar names in the game see for instance:
+
+It's possible that the seed is part of this generation process, but whats different in ED is that there is a hybrid of procedural and hand edited systems. Most likely R is a hand edited feature, so reverse engineering the procedural generation may not help much.
+Click to expand...
+
+Good explanation.
+
+I think that there is a fair chance that the old names that are not from Galaxy 1 are pure coincidences. All the non Galaxy 1 systems have fairly 'normal' names.
+There are quite a few systems from Galaxy 1 but if we are to nitpick the lore, they are unlikely to be Raxxla material. Rafe Zetter clearly states: "Raxxla—if it exists—is in another Galaxy".
+
+That leaves us with basically nothing, from the old systems.

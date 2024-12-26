@@ -1,0 +1,17 @@
+Ko Shiji
+Apr 4, 2019
+#7,228
+hhiram said:
+For what it's worth, here's how I think the Raxxla mystery will pan out. I think 100% of the mystery follows from the Codex clues, and nothing else.
+
+I agree with you on that line, but if you start with that premise, then you're over-complicating the rest of it. There are only a few ways for the Codex entry to reveal Raxxla:
+
+1. Whatever the code in the entry is, it reduces to something like PRUA BLY D4-32 A-421 A 4 H (map name, star planet moon). The whole codex is a pointer; figure it out and just go there.
+
+2. It's a form of trilateration, but you don't need 6 points to trilaterate: 3 points gives you an exact result of two possibilities (+ or -), and a 4th point eliminates one of those for an exact location. You need 4 points to trilaterate in 3D space. Given the flat shape of the galaxy, 3 points are sufficient, actually (the - is way outside the galaxy).
+
+3. It's a "treasure map" - go to this point, then go to this point, then go to this point, etc. Except this is space, not geography that you can't cross unless you follow the terrain, so all you need is point A, point B (these form a line), and HOW FAR to travel. "To the jewel" = A. "To the whisperer" = B. "The parent grief, the lover's woe, the yearning" = distance (note how these no longer start with "To"). And finally, "To Raxxla."
+
+It's quite similar to the Formidine Rift mystery, really - "From Reorte to Riedquat" and keep going. Except we didn't get anywhere with that "map", so he eventually spelled out the pointer (destination) in another clue.
+Reactions:
+Ton618 666, JethroGuardian and Machina Ergo Sum

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Oct 26, 2018
+#4,059
+Thatchinho said:
+Quirium drives were what were in use in the original Elite - max jump range for a non-hacked/engineered Cobra was 7ly.
+
+Galactic hyperdrives were different to standard hyperdrives - they were one-use items. Also it's in doubt whether they were actually intergalactic jumps.
+
+Indeed; the original game was split into paged ‘galaxies’ to fit in available storage (the first machine I built back in ‘75 had a whole 4k of ram!).Jumping with the galactic hyperdrive just paged in a load of new stars. In E,D we call them sectors and they’re much larger than the original game’s ‘galaxies’.

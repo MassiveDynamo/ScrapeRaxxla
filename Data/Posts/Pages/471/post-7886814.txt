@@ -1,0 +1,15 @@
+FullM3talX
+Jul 8, 2019
+#9,410
+Thatchinho said:
+Quick RL point - the description of Quantum Entanglement here is a little inaccurate and slightly misleading.
+What’s happening is not that something is being changed for one particle, it’s that something’s being measured for it. Because the particles are entangled, that means that measuring a value for one, also means the value for the other particle is then also known.
+To try to clarify, ‘changing’ would constitute altering from known value A to known value B. What’s happening is going from <value not set> to <value known>
+i agree but i would like to add that i never specified when the measuring is made, and it makes all the difference. if we suppose we have 2 entangled Particles A and B. technically you can know and set the value of the particle B by not making measurements on it, and changing properties on particle A first. that would mean that, at the moment when you observe/measure particle B after changes made to A, B would mirror those changes from A in whatever ways it may. and therefore :
+FullM3talX said:
+“whatever changes made to one particle is reflected and mirrored onto the other entangled pair particle.” + as long as the measurements are done after the change and not before.
+because it's at the moment of the measuring/observing, that the observed particle would take it's form wich is Based and Effected By the current state(not the original state) of it's Entangled pair Particle.
+oh man, quantum physics is quite confusing. lol
+Last edited: Jul 8, 2019
+Reactions:
+PeteACarter

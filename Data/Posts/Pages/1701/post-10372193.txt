@@ -1,0 +1,23 @@
+Doctor Dread
+May 9, 2024
+#34,013
+Don't know if this was mentioned, I was absent for 10 years
+
+First ever mention of Raxxla.
+Event at Leesti.
+There are more, on later pages.
+
+
+
+from Commodore C64 Manual: Elite (1985)
+Commodore C64 Manual: Elite (1985)(Firebird Software)[Novel] : Free Download, Borrow, and Streaming : Internet Archive
+Commodore C64 Manual: Elite (1985)(Firebird Software)[Novel]
+archive.org
+
+and here Ian Bell mentions it "I don't know. The missions vary across the platforms. There is no Raxxla functionality in the 6502 versions AFAICR."
+Recollection
+
+Maybe it would be worth it to dig through the ancient coding of BBC/C64 original Elite
+Last edited: May 9, 2024
+Reactions:
+Macros Black, Rochester and CMDRCorrMorningstarFelian

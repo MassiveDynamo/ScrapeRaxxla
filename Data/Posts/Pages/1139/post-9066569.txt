@@ -1,0 +1,9 @@
+SergMx
+Apr 7, 2021
+#22,769
+My opinion.
+To count the coordinates of a galaxy in a grid rather than in polar coordinates centered at the galactic nucleus is even worse than Ptolemy times.
+Only the polar system can more or less accurately describe the galaxy, otherwise the galaxy would be a cube.
+Maybe I already asked, but remind me please, the names of regions and their number are astronomical names or made up by the developers?
+Reactions:
+clavain

@@ -1,0 +1,10 @@
+Jorki Rasalas
+Dec 1, 2024
+#35,453
+Beng_Ammon said:
+And why is the asteroid belts in the sun?
+A belt is a circle, defined by its in-game centre point and radius. The centre point is, unsurprisingly, at the Sun. That you can select that point is a bit of a programming bug that has been raised frequently for the last 10 years.
+
+I reported it to FD as an issue back in 2016 when I got the permit & first saw it.
+Reactions:
+Rochester

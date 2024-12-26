@@ -1,0 +1,7 @@
+Comandante
+Jun 5, 2018
+#2,572
+Noobilite said:
+I don't think EDSM allows for partial word searches.
+
+It doesn't - kind of. I used three-letter combinations that brought up results in the list box - so, for example, RAG- brought up several items, then I moved to RAH-, etc. Some combinations brought no results whatsoever.

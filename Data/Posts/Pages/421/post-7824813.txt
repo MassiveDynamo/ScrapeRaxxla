@@ -1,0 +1,8 @@
+Jaiotu
+May 31, 2019
+#8,417
+Tacticus2711 said:
+I have seen this but frontier aren't in the Easter egg business and there is no proof to suggest it is an Easter egg don’t get me wrong it could well be. it is however a possible code when decoded spells Raxxla
+I don't see how it spells Raxxla. The keyed Vigenere cipher image that you uploaded only contains the passphrase (hexedit) and the message text (raxxla). It cuts off the resulting cipher text which, in this case would be "yeuboi". Does yeuboi mean anything?
+Reactions:
+rOmiLaYu

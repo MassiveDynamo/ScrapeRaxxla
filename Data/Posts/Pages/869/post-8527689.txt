@@ -1,0 +1,14 @@
+Merlin StWahgwaan
+Jun 13, 2020
+#17,362
+Darth Ender said:
+I wasn't aware the game included audacity and a ui interface to record and playback audio in it. Is it only accessible in cqc?
+
+you wouldnt need a UI interface 100%... for a spectorpgraph analysis, a recording with a tape recorder would work techinally, though no where near as clear or accurate, but if your using windows 10 or xbox, you can screen record, built-in, and that can record audio. Windows 10, also allows audio output to be used as input, so you can technically have LIVE audio from you pc output into any software that can use a mic, like audacity. So kind of, there were some ui's accessible.
+
+Now as for audacity, thats where I agreed it technically should have been an EULA violation to use it, BUT the problem is, their EULA says its only a violation if you use a file created by ED/Fdev, or "mined" it for lack of a better description.
+If you make the recording yourself, thru a screen recording ie., you techinically own that file, not Fdev, and you can put the clip into any software you want without breaking their EULA, just like you can upload it to youtube without a violation. As long as you dont use that file in any commercial things like Dj's using screenrecorded music videos would be illegal. but for personal things ect, screen recordings are legally the owners to do what ever they want with.
+
+My personal feels are though, Fdev should have given us in-game tools for everything that we might need. I just personally disagree with expecting people to use other tools to fully enjoy or use somthing they paid for already. It feels like if Netflix were to say we HAVE to use a VPN service to watch shows. Just unfair becuase some users might not have access to those things and should not be denied the experience becuase of that. Not everyone has a computer, and it shouldnt be expected inorder to solve Xbox or PS in-game things.
+Reactions:
+Fiera, turkwinif, [PS4] Filthymick420 and 1 other person

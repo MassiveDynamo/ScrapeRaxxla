@@ -1,0 +1,10 @@
+Oseris
+Feb 27, 2020
+#15,439
+alexzk said:
+So I came to Iapet with fighter ship - no DSS on board. Map showed "other" signal and that's all. Nothing on panel (1). Nothing on zooming map view.
+Then i switched to ship with DSS. Coming close to surface showed in (1) "other", so I could target. At some point close it disappeared and lost target, about 200kms to go and was draw on screen.
+I think ..that how should DW station work too because it "hides".
+It's the engineer on the surface.
+Reactions:
+Machina Ergo Sum

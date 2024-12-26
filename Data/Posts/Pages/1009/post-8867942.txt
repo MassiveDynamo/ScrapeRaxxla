@@ -1,0 +1,14 @@
+Han_Zen
+Dec 22, 2020
+#20,166
+alexzk said:
+You need starting point. Those coordinates you talk are bound to Earth. Today. 1000y later it will differ. It takes only 25000 to swap polaris and sirius as northern star.
+The ED galaxy is modelled on the current star positions. The positions have not been shifted to to 3300 coordinates.
+The starting position has to be Sol, if we go by any of the 'out of game' coordinate systems. This makes sense, as the Raxxla myth is old. Humanity was still very much Sol centric at that time.
+
+The main issue is the size of the search field. If we say RA is 10 10 50 or 20 50 or just 20, we have just a plane. A plain trough the galaxy is quite a lot of stars.
+If we had the declination as well. it would still be a line. A long one.
+
+Personally I favour the plain RA 20, due to the connections between Astrophel and the Cygnus constellation and the perfect alignment of Deneb, on the Zaonce - Riedquat line. It's still mostly lose end though.
+Reactions:
+Exekrator, CMDR Temunjin Boras, Hanerib and 1 other person

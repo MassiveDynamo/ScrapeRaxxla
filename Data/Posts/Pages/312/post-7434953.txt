@@ -1,0 +1,58 @@
+ironshirt
+I
+Feb 21, 2019
+#6,225
+yelboc said:
+If it's a simple formula as they state then it shouldn't take long to work out, given a dozen or so examples. I'm out in the middle of nowhere at the moment, so can't fetch some examples, but if CMDRs want to record some examples then put them in here and I can have a go..
+
+https://docs.google.com/spreadsheets/d/1gBPFcLLif52SSncQ95W1exfUW1XO4PPL9trC8H2xGZg/edit?usp=sharing
+
+YB
+
+Indeed, the sheet seems to be locked.
+So I'll post my list here:
+
+
+FSP# Station Name System Type X Y Z r l b LS
+7904 Velidhu Dream Zeta Tucanae Coriolis 13,5 -22,15625 10,53125 28,001 307,958 -52,304 292
+9392 Berners-Lee City 78 Ursae Majoris Orbis -35,03125 72,53125 -19,9375 82,979 119,646 60,938 14702
+3584 Longyear Survey LP 64-194 Coriolis -21,65625 32,21875 -16,21875 42,072 32,21875 -16,21875 831
+7664 Mars High Sol Orbis 0 0 0
+
+
+800
+6640 Galileo Sol Ocellus 0 0 0
+
+
+502
+8176 Titan City Sol Orbis 0 0 0
+
+
+5043
+7920 Columbus Sol Ocellus 0 0 0
+
+
+2493
+9288 London Relay Epsilon Indi Coriolis 3,125 -8,875 7,125 11,802 336,818 -48,761 684
+0464 Stevenson Base Beta Hydri Coriolis 15,28125 -15,6875 10,5625 24,314 304,652 -40,181 943
+0976 Black Mausoleum Beta Hydri Orbis 15,28125 -15,6875 10,5625 24,314 304,652 -40,181 4336
+9296 Shelley City Hip 85639 Coriolis -101,0625 68,1875 36,125 127,154 70,33 32,429 1048
+7648 Elswick Zeta Tucanae Coriolis 13,5 -22,15625 10,53125 28,001 307,958 -52,304 693
+7936 Payette Hub Iman Caber Orbis 16,09375 -19,90625 24,46875 35,412 326,666 -34,204 626
+8448 Magnus Orbital Iman Caber Orbis 16,09375 -19,90625 24,46875 35,412 326,666 -34,204 1325
+0256 Galvani Port LHS 1914 Orbis 9,84375 26,15625 -72,46875 77,671 187,735 19,679 56
+6864 Walker Station LHS 1918 Ocellus 30,5625 -0,5 -22,4375 37,918 233,716 -0,756 2012
+3656 Paul-Friedrichs Expedition Basecamp Paul-Friedrichs Star Coriolis -48,15625 34,3125 8,78125 59,779 79,666 35,029 225
+6928 Young Ring Demeter Coriolis -55,34375 40,8125 7,5625 69,179 82,219 36,154 211387
+2392 ELWirecraft Solati Orbis 66,53125 29,1875 34,6875 80,508 297,536 21,256 259
+8208 Kooi Resort Malina Coriolis -48,1875 23 14,40625 55,304 73,355 24,575 93
+2816 Burbank Camp Surya Coriolis -38,46875 39,25 5,40625 55,223 82 45,296 1013
+0000 Heisenberg Terminal LHS 1914 Orbis 9,84375 26,15625 -74,46875 77,671 187,735 19,679 79
+1024 Walker Orbital Hip 85244 Orbis -110,9375 75,75 18,53125 135,605 80,517 33,96 456
+6192 Golstein Port Lembava Coriolis -43,25 -64,34375 -77,6875 109,754 150,895 -35,891 281
+
+Cheers
+Mike
+Last edited: Feb 21, 2019
+Reactions:
+yelboc and Eckee

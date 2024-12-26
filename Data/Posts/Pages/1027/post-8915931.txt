@@ -1,0 +1,11 @@
+Macros Black
+Jan 23, 2021
+#20,522
+Filthymick420 said:
+Do any of the 3rd party tools let us search for a list of systems by specific distance from a location, For example a list of every system exactly 235 ly from shinrarta?
+Don't think so, you may have to download the systems.csv from https://eddb.io/api and process/extract the info yourself.
+
+Edit: You could try https://eddb.io/system
+Last edited: Jan 23, 2021
+Reactions:
+[PS4] Filthymick420

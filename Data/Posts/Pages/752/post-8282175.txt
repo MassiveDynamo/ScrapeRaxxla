@@ -1,0 +1,25 @@
+alexzk
+A
+Feb 5, 2020
+#15,034
+Noobilite said:
+https://www.reddit.com/r/EliteDangerous/comments/4d8rlm
+Source: https://www.reddit.com/r/EliteDangerous/comments/4d8rlm/a_request_for_a_screenshot_from_fd_support/
+
+
+Wait, wait, wait, wait... This indicates that flying manually does reduce the fuel use and jump range from manual flying. Someone told me it still uses the origin system to determine jump range and there was no point flying out to the location. Which way does it work. If I fly to a system with lots of fuel can I jump for less total fuel to another system? If so I can go explore some stuff I wanted in a feulaconda like I originally wanted to.
+
+
+
+
+I don't think this mentions specifically but was linked in the thread.
+
+If this was possible did they change it? I really want to visit a few locations manually.
+Click to expand...
+
+When you burn fuel range goes up as your weight goes down up-to "unladen" value. Auto plot ignores this fact assuming full fuel always (minimal range), so that's why you need to use manual plot.
+
+His idea was to fly to the next star in normal cruise. However jump is still required as it is "game loading" even on close range. And even if it reduces fuel to jump (I doubt) you cannot travel more then your jump range in cruise as you will get out of fuel before.
+Saw experiment about all that between stars with 2ly. Took 1 hour to come as close as 30ls then he had to jump.
+Reactions:
+Machina Ergo Sum

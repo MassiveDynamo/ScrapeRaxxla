@@ -1,0 +1,17 @@
+Adel
+A
+Feb 21, 2022
+#25,405
+Just wanted to share an interesting finding (though i didn't find the system myself).
+It's in Musca Dark Region PJ-P B6-1 planet 3, i went to Geological Survey 23B.
+Then, i just wanted to get a close human system data - just because - and found this (look for asteroid base station, at line 3):
+
+SPOILER: SYSTEM MAP
+
+
+SPOILER: LEFT PANEL
+
+SPOILER: ASTEROID BASE
+
+So it seems that stations inside belt clusters are shown in system map (whatever the distance).
+If TDW station is operating at low power, it could be hidden from the left panel but still present in any belt cluster, which is the perfect place to hide!

@@ -1,0 +1,16 @@
+Jorki Rasalas
+Apr 2, 2022
+#25,806
+Rochester said:
+Going over the un-corroborated DB statement about a group of Cmdrs needed to scan something for it to become accessible, I wonder if this attribution from an earlier DB statement around dark systems which proposed a similar mechanism?
+
+Post in thread 'The Quest To Find Raxxla'
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9783216
+
+I don’t expect dark systems ever got implemented, but maybe this method of exploration needs clarification from FD next time there is a Q/A… eg in June 2014 DB made this statement, was it ever implemented.
+
+I always thought, if I wanted to hide something this would be the coolest way to do it… again I don’t actually believe FD implemented it…but what if they did?
+Click to expand...
+I wasn't playing that early, else I would have queried his statement. How can the “dark system” be scanned before you arrive in it? As far as we know the discovery scanner is “infinite” within a system, but not outside it.
+Reactions:
+Rochester

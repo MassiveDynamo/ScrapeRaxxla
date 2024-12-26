@@ -1,0 +1,17 @@
+Emperor
+Dec 9, 2023
+#32,412
+Louis Calvert said:
+Just a note that the galactic regions were added around the time the Codex was launched. Before that, many of the regions were unofficially named by fan projects, which I believe Fdev adopted many of - been a long time, anyone know the facts on this?
+
+Edit: Source for the timing of the Galactic Regions. Fdev post from Oct 2018
+
+Therefore; if Raxxla was placed in the game at the start and there are celestial clues indicating that, it's extremely unlikely that any of the current Galactic region names relate to any pre-Codex elements. It's possible they do relate to the Raxxla Codex since they seem to have been implemented concurrently.
+
+Codex was introduced Oct 18th, 2018 as part of the Beyond update/release which included the 42 galaxy sectors too and was discussed in a Frontier live stream:
+Source: https://youtu.be/rtmmmP_waf4?t=5066
+
+
+The regions were numbered in the video (42 - "for obvious reasons" mentioned in the livestream) and no names mentioned or displayed in the galaxy map at the time... not sure when the names came in but I vaguely remember some being from the players having already named areas when exploring...
+Reactions:
+CMDRCorrMorningstarFelian and Louis Calvert

@@ -1,0 +1,23 @@
+Jorki Rasalas
+Aug 7, 2023
+#31,130
+Edelgard von Rhein said:
+My first afternoon searching around the sunken worlds, after visiting and docking in the Demeter system (200+ KLs supercruise).
+I was able to find Trinkets of Hidden Fortune in a ship (Cobra MkIII) around the nav beacon in the closest anarchy system to Ahti. My hatch breakers knocked 5 of 9 from the hold and I was able to scoop two manually, as three other ships were engaging the Cobra and I saw at least one scooped by another ship before I could reach it. Job done, though. I then proceeded to Ahti.
+
+I visited the following systems, in the order given, and FSS scanned them all and mapped some of the bodies in those with multiple planets (and the only body when there was only one), with a focus on those with moons.
+Ahti: only 1 planet but 2 orbital stations around it, a Coriolis and a Civilian Outpost. Here was the main oddity of the day: At the Coriolis starport (one with a pair of noobhammers), Jyrki JJ Kasvi Point, it was not possible to disembark. The bottom panel where you manage your suit loadouts and deploy SRV etc. gave the message "Cannot Disembark restricted by port". I have not encountered this anywhere else. It was possible to disembark at the outpost.
+: also only 1 planet but 3 belt clusters. I dropped in on all three but nothing was there. Mining ships (and sometimes pirates) would drop in if I stayed long enough. I docked at the Coriolis here but heard no unusual conversations.
+: another system with only 1 planet. I docked and heard no unusual conversations but I have started to notice that NPCs who wander are more likely to engage in them.
+: empty system. There were many degraded emissions signal sources and these traced out an ecliptic plane in the absence of one being provided by the FSS. I dropped in on a couple and flew what must have been almost a complete circuit at a distance of ~1KLs from the star to look for anything via the parallax method. I encountered nothing unusual.
+: empty system but there is a secondary star so I flew out to it and FSS scanned all the signal sources. Like Lyonesse, all were degraded emissions Threat 0 and located around the ecliptic plane of the star they were closest to. No sign of anything unusual but I was not keen to drop in on many.
+: the closest system to Axis Mundi and it has 8 planets, the innermost being an Earth-like World with a moon. I mapped both and docked at a station orbiting the moon. No unusual conversations were encountered but I did see a large advert for Brookes' Galactic Tours pop up in the bar area.
+: 10 planets here with no belts or rings and uninhabited. I mapped the binary pairing of planets 8 and 9, one of which has bacterial life and some generic Odyssey surface encounters, though I did not stop to scan/visit them.
+: my final port of call for the day, it has two outposts and no large stations, though there is a penal colony landable surface port. There are 11 planets and 2 moons here and several water worlds. I mapped the water world that is in a binary configuration with a high metal content world. There were no unusual conversations in the bar.
+
+Some of the systems that I will need to check later are much busier than these. Out of the four Lost or Sunken Kingdoms (Atlantis, Gwaelod, Lyonesse and Ys), only Lyonesse is empty and the other three have plenty to scan - maybe too much! (One of them has four asteroid belts!). I also noticed that when I put HIP 114458 into the Galmap search, having only written HIP 1144 is enough to put that to the top, despite it being out of sequence with the other HIP systems that start with those numbers - and it has a gas giant with an 8th moon (someone has first footfall already, so I'm not getting my hopes up that there's anything there).
+Cabassones?
+I've had no luck finding Trinkets in Hecate or Plendovii...
+Last edited: Aug 7, 2023
+Reactions:
+CMDRCorrMorningstarFelian

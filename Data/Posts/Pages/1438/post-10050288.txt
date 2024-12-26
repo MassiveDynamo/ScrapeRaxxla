@@ -1,0 +1,24 @@
+Rochester
+Jan 1, 2023
+#28,743
+John [Panzertard] Stoutbeard said:
+I just need to write this down, at least for myself.
+
+Notes on 'previously non-discoveries' mechanics
+I just jumped to "DG Canum Venaticorum", it was already fully mapped by my flight computer. Nothing new to scan.
+I did NOT see the "Iraxon Lane" INRA base as POI in my NAV while checking from 900LS. (As expected)
+However it shows as 'Human (1)' in the FSS even before I have done a surface scan. Unexpected.
+I had previously assumed I had to get close enough to do a Surface Scan (and generate the POIs by being close enough) before it would reveal any clues at all.
+
+This is good news I guess - we can discover things even if it's quite far away.
+I just need to make sure I was certain about the mechanics, how it would treat these kind of '' for a pilot.
+Click to expand...
+Yes that’s my experience too.
+
+All POIs seem to appear in the FSS. I’m presuming that if Raxxla hasn’t been altered, since the 2016 lore nerf / DW erasure / Brookes departure, that it’s a space based element or body that can be scanned.
+
+I recall Brookes disappointment at the introduction of the modern FSS as it made everything too easy to find…and of course if the quote about someone passing through the system is true, scanning it would have found it.
+
+Technically it’s logical to assume FD would allow us to find it, so it ought to appear on the FSS!?
+Reactions:
+John Stoutbeard

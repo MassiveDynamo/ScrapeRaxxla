@@ -1,0 +1,11 @@
+GURU-951
+Apr 3, 2024
+#33,759
+For the record, the panel/door will not appear when viewing from Maia, or if it does, it's just barely achievable.
+
+When you fly away from the black hole in Mintaka it will duplicate Horsehead Dark Nebula, and the panel/door is between the duplicates, or rather it's attached to one, but hidden due to the 2nd layer.
+
+The initial reason that I was able to achieve this was with the assumption that the tourist beacon in Mintaka was a suggestion/clue that there was something more to be found, based on the blue light. It seems that it only works based on angle from Horsehead Dark, and a distance in Light years. Too far, or too close, and it doesn't work. There are not that many black holes between Mintaka and Barnard's Loop, so it makes experimentation pretty easy.
+Last edited: Apr 3, 2024
+Reactions:
+CMDRCorrMorningstarFelian

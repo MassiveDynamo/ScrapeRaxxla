@@ -1,0 +1,9 @@
+Han_Zen
+Jul 26, 2020
+#18,074
+norlin said:
+Actually it highly reduce the number of the systems which need to check, in case of a bruteforce search. Though it's not adding any real clues about how to solve the mistery itself.
+You can Re-check every discovered system in the game and still not find Raxxla. We don’t know that it shows on the system map. If it does, we don’t know how it is labeled. It could be light years out or just a small speck on a planet.
+Reducing the number of systems still leaves a practically infinite search area / volume.
+Reactions:
+Rochester, Erwgd, PeteACarter and 4 others

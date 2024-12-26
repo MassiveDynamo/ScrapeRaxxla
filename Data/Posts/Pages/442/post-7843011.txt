@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jun 11, 2019
+#8,833
+DrewCarnegie said:
+I believe that if the inner edge ring is too far away from the body, you can't actually fire probes at it. I didn't try to do it with my 132 Ls ring, but there were 4 bodies INSIDE the ring, so I suspect that the inner edge was at least 20 Ls out. There's no way you're going to be able to hit that with a probe.
+
+Edit:
+Checked on EDSM and the INNER radius of the ring is 104 Ls. No way that can be probed.
+Guess at that distance you’d have to move nearer the ring to probe it (), effective range seems to be 0.3 to 1.0 ls.
+Sometimes you also have to move to the other side of a gas giant to ensure you get 100% coverage
+Last edited: Jun 11, 2019
+Reactions:
+CMDR Poet Starwind

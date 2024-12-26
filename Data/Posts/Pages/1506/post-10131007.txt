@@ -1,0 +1,11 @@
+Han_Zen
+Apr 24, 2023
+#30,106
+Jorki Rasalas said:
+Mmm, that’s what I suspected...though hadnt realised player factions were allowed to change the system description. Bad move!
+
+Next question- is there an easy way of checking for anagrams against known system names? Unfortunately I’m no programmer.
+It's wasn't as much changing as adding. Player factions were allowed to submit a system description for their home system. FD then edited the texts (mostly shortened) and added them to the game. I don't think many of these systems had any description, before player factions.
+I was part of the writing group that made the description for Varati (player faction Canonn). We made up a bit of history for the system. FD approved most of it and put it in.
+Reactions:
+CMDRCorrMorningstarFelian, yelboc and Jorki Rasalas

@@ -1,0 +1,36 @@
+simulacrae
+Feb 6, 2024
+#33,284
+Louis Calvert said:
+In relation to the above discovery, which I refer to as the "D7 Anomaly". I've been doing some stuff. Posting here with D7's permission.
+
+I took many recordings of Hyperspace from the bubble all the way to the centre of the Galaxy:
+So far I've found no significant variation (i.e. it doesn't get weaker or stronger that I can see anywhere along that route).
+Location may cause it to vary, it's just I haven't found any variation myself in the limited testing I've done.
+I then took the cleanest image of it I could get by fiddling with spectrogram settings into krita (photoshop-like software) and adjusted the levels and contrast to bring out the shape a lot more. I then use a partial opacity eraser to knock back the background to bring out the shape.
+
+This image isn't me drawing over the shape, this is the shape that's present, it's just enhanced to make it easier to see. I encourage anyone to do this (Krita is free).
+
+You'll notice on both of these there appears to be something sticking out of the bottom right of the shape, a long thin double line with what might be a circle on the end, and possibly something similar on the left corner too. I only noticed after making these images (I did this a few days ago and have had more time to look at them!). So there be more to it that I was too heavy-handed on erasing in the original pass, I will continue to attempt to get better versions.
+
+As always, I would encourage people to try this for themselves. To investigate this yourself all you need is Audacity to see it. Krita, or photoshop, or similar helps for making the spectrograms more visible, it is a small shape. There are no special conditions; it appears in every hyperspace jump I've recorded, it can be hard to spot but D7 highlighted where it appears - it always appears in the same place - once you see it it's hard to see it
+
+
+If you record while facing forward (the default position), the D7 artefact only appears in the LEFT channel audio.
+For reasons I won't go into now (still testing), I started recording while looking in other directions:
+: The audio source that makes this shape is coming from somewhere on the LEFT side FORWARD of the ship.
+
+After a little testing I found that looking about 45 degrees LEFT while in Hyperspace gets the D7 anomaly to appear in both LEFT and RIGHT channels equally, implying that (For whatever reason) the audio originates from that direction in Hyperspace. There might be an up/down component to it too, but I can't really think of a way to test that.
+
+
+Using youtube recordings of other people's hyperspace jumps I have confirmed it exists in recordings from as far back as 2017, possibly further. It gets clearer and easier to see post-Odyssey when the Hyperspace graphics were changed (actually it was more that stuff was removed).
+
+
+I have no idea what this is, what it means, or even if it means anything. It may well be a developer joke for all I can tell. What I can say fairly certainly is that it's not random noise or Pareidolia; This shape does exist in all audio recordings of hyperspace, as first identified by in the post above.
+
+The area it appears in is the block of sound that can be described as "whispers". I believe this is directly related to the Raxxla Codex clue: "To the whisperer in witch-space...", but... I don't know what it means even if it really is that connection?
+Click to expand...
+
+Ive been playing a little with this - but im having trouble seeing it. There is a spot that i think is it… but want to know if you can give a relative time stamp or show the area within a full jump. I will have to play around with moving my head around too i guess. - ive been doing recordings as i make my way slowly towards SagA. Just passed Thors Eye.
+Reactions:
+Quaero

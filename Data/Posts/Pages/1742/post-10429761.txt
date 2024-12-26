@@ -1,0 +1,47 @@
+Neestar
+Sep 16, 2024
+#34,836
+Ian Doncaster said:
+Sure. I don't know what I'm looking for out here so someone who wasn't looking for it might not recognise it either. But that doesn't give me any hints towards what I should be looking for either...
+i'm hoping the only legit "hints" needed are within the CODEX and based strictly in-the-game. Sorry but i just find it very hard to believe some Developer ( or Developers ) consciously created such a tantalizingly mysterious carrot-on-a-stick for gamers to chase going on nearly 10 YEARS, only to have it require outside references ( books or whatever) to the point of near college level of external reading & homework.
+
+imho, everything we need to find RAXXLA is buried ( or surfaced ) within the game itself. However, what i am wrestling with is: Do you need to be in the 'Horizons' version of EliteD to find RAXXLA? Or can it also be found in the 'Odyssey' version? Because if it's only in the 'Horizons' version , then someone like me who purchsed the Steam/Odyssey ( entire game ) version is totally out-of-luck, no? Since i have no idea how---or if---my game client can even access the 'Horizons' version. And even if i can , how do i know which version to be in for RAXXLA pursuit?
+Ian Doncaster said:
+True in the case of a random system. I'm poking around in and near one of the most well-explored nebulae in the game that's been a waypoint of multiple organised expeditions. Every system here has been repeatedly scanned and many of them have full sets of first mapped and first footfall tags too. If there's something here, it's either hidden in such a way that normal exploration tools won't find it, or it's in plain sight in such a way that normal exploration tools won't highlight it.
+"if one has the eyes to see it" ---- What if that means a player needs to use a certain in-game mechanic, before the ability to "see" RAXXLA ( or any clues therein ) is triggered within the client code? Or maybe some sequence of scans triggers something SERVER side? I'm just trying to think here in terms of standard confines & limitations of typical video-game MMO coding & functionality.
+Rochester said:
+Good point.
+i'm guessing you either ignored or missed my entire post reply to you earlier--> https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-10429276
+
+If so, np i'll stop replying/quoting you so you won't get any more notification pings. ( sorry about that ! )
+Rochester said:
+I have read Sun Dragons and Tau Ceti. I cannot find any direct reference (to date).
+
+So if Legacy is the correct source, I believe the codex is the key, and that it’s multi layered, so it’s open to debate.
+i agree the CODEX is indeed the key but i also think it can be a quagmire. And i really hope the latter wasn't the true 'FDev' intention
+Louis Calvert said:
+There's lots of "Dark Wheel" factions, maybe hundreds of them (the player factions are likely candidates for this too). I still maintain that we (players seeking out mystery) are supposed to be the "Real" Dark Wheel at this point (or factions thereof),
+So yesterday, i achieved 'Ally' status with that aforementioned 'The Dark Wheel' faction i had found ( thinking it was some amazing discovery, before i had read Ian Doncaster's post i quoted ) and so now i'm wondering if this new status i achieved thru in-game missions has somehow triggered a layer of code for my character.
+
+Or....is it just as insignificant as getting allied with any of the 9874325987345340989534 random factions i've encountered at nearly every station or settlement?
+
+Time will tell. ( either way i certainly had fun running the various types of missions )
+Jorki Rasalas said:
+The E/F missions disappeared in 2016. They were bugged, but they could have been fixed, so the fact that they were instead totally withdrawn suggests to me that either their purpose was OBE, or that they were too successful. This might be supported by the lack of FD clarification over their disappearance-they do not comment on anything related to Raxxla.
+They don't seem to comment on much of anything lol. Probably too busy coding & such. ( plus, these forums are usually the worst place for Devs/Coders to frequent )
+
+Would be pretty neat ( and inspiring ) though to see just ONE official post in this thread from 'FDev' . No need for any words even. Just a simple acknowledgement emoji or cryptic symbol would go a long way imo.
+Jorki Rasalas said:
+So why were those missions withdrawn? Could be that FD decided on commercial grounds to emphasise the Thargoid storyline and concentrated effort so something had to go...
+i asked that very question in my earlier previous page post--> https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-10429034 ...but no one seemed to answer it. Of course, i suppose it's also an unanswerable question lol ( at least by us ) .
+
+Yesterday, after i had finish getting 'Ally' status with "The Dark Wheel" faction , i was meeting one of my last 'bubble' Engineers who wanted me to bring 'Lavian Brandy' and so i was just exploring a nearby system ( like the 5-month-newb that i am ) and i stumbled upon the 'LAVE' system. Obviously, i was wondering about the whole "Lave" as in "Lavian" connection and so i asked a pilot buddy ( vet ) and he said "yeah that's where you buy the Brandy from" . Okay cool so my hunch was correct! ( albeit elementary obvious lol )
+
+So anyways, as i'm delivering the Brandy ( 3 trips ) i'm also of course exploring & scanning the system & planets & such , etc. And i then of course stumbled upon----you guessed it----the 'LAVE 2' permit locked planet/plane. And long story short , many hours later, nothing i was doing ( missions, stations, landings, etc. ) was working. Just couldn't figure out where/why the game wasn't letting me get into that 'LAVE 2' area , even though i was already allied with local factions AND had already unlocked the Didi Vatermann engineer from Lavian Brandy delivery. So........
+
+... i then do a forum search and unfortunately find this---> https://forums.frontier.co.uk/threads/lave-2-is-raxxla-but-frontier-permit-locked-it.548712/
+
+Bummer. However, maybe it's part of 'FDev' master plan, once Thargoid chapter is soon complete? Maybe then all these "abandoned" contents/permits will finally be utilized as the penultimate "endgame" before this current incarnation of Elite Dangerous is retired? And just maybe PowerPlay 2.0 is the beginning of the long end?
+Last edited: Sep 16, 2024
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

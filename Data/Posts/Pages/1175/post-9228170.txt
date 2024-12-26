@@ -1,0 +1,15 @@
+simulacrae
+May 28, 2021
+#23,481
+Cmdr Unknown said:
+Thank you for the replies. @Carlos Sagan Although i don't quite get it, what you're trying to tell me ;-) The region borders seem to be completely disconnected to the game's grid system, so i don't know how coordinates alone would help me... @simulacrae Thank you for that input. I started checking distances of your reference coordinates by a "highly scientific" method that just came to my mind (see pic below)... I found, that your coords are only off by a little bit. It is correct though, that at least in one case the region borders are aligned in a perfectly parallel way to the grid lines. And these are the "north-south" going borders, that are laterally offset to the "0-meridian" by some 400+ ly.
+Long story short: i found 420 / 0 / 26900 to yield the best result i could come up with so far. Still probably off by a good dozen ly though...
+
+I think if you drill down you will get better results - What I did was go to the borders and zoom all the way in and then move the cursor till the text changes from one galactic sector to another... there is your line - then try to find a system that straddles that border (or gets pretty close) - thats what I was doing. Also the lines do not match up with the grid lines - the lines that define the galactic sectors are related to the galaxy map in the codex ... which is not the grid map. It has the zero point where we are looking - not at sol.
+
+I do like that they came out pretty close either way though - just a matter of moving around in that column - maybe we will find something
+
+hmmm other thing that bothers me about the codex map is - Why is it divided into 93 slices.... three 'quarters' of 23 and one of 24 slices.... very annoying. Unless it was just a way to convey the numbers 23 / 46 / 69 ?
+Last edited: May 28, 2021
+Reactions:
+[PS4] Filthymick420

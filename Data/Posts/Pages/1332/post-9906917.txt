@@ -1,0 +1,4 @@
+yelboc
+Aug 8, 2022
+#26,626
+Almost certainly a station or installation with the orbit lines turned off on the hud. Note no other orbit lines visible. This is the sort of thing I used to use as practice for dropping in on things based on their emitted light only.

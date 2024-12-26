@@ -1,0 +1,25 @@
+Jorki Rasalas
+Jul 7, 2021
+#23,926
+Aurora Velius said:
+I sure do! Perfect to make a new coffee while waiting to arrive, and maybe read something on the side Visited all the ancient probes, then went asteroid hunting. I haven't really formulated a plan yet, so I just got myself familiar with how to find the invisible areas where the HUD suddenly jumps to the asteroid hologram. Speaking of jumping, the bouncing around the system orrery view is really weird.
+
+So far all I managed is screenshotting the edges of where the fields start. Sketched out a rough outline for 1 one of them, currently trying to do the same with another one. This is a very rough estimate how the area looks like, so don't rely on this too much when trying to hit that asteroid zone.
+
+View attachment 248133
+Click to expand...
+Yes, a better understanding of how the asteroid clusters are located will definitely help!
+
+A thought occured to me this morning. We know there are 8 clusters, cos that’s the number shown in the FSS.
+How about if this puzzle is similar to the data points at surface settlements-you have to visit all of them within the timer limit to enable the reward?
+
+To pursue this possibility we need to understand better how they are located, whether their location is the same for everyone & whether it’s a repeatable sequence or it’s just RNG. Might it be that the “instant transport around the belt” (when your position jumps temporarily 15 sectors around the belt according to the orrery view) on finding one is not actually a bug, but a part of this as a timer puzzle? Is it perhaps a hint where the other clusters are located? I’ll look at the location sequence I found back in December when I was flying around the belt endlessly....
+Edit: ah yes, https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8994989
+I found them in sectors 5, 17, 8, then in 21, 5, 22, 5, & then in 21, 17, 6, 15, 8, 11, 19, 5, 19 & 6. Which means I found them in 10 different sectors. However the ring is rotating so this may affect things. I spread my searching over several weeks, perhaps it needs to be done in one go? Or perhaps when 8 have been located a mysterious 9th is unlocked??? The possibilities are endless!
+
+The main asteroid belt has inner radius 1027 ls from Sol outer radius is 1631 ls, so middle is 1327 ls. Semi-major axis distances from Sol are: Asteroid Ceres (2.7691651545 AU/ 1,381.8 ls), Pallas (2.773841434 AU/1,384.1 ls) & Astraea (2.5735 AU/1,284.2 ls). Those are just the ones I made out of the potential book title anagram, but I think Ceres is the likeliest.
+
+Though the Hilda asteroids (https://en.m.wikipedia.org/wiki/Hilda_asteroid) move in a sort of curved triangular orbit at ~ 4.0 AU semimajor axis = 1996 ls. Might be worth another look.
+
+@Han_Zen: I seem to remember you commenting about the astronomical position of bodies in-game being based on current 2021 positions rather than what they would be in 3307, is that correct and where did the reference come from?
+Last edited: Jul 7, 2021

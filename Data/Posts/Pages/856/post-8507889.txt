@@ -1,0 +1,17 @@
+SandDamn
+S
+Jun 8, 2020
+#17,118
+There are three kinds of "rogue planets" in the game.
+
+The first are the invisible stars on the galaxy map. THey were originally intended to be navigational hazards: if you made a jump from system A to system B, but there was a rogue planet system C somewhere on the line between them, then your FSD had a mis-jump and dumped you down at the rogue planet system C, instead of your intended destination B. The idea of such mis-jumps was dumped way back in pre-Alpha testing, but assuming the galaxy was designed with them present, then they're still there, and it is these objects that the "Rogue_Planet" object class is presumably attached to.
+
+Second, we have the entirely virtual "rogue planet encounters" that the Stellar Forge might throw at a procedurally-generated sytem some time in its synthetic history. You never see these planets, they're just probability-clouds that come in and disrupt the planets in a star system as the Stellar Forge runs quickly through it's history to generate the star system's stable orbits once the algorithms are complete. You never see them, but you see the results of their passing, in planets with highly inclined and/or eccentric orbits. "Rogue planets" are down toward the lower end of the possible mass-range of interstellar intruders.
+
+Third, we have, sometimes, the Stellar Forge calculating that one of the second type of Rogue Planet actually gets captured by the star, and ends up being generated as an actual planet, in a stable (though highly inclined and/or eccentric) orbit. You can often tell the difference between a "captured rogue planet" and a "native planet that's had it's orbit knocked about" by comparing its composition to the other nearby planets. If you find a string of iceballs, then a large Heavy Metal or Gas Giant planet in the outermost planet position, then that's a captured rogue.
+
+Only the third type of rogue planet is actually visitable in-game right now.
+Click to expand...
+From this thread. So I wonder maybe Raxxla is first type rogue planet from post? It explains the low possibility of encountering and toast describes the 3 points that points the location of rogue planet system, only accessible by FSD misjump.
+Reactions:
+[PS4] Filthymick420, PeteACarter and Rochester

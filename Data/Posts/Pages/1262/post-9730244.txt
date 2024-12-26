@@ -1,0 +1,9 @@
+Jorki Rasalas
+Feb 5, 2022
+#25,235
+yelboc said:
+I think Jorki is referring to the exploiting of the games overflow behaviour in the galmap.
+Thanks mate
+Yes, this was what I was referring to, specifically the apparent use of software to exploit this bug which I think may contravene EULA clauses 3c and 3d.
+Reactions:
+Rochester

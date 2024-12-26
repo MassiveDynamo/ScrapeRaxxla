@@ -1,0 +1,29 @@
+Jorki Rasalas
+Jul 6, 2024
+#34,456
+Ian Doncaster said:
+The seed you wouldn't be able to pick up easily because that's likely buried deep in a sub-branch of the Stellar Forge code. Maybe the body ID, but even if that's true it implies that there was a pre-Journal means to find the right ring system another way so it could be corroborating evidence at best.
+
+
+Location within a planetary ring has the major problem that planetary rings rotate and are attached to something which follows an even more complex course, so establishing a consistent landmark is going to be really tricky - background stars, other moons or planetary bodies, etc. would all only be usable if the target was powered and following an extremely rapid counter-rotational course (which should involve sufficient energy usage to be detectable!)
+
+In terms of things which rotate with the ring they all have a challenge being used as landmarks:
+- hotspots have been re-rolled in terms of both position and content at least once since 3.3
+- RES sites have been re-done at least twice since 1.0 (and would only apply to an inhabited system)
+- NSPs are inconsistent about whether they show up at all (and I don't think there are any in the bubble, if that's your search area)
+- visible stations/installations in rings [1] are rare and I think Colonia 4 is the only case which has two ring-reference-frame objects
+(though Raxxla's position could be defined internally in terms of them and therefore automatically reposition if RES#1 and Hotspot#4 move)
+
+The direct line between two hotspot centres or two RES sites is a much more practical search area (though still multiple hours per pair in a typical ring system), or you could use a single one to establish a line with the planet centre (or a radius, though that would be a much harder search!)
+
+
+[1] It does occur to me here that in terms of "contained in a ring" and "somewhere near the bubble" and "secret" the Dark Wheel Station is in many respects a more likely candidate than Raxxla itself, especially since we've been given a direct hint that it's associated with a gas giant with particular properties. Still, getting access to their list of places Raxxla isn't could still be extremely valuable.
+
+
+No - you could arbitrarily pick a planet, define its North relative to rotational direction as usual, establish a vernal equinox by analogy, and get an RA baseline to go from there ... but that seems excessive.
+
+That said, I think the "Right Ascension XXLA" theory is probably about as plausible as my "we already found it but didn't recognise it because it was so unimpressive Ra X (XL) a" theory.
+Click to expand...
+Thanks! Didn't realise hotspots, RES etc had been "reset" at all- do you mean they've actually moved location?
+
+I remember reading (fairly recently) a rather prickly response by MB along the lines of "I've never said Raxxla has been discovered", though of course I didn't note the reference at the time and since then can't find it. Of course it might have been discovered since he left ED, but I suspect FD will loudly announce it's discovery, if that ever happens!

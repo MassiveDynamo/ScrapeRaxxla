@@ -1,0 +1,12 @@
+Han_Zen
+Sep 24, 2018
+#3,597
+Jorki Rasalas said:
+I believe someone looked at the Journal file format when it came out & that has object types that include those. But can’t find my link to that journal spec. Should be googlable!
+
+I remember the exotic star class. The classes were listed in open text files in the beginning.
+
+I can't remember any rouge planet, but that does not mean it's not there.
+
+Rouge planets would be like any other planet in a system, except that they wouldn't orbit any star.
+They could potentially switch systems, but this would be rare. Systems are big and planets move slow, so it wouldn't happen every Thursday morning. [big grin]

@@ -1,0 +1,61 @@
+Jorki Rasalas
+Aug 6, 2022
+#26,602
+This is what I found for Zearla:
+
+1
+Synuefe XX-F d12-1048617
+Zearla 1
+2
+Synuefe XX-F d12-2097193
+Zearla 2
+3
+Synuefe XX-F d12-3145769
+Zearla 3
+4
+Synuefe XX-F d12-4194345
+Zearla 3 a
+5
+Synuefe XX-F d12-5242921
+Zearla 4
+6
+Synuefe XX-F d12-6291497
+Zearla 5
+7
+Synuefe XX-F d12-7340073
+Zearla 6
+8
+Synuefe XX-F d12-8388649
+Zearla 7
+9
+Synuefe XX-F d12-9437225
+Zearla 8
+10
+Synuefe XX-F d12-10485801
+Zearla 9
+11
+Synuefe XX-F d12-11534377
+Zearla Comet 1
+12
+Synuefe XX-F d12-12582953
+Zearla Comet 2
+13
+Synuefe XX-F d12-13631529
+Zearla Comet 3
+14
+Synuefe XX-F d12-14680105
+Zearla Comet 4
+15
+Synuefe XX-F d12-15728681
+Zearla Comet 5
+16
+Synuefe XX-F d12-16777257
+Payson Hub
+17
+Synuefe XX-F d12-17825833
+Perga Port
+18
+Synuefe XX-F d12-18874409
+game crash
+Reactions:
+Han_Zen and Emperor

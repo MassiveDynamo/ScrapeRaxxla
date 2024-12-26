@@ -1,0 +1,13 @@
+Louis Calvert
+Jan 13, 2023
+#28,882
+From my limited experience making puzzles in games, most of the time if it's not an explicit puzzle (as in the examples above where we were told there's a specific puzzle and given clearly coded clues) it just won't get solved - a lot of the time players don't even notice there's a puzzle to solve if it's not pointed out.*
+
+As far as I know all puzzles in Elite have been telegraphed, either by hints from the devs or by obvious codes via Listening Posts and suchlike. From what I recall the puzzle of the UA's was only cracked once someone (Brookes?) suggested they should be listened to.
+
+I keep thinking about the Formidine Rift mystery - despite all the people searching no-one found the Zurara until Fdev added in the cypher clue that literally gave the system name. While the ship model was updated to a megaship, the location was always the same (afaik). It was just too large an area to search, too many stars, too may possibilities. Even "Drew's Clues" seemed to just add more confusion rather than helping to solve it.
+
+*Edit - just want to say that's not because players are stupid, it's the opposite, players (in my limited experience) tend to way over think a simple but non-specific puzzle and talk themselves out of the solution they correctly got in the first 5 minutes.
+Last edited: Jan 13, 2023
+Reactions:
+Crimson Echo, Rochester, John Stoutbeard and 1 other person

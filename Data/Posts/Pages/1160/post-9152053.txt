@@ -1,0 +1,14 @@
+Jorki Rasalas
+May 10, 2021
+#23,199
+Han_Zen said:
+I was definitely considering Bovomit as a possible Tartarus. There could be a few places that needs to be identified, to find the axis of the Raxxla logo. I'm not sure if that one is flat or 3D. Not sure if Sol is a the centre either.
+I'll probably try to make a 3D plot and see if anything converges.
+
+The Neptune Axis is interesting. It has a north pole of RA 19h 57m 20s DEC 42.950°. That should give a south pole of RA 7h 57m 20s DEC -42.950°. That line hits the Regor sector. It's also close to RA 20 (North).
+EDDiscovery used to have a really useful map capability. Dont know if its still working, not tried it for a while & seem to remember reading on the EDD thread it was giving problems and had been disabled for correction, but then I’m one version behind...
+Of the species we know of I think Oresrians are Col70, Klaxians are Coalsack, then there are Guardian emigrants, Guardian AI and Rogue Human AI. So that gives three future discoveries/conflicts. Of the locked areas there are Col70/Cone/Horsehead DR, Bovomit, Regor, Bleia 1...5, Sidgoir, Dryman, Froadik, Hyponia, Praei 1...6
+
+Some will be for FDev test purposes. Others...
+Reactions:
+[PS4] Filthymick420

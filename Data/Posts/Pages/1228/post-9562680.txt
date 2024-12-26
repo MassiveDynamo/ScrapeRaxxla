@@ -1,0 +1,10 @@
+simulacrae
+Oct 19, 2021
+#24,551
+Well looks like the Odyssey dash code in the orange rotating version of your ship ... has changed..
+
+
+
+This is roughly what I get now... different than it was before but still not sure what to make of it. It does kind of remind me of the dashes in the system map for the planets. I assume the ones around the planets represent various aspects of the like circumference or gravity etc... but havent spent enough time checking them to make heads or tails. Are other people seeing the same or something different?
+Reactions:
+Djidjel and Rochester

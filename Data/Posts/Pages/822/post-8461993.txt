@@ -1,0 +1,28 @@
+Ren Solsen
+May 15, 2020
+#16,428
+@drew
+
+I have found Raxxla. Not THE Raxxla, a sort of Raxxla in Oolite planet generator spreadsheet. This won't make much sense, but let me try to explain:
+
+Elite used a string ( @@LEXEGEZACEBISOUSESARMAINDIREA'ERATENBERALAVETIEDORQUANTEISRION ) for planet description, name and etc. At least in Oolite, planet names consisted of 4 diagrams of a pair of characters on the string above (LE - XE - GE - ZA, etc) and a variable that said how many diagrams were printed.
+
+Lave for instant printed 3 out of 4 diagrams: LA - VE - @@ - IN (the @@ were null and the last diagram was not printed)
+
+I thought RA XX LA fits in this way of generating names. Both RA and LA are valid diagrams. However, XX isn't. So, what if the XX is a null (@@) made visible? I went looking. I found something. It doesn't fit the rules, but its the closest to Raxxla I have ever been
+
+There is only one system in the 8 galaxies were my crazy theory kind of fits. One system as the following diagrams: @@ - RA - @@ - LA. If I make the null visible by swapping to XX it reads XXRAXXLA.
+
+Now the bad news:
+1 - there is an extra XX on the front
+2 - That system has the variable to only print 3 diagrams: XXRAXX
+
+So that's it. A mere coincidence.
+
+Do you know what system is that? Well, if the XX are silent we are left with RA, the mysterious system on E.D. no one can agree if it is the original RA in a very odd place far from the core systems where it belonged or a new totally unrelated RA created after the Egyptian god only for E.D.
+
+In a stretch of the imagination, I confess, one of the systems of the old Elite currently on E.D, kind of spelt Raxxla... Yes, coincidences of coincidences... All the ingredients of a good unsolvable mystery.
+
+Fly safe CMDRs
+Reactions:
+PeteACarter, Machina Ergo Sum, Tigorath and 2 others

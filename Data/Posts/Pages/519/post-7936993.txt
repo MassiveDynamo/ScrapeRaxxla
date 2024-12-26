@@ -1,0 +1,12 @@
+Han_Zen
+Aug 8, 2019
+#10,377
+Scytale said:
+Would that be kind of like having a known vector (with the corresponding right RA and Dec) and then multiplicating it by small steps until meeting a system close to it ?
+Jepp.
+
+You could do a coordinate search in Simbad, to get an approximate direction to a RL star. Then check with edsm on proc gen systems in that region, to get a more accurate direction.
+
+If you get to far out before finding a good system, you get very long steps. Then you can divide all 3 coordinates by the same number. The vector remains the same.
+Reactions:
+Scytale and PeteACarter

@@ -1,0 +1,32 @@
+John Stoutbeard
+Mar 5, 2020
+#15,579
+SkyRock said:
+B1455AJ63D6CH04FICDGD50B36F47E95JD2D859C4C3I33672F4F2GB5AFJI1C952D
+
+8C1A716163987C02A88703280304BC334B7907B674849B6119A966280CA156B13B6B567C5C837
+
+23250327276663B98A590352A066A18277134680830538B45997BA9A152842992518192B07113005
+
+9FCEC5D4DJK57KBFI08FI38B2257I8804HJ138IJE8CIDCI2HAF73FIJ0CBK7CK88
+
+AK3HI43CJ7J1KFFKDE237AH993J8HB17EC2KB7JDGE92G3KAHE46C7HAG457
+
+you better not know where I got them)))
+though I'm not sure that they make any sense, but still try to cost
+Click to expand...
+Han_Zen said:
+Doesn't look like code. It looks like base21 numbers.
+
+With out knowing the bit length, it not easy to make anything from it.
+
+Nice catch, HZ.
+L is part of it, so at least base 22. But then again I got (over)thinking again. Perhaps Base 60, Sexagemisal.
+Sexagesimal - Wikipedia
+en.wikipedia.org
+"Modern uses for the sexagesimal system include measuring angles, geographic coordinates, electronic navigation, and time. "
+I can't see sexagesimal values in the streams there though, unless I'm missing something.
+
+But as you said, without knowing how long the wordlength, it's hard to see what it could represent.
+Reactions:
+Han_Zen, Machina Ergo Sum and [PS4] Filthymick420

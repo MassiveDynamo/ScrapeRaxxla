@@ -1,0 +1,20 @@
+Han_Zen
+Sep 25, 2018
+#3,612
+Thatchinho said:
+Hmm, I think the implcations of it being from the Star Descriptions list is that the Rogue Planet would be a jump destination in it’s own right rather than a body in a system.
+
+From what I remember of how the Stellar Forge works, I would guess it could be a result of:
+
+- there not being sufficient material in the original gas cloud for any bodies produced to achieve fusion
+
+- a random event displacing a planet or somehow preventing star formation
+
+Just speculation though!
+
+It looks like the rogues are their own system. It also looks like nebulae are their own systems.
+A nebula is searchable in the galmap, but not possible to select. They don't show up in the nav panel.
+
+Some nebula share coordinates with a star, like the Pleiades and Maia. Other nebula have no star at their coordinate.
+
+If rogues are in the game, don't think they show up in the nave panel. Someone should have found one by now. Statistically there may be billions of them in the galaxy.

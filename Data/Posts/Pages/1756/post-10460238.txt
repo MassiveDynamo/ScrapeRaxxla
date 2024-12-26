@@ -1,0 +1,39 @@
+selbie
+Oct 24, 2024
+#35,109
+Ian Doncaster said:
+Counter points:
+1) The report in that particular clip is about four years after the Lavecon in question (and I can't find a more contemporaneous reference that's better than two years old and in that case at least third-hand, which is still surprising!); it might be reliable for a general impression but I would definitely not rely on it as a word-for-word transcript of what MB said [1].
+2) Depending on precisely what Raxxla is and how it's hidden, being present in the system might be almost irrelevant to finding it, so I think "was therefore expressing how close players came to finding it" is a very unsafe conclusion [2]. A lot of people mentally add the follow-up "and if they had scanned the system they'd have found it easily" but no account has that actually being said.
+
+[1] There's a big difference, for example, between "a CMDR has visited/honked" and "a CMDR could have visited/honked" which the passage of time (and the apparent absence of contemporaneous reports) might hide.
+[2] Statistically, a system visited at least once in the first two years of the game has probably been visited at least five times by now. So ... did none of the later visitors look around either? (Obviously there's a chance that it's a system sufficiently away from obvious landmarks and paths that being accidentally visited even once in a decade is still beating the odds ... but in that case clearly "randomly stumbling across some obscure system several thousand LY from the bubble" won't be the intended way to find it either)
+
+
+Our ability to define the position of the signal has enough error in it that we don't know exactly where it is, but that doesn't mean it's not (in) a definite place.
+
+The Colonia Nebula doesn't have a precisely defined position that we can determine (and the map label won't visually get us more precise for its centre than the approximations used for the signal), but if we're talking about its extent are we talking about the visual one, or the larger region in which nebula-dependent life like NSPs or Electricae are found, or the collection of systems within either of those extents but not the space in-between? A "definite place" doesn't have to be small nor precisely positioned.
+
+
+I think "Raxxla is smaller than a star system, and also within one" is almost certainly correct. Even doesn't rule out the landscape signal entirely, since we know that star systems can be completely hidden from our map.
+Click to expand...
+Yes very fair points. It is such a tragic shame we don't have MB around to help verify past answers he gave
+
+On 1)
+I'm not sure if it matters how well Ascorbius remembers the answer verbatim because it seems hard to believe he would misinterpret what would be a fairly straightforward, short answer from MB. Besides, anyone who is familiar with Raxxla would have it burned into their memory, even years later . So even if we play devil's advocate and it was a glancing impression, it is still very valuable as a direct eyewitness account of MB's answer.
+As Ascorbius states "the system where Raxxla is in" - he is genuinely trying to convey to us that MB meant Raxxla is not the system itself - hence the use of wording "is in". As such, I find it hard to doubt fact #1.
+
+Similarly, on footnote [1] there was no specificity about "honked / scanned" which I find is easily injected into the accounts by extension.
+"Entered at least once" can only mean visited and whether or not a player honked or scooped is irrelevant to establishing fact #1.
+To the notion of MB using vagaries like "may have" or "could", this would have been picked up easily by Ascorbius. The use of "has been visited at least once" qualifies that it was not vague and, to be clear, I am certainly ignoring anything he speculates about after with what actions the commander may have taken.
+
+On 2)
+To clarify, there was no intention of associating the idea of finding it as part of the established fact. I certainly muddled things a little by adding the extrapolation after proposed facts 1 & 2. My main point is that #2 is a logical companion to #1 because, whatever Raxxla is, it is something located within a system and not something immaterial beyond a system and our ability to visit. Systems spawn because the server permits our client to load it (hence why a Permit Lock is impossible to enter). Thus it can only be inside and not a signal or something like the Stargoids that can be equally observed from other systems.
+
+On footnote [2] I have seen a lot of systems where EDSM has recorded Cmdrs passing through, but there were some I had noticed that have not been fully scanned. Thus there is a likelihood that the system Raxxla is in may have indeed been visited AND honked many times by now, but that would only go as far as revealing planetary bodies. It can't be a surface site (existing pre-Horizons) and it can't be a station-like object that would show on contacts because in both cases the honk / FSS would pick it up.
+Additionally the only way we can detect something near a body or within a body's ring would be in close proximity or via DSS probe. Yes statistically it could have shown by now, but also consider these are extra steps a lot of commanders seem to skip - especially if the bodies such as ice / rock type are worthless to scan - ie an "unremarkable moon". In my system scan explorations I consistently see low value bodies getting skipped - especially those without atmospheres.
+
+Quite a cunning little trick MB played Hide it in plain sight behind the gameplay system of worthless scan values.
+Last edited: Oct 24, 2024
+Reactions:
+Tifu, simulacrae, Rochester and 2 others

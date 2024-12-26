@@ -1,0 +1,54 @@
+Jorki Rasalas
+Aug 7, 2024
+#34,569
+Rochester said:
+I always remember Brookes admission: “Not all stars have planets, but then again not all planets have suns either”
+
+Post in thread 'All things Frontier Developments at E3 2014!'
+https://forums.frontier.co.uk/threads/all-things-frontier-developments-at-e3-2014.21048/post-470085
+
+If that were the case, surely such a system would not appear in the Galmap, however, I suspect FD take liberties with textual description, a non star based system could simply mean a system with a brown dwarf / failed star equals a low temperature gas giant?
+
+I recall how pre launch DB confirmed (as he was prone to do) that exploration involved ‘dark systems’, a rather wonderful set-up that actually enticed me towards backing the game.
+
+Such dark systems it later transpired were brown dwarfs mainly, and Brookes actually names one in Elite Legacy which is in game.
+
+I long suspect that was also the source of the hypothetical DB quote about having to scan it a few times, as that was the primary method for finding dark systems originally, scan all the systems around it and it appeared, then apparently they had ‘mysteries’ in some.
+
+I suspect the evident errors in game eg duplication, catalog etc or maintaining a stable launch may have put an end to this.
+
+Nether the less it’s a perfect way to hide a system?
+Click to expand...
+We've discussed this before:
+
+p92 "star descriptions" in v3.2 of the player journal (http://hosting.zaonce.net/community/journal/v32/Journal_Manual-v32.pdf)
+"
+(Main sequence- O B A F G K M L T Y
+(Proto stars- TTS AeBe
+(Wolf-Rayet- W WN WNC WC WO
+(Carbon stars- CS C CN CJ CH CHd
+MS S
+(white dwarfs- D DA DAB DAO DAZ DAV DB DBZ DBV DO DOV DQ DC DCV DX
+N (=Neutron)
+H (=Black Hole)
+X (=exotic)
+SupermassiveBlackHole
+A_BlueWhiteSuperGiant
+F_WhiteSuperGiant
+M_RedSuperGiant
+M_RedGiant
+K_OrangeGiant
+RoguePlanet
+Nebula
+StellarRemnantNebula
+"
+
+so a Rogue Planet could act as a star in its own ED system so we could fsd jump to it. It would be very small mass compared to a star so IIRC the system name (if discovered) would end in "a".
+
+Doesnt mean there are Rogue planet systems in ED, but that comment by MB suggests there could be. Could be a hiding place for Raxxla....but how would we find it?
+
+edit:
+however that MB comment was in 2014- so a comment about an in-game implementation? or general astronomical comment? or a developer aspiration??
+Last edited: Aug 7, 2024
+Reactions:
+Han_Zen, simulacrae and Rochester

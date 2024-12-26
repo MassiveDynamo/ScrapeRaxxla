@@ -1,0 +1,9 @@
+Hanerib
+Jul 30, 2019
+#9,969
+DrewCarnegie said:
+Given that nobody has actually solved the n-body problem, it's probably asking a bit much of 'realism' in a computer game to handle it.
+
+What? No it's not. FDev should work out these things for their video game, maybe add it in a patch next Thursday. Even the light hasn't been properly simulated according to the theory of relativity. I mean, Skyrim has pretty dynamic lightning too. How about time dilation? That's why we buy ship skins.
+Reactions:
+Deleted member 52630, CMDR Josky and [Diplomacy] Carnegie

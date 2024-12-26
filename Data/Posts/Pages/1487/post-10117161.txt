@@ -1,0 +1,56 @@
+CMDRCorrMorningstarFelian
+Apr 4, 2023
+#29,736
+Jorki Rasalas said:
+Do you have a source reference for that purported MB refutation? Because when I tried to get clarification I just got the standard “no comment”.
+This is currently believed to be nothing more than a rumor. However, Independent Raxxla Hunters discord didn't have the video which I may have just located...
+
+Check out this video "[TIIQ] Michael Brookes Lore Interview" https://www.twitch.tv/djtruthsayer/v/66485194?sr=a&t=76s
+
+Other bits of confirmed official statements that IRH discord have collected over the years:
+
+Confirmed Information
+
+⬣ Raxxla does exist: <
+Source: https://youtu.be/-f7Zx7WUwF0?t=13m43s
+David Braben: "What a silly question, of course!"
+He didn't say "You don't know what it is" as an answer to the question, he said it to the guy sitting next to him. However, we don't know what it is since we haven't found it yet.
+
+⬣ Raxxla is in the Milky Way: <
+Source: https://www.twitch.tv/videos/66485194?t=46s
+Michael Brookes: "It's in the Milky Way, but I can't tell you where at this stage. It's a journey that everyone has to travel for themselves."
+There will be no clues, "but I think you'd have to make some of it a tiny little bit obvious so people know what they're doing."
+
+⬣ FDev doesn't share information on Raxxla with writers, including Drew Wagar:
+-<https://www.twitch.tv/drewwagar/clip/QuaintEmpathicTildeSSSsss>
+-https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-2889827
+"The subject of alien races came up and, as a writer, he reminded me of an 'Alien background doc' given to the writers as research material. I do have this, but I'm not allowed (due to NDA) to publish it. Raxxla is part of that. None of the writers were allowed to explore Raxxla, it was very much reserved for 'in-house' development (not surprisingly!).
+
+Then DB came out with his statement. I was a little surprise at what he said, but it was in a public space and others overheard it too.
+
+Raxxla definitely exists in ED."
+- Drew Wagar
+
+⬣ In 2015, David Braben said that there would be secret organisations which would invite you when you reach certain stages of the game: <
+Source: https://youtu.be/gDh9G1gDgMU?t=502
+
+⬣ Currently the only reliable source for clues is the in-game Codex. Previous games and novels are mostly not canon and/or don't have information on Raxxla. They might or might not be used as resource and/or inspiration. Codex entries are below:               The Dark Wheel: http://bit.ly/TDW-codex
+
+Raxxla: http://bit.ly/Raxxla-codex
+
+Codex playlist: https://www.youtube.com/playlist?list=PLDwoKO1L_wOXx7A5sNwrQdagB_4dPi1Jc
+
+⬣ However "The Codex is a joint initiative from the Pilots Federation and Universal Cartographics": https://community.elitedangerous.com/galnet/uid/5c0fadbfa9a9182e01271bb2
+
+⬣ The infamous E/F missions that had been given by The Dark Wheel in Shinrarta Dezhra were confirmed removed from the game: https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9584643
+
+Forum post: https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/
+
+- Do not rely on all of the information posted there but it has extensive researches in it, including information regarding The Dark Wheel missions that were removed.
+
+Jorki Rasalas said:
+Sorry, the Mars Artefact disappeared?? What’s the source reference for that?
+Unconfirmed but suspected (beacon Non-human relic in Sol merely states non-human). Suspected that Marlin Duval may have snatched the Relic on her exit of Sol. Potentially related to Duval Artifact mission from First Encounters (though there is debate that this may be a separate relic possibly from Exioce), further details about Hengist Duval getting cut on said relic/artifact before being stolen back to the Federation. The Relic/Artifact then goes missing in Beta Hydri. Wanted goes further into this bit of lore and the last person in possession of it was CMDR Khanguire's son, Ji Khanguire. He is given it before departing Whit's Station in the Reddot system (in-game) towards the opposite end of human space with a new identity. The crash at Mitterand Hollow may or may not be related.
+Last edited: Apr 4, 2023
+Reactions:
+]M[, Zieman, Darrack and 2 others

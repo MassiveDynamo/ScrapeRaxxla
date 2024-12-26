@@ -1,0 +1,20 @@
+CMDR RDZ
+C
+Jun 8, 2022
+#26,320
+simulacrae said:
+Im using Sketchup - importing data from eddb or in the case of the codex maps im just using the ingame grid map to get locations then putting them in a table (csv) and importing into Sketchup - then once ive got the points placed i take it into Photoshop to pretty things up.
+My corrent views on this topic, after some investigation... I do belive this system is ither located on the right side of the bobble, or bewond and below (guadian space perhaps, coulsack, or more to the right?).
+Note:;
+-It seems to me that Fdevs intencionaly inverted the img so it would be harder to ID the system. (original is upside down)
+-Notice the "dust shaped bird" that represent the stars gap (on the full galaxy map at the left.img) almost as no light on the left wing in the station view?
+(this seems like a tangend view, as if you are looking at it from the right and not directly in front)
+
+(keep in mind im no expert in trignometry.. i did all this only by looking at prespectives, and view points from galmap and alot of imgs trying to find the correct view point using the external camera)
+
+(Please fell free to "math" the hell out of this, or use other tools to find it... i dont know how to use those ): :;
+Attachments
+2022-05-22 03_45_28-Elite - Dangerous (CLIENT)_2.png
+1.2 MB · Views: 370
+Reactions:
+simulacrae and Fi5hboN3

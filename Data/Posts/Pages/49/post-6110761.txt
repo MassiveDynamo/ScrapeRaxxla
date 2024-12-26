@@ -1,0 +1,6 @@
+rOmiLaYu
+Nov 7, 2017
+#963
+There have been a few occasions where I've run across a system or a star that "didn't draw" on the galaxy map. I always attributed it to server lag or general internet weirdness.
+
+Like others said, submit it as a bug report and see.

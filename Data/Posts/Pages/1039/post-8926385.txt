@@ -1,0 +1,14 @@
+Vektorboson
+V
+Jan 30, 2021
+#20,778
+Jorki Rasalas said:
+The only thing I know about rendering is you get some cement mortar and slap it over the wall of a house to make it waterproof
+
+However IRH discord- reshape has been tried, as has another shader pack. Green glow happens regardless.
+
+I just looked up ReShade and it's a post-processing shader/plugin. So all it does is making the visual bug look better.
+
+There are several possible sources of the green glow if it's indeed a bug: It could be the shader code (I suspect it could be the self-shadowing code). But it could also be the incoming data to the shader (position/direction of light source, shadowing information for planets/moons occluding the sun, model data of the ships).
+Reactions:
+Mrrshal and [PS4] Filthymick420

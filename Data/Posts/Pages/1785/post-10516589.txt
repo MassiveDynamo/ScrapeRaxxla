@@ -1,0 +1,14 @@
+Nezzie Muso
+N
+Sunday at 7:45 AM
+#35,700
+Pyroboros said:
+Pareco Comet 2 is extremly hard to find, cause there is no indication that one is in its SOI.
+This is what my Journal says where i am right now: (Legacy Horizon)
+{ "timestamp":"2024-12-21T08:37:21Z", "event":"SupercruiseExit", "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco Comet 2", "BodyID":2, "BodyType":"SmallBody" }
+and this i what i see:View attachment 412575
+many thanks for confirming this - I've been in this location a hundred times but I've no journal access on console so didnt realise it still counted as the comet SOI.
+
+For everyone - I've noticed something weird. When I started, there was no shipping lane inside the ring. Beyond the SOI's of the stations, it was "deep space". Then there was a 50km shipping lane. I assumed deliberate, to obfuscate the comet SOI. But the next time I checked the shipping lane was 60km, then 100km. Now, for me at least, there is no deep space at all. The whole of the pareco station ring is encased in an 80Ls sphere of "shipping lane". My assumption is that honking makes the shipping lane bigger. But other than that i can't fall out of the instance, and the stations no longer rush away from me, I'm not sure what this actually achieves. Any ideas?
+Reactions:
+Neestar

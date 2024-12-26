@@ -1,0 +1,13 @@
+alexzk
+A
+Jul 13, 2020
+#17,865
+Vasquess said:
+Imagine you had something like a, let's say, Structured Query Language. Wouldn't that be nice?
+Ye ...and 100Gb of data at least to get from edsm. I have 280Gb hdds. In shorter forms it gives json. So lua is good to traverse over json.
+
+For global search he needs, it should be full SQL clone though.
+For finding tritium around Borann my C++ code is sufficient
+Last edited: Jul 13, 2020
+Reactions:
+PeteACarter

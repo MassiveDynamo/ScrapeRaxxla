@@ -1,0 +1,13 @@
+Six6VI
+Feb 13, 2020
+#15,179
+RaNaketh said:
+This comment caught my eye from Dom:
+"The mission system is not and has never been aware of your ship or cargo while generating missions.
+All it knows about any particular player before the mission list hits the client is their ranks, reputations, and unlocked engineers."
+Opportunity missed (again) FDev! Imagine it knew where you were going and offered missions to that location, even if it was outside the 20LY typical limit. I'd really like to grab missions along a travel path I've already set and pop in at stations along the way to help systems further along with specific cargo needs etc.
+
+Instead, I'm regularly jumping from one side of the bubble to the other with no cargo or missions.
+Last edited: Feb 13, 2020
+Reactions:
+Cunder and Machina Ergo Sum

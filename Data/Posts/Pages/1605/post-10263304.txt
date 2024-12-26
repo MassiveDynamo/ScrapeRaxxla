@@ -1,0 +1,35 @@
+Louis Calvert
+Nov 18, 2023
+#32,090
+Ian Doncaster said:
+This is back to the question earlier about Wolf-Rayets - it can't plausibly be the Guardian home system itself: ... it's far too large and young.
+Agreed, besides anything else Gamma Velorum (and all the stars in that system) is far, far too young to have evolved the Guardians.
+
+The lore seems to suggest they evolved on a (relatively) low G ELW orbiting a bright (hot) star - but the homeworld is/was in 'our' goldilocks zone since they're basically human in terms of biological needs. At some point there was a 'cosmic event', a 'dimming of the sun', that reduced global temperatures and forced a massive change in Guardian society (building permanent dwellings to shelter from the cold, which led to agriculture, etc.). Its unclear if that event was permanent, but it must have lasted long enough to cause the Guardians to sustain this cultural change for it to become 'the normal'
+
+SPOILER: SOURCE TEXT:
+
+
+
+
+
+
+
+
+
+I recently suggested that maybe the Regor sector isn't the Guardians origin point, but more like a Colonia-style expansion (because it's too small). If they like hot stars, then colonising Gamma Velorum (assuming it has a terraformable world) might make sense, but...
+
+The main reason I'm interested in this is that I have speculated in the past that the Guardians used the "Omphalos Rift" to colonise our galaxy. This would adequately explain why they're apparently limited to a relatively small region of the galaxy despite their advanced technology, superior FTL, population pressures, long life, and 8,000 years of spacefaring before their end. Maybe Wolf-Rayet stars are important to the Omphalos Rift, not specifically to Guardians...
+
+Jorki Rasalas said:
+I've been saying this for years! Why has ED put a Wolf Rayet in LAWD26? It is a huge astronomical anomaly in a game for which DB professed accuracy. If it were true then at only 20 odd ly from Sol it would be visible during the day from Earth (in fact Earth would probably not have a night! Don't forget WR are massive stars & Regor is visible 1000+ly from Sol). Has anyone asked FD why it exists in-game??
+
+I would also really like to know if anyone has asked Fdev why it's there, is it a bug, or something more? I can't believe no-one has asked?
+
+CMDRCorrMorningstarFelian said:
+That star is very, very real. It's LAWD 26 per SIMBAD and in-game (listed GJ 293). In-game the system is called LAWD 26 but the Wolf-rayet is Gliese 293 B. The reason it isn't visible in daylight is most emissions are ultraviolet instead of the visible light spectrum.
+
+No, the star Gliese 293 is a White Dwarf star, which is the A component of the system in ED. Source 1, Source 2. We're talking about the hecking massive Wolf-Rayet star that's the B component in the system, which absolutely doesn't exist IRL.
+Last edited: Nov 18, 2023
+Reactions:
+Shadowsnog, Ian Doncaster and CMDRCorrMorningstarFelian

@@ -1,0 +1,18 @@
+CMDR Davanix
+Dec 11, 2022
+#28,397
+Pyroboros said:
+Hey just sharing a change in the Permit locked Systems.
+the Systems below have been Permit locked in the past. The System Description said something (can't fully remember) due to security concerns this system has been permit locked by the (i think it was) Pilots Federation. not sure anymore.
+
+Today i saw that 3 of them do no longer need a Permit and there is no longer a Description about the Permit (Only that a Permit is Required for this Location)
+Just noticed it because i was getting the Peregrina Permit and saw that i had the HIP 22460 Permit that i don't recall obtaining, so i investigated.
+PLAA AIN HA-Z D46 (still needs permit)
+PRIA EURL RW-X B1-1 (permit dropped?)
+maybe it's relevant for some in here i don't know. Any chance anyone knows when this changed? I have not checked on those systems in the last 12 month.
+Click to expand...
+HYPIO BLUAE RL-H C12-2163
+
+I recall this system being closed due to a bug on system entry after Horizons dropped where you ended up in the center of the star itself
+Reactions:
+Pyroboros

@@ -1,0 +1,10 @@
+Noobilite
+Mar 1, 2020
+#15,534
+Thatchinho said:
+Nicely spotted.
+
+Could do with someone with VR to check and confirm, but that looks to me like the blue circle is on the 'dashboard' and not part of the radar projection.
+I think you are right. If you hit alt g or whatever removes the hud, the annie has a circle on the dashboard.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

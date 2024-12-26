@@ -1,0 +1,11 @@
+Macros Black
+Jan 31, 2018
+#1,612
+Jaiotu said:
+It doesn't look like anyone has uploaded data for Sirius at http://www.elitegalaxyonline.com
+
+If you upload the system data into the system you should be able to generate an orrery view. I'd do it myself but I'm working on getting the Sirius permit (well, I DO have a permit but that account is over at Colonia).
+
+Scanned the Nav Beacon in Sirius, but alas there there seems to be sync problem med EDDiscovery to EGO, so I could not upload the system data. Also not entirely sure that this is enough for EGO to display the Orrery. Sent a question to the EDD about the sync problem.
+Reactions:
+Han_Zen

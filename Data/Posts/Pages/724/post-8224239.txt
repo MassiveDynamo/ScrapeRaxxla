@@ -1,0 +1,5 @@
+Darth Ender
+D
+Jan 3, 2020
+#14,461
+Braben stated that "we know where it is" not I. I would take that to mean that multiple people are involved. Even if multiple people dont know the exact system ...there would be plenty of people who would be privy to the engine capabilities and know where something would have to be placed and what kind of item it would have to be to be a fixed position item in the game while not showing up in the galaxy map or system map and not reflect honking scans or be visible in supercruise etc. Process of elimination would be pretty straight forward. It is extremely likely that the conclusion of a roid field could be made with high certainty without any direct knowledge of the location if they know the capabilities of the backend software (which many do)

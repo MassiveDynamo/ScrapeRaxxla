@@ -1,0 +1,9 @@
+Old Duck
+Mar 16, 2019
+#6,746
+I have found something strange.
+
+There is a HIP system outside of the Bubble (though not terribly far out) that is not showing discovery or mapped tags, including my own. Having both discovered and mapped dozens of HIP stars and planets, this is not normal. The only places I've seen that prevent tags are places inside the Bubble, like Sol.
+
+Could this mean this system is important, or is this just a bug I don't know about?
+Last edited: Mar 16, 2019

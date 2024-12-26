@@ -1,0 +1,17 @@
+Ian Doncaster
+Jan 10, 2024
+#32,956
+Don't forget the Ghost of Jupiter planetary nebula.
+(And if you want to allow closely-related words, the Soul nebula and the Veil nebulae can be interpreted to have connections with death and the supernatural)
+
+Emperor said:
+It does seem strange on how that seems to have not been worked out unless I've missed something....
+Three reasons, I think:
+
+1) It's dependent on a mix of hidden and visible variables - CNBs are most common in low security and much less common in medium security, but those security levels also have invisible sub-gradations; it's not just the security level - some CNBs stay there permanently regardless of controlling faction, while others come and go as the controlling faction changes or as the state of the controlling faction changes (which may or may not be to do with the state affecting sub-gradations of the security level)
+
+2) It's been known to change arbitrarily: in 3.0 (I think, or thereabouts anyway) a very large number of CNBs and RES sites changed location and intensity all at once, which might imply that there's some sort of pseudo-random skew applied somewhere as well as one of the hidden variables. The existence of CNBs, HazRES, or (visibly) gradated RES have all happened since 1.0 and the next version might throw it all out and replace it with something else again, too.
+
+3) It's largely irrelevant to the business of capturing additional systems for your faction: there are a lot of unsolved things related to the Political BGS which are unsolved precisely because no-one can think of a way that solving it would be weaponisable, and there are insufficiently many people interested in non-applied research to look into them all.
+Reactions:
+CMDRCorrMorningstarFelian, Jorki Rasalas and Emperor

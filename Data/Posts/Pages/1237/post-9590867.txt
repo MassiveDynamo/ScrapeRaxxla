@@ -1,0 +1,14 @@
+Han_Zen
+Nov 5, 2021
+#24,722
+Jorki Rasalas said:
+Does this technique also give you the stations within system?
+
+And does it only work by scanning the nav beacon? Does it also apply using fss?
+You get all stations.
+
+a full scan gives the same result, as long as you don’t have the data.
+On core systems with public system data, you don’t get anything from the fss.
+Last edited: Nov 5, 2021
+Reactions:
+Jorki Rasalas and simulacrae

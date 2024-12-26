@@ -1,0 +1,22 @@
+Deleted member 38366
+D
+May 25, 2020
+#16,741
+Filthymick420 said:
+Yesterday i learned you can actually initiate a misjump. We were fighting goids in a wing out near asterope. Because of wing bugs one of our squad kept blue screening out of game (ps4) as soon as the jump would start. any ways the first time when he logged back in he was 34k ls out into his destination system. The second time he was in a nearby system just a jump away but a completely wrong system from where he was targeting. Each of these jumps were only a few ly away, 10 max. Imagine if it were a neutron boost jump....
+
+I know game closing is against the rules for pvp but i wonder how this counts if one were to intentionally close the app to create misjumps.
+
+Losing connection to the Servers can have various effects.
+Due to the Client being surprisingly tolerant to connection issues (AFAIK upto 1 full Minute of connection loss in SuperCruise), the own Ship can end up in a totally different place than the Client showed the Player.
+While awkward when logging back in, it's quite common with Networking issues.
+
+I've made plenty of "Network lagged out" Jumps. Effects included :
+Ship was found parked at ~50Ls from the main star (despite having been elsewhere within the System in SuperCruise)
+Ship was found in the original System (Connection loss during Hyperjump) but Fuel for said jump was discounted from the Ship
+Ship was found in the Destination System despite seeing nothing but an "endless Hyperjump tunnel" (Client had to be manually terminated via Task Manager)
+Ship found crashed into Sun's Body Exclusion Zone in Destination System after Client only gave black screen instead of showing arrival in new System and stalled Audio loop (Client apparently still had Ship flying forward)
+
+Thus, I wouldn't make anything out of it.
+Reactions:
+PeteACarter, Machina Ergo Sum and [PS4] Filthymick420

@@ -1,0 +1,21 @@
+Ian Doncaster
+Saturday at 8:58 AM
+#35,658
+Jorki Rasalas said:
+Dont you have to be within a system for 40 minutes to an hour to get TipOff missions?
+No. The main difference is that those are missions, and tip-offs aren't, as such.
+
+Non-board missions:
+- if you're in the same normal-space instance long enough (I've only ever seen them while mining, though people without ammunition constraints presumably get them in RES too) any of the factions in the system may offer you a mission
+- this is a normal mission that you can accept or decline (and will generally be fairly local)
+- if you accept all the normal personal and BGS consequences for success or failure apply
+
+Tip-offs:
+- if you complete a mission while Allied you have a (small!) chance of getting one
+- they're not a mission: you can't refuse them, though equally there's no penalty for ignoring them
+- the tip-off will generally send you to scan some temporary (2 weeks) or permanent POI a long distance away, giving you the coordinates so you don't even need a DSS to find it
+- anyone can scan that POI if they find it without needing the tip-off
+- but if you do it with the tip-off, you get a "decryption key" which makes the data obtained significantly more valuable (generally low millions rather than low hundred thousands)
+- consequences for succeeding are purely personal and there's no BGS effect on any faction
+Reactions:
+Jorki Rasalas and Rochester

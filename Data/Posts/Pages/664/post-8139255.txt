@@ -1,0 +1,25 @@
+Han_Zen
+Nov 13, 2019
+#13,268
+SkyRock said:
+then we have no clues, which is sad.
+Do you have information about the Veliaze system?
+As an option, I remember that one of the developers said that in-game news should be read between the lines
+Veliaze is mentioned in FFE lore:
+****
+THE THARGOIDS - TRUTH AND FICTION -1
+M.C.S
+
+It is now three hundred and fifty years since the first reports of Thargoids from the settlers of Molotov Village on New Africa (Veliaze -2,3) and exactly fifty years since the last mother ship was destroyed by INRA pilots flying out of Facece.
+
+In the three hundred years of their existence, the Thargoids represented the only Universal Enemy that humankind has ever encountered, engendering a unique sense of political cohesion amongst the three political galactic powers as they threatened to destroy the fabric of human space. Since their departure, that cohesion has collapsed and the only obvious beneficiaries are the assorted academics, collectors and dealers who trade in supposition, superstition and putative fragments of technology from a civilisation far superior to our own.
+
+In the series of articles which follow, our Caledonian correspondent presents the known facts and dispels some of the mythology surrounding the Thargoid species.
+*
+
+It's not in ED, so the system must have been renamed. Two systems in ED have a Planet called New Africa. Epsilon Indi and Zelada. Both were in FFE with Veliaze, so they don't qualify as candidates. Molotov Village is a space port on an atmospheric planet, so it's not searchable in ED. The coordinates -2,3 suggests a distance to Sol of 30-40 ly(the cells are 10X10 ly). Direction is almost impossible to determine as all real stars in FFE had mirrored positions (a bug) in a flattened ecliptic plane.
+
+Edit: Sigma Draconis (-1,2) and Krüger 60 (-1,2) could possibly give an approximate direction?
+Last edited: Nov 13, 2019
+Reactions:
+[PS4] Filthymick420

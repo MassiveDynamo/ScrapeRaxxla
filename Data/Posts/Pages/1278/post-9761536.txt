@@ -1,0 +1,24 @@
+John Stoutbeard
+Mar 5, 2022
+#25,548
+Adel said:
+Yes the 64bit ID is the number in "SystemAdress".
+To go to Halley's comet:
+Go to SOL (else it won't work)
+Open Galmap and enter in search bar "Wregoe AC-D d12-22020096" without quotes.
+If it is far, use scanner to target it (concentrated signal sources, at right of unidentified signal sources frequencies)
+IF you have a spuercruise assist, you can go in without having to do a loop of shame.
+
+For Pareco, I'll post after finishing the listing of comets in the system Medusa (28 comets for the moment, heading to the 29th...)
+Click to expand...
+This is interesting indeed.
+Worthy note: You may have to get within 100km (fly slow) to be to get within it's influence. Otherwise it will just behave as any other 'runway zones' (like planets/statiosn that was bugged when you cant catch their influence zones)
+
+As with the 'blue permit to drop', where the game indicates that you should be able to drop out on a POI like this, there has been bugs in the past when you did not drop ot at the correct location.
+
+Just in case this is just one of the factors for finding anything in space:
+- You can observe if you catch the influence and have a high chance of ending up in the correct drop zone if the Signal stops moving away from you.
+Then you should be at the true designated drop-out zone. (Not that we expect to find comets, but who knows what else)
+Last edited: Mar 5, 2022
+Reactions:
+Adel

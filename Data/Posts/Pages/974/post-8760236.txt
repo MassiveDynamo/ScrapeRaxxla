@@ -1,0 +1,9 @@
+Vetinari
+V
+Oct 23, 2020
+#19,465
+So it happens at the 'top' and 'bottom' of the sphere where all the separate graphics blocks get scrunched up or meet.
+
+Id say report it as bug, but it could become one of those things best left and people will visit it, Im gonna have a go next Rocky
+Reactions:
+3navis, [PS4] Filthymick420 and Zieman

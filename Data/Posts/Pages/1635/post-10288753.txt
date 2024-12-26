@@ -1,0 +1,44 @@
+Ian Doncaster
+Dec 22, 2023
+#32,700
+Interesting system description.
+
+According to the data archive at https://elitebgs.app/systems/59e7a972d22c775be0fe5427 ... The Link as a faction was added on or shortly before 9 June 2019, taking the system up to eight factions; the other seven have been there since that site's archives start in October 2017 (though two of them probably weren't there on day one)
+
+It's not marked as a PMF in Inara but - see below - they could be wrong. It feels like a PMF to me - the description is a bit weird (i.e. it's more interesting than 90% of PMF descriptions), but it's the sort of weird that the sort of player who starts a Theocracy PMF might write.
+
+CMDR W3L5H DR4G0N said:
+Each time I try, I lose 4-0.
+Having no particularly difficulty in equalising (despite the high population) but then losing the war suggests deliberate but lazy/efficient opposition. Hudson Powerplay is a possibility - there aren't many Feudals or Patronages in that part of the bubble, so keeping the ones that there are in charge is probably good for them.
+
+Merlin StWahgwaan said:
+I also wanted to note, I found another odd thing and while speaking of factions, I should mention it...
+
+INARA, gets its faction information from? like if it's a player faction or not?
+it must be from our logs/journal files right, when we scan the system/dock at a station?
+There is no in-game way to determine if a faction is a player faction or not.
+
+Generally the third party sites did it by detecting the existence of factions which hadn't previously been seen, and assuming that they were player factions if there wasn't some plot mention to explain their addition. Occasionally unreliable but at least most of the errors got corrected over time
+
+There's also a couple of oddities like these two (and others)
+Social Eleu Progressive Party - minor faction | Elite:Dangerous | INARA
+The companion site for Elite:Dangerous with the game database, market data, trade routes, outfitting, engineers, blueprints, crafting, Thargoid war, squadrons, logbooks, galleries, galaxy information and much more...
+inara.cz
+The Dukes of Mikunn - minor faction | Elite:Dangerous | INARA
+The companion site for Elite:Dangerous with the game database, market data, trade routes, outfitting, engineers, blueprints, crafting, Thargoid war, squadrons, logbooks, galleries, galaxy information and much more...
+inara.cz
+which are ones which were added to the game as NPC factions, adopted by well-known player groups before PMF addition was included, and were retrospectively granted the PMF status [1] by Frontier. Inara counts them as PMFs for simplicity.
+
+[1] The only effect of PMF status is that a system can't have a new PMF created in it if it contains a faction which has PMF status already. Since no systems can have PMFs added to them nowadays, the distinction is no longer very important.
+
+Merlin StWahgwaan said:
+I ask because so far, the only Minor Faction that I've been able to find on INARA that doesn't say simply YES or NO in the PLAYER FACTION spot, is in fact, The Dark Wheel, in ShinDez.
+it's listed as "Related" instead of Yes or No with a definition of "an existing NPC Faction related to players"
+
+questions:
+are there any other factions on INARA listed this way? there doesn't seem to be a way to search by this information other than check each one manually . ...
+Yes - https://inara.cz/elite/minorfaction/?search=Free+Marlinists+of+Carinae or https://inara.cz/elite/minorfaction/35528/ or https://inara.cz/elite/minorfaction/?search=The+Nameless or https://inara.cz/elite/minorfaction/?search=CQC+Holdings or https://inara.cz/elite/minorfaction/?search=No+Look+Here+Gang for a few examples.
+
+I think the criteria is probably "is it a non-PMF with a squadron aligned to it" (Inara squadron, not in-game squadron) - even if not exactly that, it's an internal Inara designation rather than anything official.
+Reactions:
+Louis Calvert, Adel and Merlin StWahgwaan

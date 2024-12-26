@@ -1,0 +1,79 @@
+John Stoutbeard
+Mar 26, 2020
+#15,808
+GURU-951 said:
+If you go to the Algol star system and the "Treasure Hunt Comes To An End" Tourist beacon there (I believe this had to do with a FDev employees test), you will find the piloted npc cobra named Cetus' Bane in an unresolveable USS there as well. His ship name changes often, as does his faction. He always has a Medusa paint job as well.
+The beacon describes how in 3302 a CMDR Orvis solved the treasure hunt by going to Avalon and the Persephone Station, and then to the Bard system and Arrhenius Terminal, and by doing these things he found the objects at the center of the puzzle, presumably the Earth Relics floating around Cetus Bane, or the two in his cargo hold.
+
+I recently brought a fuel limpet controller to his ship and discovered he will high wake into a neighboring system. I came back with a wake scanner and a little extra fuel. He will typically bring you to a brown dwarf system and will either drop near an unremarkable planet, or in an asteroid belt (which brings pirates due to how close to the bubble it is), or he might even just stop in supercruise. But he will eventually lead you a station, which changes regularly. You just need to refuel him and wake scan him.
+
+The first 2 attempts at this didn't seem like much. Or not from what I can tell.
+But the third attempt piqued my interest because he led me to the Momus Reach star system and the Ralphus station.
+First off, He will always make you jump through a bunch of brown dwarf systems, specifically on the 3rd attempt. This almost seems like he's trying to stop you.
+He's led me from 8 to 13 jumps on the 3rd attempt before leading me to a station. Mind you you lose fuel per jump and per refuel.
+Once he drops at a station you will lose him no matter what.
+
+3rd attempt's the charm, though I have not tried more than that in a day.
+
+Why's Momus Reach peculiar?
+In the treasure hunt he was to go to Avalon and the Persephone station.
+The Avalonia was the name of Jason Ryder's ship.
+And Nemesis was the name of Alex Ryder's ship.
+Nemesis is an ELW in Momus Reach, along with the hmc .
+It also has the stations Tartarus Point and Ralphus.
+Tartarus was a realm in Hades, and the prison of the Titans.
+Ralphus I remain clueless with.
+
+Algol itself is the right eye of Medusa's decapitated head which Perseus holds in his constellation. It is known as the Demon Star.
+And Cetus' Bane always has a Medusa Paint Job, which will disappear after the first jump into another system.
+
+It just seemed peculiar. But myself and another CMDR have not been able to replicate the jump sequence back to Momus Reach.
+
+I've attached my journal entry of the event and have the entire thing recorded, just haven't made the video yet.
+As well as some images of Cetus' Bane and the Perseus constellation.
+Click to expand...
+Please excuse my English as it's still not my native language.
+PS, please don't take this as personal critique, it's rather a reply with my own experience of the same path.
+
+I've sniffed at the Algol idea like you. Some have claimed that the "The Cetus Bane beacon" is a 'bug', but from what I see it's a feature. FDev left many of these older CG's ingame for others to experience later as they join the game. We can see this from other events still left in game. I won't conclude anything from this information though.
+
+I do find the mythological theme and aspects interesting.
+And I do like the idea of playing around with these rare Earth artifacts too. But I ran into a dead end on my side.
+
+I did go through four of the previous treasure hunts just to see how the story and the clues evolved.
+SPOILER: PREVIOUS TREASURE HUNTS, NOTES
+Hunting for "Antique Jewelry", "Time Capsule", "Precious Gems" and "Earth Relics". Treasure hunt 4 was particularly hard to find any info on since people had been complaining about "spoilers" in previous hunts, so the info was hard to understand in those threads. Others just loved sharing and and brainstorming with the community was complaining about the conflict everyone was having with the "no sharing policy".
+I didn't participate at the time back then, but I do recall some of the fuzz on the forums. Nice to read upon some of these now in hindsight.
+External link: An interview with CMDR Oriza and CMDR Imrus76
+
+
+NPC behaviour
+
+You said
+He's led me from 8 to 13 jumps on the 3rd attempt before leading me to a station.
+I would say this is quite a normal random NPC behaviour.
+
+I've been tracking NPC's as well since early days. NPC's will always jump to a random nearby system, and they will always fly to something in system it being a planet, station, star or even USS these days. Random is random enough for it to visit a system twice or more as long as it's within it's jumprange.
+I think we need to have much more empirical data and consistent result to be able to conclude.
+80% of the time to the same system would be crazy high consistence for a 'random NPC'. Even 50% consistence would be suspicious.
+
+
+My own rabbitholes in retrospect
+
+However, just like all the n'-thousands of similar Greek/Babylonial/Roman myths everything tells us a story which we can fit to almost anything as longs as we dig deep enough.
+I'm having a hard time finding this particular mystery any more relevant than the other stories (myths actually means stories I've learned lately).
+But hey, that's why we keep digging, right!?
+
+I'm trying to look from a bit higher perspective to prevent myself from going head first into the rabbithole. I fail to do so 99% of the time.
+What I'd like is to have it 'snap' without having to dig through 2-3 levels of Greek-Astronomy. You can see the problem (deep nesting) in that page of notes. With a variant there I've almost linked it to Sirius Expansion (CG), Almagest and many other things. A bit too much second hand linking for my liking.
+This is part of the fun though.
+
+I've fallen for this trap so many times myself. Starting with something simple, and then 4 hours later I'm knee deep into the rabbit hole (head first remember?).
+It's still a really nice learning experience to go through it all and learn more ancient history. Loving that part of it though.
+
+Anyway. Keep the good reports coming, we're tinfoiling together. o7
+
+< /braindump >
+Last edited: Mar 26, 2020
+Reactions:
+[PS4] Filthymick420, [PS4 Pro - PC] earthtone99, Macros Black and 6 others

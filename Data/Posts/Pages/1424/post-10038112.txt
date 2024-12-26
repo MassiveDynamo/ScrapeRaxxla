@@ -1,0 +1,19 @@
+CMDRCorrMorningstarFelian
+Dec 17, 2022
+#28,477
+Pyroboros said:
+currently checking each Systemname in edsm if it was ever mentioned in this thread
+little problem:
+EDSM has 75 million systems in database
+that 31000 needs to go 1423 time up to 75000000
+
+just let it run ...
+well lets restart whit the fix in line 13
+
+
+Click to expand...
+Honestly, this seems like datamining. Not that you would be likely to get anywhere with it considering The Church of the Path is in the system Shibboleth (an ancient Earth term for cultural passwords). This pretty much indicates you would have to know something important to understand properly what you are looking at. Shibboleths have long been used to protect secrets.
+
+The Church Of The Path | Canonn Research Group
+The Church Of The Path
+canonn.science

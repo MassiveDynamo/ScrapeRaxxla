@@ -1,0 +1,19 @@
+Louis Calvert
+Dec 7, 2022
+#28,308
+SpocksOddSocks said:
+Now that you mention it, I have a vague feeling something similar has happened to me, fairly recently (as in this year, but couldn't narrow it down beyond that), and I only barely registered it. Was it briefly and just after the countdown?
+
+Problem with this is, if it isn't just a bug, how do we recreate this? Going on Jorki's last post, I now have in mind a different British TV program: Taskmaster. Specifically a task that asks the contestants to "get to 11 points as fast as possible".
+
+Get to 11 points as fast as possible
+
+So, how do we get to 11 points? Normal rules.
+Click to expand...
+Step 1 is to show whether it's a bug or not. We're just collecting info atm. Interesting to hear you saw a planet too, do you recall any details?
+
+We currently have 4 videos showing a similar-looking planet. We're looking for a similar video showing any other planet to debunk this. Really just need people to get googling and add more videos to the pile! Or find out from Fdev if it's a bug (that's the easier and less accessible option).
+
+If it's not a bug, then we don't know it's related to Raxxla even, but we can cross that bridge when we get there.
+
+Edit: We have video evidence of this "bug" existing for the last 4 years. Anecdotal evidence of it happening since the very early days of the game pre-horizons.

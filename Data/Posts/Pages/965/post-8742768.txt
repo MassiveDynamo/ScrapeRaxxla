@@ -1,0 +1,15 @@
+simulacrae
+Oct 11, 2020
+#19,288
+Koben said:
+Thanks for the reply, but it seems I'm searching for the galactic East not in regards to Earth's cardinal points. The game states the North is "Wregoe TV-L C24-0"...
+So, which system I should target to go east?
+
+I think the Wregoe TV-L C24-0 as true north comes from a User Submitted story in Galnet .. so maybe take that with a grain of salt.
+https://community.elitedangerous.com/galnet/18-MAR-3301
+If i remember the actual stars used for Elite are not set in the future but were captured from existing data and filled in with model data. Im not sure how Virgil Kyle arrived at his North Star though.
+I remember playing with this a while back - I think 28 Omega Piscium is still the closest to 0degrees RA. I used Polaris as north and came up with this:
+SPOILER: EARLIER ATTEMPT
+
+Reactions:
+Koben, Fiera, Hanerib and 1 other person

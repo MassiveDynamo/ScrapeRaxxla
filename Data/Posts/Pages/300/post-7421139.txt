@@ -1,0 +1,33 @@
+Othon von Salza
+O
+Feb 14, 2019
+#5,993
+yelboc said:
+...They weren't there in the original game so should not be the right path?
+I think you are right on that. Just wanted to share experiences in case they are helpful or at least to help people avoid spending time on similar tracks. Consider that that post is an incomplete enumeration of the things I tried over the last years, written from memory, one in which an attempt was made at finding something that only has been rumored about. Thus, trying every available direction according to a sensible prioritization.
+yelboc said:
+In many stations I get the 'mission objective found' message ... I've learnt tons of old mythology and astronomy
+Agreeing on that too . Although, I don't even think such a mission story line exists. But I cannot know.
+
+The only tangible things I currently have (so don't overly focus on the rest of that post) is the theory on Antares and the reasoning behind the Omphalos Rift (and yes I am going to repeat myself).
+
+1. Although stars spiral around black holes, I have never seen stars with the same brightness do it at equidistant points as in Maia B. Furthermore, it would make sense that that system could contain a map, given the Thargoid presence, but heck that's major speculation. Furthermore, given that that spiraling happens when approaching the BH from the side trying to focus Sol behind it (and the equidistance becomes perfect just when Sol is centered), and that when moving backwards from the black hole (with Sol still centered behind it) they form an eye (also rather perfectly dotted), is even more coincidence. Especially, having two of these stars in the eye-brows (since they are mirrored) burning red (i.e., Antares) the others for the record being (Asterope, Glesting, Andoe, HIP 17704 burning blue-white). Well that kind of makes it a very big coincidence. There are just too many things in the R codex entry that align with the above.
+Then, there are the coincidences concerning the mountain range on B8C A (really really really maybe BBC Acorn) that are very very similar to Barnard's loop and the crater formations around it's central point that are very very similar to the (Asterope, Glesting, Andoe, HIP 17704) constellation including the 3 stars going up which I still need to determine when going back to Maia.
+
+2. Apart from that (concerning the omphalos rift) if I would consider the outer reaches of the known galaxy according to mythology then orion and scorpius (of which antares is the hearth) would be a nice choice, given that they are put as far away apart to never fight again. Finding large regions (16LY in diameter) without stars at the average position of two red giants of either of these constellations, well it certainly got my attention. Furthermore, the center between antares and betelgeuse lays just outside the bubble. Now, I could possibly run a query on the systems database to verify the uniqueness of that, but intuitively that seemed quiet unique. Here is the data for the central point:
+You get there in supercruise from "Crucis Sector IM-V b2-5" taking the direction of "Wregoe IG-Y b46-0" for 7.98347291870837 Ly. It took about 90T of fuel in a Krait MKII and about 35h of flight, But for your sake don't do it , or do it over night with automated screenshots like I did ...
+The data:
+Betelgeuse (169.40625,-72.5,-462.625), Antares(71.5,138.40625,531.375), Average: (120.453125,32.953125,34.375); and the nearest 5 systems (distance,name,x,y,z):
+"7.98347291870837" "Crucis Sector IM-V b2-5" "114.71875" "27.4375" "35.03125"
+"8.64933726688063" "Crucis Sector GR-V b2-5" "112.5" "35.1875" "36.9375"
+"8.37881792639928" "Raijunab" "116.6875" "29.1875" "27.90625"
+"10.7936296678295" "Bacamadia" "116.125" "23.09375" "33.625"
+"10.1532928387174" "Salintaula" "128.0625" "34.78125" "27.90625"
+Like I also said before, by determining pairs of systems that form a straight line on that central point I found many pairs in the systems database almost perfectly matching. Plotting them however, created rather large offsets in the galaxy map (when I did this for example for Polaris, they did match almost perfectly). It might be interesting to verify the systems database coordinates on that region, since I am pretty sure that I didn't mess up the math or queries for it.
+
+Unfortunately, these tracks got me nowhere. Maybe someone will get further with it.
+
+In the end I still feel that the only fact we have is that R, if it ever existed, has been found before the mention of Art in the codex. All else is doubtful and even the latter can be twisted around I guess. If not, then I still presume it to be found somewhere between Sol and the nearest 100-ish stars to which probes were sent (cfr. tourist beacons in sol and tau ceti).
+Last edited: Feb 14, 2019
+Reactions:
+Rochester, CMDRGURU951 and Scytale

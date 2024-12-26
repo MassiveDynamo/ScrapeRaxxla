@@ -1,0 +1,20 @@
+Louis Calvert
+Jan 14, 2024
+#32,994
+Edelgard von Rhein said:
+I am not sure how to determine what is and is not significant in spectrograms of the landscape signal but if you find that kind of detail interesting then I will share three of my recent observations:
+
+The first spectrogram is one that I took earlier this week at Praesepe (thanks to Han Zen for bringing that up - I had not been there before!). This was recorded in a Dolphin with non-essential systems shut down. Note the detail in the vertical bars, resembling a punchcard.
+SPOILER
+
+The same features are visible in Artemis (recorded in an Asp Explorer), though not quite so clear and not identical.
+
+Yet in Azaleach (recorded yesterday in an Imperial Courier), these vertical bars are not present.
+
+There may be more to the landscape signal than a mountain-like structure?
+Click to expand...
+I'm very sure these are all ship noises. The fact that it changes depending on the ship type shows just how much detail Fdev put into the cockpit sounds
+
+You can test this very easily by pointing 180 degrees away from the centre of the galaxy you'll get a 'non signal' recording, then you can compare! If the bars are still present, then it's ship noise.
+Reactions:
+selbie and D7

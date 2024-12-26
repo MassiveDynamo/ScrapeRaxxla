@@ -1,0 +1,20 @@
+Jorki Rasalas
+Jul 24, 2022
+#26,495
+Pyroboros said:
+I made some experiments:
+Flying in normal Space aiming away from a Station towards its orbital center will eventually get you out of the SOI of that Station. There are the things that can happen now.
+1.) Getting in the SOI from another Station (the SOI "Nav" panel will the show that Station)
+2.) You get in the SHIPPING LANE whit nonzero relative velocity too the stations and the SOIs around you (have a look at the distances to the stations) and you are fast some times even put u back in one of the SOIs
+3.) You hit the SOI of Pareco Comet 2. the SOI panel will show SHIPPING LANE, but your Ship is stationary relative to the other SOIs
+
+To confirm i dropped right at Pareco Comet 2 by directly targeting it and i had the same result. I was stationary relative to the Stations but had SHIPING LANE showing as my reference Body. I then flew 50km ~perpendicular too the orbital plane (just giving upwards trust) and the SOI stayed at SHIPPING LANE but i got instant rel. vel. to the Stations.
+
+TLDR: SHIPPING LANE can obstruct the real reference Body.
+Click to expand...
+Ah, that may be what’s happening for me. I always see shipping lane when I drop out of SC at the comet’s USS. Maybe I ought to try in a different system where there may be no shipping lane...but wonder why the comet was visible for some in the nav panel. Recent update? Obfuscation??
+
+But my gaming PC is broken. Was showing some internal lights on the graphics card but now not even that. I assume that the power supply has broken (it is 7 years old), hopefully not the mobo. Thankfully I have an unused mini PC that I built before undertaking DW2, in case of PC problems during that expedition. However it is proving very slow at updating. Finally got Norton installed and system scanned, have updated Horizons, just started installing Odyssey, but it’s saying 2 hour download!
+
+Not helping that it seems to be stuck on wifi connection, even though ethernet cable is plugged in...
+Think the sync files bar might be stuck!

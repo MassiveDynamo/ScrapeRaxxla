@@ -1,0 +1,12 @@
+Ian Doncaster
+Oct 21, 2024
+#35,094
+Tricky one to say.
+- it was absolutely intended to be affected by player actions from the very start (nothing else moves it, after all) as a way of creating a dynamic galaxy
+- deliberate focused action with a goal in mind, rather than it just having the effects of what people were doing anyway maybe did take them by surprise a bit ... but as early as January 3301 they'd brought the early player manipulation in Lugh into the Galnet spotlight, less than a month after the game went live
+- they'd certainly got the idea that it was going to happen and brought in changes with that in mind within the first year, and on an ongoing basis for several years after that
+- and of course nowadays, they seem to be trying to go back to it primarily being a background thing, with Powerplay (v2) being the deliberately-influenced layer
+
+I'd be surprised if deliberate BGS activity was required for anything Raxxla (though, of course, I'd be surprised if it was in an inhabited system at all!) but something which could arise accidentally and temporarily like a BGS state being used to confound brute-force searching of the bubble while only being a minor barrier to someone who knows where to look I guess isn't completely impossible with that in mind.
+Reactions:
+DNA-Decay, simulacrae and Rochester

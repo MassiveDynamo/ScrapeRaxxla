@@ -1,0 +1,41 @@
+CMDRCorrMorningstarFelian
+Dec 11, 2021
+#24,962
+This whole Raxxla search is about get changed pretty radically. You see literally nothing in the current game matters beyond where in the official lore the generation ships were built (either in Elite Dangerous, the prior games, official novels, GalNet, gazettes of prior games, and the quasi-official books released in the late '70s and early '80s just before the first game). Here's why:
+
+-Elite Dangerous Codex - Raxxla entry - Date of first mention of Raxxla: 2296 (in Tau Ceti) with an interesting aside involving a pirate cache
+
+-Tourist#236 beacon in Lave (History of Lave):
+
+One of the oldest colonies of the sector, Colonial Deep Space Cruisers Herschel and Oberon reached the system then designated L-453 in 2412. Lave has been a Dictatorship from before the fall of the Galactic Cooperative. In 3174, Dr. Hans Walden came to power. / Walden established an authoritarian Dictatorship. The previous economic hardship brought about by the fall of the Galactic Cooperative were still remembered. Under Walden there was stability, just not prosperity.
+
+Walden's rule was very long, and rumored to involve genetic manipulation as he greatly extended his own life, with his eventual death at the hands of an assassin triggering a revolution.
+
+Tourist#394 in Tau Ceti (Federal Accord):
+
+In early 2240, hours before the Earth fleet arrived in Tau Ceti, the main settlement changed its name to Taylor Colony and voted for independence from Earth. Without the starships to give battle, the colonists targeted the Earth fleet dropships as they attempted to land. Neither side could could an advantage and so diplomacy resumed. With some bitterness on both sides, a negotiated settlement was reached and in 2242, the Federal Accord was announced. This was effectively an extension of the consitution of the Federation, which briefly changed its name to the "Federation of Star Systems" - but this did not stick, and the term "Federation" returned.
+
+The Federal Accord granted independent rights and membership to each system that signed it, provided they met certain development goals. Initially each of the signatories (including Earth) did not meet the goals, as the core principle of the agreement made at Tau Ceti was to eliminate the political games that had been played in the previous century.
+
+So, Lave wasn't even called Lave (it was L-453) nor was it settled (and depending on how this is read the Galactic Cooperative possibly predated Lave's colonization). Which utterly wipes out completely almost all official lore. The only quasi-official sources that remain are a set of books released by Robert Holdstock (either under his own name or the pen name Steven Eisler) and Malcolm Edwards (for two of them). It should be noted that Tour of the Universe has a Galactic Cooperative map centered on Sol with vague hints of locations of stargates. The systems in this map often use the names of planets in the system for identification Those books are the following:
+
+"The Alien World: The Complete Illustrated Guide" by Steven Eisler
+"Space Wars: Worlds and Weapons" by Steven Eisler and forward by Chris Foss
+"Tour of the Universe" by Robert Holdstock and Malcolm Edwards
+"Alien Landscapes" by Robert Holdstock and Malcolm Edwards
+
+The only known references to the building of generation ships (also referred to as Bubble Ships) are from the gazettes of First Encounters (all these systems are in the game):
+Sol
+Tau Ceti
+Wolf 424
+Phiagre
+
+Per First Encounters gazette there were 70,000 generation ships/bubble ships (which agrees with GalNet). We need to figure out if there are records on destinations or we need to figure out where these systems are and try to deduce the location of the stargates (this is probably Raxxla). Tau Ceti and Sirius are on the map. So is Terminus which is in the game. We can possibly use this to help locate Raxxla. Regardless, the discovery happened via a generation ship.
+Attachments
+OriginalGalCop_Left.jpg
+135.6 KB · Views: 125
+OriginalGalCop_Right.jpg
+116.6 KB · Views: 121
+Last edited: Dec 11, 2021
+Reactions:
+Crimson Echo, simulacrae, Exekrator and 1 other person

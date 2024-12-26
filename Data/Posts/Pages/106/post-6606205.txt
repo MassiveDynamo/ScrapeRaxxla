@@ -1,0 +1,7 @@
+Jaiotu
+Apr 8, 2018
+#2,119
+Han_Zen said:
+- Waypoint orbits Sirius A in and almost centric orbit at 2 AU. This is exactly 1/10 of the max distance between A and B. The system COG will at times be inside the orbit of Waypoint.
+
+Wait a minute ... if Lucifer is tidally locked would it's dynamo even work? Anyone with a specialty in physics willing to try and work that out?

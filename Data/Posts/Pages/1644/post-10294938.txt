@@ -1,0 +1,84 @@
+Louis Calvert
+Jan 5, 2024
+#32,874
+Rochester said:
+Edmund Spencer work was about Philip Sidney.
+
+There is no feminine prefix for Astrophel (or Astrophil), it was invented by Sidney as an alias for himself in his own text.
+
+It’s the one aspect I can’t get over in the Codex, it’s such a literal literary reference, I can’t understand it unless it’s either a play on word ‘female astrophil’ aka his Sister (Mary) or something else, or some reference to ‘female star lovers’.
+With respect, this misses the point I was making
+
+The poem "Astrophel" written by Edmund Spencer was written in tribute to Philip Sidney after his death. Hence why it's called that.
+
+Raxxla in Elite Dangerous is, functionally, a tribute to its creator Robert Holdstock, who is dead.
+
+Thus, the Codex is suggesting this memorialising connection by fictionalising an author and a book name, which in itself is a reference to a memorial poem, and then goes on to reference how people still claim "the story's author" (Holdstock) hid clues in his book. It's an in-game reference to an out-of-game book, using a wrapped metaphor for both the book and the author.
+
+I don't think there is any deeper meaning than that - as in, I don't think it's anything more than a clever way to reference the very phenomena we see in this thread, and have seen since the very start, where people naturally look to TDW novella as a source of clues.
+
+It's very cleverly put together to achieve all this without actually saying that there are any clues to find in Holdstock's work, it only says that some people think there are, and some people think there aren't because it's a work of 'fiction' - i.e. not a canon source of Lore, which represents reality in-game.
+
+So, fundamentally what it's doing is canonising the idea of the TDW 1984 novella as being representative of works of fiction within the universe of Elite Dangerous that are inspired by Raxxla, and contain common clues such as the 'gateway to another universe', etc.
+
+And that is part of the clue, which links to in-game clues:
+"commentators have linked ship thief Gan Romero’s dream journal with the statements given by Jasmina Halsey following the disappearance of Starship One. The Rewired network claimed these ‘bodiless voices’ had disregarded the relative standing of these two individuals, and questioned how many others had experienced similar calls."
+^^ This is the chronologically next clue we got after the codex^^
+
+Consider the idea that people who hear the "call of Raxxla" (literally are recipients of mystical visions) respond according to their circumstances, training, skills and personality. this is the current known order:
+Unnamed Author, hears the call - creates a children's story inspired by his visions which matches what others have described.
+Dynasty mission crewmember, hears the call - goes mad possibly because they are stuck on a ship and can't do anything about it.
+Former President Jasmina Halsey, hears the call - arranges a massive exploration drive to gather data from thousands of people to find the source.
+Jaques? - possibly, though absolutely not definitely - certainly had a wanderlust, until he suddenly doesn't.
+Space Technician Romero, hears the call - arranges to steal a long-range exploration ship to reach the source.
+How many thousands... millions... of others have there been over the last 1000+ years? all of whom will have responded differently.
+
+And that ties directly into this from the Codex:
+"Students of Raxxla lore have noted that the legend exerts a strangely potent fascination on the minds of seekers. Commentators have compared this sensation to 'fernweh', the unaccountable longing for a place one has never seen. More than one interstellar treasure-seeker has become obsessed with Raxxla to the exclusion of all other dreams, and spent his or her entire life in a futile search for it."
+
+We've all said "how can people (in universe) know about Raxxla for over 1000 years yet Raxxla is still lost??" "How can people know about the 'gateway to other universes' without having been there and found it first?"
+
+This is how.
+
+All these people have been called by Raxxla by receiving mystical visions or feeling an intense pull to reach somewhere. Or they've been given visions by the 'bodiless voices' showing Raxxla (functionally the same thing, the distinction is important for the last paragraph of the codex though!). This concept is actually one of the foundation pillars of Lovecraftican horror too - it's part of The Call of Cthulhu, when he begins to awaken people all over the world start having visions and dreams, etc. - and we known that Brookes was very into Lovecraftian horror, Allen even said that Brookes was "more Lovecraft influenced than Holdstock influenced" in his opinion.
+
+People see Raxxla in visions, can describe parts of it, or just have a feeling they need to head 'out there', or they see a vague location, etc. All fragmentary bits and pieces.
+
+But the conclusion is: People have been having visions, dreams, hearing "Bodiless Voices" for centuries calling them to find/reach a certain place - we call it Raxxla (presumably not everyone does).
+
+"the siren of the deepest void! "
+
+Siren: "beings with alluring voices" "Possibly meaning 'binder, entangler', i.e. one who binds or entangles through magic song." The Siren Song is literally what we're seeing with Halsey, Gan, and probably quite a few others. It causes Fernweh in people, at a minimum. It's named as such by the Dynasty crew member.
+
+I would go so far as to suggest that The Dark Wheel's core members are most likely people who have also literally heard the Siren Song of Raxxla, and always have been. That's how they can maintain a continuous organisation looking for it for a thousand years - because people keep hearing the call.
+
+And again, I'll say that the Landscape Signal is literally a mystical song, It's the in-game representation of all of this ^^. The 'song' that everyone, everywhere in the galaxy can hear, and has been hearing all this time, and yet only a few people actually started following it and tracking it down. To make it fully clear that the Landscape Signal is what we're supposed to have found, it's got an image in the spectrogram - clearly showing us that it's not an accidental sound effect.
+
+You have to make some of it a little bit obvious, after all, right?
+
+The Siren Song originates from the centre of the Galaxy. The Omphalos of the Galaxy, fundamentally, all this fits exactly what the Codex is talking about.
+
+The entire Codex is basically telling us this:
+
+1) The Landscape Signal is the 'siren song' of Raxxla. It's the in-game representation of the mystical visions in Lore.
+2) People have been hearing it for centuries (since before 2296) to the detriment of many.
+3) It's mythical, but there are commonalities between accounts that suggest a foundation of truth which is likely to be different from the myth.
+4) The siren song affects everyone differently, and not everyone gets 'the full message', like we don't get a full and clear version of the Landscape Signal.
+5) Fragments of different accounts can be combined together for a more accurate picture.
+6) Those that hear the siren song are often obsessive, change personality, etc. (this gives us clues to look for in the Lore).
+
+Now the last proper paragraph is the most interesting: Raxxla is being used to covertly control humanity. These beings seem to be directly trying to encourage people to find Raxxla by 'beaming' a signal across the entire galaxy that causes behavioural changes. The fact that Sirens are alluded to suggests that maybe they don't necessarily have our best interests at heart. Thus, finding Raxxla would be bad for humanity - and this might well explain why some people are trying to stop others finding it, to protect humanity.
+
+Thus, Jason Ryder was assassinated to protect humanity? Interesting twist. Lovecraftian.
+
+Alternatively, the call to Raxxla is being sent by benevolent beings, as Halsey seemed to think, and they're trying to show us Raxxla (a portal to another universe) as a way to leave this one because the Thargoids can't be beaten. We can win wars, but we can never beat them fully. As post-physical beings these Caretakers know this, and they're trying to help us reach a new place.
+
+"I saw a place of extraordinary beauty. A paradise. It was truly wonderful."
+
+"This was no dream – it was a glimpse of something very real."
+
+"We must find this place. It could be our future."
+
+But that's exactly what soul-sucking space Sirens might actually try to convince people of...
+Reactions:
+Adel, El Saico, Emperor and 3 others

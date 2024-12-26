@@ -1,0 +1,16 @@
+Louis Calvert
+Nov 8, 2022
+#27,735
+Darrack said:
+Lol i just went to Saturn to have a poke around, NASA actually list Saturn as having 83 moons, think i will skip that
+
+O7
+It doesn't have that many in game!! If you google Saturn's Moons you'll see there are 8 "major" moons of a size that would appear in Elite, the rest are large 'asteroid' type rocks: Rhea, Titan, Hyperion, Iapetus, Dione, Tethys, Enceladus, Mimas
+
+Galmap only shows: Enceladus, Tethys, Dione, Rhea, Titan, Iapetus
+
+@CMDRCorrMorningstarFelian showed that Mimas doesn't show on Galmap, yet it does on EDDB, and Hyperion doesn't show up on EDDB or Galmap (and I can't see any reason at all why it wouldn't!). Hyperion and Mimas are small IRL: 270km and 396km respectively, but there are smaller moons/planets in the game: 166km, 138km, 160km are some of the sizes I found from searching for the smallest planetary objects.
+
+I reckon that's massively suspicious! (it could easily just be a stellar forge bug, or creative decision by Fdev ages ago) - but I belive I read something a while back that said that Sol was hand-placed, not a result of stellar forge? anyone confirm that?
+Reactions:
+Jorki Rasalas, CMDRCorrMorningstarFelian and Darrack

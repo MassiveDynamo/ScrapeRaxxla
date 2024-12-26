@@ -1,0 +1,11 @@
+Han_Zen
+Jan 28, 2021
+#20,691
+Jorki Rasalas said:
+The main asteroid belt has inner radius 1027 ls from Sol outer radius is 1631 ls, so middle is 1327 ls.
+If you want to see the asteroid cluster symbol shown in the hud then you mustn’t have anything selected. It’s easy enough with a headtracker to keep glancing over at Sol to check the distance, or a quick look in the nav panel if Sol is at the top of the list.
+I’ve been checking a few asteroid belts, on my slow return to the bubble. One thing I have noticed, is that clusters are often way of the plane in the orrery map.
+
+Only about 50 jumps to Sol. I might get there soon.
+Reactions:
+Jorki Rasalas

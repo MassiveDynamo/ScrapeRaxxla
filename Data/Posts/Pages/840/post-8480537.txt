@@ -1,0 +1,14 @@
+Machina Ergo Sum
+May 26, 2020
+#16,781
+Jorki Rasalas said:
+Was doing some googling this afternoon & thought the anomaly might be Cygni X-3 https://en.wikipedia.org/wiki/Cygnus_X-3.
+In the system map it does look a bit like the pic in the wikipedia page. But in-game it's out at 35.5 kylies with no stars in the vicinity for travel. Weighing the probabilities I no longer think it is that!
+It's odd that it can only been seen from a few stars. It is not all the stars in Cygnus as I called in at Sadr (gamma Cyg) on the way from SOI & it was not apparent in Sadr's sysmap; and Han_Zen has seen it in aCent (though I couldn't, & still an't though I looked in that sysmap this afternoon). There are two, and they seem to oscillate, one growing while the other shrinks & vice versa, with a period of several minutes (got a video of 14 minutes worth, 555Mb), so I can't believe it's a star graphics bug.
+
+Well before the FC came out in beta, someone showed the system map for Cygni X-3 on reddit claiming something to do with Raxxla claiming to have used Raxxla to reach Cygni X-3. I won't guess at the method and mechanism (FDev assisted or not) or whether its a LARP. Regardless, its interesting. And you can try now using the FC in beta, its just slightly over 400 ly. Edit: Ah guess its a wee bit too late. Think the beta just ended. Just have to wait until June.
+
+Edit 2: So apparently there is something curious according to another CMDR who actually did rush to Cygni X-3 in a FC. Even though he kept an eye out for it and there apparently was no other FC which went ahead of him, Cygni X-3 was already tagged. So... not sure whether the tag was legit or not...
+Last edited: May 26, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, [PS4] Filthymick420, Hanerib and 1 other person

@@ -1,0 +1,17 @@
+Comandante
+Nov 25, 2022
+#28,038
+SongOfTheVoid said:
+Please dont make yourself look silly, if you are:
+A) Editing a game file,
+For the purpose of,
+B) Getting the game to reveal information otherwise not shown.
+Then you are
+C) Breaching the EULA by abusing a client to accept modified information for the purposes of obtaining information.
+Not a problem I'll take it up with Fdev on the phone as its unacceptable to have people trying to handwaive through any forms of datamining... your claim is absurd as someone going "But I wasnt hacking anything in the game I was just inserting my own values into the memory addresses that the game shares". Again GUI and HUD mods have been publicly accepted by Fdev because they arnt remotely Datamining, All this idiotic behaviour does is call into question if Fdev should outright ban all modifications to files because stupid people given a inch of freedom decide they can take a mile and expand 'Yeh im just changing some graphical appearances of things' into 'Yeh lemme just manipulate this file so I can trick the game into loading my own values for the purpose of extracting information I didnt have otherwise, Datamining...'
+Click to expand...
+Please, this thread is about Raxxla and the search for it and it's whereabouts. I like to come here to watch this thread and find out about the interesting things the experts here like to chat about.
+
+I am beginning to find your replies to others off-topic for the purposes of this thread.
+
+Either (A) speak to FD directly about your concerns, (B) open a new thread about 'editing game files/datamining/hacking/memory addresses' or whatever your claims are or (C) interact directly with other users via personal messages provided by this forum that you appear to have a problem with. Best of all, (D) just discuss the search for Raxxla.

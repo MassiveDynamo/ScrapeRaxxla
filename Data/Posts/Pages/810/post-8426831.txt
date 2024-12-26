@@ -1,0 +1,13 @@
+CMDR Tom Laeplight
+Apr 27, 2020
+#16,195
+Lest said:
+It's most probably a bug, but on the galmap, in realistic mode, when I select a system, its star is being doubled or tripled. It happened few times where I am:
+LBN 623 sector IH-V C2-14
+
+Any of you experienced this?
+
+Edit:Can't upload photos or videos for now. Forum issue...
+It shows the other stars in the system when you target it in the galmap
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum and Lest

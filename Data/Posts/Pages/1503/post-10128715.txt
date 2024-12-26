@@ -1,0 +1,14 @@
+Han_Zen
+Apr 20, 2023
+#30,060
+Jorki Rasalas said:
+Yep! Insight into the quality control that has been exercised!
+Evidence:
+LTT 2771 is supposed to contain the Smuggler’s Junction pirate asteroid base from AHTW, but not an asteroid in sight in that system in-game!! Also planet 1 is Tarlak...but Tarlak is supposed to be “the garbage planet” in CD-73 253. However CD-73 253 in-game has no planet, even though its system description explicitly discusses it having the garbage planet! Was this a Friday afternoon after a pub lunch job?
+
+I rest my case m’lud!
+It’s very heavy
+Click to expand...
+I have a feeling implementation of custom data for the pre-release books were not first priority, in the rush to get Gamma / 1.0 out.
+Reactions:
+Rochester and simulacrae

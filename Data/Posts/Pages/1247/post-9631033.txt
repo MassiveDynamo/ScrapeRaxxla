@@ -1,0 +1,6 @@
+Han_Zen
+Dec 1, 2021
+#24,926
+Frankymole said:
+Comets don't develop their tails until they come close to a star though. When they're in far off stages of their orbits they would look just like an nice asteroid from a ring (possibly dirtier).
+That's what makes the tail modeling complex. It's not a static object. I guess it hasn't been the highest priority either. It's mostly eye candy.

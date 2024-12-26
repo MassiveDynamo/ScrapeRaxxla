@@ -1,0 +1,51 @@
+Louis Calvert
+Nov 12, 2022
+#27,852
+@Han_Zen could be definitely, not sure if you saw this post.
+
+Update on early FTL: I've been watching the old interview with Michael Brooks, haven't seen that for years! It's got tons of great stuff in it, I transcribed the bits I thought were particularly relevant to what we've been discussing here the last few days. I've included timestamps so you can go back and check the vid for accuracy.
+
+DJ: Thank you so much for doing this, we really appreciate it, and also the fact that you're going to talk about the first question astounded me, we put that in as a joke.
+MB (laughing): You're assuming you're going to get a sensible answer
+DJ: I'm getting an answer, that's all that matters, it's an answer! We'll start there ... The first question we have is, where is Raxxla?
+MB (smiling): it's in the Milky Way, but I can't tell you were at this stage, it's a journey that everyone has to travel for themselves.
+DJ: OK...
+MB (nodding): And there you go.
+DJ: I like it, it's cryptic and it doesn't reveal a damn thing. You have always said there would be no clues though haven't you?
+MB (thoughtful): Erm.. that is true... but I think you have to make some of it a tiny little bit obvious just so people know what they're doing, but there's nothing to be revealed at this stage (smiling).
+
+1:34 Discussing the theoretical basis behind Frameshift drive.
+
+3:08:
+DJ: ... Before we move on from the Frameshift Drive, are we right in thinking that the Frameshift Drive was invented six years previous to where we are now?
+MB: Yeah it's a very recent invention, the old hyperspace techniques works on a different basis to the Frameshift Drive, it basically means that that the powers haven't quite gotten used to it yet. It's triggering a sort of, almost a golden age of expansion and exploration, as we've seen by people flying all over the galaxy.
+
+6:24: Discussing the accuracy of Stellar Forge vs Real Life, MB goes into detail about the care and attention Fdev went to to make a close approximation, not just of stars and positions but star-systems too.
+
+13:11
+DJ: How much of other races other than the Thargoids ... affected the development of the human race during the last thousand years. Is there anything we've not been really aware of?
+MB: We've been aware of an alien race for quite some time with the find on Mars back in the 22nd Century. I think it was, or the 21st...
+DJ: It's when they first established the colony on mars isn't it, they find the fossil?
+MB: So knowing that there's alien races out there isn't a new thing. The interesting thing with Thargoids ...
+... NOTE: Discussion goes on to cover how the majority of humanity didn't know about/care/believe in the First Thargoid War...
+MB: many people aren't convinced it was actually a real thing.
+DJ: See that shocks me, I mean alongside that there's the artefact that was found in space [MB: Yep] Now I know that nobody knows where it was from but do we know what it was, because all that we've got written in the timeline is "a relic".
+MB (smiling heavily, nodding): Ahhh... certainly nothing that's ever been publicly (unknown word "field"?) about it...
+DJ (laughing): Fair enough, so we'll stick with 'relic'.
+
+15:27
+DJ: When was it humans first left Sol, do we have a date on it?
+MB: We do, I'm going to refer to my notes for this, just so I get it right... So the first interstellar colony was on Tau Ceti and that was in the 2150s.
+... NOTE: DJ and MB Discuss the colony and the problems that happened there....
+16:24
+DJ: What propulsion were they using when they first left Sol?
+MB: So back then it was mostly slower than light drives like ion propulsion, so not too dissimilar to the technologies that NASA is using today, fusion torches, but they tended to be for the very big ships like generation ships that could carry enough fuel to make them worthwhile, so something similar in mind to the Daedalus project with its deuterium pellets, and of course there were experiments with hyperspace, but they varied in success, so they weren't considered reliable enough for large transportation which is why the early transports used the colony ships.
+DJ: This is something we often wonder about because they were sending probes through hyperspace [MB: Yep] quite soon after discovering it weren't they? but it's a couple of hundred years before hyperspace use seems to become normal for human carrying craft
+MB: Yeah, think that's simply safety factors. Obviously there were a few crazy people that were happy to jump in and make a jump but they tended to disappear or there would be some unknown accident or some trace of them would be found, so it's like with any technology, when you're at the forefront of it there's a bit of risk involved, especially if you're trying to translate across lightyears of space.
+DJ: ... This is one of the ones (holes) we'd discussed, why it is that there's that 200-odd year gap [MB: yep], and we'd assumed it was just trying to figure out how to send a human through safely, essentially.
+MB: Well, its large numbers of humans, and the bigger the mass the more energy you need and you need to have efficient methods of actually producing enough energy to actually do the jump.
+
+It's worth noting that this was 6 years ago, and therefore certain things may well have changed, but we can't know what or why, so let's just assume that these things are still basically accurate until we know otherwise
+Last edited: Nov 12, 2022
+Reactions:
+dysonl

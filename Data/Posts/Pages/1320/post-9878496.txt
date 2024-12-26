@@ -1,0 +1,6 @@
+SergMx
+Jun 29, 2022
+#26,400
+Nezzie Muso said:
+from memory, no ,. more like the outline of it. it was a nav panel icon, so thin lines. like the "unknown signal" square, but a hexagon instead.... so actually - like the middle of that icon. like an engineer symbol but flat side down rather than point down. of course, my memory could be wrong. i couldn't see the symbol in the hud list in the beginners guide at the time; and then later when i saw the raxxla symbol (which you've posted) it immediately reminded me of the unknown icon i'd seen when exploring
+I think this bug has long been fixed in the next patch.

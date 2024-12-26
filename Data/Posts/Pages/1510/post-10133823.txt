@@ -1,0 +1,10 @@
+Dox Paradox
+Apr 28, 2023
+#30,181
+Zeeman said:
+I seem to remember this being a bug in the original game
+I think you're referring to the "worm hole" issue, where a ship was able to jump very far beyond its normal capability. It was done by targeting a system at a specific distance, it worked by over-flowing a numeric format in the source code.
+Jorki refers to the fact that a ship could mis-jump in an unwanted destination if its wasn't serviced after a while.
+While it wasn't of particular use in FE2, it could have been a way to achieve a forbidden jump in ED (a somewhat desperate move, I agree ^^)
+Reactions:
+Rochester, CMDRCorrMorningstarFelian and Zeeman

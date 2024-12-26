@@ -1,0 +1,17 @@
+Jorki Rasalas
+Apr 3, 2022
+#25,810
+Robert Rockbite said:
+1) The hexagon pattern is prominent in the game, e.g. with the Raxxla symbol (as opposed to octogonal thargoids).
+
+2) Police ships fly a hexagon pattern around stations. If you wait a while for more police ships to spawn, you can even see the hexagon pattern in their drive trails.
+View attachment 299770
+3) Some properties of stations could be a lead.
+
+4) I tried measuring the stations' orbit by aligning the stations with distant stars behind them at different times. The idea was that a station's alignment would sweep through space, e.g. in a plane or cone. Measuring the paths of different stations and computing the intersecting objects between those different surfaces would yield e.g. a curve, and ultimately, a point, defined by 3 stations.
+So far, no results. When assuming that a station's orbit would form a plane (meaning the station's axis is parallel to the radius of the orbit), I found that many stations form nearly parallel planes. And when I found stations that would deviate and used their orbits to obtain locations, the locations would be all different.
+
+5) Lights around a station's mail slot could be some kind of code. Sometimes some lights are dark, some are coloured, some show a flickering like damaged flourescent tubes, maybe flickering in morse code.
+Click to expand...
+Some good thoughts there! But not all stations point towards the planet they’re orbiting so the station axis isn’t necessarily aligned along the orbital radius. I think some are & that was a hangover from the original elite game when that arrangement was chosen to reduce the graphics loading.
+Happy hypothesis testing!

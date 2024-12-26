@@ -1,0 +1,29 @@
+Thatchinho
+Jul 20, 2019
+#9,674
+Scytale said:
+Yeah. Must be a little bit of everything you say, guys. Simpler answer being often the best. Kind of bug... Must be..
+A system I visited. Honked and bookmarked one of its bodies. Then I auto-destructed. And, for some technical reason, the bookmark remained. As well as the possibility to see the system map, even when marked as unexplored.
+Weird things of ED...
+SPOILER
+
+Or the Gods of the Galaxy are sending me a sign to push me to go there and investigate... The thing is I am an agnostic and so I don't believe in them.
+But is also a very down-to-earth cryptographic technique . This .)
+
+How can we do that ? I am trying but no way I can do it...
+Click to expand...
+Bookmarks only go if you manually delete them.
+
+I had a load of Unexplored bookmarks for a while, but know exactly how they got there.
+
+They were from a pre 3.3 (around 2.1 maybe) trip.
+
+Was travelling somewhere so was jumping and honking. Bookmarked interesting systems to come back to. They were mainly undiscovered systems.
+
+As it was honk only for those systems, they still show as Unexplored after handing in the explo data.
+
+Surface scanning but ship being destroyed before handing in explo data would result in the same thing I would think.
+
+If you can see the system map I would suspect that you’re in the former type of scenario not the latter. Can’t be sure without testing though.
+Reactions:
+Scytale

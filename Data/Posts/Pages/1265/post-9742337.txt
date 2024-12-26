@@ -1,0 +1,17 @@
+Merlin StWahgwaan
+Feb 14, 2022
+#25,299
+I'm kind of working on the theory that has to do with the way Fdev handels Instances....
+
+that what ever Raxxla is, likely a station/planet... it exists in a constantly running, highly monitored, Instance, on fdev servers....
+Meaning, the Instance is always 'available', but only if the right requirements on the server are met.
+This would allow fdev to monitor exactly who, if anyone, ever sees raxxla, it would also allow for cmdrs to be physically at Raxxla in another instance and not see/have access to it....it could then contain custom models ect that don't download to our devices until we begin to load the Instance, just as cmdrs in open are synced to your devices when joining...
+
+We know that the servers kind of over-flow cmdrs in instances, and create new ones when needed. So using that as a security measure to guarantee control over any information about Raxxla, could be a huge tool, and also limit the number of cmdrs who can be at Raxxla at one time by limiting it presence to only 1 Instance...
+
+Imagine just this single Instance with say DW NPCs for example, running with strick requirements set on the server for when/how a cmdr can actually join that specfic special Instance, would be a perfect way to have stuff both part of the BGS, as well as, completely cut off from anyone who doesn't meet the requirements for access, even if they are right at the spot.
+
+Then all the things about Raxxla moving, ect could be playing out in that Instance, as opposed to just being some object that is called on at the right time to the right place....
+
+Again, all conjecture and some huge leaps, and definitely needs some refinement.... but I believe it's possible that both Raxxla and the DW stations could be hidden in the way, making any and all attempts to access them thru any means other than the specfic parameters set by fdev, impossible
+Last edited: Feb 14, 2022

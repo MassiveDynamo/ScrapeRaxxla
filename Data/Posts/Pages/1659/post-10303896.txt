@@ -1,0 +1,8 @@
+Ian Doncaster
+Jan 26, 2024
+#33,180
+CMDRCorrMorningstarFelian said:
+The closest I ever came to a mis-jump is cutting power either to the FSD or power core during supercruise. It simply isn't possible to do that during a hyperspace jump (a.k.a. "high waking"). Emergency drop from supercruise is a close possible second method and this can be forced. In both "mis-jumps" you come spinning back to real-space and take both hull and module damage.
+I was trying the old "max pitch up on hyperspace entry" approach from Elite 1. As you say, there's no documented way to cause one in Elite Dangerous but it would have been a logical addition given that I was already using the "misjump places you halfway between source and destination" description from Elite 1 rather than FE2/FFE's "misjump places you at a random interstellar location usually vaguely near your destination" ... and it would, had it worked, have been an easy way to make sure no-one ever stumbled on it accidentally just by jumping between the right two systems.
+Reactions:
+CMDRCorrMorningstarFelian, Louis Calvert and Quaero

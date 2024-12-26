@@ -1,0 +1,14 @@
+Jorki Rasalas
+Sep 6, 2019
+#11,965
+DrewCarnegie said:
+That's partly why region/system locks are central to my Raxxla and TDW theories. Raxxla being randomly stumbled across by someone who wasn't even looking for it would be hugely disappointing.
+
+Also, from a technical perspective, region/system locks are a long-standing mechanism (present in the game since Raxxla was added) that can be easily tested by FDev without anyone needing to know where Raxxla is. Coding something specifically to obscure Raxxla or the TDW station is an unnecessary extra effort, and runs a risk of breaking whenever new features (eg the FSS) are added. Unlocking permits is the same - there's an existing, easily tested method for doing it.
+
+I also suspect Raxxla may be in a permit locked system, with TDW the permit provider. As I said yesterday there’s such a system, uninhabited, about 20ly from Shin Dez which makes me suspicious (more so than normal, for me).
+
+The only proviso is a sneaking suspicion I have that DB once said, or was reported as having said, he was surprised nobody had found it yet. Also seem to vaguely remember someone muttering something about it possibly being found happenstance.....
+We really need a codex entry on FD with all their statements & musings!
+Reactions:
+Vetinari, Six6VI, PeteACarter and 1 other person

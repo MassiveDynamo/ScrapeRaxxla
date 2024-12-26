@@ -1,0 +1,7 @@
+selbie
+Dec 16, 2023
+#32,526
+I don't know much about ED's design, but it seems like the jumping marker is due to floating point errors the further away you get from the system origin point. The marker seems to jump approximately every second (ie. client/server tick) and even 'catches up' with a double update due to latency or local network.
+As for the arrival issue, I'm guessing each star is basically an instanced 'boxel' that your client generates from the seed when you enter that instance. So even though you technically arrived at the correct location, the game only sees you as being X billion km from Kaupolock and won't generate LFT 509 until your client gets permission.
+
+Sadly it shows the permit lock is impenetrable outside of some hacky TOS breaking technique.

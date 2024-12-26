@@ -1,0 +1,12 @@
+alexzk
+A
+Apr 21, 2020
+#16,100
+Source: https://i.imgur.com/64e9fp7.jpg
+
+
+haha - nice bug, from inside srv it seems like it is not flying.
+Guess they do collisions for bounding boxes only ... that will delay space legs a lot. As needs to implement whole new collision system and setup all models.
+Last edited: Apr 21, 2020
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

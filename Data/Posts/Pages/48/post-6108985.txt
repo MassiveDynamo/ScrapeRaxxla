@@ -1,0 +1,11 @@
+Stinja
+S
+Nov 7, 2017
+#949
+DrewCarnegie said:
+Could somebody please search for 'HD 93359'.
+I get taken to a location in the SYNUEFE sector, but no star information shows up. I've tried various map settings, but can't find a way to make anything show up.
+Can confirm.
+Entering gets the marker to move to that location, but you get no information, and cannot auto-plot to it. Tried flipping between Realistic and various filters, and no joy.
+Reactions:
+[Diplomacy] Carnegie

@@ -1,0 +1,24 @@
+CMDR Davanix
+Jan 19, 2024
+#33,043
+Louis Calvert said:
+Yes, that's exactly what I always do in recordings
+
+Ok, so I think I know what's happening here. Firstly when you move the camera, there is always a sort of "warbling" noise and other sounds caused by the camera moving, this sound persists for a little while (few seconds) after you stop moving the camera.
+
+Judging by your video, you rarely settle in one location for more than a few seconds at a time.
+
+Secondly, I think the sound is different if you're looking laterally from the super cruise "tunnel" (e.g. not in the direction of travel).
+
+I think these features are to simulate sort of doppler effects coming in as you're whipping through superluminal real-space.
+
+Could you test your idea again, but do this:
+
+1) Repeat as your video, but allow the camera to settle for 30 seconds before moving it again.
+2) Repeat your video, but always keep the camera faced in the travel direction of the ship (directly forward) for at least 30 seconds. Obviously you need to face the ship in different direction in order to record different parts of the sky.
+
+If you still hear the noises when doing these two steps (and thereby eliminating the variability in super cruise), you may well have found something new
+Click to expand...
+Thanks for this, the video was jus a quick one due to time constraints (Parenthood is killing my game time) although i can say there is definitely a constant sound when not moving the camera the reason i was whirling the camera is to show confirmation that certain area Now seeming to be near LMC instead of andromeda due to a good few jumps since last night (Past Regor sector towards galaxy centerish)was the sound source, il try get time to make a longer video but urge others to check it out also so its not missed if it is infact new
+Reactions:
+Quaero and Louis Calvert

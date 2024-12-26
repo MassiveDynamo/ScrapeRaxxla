@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 26, 2019
+#11,369
+Vasquess said:
+To me it seems like you are searching a point that has the same distance to each of three given points just by brute force, assuming that the solution must be in the cube between the two point created from the dimension's mins and maxs. Can that be taken for granted?
+
+My 1st idea would have been to try some algebra. That should be more efficient.
+…The more I'm thinking about it I get the impression that the equations won't be trivial to solve… My math lectures were a long time ago! Does anybody know the solution??
+
+Whoops, seems that I'q quite late
+The centroid of a 3D coordinate triple is (x1+x2+x3)/3, (y1+y2+y3)/3, (z1+z2+z3)/3

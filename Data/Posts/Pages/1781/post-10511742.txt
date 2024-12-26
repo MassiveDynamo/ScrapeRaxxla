@@ -1,0 +1,25 @@
+Louis Calvert
+Dec 17, 2024
+#35,603
+Nezzie Muso said:
+I'm double or triple elite in trade and exploration, just never found the combat very interesting. It is possible that there are more covert missions to do, its just worrying that I've heard literally nothing since legacy was hived off from live/odyssey two years ago. Prior to that, i got the "elite" mission 3 times. Since then, nothing. I tried asking FDEV if raxxla was still in legacy but they absolutely refused to discuss it.
+
+I also spent an hour last night trying to honk repeatedly in the vicinity of the comet both in supercruise and normal space - with no result whatsoever.
+
+someone asked - i've never successfully landed in the comet instance, even though i know some people have been able to do it almost at will. I've really no idea what i'm doing wrong and i would really, really appreciate someone able to wing up in legacy and help me into the instance.
+
+I would also mention that i've a family and a job and i'm doing this in random 5 spare minute segments so apologies if it take me a while to pick things up or i miss something
+Click to expand...
+The thing is, as long as you're having fun that's great, but in terms of what you've actually found so far there's very little to suggest this is significant in terms of the actual game mechanics or activities, so don't worry too much about spending your free time on it exclusively
+
+You spent a while in that area doing missions and such, and got Tip Off missions, that's normal and can happen in most places. I got three of them last week running evac missions from the systems around Sol. This thread from years ago is (afaik) still relevant. In that discussion Ian Doncaster made this post with a theory on how they worked, and later the "mission guy" at Fdev said: "Ian Doncaster's post is the most accurate post I've seen anyone write up about tip-offs, but it's not completely correct."
+
+The Pareco comet is nothing new, comets and stations orbiting them have been common knowledge since the earliest days of the game (though they are cool ). Your fit of the comet stations to the codex is inventive, but very far from solid. The rest of your points are inventive, but again, very far from solid - Polaris is only the pole star when viewed from Sol (in the present), for example... so there's a question about whether that would relate to an ancient alien something, etc.
+
+This:
+Nezzie Muso said:
+It came up in a grey text overlay over the centre of the visible screen, and said that i was now considered elite. HOWEVER - it didnt change my actual rating at all. (eg, I'm still only master in combat
+
+is the only strange bit. You say it happened after you did a Tip-Off mission, and this repeated three times - it sounds like maybe it was a bug, it's certainly unusual - but if you've been trying to repeat the same steps and not seen it for 2 years, then that does suggest it was a bug that's been patched, at least. It doesn't sound like anything I've ever seen in-game at all, or heard anyone talk about anything like this, so that's why I'm sceptical it was purposeful.
+
+... and I'm wondering if it's possible that you maybe mis-remembered it or mis interpreted it, like you did with your previous report (from about 2 years ago) of a symbol that looked like the Raxxla logo appearing in your nav panel? Since this happened around that same sort of time...

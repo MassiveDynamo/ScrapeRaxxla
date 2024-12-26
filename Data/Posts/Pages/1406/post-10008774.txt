@@ -1,0 +1,26 @@
+SongOfTheVoid
+Nov 28, 2022
+#28,115
+Pyroboros said:
+Cant find anything else but your post if searching for 'Devs Skeleton Graveyard' there are a lot previous pages. Also cant search via a limited profile. Can you provide more details what to read about it. I am curious and want to know more about that.
+This Thread has picked up some speed and volume. I can't always keep up.
+
+Of course they can be just empty unused references. Maybe they only used one. We do not even know if SAG A* is the only Supermassive BH in the Game.
+The point is they are documented, while other empty unused (not fully implemented) references are not documented.
+Edit: to be more clear about my intention: i do not meant that Raxxla must be a RP. I just wanted to point out that it's easier than one might think to do a Raxxla Version like that and that it would not be to difficult to hide it if done that way.
+
+
+Rogue Planet is neither an orbital type (which doesn't exist at all) nor a Planet type
+(I think u mean, Planet Class like Metal rich body or Earthlike body, or Body Type like Null, Star or Station)
+Rogue Planet is listed under StarType (like Black Hole, Neutron or Be A Fine Girl Kiss Me).
+Click to expand...
+The Quest To Find Raxxla
+As for my tinfoil comment of the day, I've been optimistic that a subspace galaxy exists within the one we can visually observe. "Witchspace" is a place know scarce little about and I'm sure it hides secrets that could shed light on many of our questions, including Raxxla. YES! I'm working on...
+forums.frontier.co.uk
+Description of hidden and Devs Skeleton Graveyard systems.
+Ive no idea what your talking about regarding your information at the bottom... a Rogue planet is a planet that doesnt have a fixed orbital path its literally what the classification means, Im also unsure if your trying to be pedantic regarding 'Planet type' as again, "Rogue Planet" literally has "Planet" in the name and only is included in the Stellar bodies list as it was a placeholder for "This body can move from star system to star system" nothing more as explained above.
+SagA* Is the only SMBH in the galaxy as SMBH's loose that classification once they have been ejected from their parent galaxies, the only body that may fall into this box ingame is outside of the main galactic sphere and is 'Out of bounds' and thus cannot be zoomed to or accessed on the galaxy map and falls into a grade 3 hidden grade.
+As for the thing in the spoiler you 'cannot mention' if your referring to the Null body point that can be found by people who know how legitimately but by all means we should all name and shame every single dataminer who engages in using methods to extract information shouldnt otherwise have.
+Last edited: Nov 28, 2022
+Reactions:
+CMDRCorrMorningstarFelian

@@ -1,0 +1,7 @@
+SergMx
+Nov 25, 2023
+#32,167
+I think that in a procedurally generated game, developers are forced to block formulas in key places. This sometimes shows up as a bug elsewhere in the game. On the screen below, for some reason translated the name of the Alioth system and as a result of this engineer can not show the distance and switch to him on the map.
+What is remarkable system Alioth ?
+SPOILER
+P.S. I wonder if it's the same in other languages ?

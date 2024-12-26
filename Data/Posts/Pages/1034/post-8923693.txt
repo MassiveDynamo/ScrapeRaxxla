@@ -1,0 +1,18 @@
+Yuki Estelle
+Jan 28, 2021
+#20,667
+Created some simple templates for organizing encounters. Intentionally downsized for ease of use and to match up with the equally-small Raxxla logo located on the Wiki:
+
+SPOILER: ORRERY TEMPLATES
+
+
+
+
+
+After experimenting for a while with overlaying the Raxxla logo I ran into some alignment issues, namely that the corridors never appear to totally line up with the Orrery view regardless of it's rotation. Here are two examples:
+
+SPOILER: SOME OVERLAY EXPERIMENTS
+
+
+Reactions:
+[PS4] Filthymick420, Jorki Rasalas, Ravenl0ft and 2 others

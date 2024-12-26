@@ -1,0 +1,17 @@
+Beng_Ammon
+B
+Dec 5, 2024
+#35,491
+Jorki Rasalas said:
+A belt is a circle, defined by its in-game centre point and radius. The centre point is, unsurprisingly, at the Sun. That you can select that point is a bit of a programming bug that has been raised frequently for the last 10 years.
+
+I reported it to FD as an issue back in 2016 when I got the permit & first saw it.
+And I am saying it could be a giant arrow, that they have never approached something, fairly central to the most central and engineered system in the game.
+
+Every other asteroid field works perfectly. Except Sol's.
+
+I can go to Tau Ceti, and go to their Asteroid sites that are less than 4 ls from the star. Never any issue with any star outside of Sol.
+
+Also, side note, every other Mining site in every other Planet's rings work 100% perfectly. Except the Void Opal site in Neptune's rings. Which doesn't have a drop point.
+Reactions:
+Blaggerdy

@@ -1,0 +1,7 @@
+CMDR Davanix
+Dec 19, 2021
+#24,992
+Jorki Rasalas said:
+That "loading please wait" se ms to happen all over the place, so I place no emphasis on it.
+Have you tried flying into the Struve 1694 B instance to see if it’s the gateway?
+As soon as you click jump the game crashes

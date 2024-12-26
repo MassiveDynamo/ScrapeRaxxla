@@ -1,0 +1,33 @@
+Louis Calvert
+Sep 20, 2024
+#34,893
+Neestar said:
+The whole 'radio signal' aspect def. makes logical sense, from a typical deep SPACE perspective and i've noticed your posts & diagrams before , but tbh i got sorta confused. Is there a specific system ( or systems ) LIST whereby some newb like me could just go thru each nav point one by one , methodically?
+You can detect the Landscape Signal itself from anywhere. Follow the directions of the IRH investigation from this thread: https://forums.frontier.co.uk/threa...xla-hunters-investigation.508024/post-7720678 download the PDF and read it through.
+
+The IRH investigation report is excellent and that's what I started with once I'd solved the Codex and realised it points to the centre of the Galaxy. I then looked for things there and found the LS (which was discovered a few years ago).
+
+From there I studied the LS and made many hours of recordings from many different systems.
+
+After getting familiar with it and basically just playing with Audacity settings (and using other sound software to test things too) I saw "the Bird in the Mountain" as a very faint 'ghost' image, and from there I started focusing in. Specifically the "tail" feature I've ringed here in red is extremely visible on almost all recordings as it tends to fall into a quiet band. Just look for that.
+
+I personally believe that the "mountain" feature is intended as a highlight, a sort of "look here", it may even be a later modification of the signal when it wasn't discovered originally.
+
+
+
+I then travelled to the centre of the galaxy and along the way took many more recordings as I got closer to see if it changes at all with distance.
+
+Once at the centre of the Galaxy I replicated IRH's investigation to triangulate the source as they did, and got the same result. Then I tried to replicate the Canonn investigation to narrow the source down as they claim to have done. I wasn't able to do that effectively and I personally (no shade intended) don't know if it's possible to get it as precise as they claim using the methods they claim to have used - but it's certainly somewhere around there, so I'm happy to accept their findings since they are compatible with the IRH investigation too.
+
+I then focused on the 'ghost' images I can see in the LS, and spent about 2 months tuning the spectrogram and looking for more. I was able to confirm to my satisfaction that the 'ghost' images are stronger and much more visible when near the LS source, and I was able to use them to triangulae the source using a similar 'grading' method to the original IRH investigation, but using the "Bird in the Mountain" feature as the benchmark in terms of 'how visible is it". The result I got placed the Source somewhere near Stuemeae JM-W C1-5825, which agrees with the Canonn triangulation and within the area identified by IRH.
+
+From there I was able to determine that there are many 'ghost' images through the LS, I've only shared a couple of them here because I want people to see them themselves without knowing what I think is there.
+
+I then tried to filter out the noise, and to use various methods of removing the galactic background sound which is causing interference, etc. but I was unable to get anything to really get much clearer results.
+
+I am 100% positive that these 'ghost' images are there. I'm 100% positive the intention is for them to be 'just' visible under close study, and therefore encourage more investigation. I don't know what the next stage of the puzzle is though. I am assuming the intention is for the 'full image' to be revealed, but I don't know how that's supposed to happen. My assumption is that there's some methodology I've failed to do. Hence why I keep trying to get people to investigate this because this is real, there are hidden images, and they have clearly been placed there with the intention of discovery using the exact same method that many other things have been hidden in audio though the game (Shamash sound, Carrier antenna, Thargoid map).
+
+My thread, as long and rambly and poorly written as it is, contains literally everything I've done, tried, or thought about this, including how all this relates to the Raxxla Codex and how it ties in with the hints dropped by Braben and Brookes.
+Last edited: Sep 20, 2024
+Reactions:
+simulacrae and Rochester

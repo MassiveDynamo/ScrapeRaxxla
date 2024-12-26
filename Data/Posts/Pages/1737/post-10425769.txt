@@ -1,0 +1,33 @@
+Louis Calvert
+Sep 7, 2024
+#34,734
+Rochester said:
+An interesting aside
+
+I was playing around with words and systems the other day, typing in characters say from Dante’s Comedy and found a whole bunch of systems linked to the name Francisco.
+
+Sadly these don’t relate to the comedy, that character, nor any system naming, but rather to stations all named after: Francisco de Eliza, a Spanish navigator and explorer.
+
+So what seems interesting about these is that of those I was able to find, all seem to be concentrated on one particular side of the bubble, in a kind of boundary.
+
+When comparing this with various other aspects I’ve mapped, it looks to me they do seem to form a boundary area, I do wonder if that’s intentional, or it simply mirrors the shape of the general bubble. One layer I applied which fitted perfectly was the Thargoid Maelstroms, with one falling directly upon it.
+
+In short considering their contextual history and in game location, I do suspect they are placed intentionally and do form some type of boundary area.
+
+How interesting. In short I feel it supports other suspicions, namely that naming and placements of systems is not arbitrary.
+Click to expand...
+I'm sure others will probably know more about this and explain it better, but from what I'm aware the naming of systems was done semi-manually via essentially just writing them into the database after stellar forge generated the galaxy (and presumably after manual placement of systems was done too). So effectively overwriting the procgen stellar forge names when a 'real' star name wasn't available.
+
+If this is right then it's very likely Fdev first made a master list by pulling names from anything they could think of. What this will do is naturally create a 'clumping' in the master list.
+
+For example, at one point someone probably went through the 'classic' novels to pull names of places and locations. That means the names/places associated with those novels will be on the master list in one place. Like you're pulling data from Dante's Inferno, all that data will be clustered on your master list. Unless Fdev then deliberately went and randomised or sorted the master list, this clumping will remain as a natural consequence.
+
+Assume Fdev didn't sort the master list, then when Fdev copy/pasted that master list into the database that contains the system names, what you'd get a replication of that 'clumpy' data, governed by the way that Stellar forge generated the random names on the database - with exceptions broken up by manual entries or stellar catalogue names.
+
+See what I mean?
+
+I suspect what you and a lot of other folks have detected with certain system groupings is this 'data clumping' effect.
+
+At least, you can't rule that out when you're doing this type of analysis.
+Reactions:
+Han_Zen

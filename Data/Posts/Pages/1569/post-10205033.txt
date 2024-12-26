@@ -1,0 +1,11 @@
+Han_Zen
+Aug 24, 2023
+#31,363
+CMDRCorrMorningstarFelian said:
+Doesn't Drew Wagar's official Hyperspace Lore video make reference to rumors of several thousand lightyear jumps?
+
+Note to self: Archive these for reference tonight.
+There was a bug in FE2, that allowed you to jump as far as you wanted. The hyperspaces rage wrapped at a distance of 65,536 ly (iirc). This meant that if your ship had a 20 ly jump range, the game would allow you to jump to any systems that were between 65,536 - 65,556 ly away.
+With a little clever triangulation you could basically jump anywhere, in two jumps.
+Reactions:
+CMDRCorrMorningstarFelian

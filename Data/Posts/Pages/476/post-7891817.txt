@@ -1,0 +1,7 @@
+Scytale
+Banned
+S
+Jul 10, 2019
+#9,502
+Misjumps should happen when FSD is around 80% integrity. But the game only implements work/doesn' t work mechanics, it seems.
+Maybe trying to jump while still inside a neutron jet with the FSD already battered and overloading? But I bet it was already experimented.

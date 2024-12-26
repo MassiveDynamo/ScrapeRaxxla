@@ -1,0 +1,11 @@
+simulacrae
+Mar 10, 2021
+#21,871
+[PS4] Filthymick420 said:
+I discovered (probably not?) That you can cause a fault in the jump to the entry point in the target system. As such Fdev, I am calling this a misjump. Fdev can suck a lemon if they don't like it. Now they're in game (or technically out of game as the app is closed when the 'misjump' occurs). Problem solved.
+
+Splitting hairs about the terminology doesn't change what happens. The action causes the ship to come out of its jump routine at a location other than where you should come out of a jump.
+
+There are misjumps - Jacques was an obvious one. I remember MB coming on one of the iterations of the Mysteries thread when we were pfafing around with trying to cause misjumps and - I could have swore he said there was no way to do it. - of course I cant find this quote now.... And I took it to mean there was no Mechanism by which players could cause a Misjump... like in older games.... not that misjumps are now non-canon.
+Reactions:
+Machina Ergo Sum, Leeloo Catfish, CMDR Deano The Imperial and 1 other person

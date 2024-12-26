@@ -1,0 +1,17 @@
+CMDRCorrMorningstarFelian
+Dec 3, 2023
+#32,320
+Suhurrat said:
+I'll add an quote from the wiki here.
+
+
+Technically, you can jump both long and not so long distances. If we take into account that hyperdrives existed a long time ago, just made in different ways and using different fuel - then it is quite possible to assume that someone crazy thought of charging their engine from a neutron star, get lost in space, found out raxxla and etc.
+
+I mean all of this from a lore perspective. After all, we know that the raxla was found long before the modern FSD.
+We have fuel scoops by invasion of Achenar following Mudlark extinction (trip to Achenar from Beta Hydri started Fall 2323). I would say it is exceptionally likely we had fuel scooping before we left Sol. So, enhanced jumps should be viable. Additionally, I have sincere doubts that a jump limit of 7 lightyears was ever a thing. This seems like propaganda. Jump range is based on mass, fuel tank size, and mass of modules plus any cargo. There is not anything that should ever really have limited it to 7 lightyears maximum.
+
+Jump range
+Jump range is a ship statistic that displays the maximum length of a Hyperspace jump. If the distance to a system is greater than the ship's jump range, then the ship is not able to jump there. A pilot can check their ship's current jump range in the Ship tab of the Internal Panel of the HUD...
+elite-dangerous.fandom.com
+Reactions:
+Louis Calvert

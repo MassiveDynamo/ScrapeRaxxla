@@ -1,0 +1,36 @@
+Han_Zen
+Aug 14, 2023
+#31,264
+What is Raxxla?
+
+I have been thinking that it might be useful to take a look at what we have, at this point. What would work, in the game mechanics and in the story.
+
+What is Raxxla?:
+- Most of the info we have suggest that Raxxla it self, is a rather mundane object. A moon, a planet an asteroid or something. It could be artificial, but most likely it's a natural space object.
+-There is a fair chance that Raxxla is hidden in some way. This would mean that it does not show up on the system map, after scanning a system. A hidden Raxxla could be natural (very large distance to star, small size or covered by some dark nebulosity). Raxxla could also be hidden with some form of technology (cloaking).
+
+What is Raxxla's function?:
+- The hints we have suggests that Raxxla's function is to house some kind of portal device, that was built by advanced aliens. We can call it the Ompalos rift, an alien construct or a golden ladder. Either way the function is to transport someone to another location. It's not unlikely that it actually gives access to two different locations. This would fit with the upper world / normal world / underworld theme.
+
+How old is Raxxla?:
+- Raxxla it self may be as old as time, but the portal is probably relatively new. If we assume that the aliens that built the portal on Raxxla are the basis for some of the mythology and religion that we try to interpret, we can sort of date it.
+We know that the poet Hesiod (between 750 and 650 BC) describes that he lives in the Iron age and that the gods had left earth. Before the Iron age, was the age of Heroes. The gods were present in this period that includes the battle of Troy (often dated 1194–1184 BC).
+The human mythological history probably goes back another 10,000 years, so this might be the period (12,000 BC - 1,000 BC) where Raxxla was in active use by it's builders.
+There might have been a small visit in about year 0.
+
+Where can Raxxla take us?:
+- From a game play perspective it would be logical that it gives access to somewhere, that is unreachable without it.
+Somewhere that is to far, somewhere that is locked or somewhere in a different reality.
+
+- To far includes most of the universe but FD has clearly stated that the Milky way is the only galaxy in the game. We can reach most of the galaxy. To far, is therefor likely limited to far out systems, that are separated from the rest of the galaxy with more than the max jump distance of everything we can use. This may include satellite galaxies, as they are often seen as part of the milky way.
+
+- Locked space is simple. There are a bunch of remote, permit locked sectors. Raxxla's portal could easily lead to one or two of these. From a pure game play and implementation perspective, this is the simplest solution. I feel it's a bit weak from a story perspective, as the permit locks would not have applied to the original builders.
+
+- A different reality, could be almost anything. The two options that are actually mentioned in the game are hyperspace and the virtual AI world of the guardians (Monolith network). Both are valid options. Witch space is a central element in the TDW novella and the Guardian technology and time line is well established.
+
+Where is Raxxla?:
+- I have no clue. We can however assume that it is within practical travel distance from earth, for those who built it. We might also assume that there is some form of alignment between Raxxla and it's destination / destinations, or between Raxxla and Sol (earth). This could be a linear alignment or something more advanced, like 120° angles in a fixed plane or a 3D shape.
+
+What do you think?
+Reactions:
+CMDRCorrMorningstarFelian, Rochester and Edelgard von Rhein

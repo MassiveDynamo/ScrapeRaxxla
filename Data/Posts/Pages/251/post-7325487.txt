@@ -1,0 +1,18 @@
+eadghe
+Jan 8, 2019
+#5,010
+I took a look at the Raxxla logo from the codex and here is some tin-foil I came up with. Not sure if someone else had this idea before me but at least I don't know about it.
+My assumption is that the logo represents a map or a guide to how to access the Raxxla system.
+
+SPOILER
+
+I assume there are 6 stars somewhere, s1 to s6. The centre of the logo represents the system in which Raxxla is located and this system does not show up in the system map. The 3 curved structures (m1 to m3) represent something like one-way mirrors or fields which let you through from one side but stop you from the other. This means that in order to access the system one must jump either from s2 to s5 or from s4 to s1 or from s6 to s3. Jumping to one of the systems from somewhere else or jumping to some other system or even jumping in the opposite direction does nothing.
+
+I also assume that the 6 starts are close to the bubble but not inside the bubble because traffic inside the bubble is too high and people would have accessed the system accidental many times. I also think the 6 starts are very close to each other (probably < 10ly) so that it is rather unlikely that someone made one of those jumps because people usually use highest jump range outside of the bubble. If someone would made the correct jump by accident, he would probably not realized this because in order to do so, he would have to realize that the system name (or even the start class) is different from the original target.
+
+So, how to check this idea? One would need to write a program which tries to find a combination of 3 pairs of systems which are close to each other and where the line segments between the pairs go through (roughly) the same point.
+
+
+I know that this is totally theoretical but I though I share it anyway.
+Reactions:
+Armstrong

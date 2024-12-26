@@ -1,0 +1,16 @@
+Han_Zen
+Nov 18, 2019
+#13,365
+Jorki Rasalas said:
+Actually, there may be a quicker and more reliable way...
+Is there any in-game station actually placed at a lagrange point???
+
+Edit: Doh, I knew I was having a brain-failure!
+Just need mass of star, planet & semi-major axis, station mass unnecessary.
+Need to do some in-game testing, unfortunately not tonight...
+For L4 and L5 you don't even need exact masses for the star and the planet. As long as the star is more than 25 times the mass of the planet, they are stabile and at fixed positions on the orbit line.
+In ED, L4 and L5 seem to be the most common locations for Lagrange objects.
+
+In the RL Sol-Jupiter system, L4 and L5 are heavily populated with the Trojan and Greek asteroids.
+Reactions:
+[PS4] Filthymick420, Jorki Rasalas and simulacrae

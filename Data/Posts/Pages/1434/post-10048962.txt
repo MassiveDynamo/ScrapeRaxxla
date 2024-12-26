@@ -1,0 +1,111 @@
+Edelgard von Rhein
+E
+Dec 30, 2022
+#28,676
+Rochester said:
+Upon the outer rim
+
+Within my ‘John Milton Conundrum’ I identify the system of Pandemonium as a celestial South Pole, in relation to its positioning to Sol, and the celestial equator.
+
+Following on from this it is only logical to assume one could extrapolate a North Celestial pole.
+
+The reasoning behind all of this was an attempt to uncover any oddly named systems in this location, which may correlate with the positioning of Pandemonium because within John Milton’s Paradise Lost, the North celestial pole is of some significance.
+
+Firstly this location is the apex in Milton’s story which houses an opening of the outer Crystalline Sphere, where Lucifer enters our realm. It is also the location of the golden retractable stairs which end at Heaven’s gate.
+
+To note although multiple drawings of the model universe do exist. not any are definitive, nor are there any exact dimensions fixed by reference points, to plot such a construction. In many of the texts and drawings depicting this model universe, none are the same, and interpretation is at best abstract.
+
+The only defining measurement which could be relatable is: ‘’. J Milton - Paradise Lost.
+
+This supposedly describes the distance of Hells gate as being equal to that distance attributed to Heavens Gate in relation to the centre, that being Earth / Eden.
+
+In the text it is never confirmed, but would indicate that Hell is located outside this Crystalline Sphere, either in the realm of Chaos surrounding the Crystalline Sphere, at its southernmost point or at the utmost southern point of all of creation, but what is known is, Hell is at the exact opposite end in relation to Heaven, according to John Milton.
+
+In game it is possible to plot the location of Sol and Pandemonium and from this, extrapolate a series of coordinates, and from these develop a number of assumptions.
+
+That is ‘if’ Pandemonium is placed accurately, I propose it is with a 40% to <50% level of probability; but also only ‘if’ FD are following Milton’s model accurately, only then can one identify the location of the celestial North Pole and Heavens gate, if they are indeed in game!
+
+This is speculation.
+
+My assumptions are also based upon the knowledge that Paradise Lost is one of Michael Brookes favourite stories, and that Brookes has utilised the ‘Heavens gate’ motif in at least 2 of his commissioned art works; again, pure speculation.
+
+The Crystalline Sphere also holds two other locations, namely Lucifer’s viaduct and the Paradise of Fools which equally could be of importance in the search for Raxxla.
+
+Lucifer is in the text described as a ‘wanderer’ upon this sphere, almost lost, and sees ‘heavens gate’ from afar. One might attribute it as being ‘upon the horizon’ of this sphere as he travels towards it, Heavens gate is also described as ‘bejewelled’ and shiny with burning ferocity!
+
+This theory as well as being space-madness could just equally relate to an archived narrative, Easter egg or content not yet in game.
+
+The following hypothesis omits any references to the Yggdrasil systems discussed previously, as although they fall within the 2296 sphere of influence, here they all fall outside the spheres of influence discussed below, and as a result have been omitted as irrelevant.
+
+
+A standard probability yardstick is to be utilised, to give general probabilities associated with the language used.
+
+: Canon Research; EDDB; Paradise Lost by John Milton, edited by John Leonard p 2014; Paradise Lost by John Milton, Parallel Prose, edited by Dennis Danielson p 2008; Milton’s Astronomy, the astronomy of Paradise Lost by Thomas N Orchard MD, p 1913.
+
+
+
+Sol is located at 0 / 0 / 0; whilst Pandemonium is located 34.15625 / -114.03125 / 45.96875.
+
+The X; Y; Z distance between these two points is: 127.604472, that being equal to the radius x3.
+
+Division of the distance 127.604472 in game, by 3 equals a distance of 42.534824 that being equal to 1 radius identified by the measurements outlined by John Milton.
+
+The distance of 42.534824 equates to the radius of the hypothetical Crystalline Sphere as being at 8.5390625, -28.5078125, 11.4921875.
+
+Extrapolation of 42.534824 upwards from Sol by 1 radius places the Celestial North Pole, that being coordinates -8.5390625; 28.5078125; -11.4921875. The nearest known system being:
+
+Extrapolation of 42.534824 multiplied by 3 identifies Heavens Gate, that being coordinates -34.15625; 114.03125; -45.96875. The nearest known system being:
+
+
+
+*
+
+
+
+
+It is (25% to <30%) that Pandemonium’s placement in game is an equal distance to Sol as it is to John Milton’s hypothetical Heavens Gate.
+
+There is a (40% to <50%) that this entire theory is simply a projection of .
+
+This is attributed to the absence of any evidence of a celestial North Pole or Heavens gate in game at the calculated coordinates, and that the nearest systems identified above, have all since been scanned; resolving in nothing of importance.
+
+This ultimately significantly reduces the overall ‘likelihood’ scoring.
+
+
+
+Heavens gate in Paradise Lost may not be directly above the Celestial North Pole, another interpretation could place it off centre, to the side aligned with galactic North in game.
+
+An old PF/DW quote ‘Upon the outer rim’ could relate to the journey of Lucifer upon the Crystalline Sphere, if the apex is not of any importance, the only other locations on this rim would be the Paradise of Fools and Lucifers Viaduct, although these hold no definitive locations within the Paradise Lost text and could be anywhere on this circumference.
+
+This theory of a celestial axis may not be at all relevant in game; either because the developers were unaware of it, or that these locations are linked to an archeology or future narrative which involves other ‘unknown’ elements based upon other sources, such as Norse mythology or H P Lovecraft.
+
+The assessment concerning Pandemonium could be a projection of , as it requires minimal content to draw a correlation, plus an academic understanding of the source texts references to astronomical measurements and various abstract concepts described by John Milton, which were originally intended not to define the locations accurately, but to provide a sense of immense scale.
+
+If correct any relevance maybe further obfuscated through interaction with minor factions. The system LHS 316 has a faction named: ‘Pixel bandit’s Security Force’ whilst Ogowenae has a faction named ‘The Galactic Archive’ amongst others. None of the bodies, have been fully mapped utilising probes, nor been landed upon, leading to an open assumption if any clue existed, it might not appear utilising only ’standard’ astronomical modules.
+
+At best the placement of Pandemonium is an Easter egg.
+
+
+
+Interaction with the minor factions of the systems identified, to assess any missions which may be of relevance.
+
+Interaction with all bodies in the systems identified to assess any hidden content.
+
+Based upon the low likelihood scoring of this hypothesis the ‘John Milton Conundrum’ has since been updated, and this case is now considered as closed, and as being no more than ‘educational space madness’.
+
+Thread 'The John Milton conundrum'
+Click to expand...
+Really love the education I am getting in this thread, even without finding Raxxla! o7
+
+A number of recent lore summaries, especially relating to the fact we now have a Codex with a wealth of information, not least the Toast, have led me to look up a few things and I want to ask about something before I end up heading down the proverbial rabbit-hole:
+
+Has there been any attempt to perform a steganographic analysis on the Codex, either in general or relating to particular articles?
+
+Here, I am referring to the possibility that there may be information encoded into the text, or even the audio(!) of the text, that is not obvious and requires you to be specifically searching for it or to have knowledge that allows you to notice it. e.g. if you substitute H for X, you will see I have used a very simple version in this post! Some searching I can do by eye and ear but it could be time-consuming and I do not want to start using external tools for spotting hidden information.
+
+Large amounts of information can be encoded but the more you encode in a small amount of data, the more obvious it becomes. Even so, I would hope that there is no need for 3rd party tools, unlike the Thargoid signals where images were encoded into sound files.
+
+An example previously used in Elite Dangerous was when Drew Wagar put in hints using Greek myths, with articles containing such references needing to be collected together to derive a system name, along with the keyword 'Rebecca'. (I think this was how it was supposed to work but I know Spock Oddsocks nearly found the Zurara a year earlier than it eventually was, as he passed through the adjacent system - it could have been found by following the Reorte-Riedquat line). It was pretty obscure, not least because Rebecca was a character from his own fan fiction, whom we now know was introduced into the canon (you can hear her logs at the Zurara).
+Last edited: Dec 30, 2022
+Reactions:
+Louis Calvert, Jorki Rasalas, Rochester and 1 other person

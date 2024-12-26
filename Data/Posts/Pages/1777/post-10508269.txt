@@ -1,0 +1,40 @@
+Louis Calvert
+Dec 13, 2024
+#35,521
+Hello!
+Nezzie Muso said:
+pareco comet 1 or 2 and take a picture?
+Short: Comets do not exist in game.
+
+Long: There's a 'placeholder' that appears in-game for comets because they were originally planned to be in game. When Fdev ran stellar forge to create the galaxy procedurally, it therefore created the "space" for the comets, but they were never, have never, maybe will never, be present in game in any form other that the 'data trail' left by that galaxy generation over a decade ago.
+
+There's ton of info on this on the forums if you use the search function, you'll be able to find people that have been able to "orbit" a 'comet', and there's literally nothing there at all.
+
+Years back the comet in Tau Ceti was orbited by a space station (iircc), which in-game meant that the station was mysteriously orbiting nothing. This was corrected - thereby confirming that Fdev considers the lingering comet data an anomaly, not a feature. The only real reason we know about them is because of tools that read hidden system data (like INARA, etc.), again, not something Fdev probably anticipated.
+
+For this reason, I am confident that anything involving a comet is fundamentally not the right answer.
+
+As for some of the rest:
+
+Nezzie Muso said:
+1. First clue is that earliest mention in Tau Ceti by Art Tornqvist - Tau Ceti is the other notorious in-game comet system apart from Pareco
+2. Pareco is within the bubble at the date given (2296)
+3. Pareco is owned / exploited by "an evil man" Yuri Grom
+
+1: Also Sol, Lave...
+2. How do you know this? I'd be interested in your source for the state of human expansion in 2296 (it's often discussed here). Pareco is 81ly from Sol, which is pretty far considering the known colonies of the time.
+3. Pareco is now, but what about 10 years ago, or last month, of two months from now? I honestly don't know (the BGS has never been my thing), but if Grom hasn't always been in control of Pareco, what does that mean for your theory? (what about before Powerplay existed?)
+
+Nezzie Muso said:
+So. I became allied to all the Pareco factions, I loitered in the system, and I received an inbox "covert" mission directing me to steal data from a secure planetary base. (Blackman Silo+++ on HIP12248 5A) On successful completion of this mission, stealing the data that "we are not alone in the galaxy", I receive an on-screen message telling me that I am now considered "elite" - being a pre-requisite for joining TDW. I've done this 3 times so far. I know of no other system where a covert inbox mission gives you an on-screen message as a reward.
+This, however, is interesting. I have questions.
+
+1: What do you mean by 'inbox "covert" mission'?
+2: What do you mean by 'data that "we are not alone in the galaxy"'?
+3: What do you mean by 'on-screen message telling me that I am now considered "elite"'?
+
+Specifically, do you have screenshots of these things? Or the exact wording at all?
+
+I'm guessing, by 'Inbox covert mission' you mean a "Tip-Off" mission? But maybe not?? The data that "we are not alone", how did that information appear to you? Did it show up as a message? etc. And by "on screen" message, I assume you mean something other than the inbox mail with the animated promotion thing? I also assume that "I've done this 3 times" you mean you've been promoted to Elite 3 times by doing something in Pareco? In what way do you mean this? Screenshots would really help.
+Reactions:
+Rochester

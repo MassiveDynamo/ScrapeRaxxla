@@ -1,0 +1,16 @@
+Jorki Rasalas
+Jan 13, 2020
+#14,646
+Han_Zen said:
+The --| -|- and -|| are presumed to be 8 bit binary numbers. --- = 0, --| =1, -|- = 2, -|| =3, |-- =4, |-| = 5, ||- = 7 and ||| = 8. This matches the format of the sound files.
+
+There is an old picture of a Thargoid hand, with three fingers. It might be a stylized version of their hand counting?
+
+Octal numbers go from 0 to 7.
+
+||- = 6 and ||| = 7
+
+You got your three fingers crossed!
+Last edited: Jan 13, 2020
+Reactions:
+[PS4] Filthymick420, Machina Ergo Sum and 3navis

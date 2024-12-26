@@ -1,0 +1,13 @@
+Rochester
+Oct 30, 2024
+#35,160
+Jorki Rasalas said:
+So, if moving to a Steam version, do you have to delete all the existing FD installation? And if so how do you keep your character & possessions?
+
+Negative.
+
+Your profile on PC stays the same. I did not wipe my PC to accommodate the Steam key.
+
+In fact when it’s working it actually uses the FD launcher. The Steam key essentially is just a mechanism to import patches.
+Reactions:
+Jorki Rasalas

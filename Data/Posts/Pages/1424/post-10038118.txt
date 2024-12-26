@@ -1,0 +1,19 @@
+Louis Calvert
+Dec 17, 2022
+#28,478
+Pyroboros said:
+currently checking each Systemname in edsm if it was ever mentioned in this thread
+little problem:
+EDSM has 75 million systems in database
+that 31000 needs to go 1423 time up to 75000000
+
+just let it run ...
+well lets restart whit the fix in line 13
+
+
+Click to expand...
+Well this is exciting! Awesome work!
+
+I assume you'll also be able to tell how many times specific system names are mentioned? I'm sure some will come up much more frequently.
+Reactions:
+Rochester

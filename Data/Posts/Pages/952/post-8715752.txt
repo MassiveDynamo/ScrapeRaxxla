@@ -1,0 +1,7 @@
+alexzk
+A
+Sep 24, 2020
+#19,039
+Vasquess said:
+I wrote me a small program and can do that as a datastream => No mem problems. But where is the download of a file with all the systems + bodies. I only find systems with coos – no bodies. (~7.8GByte)
+Spare EDSM, save data locally

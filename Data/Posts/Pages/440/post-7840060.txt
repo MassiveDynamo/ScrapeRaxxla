@@ -1,0 +1,35 @@
+Thatchinho
+Jun 9, 2019
+#8,788
+FalconFly said:
+Hm, almost guaranteed to be totally unrelated.... BUT...
+
+Has anyone ever come up with an explanation as to why Black Holes have an additional Detail (animated Signal Spectrum) displayed in the FSS when zoomed in?
+
+I guess one would need to record a few and see if the animation is mere fluff FX - or changes when FSS'ing different Black Holes.
+
+View attachment 134244
+
+When I 1st saw that - together with the animation of the Gravity Tunnel - I had a weird idea...
+
+.... with some nice spikes on that small Emissions Signature you could approach and "fly through" the Black Hole instead of the usual "Dropping - too close" or hitting the Body Exclusion Zone?
+(and the sentence "place that isn't a place, door that isn't a door" came to mind... I mean hey, Black Holes are true "weirdos in space" after all, so it would kinda fit those nicely. And they're the only Singularity we can somewhat safely approach and fool around with, as opposed to White Dwarfs or Neutrons. Plus, it's "in plain sight", because who zooms into a Black Hole when the Honk DSS'es all the Stars of a System already?)
+
+Just a weird idea but who knows... Most ideas start off a little weird, right?
+(and the whirlwind animation kinda invites to try it IMHO, like the classic "The Black Hole" movie intro from 1979)
+Click to expand...
+That's interesting, good spot!
+
+Guessing it's just a representation of it being black hole - being able to 'see' black holes via the distortion of background light wouldn't really work in the FSS zoom.
+
+Would be interesting to see if it's standard for all black holes or if there's some variance. Will certainly check it out when in game.
+
+(And go go gadget pedantry... white dwarfs and neutron stars aren't singularities. Spoilering the (brief) explanation of singularities vs NSs, etc. as it's probably not actually necessary, but here we go in case anyone's unsure.
+SPOILER
+)
+
+And although I was being a bit pedantic there...
+
+What would be extremely interesting is finding a black hole without a singularity. - Though having said that, I strongly suspect that there's no way we would be able to tell, and that FD wouldn't have incorporated different types of black holes (beyond standard and supermassive) anyway. Still, it'd be very interesting!
+Reactions:
+Scytale and PeteACarter

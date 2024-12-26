@@ -1,0 +1,84 @@
+Emperor
+Feb 20, 2023
+#29,251
+So with Bing now having AI built in.... I thought I would get more thoughts from the Construct... err I mean ChatGPT with access to the internet.....
+
+Bing will only allow a certain amount of prompts (questions) before it shuts you down obviously due to cost... and then it is quite funnily blunt and won't talk anymore... if it gets confused it's also pretty blunt too with stuff like "Change the subject" or "I don't want to talk about this anymore"....lol
+
+Plus there is a hard limit on how many questions you can ask daily... so having tried a few prompts to check the best way to ask some stuff about the game without leading it on and checking it could reference websites (it mentioned the Dark Wheel toast, Raxxla and ED when I asked about the toast text as a riddle - I hadn't mentioned them!... and it lets you know which websites it's referencing which is nice - this thread appeared quite a lot so we are distorting the answers too..lol)
+
+Anyway for info, one of the conversations I had with it is as follows (this is a fresh chat with no reference to ED made), however as people will say... anything below needs to be fact checked before taking at face value as AI is prone to make Artificial Human errors! ....but it was interesting...
+
+Yellow text is me sending "prompts" (or questions in the real world!) and also my musings....
+
+Sent message. Are there many stars in the milky way that would be described as bright and colourful? if they also have some links to Greek Mythology it would be a better candidate.
+
+Generating answers for you…
+
+There are many stars in the Milky Way that are bright and colorful, but not all of them have links to Greek mythology. Some examples of bright stars that are also associated with Greek myths are:
+
+Sirius, the brightest star in the sky1, which is part of the constellation Canis Major (the Great Dog). Sirius was also known as Orion’s dog by the ancient Greeks2.
+Vega, the fifth brightest star in the sky1, which is part of the constellation Lyra (the Lyre). Vega was also known as Phoebe by some ancient Greeks, who considered it a representation of Apollo’s sister3.
+Capella, the sixth brightest star in the sky1, which is part of the constellation Auriga (the Charioteer). Capella was also known as Amalthea by some ancient Greeks, who believed it was a goat that nursed Zeus when he was a baby3.
+Sent message. One that could be seen on the brow of andromeda?
+
+Generating answers for you…
+
+The star that could be seen on the brow of Andromeda is Alpheratz, also called Alpha Andromedae1. It is the brightest star in the Andromeda constellation and part of the neighboring square of Pegasus1. It is located 97 light-years from Earth and is a binary star system of two stars orbiting a common center of mass1.
+
+Alpheratz has a link to Greek mythology as well. According to legend, Andromeda was the daughter of King Cepheus and Queen Cassiopeia, who boasted that she was more beautiful than the sea nymphs. This angered Poseidon, who sent a sea monster to ravage their land. To appease him, they chained Andromeda to a rock as a sacrifice. She was rescued by Perseus, who killed the monster and married her. Alpheratz represents her head as she waits for her hero2.
+
+Sent message. tell me more about Alpheratz
+
+Generating answers for you…
+
+Alpheratz is a spectroscopic binary star system, which means that it consists of two stars that are so close together that they appear as one from Earth1. The two stars orbit each other every 96.7 days2. The primary star is a blue-white subgiant of spectral type B8 IV1, while the secondary star is a white main sequence star of spectral type A3 V1. The primary star is about 200 times more luminous than the Sun and has a surface temperature of 13,790 K3. The secondary star is about 25 times more luminous than the Sun and has a surface temperature of 8,500 K3.
+
+Alpheratz has an apparent magnitude of 2.06, which means that it is easily visible to the naked eye even from light-polluted areas1. It also has an absolute magnitude of -0.30, which means that it is intrinsically brighter than most stars in our galaxy2. Alpheratz belongs to two different constellations: Andromeda and Pegasus. It forms one corner of the Great Square of Pegasus asterism and marks Andromeda’s head2.
+
+Alpheratz’s name comes from Arabic al-faras, meaning “the navel (of the horse)” because it was originally considered part of Pegasus constellation by ancient astronomers2. However, some sources also suggest that it may come from Arabic al-surrat al-faras, meaning “the horse’s mane” because it lies near Andromeda’s hairline3.
+
+Sent message. I'd like to know more about the Greek myth of Alpheratz
+
+Generating answers for you…
+
+The Greek myth of Alpheratz is related to the myth of Andromeda, the princess who was chained to a rock as a sacrifice for a sea monster sent by Poseidon1. Alpheratz represents her head as she waits for her rescue by Perseus, who killed the monster and married her2. Andromeda’s parents, King Cepheus and Queen Cassiopeia, are also depicted as constellations near Alpheratz.
+
+Alpheratz is also associated with Pegasus, the winged horse that was born from the blood of Medusa after Perseus beheaded her3. Alpheratz forms one corner of the Great Square of Pegasus asterism and was considered part of both Andromeda and Pegasus constellations by ancient astronomers1. Alpheratz means “the navel (of the horse)” in Arabic because it was originally seen as part of Pegasus constellation4.
+
+Alpheratz is one of the Three Guides that mark the prime meridian of the heavens along with Caph (Beta Cassiopeiae) and Algenib (Gamma Pegasi)2. It was believed to bless those born under its influence with honor and riches2.
+
+Sent message. I'd like to know more about the Three Guides please
+
+Generating answers for you…
+
+The Three Guides are three stars that mark the prime meridian of the heavens, which is an imaginary line that divides the sky into east and west hemispheres1. The Three Guides are Alpheratz (Alpha Andromedae), Caph (Beta Cassiopeiae) and Algenib (Gamma Pegasi)1. They are also part of different constellations: Alpheratz belongs to Andromeda and Pegasus, Caph belongs to Cassiopeia, and Algenib belongs to Pegasus1.
+
+The Three Guides are useful for finding other stars and constellations in the sky. For example, if you draw a line from Alpheratz through Caph, you will reach Polaris, the North Star1. If you draw a line from Algenib through Caph, you will reach Capella, one of the brightest stars in Auriga constellation1. If you draw a line from Alpheratz through Algenib, you will reach Fomalhaut, one of the brightest stars in Piscis Austrinus constellation1.
+
+The Three Guides have different characteristics and histories. Alpheratz is a binary star system with two stars that orbit each other every 96.7 days2. Caph is a yellow-white giant star that varies slightly in brightness due to its rotation3. Algenib is a blue-white subgiant star that has a very high rotational velocity of 185 km/s4.
+
+And then it gave up and said it wouldn't answer more and I'd used my limited questions for the day.... however some human musings...
+
+" It is located 97 light-years from Earth and is a binary star system of two stars orbiting a common center of mass1." & "Alpheratz is a spectroscopic binary star system, which means that it consists of two stars that are so close together that they appear as one from Earth1. The two stars orbit each other every 96.7 days2." - sprialing stars?
+
+"Alpheratz means “the navel (of the horse)” in Arabic because it was originally seen as part of Pegasus constellation4." - Navel...mmmm
+
+"Alpheratz has an apparent magnitude of 2.06, which means that it is easily visible to the naked eye even from light-polluted areas1. It also has an absolute magnitude of -0.30, which means that it is intrinsically brighter than most stars in our galaxy2." - burns?
+
+"Alpheratz belongs to two different constellations: Andromeda and Pegasus. It forms one corner of the Great Square of Pegasus asterism and marks Andromeda’s head2." - Andromeda's heaad or brow?
+
+"Andromeda was the daughter of King Cepheus and Queen Cassiopeia, who boasted that she was more beautiful than the sea nymphs. This angered Poseidon, who sent a sea monster to ravage their land. To appease him, they chained Andromeda to a rock as a sacrifice." & " King Cepheus and Queen Cassiopeia, are also depicted as constellations near Alpheratz." - Parent's Greif?
+
+"The Greek myth of Alpheratz is related to the myth of Andromeda, the princess who was chained to a rock as a sacrifice for a sea monster sent by Poseidon1" - Princess you say... mmm
+
+If we check Perseus' history elsewhere...
+
+"The birth of Perseus
+The story starts when the Oracle of Delphi warns Acrisius, King of Argos, that his own grandson would kill him. Fearing that this prophecy would come true, he locks his only daughter, Danae, into an underground bronze chamber, to keep her away from all men. However, Zeus the all mighty saw the girl and fell in love with her. He then took the form of a golden rain to get into the bronze chamber and seduce Danae. From this union, Danae gave birth to a son whom she named Perseus." - Delphi you say... mmm..
+
+
+
+Just some AI thoughts
+Reactions:
+Exekrator, simulacrae, Han_Zen and 2 others

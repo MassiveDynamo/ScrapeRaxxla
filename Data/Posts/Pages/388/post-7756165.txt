@@ -1,0 +1,7 @@
+AegisXOR
+A
+Apr 26, 2019
+#7,747
+Ararera said:
+If I'm not mistaken the panel where modules are controlled is disabled when the countdown for the FSD begins.
+Sure. I knew that. What I meant was can you cut the power at the moment it finishes charging / transitions to the countdown. If there's any way to induce a misjump that would be it.

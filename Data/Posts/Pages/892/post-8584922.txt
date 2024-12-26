@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jul 10, 2020
+#17,822
+alexzk said:
+Yeh ...that is philosophy question of game design We know we're forced to jump to stars as it is "loading screen". So systems without stars could be just not shown.
+They could say "sensors can detect only star-sized masses. So if mass is less, sensors assume this area empty".
+
+Oh I think they may be in there, and possibly listed in the galmap. We have detected a few candidates from Earth with current technology so I think they would be in the galmap. Presumably wouldnt be an obvious star class colour, is there an “other” option? Cant remember! Otherwise may just show up in navigation panel as a nearby system but not in galmap? We need an AI to search though galmap for all low mass systems and see!
+Reactions:
+PeteACarter and [PS4] Filthymick420

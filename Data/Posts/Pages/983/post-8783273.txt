@@ -1,0 +1,20 @@
+Vetinari
+V
+Nov 7, 2020
+#19,642
+having seen enough vids of people honk n scoop without even looking, I still dont believe it....400bn to 1 chance
+
+djadjok said:
+Plus, as we know most of planetary POI's are not visible in the left panel even in proximity (after DSS)
+
+Been experimenting with this.
+
+1. Obviously dropping into planet 'atmosphere' or Glide shows the POIs, we know that.
+2. Dropping out of SC in orbit after DSS also shows planetary POIs (hypothesis, its dropping out of SC that triggers it)
+3. Dropping out of SC in orbit before DSS finishes and waiting until finished...shows nothing. Going back into SC in same place, orbit, planetary POIs suddenly show up .
+
+Conclusion, first hypothesis is wrong. Its a change of 'instance' from or to SC that triggers them showing. From or to but no need to Glide to find them
+
+it better be a temporary bug for my sanity.
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,14 @@
+Jorki Rasalas
+Oct 20, 2021
+#24,563
+electro said:
+Does someone know if there is an orbitcalculator (rather graphical) outside the game that shows chirons orbit all the way to 3310?
+I want to try to land on chiron , even if it not visible. This should be possible to measure distance between landable moons in solar system (to sync orbital time)
+And then get three / four point of known moons in the solarsystem to chiron and then land on it.
+But I NEED the orbitcalculator , with graphics since it will help when making the distances out.
+I think I was the first to postulate Chiron in Sol as a possibility, based on John Harper’s statement about Raxxla rumours peaking every 50 years (I have found an alternative possibility which I’m exploring, when I can get in-game!). If you know the in-game star date applicable to Sol’s planets then you could get Chiron’s position from Stellarium. Unfortunately Sol’s planetary positions dont seem to match up for either 2021 or 3307, and FD have repeatedly failed to answer questions about what that date is, which I find highly suggestive!!
+
+You might want to play around with Stellarium and see if you can match the in-game planetary positions to a date (we’d like to know it!!) and then go from there. Good hunting!
+Last edited: Oct 20, 2021
+Reactions:
+Adel

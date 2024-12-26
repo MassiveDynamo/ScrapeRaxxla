@@ -1,0 +1,15 @@
+Han_Zen
+May 25, 2020
+#16,721
+alexzk said:
+Fact - Elite has 2 different types of objects
+1. Beacons, stations
+2. Ground objects like geo site or planetary port.
+
+You can see (1) from infinite range, and disengage on it right from orbit. That happens when they place tourist beacon on ground. Question is what class raxxla belongs, so that will define behavior.
+If I were to guess I suspect it behaves like any other planet, expect for being invisible to the FSS. It will resolve it self at 30 ls (or whatever the auto resolve distance is).
+To get that close, we go by parallax.
+
+Wild speculation.
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and PeteACarter

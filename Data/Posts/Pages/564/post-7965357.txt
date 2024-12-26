@@ -1,0 +1,33 @@
+Havvk
+Aug 24, 2019
+#11,265
+Noobilite said:
+RAXXLA Locations :: Elite Dangerous General Discussions
+I submit that RAXXLA is located in the Cassiopeiae constellation. It is most likely in the Alpha/Schedar system. I do not have the time to investigate in game. I barely had the time to table-top investigate. I owe my wife & kids already big time. Being snowed in saved me a little. So who is out...
+steamcommunity.com
+
+This is interesting too. He mentions several systems with beacons in them. Maybe we have to get the beacons find the systems and then triangulate them. He three. Maia, cupids arrow and one other system. What is in the middle of them?!
+
+
+
+Maia, ngc 7822, chi Orionis. All have beacons. What is dead center?!
+
+Those are exact locations with coordinates too. So, that should be relatively easy to do.
+
+Chi orionis: 4.3125 / -1.0625 / -27.90625
+Maia: -81.78125 / -149.4375 / -343.375
+S171 34: -2426.84375 / 295.03125 / -1323.625
+
+I forget how to do this. But I think there was a simple formula I figured out to figure out distance between two or three positions using ED coordinates. It was a simple modification of A^2+B^2=C^2.
+
+Edit: It's SquareRoot(A^2+B^2+C^2) That is the distance between two coordiantes. Have to figure out three then how to find the middle spot. Actually it's The distance between the two coordiantes. SquareRoot(|A1-A2|^2 + |B1-B2|^2 + |C1-C2|^2). So, negative and positive number increase distance.
+
+So: (I think I did some math wrong)
+
+Maia to Chi Orionis: 86.09375 /148.357/315.46875=SR(128942.4665)=359.0855963Ly
+Maia to S171 34: 2345.0625/145.59375/980.25=SR(6481405.731)=2,545.860509Ly
+Chi Orionis to S171 34: 2431.15625/296.09375/1295.71875=SR(7677079.3)=2770.754284Ly
+
+If that is the right info I have to figure out how to find the middle of that triangle. Not sure how to do that.
+Click to expand...
+California Nebula is inside that triangle too, right?

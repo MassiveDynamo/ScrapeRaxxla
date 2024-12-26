@@ -1,0 +1,18 @@
+Vektorboson
+V
+Jan 27, 2021
+#20,595
+Darth Ender said:
+i would much sooner believe that green glow is a graphics artifact than something legit in the game to be discovered.
+
+There are lots of times i leave the system map and the entire screen gets a white overlay momentarily as some shader switch artifact. Or instances when i'm in a twilight part of a ring and the roids are lit up "wrong" with shadowed parts of the roid being where they shouldn't be.
+
+Chasing this is almost certainly just chasing "bugs" in the lighting/shader code.
+
+Doesn't look like a graphical glitch to me.
+
+My guess: The light is actually far away; it's a spot/cone light with a very small opening angle.
+
+The reason is that the lighting angle within the cockpit does not change, only the intensity changes.
+Reactions:
+Jorki Rasalas, Merlin StWahgwaan and [PS4] Filthymick420

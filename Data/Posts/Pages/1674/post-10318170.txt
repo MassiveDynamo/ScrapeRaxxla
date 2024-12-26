@@ -1,0 +1,24 @@
+Mecrutio
+M
+Feb 21, 2024
+#33,470
+Emperor said:
+SAP8...Solo it with cargo hatch limpets?
+And any tips as it's rising up the list for things I need to try as no one has sold one to my fleet carrier so far
+Yes, solo with hatch breakers. Wait in supercruise at systems in a state of civil war or civil unrest and look for "Military Courier Vessel" in the contacts. My ship is a fully engineered Cutter with 8A prismatic shield. (8A Bi-weave with a quick charge engineering is probably better) Turret Beam Lasers/Pulse Lasers on all hardpoints and a 5C Hatch breaker controller with a collector limpet controller. Finally, a fighter hanger with a close to elite pilot.
+
+1 - Don't kill anyone. Should you not have any success, run away. A 200 cred. fine turns into a 5000+ bounty and eventually, notoriety.
+2 - Don't interdict. All transports eventually low wake somewhere and "await further orders". Just jump into the low wake.
+3 - Wait for yours. Most of these couriers are in wings, some are not. Try to use the pilot in a fighter to take on the small defense ship.
+4 - The 5C Hatch Breaker is important as it allowed me to overwhelm the point defenses.
+5 - A LARGE helping of patience.
+
+My trick is kinda cheap, but it fell into my lap. For me, the Corvette was the best to pirate. I wanted to follow it to an Anarchy System so that no Security Forces would join the frey. After 45 min. I felt that it was too long and nothing was going to happen so I attacked. Before this however, I had the Point Defenses targeted and I noticed that it was decreasing in strength for what ever reason. (Mine did not) At the moment of attack, 1 of the 3 point defenses was down to 67%, 2 of 3 at 85%. I believe this gave me an edge as the lasers could not get precise enough to pin point any targeted point defenses.
+
+So do the attack run, once their shields are down to zero stop the attack and spam hatch breaker limpets. (The closer proximity the better.) Eventually they break thru and a message will pop up saying resources siphoned. Check the contacts to see if what you want was removed. If not, rinse and repeat the hatch breaker spam/check contacts. Once what you want is out, use limpets to collect it then get out of there. Screw the fighter. (It's virtually controlled from the mother ship so no loss of life.)
+
+Trinkets were found on "Random Adders". The first one I found had them so I can't verify if it's random.
+
+Good Luck!
+Reactions:
+Emperor and Rochester

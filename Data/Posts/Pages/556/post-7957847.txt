@@ -1,0 +1,8 @@
+[Diplomacy] Carnegie
+Aug 21, 2019
+#11,102
+Jorki Rasalas said:
+Now, can anyone tell me how to change the darned text colour of that darned link in my signature, cos whatever I do seems to be ignored.
+Darn new forum infrastructure, darn!!
+
+It's a link - they change color depending on whether you've visited the page or not. You can't configure that kinda stuff.

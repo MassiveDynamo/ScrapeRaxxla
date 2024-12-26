@@ -1,0 +1,17 @@
+CMDRCorrMorningstarFelian
+Jul 10, 2023
+#30,803
+Rochester said:
+Yes that tool will only find the nearest system to an XYZ location, we need a method to calculate all systems 38.1473 away from 48.31 , -109.185 , -5.49.
+
+48.31 , -109.185 , -5.49 is just empty space, there’s a system 9lyr from there but we need to assess all systems around that point, if any fall upon that circumstance they likely are a potential candidate.
+Keep in mind, the Elite Dangerous coordinates are left-handed Cartesian coordinates. Most tools you use will be using would be setup for right-handed Cartesian coordinates
+
+Right-handed coordinates (X, Y, Z)
+Left-handed coordinates (X, Z, Y)
+
+More info:
+Right-hand rule - Wikipedia
+en.wikipedia.org
+Reactions:
+simulacrae, Rochester and Han_Zen

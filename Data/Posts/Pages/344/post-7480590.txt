@@ -1,0 +1,16 @@
+Edelgard von Rhein
+E
+Mar 20, 2019
+#6,880
+Old Duck said:
+STORY FOLLOWS
+
+<snip>
+
+Nothing but empty space and a Diamondback with no apparent purpose..
+
+Maybe he was looking for Raxxla, too!
+
+I bookmarked the star just in case, but now I think this just a bug in the game (wouldn't be the first). AFAIK, there shouldn't be "traffic" flowing to and from a "dead end" star. Now I've not really paid attention to things like this in the past, so maybe this strange behavior is commonplace. What has your experiences been? I've decided that while Jenny explores, Duck will continue to run tourists and missions, but with an open "eye to see", looking for strange things in whatever system he ends up in, especially since these systems are around the core worlds. I just worry now that "strange things" will all end up bugs or coincidences instead of real clues. Though I suppose if all I do is chase wild geese, the chase itself brings its own pleasure
+Click to expand...
+This is normal NPC behaviour but it is always a good idea to follow anything you perceive as out of the ordinary (and in cases like this to have a wake scanner as well). There have often been reasons to follow or look for specific ships or signal sources in supercriuse. I remember looking for convoys carrying Unknown Artifacts and Unknown Probes and shadowing convoys with 'Medical Ships' carrying Scientific Research from system to system to see where they were going, as well as the inevitable High Grades waiting game. Ships often spawn near planets, regardless of whether that planet is populated or on a Shipping Lane, or even whether the system is populated or not (I sometimes see would-be attackers appear near a planet as I fly through an uninhabited system with cargo). Following ships through high and low wakes can sometimes lead to odd NPC behaviour, from a ship dropping out onto nothing to following a loop around systems to dropping out at a station - I once tracked a Medical Research convoy through several systems to an outpost where they aggroed it somehow and were shot down! So if you have an idea you want to check, go ahead (but bear in mind that you cannot follow a wake to a permit-locked system unless you have the permit).

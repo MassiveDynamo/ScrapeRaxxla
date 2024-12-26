@@ -1,0 +1,20 @@
+Pyroboros
+Nov 28, 2022
+#28,114
+SongOfTheVoid said:
+Rogueplanet and Exotic arnt ingame as anything other than empty unused references, the stars that should/could have those classification are all either manually hidden using the 'Devs Skeleton Graveyard' method ive covered in previous pages and F stars have been assigned as 'placeholders' for each of those respective bodies, Rogue planet is a orbital type not a planet type thus is again redundant information as orbital patterns do not determine what a body type is. If I recall there was some small evidence that Fdev was flirting with the idea of 'Rogue bodies' being bodies that pass from one starsystem to another but that was scrapped long before even Horizons was released.
+Cant find anything else but your post if searching for 'Devs Skeleton Graveyard' there are a lot previous pages. Also cant search via a limited profile. Can you provide more details what to read about it. I am curious and want to know more about that.
+This Thread has picked up some speed and volume. I can't always keep up.
+
+Of course they can be just empty unused references. Maybe they only used one. We do not even know if SAG A* is the only Supermassive BH in the Game.
+The point is they are documented, while other empty unused (not fully implemented) references are not documented.
+Edit: to be more clear about my intention: i do not meant that Raxxla must be a RP. I just wanted to point out that it's easier than one might think to do a Raxxla Version like that and that it would not be to difficult to hide it if done that way.
+
+SPOILER: OPINION ON UNUSED
+
+Rogue Planet is neither an orbital type (which doesn't exist at all) nor a Planet type
+(I think u mean, Planet Class like Metal rich body or Earthlike body, or Body Type like Null, Star or Station)
+Rogue Planet is listed under StarType (like Black Hole, Neutron or Be A Fine Girl Kiss Me).
+Last edited: Nov 28, 2022
+Reactions:
+Louis Calvert

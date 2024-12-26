@@ -1,0 +1,14 @@
+alexzk
+A
+Apr 13, 2021
+#22,909
+Koben said:
+Simpler solution "if cluster size = zero, then delete cluster"
+Something that is not present just don't exist...
+It must be present because it is mentioned for Sol system in books.
+Point is, regular normal space wide clusters, like in Sol, have 1 rock per million kms in avr. However you can not use such for practical game, because ...distance.
+So for the game purpose they condensed rocks, named it clusters. But Sol cannot have such as we don't see such in real life.
+
+All asteroid belts you ever could see in movies like star wars are fake. Distance between rocks is measured in hundreds thousands kms.
+Reactions:
+[PS4] Filthymick420, Exekrator and X8785

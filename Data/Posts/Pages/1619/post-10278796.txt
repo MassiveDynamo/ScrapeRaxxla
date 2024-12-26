@@ -1,0 +1,13 @@
+Ian Doncaster
+Dec 6, 2023
+#32,370
+Louis Calvert said:
+17, 21, 26, 30, 43
+The pattern here seems to suggest that the hyperspace animation will aim to complete in approximately 13 seconds, but if it's not able to, it then re-polls to see if it can complete at approximately 4 second intervals, possibly because of how the sound or animation for the "extension" is looped.
+
+
+I do not recall star-heavy systems slowing jumps before, though - and certainly not to anything like 30/43 seconds. Admittedly, I haven't been doing many hyperspace jumps to high-star systems lately either.
+
+(Of course, if it's a "time to generate system" indicator, then it might be reproducible on any specific PC but completely different on one with a different performance profile)
+Reactions:
+Han_Zen and Louis Calvert

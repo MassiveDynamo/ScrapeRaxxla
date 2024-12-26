@@ -1,0 +1,29 @@
+Jorki Rasalas
+Nov 23, 2022
+#28,009
+Louis Calvert said:
+Hold on to your seat, this one gets weird.
+I flew to COL 359 Sector DA-Q D5-17 and matched up my view with your video and took screenshots. Then I overlaid two frames of your video (one with the blinking stars, and one without) and then aligned and overlaid my screenshot. I then marked the location of your blinking stars with red circles...
+
+Your Frame 1: Suspect Stars circled with red.
+View attachment 333453
+Your frame 2: Stars missing in the circled areas:
+View attachment 333454
+My screenshot of the same starfield overlaid over yours, the red markers remain in the same place... but... ah....:
+
+The blinking stars you noticed seem to have moved on my screen?! The red circles are where the stars blinked for you, the blue are stars that appear on my screenshot but on yours!!
+They aren't blinking, I would never have noticed any difference had we not done this.
+This final image is Frame 3 (my screenshot) over your frame 2, but with opacity so you can see through mine to yours.
+
+Because of FOV and stuff my screenshot isn't exactly the same, that's why some of the stars look motion-doubled a bit, but you can clearly see that this is the same area of space and the 'movement' of the stars is far greater and less predictable than the FOV doubled stars!
+
+I've sat looking at these stars for many minutes and they don't appear to blink for me.
+
+I've no idea. Maybe a third set of eyes on this is needed??
+
+Click to expand...
+Good science!
+
+Dont forget to support imonix’s issue report with this new evidence, just need two more supporters & it might get some dev attention. I wonder if this is only happening in EDO, and whether it indicates an EDO bug in translating the position of stars to the skymap, being processed differently for different players? The code must be common, so is it perhaps a rounding error difference between different OS/processors/video cards? I was going to ask what the distance is to the stars in question, but I know how difficult it is to identify them & match the view out the cockpit to the galmap; that’s something where I consistently have difficulties.
+Reactions:
+cmdr_imonix and Louis Calvert

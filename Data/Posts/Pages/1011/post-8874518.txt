@@ -1,0 +1,35 @@
+Crimson Echo
+Dec 28, 2020
+#20,206
+The seeming unobtainable permits are weird, and maybe part of an abandoned story thread. Given that Fdev went and marked so many permits as unobtainable, and yet some seeming unobtainable permits without this don't bother warning exist.
+
+My pet ideas on the seemingly unobtainable permits:
+
+1) The mission board idea is that in the right system, at the right station there are rare mission spawns that can lead to getting permits via active player action. (Noticing something new/different unlocked/spwaned (possibly unrelated to the mission itself) while the mission is active and interacting with it correctly. This idea is based on the existence of tip offs and military couriers.) Mindlessly doing a million missions would still not be enough to get the permits the player needs to do something 'active'. Having a robust understanding of both mission board spawns, npc spawns, and npc behavior would make noticing things that are odd much easier. (but will likely require coordination between larger numbers of players to filter out coincidences.)
+
+2) Getting allied with multiple factions is needed to unlock the permits.
+
+3) There exist anarchy factions at the remote asteroid bases that seem to serve no purpose, spawn no uss, spawn no missions, and that have oddly ominous names.( like the associates, the little people etc in a similar vein to The Dark Wheel and The Club) After the weekly server maintenance (when the mission board drops back to a seemingly more primitive mission generation while the normal system rebuilds based on new states etc) system it is possible to get missions or passenger missions to get friendly/allied with them. When friendly/allied you have access to their passenger missions to boost their influence. On my own i have not been able to do enough mission quickly enough to flip any of the systems. (if it is possible at all as it may be pseudo static w.r.t system control.) Normally i focus on trying to flip Harvard Base in HIP 83506 as it is near to the bubble.
+
+4) Scanning stuff on planet surfaces (like ship data cores, or all of a settlement's data points) can sometimes result in a mission marker (blue, like 'search zone' or similar like can spawn for surface recovery missions) popping up in the left panel while in the srv. (in the ship they do not show up until you get close to the correct body) Based on the distance you can figure out what body the next data point is on. When you scan the data point on the second body you get a mission that is typically worded differently to the normal missions. (often they mention something to the fact of being glad you took the bait etc) They seem to be more or less random, and not typically repeatable. Some of these sorts of thing are bugged and point to unreachable locations inside gas giants.
+
+I have had a crashed conda in the outer reaches of sol work as well as moon laboratory in wise 1506+7027, but also had these not work. (there were others that worked at least once, but i can't remember where they were off hand.)
+
+
+On a non-permit related note:
+Something odd on frontier's site. The old games still have pages, but are not linked to directly from the main page (still findable via search engine). Only FE 2 has a timeline as far as i could see. Oddly the Planets with life mentioned do not match the current elite systems. (possibly due to conflicts with other games system maps of these systems?) It is weird they would bother to mention the body at all, and not just say life found in the tau ceti system or similar.
+
+Relevant system/bodies:
+Tau Ceti 3
+Beta Hydri 4
+Altair 5
+
+(the body numbers being sequential may just be a coincidence, but it does seem strange that body number and discovery order seems to track.)
+
+The systems do have earthlikes, but the body numbers are different. The discrepancy may be intention given the codex tends to suggest the early spaceflight era was important.(these systems where founding members of the fed if memory serves).The life in Delta Pavonis was not directly mentioned which seems sort of odd too.
+
+Frontier: Elite II
+Written in five and a half years by David Braben, with Konami Inc of Japan as publisher, the game was released in October 1993 and was in the top few slots in the UK Gallup chart for the best part of the following year. It was the best selling game in Europe 1993 according to Gallup. "Frontier"...
+www.frontier.co.uk
+Reactions:
+Dr. Lexus, DikbutDaGrate, simulacrae and 1 other person

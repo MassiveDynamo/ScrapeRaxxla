@@ -1,0 +1,13 @@
+John Stoutbeard
+Apr 26, 2019
+#7,757
+yelboc said:
+This is not unusual now.. in Sol, you often get missions offered from a type 9 - if you look around there will be a signal source..
+
+This happened to me when trying to validate GURU's child NPC trail, and it sure seemed strange to have a 'mission objective detected' when you had no missions. Seems like if you lurk around in a system long enough then they pop up, but there may be other mechanisms in play
+
+This popped up before in this thread and we asked Fdev if it was a bug - they said 'no, but let us know if it happens a lot'
+
+YB
+Click to expand...
+It happend the excact millisecond I set the destination. And finding no mission afterwards really confused the heck out of me. Good fun and a good laugh afterwards.

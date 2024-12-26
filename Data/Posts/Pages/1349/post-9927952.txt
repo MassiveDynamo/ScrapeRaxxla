@@ -1,0 +1,6 @@
+yelboc
+Aug 31, 2022
+#26,979
+thats an elliptic orbit - a hyperbolic orbit is not closed - i.e. the body will escape the star.
+Reactions:
+Jorki Rasalas, Rochester and Han_Zen

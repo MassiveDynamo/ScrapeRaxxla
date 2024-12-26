@@ -1,0 +1,14 @@
+Vasquess
+May 27, 2022
+#26,263
+Macros Black said:
+[...]
+Data analysis
+Using Spansh to get a destination gives the system Flame Sector DB-X c1-0
+From what I see in the galaxy map that system seems to be ~140 Ly too far to the galactic east. And considering that the CMDR said "At first i stayed low dawn the galaxy[…]" I'd go down with the search area. How deep? I used a ~ 45 Ly ship and found that ~970 Ly on the direct line from Cubeo to Crab Nebula the route plotter stops somewhere near Synuefe PI-T D3-0. That's at Y: -1140. Then going up you hit COL 70 (AFAIK already locked 4 years ago), i.e. if he went below COL 70 the top system for the search area would be ~ Synuefe GY-O C7-0. From there I have exactly 24 jumps to Cubeo. The top of COL 70 on the route would be somewhere near Y: -260 (Synuefe XQ-H B15-0). Considering that the Crab Nebula is at Y: -708 I'd say he went below COL 70.
+Just my ideas, I do not claim that it is correct.
+
+And don't forget the route filter setting to OBAFGKM this reduces the distance to Cubeo because the line is not as straight as it would be without filter. Probably the systems I mentioned above are all a little too far from Cubeo.
+Last edited: May 27, 2022
+Reactions:
+SergMx, rOmiLaYu and Macros Black

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Nov 16, 2019
+#13,336
+Surl Tesh-echer said:
+It's probably wrong translation. Change your language to different (there are some others, Spanish, German, I think) and check that text with Google translator. If it's not a mistake, then FD gave a little bit more of information to Russian translation team (and maybe to the other teams as well).
+
+Somebody should raise these different meanings as a bug report and see what the FD reaction is!
+Reactions:
+Six6VI

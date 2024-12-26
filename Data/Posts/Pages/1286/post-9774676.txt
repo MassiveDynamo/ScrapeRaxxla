@@ -1,0 +1,62 @@
+Thatchinho
+Mar 14, 2022
+#25,705
+Rochester said:
+Question for consideration relating to how early ships travelled circa 2296?
+
+Up to that point we have a number of settled systems; namely Sol; Tau Ceti; Delta Pavonis; Altair; Beta Hydri; Eotienses and Achenar.
+
+In regards to Achenar it is said the discovery was via ‘unexplored’ space.
+
+Q: How did early warp capable ships travel between these points?
+
+Did they take arbitrary routes (as we might) utilising unexplored systems as waypoints and therefore expanding the sphere of influence to encapsulate all systems within this bubble, eg from Sol (the centre) out as far as Achenar?
+
+Or did they adhere to routine routes, within direct line of sight of these systems. If so there is no sphere of influence, but a web of routes with a limited area of influence.
+
+I don’t believe there has ever been confirmation as to the actual drive limit of early ships.
+
+If that limit can be officially confirmed, we can draw lines between these locations with an economical sphere around them creating a web of interest.
+Click to expand...
+If by ‘warp’ you mean something similar to supercruise, then who knows.
+
+It’s very unclear what the situation is with non-hyperspace FTL in the history of the ED universe. There wasn’t any in FE:2.
+
+Pretty much all the info that I’m aware of is about hyperspace travel.
+
+AFAIK, supercruise was new with the FSD. MB has said that the FSD operates on different principles to the previous hyperspace tech, but whether that definitively means that supercuise style travel was new with the FSD I can’t say.
+
+MB has said that early expansion out of Sol was via:
+Ion Drives
+Fusion Torches (for large vessels such as Gen Ships)
+Experimental hyperspace
+With it being mostly the first two, both of which are slower than light, and hyperspace travel varying in success and not being considered safe enough for large transportation. (Just for clarity, MB’s definitely seems to be talking about hyperspace travel when he says that, not something supercruise-esque, and mentions jumps, and translations across lightyears of space.)
+
+The only thing I’ve seen that hints at a supercruise equivalent prior to the FSD (which was only introduced by Sirius in 3278) is in the ‘Early Hyperspace’ tourist beacon:
+
+“The 22nd century saw early pioneering projects begin to take shape. The discovery of a workable hyperspace theory and the design of the first unreliable, inefficient and slow 'faster than light' drive (compared to those we are used to in 3300) opened the possibility of exploration and settlement. <snip>”
+
+The problem therein being that it mentions a hyperspace theory and a ftl drive. - so the ftl drive could just be referring to a hyperdrive (as opposed to a ‘warp’ drive).
+
+The ‘Founding of the Federation’ galnet article talks about it being the inventions of the hyperdrive which resulted in an explosion of exploration:
+
+“Many different factors changed humanity’s outlook after that <the Third World War in the mid-21st Century>. The rise of the corporations, the discovery of the first fossils on Mars, and the explosive exploration triggered by the invention of the hyperdrive by Li Qin Jao and others in the 22nd century, first by unmanned probes, then with manned craft, overtaking the generation ships sent in the previous decades.”
+
+That certainly seems to suggest that it was indeed a hyperdrive, not a supercruise-esque drive.
+
+It also suggests that it was indeed travel via hyperspace which was used for humanity’s early exploration of space.
+
+Based on all that I think it’s indeed the case that ftl travel, in the first few centuries of expansion out of Sol at least, was via hyperspace.
+
+The barriers to large transportation using hyperspace that MB talks about are safety and the sheer amount energy needed for a jump for vessels of that size.
+
+So, the colonisation of Achenar would have been by a fleet of small ships travelling via hyperspace.
+
+From what we know, hyperspace doesn’t correspond linearly to normal space, but I think very short distance ‘point, jump, and hope’ have been described as being possible. So I think for the Achenar colonisation, it’s probably a very long series of small jumps, with various staging/gathering/resupply points thrown in. Something that might be worth some speculation is whether the route would have been through interstellar space rather than going via systems. It’d mean there’s be a lot less risk of coming out of hyperspace too close to a star or planet. On the other hand it would mean nowhere to resupply or that could be stopped at if the final destination became non-viable. So I’d imagine it was mostly via interstellar space, with a few systems as staging points along the way.
+
+As you said at in your post it’d be good if we could get some clarification. And I’d imagine that at least some info on the journey to Achenar would actually just be publicly available in the ED universe.
+
+Edit - with apologies if by ‘warp’ you meant hyperspace - if so just disregard the non-pertinent parts of the post!
+Last edited: Mar 14, 2022
+Reactions:
+Adel, Rochester, CMDRCorrMorningstarFelian and 3 others

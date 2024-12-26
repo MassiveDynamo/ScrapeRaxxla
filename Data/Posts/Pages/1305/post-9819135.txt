@@ -1,0 +1,15 @@
+Rochester
+Apr 21, 2022
+#26,094
+There are many instances of this in game; all relevant to real life astronomical observation, eg line of sight.
+
+It’s a well documented issue where the catalogue focuses on 1 patch of sky in particular.
+
+One such example fell into one of my first exploration trips; it was to a known RL pulsar I’m found of, I found it and it too is held within a very small elongated line of stars.
+
+The implementation of these catalogues are not accurate and it was done by hand, there are a large number of very famous astronomical features which were never put in game, and FD did state those were not put in because they were not part of the catalogues they used, which is a fair point, but identifies that those who put these in game did so with minimal knowledge of astronomy as these omitted stars are very famous both to science, history and literature.
+
+I wouldn’t lose sleep over it. Elite Dangerous is not an accurate depiction of our galaxy, it’s close, but it’s a simulation. There are many instances of this in game; like where permit locked systems are not spherical but just large squares of densely pact stars, it looks very weird, but again is an example of manual entry.
+Last edited: Apr 21, 2022
+Reactions:
+Han_Zen

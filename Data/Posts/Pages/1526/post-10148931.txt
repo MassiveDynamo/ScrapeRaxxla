@@ -1,0 +1,70 @@
+Jorki Rasalas
+May 23, 2023
+#30,509
+Ee, A’m fair to middling sluffened, nay A’m reet sluffened!!
+
+I’ll explain my latest hypothesis, and then you’ll understand.
+Yesterday I decided to visit and search the rings of Uranus and Neptune. At Neptune I spotted my EDDiscovery screen was displaying the Journal entry “At Galle ring in Sol”. So I decided to revisit possible anagrams of “Princess Astrophel and the Spiralling Stars” along those lines. This time I read in detail the Wikipedia entries on the Rings of Jupiter/Saturn/Uranus and Neptune...
+The rings are:
+Jupiter:
+Halo
+Main ring
+Amalthea gossamer ring
+Thebe gossamer ring
+
+Saturn:
+D ring
+C ring
+B ring
+Cassini Division
+A ring
+F ring
+G ring
+E ring
+
+Uranus:
+Zetacc
+Zetac
+6
+5
+4
+Alpha
+Beta
+Eta
+Gamma
+Delta
+Lambda
+Epsilon
+Nu
+Mu
+
+Neptune - eventually imaged in 1989 by Voyager 2:
+Galle
+Le Verrier
+Lassell
+Arago
+Adams -which has five bright arcs
+Fraternité
+Égalité 1
+Égalité 2
+Liberté
+Courage
+
+And when I read the description of Saturn’s G ring I found it also has 3 arcs, first observed in 1980 by Voyager 1. It suddenly struck me that those three arcs would finally explain the three arcs shown at the entrance of all asteroid bases and the three arcs of the Raxxla logo! I’ve always felt that FD have been giving us clues all along!
+
+These G ring arcs are:
+Methone ring arc
+Anthe ring arc
+Pallene ring arc
+
+And two possible solutions of the anagram are:
+“At the Anthe ring arc in Sol”, associated with IRL moon Anthe (197,700km, 0.6594 ls)
+“At the Pallene ring arc in Sol”, associated with IRL moon Pallene (212,280km, 0.708 ls)
+
+Moreover an arc would provide some localisation, both circumferential and radial, to reduce the search area.....which is much more satisfying than randomly looking everywhere...
+so this afternoon I went out to look.
+
+Imagine my disappointment when I realised that these ring arcs are not displayed in-game. There is no ring structure implemented at these radial distances. Undeterred I’ve spent the afternoon searching. I did end up focussing on alignment with the “FIA Responsibilities” TB, which is in what seems to me an odd location and therefore could well be a localisation aid. But I’ve searched both sides of Saturn aligned with that TB and level with the plane of the rings that are implemented. Nothing found....but it strikes me this is the best theory so far. The three arcs decided it for me...but I am getting really tired of fruitlessly searching for this mystery!
+Last edited: May 24, 2023
+Reactions:
+simulacrae, Rochester, BluWolve and 2 others

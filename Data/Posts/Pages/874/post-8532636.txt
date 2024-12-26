@@ -1,0 +1,9 @@
+BreadScientist
+Jun 15, 2020
+#17,479
+This is a really, really, really stupid question, but I'm going to ask it anyways. Has anyone ever tried supercruising into a permit locked system?
+
+I really doubt it would actually do anything, since mechanics for taking over your ship and moving you back into the accepting boundaries exist in the game (like in tutorials and certain areas of outposts like restricted docking zones), but do we know for sure that it stops you? Obviously, this would take a long-ass time, but I just wonder what would happen.
+
+
+EDIT: Nevermind, just looked it up and it seems like the system just wouldn't load if you flew there, which seems obvious in restrospect, considering that the jumps are basically loading screens.

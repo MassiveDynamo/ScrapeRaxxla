@@ -1,0 +1,8 @@
+Han_Zen
+Apr 10, 2018
+#2,182
+Jaiotu said:
+Back in Sirius today. I got the "Frame Shift Drive operating beyond safety limits" message 10,000Ls away from Sirius B while approaching Patterson Enterprise. Has anyone confirmed that this happens anywhere other than at Sirius?
+
+I have tried to replicate it in other systems, without success.
+I’m still not convunced it’s a Sirius only thing though.

@@ -1,0 +1,163 @@
+Adel
+A
+Dec 18, 2023
+#32,617
+Louis Calvert said:
+Here you go, I've made some notes on past ideas to re-consider These are just ones I noted down for later going-over! Spoilered because it's a long list:
+
+SPOILER: LIST OF OLD IDEAS THAT MIGHT BE WORTH REVIEWING NOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hope this maybe gives you a little more hope 07
+Thank you very much for the part with Tionisla being related to Raxxla.
+When the galmap allowed us to look for any bodies (stars, planet, comets too!), i got the Tionisla system.
+I kept the signal sources to compare them later to identify the "NonBodyCount".
+
+SPOILER: TIONISLA SYSTEM
+
+NB: while i was copying it, i noticed that 2 entries are different:
+JavaScript:
+{ "timestamp":"2022-04-19T20:25:59Z", "event":"FSSDiscoveryScan", "Progress":1.000000, "BodyCount":30, "NonBodyCount":65, "SystemName":"Tionisla", "SystemAddress":5031789105890 }
+
+and
+
+{ "timestamp":"2022-04-19T20:46:18Z", "event":"NavBeaconScan", "SystemAddress":5031789105890, "NumBodies":37 }
+
+It seems that the first only count stars and planets.
+The second count the same as the first, including the belt clusters.
+Comets are not counted in BodyCount.
+Reactions:
+Louis Calvert

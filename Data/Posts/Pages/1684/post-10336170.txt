@@ -1,0 +1,4 @@
+Jorki Rasalas
+Mar 20, 2024
+#33,661
+I noticed the spokes aren't equilateral. Might be interesting to measure the angular offset -might be 20°?

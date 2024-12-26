@@ -1,0 +1,61 @@
+Merlin StWahgwaan
+Feb 14, 2022
+#25,297
+Sethioz said:
+Well I'm not going to read thru 1200+ pages, but I've been following progress on Raxxla every now and then. I just want to straight out ask / suggest few things and see what people think, so please don't be rude like "just read the topic". I'm interested in Raxxla, but I don't have entire year to read thru 1200+ pages, hope you can respect that and just get down to the point.
+
+My first thought, is what some already suggest, that Raxxla is near Sol, but it moves around and can only be accessed at right time in right place (maybe you must also carry specific cargo, like some artefact that opens the gateway).
+
+Q1: Did Raxxla exist in Elite 1984 game? I know that the story about Raxxla was made before the game, but is Raxxla actually in Elite 1984 game?
+If answer is yes, does it mean Raxxla is in same place in Elite Dangerous? If no, then it means devs could have implanted it in any possible way, which makes me think that devs must have also watched lot of movies and seeing how much devs like puzzles, they might aswell have taken the ideas from movies, such as "Cube 1997" movie, where the exit room moves around and is "outside" the cube.
+At first I thought HIP 13044 might have something to do with it, but then I saw that they teleported someone into the system and kind of ruined the surprise for everyone else .. so I doubt HIP 13044 has anything to do with Raxxla, BUT the idea is still there, that Raxxla is outside playable area, but entrance to that area is near Sol. So perhaps we're just running around in circles, when really all we have to do .. is sit still in right place and wait for Raxxla to come to us.
+
+I listened to Zurara's logs and read over them too, it seems like most people are overlooking the rest of the message. They just see "Hexedit", thinking that's the only clue and see nothing more, but I think it's significant that it mentions it first wipes the memories and then kills you. I think this is a clear reference that you can use hex editor to reveal something that was long forgotten. I see someone already suggested that Raxxla logo could be the key, as it's very simple and could potentially hold some sort of a clue when viewed or edited in hex editor, however for that, we would need the original Raxxla logo that haven't been converted or copied in any way. Perhaps the one in-game, but I doubt screenshotting it would work, perhaps this clue tells you to hex edit game files and find the original Raxxla logo? Can someone extract original Raxxla logo from game files? It could hold some clues.
+
+Q2: I saw some people cross referenced Elite 1984 systems to Elite Dangerous and found that about 32 systems are same, so if Raxxla exists in Elite 1984, then entrance to Raxxla MUST be in one of those systems. So question is, has anyone decoded / uncompressed the original Elite 1984 files and simply looked for "Raxxla" within game files? It should be fairly easy for a programmer / reverse engineer.
+
+Q3: Has anyone decrypted / unpacked Elite Dangerous game files and looked for any reference to Raxxla? I know universe is randomly generated, but some systems are hand crafted, so Raxxla must be in the game files already. For example this is how people found "cheat codes" in older games. Devs never revealed them, but they were found anyways. For example cheat codes in Tomb Raider were quite complex, it wasn't just about entering some alphanumerical code, you had to do things like "spin left twice, step back, step forward, spin 3 times right, jump backwards" and you had to get it right, you can't just randomly spin, you had to face a specific object that tells you this is where spin starts/ends.
+My point here, is that such codes were not just tested by players, they were dug out from the game files by reverse engineers and programmers, this is how such codes were revealed. So has anyone tried digging something out of ED game files? I know it's "online only", but if I look at my network usage while playing, most of the time it won't send/receive any data at all. So it means it doesn't download game content while playing, it only uses internet to keep track of your savegame and nothing more. All the game content is already in your computer.
+
+The Dark Wheel
+I also think that TDW is important, because they claim they are looking for Raxxla, so perhaps "Find the Dark Wheel and find Raxxla"?
+I haven't looked much into TDW at all, apart from what was said in the TDW article in the codex.
+
+FACTS (?)
+1. Raxxla can't be on any planet, it must be accessible using original ED only (no horizons or odyssey)
+2. It's confirmed to be in the game, so it's an actual place / object, placed there by developers.
+3. Rebecca's message refers that Zurara was just a contingency plan and there's nothing out there, she said to look in the core systems and that's where she's heading. So I assume there's nothing out there in the formidable rift area (as many think Raxxla is there, but I'm quite sure it is not).
+4. The Dark Wheel orbits 8th moon of unnamed gas giant
+5. The Dark Wheel is a station that doesn't emit signals and cannot be detected, so even if you know the system it's in, you'd have to visually find it, which makes it extremely hard, because you can only see stuff in ED from closer than 1000km. Maybe if you get lucky and see something glow on black background, but still .. very hard to find I assume. So I wouldn't be surprised if it has been right under our noses this whole time.
+6. The Dark Wheel is searching for Raxxla (find one, find other?)
+
+Anyway, my theory is still that Raxxla (or gateway to Raxxla) is close to Sol (within 300ly), but reasons why nobody has found it, are:
+1. It moves around, perhaps it changes location every hour or so and circles thru several systems. (perhaps it orbits something massive, like massive star? and that's what allows it to move through systems)
+2. It cannot be detected by scanners, so you have to visually find it (like Dark Wheel).
+
+Even if all these ideas have already been discussed, the point of my post, is not to necessarily add anything new, but to make people discuss things. Big discoveries are often made by discussing things that have already been discussed. People often overlook things, but realize this when they go back and forth and look thru the old information to find something that was earlier missed.
+Click to expand...
+I'll see of I can answer some of this for you...
+
+First, no, Raxxla was not actually a physical location in the original game. It was in the lore, not the game itself.
+
+Next, the systems that have been carried over from that game don't make it a MUST that Raxxla is in one of them, they could very easily be a nod to the original game and lore, nothing more. Biggest reason is because again Raxxla wasn't in the original game, also, those 32 systems were technically in different "galaxies" in the original game, and in ED they are all in the MilkyWay. That's more about how the original game was built and limited to tech at the time, but still a valid point.
+
+Ok the logo. I assume your talking Codex Raxxla logo. I work under the assumption it's simply a place holder for target lock of Raxxla. Simply because this was not in the game until Horizons? I belive, definitely not in the base game at launch or soon after. So that img is probably not a direct clue/hiding information.
+
+Sidenote: Cube, disturbing movie, lol
+
+But to continue, I also believe Raxxla does move and requires knowledge of its route and time table, possibly an item in cargo, all as you suggest, but this is conjecture and assumption based of course.
+But that's where we get into the next bit.
+
+Any mining of the game files in anyway is a breach of the EULA. So doing that is not even a consideration for me and I won't even discuss it, but that said, there is plenty of proof that the game files on our devices does NOT hold all the data you think it does.
+
+The data firstly, mostly syncs when docking at stations ect, not just jumping system to system, as your pc doesn't need the Commodity information for example until you actually dock. And all that information is live, across the BGS, which is all Fdev services and servers. Yes your cmdr data and location in a basic form is also on their server so you can move to new devices, restore your game, ect.... but there is tons of data that is fdev held only, and there is no way to conclusively prove that if certain requirements are met, in a specific system, and location in that system, and time and date, ect, that Raxxla isn't a server sided object that would inject itself into your location.... just like if your the only CMDR in an instance of a system in open, and a second cmdr joins, they just appear where ever, station, star, ect, and boom they are there..... there is no way to say Raxxla isn't half programmed NPC to allow it to move ect.... there are too many server sided and controlled things that to say there isn't or that Raxxla can't be, is a massive leap and overlooks tons of possibilities and facts...
+
+As for anything I havnt mentioned, I likely agree with you in basic theory or have no opinions about....
+But I hope some of that clears up some stuff for you, feel free to always ask and provoke conversation, I love to expand and challenge my own theories
+
+Edits: my spelling has been atrocious today XD
+Last edited: Feb 14, 2022
+Reactions:
+Spenceuk99

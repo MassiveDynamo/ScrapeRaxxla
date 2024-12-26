@@ -1,0 +1,14 @@
+SpocksOddSocks
+Feb 20, 2021
+#21,224
+Vektorboson said:
+No. It's very unlikely that "veil north" is a one-off bug. Why would a one-off bug point me to a system that is close to the Veil Nebulas and is high above those nebulas?
+
+In this case you have to prove it that it is a bug. Sabiyhan was probably a bug. Veil North is not a bug.
+I think, sometimes, overlapping sectors might have a second (hidden) name, where one named sector has been limited after being generated. Like in a similar manner that RL catalogued stars can often be searched by their names from multiple catalogues, even though they only have one visible name.
+
+The particular system you mention might have been generated along with the Veil North stuff, then remamed by the proc gen system because it was outside the radius that the named volume should have.
+
+I'm not saying this is actually what is happening btw, just offering up a potential reason behind that system being thrown up.
+Reactions:
+Jorki Rasalas, Exekrator and Vetinari

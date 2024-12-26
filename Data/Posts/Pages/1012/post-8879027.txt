@@ -1,0 +1,12 @@
+Jorki Rasalas
+Dec 31, 2020
+#20,229
+Darth Ender said:
+well, it's not intentional. it's an artifact of how the stellar forge works. there are still some left in the galaxy.
+
+from what I remember of them, only one of the stars technically exists, the other is just something you can target by name.
+
+You do know that stars often have multiple names/designations don’t you? Always check with Simbad; enter the name in the basic search and then check bottom of the page against its identifiers. ED often knows several of those (but not all). Also I think that behaviour happens on galmap if you search for different names in a multiple star system.
+
+Something similar happens on occasion when the input to Stellar Forge was fed with two different identifiers which had slightly different coordinates in their star catalogues (a common occurence in astronomy where distance estimate by parallax is much less accurate than the angular position measurement), so you end up with a star which you can select but if you search by name it will hop to another, often very close. Several of those have been reported on the fora (some in this thread).
+Last edited: Dec 31, 2020

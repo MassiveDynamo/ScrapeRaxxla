@@ -1,0 +1,17 @@
+HoneyDaPooh
+H
+Jan 30, 2019
+#5,600
+Beng_Ammon said:
+Is this the very first Galnet Post?
+
+https://community.elitedangerous.com/en/galnet/06-JAN-3301
+
+
+Any where to grab that raw text en masse? (APi?)
+
+
+I want to sift through galnet articles for some of them clues.
+Click to expand...
+
+You can use https://github.com/knights-of-raxxla/galnet-archives to search galnet.

@@ -1,0 +1,12 @@
+Shadowsnog
+Jan 9, 2024
+#32,948
+CMDRCorrMorningstarFelian said:
+Systems with a compromised navigation beacon do not show in GalMap search even if you have been there.
+i dont think ive ever encountered this issue. i think i saw systems nav beacon go to compromised when its security got lowered and it got hit with pirate attack, then reverted to regular when security went back up. all the time visible on map regularly... just like any other compromised beacon system. poi (like installations, czs or res zones) visibility normal just like any other system.
+CMDRCorrMorningstarFelian said:
+We're a theocratic faction/squadron and there seems to be certain faction types that the second they gain control of a system it gets taken off the Universal Cartographics indexing service.
+however if this happens to theocracies thats another thing.
+you want to tell me that the mapping monopoly in elite is intentionally systematically hiding religious cults in power? that certainly doesnt sounds suspicious, right?
+Reactions:
+CMDRCorrMorningstarFelian and Emperor

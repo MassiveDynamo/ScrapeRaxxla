@@ -1,0 +1,7 @@
+Lakon Spaceway
+L
+Feb 5, 2022
+#25,237
+The search bar is universal cartographic, and it is for finding systems. If you've visited the system before, you can then find bodies using the system map. If you haven't then you need to got to the system, honk it on discovery scanner to find how many bodies there are in the system, and, then, use the full spectrum scanner to find bodies. To find places of interest to explore on the bodies, use a detailed surface to map the body 100%. Sometimes you need to then enter orbital cruise around the body before the places of interest on the surface show up in your navigation pane.
+Reactions:
+Macros Black

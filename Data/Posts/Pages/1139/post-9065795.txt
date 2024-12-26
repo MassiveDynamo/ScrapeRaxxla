@@ -1,0 +1,23 @@
+CMDRCorrMorningstarFelian
+Apr 7, 2021
+#22,765
+We now have a way to test a hypothesis but there are caveats:
+
+-Raxxla Codex seems to indicate Delphi is all important in the this process as it is the central reference point (if you can provide reasons for another central reference we can use that instead)
+-You must be able to give a reference system in game that represents Astrophil or "Star lover" (I used astronomers but if you can argue a fit we can use it)
+
+I have good news and bad news. The bad: the calculations show the zone of possibility to be well past Polaris (it got attention because it was a highly unusual permit in the rough direction). The good, I have enough data and the angle between the two systems to get us four - five coordinates that will establish a zone of possibility. It is going to be several hundred lightyears above the dead middle of the galactic plane so we need to know how dense the stars are to see if this is accessible via normal hyperdrive (possibly engineered) or a fleet carrier needs to be involved. Currently working on the revamped version that will allow for 2 known coordinates and a distance value (either radius or diameter). Once these are ironed out will probably create a spreadsheet that will auto-calculate based on inputs for suspected systems matching Astrophil. If you need assistance adapting this based on your ideas, please reach out and I will try to help.
+
+Distances between any two known coordinates can be done via https://www.calculatorsoup.com/calculators/geometry-solids/distance-two-points.php
+
+or if you prefer...
+
+Distance Formula:
+Attachments
+Estimates_of_Location_of_Stella.pdf
+31.4 KB · Views: 174
+3D Coordinate Distance Formula (basic format).png
+57.2 KB · Views: 139
+Last edited: Apr 7, 2021
+Reactions:
+clavain and Ravenl0ft

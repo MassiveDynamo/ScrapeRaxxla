@@ -1,0 +1,76 @@
+Beng_Ammon
+B
+Jan 21, 2019
+#5,333
+A non-"mythology" theory to the Codex:
+
+As of right now most people think that the Codex entry to Raxxla has clues that point to some old song book.
+
+A different Take:
+
+'...the jewel that burns, on the brow of the mother of galaxies...':
+
+Common Theory:
+
+Most people are hooking onto this Cassiopeia thing. Cassiopeia is the mother of Andromeda, not all galaxies. I mapped many stars in the cassiopeia constellation by downloading the wiki list:
+https://en.wikipedia.org/wiki/List_of_stars_in_Cassiopeia
+
+My Theory:
+And mapping them in game. Some go by their name, some go by HIP, some go by HD. I then filtered out to the stars that are in Cassiopeia's forehead region based on some overlays. There are over 100, and I either jumped in and others had mapped, or mapped interesting things myself. Note, there are a lot of Rogue gas giants, and black holes in Cassiopeia's stars.
+
+If Cassiopeia is a clue or isn't, we must find the reference point for the Dark wheel toast to know where "the brow" is.
+
+I think "mother of galaxies" is referring to a black hole. To form a galaxy, you need a super-massive black hole. These are in game, and have been, like rogue planets. A "mother" being the thing that makes a galaxy, is the black hole.
+
+"Astrophel and the Spiralling Stars"
+
+Common Theory:
+
+Some obscure reference to a real life poem book.
+
+My Theory:
+
+"Spiralling Stars" is what happens when flying around a black hole. I think we are looking for a certain black hole, to see a certain set of 'spiralling stars'. I think there is more here to find in game. Like some some settlement logs about the in-game children's book "Astrophel and the Spiralling stars".
+
+I went to both the Spiralling stars cluster, and Casiopeia stars out near the heart and soul nebula. There are at least 4 black holes in the Cassiopeia stars, if Cassiopeia is a clue.
+
+"...of Atlantis, El Dorado, and the kingdom of Prester John.."
+
+I think this is a clue. El Dorado is mentioned in another codex entry. As is "omphalos" (the entry about how Cartographics" was formed). I'm not sure if the stories are a clue, but maybe the capitalized letters correspond to something.
+
+Omphalos Rift
+
+Omphalos Rift is a device, theorized to be a portal. That means Raxxla itself is not a portal. I think Raxxla holds the "Omphalos Rift". and the Raxxla is the key to.
+
+The Raxxla Codex Image
+
+I think the image does have a hint of Raxxla and the Omphalos device. I think it depicts the device at the center of a Rogue Gas Giant. I think this gas giant has been in game since launch, but it's functionality hadn't been fleshed out until recently. From the launch interviews where Braben appeared, I believe they made improvements to Raxxla in the 2.0 launch, and this recent launch.
+
+In this recent Beta, there was a bug showing guardian ruins in a gas giant, and was promptly fixed. I believe this bug was some form of the Raxxla function update, that is also being used for thargoid/guardian play with upcoming atmospherics.
+
+Fernweh
+
+Why use the word 'fernweh'?
+
+Because it doesn't have a direct translation to english. I think its a hint to the system name that contains Raxxla. A system name that makes sense in some language, maybe German, but doesn't translate
+
+The Darkwheel entry
+
+"...Some gas giant..."
+
+I think the gas giant is actually Raxxla. "some" is a choice word, meaning someone chose to that word over a bunch of other common phrases to say "a gas giant".
+
+
+Main Theory:
+
+I think we are looking for a system with a Rogue Gas giant and 8 moons, and a close-by system with a black hole (~20-30 lyrs).
+
+The black hole's location is tied to a certain set of stars relating to an in-game book, which we don't know a lot about yet.
+
+hen a pilot targets a wake, and then jumps, it follows the Wake's pilot. that means this functionality/trigger has been in game for a while. I think this function is tied to Raxxla. Similarly, we will need to target a the target the system with the black hole, 'through' the gas giant, and then start our FSD. As we jump to the "Jewel that burns", the gas giant opens and reveals the Omphalos Device. The Rift "Omphalos Rift" relates to the rift that opens in the gas giant.
+
+This could explain why/how the Dark wheel could utilize and keep it hidden for ~1000 years. Even if you find the gas giant, it does nothing and appears as nothing, until you jump through it, to the black hole. Which also goes along with Braben's quote: "of course, but you don't know what is though."
+
+It could be the other way (similar to a low wake target) where we have to target the Gas Giant thorough the black hole within the same system. Which would mean a system that has a black hole, and a rogue gas giant.
+Reactions:
+Ton618 666 and Hanerib

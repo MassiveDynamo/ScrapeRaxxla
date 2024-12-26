@@ -1,0 +1,31 @@
+Emperor
+Mar 31, 2021
+#22,537
+clavain said:
+I'm hoping it is something that Braben and/or Brookes took a direct hand in, and it was placed with some semblance of connection to the previous lore and upcoming story content for the game. Whether that initial conception and placement survived retconning the canon, who knows. Hopefully it has been improved and built upon since then, as with the Zurara and the FR. I'm trying to stay positive. ;-)
+
+AFAIK TDW novel is sort-of canon, along with the new official novels, but since the Great Retconning of 3304 or whenever it was, they are picking and choosing what is actually canon from them, but not telling anyone what is canon, if that makes sense. Basically anything that is not mentioned or outlined in-game in some form (Codex, Galnet, Local news, etc.) is questionable at this point. Which of course has not stopped any of us from speculating about the previous canon from earlier games, or what was in the official author lore guides for ED, and whether they are still canon or not, etc. etc.
+Click to expand...
+This popped up on my YouTube list and I wasn't going to watch it but for some reason I did... It gives you an outline of how they had started the build of the galaxy and how they were planning to do the last bit in the points below (I've summarised the main points MB makes and a couple of interesting ones for the Tinfoillers)
+
+Fiction Diary #5
+Source: https://www.youtube.com/watch?v=7ue87r4zPcE&t=424s&ab_channel=EliteDangerous
+
+There were two main goals... model the galaxy a closely as possible to the milky way and for the game to continue on from where FFE left off (3250) - game continues in 3300
+They started with the Gliese & Hipparcos catalogues to provide the bulk of the data in the immediate region and major stars out to 600 - 700 LY (Database of about 75,000 stars)
+Then they brought "stuff" across from Frontier First Ecounters ("Favourite places people like to visit and there's also some key locations from.... erm... eh... the fiction background that we've been putting together, so a good example of that is Lave of course which is famous from the very first game. So what we've been putting together is a series of overrides. So the galaxy itself is constructed from an algorithm so we basically have a number of complex equations that say that there should be a star here it;s in a spiral arm, that kind of thing and that then generates the whole galaxy but what we then have is a manual list of overrides that say actually there is a star at this specific point here, its of this type, we can assign the planets and the moons also as overrides within the system. So that means that some systems, the solar system being the classic example will be fully sort of manually set up so everything that you see is familiar to you. Where with other systems we'll let the system generate what star it is and the planets but we might say that particular planet there needs to be an earth type planet. So a lot of that information we've extracted from FFE and that's been compiled into a big database that can then be blended into the game data.")
+Then they added in the backer's naming promise for stars and planets (they tried to match the descriptions provided by backers to potential systems).
+Matching systems was also an interesting task when bringing data across from FFE as there were a number of stars in FFE that they had to relocate to match real star positions. So the map from FFE has changed quite a bit, but there's still the familiar layout that Achenar is down below the solar system but the positions are more accurate but makes space feel that much bigger.
+Then they planned to implement what's changed since 2250 - whether disputed systems are still disputed, are there any new colonies
+"There's legends, ...erm that need to be tracked down" 8:03
+
+Some interesting points....
+At the point of recording they had done most of the placing of "Stuff" and were just deciding on changes since FFE.
+The totally hand crafted solar system is still broken.... or is it? ;-)
+The fiction bits of the galaxy are based on FFE and not Elite '84 (I've done checks on lists of systems and planets from the original game but not considered FFE before as I didn't play it)
+They took the time to place specific planets in specific systems as they hand crafted more than just Sol.
+The space occupied by the systems from FFE is much larger in Elite Dangerous as they moved a lot of them around
+If you're looking for the least retconned previous game then it's FFE? (Although Raxxla was never mentioned in FFE)
+And my favourite.... "There's legends, ....erm that need to be tracked down" 8:03
+Reactions:
+simulacrae, TrillClinton, thelion and 7 others

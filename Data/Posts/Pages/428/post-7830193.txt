@@ -1,0 +1,15 @@
+AOpsyche
+A
+Jun 3, 2019
+#8,555
+Filthymick420 said:
+Can someone smarter than me apply this key to the call sign code from that video I was on about earlier....
+
+Those are dynasty expedition satellites. The translations are in the video descriptions.
+
+Interestingly, though, 'fernweh' is the same amount of characters as 'hexedit' and both appear in quotations (not in game, so cant confirm, but afaik hexedit used single quotes, while fernweh used double). There was never any reason to think 'hexedit' was to be used as one of the three fields in Vigenere cipher, but if we must, then 'fernweh' is a much more viable entry for one of the other fields than 'raxxla' or 'kwatis' (vigenere has equal length for key, cipher, and plaintext. Cipher and plain MUST be equal, key could be truncated or expanded by repetition). I've tried a few different Vigenere variants in both directions using these two words, but haven't found any cool results yet.
+
+Edit: i think there is probably some encryption fun to be had on the search for raxxla, but i personally dont think use of vigenere is implied by the use of quotes around words. I think if there is encrypted info, we will have strong indication that a puzzle actually exists. Essentially, you can make an encryption puzzle around any two strings, so you have to make it 'a bit obvious' or else people will find patterns in everything, even where they aren't significant.
+Last edited: Jun 3, 2019
+Reactions:
+Midian Cabal, [PS4] Filthymick420 and PeteACarter

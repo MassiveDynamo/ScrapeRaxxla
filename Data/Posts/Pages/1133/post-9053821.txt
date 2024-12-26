@@ -1,0 +1,9 @@
+clavain
+Apr 3, 2021
+#22,644
+Vetinari said:
+And again, either its bugged or Frontier changed the system. With all the other bits of info and other authors it seems most likely that it just got changed afterwards and nobody told the Authors or it was too big a plot change to re-write so they just left them high and dry.
+They changed lots of FFE systems when they got moved to the Elite Dangerous galaxy mapping system (and some apparently may have been combined also, see for example Zelada or Epsilon Indi possibly masquerading as Veliaze, which is referenced in Galnet - and played a major role in FFE - but does not appear on the Galaxy map). Someone posted a video upstream I think of Mr. Brookes outlining generally how this galaxy transition occurred, no doubt for different reasons depending on system - technical, plot driven, whether someone thought it fit the new galaxy, plain error or deliberate omission, etc. etc. May not always have been due to deliberate obfuscation. Certainly doesn't make anything easier.
+Last edited: Apr 3, 2021
+Reactions:
+Han_Zen

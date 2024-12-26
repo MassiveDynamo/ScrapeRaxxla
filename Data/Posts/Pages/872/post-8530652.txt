@@ -1,0 +1,30 @@
+Jorki Rasalas
+Jun 14, 2020
+#17,424
+PeteACarter said:
+Please, please dont read to much into this. It's no different from that HIP system that has the outlook mega ship and black flight content, sat there waiting for a permit unlock.
+
+Let me explain how this can easily happen....
+
+Elite Dangerous is clearly run as an agile development project. In such projects there are various different flavours: sprint, kanan, etc. But assuming it it sprint based, for consistent terminology choices.....
+
+You will have a user story. This story might read "As a player in ED I want an in game narrative and content playing out the story of Federation Shadow Ops"
+
+Under this, you will have a series of epics. These are large pieces of work, such as "Write a narrative" another would be "create all in-game artifacts".
+
+Under the epics, you have tasks. For the narrative epic, you might have "create galnet article 1" and "create community b". Under the artifacts epic you might have "create megaship" and "create Black Flight bases".
+
+Then you will have all the testing and sign-off.
+
+Then you will have the release, where they unlock the system, release galnet articles, etc, etc.
+
+But....the thing about agile projects, is it allows the Product Owner (The boss basically) to change priorities. Therefore, imagine you have completed the artifacts epic and released the artifacts in release x. Now the story writers have to write all the narrative, except the product owner says "No! I still want to do this, but I have decided a whole bunch of fluff about Gan Romero is more important. Do that first!"
+
+Now, the story about Overlook and Black Flight moves down the backlog. Then other high priority work comes in. Then more. You still plan to do the Federation Shadow Ops story, so the artifacts remain in game, but its 2 years on and it's still not number 1 priority, so the content still isnt available in game.
+
+This is obviously a contrived example and meant to illustrate a general point - not meant to actually suggest that Gam Romero was prioritised over the Fed narrative (Just used this as I am still bitter! )
+Click to expand...
+
+Oh, I suspect Emperor is correct; there is no point in putting development effort into putting valuable military convoys into those permit locked systems unless there’s a way to get into those systems, & I also suspect raiding those convoys could be the TDW candidature test
+Reactions:
+[PS4 Pro - PC] earthtone99, [PS4] Filthymick420 and Emperor

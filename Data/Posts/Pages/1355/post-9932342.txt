@@ -1,0 +1,26 @@
+Jorki Rasalas
+Sep 4, 2022
+#27,100
+Robert Rockbite said:
+As LAWD 26 was mentioned here recently, and I have been mining for the CG there yesterday, I thought I'd have a look today.
+Found an odd cloud with a group of rocks in "LAWD 26 A A Belt Cluster 1".
+View attachment 320536
+View attachment 320538
+Returned with a Mining Cutter because this looked like a mining job.
+Found out that prospector drones do not work on these rocks.
+They work on the rocks outside the cloud, but not on the rocks inside the cloud.
+They attach and "fail", no journal entry.
+The rocks (or lumps of ice) yield normal raw materials when lasermined, but cannot be prospected.
+
+Also tried to shoot those rocks with weapons (as opposed to the completely non-destructive mining lasers).
+Because it is well known that the proper way to play ED is to shoot alien things if you find them. It is known.
+Find ancient guardian structures? Shoot at all kinds of pylons to recover materials or charge something.
+Find alien life in the form of crystal shards? Shoot them, they yield materials.
+Find alien life in the form of some pear shaped whatevers? Shoot them, they yield materials.
+However, the usual proper procedure of shooting unusual things did have no effect here.
+
+I would have expected to charge the rocks, maybe repeat the process in other belt clusters and charge the white star nearby to hypercharge my FSD to Andromeda. Unfortunately, it was not that easy.
+Click to expand...
+when you get a cloud like that in a belt it means another commander has done a core mining operation.
+Reactions:
+Han_Zen, Crimson Echo, Rochester and 1 other person

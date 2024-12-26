@@ -1,0 +1,12 @@
+Han_Zen
+Apr 13, 2020
+#16,047
+Filthymick420 said:
+Im trying to find asteroids in Sol but since they don't show right im trying to use the RA and D from RL info to find 19 fortuna, an asteroid that is currently visible in capricornus
+A list of real sky objects, close to your coordinates: http://simbad.u-strasbg.fr/simbad/s...ius=20&Radius.unit=arcmin&submit=submit+query
+
+The HD stars are probably a good bet to find in game.
+
+Fly to earth and select the star in galmap. Then you fly until the distance to earth is Ok.
+Reactions:
+PeteACarter, Jorki Rasalas, [PS4] Filthymick420 and 1 other person

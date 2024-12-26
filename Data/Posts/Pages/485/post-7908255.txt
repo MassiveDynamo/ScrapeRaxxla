@@ -1,0 +1,17 @@
+Jorki Rasalas
+Jul 21, 2019
+#9,683
+Scytale said:
+Mmmhh... it seems that red dot "not visited" thing doesn't take account of visited systems prior to some patch.. I have a lot of them on systems I discovered, tagged and sold the data. I assume that red/blue dot patch wasn't retroactive.
+
+SNIPPED
+
+Doesn't explain the bookmark thing, though, but it must be related.
+Anyway, a not very reliable feature for old Explorers... cough..
+
+did you perhaps play beta and these are systems you visited then that were not deleted on going to the released version?
+
+As well as the bookmark issue, if galmap is also not reporting previously visited systems then you should most definitely raise a bug report!
+Sounds like your database has become corrupted somehow.
+Reactions:
+Scytale and [PS4] Filthymick420

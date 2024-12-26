@@ -1,0 +1,76 @@
+yelboc
+Jan 20, 2021
+#20,432
+Sparklepaws said:
+I've been turning over some things in my head and I want to spill it out. As with everything, take it with a grain of salt.
+
+The toast has been a fascination for me over the past few weeks, something about it didn't settle well. Some of you might remember me trying to "decode" it by slicing several lines and reading them a certain way, but @Jorki Rasalas correctly pointed out that my interpretation was more akin to poetry, thus limiting my ideas to the English language. As we know, the toast is available in several languages and it wouldn't make sense to confine it to one.
+
+My eventual conclusion was that if the Toast is indeed a 'map', it must actually be simpler than we've pegged it. The solution would be unrestricted by interpretation, instead relying on direct and inclusive ideas that it could be conjured in any language. It was also around this time that I was watching a handful of Mattius' videos (specific video) and saw this conversation between user ZomB Tassadar and Mattius in reference to the Thargoid map room:
+
+
+
+If we assume momentarily that the Thargoids do not come from physical space as we know it and instead from somewhere in subspace, things start to make sense. Firstly, Witchspace becomes a subspace location that exists parallel to our own galaxy. We travel through this space when we use our Frameshift Drive, which explains how Thargoids are able to interdict us while we're traversing it; they can live there. It also explains why we can't follow their wakes, since technically they aren't jumping, they're simply "slipping" into Witchspace. It's also interesting to note that the wake appears as a rippling puddle, almost as if the Thargoid went underwater.
+
+
+
+Keeping our previous assumptions in mind, let's look at the Toast with fresh eyes:
+
+
+
+can still be the starting point, but takes on a different meaning. This could refer to a rip in spacetime (wake?), a Thargoid or a signal coming from witchspace itself, the latter being more likely. Experience with FDev has shown that they frequently use audio puzzles to guide us. We also know that several locations, directions and bodies in the universe will emit unique signals which we can detect by pointing our ship at them.
+
+Which brings us to the last line within the toast:
+This particular line is the thing that's been bugging me. Maybe I've been playing too much King's Quest, but it felt much more like a riddle than directions on a map. I rolled with this idea and treated it like a puzzle. What do all of these things have in common?
+
+
+In my opinion there are two possible answers to this riddle, depending on whether you believe the Toast is guiding you to Raxxla or to The Dark Wheel. I'll break them both down individually.
+
+
+
+If we're trying to find Raxxla then I think it's best we start with a vagabond's yearning. A vagabond wants the life of a drifter, a nomad, and a traveler. He doesn't want a home, he wants to live his life freely and remain unattached from everything else. We could construe this to mean any number of things, but I think the basic concept is enough: A vagabond yearns to be free and travel.
+
+The lover's woe is simpler. A woe is not something like grief, it doesn't involve death or loss, but rather distance. To be apart from one-another is the lover's woe.
+
+Lastly, the parent's grief could be a lost child or the death of a child.
+
+The common thread is vague. Loss, distance and travel all involve going somewhere. Interpreted simply, it's possible this part of the toast is telling us to go or move. Find the jewel, face the whisperer (), FLY.
+
+
+
+As with Raxxla we'll also start with the vagabond's yearning, since it has another meaning that applies here. A vagabond wants a life of freedom and values his independence. He's not interested in friends or family.
+
+The lover's woe is still distance, being apart, separation.
+
+The parent's grief is the loss of a child.
+
+The common thread here involves understanding the story of Salome and the message she delivered after her "death". I could write a whole article about this, but I'll attempt to summarize it so my conclusion makes sense:
+FDev has stated that the subversion of truth is a huge part of Elite lore. We know the mega corporations are hiding something. Salome figured it out through joining the Dark Wheel and going on a journey. She had this to say:
+
+
+
+
+
+
+So, the common thread would be rebellion. The parents (mega corporations) lose their child (you), the lovers woe is what you'll feel when you can no longer use ANY services because they own everything, and the vagabond is what you'll become.
+
+The idea behind this route is that the Dark Wheel will, as it did with Salome, invite you to their group once you've become independent and start defying the powers. The difficult part is this would most likely require a community effort to mean anything, since one person can't stop them all. We lack Salome's individual power, but her call to action is that of unity.
+
+
+
+As I mentioned in the beginning, take this all with a grain of salt. It's easy to see validity in a subject like this, there are no distinguishable boundaries so anything is possible. However, that's precisely why it's important to thoroughly explore every possibility until we can safely eliminate .
+
+At the very least, whether this information is pertinent to Raxxla/TDW or not, I think the theories about Witchspace are intriguing and hold real value. The end result of such a discovery could very well lead to better FSDs, wormholes or other forms of FTL travel that would make finding Raxxla and The Dark Wheel even easier. Let me know your thoughts, stay curious.
+Click to expand...
+
+So I think with the toast we must remember that it is the toast of an organisation that has not found Raxxla yet. It can't therefore lead us to Raxxla (I also find it unlikely to lead us to The Dark Wheel, just because its in the wrong codex for that).
+
+So what it tells us can be no more than vague hints and may describe TDW attitude to Raxxla. So for instance it might be something like this:
+'Jewel that burns' [jewel=Rax itself] 'on the brow of the mother of galaxies' [its near the centre of the galaxy/in the northern half of the galaxy/or some-such]
+'The whisperer in witchspace - siren of the deepest void' [its a hyperspace tech/gateway/etc. and its a powerful call for explorers (like the sirens)]
+'The parents' grief and the lovers woe' [we've lost compatriots and family in its pursuit - a ref to previous lore]
+' and the yearning of our vagabond hearts' [and we've turned our back on the world looking for it]
+There are many ways to slice it, but knowing that they don't know where it is sheds a different light on the function of the toast.
+Last edited: Jan 20, 2021
+Reactions:
+Merlin StWahgwaan and [PS4] Filthymick420

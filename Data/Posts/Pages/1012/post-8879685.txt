@@ -1,0 +1,7 @@
+Jorki Rasalas
+Dec 31, 2020
+#20,233
+Chris Cuttner said:
+the belt is still inside the sun and you can target it indirectly: first set a bookmark via the system map, then select/target it via the bookmarks.
+
+That’s how it used to work, but I tried this afternoon & I can’t select the asteroid belt in the sysmap, it says no clusters are selectable (even if I’ve got one showing in the holographic display). None show in the nav panel.

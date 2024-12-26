@@ -1,0 +1,23 @@
+Han_Zen
+Oct 21, 2019
+#12,929
+Vetinari said:
+gl Alexzk, if genuine error it should be sorted out but you may not be able to play on Linux for a bit
+
+7LY - Just to clarify. In the 1984 game we had 8 'Galaxies' that needed a special Jump but you could travel to any system within each galaxy via series of 7LY jumps. Total distance was unaffected by 7LY range, just a series of jumps. At least one planet had only one 'entry' system, only 1 other system within 7LY of it and often a few of these together so you could get in and out 1 way only on a route through 3 or 4 systems. 7LY did not restrict from jumping 1000s of LY across 8 Galaxies - time was much less important as we could speed up time. Every system was reachable from somewhere.
+
+In todays game the systems are X LY apart and we had/have Y LY range but time is much more important. Generation ships couldn't jump as such so the actual total distance is much more relevant and restrictive in todays game than in the 7LY range of 1984 if you see what I mean.
+
+It would take a lot longer in todays game to jump to the other side of the Galaxy than to reach the furthest point of the 8th Galaxy in 1984 even with the 7LY range as time and distance works differently. Time means much more and restricts distance today.
+
+And I don't know which version of time Raxxla was built in, in game, in production. In 1984 game it could be anywhere, in todays version it 'should' have 'limitations' on where it can be.
+
+I am not saying we need a 7LY ship or anything like that
+Click to expand...
+There were probably no jumping 1000s of ly in Elite. The game had 2048 systems, evenly distributed on 8 galaxy maps. The maps are 256 X 256 ly. According to MB each 'galaxy' was a sector in the Milky Way.
+
+There are a few systems from maps other than galaxy 1 in ED. They are all in the bubble. The galactic hyper drive probably jumped you 50-100 ly to get from a map to the next.
+
+Even in The Dark Wheel Alex and Elyssia goes to the unlisted system Cirag. It's only 19 ly from Xezaor, so it's well inside the boundaries of galaxy map 1. It's just not listed, because it's an independent system.
+Reactions:
+[PS4] Filthymick420

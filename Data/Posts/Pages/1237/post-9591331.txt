@@ -1,0 +1,13 @@
+Adel
+A
+Nov 5, 2021
+#24,729
+Djidjel said:
+Can anyone explain the blank spaces for bodies 6, 8, 14, 21, 23, 29 ?
+It was below the table
+Interesting to see that asteroid belts and planet rings are the same thing.
+As you can see there are some bodyIDs missing. BodyID: 6 seem to be the asteroid belt (between Mars and Jupiter). BodyIDs 8, 14, 23 and 29 correspond to the rings of the Gas giants.
+
+BodyID: 21 is unknown. It's an orbit between Saturn and Uranus. It could be the fabeled Halley's comet? I would have to do a similar check in Pareco, to get a better idea on how the comets are implemented.
+Reactions:
+Djidjel and 3navis

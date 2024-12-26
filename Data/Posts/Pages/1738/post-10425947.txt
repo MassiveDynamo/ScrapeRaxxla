@@ -1,0 +1,11 @@
+Enzix
+Sep 8, 2024
+#34,743
+simulacrae said:
+How do you get the Internal ID ?
+
+From the journal files, each system you visit will be logged wit the name and several other things, including the ID.
+
+It's ID64 you're after.
+Reactions:
+simulacrae

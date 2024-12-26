@@ -1,0 +1,13 @@
+Adel
+A
+Feb 21, 2022
+#25,398
+Merlin StWahgwaan said:
+You can locate them, SC to them, drop out at them, and have the name of the comet show in ship panel
+They don't appear on left panel as "Comet x" but as an unknown signal source threat 0 with no icon (exploration, piracy, ...).
+We see the name with logs.
+
+And to clarify: the signals are present in game but when you drop in these signals, there is no implementation of any comet!
+But i agree with you, they should have been implemented after such a long time...
+Reactions:
+Merlin StWahgwaan

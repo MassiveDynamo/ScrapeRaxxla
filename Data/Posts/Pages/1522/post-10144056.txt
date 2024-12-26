@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+May 15, 2023
+#30,440
+Jorki Rasalas said:
+Well, I spent several hours yesterday flying fruitlessly around Saturn’s F ring...this is not the way!
+
+And why are all the rings labelled “D ring” in the HUD.
+Obfuscation??
+Maybe this may help:
+
+Rings of Saturn - Wikipedia
+en.wikipedia.org
+
+Given the trouble FDev went to for realism, I wouldn't be shocked if those rings were entirely hand-crafted.

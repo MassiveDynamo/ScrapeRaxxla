@@ -1,0 +1,15 @@
+Louis Calvert
+Sep 24, 2024
+#34,942
+mach10 said:
+no, watch it spinning, at 4 90 degree rotations set at 30fps.. watch the logo animate. the dashes turn into a new pattern and shape, the large black blocked areas turn into a...well, I'll let people decide that. I don't want to influence what people see. You basically spin the logo at a fast speed and your eyes see a new image.
+If you've got this already done then why don't you share?
+
+For anyone watching along at home: This is the logo rotated 90 degrees per frame, equating to 4 frames at either 3 or 4/100th of a second, which is approx 30fps:
+For reference, that's removing frames as Mach 10 wanted, but it's functionally the same thing, just worse.
+SPOILER: SILLY RAXXLA ROTATIONS MK2
+
+
+It's just as nonsensical as all the others.
+Reactions:
+simulacrae and Dox Paradox

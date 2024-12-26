@@ -1,0 +1,24 @@
+madbilly
+M
+Nov 15, 2017
+#1,043
+Jorki Rasalas said:
+edit- where does that saying come from? it’s not in the The Dark Wheel!
+One of the missing missions, "Obfuscated in The Outer Rim".
+
+DrewCarnegie said:
+Class 'X' is a definition in a file someplace.
+There's no evidence that there are any class X objects in game.
+Reference.
+X (=
+exotic
+)
+SupermassiveBlackHole
+A_BlueWhiteSuperGiant
+F_WhiteSuperGiant
+M_RedSuperGiant
+M_RedGiant
+K_OrangeGiant
+RoguePlanet
+Nebula
+StellarRemnantNebula

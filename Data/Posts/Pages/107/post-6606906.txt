@@ -1,0 +1,16 @@
+Comandante
+Apr 8, 2018
+#2,130
+Allin said:
+Whenever I'm in the system about 3-5 minutes into the flight. Maybe some of us are the chosen ones
+
+Jaiotu said:
+I think I get it pretty consistently.
+
+I thought there were two types of messages:
+
+1) FSD overcharged - when you scoop from a jet stream;
+2) FSD operating over the safety limits - when you start heading out of a system in SC and keep going. I've had these when searching for bodies way out in (pretty much any) system.
+
+Is that right? I get (2) when I head out. Perhaps we've all been getting our wires crossed. One point when I was scooping Sirius A I was pretty sure I got (2) - though it might have been (1) - this is what I am trying to replicate.
+Last edited: Apr 8, 2018

@@ -1,0 +1,16 @@
+SkyRock
+Jun 15, 2020
+#17,474
+Thatchinho said:
+Just how sci-fi do we want to get?
+
+Anyway, I think the question you're asking is how would we tell if an unshown body was taken out of one system and put in another.
+
+The answer from me is that I don't think we would be able to. At least not unless FD manually adjusts the systems. As I understand it, after the main stars are generated (which can be essentially considered as happening in the Galmap), when the rest of the system is populated it's done by working from allowable orbits of the main stars. Consequently taking something unseen out of one of those orbits in one system and putting it into an unpopulated one in another system is unlikely to have any noticeable effects (at least in terms of being able to spot anything via consequential changes to the system config.)
+
+Having said that it does also suggest that an unseen body of sufficient mass should be detectable by looking for its effects on the system config - e.g. a star or body orbiting a barycentre without other bodies being visible. That does necessitate a body of comparable mass to the one which is orbiting the barycentre though, so that puts some fairly strict limits on the potential applicability of the approach.
+
+Edit - obviously a body, or bodies, orbiting apparently empty space would be a giveaway as well, but just got to be careful not to jump to conclusions when finding examples that are already accounted for, for example, by the apparent empty space being orbited actually being comets. (Comets being present in some systems but not shown.)
+Click to expand...
+Not certainly in that way)
+the question is how to determine whether a celestial body passed through a system. that is, how could a celestial body affect the system after the celestial body left the system?

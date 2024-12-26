@@ -1,0 +1,12 @@
+SpocksOddSocks
+Dec 13, 2022
+#28,427
+Jorki Rasalas said:
+is it just me suffering problems with the galmap in Live Horizons 4.0?
+When I try to change the map filters I click on the "map mode Pilot's Federation" to pull up current filter and the list of filters, but it either instantly closes again, or closes after a very short time before I can select anything else. It's driving me mad! and making the map pretty well unusable.
+I can't see any obvious options in Graphics or game settings....help!!
+I'm not experiencing any issues. However, there is an option for galaxy map quality: Options>Quality>Galaxy Map Quality. (between material and terrain quality)
+
+Mine's set on high, but I vaguely recall there being a bug (that I thought was fixed) where medium was using more resource than high.
+Reactions:
+John Stoutbeard

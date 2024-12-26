@@ -1,0 +1,20 @@
+Fred89210
+Aug 12, 2023
+#31,244
+In the Artemis system, the Freeholm base, the beacon and the Legacy have a surprising temperature.
+Knowing that there is no star nearby, it should not be this high.
+
+For the moment I haven't seen this phenomenon anywhere else.
+
+This number corresponds to the largest number that can be represented on 64 bits minus 1. (2^64-1)
+This could be due to the FSS inability to measure the temperature at this location.
+(or it is just a bug)
+Attachments
+2023-08-11_22-55-29_Artemis-Artemis_HighRes.jpg
+161.2 KB · Views: 85
+2023-08-11_22-55-59_Artemis-Artemis_HighRes.jpg
+109.9 KB · Views: 79
+2023-08-11_22-56-14_Artemis-Artemis_HighRes.jpg
+151.1 KB · Views: 84
+Reactions:
+CMDRCorrMorningstarFelian, ThArGos and Rochester

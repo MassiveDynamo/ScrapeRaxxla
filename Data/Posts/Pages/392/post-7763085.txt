@@ -1,0 +1,8 @@
+Crimson Echo
+Apr 29, 2019
+#7,821
+The fixed number of characters per line and the somewhat antiquated fixed with font might suggest that the vertical alignment matters. Perhaps they are like a set of rotors that have a specific offset specified by a keyword of some sort. The problem is that some of the capitols would still not make much sense. (unless there are both row and column offsets)
+
+Edit:
+'Remember' fits an even number of times vertically and 'kahinaloren' fits horizontally. Still need to write the code to evaulate it.
+Last edited: Apr 29, 2019

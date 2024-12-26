@@ -1,0 +1,15 @@
+Crimson Echo
+Jul 21, 2018
+#3,070
+Macros Black said:
+I'm not having much luck in finding SAP 8 Core container couriers post 3.1.3 in civil war systems, anybody had any luck?
+
+Found a mil courier today in a Civil War system around 5 jumps from Sol. It had an escort of 4 vultures. It took a while to spawn. Having a high population system seems to help.
+
+On a side note trinkets seem to spawn more often on in anarchies. My old trinket hunting ground at Neumann Camp in FW/SD seems to have run dry.
+
+I think the ACU is not full of antimatter yet, and we need to find a way to fill it. This may mean carrying some sort of target material, and irratiating it. The mention of fusion in the sap 8 description seems to suggest we might need to be hauling hydrogen fuel (cargo canister). This puzzle may have element similar to the way location specific cargo was once used for engineering upgrades.(fdev like to reuse mechanics, and this might bring in an exploration/efficient long range travel aspect.)
+
+In the same vein it seems odd that trading and mining have not factored into the puzzle yet, only piracy.
+
+I think the idea of uniting the sap 8 shards after a critical mass is reached is a really neat idea. However, having already had 8 in my hold at once so either the number is higher, or they need to be activated/triggered to fuse somehow.

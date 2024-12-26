@@ -1,0 +1,39 @@
+Jorki Rasalas
+Oct 25, 2022
+#27,512
+Ive just been looking back at some notes re passenger missions & I think there is relevant lore:
+
+TDW- how do we prove our bravery & competence to such a group of adventurers? membership test likely to involve adventure, exploration, travel, treasure hunting missions, unlikely to promote assassination
+
+Game stats collected
+Exploration
+Systems visited, exploration profits
+Level 2 detailed scans,level 3 detailed scans
+Efficiency bonuses, highest payout
+Total hyperspace distance,jumps
+SRV distance travelled
+Max distance from start
+Approx time played
+Passengers
+Missions, tourists
+Refugees, protestors
+Aid workers, PoW
+Businessmen, freedom fighters
+Disgruntled passengers, politicians
+Celebrities, criminals
+Science teams, medical
+Soldiers, political prisoners
+Explorers, total bulk passengers delivered (rescue missions)
+
+Ackwada mention in AStroud’s PhD thesis? Tourist beacon! Ackwada & Bedaho: Saud Kruger (Dolphin, Orca, Beluga, only ships that can carry the luxury cabins; these missions are very rare, but very lucrative (a system with a High Tech economy, at least two factions in boom, and one in civil liberty). Fits with “personal journey” hint!! For Luxury passenger missions try Wealthy stations with a Service or Tourism based economy, though some reported at Jameson Memorial ShinDez!) tourist beacon 226-228, Astrogator Tours corporation, specialising in deep space adventure holidays-claims legendary explorer Augustus Brenquith as its long-dead patron. The Corporation was based in Bedaho, but maintains office facilities in 80% of all colonised systems and through its contractual support program, helps local tourist attractions develop their portfolio for the discerning interstellar explorer. Astrogator holidays range from cruises around groups of local systems, to the more extreme, and Astrogator Extreme holidays carry the image of the legendary explorer Augustus Brenquith. The holidays tend to include extreme, and frequently quite dangerous, activities in distant locations, like atmospheric wave-riding, volcano diving and magnetic surfing. Trusted intrepid pilotstake these adventurers 'to the edge' for 'life-changing experiences'. Tourist beacon 216- Augustus Brenquith went on a solitary search for new worlds. He is officially accredited with the discovery of various star systems including Ackwada and its habitable planet. An ancient message capsule was recovered from outside the orbit of Jupiter in the Sol system. It had a message crystal with the log of the second five years of Augustus Brenquith's solitary search for new worlds, his 'glittering legacy'. Included in the list of planetary systems that he discovered was Ackwada.
+
+3270 Seeking to expand its business, yacht manufacturer Saud Kruger purchases the struggling Astrogator Tours company, allowing it to gain a foothold in multiple systems, which in turn spurs its rise as a leading manufacturer of luxury passenger liners.
+
+The lore might be that Augustus Brenquith found Raxxla during his travels and was a member/founder of TDW? That message capsule & data crystal is very suggestive! Why mention it and then leave it dangling with no visible follow-up?
+
+In the meantime, I’m still testing my latest hypothesis. Yesterday I reached 6 Cassiopeia after departing Crab Pulsar on Sunday, 124 jumps. Mainly undiscovered systems, with a couple of ELW and about a dozen water worlds. I mapped the nearest but left a few for later explorers. Nice views of Heart & Soul , IC1805, with Bubble Neb in the distance. Edit: Crab Pulsar was created by Supernova in AD1054, so I thought “legend of Raxxla has been circulating for centuries”....but checked for comets & found nothing. That seems to be the only recent supernova remnant that’s in-game.
+
+Edit: “Astrogator Extreme holidays carry the image of the legendary explorer Augustus Brenquith” - I did ask a while ago if anyone had seen any examples of a mission with this but got no response.
+Last edited: Oct 25, 2022
+Reactions:
+Macros Black, simulacrae, CMDRCorrMorningstarFelian and 1 other person

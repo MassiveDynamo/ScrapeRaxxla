@@ -1,0 +1,33 @@
+[Diplomacy] Carnegie
+Jul 26, 2019
+#9,812
+CmdrMcGreen said:
+Greetings Commanders.
+
+I'm a big fan of this forum and love the idea that FD has implemented some kind of Raxxla "easter egg" in ED. I still think that we are looking for a needle in a haystack, as long as there are no further clues. So I'm more or less looking around for some new ideas to continue the search. Sometimes based on Galnet messages or on my own wild ideas. Currently I'm trying to check out Wolf-Rayet stars. That's because I thought about those "spiralling stars" and I found this article:
+
+Spiralling stars
+
+So could there be a spiralling Wolf-Rayet within ED? That would mean that FD has developed some "special" code to simulate and visualize this phenomenon.
+That's the point where I would say: No, they did not implement this kind of stuff. Too much work for something almost no one will see.
+Stars are just simple spheres and don't interact with each other.
+On the other hand ... mayyyybeee .. So I'm now 10kLY away from home and try to find this "special" Wolf-Rayet.
+The next question is: As a FD developer. Would you place Raxxla within reach of the bubble or not?
+What about the lore if Raxxls is xKLY away from Sol? How could the TDW know about this place, when ships could only jump a few LYs?
+
+So currently I plottet a long journey across multiple sectors from one Wolf-Rayet to the next. I guess another futile attempt. But maybe there is something.
+
+What do you think?
+
+Fly safe!
+Click to expand...
+
+Personally, I don't think we should be limiting the search for Raxxla based upon possible jump range from old lore. The galaxy is on an orders of magnitude greater scale than previous Elite games and the lore itself has been ret-conned multiple times. If Raxxla is something that we can actually find (rather than being obfuscated behind some unlocking mechanism) then if it was close to the Bubble then it would have been found by now, simply due to the sheer number of commanders flying around within 500 Ly of Sol.
+
+The only limitation I'd place on where in the galaxy it could be is that it should be reachable by a ship with a 30 LY jump range (without needing neutron boosts or synthesis).
+
+Wolf-Rayet stars are as good a suggestion as any other. But remember that you won't be the first person to try cataloging WR stars - searchable rare stars of any kind are the sort of thing that people set for themselves as goals (try finding an untagged O-type star, for example).
+
+Just so long as you're having fun flying around our beautiful galaxy
+Reactions:
+Han_Zen, Edelgard von Rhein and yelboc

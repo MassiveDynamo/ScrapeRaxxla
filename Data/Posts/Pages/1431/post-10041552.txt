@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Dec 20, 2022
+#28,603
+CMDRCorrMorningstarFelian said:
+That said, it might be a good idea to check about 20 LY range surrounding the in-game pirate cache located nearby where we got permit for HIP 22460 (was a single jump away) - see https://canonn.science/codex/pirate-cache/ .
+The logs at Pirate Cache in Synuefe QA-U d4-27 at body A 1 ( 43.5393, -134.2668 ) seems to suggest a base is within several jumps of that vicinity. If this is the pirate cache linked to the map, we need every system nearby scanned and DSS'd completely. They were coming back a few days later so it cannot be that far away.
+Relevant snippet:
+
+Stash the loot and make sure any transponders are disabled. We didn’t steal these things just for someone to track them down. We’ll come back in a few days to collect it once the heat is off us.
+
+Whatever was in that cache, there were multiple of whatever it is.

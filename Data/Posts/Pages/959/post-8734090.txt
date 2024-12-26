@@ -1,0 +1,12 @@
+Jorki Rasalas
+Oct 6, 2020
+#19,177
+Fiera said:
+When someone goes to their ingame nav panel, there is a list of “nearby” stars to select as an FSD jump destination. Someone could write a plugin to scrape that list and show only the stars not in EDSM or previously visited. But that’s probably against the ToS.
+
+Probably!
+But it would be damn useful!!!!!
+Edit: are those nearby systems downloaded from Stellar Forge during the witchspace transition / loading window?
+Last edited: Oct 6, 2020
+Reactions:
+Fiera and [PS4] Filthymick420

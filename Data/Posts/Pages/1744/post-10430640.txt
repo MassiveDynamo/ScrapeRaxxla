@@ -1,0 +1,10 @@
+marx
+Sep 18, 2024
+#34,865
+Ian Doncaster said:
+That seems ... highly implausible, to say the least. What coding would possibly require galaxy-level sound sources to be attached to a corner of a boxel? Why would anyone do it that way in the first place when the maths to locate a sound in space is exactly as easy - easier, since it doesn't have a superfluous rounding step! - when using full-resolution coordinates, and they have to be able to calculate the direction of out-of-system objects more precisely than "nearest boxel" anyway to stop the starbox looking very silly.
+I have a theory on this. First, the skymap rendering most likely makes use of boxel coordinates, and it's also highly likely that the Landscape Sound's source is calculated through , or during, the skymap's generation. Next, bear in mind that the game's launch was under serious time pressure and crunch. With all these combined, why would FD add a separate method for calculating the sound source from the exact coordinates of a system, solely for the sake of one specific Easter egg, when they could just simply use existing methods and get a mostly accurate result anyway, from all over the galaxy?
+
+In a similar vein, the reason why I don't think the LS is meant to guide people to a single system is because it hasn't done that for ten years, and Frontier have had all that time by now to change it to do so if that was what they wanted. After all, they have added plenty of mystery-related hints since, yet they never touched the sound. (As far as I know.)
+Reactions:
+El Saico

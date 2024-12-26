@@ -1,0 +1,39 @@
+Rochester
+Aug 22, 2022
+#26,767
+Chaparral said:
+Apologies if this has been previously addressed.
+
+Could it be in hyperspace?
+
+Thargoids seem to have some sustainable capacity to hang out in hyperspace, and normal physics don't seem to apply in many ways in that domain.
+
+All pilots have passed through hyperspace so the "commanders have been through the system" rumor would apply to all players.
+
+In the same way an individual system can be permit locked, the game mechanics simply won't permit us to stops and look around within hyperspace.
+Click to expand...
+O7 Cmdr, there is no such thing as a poor question, it keeps our perspectives fresh.
+
+Hyperspace is simply a loading screen whilst your CPU builds the procedural string for the next instance (system) as I recall.
+
+There was an early FD video where the graphical artist who built it describes how it works and how she built it, it ought to be still online.
+
+Hypothetically it could be presumed that FD could still utilise it, as there are repeating patterns in the animation, which could identify star systems but this could only ever be confirmed if one finds a location that matches.
+
+As far as memory serves a series of layers pass over your point of view, these layers can be viewed in VR as a cone which has a thin boundary with nothing else outside it. There are videos on line showing the illusion.
+
+Your ship effectively doesn’t ‘travel’ anywhere.
+
+Hypothetically I presume the Thargoid interdiction is a separate animation which probably moves the animation or you’re point of view relatively.
+
+Historically there was a proposed mechanism for something called a broken jump, but this as far as can be assumed didn’t ‘drop’ you between systems but into a dark system. This was a concept proposed right up to launch and described in detail by DB, but like may other mechanisms communicated, it was never implemented or bugged, but a great deal got dropped after launch too like visual hyperspace clouds which were in the early beta.
+
+Collation of various bits of information describe it as utilising brown dwarf systems, which wouldn’t have shown up in the galaxy map until discovered, making exploration much more complex (and fun) but travel slower.
+
+There is some information via Drew that an explanation of this function was provided to writers as being no longer applicable, eg ‘they used to call brown dwarfs dark systems” identifying that the concept was dropped, it has caused much confusion over the years because FD never truly confirmed what was dropped, at least not directly or publicly, information exists here or there.
+A real shame. Mid morning rant over, I’ve since had my morning tea.
+
+Sorry Hyperspace unfortunately is not an actual location.
+Last edited: Aug 23, 2022
+Reactions:
+Vasquess, rOmiLaYu, Chaparral and 2 others

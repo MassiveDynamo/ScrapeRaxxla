@@ -1,0 +1,20 @@
+CMDRCorrMorningstarFelian
+Oct 25, 2022
+#27,529
+Rochester said:
+Not all court cases are made public, especially if there is an out of court settlement. Data can be requested to be retained / omitted. Plus the internet is not the repository of all knowledge, especially not in 1995, but this issue is well documented, it’s nothing to do with a fictional entity, that was solely Holdstocks IP, Bell and Braben had no involvement in its development, it was never in any game until 2014 and ED. This is grasping at wet straws and muddying already murky water.
+I get all that and it is a very valid point. The problem is there is no conceivable way the first game happens before 3174 due to History of Lave beacon (so we are working 100% off of canonical events to Elite Dangerous) which states the following:
+
+One of the oldest colonies of the sector, Colonial Deep Space Cruisers Herschel and Oberon reached the system then designated L-453 in 2412. Lave has been a Dictatorship from before the fall of the Galactic Cooperative. In 3174, Dr. Hans Walden came to power.
+
+Walden established an authoritarian Dictatorship. The previous economic hardship brought about by the fall of the Galactic Cooperative were still remembered. Under Walden there was stability, just not prosperity.
+
+Walden's rule was very long, and rumoured to involve genetic manipulation as he greatly extended his own life, with his eventual death at the hands of an assassin triggering a revolution.
+
+----
+GCS Saravasti/Project Equinox/Project Thunderchild/First Thargoid War by implication must happen before the first game. Yet, Faraway predates the first game (per Galnet "Galactic News: Hyperspace") by centuries per the following text from GalNet:
+
+"Hyperspace technology originated in the early 22nd Century, but it wasn't until the 2800s that consumer ships began to take advantage of it."
+
+This is why I am pointing out it is utterly impossible to have reverse-engineered unless this happens at Earth back during the 20th-21st centuries. This is why it is kind of important the first Thargoids (likely Thargoid Scouts) we meet would happen after Project Equinox is defunded (thus they are not detected) but also before INRA could have reverse-engineered the drives per "Galactic News: The Thargoids" in which the first records of INRA happen in 3125 (this year is mentioned in the GalNet entry). This is all using just in-game lore for Elite Dangerous. So, either humanity develops hyperspace entirely on our own or a Thargoid ship fell into our possession very, very early.
+Last edited: Oct 25, 2022

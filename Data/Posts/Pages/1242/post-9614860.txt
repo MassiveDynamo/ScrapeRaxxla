@@ -1,0 +1,10 @@
+Frankymole
+Nov 19, 2021
+#24,821
+yelboc said:
+No but its possible there are lore reasons for that.
+
+In fact none of the asteroids appear to be there - in the system map they are shown located at the star; if you try to find them, the left hud projector will show the cluster diagram if you are in exactly the right place, but dropping out reveals no rocks. When the cluster diagram shows, the system map jumps you around the system in a weird way.
+
+Bugs, mYsTeRiEs ? who knows - just no-one has ever seen the rocks themselves.
+Do you mean the belt clusters between Mars and Jupiter? I think the ones near the sun Sol itself are something else.

@@ -1,0 +1,20 @@
+Vektorboson
+V
+Jan 23, 2021
+#20,528
+yelboc said:
+Are they arranged as co-ordinated sets - i.e. at 120 degree intervals? If so then that's a possible stable arrangement. Still spooky though
+
+[Edit]: Isis IX appears (somewhat briefly) in the official novel "Docking is Difficult", which might go some way to explain it's Hand Authored oddness..
+
+Do you remember what happens in the novel at Isis IX? Because there is more oddness in the Isis-system:
+
+none of the system bodies have a "discovered by"-entry
+almost all planets have 4(!) "mapped by"-entries. Isis IX has only 1 "mapped by"-entry which is different to the others
+the Isis-star is a Class K-star which are usually around 0.6 to 0.9 solar masses; Isis is 0.36 solar masses, thus an unusual K-star
+the orbits of the gas giants have a recursive/fractal pattern (I really should provide a screenshot/animation here!); when you look at the Orrery, you'll find the orbit of Isis X resembles the orbit of Isis IX resembles the orbit of Isis VIII a.s.o. The Isis-star is basically at the same focal point for every orbit of the larger planets
+the major axis-values for the planets Isis VII to Isis X all have round numbers
+the orbital inclination for all planets is divided into three parts, where the inner and outer planets' inclination is identical; you can line the orbits up and you get a nice perfect X for all orbits (again, I shall provide a screenshot here)
+Then I have the feeling that the Super Cruise acts different, as if it were on hand brakes; as if there were another invisible mass/system body. I wish we had some telemetry-API since then it would be much easier to measure if the SC-acceleration is different to other systems.
+Reactions:
+bluecrash and [PS4] Filthymick420

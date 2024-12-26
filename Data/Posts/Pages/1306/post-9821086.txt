@@ -1,0 +1,6 @@
+yelboc
+Apr 23, 2022
+#26,104
+Unfortunately the algorithm cannot produce raxxla. It uses three letter sub phrases, none of which could combine to produce raxxla. This is all documented in detail on the old oolite wiki. And there is code out there if you are interested. Google is your friend..
+Reactions:
+simulacrae, Han_Zen and Rochester

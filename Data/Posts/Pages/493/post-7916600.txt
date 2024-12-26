@@ -1,0 +1,17 @@
+Edelgard von Rhein
+E
+Jul 26, 2019
+#9,842
+Oseris said:
+I’m running into a bit of an anomaly here, with a couple points of interest. Stumbled upon a system called EM* LKHA 361.
+
+The asterisk is usual. It was used when naming Sag a* because the radio signal was “exciting” and atoms in an excited state are denoted with an asterisk. Apparently there are a couple other systems that use the asterisk besides Sag A.
+
+Further, it’s a permit locked system, in a permit locked region by the cone sector, however EDSM is showing 1 ship passing thru in the last 7 days.
+
+Is this suspicious?
+
+Edit: There’s also a giant gap next to it that’s almost entirely void of any stars, in a region where it’s pretty consistently cluttered.
+Click to expand...
+The prefix EM* means 'emission star' and is given to stars that have emitted strong flares (technically, they need emission lines in their spectrum). Simbad is the place to look for more information. Real life stars like this need to have a parallax measurement to be included and placed in the ED galaxy.
+The player activity is suspicious, as regional permits are currently unobtainable.

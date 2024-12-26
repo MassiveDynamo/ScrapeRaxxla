@@ -1,0 +1,21 @@
+Louis Calvert
+Nov 10, 2022
+#27,808
+@MrSuction @Jorki Rasalas @cmdr milesred I'll also try the trinkets thing now I've finished shooting up Azimuth stuff, that sounds like a great idea
+
+One thing I'd like some help with from people that know more than me. I'm still checking out my Saturn idea (Saturn as the original DW /Raxxla location), and I just can't get over those two missing major moons. I can understand little weird Hyperion (in lore or simply for game design reasons) is gone, maybe mined away or otherwise ejected, I would normally just abandon the idea here.
+
+but I just want to close the investigation into Mimas...
+
+
+
+It is listed here in EDDB as @CMDRCorrMorningstarFelian discovered. EDDB says:
+"The data which can be found on EDDB is 100% community generated. There is no regular data dump from Frontier. Systems, stations, commodity prices, outfitting or shipyard information - all this information is 100% coming from the actual player base."
+
+So, I assume that Mimas must have shown up for at least one person using EDMC or similar, at some point. The radius according to EDDB (198km) is correct according to the Mimas wiki page. I'm not really any good at determining temperatures of space objects other than "hot or cold" so I don't know if a surface temp of 64k as listed on EDDB is accurate to the IRL version, I assume it should be that cold unless tidally heated or somesuch. There's no mass listed which is odd and suggest bugged data, but there is an image. Is that a generic moon image that EDDB uses, or are they pulled from somewhere? There's also no materials listed as you normally get for landables in EDDB, but it is listed as landable.
+
+Does anyone know anything about this in terms of the functioning of EDMC's community database system? Is this a bug? Did Fdev remove it from the game a while back and it's just stayed on the EDMC's database since then? How could I find out these things?
+
+I have flown many complete loops around the edge of the outer ring where Mimas should be and I can't see anything - testing the idea that it's there physically but not registering on ships systems, but given that it would basically be a pixel in supercruise It would be easy to miss.
+Reactions:
+CMDRCorrMorningstarFelian

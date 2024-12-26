@@ -1,0 +1,79 @@
+El Saico
+Jul 22, 2024
+#34,524
+Rochester said:
+I had mapped these previously but did not follow them up any further. Below I have tried to replicate your work, and maybe identify a few findings.
+
+Many of the Titan names are actually replicated in game as named systems, bar two?
+
+Cocijo ( 31.31 -52.62 19.03 )
+Hadad ( 9.88 57.84 20.59 )
+Taranis ( -52.53 18.47 -28.69 )
+Thor ( 60.38 15.25 -9.25 )
+Indra ( -60.66 -18.12 -7.50 )
+Leigong. No associated system?
+Oya. No associated system?
+Rainjin ( 121.47 -68.87 -0.37 )
+
+Here are the actual titan locations:
+Cocijo = Col 285 Sector BA-P c6-18
+Hadad = HIP 30377
+Taranis = Hyades Sector FB-N b7-6
+Thor = Col 285 Sector IG-O c6-5
+Indra = HIP 2056
+Leigong = HIP 8887
+Oya = Cephei Sector BV-Y B4
+Rainjin = Pegasi Sector IH-U b3-3
+
+Titan actual systems:
+Col 285 Sector BA-P c6-18 = ( 157.28 14.97 -103.87 )
+HIP 30377 = ( 178.78 -81.72 -47.94 ) m
+Hyades Sector FB-N b7-6 = ( 88.44 -74.91 -122.00 )
+Col 285 Sector IG-O c6-5 = ( 125.50 -169.75 -97.12 )
+HIP 20567 = ( -2.81 -63.81 -162.44 )
+HIP 8887 = ( -66.44 -144.41 -106.28 )
+Cephei Sector BV-Y B4 = ( -97.81 44.31 -83.84 )
+Pegasi Sector IH-U b3-3 = ( -147.56 -61.78 -27.50 )
+
+All the titans (as we all already know) share a common naming meaning:
+
+Cocijo = lightning
+Hadad = storm and rain god
+Taranis = thunder god
+Thor = lightning, thunder, storms
+Indra = lightning, weather, thunder, storms, rains
+Leigong = thunder
+Oya = wind, lightning and storms
+Rainjin = thunder
+
+The following image shows systems that share naming with Titans, overlaid with systems named after the older gods ‘deities’.
+
+
+
+Assumptions: it’s possible the Titans naming are utilised to advertise these ‘storm’ systems and the wider cosmology eg the zone of chaos?
+
+The following image shows the Titans linked to their namesake systems.
+
+
+
+Assumptions: there does not seem to be any direct correlative pattern or relationships linking Titans with their namesake systems.
+
+The following image shows all Titans linked together into two diamonds, in relation to their namesake systems.
+
+
+
+Assumptions: these Titans would seem to encircle these namesake systems and or the general bubble but nothing is conclusive. A centroid may advocate a focal point.
+
+The following image shows all Titans linked together into two diamonds, overlaid with systems named after the older gods ‘deities’.
+
+
+
+Assumptions: these Titans would seem to encircle these systems and or the general bubble but nothing is conclusive. A centroid may advocate a focal point.
+Click to expand...
+Oya is known in Candomblé as Iansã, from her moniker Oya Yansan.
+
+Iansan - star system | Elite:Dangerous | INARA
+The companion site for Elite:Dangerous with the game database, market data, trade routes, outfitting, engineers, blueprints, crafting, Thargoid war, squadrons, logbooks, galleries, galaxy information and much more...
+inara.cz
+Reactions:
+simulacrae and Rochester

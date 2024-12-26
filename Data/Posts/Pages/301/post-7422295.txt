@@ -1,0 +1,14 @@
+Han_Zen
+Feb 15, 2019
+#6,004
+CMDRGURU951 said:
+I worked on that with some friends, and am now suggesting is a bug. Quite an eye to spot it though. Well done on that and the subsequent reporting of it.
+I researched that on stream and was able to replicate it in other systems. And thank you, Cmdd_Legendie. o7
+
+Ha ha, welcome to Deneb.
+
+Did quite a bit of research on this, a couple of months back(before and after 3.3 launch). I think ti might be an effect that is only meant for VR, that spills over. In VR you get this in a lot of systems.
+
+The strange thing is that in no VR it only happens with big stars, in Cygnus.
+
+Probably a bug, but still mysterious.

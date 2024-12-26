@@ -1,0 +1,24 @@
+Ian Doncaster
+Oct 22, 2024
+#35,105
+selbie said:
+There is a high degree of certainty which can be established from this account:
+1. Raxxla is not a system - otherwise he would have used the phrasing "Raxxla system" or "Raxxla has been visited".
+2. Raxxla exists within a system - MB relates the notion of players visiting the system to its near discovery. As a developer he had access to internal tools and data and was therefore expressing how close players came to finding it.
+Counter points:
+1) The report in that particular clip is about four years after the Lavecon in question (and I can't find a more contemporaneous reference that's better than two years old and in that case at least third-hand, which is still surprising!); it might be reliable for a general impression but I would definitely not rely on it as a word-for-word transcript of what MB said [1].
+2) Depending on precisely what Raxxla is and how it's hidden, being present in the system might be almost irrelevant to finding it, so I think "was therefore expressing how close players came to finding it" is a very unsafe conclusion [2]. A lot of people mentally add the follow-up "and if they had scanned the system they'd have found it easily" but no account has that actually being said.
+
+[1] There's a big difference, for example, between "a CMDR has visited/honked" and "a CMDR could have visited/honked" which the passage of time (and the apparent absence of contemporaneous reports) might hide.
+[2] Statistically, a system visited at least once in the first two years of the game has probably been visited at least five times by now. So ... did none of the later visitors look around either? (Obviously there's a chance that it's a system sufficiently away from obvious landmarks and paths that being accidentally visited even once in a decade is still beating the odds ... but in that case clearly "randomly stumbling across some obscure system several thousand LY from the bubble" won't be the intended way to find it either)
+
+selbie said:
+The signal is also not a 'defined place' to the degree of accuracy you refer to on planetary bodies. At best it is a narrowed approximation at the scale of lightyear distances.
+Our ability to define the position of the signal has enough error in it that we don't know exactly where it is, but that doesn't mean it's not (in) a definite place.
+
+The Colonia Nebula doesn't have a precisely defined position that we can determine (and the map label won't visually get us more precise for its centre than the approximations used for the signal), but if we're talking about its extent are we talking about the visual one, or the larger region in which nebula-dependent life like NSPs or Electricae are found, or the collection of systems within either of those extents but not the space in-between? A "definite place" doesn't have to be small nor precisely positioned.
+
+
+I think "Raxxla is smaller than a star system, and also within one" is almost certainly correct. Even that doesn't rule out the landscape signal entirely, since we know that star systems can be completely hidden from our map.
+Reactions:
+selbie and Rochester

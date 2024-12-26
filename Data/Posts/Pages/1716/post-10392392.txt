@@ -1,0 +1,40 @@
+Ravenloft45
+R
+Jun 24, 2024
+#34,307
+Han_Zen said:
+I was dabbling a bit with the name again. Raxxla that is.
+
+I try to read hints as general and find whats common about them. When it comes to the cosmology this myth operates in, it seem to be geocentric. Milton, silent song of the spheres and the omphalos idea are all geocentric in their view of the sky.
+
+I was thinking the name might say something in this context. I came up with this:
+
+First i splitt the name in three parts. Ra, xx and la. Then I let AI analyse it in the context of astronomy. There were several suggestions but I was after a location, so I landed on this:
+
+Ra = Right (of course)
+xx = 20 (simple roman numerals)
+la = latitude or more specifically celestial latitude
+
+This gives longitude in one coordinate system and latitude in another an just the number 20.
+
+I tried putting 20 in both coordinates and recalculating the latitude to normal equatorial declination. This gives:
+
+Ra 20h Dec -0.57°
+
+The closest named star is at
+
+
+This is about as close you can get with Roman numerals
+
+The system is a binary with no planets an has the interesting alternative name of: Thanih kab
+
+In the sky, the system is close to Altair. Crossing the magpie bridge from Vega will get you close.
+The system also have a listening post.
+
+This is just a simple analyses, following the path of least resistance. There are endless other way to interpret the name.
+Click to expand...
+Maybe Tseen Foo's second star, Theta Aquilae B has a poi near it?
+
+Some time ago i took a similar aproach, but in my version it was RA XXL A. So i assumed Right ascension 10;10;50. At that direction, there is one of the brightest star in skies of northern hemisphere, Regulus. (Right ascension: 10h 10m 58.887s / Declination: 11° 43'42.655'' to be exact.) If you park your ship in to sol, plot a direct route to regulus, there is a bright red dot out of reach, aligning perfectly in the galactic ceiling. I tried to go to that direction as much as i can and scanned most of the system, but trying to navigate in galmap based on a "strait line" is extremely difficult.
+Reactions:
+Han_Zen

@@ -1,0 +1,10 @@
+Six6VI
+Feb 13, 2020
+#15,181
+Vetinari said:
+Oh hang on, maybe it just refers to the 'unlock' mission that you get to unlock the engineer from some of them. That would need to know your current rank with them so it doesn't duplicate and does provide one at the right time in the right place on the right board.
+Hmm, not sure what you mean here?
+
+Engineers are unlocked at their own bases but if you need to get a system permit for Alioth, Sol or Sirius (etc) first, that's handled by the controlling faction. On reaching Allied you should see the permit mission appear at the top of the list on all mission boards where that faction has a contact but you might need to relog (or launch) to force a status update to the mission service when you first hit Allied.
+Reactions:
+Vetinari, Machina Ergo Sum and [PS4] Filthymick420

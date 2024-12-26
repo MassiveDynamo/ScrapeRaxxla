@@ -1,0 +1,8 @@
+Jorki Rasalas
+Jan 1, 2023
+#28,735
+John [Panzertard] Stoutbeard said:
+Yes, kinda confusing. Previously in Horizon '+++' indicated security level. The shield has 'levels' too (empty, half-full, full) but it's hard to understand whether it means "security level in foot" or something. Poor & confusing design.
+Yes, FD seem to have a bit of a cavalier view of the playerbase. It would have been a good idea to update the Players Manual with that sort of info, as well as mentioning it in the change notes. My ESP ability has been blunted by the weight of the ages...
+Reactions:
+John Stoutbeard

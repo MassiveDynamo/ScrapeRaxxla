@@ -1,0 +1,9 @@
+Tacticus2711
+Jul 5, 2019
+#9,313
+Djidjel said:
+Hello Cmdrs.
+I've been running some tip off missions and i stumbled upon a server bank. Not scannable, indestructible server bank. But getting close to it i could hear in my SRV scanner some jumbled white noise and I could swear someone was saying "this is a..." before more static. After a google search I found other cmdr have already been through this. Is it a bug or a feature?
+Hey there CMDR, it is a feature, you can’t scan it because you don’t have the access codes and you need them to a sess the data bank
+Reactions:
+Djidjel and PeteACarter

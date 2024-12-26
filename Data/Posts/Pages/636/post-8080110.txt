@@ -1,0 +1,9 @@
+Darth Ender
+D
+Oct 11, 2019
+#12,707
+reading a barcode is simple. there are 4 widths that the white and black bars can be. just follow the widths in sequence and write them down. Now, figuring out what the numbers represent is another issue entirely.
+
+either way, it's been stated since the beginning that there will be no in-game or out of game clues in regards to raxxla. So there's no point in looking for any unless that situation has changed (it hasn't).
+
+Going by how fdev has handled things in this game in the past, raxxla is probably a non-descript planet that you could have passed a thousand times but if you happened to investigate it in depth you may find something on it that would identify it as raxxla. There will be no value to having found it within the game ...and no special content related to it of any significance. It's discovery will not alter the overall game or narrative.

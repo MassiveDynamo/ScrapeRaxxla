@@ -1,0 +1,29 @@
+Jorki Rasalas
+Aug 26, 2019
+#11,376
+Vetinari said:
+Been thinking...Storywriters were told Raxxla was off limits as something that should play out on the game, whole Lore has been Retconned but not changed (Jameson ship chronoogy is still current), so what has changed? Most of the stuff about Raxxla, why? Because it was too hard to retro-fit something into the old idea that was never planned to be anything in the first place? Why retconn it at all if it doesnt 'exist' physically in the game, far simpler to leave it as was.
+
+The Codex etc hints that it does exist, the fact that they have changed the lore around it suggests its for a reason other than just plain background.
+
+GalNet - I always thought Gan Romero etc although 'meant to take place off-camera' could still have hints or backup to other areas of the lore or game. So the dreams etc may be linked to other dreams just to back up one actual physical storyline later on that does involve dreams maybe, rather than just a 'fairytale' bit of fluff to make the galaxy seem lived in or there'd have been more surely.
+
+So maybe, just maybe, it in the game this time.
+
+TDW are still looking for Raxxla aren't they? Maybe they know who the people are, if anybody, who does know where it is if that bit of the old lore is still true about the formation of the DW in the first place and why.
+
+DW station - disused station round an unnamed GG - how many stations in human history just got forgotten about? What was there that was wanted enough to build a station then used so quickly it just got forgotten? like an old west ghost town?
+
+Surface Missions - sometimes you get a pickup job or a scan beacon job at a RNG base, you have to map the planet and it shows up within 4-5LS I think it was for me, real close. Raxxla could be a similar place, no need for different game mechanics....a journey each must take for themselves.
+
+Right thats enough help from me, you now have all the info you need to find it, if its there, which I truly believe it might be this time.
+Click to expand...
+
+I agree that Raxxla has been retconned. I don’t think it’s anything to do with a wandering planet (origin: Oolite fan-fiction?) or a planet with an alien gateway to other universes (origin: Holdstock’s TDW novella). TDW was retconned out; the only canon lore we now have on what Raxxla might be is the in-game Codex. DB said we don’t know what it is, so I think it’s going to be different from the ideas currently being stated.
+
+We know it’s been in-game since the beginning because DB said so, and he isn’t going to blatantly lie to his player base, though he may not have made it easy to find. It should involve objects and mechanisms in-game from the beginning, so I rule out neutron jumps, and engineer acquaintances.
+
+At first I treated the DW alleged toast as a routemap (to ..., to ...to ...) to be followed, which formed a personal journey, but that didn’t work, although I had an inexplicable CTD at the final destination which was not repeatable. Could it be that I didn’t have some of the places in that journey correct and the CTD was an FD hint?
+
+At present I’m treating the toast as a set of bearings indicating the centroid of the three objects toasted; I assume the observer is standing on TDW’s dark orbis station. Three sightings to known objects gives three bearing lines which should indicate the observation point. Since no bearing angles are given then I reason it should indicate the centroid position, rather than an offset position. I’ve tried six centroid positions so far without result; checked 10kls above & below the ecliptic at each. However to work correctly as such a toast, those three objects should be visible; I’ve pootled around centroid positions involving Zeta Cass/ Alphekka (Gemma) and NGC 7822, and Gemma often is not visible due to interstellar dust clouds. May be a point worth pondering; would TDW toast something that wasn’t visible (apart from Raxxla itself, the final part of the toast)?
+Last edited: Aug 26, 2019

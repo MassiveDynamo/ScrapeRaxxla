@@ -1,0 +1,32 @@
+Ian Doncaster
+Sep 19, 2024
+#34,883
+Dox Paradox said:
+It could involve precise timing with the high-wake loading bar, like boosting just before or turning the ship power off...
+It sounds silly, but worth trying (what isn't worth trying anyway, eh?).
+Maybe the ships have hidden features.
+Or... "Observers speculated that Thargoid Sensor interference could be to blame for the mis-jump." [Jacques Station]
+Should we carry one ??
+Thargoid Sensors? Trinkets? lots of options. I was coming out from Colonia at the time and didn't think to collect any of those first.
+
+Virtual Yoda said:
+Is there a line from STUEMEAE GG-Y C4801 to somewhere else that takes you through the signal source?
+Not of the ones I tried.
+
+Here's the pairs I found where the midpoint of the line was a valid coordinate within 6/32 LY in each direction of the estimate, which is a fair bit larger than the zone defined. None of those jumps in either direction did anything but obviously I have no way to tell whether that's because this fundamentally doesn't work or if I wasn't triggering the misjump correctly.
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If it just has to be on the line and not necessarily at the midpoint then that certainly provides more options even limiting to a 40 LY range, but I'd got to the "if it hasn't worked with any of these then it probably won't work with the others either" stage.

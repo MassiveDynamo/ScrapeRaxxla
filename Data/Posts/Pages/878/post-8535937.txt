@@ -1,0 +1,25 @@
+Stinja
+S
+Jun 16, 2020
+#17,541
+alexzk said:
+Looks like star's orbit around mass center. Check if line goes through the star.
+It doesn't.
+EDIT: ok it's weird. the orange orbit line is 90 degrees to the plane when you're close to Suntaka, but move away and keep checking FSS and it'll pop to being in the plane again.
+Took some pics, but not so easy to get off PS4, i'll need some time to upload.
+
+90 degrees to plane:
+
+
+back in plane:
+
+
+I checked Pareco again, and it doesnt show as a mass/orbit line, not targetable, not an object in FSS. So those at least are still indicating things may be hidden mechanically (aka not implemented properly).
+
+Pareco stations and "comet" from SC:
+
+
+from FSS:
+Last edited: Jun 16, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Dr. Lexus, Plaid_unicorn and 1 other person

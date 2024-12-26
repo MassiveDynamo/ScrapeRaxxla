@@ -1,0 +1,28 @@
+Vektorboson
+V
+Jan 26, 2021
+#20,570
+Ravenl0ft said:
+Yes, i tried to get something meaningful from the word itself. I tried R.A. 10h 10m 50s, the thing is, that only defines an arc , a curved line in the sky. you can always use websites to search the sky (the real one) like http://simbad.u-strasbg.fr/simbad/sim-fid From this site you can search with name, coordinates and many other techniques to find a star, or look to a spesific direction in which you are interested. By the way FD had put the real stars (not procedurally generated ones) in game with accurate right ascension and declination. That means 2 things. First,whatever is discovered in real life astronomy, you can see it in game with true position and spesifications. Second, they put a great effort to implement it in the game with accuracy, which needs a workforce and coding. You wont believe how many stars are in true position in game from real life, just look at stars names starting with HIP and HD. For example, lets try something. Say, you are interested in 10 10 50 coordinates right? Go to simbad webpage, submit a query with coordinates. type 10 32 43,339 +09 18 30,57 in coordinates query, define input system FK5, set epoch to 2000 and equinox to 2000. Choose "a predefined frame". and define a radius 100 arcmin. when you submit the query, it will list the observed objects list, and here is the end result if you dont want to bother the query thing: http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=10h+10m+50s+-29°+0'+28''&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&CooDefinedFrames=none&Radius=100&Radius.unit=arcmin&submit=submit+query&CoordList= Now from here, click the identifier,so you put it in to an alphabetic order. In pages 5 and 6, you will see system names starting with HIP and HD. just copy one of them and past in games galaxy map. It will take you to the system! Wonder why they bother it so detailed? I think they want a really acurate and life like space sim. Or maybe they need it to be like this because it has a purpose? I always believed that if someday RAXXLA will be found, it would be in a real life discovered system, not on a procedurally generated one.
+
+you also need a declination, to find a spot in the sky, right ascension is not enough. but if you google the R.A. 10h 10m 50s in website edsm, the closest result is Regulus. The alpha leonis, and a very peculiar system in many ways. I chased regulus and its whereabouts for a long time, but couldnt get to somewhere. Maybe a pair of eyes is not enough to find. Also from Sol system in galaxy map, when you plot a direct route to regulus, or align them , you see a white dot at the background, seemed to be 4 stars hanging in galaxy map ceiling.
+
+After this, im trying a fresh new aproach to this kind of logic.
+Click to expand...
+
+Funny thing there are some stars, some significant, which are not there (I think the main star from the Cygnus-constellation is missing). Then there are curiosities like the ingame Apep-system (single star) seems to not correspond to the real Apep-star system (binary Wolf-Rayet). I'm currently investigating the stars named after Egyptian mythology because of the "Two Ladies"-hint. The Two Ladies, Wadjet and Nekhbet, are really close to each other ingame, which is an obvious hint to me that the Egyptian named stars might not be chosen in a random manner.
+
+Other interesting observations:
+
+Set/Seth is called a "disruptive god"; when you visit the "Set"-system you get something what you didn't expect: Stars named after African mythology. The "real" Seth is ingame called "Sutekh"
+the Isis-system: It has mixed Arabic numerals and Roman Numerals (Isis 1, Isis 2, and Isis I to Isis X); it's interesting because Isis wasn't only an Egyptian goddess; she had also a cult in Rome and there's also this interesting page: https://en.wikipedia.org/wiki/Mysteries_of_Isis
+the copy&paste planets of Isis: Two gas giants in the Isis-system have exactly same mass/radius; furthermore the other three gas giants also have exactly same mass/radius
+the Atum-system: In the Atum-system the "primary star" Atum has less mass than the "secondary star". So when you make a FSD-jump you arrive at the secondary star, not Atum (that's because the FSD locks onto the largest mass!); also the Atum-system is extremly close to another binary star system which you could travel to in less than an hour in SC (I did not try it).
+the Two Ladies: Wadjet's symbol is a Cobra, Nekhbet's symbol is a Vulture; both ship types exist in the game; both systems are binary stars, though one system is empty without planets
+And regarding the name "Raxxla" itself, you could also look at it differently, where "Ra" corresponds to Ra, "xx" could correspond to the XX-chromosome, but don't know how to interpret the "la"-part. So taking Ra and XX this could reference the "Eye of Ra" which is the "female counterpart" to Ra. But no idea what "la" could be about. And I'm already throwing wild ideas around.
+
+I also forgot to mention the "Veil of Isis", see here: https://en.wikipedia.org/wiki/Veil_of_Isis
+Which might also mean that whatever secret there is in the Isis-system it might not be ever uncovered.
+Last edited: Jan 26, 2021
+Reactions:
+[PS4] Filthymick420, Hanerib and Ravenl0ft

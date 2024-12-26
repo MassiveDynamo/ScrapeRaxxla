@@ -1,0 +1,30 @@
+Havvk
+Jul 15, 2020
+#17,888
+Koben said:
+Mind to share your findings?
+According to EDSM: https://www.edsm.net/en/system/id/3984/name/Nuenets
+"The Pilot's Federation" was once in Nuenets, but now are no longer here.
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+However, after a bit of digging into this rabbit hole, I found something interesting. This isn't the Pilot's Federation Local Branch, as you see in Shinrarta, LHS 3447 and the rookie systems, where they still have an actual presence within the system's occupying minor factions. https://www.edsm.net/en/faction/id/81923/name/Pilots'+Federation+Local+Branch
+
+Looking even more into this, when I first began, I noticed something odd. Pilot's Federation Local Branch is nowhere at all in this system, yet they still control Betancourt Enterprise: https://www.edsm.net/en/system/stat...details/idS/11944/nameS/Betancourt+Enterprise
+
+
+You can find this same information on eddb.io and INARA too:
+
+eddbi
+https://eddb.io/system/14769 Nuenets system
+https://eddb.io/station/45753 Betancourt Enterprise
+
+
+INARA
+https://inara.cz/galaxy-starsystems/ Nuenets
+https://inara.cz/galaxy-station/45889/ Betancourt Enterprise
+
+The same can be seen in the in-game system map, if you've been here before.
+Reactions:
+PeteACarter and [PS4] Filthymick420

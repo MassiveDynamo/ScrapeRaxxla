@@ -1,0 +1,13 @@
+Ian Doncaster
+Sep 5, 2024
+#34,726
+Silly idea based on "only once a suitable test of courage and skill has been discreetly administered, and passed" from the Dark Wheel codex.
+
+If your ship is destroyed, you respawn aboard the nearest station (unless Wanted or Hostile or there is no station).
+If that works for the Dark Wheel station, maybe the test of skill is figuring out where it is, and the test of courage is being confident enough that you're right that you eject and are picked up by them.
+
+The change to reappear at the nearest station rather than always your last-docked one was introduced in 3.0 so was certainly there when the Codex was added in 3.3.
+
+(I won't be testing it on my current survey run - it's not really compatible with carrying the cargo and flying a fairly slow ship)
+Reactions:
+Louis Calvert

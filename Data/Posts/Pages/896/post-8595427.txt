@@ -1,0 +1,16 @@
+Jorki Rasalas
+Jul 16, 2020
+#17,914
+Six6VI said:
+I had a rental copy on the BBC and never saw Raxxla. When I got my hands on a PC copy I used XTree Pro / Gold to dig through the .exe via the hex editor, long before Frontier was a thing. While you could read all the mission text that was buried right at the back end of the file I don't recall seeing any system names.
+
+As I understand it the systems together with the system names were procedurally generated from an 8§ bit seed. The names were constructed from a couple of 2-letter combinations. The name Raxxla was impossible to generate.
+
+Edit: § just found this & I obviously “misremembered”!
+Procedural content generation: Creating a universe
+I’m sure there was another reference to FD talking about procedural generation for Elite.
+Don’t think it was this:
+Source: https://procedural-generation.tumblr.com/post/112509130817/elite-1984-elite-created-by-ian-bell-and-david
+Last edited: Jul 16, 2020
+Reactions:
+Noebbie, [PS4 Pro - PC] earthtone99, Exekrator and 7 others

@@ -1,0 +1,6 @@
+Ararera
+Apr 24, 2019
+#7,703
+AegisXOR said:
+I wonder if it's possible to power off your FSD at the exact moment a jump initiates?
+If I'm not mistaken the panel where modules are controlled is disabled when the countdown for the FSD begins.

@@ -1,0 +1,24 @@
+Jorki Rasalas
+Apr 14, 2019
+#7,478
+Noobilite said:
+How the hell have we been doing exploration this whole time without tier 5 ligthweight on something? You would think it would have been scouted out already and found at all cost.
+
+Either way, this means anaconda now has over 83.99ly jump range. Maybe this opens up new places to explore.
+
+New max conda: https://s.orbis.zone/2rxh <-New max range is now 84.11ly, 126.165ly/336.44ly White/Neutron Star boost, 105.1375ly/126.165ly/168.22ly with 25%/50%/100% fsd boosters. Does this open up any new areas?
+
+If we only had lighter sensors. We could get rid of drive distributor and get more range. Maybe one day we will be able to pick more sensor types.
+
+BTW, if we could install 1D sensors this is what we would get: <- 86.14ly max jump range.
+
+Again, this opens up the potential of no combat rating for raxxla hunting and max exploration builds. Although it goes against what happened in the Dark Wheel book. If that matters.
+Click to expand...
+
+The engineers in Colonia started off as relatively inexperienced compared to those in the bubbel & could achieve upgrades only to level 3. As people are using their services their experience is growing & are able to achieve better upgrades.
+
+Do not confuse exploration with jump range, which is just a tool for explorers. Exploration is not dependent on engineering upgrades. Exploration is about getting out in the black to previously unvisited locations, then investigating and mapping them. If you engineer a ship up to 80ly jumps then that means you’re missing 79.9 ly worth of systems that may be unexplored, in effect you would be travelling quicker but exploring less. A lot of the Formidine Rift searching was done prior to the introduction of engineers; I visited Zurara, and explored the Pha Ain NO-X sector, in a basic 20-odd ly AspX, & had to do a fair bit of jumponium boosting and route retracing to get over some tricky bits.
+
+Raxxla has been in-game since the beta, so also prior to engineers; therefore it can be found without any upgrades (if you look in the right place and in the right way).
+Reactions:
+ScolioTheMost, rOmiLaYu, Han_Zen and 1 other person

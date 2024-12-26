@@ -1,0 +1,12 @@
+Emperor
+Jul 30, 2020
+#18,186
+[VR] Panzertard said:
+I've done quite extensive audio analytics while I've been playing. Not so much popping out. The 'wooshing' sound while in jump have had nothing in the past, mostly it's the ship noise that pops things into the audio gram but it's just random noises.
+
+I have to admit I've listened to many sounds, celestial objects, ship computers, background radio traffic and much more.
+Bonus is that I've learned how limpets speak now, so perhaps we should continue the convo in Limpet?
+
+I did a Spectral analysis if the jump audio (fave of the Thargs) and it shows nothing of interest...
+Reactions:
+[PS4] Filthymick420, Han_Zen and John Stoutbeard

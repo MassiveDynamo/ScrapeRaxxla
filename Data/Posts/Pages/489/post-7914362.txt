@@ -1,0 +1,14 @@
+Thatchinho
+Jul 25, 2019
+#9,768
+CMDR Maylor Rom said:
+I'm not suggesting that at all, but we are individually searching and not searching as any type of coordinated team or group, with no tools to assist in the search.
+
+Compared to what Canonn and their website is doing for the search for Thagroids, we might as well be playing solo.
+It's a very different proposition though.
+
+How do you co-ordinate a search or create a tool to help you search if you don't know what it is you're actually searching for?
+
+Take the EDMC plugins - basically they're 'read specific events from player's journal and transmit them via the ED Data Network'. So the question in terms of building a plugin is what journal events that aren't already being picked up are we looking for in terms of searching for Raxxla? Unless there's a clear, well defined answer to that question, then there cant be a plugin.
+Reactions:
+NW3

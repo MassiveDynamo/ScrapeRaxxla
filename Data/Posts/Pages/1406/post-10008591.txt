@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Nov 28, 2022
+#28,113
+SongOfTheVoid said:
+Rogueplanet and Exotic arnt ingame as anything other than empty unused references, the stars that should/could have those classification are all either manually hidden using the 'Devs Skeleton Graveyard' method ive covered in previous pages and F stars have been assigned as 'placeholders' for each of those respective bodies, Rogue planet is a orbital type not a planet type thus is again redundant information as orbital patterns do not determine what a body type is. If I recall there was some small evidence that Fdev was flirting with the idea of 'Rogue bodies' being bodies that pass from one starsystem to another but that was scrapped long before even Horizons was released.
+This is precisely why setting your ship to view orbital lines is essential. It helps in visual identification of bodies that ended up in a system through unusual circumstances. DSS scans of such bodies often end up showing more unusual POI types. Old systems are good candidates as are mythological named systems. Also, always keep an eye out for unusual name schemes or bodies with proper names. This generally may indicate some level of historical significance.
+Last edited: Nov 28, 2022
+Reactions:
+SongOfTheVoid

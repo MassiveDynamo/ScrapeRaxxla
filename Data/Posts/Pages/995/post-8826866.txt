@@ -1,0 +1,14 @@
+CMDR Zulu
+Dec 1, 2020
+#19,892
+frog-sothoth said:
+Tinfoil hats on because I think I've found something odd on Delphi 5a, and no it's not the Thargoid structure. Taking 'Omphalos' literally as the navel or centre of things I went to latitude zero, longitude zero to see if anything was there. When you land there are some dark markings on the surface and lumpy ground seemingly in rows. Other than that there's nothing to see. Things get interesting when you look down from 3.5 km as the dark marks form a sort of diffraction pattern. It's not visible much above or below this altitude. I then went to the far side of the planet (0, 180) and found similar but different markings. Same thing at 0, -90. I didn't see anything at 0, 90 as it was in darkness. I then headed to the north pole 90, 0 to see what was there and there's a big, deep crater with its floor in darkness. There was also a Beluga liner hovering about 200m above the ground with its nose pointing down, which struck me as odd. As I didn't have a manifest scanner I went to The Oracle to get one and some hatch breaker limpets in case it was carrying anything interesting. When I got back the Beluga had gone, but there was an Adder close by in the same hovering with its nose down above the ground position. The manifest scan showed nothing interesting, just some general cargo. The south pole (-90, 0) was in darkness when I visited so I don't know if there are markings there or not. There were none of the nose down stationary ships. Has anyone else seen these markings as I can't find mention of them on the forums/internet?
+Click to expand...
+
+Ive done something similar to this before but on Merope 5c. I was convinced there were markings on the planet but I now believe it’s just graphical issues where the world generator creates seams on the surface.
+
+This isn’t to say your approach is wrong or that you haven’t found anything but keep in mind this is a game that does come with graphical errors and if I’m not mistaken they’ll be changing up the terrain generation for some planets for odyssey.
+
+Ive chalked up what I thought I saw to a bad case of pareidolia back then. I even thought I recognized patterns in the Pleiades nebula around that time.
+Reactions:
+Fiera, [PS4] Filthymick420 and Vetinari

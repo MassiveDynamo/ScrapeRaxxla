@@ -1,0 +1,28 @@
+Cmdr SpaceMerlin
+Jul 20, 2020
+#18,001
+alexzk said:
+Just finished Duke rank, now 5 more for Feds >:
+
+Got 3 tip off messages during. Did 1 - found crashed ship with thargoid sensor there. Also could access and read ship's log. After relog it says "data encrypted" again.
+So we can conclude all those crashed ships around may tell stories by "tip off" when you have key for 1 read.
+Then I returned back to station where I got that mail, surprise - I could sell "intelligence data" there. I'm swear I had nothing before. So I think that was imperial spies who hired me.
+Ship is at ALRAI SECTOR BR-Y D72 A2 A
+
+Click to expand...
+
+I've just finished grinding Imperial Duke rank too, and got 2 tip-off missions.
+
+Only tested one before logging off, because for once it didn't talk about a crashed ship.
+
+Here's the message:
+
+Got there, 0.37G planet, and it's a Federal Python, landed (it fires but never takes off) on the ground, with no cargo on board, inside the fence of a heavily defended installation (3-4 turrets shoot at you once you get within 3km and they're pretty mean - tore through my Conda's shields in under a minute). Scanning (manifest+data) the ship yields nothing. Tried getting close with the SRV but the turrets started shooting from 1.5-2km away. A transport ship (type-7 from Cupinook Industry) hovers over the installation then high-wakes to Naitis before being replaced by another.
+
+I will try replacing my weapons with fixed ones and come back to get rid of turrets before taking care of the Python. Maybe tomorrow or later. Go check it out if you think it may be interesting.
+
+The other tip-off ( i haven't tested it yet) was a classic crashed ship on Juracame 1 A at Lat 3.12, Long 146.83, expires on August 1st.
+
+I'll post in the dedicated thread upon completion of the two.
+Reactions:
+PeteACarter, Vetinari and [PS4] Filthymick420

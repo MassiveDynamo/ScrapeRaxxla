@@ -1,0 +1,10 @@
+RaNaketh
+Feb 9, 2020
+#15,142
+Koben said:
+The max number on each segment for IPv4 is 255, so an IPv4 address for comms relay 290.422.11.1 does not exist...
+It might be a hint to something. I tried to decode it with no success so far...
+I always read those as a log number, not an IPv4 simply because it wasn't in the correct value ranges.
+Drive Units System Diag(nostic number) = 290.422.11.1
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

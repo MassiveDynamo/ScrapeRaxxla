@@ -1,0 +1,14 @@
+[Diplomacy] Carnegie
+Jul 2, 2019
+#9,225
+Tacticus2711 said:
+There is a star class in the in game codes called exotic star’s
+
+It's simple enough to prove:
+
+Set the GalMap filter to Star Type and ensure that all types are selected.
+Visit every star in the galaxy.
+Set the GalMap filter to 'Not visited'.
+Look for red dots.
+Reactions:
+Midian Cabal, rOmiLaYu, Scytale and 2 others

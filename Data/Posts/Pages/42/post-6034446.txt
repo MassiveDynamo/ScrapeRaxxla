@@ -1,0 +1,14 @@
+Jaiotu
+Oct 15, 2017
+#828
+clavain said:
+So, I have checked the list of rogue planets against the Galmap - the only one in game under those designations is WISE J1741-4642, and it is in fact a star in the game (as wikipedia suspected) and not an actual rogue planet. The others will all have to be looked up in Simbad and their multiple designations checked against Galmap before it can be determined if they exist in game or not. This will likely take me a bit of time (and motivation, which is pretty low at the moment).
+
+WISE 0855−0714 is only about 7.3 light-years from Sol. If we figured out it's location in the night sky we could theoretically fly from Sol to WISE 0855−0714 in supercruise. It would take more than a few hours though.
+
+clavain said:
+BTW, who is the designated Children of Raxxla mole on the thread? Anyone?
+
+https://forums.frontier.co.uk/member.php/142132-CMDR-REAPER
+Reactions:
+clavain

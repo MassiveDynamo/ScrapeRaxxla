@@ -1,0 +1,12 @@
+yelboc
+Nov 19, 2021
+#24,818
+Frankymole said:
+Actually, they are where they were when observed in 2000 (or whatever star catalogue observations were used), but being thousands or tens of thousands of LY away, they're already thousands of years of space velocity away from where they are now, in real life.
+Quite so. So ofc Stellarium tries to give you the view of the sky on earth at any date. It accounts for the relative motions of the stars in the star catalogues in order to adjust that view - if we were to try to go visit those stars, some of them may not even exist any more, and all of them would be in a different place than when observed due to the time light takes to reach us, not to mention the travel time at <c required to get there. Real navigation to distant stars would be quite a business.
+
+Its amusing to think that our view of Sag A*, for instance is, based on light that left there well before the stone age, before man had even worked out how to use stone tools.
+
+E: D quietly glosses over all this, and the stars are entirely fixed where they were observed from earth in y2000.
+Reactions:
+Jorki Rasalas

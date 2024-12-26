@@ -1,0 +1,11 @@
+clavain
+Apr 11, 2021
+#22,840
+Vetinari said:
+Back OT - yes it turns out that apparently POI dont show in asteroid fields when FSSing. I need to check whether zooming on that particular belt doesnt show it or whether just when it resolves all of them in one go and you happen to be on the wrong one. Ill update when I know if nobody else does. But does mean DW station or Raxxla clue could be hidden in plain sight, even in the bubble, in well explored and mapped systems. Nothing wrong with that I just wish I knew earlier thats how it worked.
+Yeah, there are other instances also, discussed on the Adamastor thread, the most pertinent one (other than asteroid belts) being when something is located at orbital cruise altitude around a body apparently, in which case it is only revealed if you map the body.
+
+Years ago we joked that the best place to hide something would be in asteroid belts, because no one ever scanned them let alone actually jumped into them. Now we have a scanner that supposedly scans them
+without having to visit each cluster but doesn't work.
+Reactions:
+Vetinari, Rochester and Jorki Rasalas

@@ -1,0 +1,6 @@
+Havvk
+Dec 9, 2018
+#4,439
+Siobhan said:
+Thinking language, but the morse is a numeric sequence that isn't hitting any bells for me.
+I managed to convert it into binary, but I honestly don't know whether or not that I'm on the right track. I wonder if there's anybody else working on solving this riddle.

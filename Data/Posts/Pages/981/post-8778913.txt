@@ -1,0 +1,12 @@
+Jorki Rasalas
+Nov 3, 2020
+#19,604
+Ravenl0ft said:
+Guys did you ever noticed 2 systems have the exact same name before? why the heck there are two "q velorum" in the game?
+
+Yes, I found a duplicate named system (think it was a 2Mass ....) out in IC1805 (Out on the way to Heart & Soul). Same name, totally different system contents. Suspect Stellar Forge had a hiccup when importing from extant star catalogues, maybe one of the devs fed it some lavian brandy after a friday lunch trip to the pub?
+
+Seem to remember other people have reported similar. Report it to FD as a bug.
+Last edited: Nov 3, 2020
+Reactions:
+alexzk, Ravenl0ft and [PS4] Filthymick420

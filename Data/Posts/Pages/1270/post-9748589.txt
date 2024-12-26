@@ -1,0 +1,40 @@
+Adel
+A
+Feb 20, 2022
+#25,382
+Jorki Rasalas said:
+Well, I can readily imagine DB getting really tetchy over people continually asking if Raxxla exists in-game. Their clear implication is that it’s not and he’s lying when he definitely said it is. In his place I would also be very tetchy, however I’m not so good natured- I would be swearing and cussing them instead of mildly saying “Does Raxxla exist? There's an interesting one, what a silly question, of course”. I think that’s why Ed was a little uneasy, he knew what DB felt about the implication.
+
+Raxxla may indeed also be a very minor Easter Egg and he’s continually surprised that people make such a fuss over it; we also have it on record that FD were surprised that people didn’t play the game in the way they expected us to, so perhaps if we had we would have discovered it by now (he’s also said he knew there are missions that nobody has ever found).
+
+AT is a community manager, so hyping up (possibly unintentional phrasing) a “huge payoff” of finding Raxxla is, I suspect, part of his job to keep people interested in the game, so I don’t put too much weight to that statement. I suspect the payoff is an invitation to tour FD at Cambridge, meet DB etc. I suspect others have already done so, we know FD like NDA so I’m not surprised there are no credible reports of it being found.
+
+I think Raxxla as a word and the original description may or may not be FD’s intellectual property, that would depend on the contractual terms with Holdstock for the original novella. However the of Raxxla in ED totally their IP, and it may bear little resemblance to Holdstock’s original description.
+
+I think “hard to detect” and “not readily detectable by ship scanner” is highly likely. Since we know (cos IIRC FD told you so in response to your customer support question) that TDW station is in-game currently then the probable purpose of that part of the codex is to tell us that FD have embedded in-game objects which are not readily detectable, i.e. Raxxla (yet to be found), and comets ( proven, and possibly another hint to Raxxla’s detectability). Given that Raxxla is not readily detectable it in-game and remain hidden, It could be orbiting Jameson Memorial or Earth and still remain undetected!!. I’ve previously shown that at minimum SC speed Raxxla would be very difficult to detect due to the enforced 16 second time between honks. The only thing we have to guide the search is the first rumour report date of 2296, when star travel was in its infancy.
+
+We also have a report that DB was interviewed in a pre-Horizons video and purportedly said when asked about Raxxla:
+DB: "- It would be more likely to reveal itself to a group of players."
+Interviewer: "- How so?"
+DB: "- If you are at the right place and you scan it enough..."
+Interviewer: "- Advanced scanner or the basic one?"
+DB: "- Basic scanning is enough."
+Interviewer: "- But you have to be Elite..."
+DB: "- You have to be Elite."
+
+To me this strongly implies 1) it is hard to detect, you’ve got to be very close when you scan it, and 2) it’s in Shinrarta, since (as far as we know) that’s the only place that’s locked to Elite rank. This discussion was reported in , however we have never had it confirmed.
+
+As an afterthought, Raxxla might well not be an astronomical body, which as recent posts have pointed out are “discoverable” by consideration of the logfiles; it might be a ship, hidden station/installation or an NPC (maybe a Thargoid Queen? Or Guardian AI Construct? It’s an alien name, and Halsey visualised the real Guardians of the Universe )
+
+P.S. “”, sorry to hear that. Leave off the wine, get yourself a couple of Ibuprofen washed down with a hot chocolate and get a few hours sleep! Oh, and strap the knee up! Apply alternate heat and cold pads, and rest it. And maybe try an NHS walk-in treatment centre, though you may be one of the lucky few who can see their GP without first having to wait two weeks for a telephone conversation....
+Click to expand...
+Regarding Shinrarta's logs, i have this:
+
+SPOILER: SHINRARTA DEZHRA'S LOGS
+
+The crash at ID 68 doesn't only happen in this system, but even to others (i still doesn't figure out why, it's not related to station type)
+Hope it can help
+
+Edit: Once you done all stations, the next ID to search crash the galmap, so stations are the last 'objects' to be detected.
+Reactions:
+Han_Zen

@@ -1,0 +1,17 @@
+Six6VI
+Sep 6, 2019
+#11,972
+yelboc said:
+Oh dear - more mis-truths..
+
+Extensive studies have shown no ill effects other than increased cataract rate in people who use them for many hours a day (using old tech phones of the 1990's). These are caused by direct heating of the eyes by conduction of heat from the case, not by the RF radiation. All modern phones are actually designed to direct RF away from the head - partly because of stringent safety rules (all phones are tested to meet Rf radiation limits set to give negligible exposure risk), but mainly because you get better data rates.
+
+Most of the studies were done on old tech with a 2W maximum power. Since then power has reduced to 0.2W (and many phone only put out 0.1W) due to better performing 3G + 4G technology.
+
+You really don't have much to worry about, and if its held a few cm from you then the power is reduced by another 10 times so then you can worry even less.
+
+You see all sorts of fake videos which have given credit to this myth - people boiling eggs or popping corn with their phones is fake news. Try it your self - more likely than finding Raxxla that the egg will be hard boiled by your phone
+Click to expand...
+Clearly we've been digging different holes in the Interwebz, I'm happy to agree to disagree.
+Reactions:
+[PS4] Filthymick420

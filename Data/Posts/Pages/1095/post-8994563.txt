@@ -1,0 +1,12 @@
+yelboc
+Mar 11, 2021
+#21,891
+It should be noted that Jaques uses a different generation of hyperdrive to our ships. Its the same type used on capital ships and ofc Halsley's Starship One, which seem capable of mis-jumps in lore, though it seems like a bad thing to happen. I think the main thing is that FD have confirmed that there is no way a player can cause a mis-jump in ED - so whether they're in the lore or not, there's nothing we can do to make them happen. That hasn't stopped people spending alot of effort trying - nobody has reported any success.
+
+I do wonder if fleet carriers could misjump? They use the same type of drive as capital ships.
+
+Thargoid's control of 'Witchspace' is in the lore. Whereas we just past through it, they can survive in it indefinately, so no suprise that they can stop us making a jump.
+
+And finally when interdicted you are dropped out at the interdictor's position in real space. There seems to be some sort of thether applied to your ship that causes the frame shift mechanism to fail and then drop you out of supercruise - a bit like being tied by an inflexible string to another bit of space which prevent the FSD from stectching space time around you. Its all handwavium, ofc
+Reactions:
+Machina Ergo Sum, Vetinari, CMDR Deano The Imperial and 2 others

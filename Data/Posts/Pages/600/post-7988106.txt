@@ -1,0 +1,8 @@
+alexzk
+A
+Sep 6, 2019
+#11,982
+Jorki Rasalas said:
+Thought you asked about VR and Google Cardboard? Don’t know anything about streaming, but there is/usd to be a couple of forum threads on VR & would be surprised if someone hasn’t tried Cardboard...
+Yes, my idea is next: elite can show 3D on screen in left-right format. Sooo if you stream it to phone and use cardboard to watch it should give 3D. Basically u can do it by sort of remote desktop soft.
+You can do other stuff, open cardboard back, run camera app with back camera active and watch on screen . But then you must maintain exaxct position to see 3D.

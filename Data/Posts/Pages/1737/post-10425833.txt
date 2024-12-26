@@ -1,0 +1,20 @@
+Ian Doncaster
+Sep 7, 2024
+#34,735
+Louis Calvert said:
+Assume Fdev didn't sort the master list, then when Fdev copy/pasted that master list into the database that contains the system names, what you'd get a replication of that 'clumpy' data,
+Containing, therefore, on the assumption that the list wasn't in anyway either shuffled before use or picked from at random, "full" sets of all but one, a partial set, and then possibly a bunch of sets entirely unused.
+
+The "Greek Gods" set is certainly partial - Hephaestus was added later, of the other most famous deities Aphrodite, Hermes, Hestia and Dionysus are also missing.
+But the "Hindu Pantheon" set is also partial - Saraswati and Rohini were added later, Vishnu, Lakshmi and Shiva are absent - while many others are present.
+Similar omissions can be found in a lot of the other sets, too.
+
+That doesn't suggest a pattern where the sets were just concatenated and used top-down until they ran out of systems needing to be renamed.
+
+(Obviously this doesn't mean that the positioning of any particular named system is meaningful - but it does appear that they did at least shuffle the list before using it)
+
+Louis Calvert said:
+So effectively overwriting the procgen stellar forge names when a 'real' star name wasn't available.
+And often also when it was - HIP 65026, or HIP 66238, have been overwritten with names from other sources. Even some lore-specific systems have hijacked real stars - HIP 7387 for example.
+Reactions:
+Han_Zen and Macros Black

@@ -1,0 +1,7 @@
+Garand1987
+G
+Sep 10, 2020
+#18,795
+Has anyone ever figured out the usefulness of the “show constellations” function in the galmap? They only show up if you’re zoomed in on Sol and it’s not like it gives you any info on them and if you move away from Sol they disappear. They don’t even look right and some are incomplete honestly. Other than that I think they’re visible when zoomed in on Delphi. But doesn’t really seem to have a function and FDEV seems all too eager to remove stuff and yet this has stayed the whole time unchanged. Would they spend the time to put in such a seemingly useless feature or is there something about it that i don’t know or weve missed?
+Reactions:
+Louis Calvert, Korlod, Hanerib and 1 other person

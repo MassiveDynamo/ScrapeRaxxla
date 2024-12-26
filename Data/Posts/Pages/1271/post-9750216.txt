@@ -1,0 +1,34 @@
+Pyroboros
+Feb 21, 2022
+#25,404
+Merlin StWahgwaan said:
+but your missing the Trapezium Sector forsure, its not in your lockup tab, and the calcs dont work
+you can try this system:
+Just checked, it works.
+Trapezium Sector is not a procedural generated name. the PGN for Trapezium Sector YU-X c1-2 => Oochorrs FL-F c27-2 => 634,547,605,994
+There are many renamed Sectors that is why i only care about ID64. Best is to just treat every System as if you don't now its PGN Name.
+It's just a different representation for the same Number. The Lockup should only contains PGN Names, only 17 of the Sector names i am unsure about, there are so few Systems in those Sectors that i can't be sure.
+
+CMDR Davanix said:
+I am unsure if it is Proc gen, It seems it is but its a singular one, TBH due to my playtime being very narrow wit hwork I will give the system as a gesture of good will Lyrient KK-C d14-0 its mostly manual navigation through Pludgao and HYPHEEH from IC 1590 and a route wont map, I hope i got my distance correct if not id advise having adleast 40ly jump range or an FC
+It is pretty sure 100% a prog gen Name. And a very helpfull as well. No prog gen Name within that Sector has been on EDSM. i will add this to my lockup very helpful thx.
+
+Merlin StWahgwaan said:
+First, you kind of contradic yourself in that statement. If you can drop there, and see the name, isn't that in game?
+And this is where I hate saying/fighting about things being "in-game".
+
+Ok. In-game.
+
+Both Raxxla and Comets are very much 'in-game', that shouldn't be in question or even talked about. They are, in simple they are.
+
+The problem is, their level of implementation in game.
+Click to expand...
+I really don't what to go down that rabbit hole to deep. It is a philosophical argument people argued for millennia about.
+I do not contradict myself, i only have another concept in mind if i talk about -been in Game-.
+If i follow your point of view however, everything is in game. My Carrier is called Tesseract does this make a Regular 4-polytope exist in game.
+If you have the blueprint of a house does this make the house exists.
+
+I can accept that saying "not fully implemented" fits better.
+Last edited: Feb 21, 2022
+Reactions:
+Merlin StWahgwaan

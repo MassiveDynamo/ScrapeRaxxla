@@ -1,0 +1,24 @@
+Emperor
+Dec 16, 2023
+#32,558
+Louis Calvert said:
+Definitely could be either. Interestingly they don't sit on the background of the system map, and they don't sit on the same 'layer' as the planets and stars, they seem to sit on a layer between the two...? From Han_Zen's images you can see that he was able to look up and along the 'plane' of the systemap to see them better. ..
+
+Guys there's one in SOL, came up as I was writing this
+
+View attachment 378439
+
+View attachment 378440View attachment 378441
+Again, looks like a blob, but it's the same as the others, seems to be a rotating 3D object that's illuminated from the sun.
+
+I think I figured out how to see them. The bounding box of the system map is only as large as the list of objects within it. So the ones in the Star of India system appeared near the sun because there's only a star there, the one in Sol here appeared a loong way out because the 'bounding box' view of the system is much larger.
+
+Once you've found one they always seem to be in that location too.
+
+Maybe they're present in systems? That would certainly imply they're very likely to be some remnant or bug in the system map. Let's see if we can find more.
+Click to expand...
+
+
+There were 3 in Alpha Cygni from Han Zen VR shot... not gonna be able to see that one at the top out of VR?
+Reactions:
+Louis Calvert

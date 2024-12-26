@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jan 5, 2019
+#4,940
+Han_Zen said:
+There is a secondary effect as well. The light that hits the ship, does not come directly from the star.
+If you use the external camera to look at the shadows inside the cockpit, you see that the light is of by up to about 60°.
+At about 38,000 ls, the shadows lign up with the star.
+The offset is not linear. It will increase and decrease, from 38,000 ls and out.
+
+Sounds like a bug rather than an intended feature. Have you raised a bug report to check the response?

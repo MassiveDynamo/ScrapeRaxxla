@@ -1,0 +1,17 @@
+alexzk
+A
+May 31, 2020
+#16,961
+SandDamn said:
+I have a question about raxxla in old elite games. If i remember correctly the first elite game uses pairs of letters to give planets names and there wasn't "xx" combination. The closest combination was planet "Rainla".
+And I found interview with Ian Bell that tells about it Link .
+Q: The most important question that worries many so far: was Raxxla in game?
+A: I remember this. Although the rumor about Raxxla was widespread, it was not in the original program.
+
+So my question is - which old elite game has raxxla? (If it known for sure)
+
+Click to expand...
+RAXXLA was somehow impossible combination for procedure generated names in old elites. So it was never exist there. Some people were modifying game, so it was generating new Universe (changing seed basically).
+Any way, official answer ED is the first game where it is intentionally created by developers.
+Reactions:
+[PS4] Filthymick420 and PeteACarter

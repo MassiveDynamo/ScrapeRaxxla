@@ -1,0 +1,15 @@
+Jorki Rasalas
+Sep 8, 2022
+#27,168
+CmdrKafka said:
+Can you reproduce this? Is it a bug or a feature preventing you from jumping somewhere perhaps. I’ve long suspected there are certain systems that were meant to be unreachable but fsd boosts/supercharge and fleet carriers may now give access. Or fdev maybe has added some workarounds to prevent it (like losing your supercharge)
+Reproduce what? Having mapped the system bodies I cant undo that! Try the system yourself, the scientific method is based on the independent testing of published results. Its not far from Sol.
+
+I have probably visited the system before, which could explain the bodies not showing up in the journal file on system entry. But then Pyroboros’ search method failing without crashing the game, as it does everywhere else, makes me think this could be a hand-crafted system with some special rules built into it. Together with the “clues” that could suggest BH and/or NS that causes me to seriously ponder! Of course I may be wrong, but it happened as I reported.
+
+The npc following me into a BH is quite odd too! Over the last two weeks (since I started my comet hunt) Ive been noticing quite a few npc following me into comets positions, and exiting them before I got there. Has something changed in-game with recent uodates? Have I somehow triggered some new behaviour?
+
+I’m now back in Shinrarta & sat in my explorer Phantom. Think I’m going to mooch around & try something else...
+Last edited: Sep 8, 2022
+Reactions:
+Ataxia and Rochester

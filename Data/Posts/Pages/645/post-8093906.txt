@@ -1,0 +1,8 @@
+alexzk
+A
+Oct 19, 2019
+#12,884
+Btw ... that screenshots. U said dryman's point must be on other side ...Nope. he just have wide angle of view there, so "dryman's point" on screen is his current location. Compare borders configurations. In outer arm there is no such.
+
+Also this means ...his galaxies on screenshot, we need to do correction of view angle. With my current 75 degree it is not possible to see such. I think need to set 90 or 120 something to see similar to his pictures.
+P.S. I mean FoV of coz.

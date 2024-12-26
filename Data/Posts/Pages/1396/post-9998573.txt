@@ -1,0 +1,185 @@
+Rochester
+Nov 17, 2022
+#27,917
+Suhurrat said:
+Greetings, commanders. I'm a little tired of transporting tourists here, and I periodically read your thread about the search.
+
+I apologize for possible errors in the text. There will be a lot of text.
+
+I studied astronomy a long time ago and that's what I thought about.
+
+Elite, specifically this version of the game, takes its names of stars and systems from three sources. Maybe more i dunno.
+
+Revised edition of Harvard, "Henry Draper", "HIPPARCOS".
+
+So, in the Hipparcos - RA catalog, this is a Right Ascent (abbreviated as RA; symbol α). There are no such designations in other catalogs. Moreover, this designation comes from the old number system.
+
+Here in this post, the person has already mentioned this:
+
+The only place where did my thoughts diverge from his is that, XX = Hours and minutes. What if it's not minutes and hours. And literally there is an ascent.
+
+Which brings us to RA 20.
+
+But Ra20 is not a specific point on the star map. This is a narrow set of constellations.
+
+According to the old catalog , we get:
+Const and Star:
+Aquila(Aquilae) - Altair
+Cygnus(Cygni) - Deneb
+Delphinus(Delphini) - Rotanev
+Microscopium - Microscopii
+Vulpecula - Anser
+
+Since usually any calculations are considered from the earth, we take the earth or in our case the solar system (sol) as the starting point. and we bookmark the entire list.
+
+
+
+Further. As we know, ships have not flown far along the lore, so all the points fit within the limits of the old world elite. But there is one interesting point. According to the same lore, it does not matter whether he directly refers specifically to this game or not, we have stories and books. Which, of course, you have already studied to the smallest detail.
+
+The most common thing that everyone likes to disassemble is the Dark wheel toast.
+
+But usually everyone goes into all sorts of mythological wilds, but it seems to me that we need to look at the surface.
+
+Many who have researched the entire subject of the racxla, stumbled upon the book:
+
+Alien World - a complete illustrated guide.
+
+I'm not going to describe everything again right now, here in the post there is a link to a full investigation: .frontier.co.uk/threads/the-elite-dangerous-storyline.514694/
+
+If you read a book, then it describes quite good fiction. But some individual points are important to us now.
+
+There are generational ships there - which moved through black gaps in space and then got lost in space.
+
+There is a race of Raxxlassians there.
+
+And another huge number of coincidences.
+
+All this has been sorted out by other people before me. I'm more interested in geographical analysis. If we take the approximate location of events from the book and superimpose them on the map of the galaxy from the elite, then we get similarities not only according to the systems I have indicated, but also according to the ent of the elite described in the codex. Namely, the first expansion in Tau Ceti, then Delta Pavonis, beta hydri, then the empire in Acheron.
+
+Based on the same book, the Raxxlans were not so much a humanoid race as a mechanical one. Or humanoids that have evolved to a synthetic stage.
+
+In the book, they tried to destroy a reasonable but weak race of insectoids, here we immediately draw an analogy with the targoids.
+
+Since we know that the Guardians wanted to destroy the Targoids.
+
+However, if in the book we have a mechanical race trying to destroy the insectoids, since it surpasses them, then in the ent of the current elite, on the contrary, it is the targoids who came to the regions where the guardians were.
+
+According to the same codex, we know that the thargoids came to the territory of the guardians from outside. But from the outside does not mean that from another galaxy. Rather, just a region.
+
+Again, according to the findings of the players themselves and the code, all the discovered places of the remains of the guardians are very close to sol.
+
+Just like the worlds seeded by the thargoids, because of which the conflict began.
+
+At the moment, Stargoids are flying to us.
+
+Thanks to other players, we know the points where they were first noticed.
+And most of them originate from the regions. Sanguineous Rim and Elysian Shore
+
+If we go back to the books of Drew Wagar, we know that people thanks to the dynasty project got into the Formidine Rift. Another interesting region in which players discovered Zurara as well as many other interesting things.
+
+Zurara can be used as an analogy of the first ship that passed through and ended up far from home, that is, Sol.
+
+As I wrote above, by analogy with books, these are breaks in space. Black. As we know, capital ships, targoids, and the first human ships also go through the black breaks in space.
+
+As we know, unregistered beacons in Formidine Rift tell us they give us expedition logs.
+
+John Harper, author of Elite: Here Comes the Wheel, wrote in a comment on Kickstarter:
+"You don't know what I saw. I sailed beyond the Formidine rift, saw a fleet of octagonal ships blocking the stars. I was standing on lost worlds, sterilized by the targoids and erased from the maps of humanity. I saw graves from the time of the Targoid wars, countless tombstones extending beyond the curvature of the horizon, small spots of reflected light dotting the abandoned continent.
+
+And this is actually a direct reference to the targoids.
+But what does beyond mean?
+Beyond what? The only 2 options that seem more or less adequate to me are:
+
+Or the farthest outskirts of the Formidine Rift
+Or it's a neighboring region: Errant Marshes
+
+
+Now back to the toast of the dark wheel:
+To the jewel that burns on the brow of the mother of galaxies! To the whisperer in witchspace, the siren of the deepest void! The parent's grief, the lover's woe, and the yearning of our vagabond hearts. To Raxxla!
+
+We are most interested in these lines: To the whisperer in witchspace, the siren of the deepest void!
+
+As we know Witchspace is hyperspace. So the whisperer is either a beacon or a targoid. Since the mechanics of the game do not allow us to fly in hyperspace, let's stop that these are thargoids.Plus after FSS update we know that we can hear stargoids in space through scanner - like whisper. Which goes very well with both the illustrated book about aliens and Drew's books
+
+the siren of the deepest void.
+
+As we know Void can be interpreted in different ways. But a frequent interpretation is the Abyss. So are black holes.
+If interpreted as a destination, that is, the deepest point, the place of something.
+
+Now back to astronomy. Few people know, but Cygnus x-3 known as Cygnus or Cygni x-3 is a binary microquasar that produces one of the stronger binary X-ray sources in the sky (or in galaxy if u want).
+It is often considered to be a , and it is believed to be a in a which is pulling in a stream of gas from an ordinary companion. It is one of only two known containing a . It is invisible visually, but can be observed at , , , and wavelengths.
+
+Another one is Vela x-1 or Vela Pulsar.
+
+And another is Cygnus x -1
+
+I searched on the map in the game.And I found.
+Cygnus x-3 - in game Cygni x-3 - Errant marches.
+Cyg x-1 - in game Star of India - Inner orion spoor behind Alpha Cygni (look at my screenshot above)
+Vela x-1 - in game Vela Pulsar. - inner orion spoor behind Guardian Relic sites.
+
+These are all binary stars.
+However, they are presented differently in the game.
+
+Vela - are actual pulsar in the game.
+Star of India - blue white star in the game.
+Cygnus x-3 - Black hole in the game + 16 other star bodies in the system. Among them are binary stars and a second black hole and several metal worlds.
+
+From here we have 2 options. The star of India we immediately exclude. Because there are no other objects in the system.
+
+And we still have Vela and Cyg x3
+
+Since the first mention of the Omphalos Rift was added to Elite Dangerous with update 3.3, the Pleiades Sector IR-W d1-55 system, which was the headquarters of the Aegis anti-targoid organization, was also renamed Delphi.
+
+As we know, the pleiades were seeded with spores. And we had guardians nearby.
+Vela Pulsar behind of guardian systems - one of the strongest sirens in the deep void.
+And ofc Cyg x3. Another strongest siren in the deep void.
+
+If you look from different perspectives. Then Vela Pulsar could be a distant siren in deep space. Because people couldn't fly far back in the days of old lore. On the other hand, we have Cyg, which is really as far as possible in space beyond the Rift, in which we found a lot of interesting.
+
+I'm not talking about the location of raxxla or raxxla herself right now. But these two systems can be pointers to something, maybe there is something hidden in them or next to them. Both systems have been visited many times. But nothing but a quick scan was done there.
+
+That's my reasoning. I apologize again for the errors in the text.
+Click to expand...
+Good analysis, but like everything here it’s open to speculation.
+
+There are various sources (some very recent) in this thread that have ruled out various fictional books, such as those produced by ED approved authors in so much that FD told them directly to not involve Raxxla so one could rule those out?
+
+However that doesn’t rule them out exclusively because FD could have appropriated some of them, cherry picking elements for their own narrative, but it’s an unknown and in my opinion highly unlikely.
+
+We know from the lore guide author Allen Stroud, that although CEO David Braben was not concerned with the work of Holdstock, the original Producer Michael Brookes and lore guide author Stroud were, so at most we can presume some context has had an influence, how much is an unknown.
+
+Some of us suspect FD changed the original DW / Raxxla storyline circa 2016/2017 and in my opinion some, if not all of the historical statements made by FD may now be totally irrelevant, archived or re-purposed; this potentially limits our source material to only the Codex.
+
+At most, we can presume the codex is the primary source information from which we can start, all other information sources (like you have pointed out) are in my opinion viable if they correlate,
+
+The codexes in my opinion potentially identify a number of concepts:
+
+The old DW missions/invite are archived (proven true).
+The DW station may be in game, location is unknown.
+Tau Ceti is relevant.
+2296 is relevant.
+The Omphalos mythology is relevant.
+
+Hypothetically the DW codex might be applicable to Raxxla if the station is found, but it’s possible it’s just an Easter egg, at present it’s an unknown.
+
+Tau Ceti and the 2296 are interesting because they do draw an area of influence around Sol. Your data concerning various stars needs in my opinion to correlate to this area.
+
+Question: do they triangulate, does their presence draw a shape, do they encircle an area, are they concentrated (hotspot) in a certain sector of the area of influence?
+
+This area of influence is drawn from simple logic, but also practical temporal mapping practices. This area also correlates to other ‘arcane’ elements, found in game, indicating a strong possibility this area is intentional.
+
+The Omphalos element if viewed simplistically, points us to the system of Delphi and the Pleiades. Again how do the systems you identify correlate to this area, or the area between Delphi and Sol?
+
+If viewed in more depth the Omphalos element could draw us to Sol strengthening that theory, however seeing as some of the ‘arcane’ theories are not promoted in game directly, the simplest solution is that Delphi is the intended location.
+
+How do your locations correlate with both? Do they strengthen one over the other, do they identify another area?
+
+It’s possible the codex holds spurious information, or some information has been attributed greater meaning than was intended by FD, or that said meaning is intentional but actually relates to another thing entirely!
+
+At most I think it’s safe to speculate but we must try and focus on the known facts outlined above (speculative) and look at how they attribute meaning or build relationships with our assumptions to potentially fill in the huge intelligence gaps.
+
+We must also I’m afraid keep with us a healthy dose of scepticism, as the potential links to inserted content eg Thargoids which have been introduced into the game incrementally, potentially identifies FD may have applied narrative gates, or that the solution is far simpler than what we have projected due to an absence of information and an abundance of bias, or even that the problem is already partially resolved.
+Last edited: Nov 17, 2022
+Reactions:
+3navis, Louis Calvert and Suhurrat

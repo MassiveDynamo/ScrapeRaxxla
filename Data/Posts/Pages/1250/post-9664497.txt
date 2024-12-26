@@ -1,0 +1,5 @@
+Jorki Rasalas
+Dec 19, 2021
+#24,987
+That "loading please wait" se ms to happen all over the place, so I place no emphasis on it.
+Have you tried flying into the Struve 1694 B instance to see if it’s the gateway?

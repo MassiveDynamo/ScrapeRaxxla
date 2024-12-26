@@ -1,0 +1,10 @@
+alexzk
+A
+Oct 7, 2020
+#19,190
+Vetinari said:
+EDSM tells you that theres systems that need scanning or correlating....can it not tell you the nearest undiscovered system too, or does it know about it yet?
+This is "red" plugin you speak about. When you jump into system log files generates "entered system" (absent if u jump onboard on carrier), then it's picked by plugin and it queries EDSM for nearest known systems with errors.
+In case of "plot route on map" plugin, there is another event in log "destination set", so plugin picks it and queries EDSM if it is known or not.
+Reactions:
+[PS4] Filthymick420 and Vetinari

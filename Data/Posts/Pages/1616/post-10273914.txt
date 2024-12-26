@@ -1,0 +1,15 @@
+El Saico
+Dec 3, 2023
+#32,301
+Emperor said:
+Interesting.... I don't think I knew MB did all the hand crafted systems (forget so much about this game!)
+
+So I wonder if there's away to work out which ones are MB systems....
+An upper bound would be any system which had a non-Stellar Forge-generated name at launch (which excludes those named in the 34th century like the Colonia bubble and Delphi, plus Trappist-1 which was a fortuitous match).
+
+A lower bound would be any system with a stellar catalog match, which means either it has:
+A Hipparcos (HIPP), Henry Draper (HD) and/or Gliese-Jahreiss (GL) entry on GalMap
+A SIMBAD database entry (I found dozens of patterns in a search a while ago, and still failed to annotate a few)
+Last edited: Dec 3, 2023
+Reactions:
+Adel, Louis Calvert and Emperor

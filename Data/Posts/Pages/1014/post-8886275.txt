@@ -1,0 +1,13 @@
+Darth Ender
+D
+Jan 5, 2021
+#20,273
+keep in mind, the stellar forge is in our clients. It reacts to unit types and that's why it's so incredibly hard for fdev to have unique things react differently than others of it's type (see jaques - etc).
+
+evidence would point to the fact that whatever raxxla is, it's going to cause the client to treat it like any other thing of it's type.
+
+That's why it makes the most sense for raxxla to be either a ship in a roid cluster, a planet you'd identify by recognizing some obvious surface feature that otherwise looks normal from a scan or a ship that causes a uss in proximity to a certain planet.
+
+a station would trigger population / npc activity / economy and be noticable from the galaxy map. And especially recognizable names of stations or planets or stars would be searchable. Obviously unique planets would be too easily noticeable with little effort.
+Reactions:
+alexzk

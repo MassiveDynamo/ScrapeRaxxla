@@ -1,0 +1,10 @@
+Thatchinho
+Dec 17, 2018
+#4,597
+Jorki Rasalas said:
+This is what’s puzzling me. Couldn’t get the AspX composition scanner to detect anything, even though I was right on top of the darn thing, and surrounded by other mounds. Fairly sure I was in analysis mode.
+
+will have another go!
+I’m probably pointing out the blatantly obvious here, but just in case... you need to have an example of what you’re scanning lined up in the targeting reticule, and you need to keep it lined up in the reticule while you hold down the button until the scan completes. (With apologies if I’m just telling you stuff you already know fine well!)
+Reactions:
+Jorki Rasalas

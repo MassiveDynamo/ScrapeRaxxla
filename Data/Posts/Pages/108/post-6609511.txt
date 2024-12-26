@@ -1,0 +1,9 @@
+Jaiotu
+Apr 9, 2018
+#2,156
+Comandante said:
+There was the ZX Spectrum Elite 3 version (see worldofspectrum.org, Archive -> E -> Elite 3), adapted by Vladimir L. Kladov. I actually emailed him a few years back about the version, and he was kind enough to reply. I've actually got a snapshot of that version with my old Elite character. It's a neat version, too - missions keep spawning after you become Elite for every RoC, and there's a host of new missions in-game that are really cool. Also, Python's launch fighters as do rock hermits if you attack them. When heading out of a system, the further you go, the more chance you've got of finding asteroids if you want to mine. I strongly suggest reading the document that comes with it.
+
+However, I do not think Raxxla is in it.
+
+That appears to be a Mod and not an official release, no? If so ... even if Raxxla made an appearance it wouldn't be official. I think someone had released an Oolite OXP that implemented Raxxla but that wouldn't count either.

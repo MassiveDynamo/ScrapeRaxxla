@@ -1,0 +1,30 @@
+Louis Calvert
+Dec 4, 2024
+#35,487
+Ian Doncaster said:
+An interesting thing there, too, is that the LQJ name is inherited from as far back as FE2 - but I don't recall any mention in the FE2/FFE manual or the FFE journals of who they were.
+
+Maybe they had in mind that they were the inventor of the hyperdrive all along but I think Elite Dangerous is the first time that's actually said.
+Indeed! I even actually loaded up FE2 just to check it was there a while back (it is, as you say)
+
+It could of course be that Brookes et al. didn't think it was important... but given the Codex that links Raxxla directly to "The earliest days of interstellar travel" then that points exactly at this oddly sparse part of the lore.
+
+In this old interview Brookes talks a bit about early space travel. His replies here seem more detailed than the available lore in-game, and seem to hint that he put more thought into it than the few words we got 9 years ago!
+
+Dj even mentions there's a "200 year gap" there too...
+
+
+16:24
+DJ: What propulsion were they using when they first left Sol?
+MB: So back then it was mostly slower than light drives like ion propulsion, so not too dissimilar to the technologies that NASA is using today, fusion torches but they tended to be for the very big ships like generation ships that could carry enough fuel to make them worthwhile, so something similar in mind to the Daedalus project with its deuterium pellets, and of course there were experiments with hyperspace, but they varied in success, so they weren't considered reliable enough for large transportation which is why the early transports used the colony ships.
+DJ: This is something we often wonder about because they were sending probes through hyperspce [MB: Yep] quite soon after discovering it weren't they? but it's a couple of hundred years before hyperspace use seems to become normal for human carrying craft
+MB: Yeah think that's simply safety factors. Obvious there were a few crazy people that were happy to jump in and make a jump but they tended to disappear or there would be some unknown accident or some trace of them would be found, so it's like with any technology, when you're at the forefront of it there's a bit of risk involved, especially if you're trying to translate across lightyears of space.
+DJ: ... This is one of the ones (holes) we'd discussed, why it is that there's that 200-odd year gap [MB: yep], and we'd assumed it was just trying to figure out how to send a human through safely, essentially.
+MB: Well, its large numbers of humans, and the bigger the mass the more energy you need and you need to have efficient methods of actually producing enough energy to actually do the jump.
+
+
+I wonder what "safety factors" Brookes means? Obviously most here know I'm fairly sure there are eldritch creatures living in Hyperspace, maybe the development of Hyperdrive was more about figuring out how to stop those things eating travellers than anything else...
+
+"...they tended to disappear or there would be some unknown accident or some trace of them would be found..."
+Reactions:
+Han_Zen, Rochester and Ian Doncaster

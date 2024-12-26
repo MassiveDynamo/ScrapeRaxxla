@@ -1,0 +1,11 @@
+Jorki Rasalas
+May 31, 2019
+#8,478
+AzoreanOutkast said:
+Nope didnt.
+
+I will check to see if i find another of this situations, im out atm exploring so if i come across one of this again ill check to see if i got it again and try to document it.
+
+I could understand this happening if there was a server-side problem at FD, possibly exacerbated by an internet problem. Of course the bugged fss was very unreliable so it might have related to that. I suggest keeping an eye open for it & if it happens again then definitely raise a bug report; FD’s response to these is sometimes of interest! It may be that there is a 500kls detection limit inherent in the fss design; whether that is intentional or not would be the interesting bit!
+Reactions:
+Marco Santos

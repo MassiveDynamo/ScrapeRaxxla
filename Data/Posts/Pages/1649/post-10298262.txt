@@ -1,0 +1,14 @@
+Emperor
+Jan 13, 2024
+#32,980
+Louis Calvert said:
+Can I just ask, are you doing this in freecam at max range? Because that looks like cockpit noise to me.
+
+If you're doing this in freecam 3km from the ship, then you've found something that doesn't appear in any of my (many many many) recordings! Which is amazingly fantastic!
+
+FYI as for:
+
+If you're too near a star you get interference from it in the form of horizontal banding. But as long as you're in "deep space" it seems to be pretty consistently clear
+That would explain it ... however think I need to do some more tests on internal ship noises.... not 100% sure it's the same timing when I am pointing at different parts of space..... and why the chirping in a DBX.... not exactly the ship creaking and banging that I usually hear with the sound down a lot more....
+Reactions:
+Louis Calvert

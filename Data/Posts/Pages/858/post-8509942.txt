@@ -1,0 +1,47 @@
+Machina Ergo Sum
+Jun 9, 2020
+#17,148
+NewkTV said:
+Probably is nothing, but we hit a roadblock a while back in our Squadron (The Forgotten Initiative) in our search. Ended up concluding this is probably nothing related. However, there is really no where in the Forums that documents our efforts, so here is some dumped info.
+
+//EXPERIMENTAL: RECREATING CONTACT//
+1: Go to the system Sol and grind reputation with every faction. Ensure "Sol Constitution Party" is priority and grind until you are allied with all of them (Stop grinding as soon as you get in contact).
+2: After you achieve allied status, go to the Unregistered Comms Beacon at the Moon and wait for the hourly broadcast. (Yes... this is old Formadine news, no need to investigate the beacon).
+3: While listening to the Comms Beacon, you should hear a notification, "Critical Mission Objective Detected". Yet, nothing will populate in your Comms or Navigation Panel.
+4: As soon as you here that message, jump into Supercruise, immediately slow down all the way, and enter FSS Mode. Start scanning the Low Band Spectrum for an Orange Signal by the name of Mission: Trading Beacon.
+5: Go to the beacon and establish first contact with the NPC Ariel. She will always be in a Type-9 and assigned to a random faction to conceal her identity. She will establish comms and push either one or more missions to you under a Hidden Contract. Read and accept these missions.
+6: Complete these missions and report back to The Forgotten Initiative after each contact. Eventually you will be contacted by Ariel again to do more missions.
+7: Look out for the NPCs Captain Dayana or Dark Commander, if you are interdicted by her during an Ariel mission, please take a screenshot of the interaction. She will mention becoming a child, completing the trials, and keeping Ariels identity hidden.
+
+Beacon Discovery: Around 2:10 Mark
+
+NOTE: Known Locations for Ariel so far:
+
+Ariels ID: DE-FE01 has been debunked, the ship ID is randomly assigned to other Type-9s.
+
+Only Three Forums that mention the word Ariel:
+
+In this one, FDev responds directly about Ariel taking someone Tea.
+
+More about Tea.
+
+
+In this one you can clearly see that someone edited out all the content related to Ariel.
+
+Special thanks to The Forgotten Initiative and all the CMDRs who grinded for probably nothing haha
+
+Some Images:
+
+
+Ariel Discovery (Multiple CMDRs):
+
+
+
+Click to expand...
+
+Other CMDRs have received the start of the chain missions randomly without the need to do those 7 steps above. Iirc as long as you hang out in a system long enough without activity, missions get triggered. I'll probably test it again later.
+
+
+Btw, how long was your longest chain of missions?
+Reactions:
+turkwinif, yelboc, PeteACarter and 2 others

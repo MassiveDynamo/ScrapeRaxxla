@@ -1,0 +1,66 @@
+Yuki Estelle
+Nov 17, 2022
+#27,920
+Rochester said:
+Good analysis, but like everything here it’s open to speculation.
+
+There are various sources (some very recent) in this thread that have ruled out various fictional books, such as those produced by ED approved authors in so much that FD told them directly to not involve Raxxla so one could rule those out?
+
+However that doesn’t rule them out exclusively because FD could have appropriated some of them, cherry picking elements for their own narrative, but it’s an unknown and in my opinion highly unlikely.
+
+We know from the lore guide author Allen Stroud, that although CEO David Braben was not concerned with the work of Holdstock, the original Producer Michael Brookes and lore guide author Stroud were, so at most we can presume some context has had an influence, how much is an unknown.
+
+Some of us suspect FD changed the original DW / Raxxla storyline circa 2016/2017 and in my opinion some, if not all of the historical statements made by FD may now be totally irrelevant, archived or re-purposed; this potentially limits our source material to only the .
+
+At most, we can presume the codex is the primary source information from which we can start, all other information sources (like you have pointed out) are in my opinion ,
+
+The codexes in my opinion potentially identify a number of concepts:
+
+The old DW missions/invite are archived (proven true).
+The DW station may be in game, location is unknown.
+Tau Ceti is relevant.
+2296 is relevant.
+The Omphalos mythology is relevant.
+
+Hypothetically the DW codex might be applicable to Raxxla if the station is found, but it’s possible it’s just an Easter egg, at present it’s an unknown.
+
+Tau Ceti and the 2296 are interesting because they do draw an area of influence around Sol. Your data concerning various stars needs in my opinion to correlate to this area.
+
+Question: do they triangulate, does their presence draw a shape, do they encircle an area, are they concentrated (hotspot) in a certain sector of the area of influence?
+
+This area of influence is drawn from simple logic, but also practical temporal mapping practices. This area also correlates to other ‘arcane’ elements, found in game, indicating a strong possibility this area is intentional.
+
+The Omphalos element if viewed simplistically, points us to the system of Delphi and the Pleiades. Again how do the systems you identify correlate to this area, or the area between Delphi and Sol?
+
+If viewed in more depth the Omphalos element could draw us to Sol strengthening that theory, however seeing as some of the ‘arcane’ theories are not promoted in game directly, the simplest solution is that Delphi is the intended location.
+
+How do your locations correlate with both? Do they strengthen one over the other, do they identify another area?
+
+It’s possible the codex holds spurious information, or some information has been attributed greater meaning than was intended by FD, or that said meaning is intentional but actually relates to another thing entirely!
+
+At most I think it’s safe to speculate but we must try and focus on the known facts outlined above (speculative) and look at how they attribute meaning or build relationships with our assumptions to potentially fill in the huge intelligence gaps.
+
+We must also I’m afraid keep with us a healthy dose of scepticism, as FD may have applied narrative gates or that the solution is far simpler that we project, or even partially resolved.
+Click to expand...
+
+This response was similar in spirit to what I was going to post.
+
+This has been the Achilles' Heel of the entire Raxxla hunt; we just don't know how shallow or deep anything is. When boiled to an essence we are essentially left with two facts:
+
+1. Raxxla exists.
+2. It's somewhere in the galaxy.
+
+Unfortunately this sort of non-descript teasing isn't uncommon. Having played ED for all but one of it's years in existence, nebulus (no pun intended) babblecraft and a distinct lack of acknowledgement is FDev's bread and butter. I've always said that a simple confirmation statement would go a long way to encouraging the community, as most of us are burned out and diving into rabbit holes that probably mean nothing. Is this a puzzle? Does it hold relevance? Should we look into it? Find out in the next few years.
+
+Which brings me to the point I want to make: FDev enjoys a good puzzle, but they won't force you to be a rocket scientist. As with most statements made here this is pure supposition, but even the trend for large-scale plots, puzzles and key story elements are accessible to anyone with time and a small amount of Googling.
+
+At the risk of being wrong and looking like a fool, I would like to use the current Stargoid situation as a springboard for this example. Recently we received an FSS upgrade that allows us to listen to Rogue Signals, along with an obvious puzzle hook in the form of a Pilots' Federation Alert. Many of us at Canonn (specifically at the Signals Lab) have been analyzing these signals for hidden messages or codes, which we are fairly certain exist. The experiments are rigorous and include crazy stuff (like plotting a 3D Spectrogram), but nobody expects the solution to require an audio engineering degree because it would defeat the inclusiveness of the puzzle. This helps us to keep our tangents in check and inform our decisions going forward, which has ultimately allowed us to make presumptions like the one I'm about to make: If the signals are indeed a puzzle, the solution will involve a commonly known cryptography solution or the utilization of information we have yet to use properly, such as another signal sound previously introduced. Alternatively, it's not a puzzle and we simply don't have all the information.
+
+This same logical thought process can be applied to most of FDev's decisions pertaining to puzzles, but frequently echoes true in their storytelling style: Something happens, the clues are there but you need more information, you find out the information and start putting together the puzzle, then expectations are subverted. Toss in enough misdirection to throw people a curveball and you have a recipe for the wild west of narratives.
+
+For that reason, I think Raxxla will ultimately be difficult to find but not in the way most of us suspect. I think Greek mythology, astronomy/astrology, mathematics and particularly story hooks will be relevant. It's entirely possible that Raxxla is gated behind system locks or story progression. It's even possible that Raxxla itself doesn't exist in the traditional terms we associate to existence, but I sincerely doubt any of the tin-foil theories we explore here will bear fruit. This doesn't mean we shouldn't explore them, but I think everyone should apply a small amount of tempering to their expectations when it comes to hunting for Raxxla. Stepping too far from a logical path may lead us astray when we ultimately need a narrower heading.
+
+As for my tinfoil comment of the day, I've been optimistic that a subspace galaxy exists within the one we can visually observe. "Witchspace" is a place know scarce little about and I'm sure it hides secrets that could shed light on many of our questions, including Raxxla.
+Last edited: Nov 17, 2022
+Reactions:
+Rochester and Louis Calvert

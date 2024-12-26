@@ -1,0 +1,10 @@
+yelboc
+Sep 26, 2022
+#27,367
+SpocksOddSocks said:
+If you're referring to Galactic rotation, I believe the systems are all fixed. And in the case of known systems, they're fixed at the locations they would have been in 2014 or 2012 or whatever year the data was from.
+This is correct in general. The RL star data was imported at J2000 epoch. Data used from older J1950 star catalogues was updated to match the J2000 epoch stars. There was an error, however in the conversion of nebula positions which are still at J1950 - this means that their generating stars are not in the centre of the nebulas. This error was spotted by someone in the EDDB/EDSM team.
+
+Once entered, there is no update for their proper motion, so the stars are fixed in place. I guess it would have been quite a headache to maintain the RL stars proper motion, as a similar update would be required for all the prog gen star that surround them.
+Reactions:
+Crimson Echo, Rochester and Han_Zen

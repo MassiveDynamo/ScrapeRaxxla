@@ -1,0 +1,9 @@
+Macros Black
+May 7, 2022
+#26,199
+Mission designation: Operation Haystack HIP 36823
+Objective: Examine belt clusters in systems near HIP 36823 (Guardian beacon)
+Ship: Fortyminer
+
+Belt clusters have been used to hide things. Examine the belts and use the Pulse wave to locate and extract valuables in the process.
+Last edited: May 7, 2022

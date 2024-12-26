@@ -1,0 +1,27 @@
+yelboc
+Sep 8, 2021
+#24,238
+That would certainly count as hard to find. Its about 220km diameter making it 2/3rds the size of the smallest object in the sol system in game from FSS, which is Hi'iaka (radius 160km according to EDSM). You could have a laugh and practice finding Hi'iaka without orbit lines.
+
+If its a body that reflects light then there should be a spot visible by eye. But the search space is quite big (in the HHGTTG sense of just down the road to the chemist..)
+
+
+
+
+
+Apparently its currently at apehelion (furthest from Sol) . Now I don't think we ever established:
+
+(1) Are the orbits of the planets accurately modelled?
+(2) if accurately modelled, what epoch are they set to? By this I mean - have their positions been projected to in-game time, or are they as current or at some other time?
+
+I think we know that star positions are as per J2000 epoch data, but planet positions in Sol may be another matter.
+
+If we can work out what the planet positions are then we might be able to predict Chiron's position to narrow down the area of search. I give us a whelks chance in a supernova, though..
+Attachments
+1631110183040.png
+17 KB · Views: 80
+1631110445997.png
+33 KB · Views: 88
+Last edited: Sep 8, 2021
+Reactions:
+Adel, Djidjel, Han_Zen and 4 others

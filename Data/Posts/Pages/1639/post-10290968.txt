@@ -1,0 +1,17 @@
+CMDRCorrMorningstarFelian
+Dec 28, 2023
+#32,780
+Edelgard von Rhein said:
+The system is CD-58 16.
+This system has no population but its description shows is to be an Imperial, Corporate system with an Extraction economy and Low Security. There is a single planet, named Suontaka, which has a moon, called S-One. Both are landable and have the usual surface POI but there are no settlements, installations, megaships, space stations or even belt clusters in the system. If you fly out to the planet you will find yourself in a shipping lane. The space-based POI I saw today were universally Degraded Emissions (Threat 0). There is another feature that is unique, to my knowledge: an orbital line about 50 Ls distant from the only star that only shows up in the FSS scanner but not on the HUD or orrery view. I flew a couple of orbits along this line, or as close as I could, but saw nothing like a point of light that would have suggested a body not showing on the scanner.
+Possibly the Suontaka sword from Earth? Presently, looking for connected mythology (if any).
+
+Suontaka sword - Wikipedia
+en.wikipedia.org
+
+The sword blade contains texts +NMIN+ and +NIOIN+, which can be abbreviations of In nomine Domini (Latin for "In the name of the Lord") or variations of the text "in the name of god".
+
+Follow up: Nothing obvious mythologically connects to that sword but it does have a rather interesting background. System doesn't have a proper name. Not sure what to think. If you are suspicious, I'd DSS scan the planet and moon.
+Last edited: Dec 28, 2023
+Reactions:
+Edelgard von Rhein and TR

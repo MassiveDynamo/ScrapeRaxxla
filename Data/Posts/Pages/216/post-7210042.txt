@@ -1,0 +1,9 @@
+Edelgard von Rhein
+E
+Nov 28, 2018
+#4,320
+mister ron said:
+i've been doing missions for the Dark Wheel and have been bombarded with messages stating "...The Dark Wheel has a secondary contract available for you..." but i don't see anything on the mission board that appears to be a secondary contract, honestly not sure what i'm supposed to be looking for here but wondering if this aspect is restricted on Mac (no horizons)? can anyone shed light on this?
+Secondary contracts are available from the faction that first issued the contract at the station where the first mission was accepted. It should appear at the top of the list of the faction's missions with a chain symbol in the top right. There should not be any restrictions on running in non-Horizons, unless they ask you to visit a base planet-side for the mission. The secondary missions offered are not fixed, fortunately, and can change when you revisit the station later, so you can wait until you encounter one you are able/willing to do.
+.
+I don't know if there are any special missions any more (prior to 2.0 there were some Elite-only missions that mentioned Raxxla, or hinted at it, but these have not been seen since) but if there are it's one way they could appear. I wouldn't get my hopes up at all as I'd expect it to just be generated like any other faction but it's something to check and maybe get a few credits/materials at least.

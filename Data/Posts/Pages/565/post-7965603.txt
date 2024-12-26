@@ -1,0 +1,10 @@
+alexzk
+A
+Aug 25, 2019
+#11,294
+Noobilite said:
+The systems are the same but in the opposite direction from between the star systems. Like if you rotated it towards east instead of west. I might be misunderstanding the point of the calculations.
+
+I didn't nkow you could look that up in EDSM. That could be interesting. I'm horrible at figuring that stuff out though.
+
+Well, actually there are infinite number of points which are equal remote from triangle vertexes in 3D ... and they're laying all on 1 line which is perpendicual to plain of triangle and this line goes through the center of circumscribed circle. So yeh can be not exactly where u expected ... that's why I stopped to play with this, solving plain equations and picking exact point in plain is too much for me too have been 20+ years since I did it.

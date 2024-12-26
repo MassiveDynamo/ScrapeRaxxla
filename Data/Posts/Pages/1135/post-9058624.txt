@@ -1,0 +1,6 @@
+CMDRCorrMorningstarFelian
+Apr 5, 2021
+#22,686
+By the way, doing final calculations now ... unfortunately realized each axis is its own calculation. So solving the coordinates for one of the potentials for Astrophil means doing it 3 damn times. Crossing fingers this is it. If it isn't posted in next 45 minutes I will have it ready tomorrow and will let you know if this fails of what.
+Reactions:
+clavain, Vetinari, Spenceuk99 and 1 other person

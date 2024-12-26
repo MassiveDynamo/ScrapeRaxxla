@@ -1,0 +1,27 @@
+Emperor
+Nov 5, 2024
+#35,228
+I was investigating one of the lines of stars ("golden chain"?) and noticed an un-selectable star....
+
+and when I was playing about with it and about to record a vid I thought I would turn off the connecting lines for clarity... and it disappeared...
+
+
+I couldn't get it to show again despite many attempts and clicking various options.... and thought damn, should have recorded it and presume it was a bug... or Raxxla
+
+Anyway I thought I would come back to it at some point and then....
+
+Source: https://youtu.be/U-i_P4Y3XJE
+
+
+it looks like it might be representing the stars outside of the main star, but bit too far out in the Galmap for that? (one is 79K ls away and the other is 5.8ls away - realistic not that realistic? )
+
+And doesn't explain the first one disappearing....
+
+Anyone else noticed Galmap might be broken?
+
+It was getting late so haven't done any more experimentation to see if it's replicating for other systems, didn't happen on some other systems I jumped to and haven't tried it away from that area of space...
+
+Just a thought... (probably a bug first time and don't use realistic mode often and my lack of knowledge!)
+Last edited: Nov 5, 2024
+Reactions:
+selbie

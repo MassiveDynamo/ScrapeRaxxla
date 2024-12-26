@@ -1,0 +1,12 @@
+Jorki Rasalas
+Mar 23, 2024
+#33,703
+Ian Doncaster said:
+And even that one wasn't original - it started out as Federal.
+
+The original Alliance systems were in two separate clusters - one larger around Alioth and one smaller around Lave - and as you expected were very heavily interspersed with independent and federal systems.
+
+A reasonably-accurate overestimate for the original ones would be to check for systems with native non-player Alliance factions.
+How do you ascertain if a faction is native & hasn't migrated into system?
+EDSM minor factions indicates there are 903 Alliance minor factions, but lots of those are player factions.
+Aha- IF could extract (how?) those 909 into a spreadsheet then could filter out the player groups, filter out duplicate home systems which would give the Alliance systems...but I think that would be the current Alliance bubble size, how to check for the 2015 systems?

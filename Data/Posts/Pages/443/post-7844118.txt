@@ -1,0 +1,6 @@
+rOmiLaYu
+Jun 11, 2019
+#8,852
+Macros Black said:
+I count 7.
+Hmmmm....that is odd, then. My experience has always been that on non-landable planets, any signals always corresponded to tourist beacons...but I never paid attention to see if the number of signals matched the number of beacons. Could be a coding thing where only beacons in a certain date range cause a ping when probing? And some tourist beacons were added outside that date range?

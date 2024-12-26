@@ -1,0 +1,11 @@
+Jaiotu
+Apr 8, 2018
+#2,129
+Comandante said:
+Folks,
+
+I've tried replicating getting the FSD message (overcharged) flying from Sirius A to B. Unless I scoop the dwarf, I don't get the message.
+
+It's happened once before but not sure how to replicate this. Do other have this every time they go from A -> B? Or just occasionally?
+
+I think I get it pretty consistently.

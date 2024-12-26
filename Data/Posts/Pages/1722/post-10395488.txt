@@ -1,0 +1,46 @@
+selbie
+Jul 4, 2024
+#34,428
+Ataxia said:
+As for the station ae signal, there is a decoder script for it, trying to find it - seems to elude me at this time.
+It breaks the symbols down into alpha numeric A-Z, 1-0.
+I have the hex dump of one stations audio tx that I've looked at and it could be a cypher but until some kind of comsistancy can be found decrypting this one will take more time.
+
+Found it..
+
+Discord - Group Chat That’s All Fun & Games
+
+Long ago cmdrs noticed the signals inside the stations near the back on the axis. I remember reading this and everyone thought that this was in reference to the numbers written on the outside of the stations. Reading it now it is pretty clear this is in reference to the code in the antenna since numbers painted on the outside of the station are not "transmitted". It is unlikely that the characters are the only encoded message.
+
+To record (need to provide better details):
+1. Dock at station and remain on the surface
+2. Turn off all in game music
+3. Go into free cam and move toward the back of the station at the center
+4. Open Audacity and record using a loopback
+5. set the track to Spectrogram
+Click to expand...
+
+Ataxia said:
+I found 10x 4 character long sequences that appear twice each in the file.
+
+YBYC: 361 characters
+39LG: 179 characters
+C7L7: 3680 characters
+8NVT: 1871 characters
+G1WL: 3883 characters
+: 1381 characters
+
+Each pair is seperated by the number of characters listed.
+
+This is from a 'translated' 6 hr audio file from one of the stations.
+
+their combined hex is - 16 9b 3e 60 74 ff 2b 56 54 69 70 e5 42 59
+Click to expand...
+That's really encouraging to see! I'll add this to my summary.
+In case you missed it, Vildu grabbed the text strings from the 15hr and 3hr streams from Stoutbeard's channel. Check the spoilered text. Assuming they translated the glyphs correctly it's another easy source for comparison. Sadly Twitch doesn't keep stream VODs archived for very long anymore.
+BTW that discord link doesn't work for me. Is it hosted elsewhere?
+
+The pairing structure and the fact they are all 4 character length seems very telling. If the spacing is random then maybe a second / final layer of encryption was used to scramble them.
+Last edited: Jul 4, 2024
+Reactions:
+simulacrae and Louis Calvert

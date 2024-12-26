@@ -1,0 +1,32 @@
+SergMx
+Jul 10, 2023
+#30,790
+Rochester said:
+Ok maths and geometry question.
+
+If you knew two points made up a hexagon, but you didn’t know the location of the other points, within a 3D environment. I assume - and please confirm my math, you don’t need any other points to identify the centre.
+
+If you have two points, the hexagon center is just a straight line parallel to that formed by the two points.
+
+In a 3D environment you then simply need to rotate this centre (effectively forming a sphere) Not knowing the alignment of said hexagon the centre ‘should’ be able to be found, as the point would align somewhere on the outer rim of that sphere?
+
+So ‘if’ we could be certain of at least 2 points in space, and ‘if’ the Raxxla hexagon could be presumed to be represented in space by 6 points, with the centre presumably Raxxla, we could find said centre through only 2 points?
+
+Question is, which two points, and is the hexagon a space map?
+
+So here is one potential concept!
+
+Deepest Void = Tartarus; Lovers Woe / Parents Grief = Persephone.
+
+Draw a line between them, work out its centre, expand a circle so they sit on its circumference. The centre of the Hexagon is someplace on this sphere?
+
+If these two points are representative, and the hexagon is a spacial map, I presume Raxxla is someplace… here?
+
+
+
+But this is reliant on these two systems being relevant, and the hexagon being a spacial map. If not it’s just conjecture.
+On the one hand I always thought that finding a point in 3D need 3 points, not 6.
+On the other hand the triangulation method for calculating thargoid bases was for some reason based on 2, as if the work was not done with a 3D map but with a 2D one.
+
+But I like your position that the 6 dark squares on the logo are mythic code riddles. It doesn't matter if it's the axis or something else.
+I wonder if the Codex is written in riddles, will there really be 6?

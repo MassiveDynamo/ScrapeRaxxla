@@ -1,0 +1,131 @@
+Louis Calvert
+Dec 6, 2023
+#32,365
+During my recent audio survey of witch-space, I stumbled across something else that seems highly significant. I've been investigating it for this last week.
+
+Apologies for the long post, I'm trying to keep this as short and to the point as I can
+
+EDIT: This was solved - the long-jump systems have more stars in them, it's actually very consistent. The longer the jump time, the more stars there are. Specifically stars, not planets or anything else!. Weird but true Also probably much less noticeable on more powerful computers / using SSD for Elite Dangerous.
+
+
+Witch-Space Transit times are very consistent:
+The amount of time your ships takes to traverse witch-space is 100% constant. It takes between 13 and 14 seconds per jump, regardless of any other factors; origin or destination stars, whether you jump from Supercruise or realspace, the ship you use, your cargo, distance you travel across realspace, neutron boosted, literally anything.
+
+
+It's exceptionally easy to test this yourself, all you need is any kind of stopwatch. When your spool-up FSD timer hits zero, start the clock. When you "whump" at the star, stop the timer. The spool-up and cooldown at the end are irrelevant. Buckyballers and explorers who talk about this refer to the whole time from when you press 'jump' until your drive finished cooldown, but for us we only care about the time you spend in witch-space. My research shows this has been consistent since at least 2015, (with exceptions). Source 1, Source 2, Source 3.
+
+For my investigation I round-up the jump times to make it easier to chart. So these are "14 second jumps", or "normal jumps", insitead of recording 13.76, 13.81, 13.42, etc.
+
+On almost every jump you spend just under 14 seconds in witch-space...
+
+... except when you spend longer there, and this is what I discovered:
+
+Long-Jump Stars Investigation #1
+When you jump to certain stars, you spend longer in witch-space. This timing is 100% consistent: For example, when I jump to the star Eta Crucis I spend 29-30 seconds in witch-space - every single time I jump there. This is fully repeatable with completely consistent transit times, and can be repeated at any time to test it. I've included a section at the end regarding any concerns about lag, TLDR; it's not lag.
+
+Further, I have catalogued several consistent categories of Long-Jump Stars: 17, 21, 26, 30, 43. To clarify, all these are rounded-up, so a "21" star, is a star that takes between 20 and 21 seconds in witch-space to jump to, consistently, every time you jump there.
+
+That's not all.
+
+"Long-Jump stars" seem to appear in clusters. 17s are the most common, and usually when I found a 17 there was a higher number within 15-20 lightyears (and vice-versa). For example (numbers in brackets are the jump times):
+
+Eta Crucis (30)
+Crucis Sector IH-V B2-4 (21) - 8ly from Eta Crucis
+Bentin (17) -10ly from Eta Crucis
+Bhil Mina (17) -12ly from Eta Crucis
+
+This means the Eta Crucis group (as all the others so far discovered) seem to be isolated into discreet clusters.
+
+The largest cluster, and the highest witch-space transit time I've discovered so far is in the Pleiades:
+
+HR 1185 (43)
+Maia (43)
+Pleione (17)
+HIP 17034 (17)
+Pleiades Sector KC-V C2-0 (17)
+Pleiades Sector DL-Y D69 (17)
+Pleiades Sector IH-V C2-16 (17)
+
+To date I have travelled over 13,000 lightyears over 800 jumps testing this. I have identified over 30 Long-Jump Stars. What's more, when a long-jump occurs, the background 'stars' in witch-space spiral incredibly rapidly, it's unmistakable... spiralling stars.
+
+This spreadsheet is a list of everything I've done so far.
+
+SPOILER: FULL LIST OF DISCOVERED LONG-JUMP STARS (SO FAR)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm asking that everyone here tries this out for themselves to prove/disprove it. All you need is a stopwatch. Testing methodology is below.
+
+Most recently I have started checking all systems within a volume based on target stars, so far in addition to travelling around and charting jumps, I have completed:
+
+Every system within 23ly of Sol.
+Every system within 20ly of Lave
+Polaris Near Jump List
+Pleiades Sector NN-T C3-11 Near Jump List
+HR 1185 Near Jump List
+Maia Near Jump List
+Every system within 25ly of Achenar
+
+(Near Jump List is the list on your navigation panel). You can see all these on my spreadsheet, so if you want to test it easily, go to any of the marked Long-Jump stars and test it out.
+
+
+Testing Methodology & Eliminating Lag variables:
+My method is to jump, time each one using a stopwatch: When the spool-up FSD timer hits zero, start the clock. When you "whump" at the star, stop the timer. If I find a long-jump star I jump to any nearest star on the nav panel list, then back. Do this at least twice. This is enough to eliminate any false-readings from lag.
+
+
+What is this?
+I do not know if this phenomena is related to some underlying coding in the game (like the way the systems are arranged in the code or something?). The more I've found, the more they seem to be intentionally placed and they way they appear in clusters feels significant, but it's also quite early-days in testing this. I don't yet know if anyone else can replicate these results.
+
+There's more I can say about this from my observations, but for now I'd really like other people to test this phenomena and verify it on a range of different computers and connections and suchlike.
+
+Looking forward to seeing what comes of this one
+
+Questions? - please ask.
+Last edited: Dec 16, 2023
+Reactions:
+EdzUp, Bushido Brown, Shadowsnog and 6 others

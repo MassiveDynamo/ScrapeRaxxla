@@ -1,0 +1,9 @@
+Garand1987
+G
+Sep 10, 2020
+#18,797
+Vetinari said:
+Constellation were originally a dev tool to check the skybox was aligning properly. They were going to be removed for release but people asked for them to be kept in so they are. They usually work fine? Maybe graphics glitch?
+Ah okay. That explains it then thanks.
+Reactions:
+Vetinari and [PS4] Filthymick420

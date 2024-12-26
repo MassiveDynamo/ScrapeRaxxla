@@ -1,0 +1,15 @@
+Deleted member 38366
+D
+Jul 31, 2019
+#10,040
+PeteACarter said:
+I came across a game-mechanic I was not aware of in the Colonia region the other day. I was cruising around a system, looking for signal sources, when I had a mission objective detected. Given that I had no active missions, I found this a bit strange. When I got there, there was a Type-9 Heavy sat in real space, offering me a large payout, if I went and sourced some Animal Meat. In the message, the identity of the ship was "Hidden". I did the mission and nothing came of it, but I wonder if TDW could use the same mechanic to initiate contact? Have many of you come across this mechanism?
+
+This "Mission Objective Detected : Trading Beacon" is occurring anytime :
+there's one or more Faction in State : Boom
+a Player is present and operating anywhere in the System for a prolonged time
+While the FSS always states "Trade / Smuggling" for them, the only apparent purpose seems the old (obsolete) +25% Credits Meta, the Missions into the Inbox are generic RNG Fetch Missions. Nothing to them and nothing of interest was ever observed there.
+Just a bit of an obsolete Game mechanics at work, which replaced the old, awkward infinite-cargo and requires Manifest Scan to find out what they want "Smuggling/Trading Type-9's" of the distant past, which magically teleported Cargo from the own Ship when within ~400m and carrying anything they wanted.
+Those were weird things.
+Reactions:
+PeteACarter

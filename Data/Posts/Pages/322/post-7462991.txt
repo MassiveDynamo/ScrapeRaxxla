@@ -1,0 +1,10 @@
+Bran Lucius
+Mar 8, 2019
+#6,431
+Jaiotu said:
+This is not what it means for a body to be tidally locked. The Moon, for instance, is tidally locked to the Earth. The same side always faces Earth as it completes an orbit.
+
+What you're talking about is Lagrange Points which (I may be wrong) I don't believe are supported by the physics of the Elite Dangerous game engine. An object orbiting at L[SUB]2[/SUB] would remain eclipsed from the star by the planet that it is orbiting:
+
+Yep this is exactly what I was conceptualizing, thanks for the info! Im learning new stuff about our skies, constellations, and astrophysics stuff every day from this game. Kind of cool to be honest.
+Last edited: Mar 8, 2019

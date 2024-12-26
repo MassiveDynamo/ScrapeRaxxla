@@ -1,0 +1,12 @@
+Merlin StWahgwaan
+Dec 21, 2023
+#32,676
+Slightly off-topic but related:
+
+Are the HIP stars in game, supposed to be at their real location, RA/Declination they are at in the HIP catalog IRL?
+
+Because I only just noticed one that isn't... it was complete chance that I bothered to check, but there is an HIP star IRL that is also in-game, but at a different RA/Declination... just wondering if this is common or strange and figured CMDRs here would know best XD
+
+Edit: or would systems have moved due to the time between now and 3308? By enough to seriously alter the RA/Declination location displayed in-game?
+Reactions:
+Adel, Ravenloft45 and Philip Coutts

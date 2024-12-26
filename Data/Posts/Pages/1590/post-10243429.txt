@@ -1,0 +1,16 @@
+simulacrae
+Oct 19, 2023
+#31,800
+CMDRCorrMorningstarFelian said:
+For context: it is actually very important that Sol orbits the galaxy normally but at a sharp tilt of 59°. The cultures of Earth would not have developed constellations if Sol's planets were essentially aligned with the galactic disk and north was true north. Between the spinning on its axis and rotating about Sol nearly lined up with the galactic disk the star field would constantly change (the whole of the visible halo would circle every 24 hours). Meanwhile if the equator was nearly lined up to the galactic disk, the spin of the planet alone would have you see a new patch of sky every hour (if in equatorial regions).
+
+We only have long-term visibility to select stars because Sol's planets have a weird angle relative to the disk. As such, the northern and southern skies aren't looking at the halo but specific portions either above or below the disk that change much more slowly because they are perpendicular to rotation of the planet.
+
+Not sure what you are speaking to here exactly but when i first made that view of the compass points- I did compare it against Polaris (earths pole) and Cats Eye Nebula ( solar system north pole)…. Cant say that it made much difference - if anything it matched those less. I took those things out as it just cluttered the map. The thing i was trying to point out was the pattern of the compass point systems themselves.
+
+…Try to let them show an axis- so to speak. Not really sold that they did though.
+
+Edit: well there is a slight north/south clustering (but such a small sample size) except for the fact that Aparcitas is mixed in with the southern systems… and ya east and west seem to be doing their own things….
+Last edited: Oct 19, 2023
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

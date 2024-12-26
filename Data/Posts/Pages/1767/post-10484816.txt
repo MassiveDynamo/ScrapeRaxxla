@@ -1,0 +1,15 @@
+Beng_Ammon
+B
+Nov 16, 2024
+#35,339
+Emperor said:
+Do you have a reference for this?
+You'll have to go through the Dev posts from the beginning of the forums on how FSDs and Jumping works, maybe #4 or #5.
+
+Game mechanic wise, its because each system you jump to you is an API call to them.
+
+Lore wise "Misjumps" from the game, have now been adapted to Thargoids snatching you out of witchspace. This would the closest thing to a 'misjump'. But we already know how it works API wise, and know its triggered from events at fdev servers based on thargoid activity in this case.
+
+As for Raxxla, I don't think any of the clues points towards it being A system itself. And we have to stay within Game mechanics of this game. Raxxla itself could cause a portal to show up (like a wake jump style "portal", or infinite jump range or something, but we have to find raxxla first.
+
+One of my main theories is that it is within 3-5 ls from whatever star the Raxxla Codex image is representing.

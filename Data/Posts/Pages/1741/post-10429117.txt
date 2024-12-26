@@ -1,0 +1,26 @@
+Louis Calvert
+Sep 15, 2024
+#34,817
+In the 'Quest for Raxxla' one of the thing I found really useful was to try to imagine what was in Brookes and Braben's head when they were discussing/implementing Raxxla before/during the creation of Elite Dangerous.
+
+Try to remember that a lot that we take for granted now either wasn't in anyone's mind (EDSM, INARA, EDMC, Wiki, Reddit, etc.etc.) or was a totally unknown quantity (how the players would respond to/shape the game itself as time goes on, what kinds of communities would form, what things the playerbase would get hooked into, etc.).
+
+These are things that I found helpful to keep in mind (remember, this is back in 2013-15 time period):
+
+1) They were making an entire massive game!
+1a) We know for a fact a lot was cut back or removed/revised as development continued, indicating a lot of time crunch pressures.
+2) Raxxla is a very small easter egg for the really nerdy Elite fans.
+2a) Raxxla was most likely implemented by a very small team or (most likely) Brookes himself with minimal help (to keep it secret).
+3) Travel was much harder (no long-range route planning, shorter ranges, harder to make money to get better ships/modules, no neutron boosts, etc.)
+4) Many unknowns out there (only the bubble was explored at all, anything could be anywhere).
+5) There was a lot of mysteries in game around launch (and even commonly known features now were mysterious then, like Tip Off missions, etc.), not just Raxxla.
+6) Tie in novels fleshed out a lot of lore, specifically on topics like general politics, Thargoids, etc. Introduced other mysteries like Soontil and Formidine Rift.
+7) Tourist Beacons were a major Lore Delivery system in-game (available to people who could find them (some are in permit locked systems)).
+8) Galnet was a major Lore Delivery system in-game (available to all)
+9) Thargoids were the "big mystery reveal" of the first part of the game, with lots of mystery/treasure hunt mechanics built into the early game, including lore discoveries and physical discoveries.
+
+Obviously we don't know if Fdev spent any dev time on Raxxla after Brookes initially developed/implemented it. Personally I strongly doubt it given the realities of game development. Therefore, whatever was implemented originally is what's there to find.
+
+As I've said before I really, really doubt Brookes spent major time creating a hugely complex set of mysteries delving into esoteric puzzles and ancient history. The mystery is based on in-game lore and mythology, and solved mostly in-game via lore and in-game mechanics (mostly) that have also been used in other parts of the game.
+Reactions:
+Han_Zen, Darrack, Ian Doncaster and 1 other person

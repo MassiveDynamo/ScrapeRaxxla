@@ -1,0 +1,32 @@
+Dartay
+D
+Apr 3, 2019
+#7,217
+Thatchinho said:
+Had a quick look at the Crux idea.
+
+The issue is that the stars in the Crux form 3 layers of parallax. From Earth what we have is:
+Near - Gacrux
+Middle - Epsilon Crucis
+Far - Acrux, Becrux, Delta Crucis
+(Using the in-game names there to save anyone else the hassle of having to try the various options! )
+
+Anyway what that means is that because Epsilon Crucis is in the middle layer, any change in your location to try to move the apparent position of Epsilon Crucis relative to the other stars will result in a bigger change in apparent position of the 'Near' layer, and so one of the other stars (Gacrux), and the shape of the constellation will be lost.
+
+(The same principle also applies if trying to recreate the shape using the same stars from the other side, but obviously which are in the near layer and which are in the far layer is reversed.)
+
+Hope that all makes sense. If it doesn't, just go into the game, bookmark the stars in the constellation, and try to move in a way that changes just the position of Epsilon Crucis, and it should make it clear. o7
+Click to expand...
+
+It does make a lot of sense! Thanks for your in-depth reply.
+
+But what if the change in location is extremely minimal? As in: a location very close to Sol? It does really seem easy to overlay the following image (rotated leftward 90°) on the title screen:
+
+
+
+Only number 5 would have to shift slightly, if anything.
+
+I won't have access to the game for another few days. But I will definitely play around with this in the galaxy map when I do. Thanks for listing the in-game star labels!
+Last edited: Apr 3, 2019
+Reactions:
+Rochester

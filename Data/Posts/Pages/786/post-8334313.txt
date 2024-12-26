@@ -1,0 +1,9 @@
+alexzk
+A
+Mar 16, 2020
+#15,704
+Ravenl0ft said:
+And anyone have ever wondered why we can have max 128 bookmarks? why not 120, 130 or 125? Why 2*7? I have all my 128 bookmarks full of systems that no one have ever set foot on, nor ever heard about them. And also removed bookmarks over 200 systems and noted them into a notepad, incase i may need them someday. I cant believe there is a myth that someone has been in the system of raxxla, he just scooped and jumped away... It cannot be that way.
+Signed 1 byte index array ? (2^7 = 128)
+Reactions:
+Dr. Lexus, Vetinari, Machina Ergo Sum and 1 other person

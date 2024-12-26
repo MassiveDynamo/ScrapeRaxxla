@@ -1,0 +1,13 @@
+Emperor
+Jan 9, 2024
+#32,951
+Shadowsnog said:
+i dont think ive ever encountered this issue. i think i saw systems nav beacon go to compromised when its security got lowered and it got hit with pirate attack, then reverted to regular when security went back up. all the time visible on map regularly... just like any other compromised beacon system. poi (like installations, czs or res zones) visibility normal just like any other system.
+
+however if this happens to theocracies thats another thing.
+you want to tell me that the mapping monopoly in elite is intentionally systematically hiding religious cults in power? that certainly doesnt sounds suspicious, right?
+In terms of comprised nav beacons I always thought they were "low security" / Anarchy systems in the past but having googled how to find them the results there seems to be links to external tools....
+
+seems like googling the rules on how they appear / disappear seem to not be understood in terms of the BGS.....
+
+It does seem strange on how that seems to have not been worked out unless I've missed something....

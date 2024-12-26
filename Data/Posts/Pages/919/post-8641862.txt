@@ -1,0 +1,15 @@
+alexzk
+A
+Aug 12, 2020
+#18,362
+Here if anybody wana check. 500 ly up/down toward the line from center point. Each point on this virtual line is equal remote to stars:
+C++:
+const static Point A{ -3183.53125, 73.59375, 8595.65625 };      //Pru Aescs NC-M d7-192 (coflux delta mission 4/4 "Gravity." -> it is the Mother of Galaxies)
+const static Point B{ 7890.46875, 137.3125, 7508.03125 }; // Plaa Aec IZ-N c20-1 hawk gap alpha 3/4 "Randomius Factoria - save me" -> something like "oh God" ...
+const static Point C{ -5805.78125, 129.875, -5969.875 }; //    Eafots EU-R c4-1 (fr alpha)
+In file stars known to EDSM at the launch moment.
+Attachments
+inf_line.txt
+15 KB · Views: 205
+Reactions:
+PeteACarter, simulacrae and [PS4] Filthymick420

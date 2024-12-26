@@ -1,0 +1,70 @@
+Jah'bastah II
+Aug 30, 2018
+#3,321
+Comandante said:
+I am not sure who came up with this so it's not attributed to myself; however, there's the Hercules Key Stone Asterism:
+
+https://en.wikipedia.org/wiki/Hercules_(constellation)
+
+I checked out one of the stars in it in the galaxy map - it's WAY above the galactic plane, and you'd never be able to reach one of the stars in it. The other stars, I believe are fairly local - in galactic terms.
+
+Apologies, that's the only thought from me, and it wasn't mine
+
+Alright, bit of a stretch, since I can't see any other connection, but it's worth a shot to explore... I wonder which stars you checked, because the ones in the 'Key Stone Asterism' are
+
+Pi Herculis, HIP 84380 (reachable, 7 jumps for me)
+Zeta Herculis, HIP 81693 (reachable, 1 jump)
+Eta Herculis, HIP 81833 (reachable, 2 jumps)
+Epsilon Herculis, HIP 83207 (reachable, 3 jumps)
+
+As you can see, they are perfectly within range and reachable. I'll comb them out, but I'm not positive on them. As mentioned earlier, I think Utopia and Raxxla should somehow gives us something. I got a strong feeling about it, because:
+
+Dark Wheel (made me think wheel cipher, the Alberti version has the larger circle named 'mobilis' and the smaller circle named 'stabilis', further playing into the 'celestial body' theme)
+
+These are not that dissimilar and both Raxxla and the 'place that isn't a place' aka Utopia are words of the same length, so that makes it even more plausible for me. However, as shown in my previous post, I'm stuck on the results. I should clarify which ciphers gave which results:
+
+EDIT: New(!)
+BREEUN
+Porta cipher (porta = gate, DOOR, that is also the KEY aka cipher), decrypted. Passphrase: utopia (place that isn't a place), message: raxxla
+
+Only has two systems with BRE EU-N! I'm pretty confident here, because of the above and all other words could only be resolved partially as system names and had 200-10000 results. Anybody close? (56k LY from Sol). One of them is confirmed to have been visited before and they are both almost exactly on the other side of the Galaxy. (lorewise: there were bigger jump ranges in the olden days, right?)
+
+Byeia Bre EU-N b8-0
+Byeia Bre EU-N c20-4
+
+If a cipher is at all used in the Raxxla mystery, this has to be it... After that, I'll try exploring other options.
+
+OMCEQA
+Vigenère, encrypted. Passphrase: utopia, message: utopia
+
+USMMEV
+(no idea what I used)
+
+RZVUHV
+(no idea what I used)
+
+IAUUWA
+Vigenère, encrypted. Passphrase: raxxla, message: raxxla
+
+**OHGFOA
+cipher wheel
+
+**XMFHFA
+cipher wheel reversed
+
+XHJIDA
+autokey, decrypted. Passphrase: utopia, message: raxxla
+
+DTRSXA
+Vigenère, decrypted. Passphrase: raxxla, message: utopia
+autokey, decrypted. Passphrase: raxxla, message: utopia
+
+LTLMTA
+Vigenère, encrypted. Passphrase: raxxla, message: utopia
+
+
+
+Ciphers; experiment yourself: https://www.dcode.fr/
+Last edited: Aug 30, 2018
+Reactions:
+Cyberdyne Forger model 2083 and Non Grata

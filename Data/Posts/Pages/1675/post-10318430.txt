@@ -1,0 +1,9 @@
+ajg007
+A
+Feb 22, 2024
+#33,492
+varonica said:
+Because of rounding I would suggest. In game the values presented to the player to view are not accurate due to it being pointless to present everything to the players with 6 decimal point precision.
+Let me get this correct, you're saying that if I was looking for exactly 3,155,760 ls might be impossible to dumbing down it for the players?
+Reactions:
+CMDRCorrMorningstarFelian

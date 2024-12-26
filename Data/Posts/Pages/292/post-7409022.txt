@@ -1,0 +1,43 @@
+stg213
+Feb 8, 2019
+#5,833
+I almost never post, just read, but this time i think I can add a bit to the topic:
+
+I won't claim to be right on any of the following, just putting the pieces together:
+
+1) raxxla should be in the game since day 1 (it is old lore so this makes sense) => it should conform to day 1 game mechanics... it's 'a thing in space'... a tourist beacon, a planet, a station...
+2) FDev are really fans of greek mythology:
+
+from TDW book:
+'Trader Fields', she said, and touched the heel of her right hand to her left shoulder by way of salute. 'My given name is Elyssia. Elyssia Fields.' She smiled again. 'My brood mother's little joke. She discovered Greek mythology at age 9 when she was incubating her first cluster.'
+
+Brood mother? Greek? Incubating clusters? That meant that Elyssia Fields was from Teorge, the so-called 'clone-world'. Alex struggled to remember what he'd been taught about Teorge . . . an inhabited world. . . settled by two colony ships that had proceeded to clone a select few of the crew and colonists, killing the others. For centuries Teorge had been a world apart, cut off from the normal flow of trade and commerce, and banned from sending representatives into space.
+Elyssia Fields was clearly a fugitive.
+'I'm Alex Ryder,' Alex said.
+
+2.1) this leads me to believe that CMDR Guru's / PublicStaticVoid's claims are not
+
+Aside from the TDW stuff, the Codex entry... the Omphalos... if you read Astrophel and Stella it's also overflowing with Greek mythology references.
+
+3) the addition of Raxxla and TDW to the Codex ARE CLUES... they are a sign that FDev are trying to push things forward just like they did with the Formidine Rift when they saw nobody was finding anything (or it just fits their plans... for their release path).
+
+4) There is a prerequisite i think, which is also the whole point of TDW, which is 'being Elite'. And this is a pre-requiste that was achievable ingame from day 1.
+4.1) making Raxxla permit-locked (i cannot rule it out) would be extremely stupid... it's like saying 'it's in the game, you can just never reach it'. My personal tinfoil theory is that it is in a way permit-locked... but not the regular way.
+
+5) it's something that both CMDR Guru and someone in FDev said (i can't remember if DB) -> reaching Raxxla is a personal journey, what i take out of this is that it's a sort-of sotry arch without a quest, with clues (of the sort Guru/PublicStaticVoid mentioned) but it isn't a single path. I.e. Go to Nyse, follow child 3 times clockwise then 5 times counterclockwise and then the gates of heaven will open. Rather there are probably 10-15 'triggers' in game at each stage, with specific pre-requisites, so that everyone writing a guide on 'these are the steps to find Raxxla' will be disbelieved as it won't work that exact way for anyone else. I think this is the meaning of what CMDR Guru was trying to explain, that it doesn't work 'in groups'.
+
+6) Synopsis of the Raxxla quest as I see it would be:
+
+- be Elite => you can trigger:
+- Eleusian Mysteries (in some form)
+- Clue to next step ???
+- Finding a gateway to Raxxla within 100 ly of Sol
+- (my tinfoil version) - an old Faraway gate that sends you to Witchspace to some exact coordinates where you find 'it' (the tourist beacon or whatever the Fdev it is). -> this way it's not permit locked, can be ingame from day 1 (it would just be an instanced weird solar system), reachable from day 1 and also unfindable without the 'journey'. You can't scan it down, can't find it in any system, but can get TO IT from a system near Sol.
+
+The last bit is inspired by the following TDW quote:
+
+"The ship drifted in 'Witch
+Light', in the non-place in space and time."
+-> sound familiar ?
+
+7) last bit of tinfoil: my theory is that Fdev is pushing Raxxla to be found because story-wise it will be the 'gate' to some new gameplay... weather that will be mastering Thargoid Hyperdrives and roaming in Whichspace or a 'gate' to a brand new procedural Galaxy with +1 new species... or any new gameplay that they would tie Raxxla into. This could be why they made it excessively hard to find (also not giving clues) and why now they are trying to make it easier. The last point is the one that i'm least sure about... for all i know it may be some tourist beacon that tells you to reflect back on the wonderful journey you made looking for ghosts... or not

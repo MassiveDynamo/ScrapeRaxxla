@@ -1,0 +1,9 @@
+electro
+Sep 8, 2021
+#24,242
+yelboc said:
+The difficulty is that stellarium gives the view from a spot on earth's surface, and gives locations in RA/Dec - these then have to be compared with view from a ship which has to be aligned in 3d. So first assumption will be that Earth is in the right place to judge Right Ascension
+But if i use earth as center point then the locations for the planets should be the same.
+The order of uranus , jupiter and saturn on a straight line should be the same. Not in another order
+Edit: My bad missread Chirons orbit
+Last edited: Sep 8, 2021

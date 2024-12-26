@@ -1,0 +1,16 @@
+lojames22
+Jul 23, 2018
+#3,101
+Comandante said:
+Is SAP an acronym? If so, do we know what it means?
+
+Thatchinho said:
+Anyone tried using a barcode reader on a SAP 8 Core canister yet?
+
+Hmm that barcode looks to be specifically Codabar NW-7 format, and it is a 4-digit code.
+
+Would need a higher res screenshot of the barcode to translate and scan it.
+
+I think that’s a dead-end lead but who knows.
+Reactions:
+Scytale

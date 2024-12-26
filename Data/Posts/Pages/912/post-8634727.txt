@@ -1,0 +1,10 @@
+Han_Zen
+Aug 7, 2020
+#18,239
+I found a small distinction between the L, T and Y type dwarfs in how they are handled by ED.
+
+In the galaxy map's 'STAR TYPES:' listing, L and T-type dwarfs will be listed in unscanned systems. Y-type dwarfs are not listed, unless they are the primary star or the system is scanned.
+
+This may be a remnant of what was meant to become 'dark systems' and 'dark stars'?
+Reactions:
+Vasquess, simulacrae, PeteACarter and 7 others

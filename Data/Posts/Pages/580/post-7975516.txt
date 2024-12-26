@@ -1,0 +1,11 @@
+alexzk
+A
+Aug 30, 2019
+#11,597
+Possibly we need rescan all & count carefully.
+For example this: https://canonn.science/codex/gregorys-rest/
+FSS shows 4 human signals, on map u can see 1 port and 1 installation on orbit. So if you pay attention u see 2 missing.
+Close full scan reveals +1 settlement. And when u land close enough appears 4th - ship.
+So we could pass station everyday and just don't notice it as it is paired with some other orbital working.
+Reactions:
+Crimson Echo, [PS4] Filthymick420, Six6VI and 4 others

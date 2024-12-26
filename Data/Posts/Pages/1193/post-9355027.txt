@@ -1,0 +1,18 @@
+Vetinari
+V
+Jun 28, 2021
+#23,845
+Exekrator said:
+I'm sure this has nothing to do with Raxxla, but has anyone seen the ten second video posted on facebook? It contains seven codes that I have put together in the same image. I'm not an expert on codes, if anyone has any idea what they mean ...View attachment 244704
+|A1 |B2 |A3 |C3 \A1
+|C1 |A1_B2 \B1
+\A1 |A1 \A2 |B2
+|A1 _C2\C1
+_C2 _B2_C3 \A3
+|C3
+|C1 |A1 _B2
+Click to expand...
+
+Translates as 'Choose the right side' iirc. Dunno what method / code but is referring to the current CG to choose between Salvation and AEGIS.
+Reactions:
+Exekrator

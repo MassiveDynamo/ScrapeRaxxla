@@ -1,0 +1,7 @@
+SpocksOddSocks
+Jan 22, 2019
+#5,372
+Jorki Rasalas said:
+To my mind the problem with the FSS is the slow scanning speed using joystick, and the tie to a separate analysis mode where you’re isolated from the hud. I forsee a new form of ganking - wait for an fss scan to start before attacking the explorer who cant see the griefer sneaking up on him.
+
+I think mouse is better than either joystick or controller. I use my HOTAS for IL2 BoX as well, and joysticks don't last forever. I can't bring myself to use a joystick for what is, essentially, a turret. I wouldn't use the joystick in a rear gunner position in a WW2 plane either. It's unnecessary wear on the equipment, and doesn't feel right either. Most other FSS controls are mapped to my throttle, and the combination does work pretty quickly.

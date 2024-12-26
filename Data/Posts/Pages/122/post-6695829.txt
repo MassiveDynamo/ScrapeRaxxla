@@ -1,0 +1,76 @@
+Noobilite
+May 14, 2018
+#2,429
+Han_Zen said:
+Raxxla is not in any of those systems. I found them by brute forcing the sector list: https://cim.sotl.org.uk/elite-dangerous/
+
+rOmiLaYu was relatively close by and checked them all. Nothing special in any of them. They are all far away, but not what I would call 'on the outer rim of the galaxy'.
+
+As far as I know, there are no tools that allows searching for systems that contains 'RA XX-L A'. It has to be done semi manually. That means that I have probably missed a few.
+
+Does the search tool in game allow the use of * or other characters to represent random no descript characters. I'm on linux. I can't play and don't know atm. I just found this interesting. 8)
+
+Or, heck, any of the online tools?! That might be a bypass.
+
+Were those planets atmospheric? It was thinking they were barren.
+
+BTW, What do the letters like dryu and what not signify if anything. I was assuming they were random. But if they mean something that might help widdle things down. Assuming it can of course. I'm looking up vids on this atm. Crosses fingers I find something interesting.
+
+Alternative idea. if you go into warp and you are facing directly at a planet do you die? If not would it let you see what is on it by chance or is that a no no? If you took a cheap ship and it was a doable/acceptable thing.. ><
+
+If the map on that link is representing range of numbers that is exactly the range of numbers if you translate, "DRYU," and other things into binary or various things. Might just a matter of the right way... Has anyone in game every run into anything hinting at letters as numbers in game lore or something similar? Anything related to the dark wheel or other things? The fun part is if it has positive and negative numbers. You would have a large set of coordinates to look at then for each value.
+
+http://wiki.alioth.net/index.php/Oolite_coordinate_systems
+
+Is it possible they cross reference another game? ;d What was the first game raxxla was mentioned in?
+
+If it's current coordinates:
+
+DRYU BRA XX-L A7-0 (DRYU = 4 18 25 21 (2))
+PHOOE BRA XX-L A76-0 (PHOOE = 16 8 15 15 5 (2))
+HYPAE BRA XX-L A7-0 (8 25 16 1 5 (2))
+OOSCS BRA XX-L A7-0 (15 15 19 3 19 (2))
+
+Would this likely restrict it to a certain area logically? Or can anything be derived from it, assuming it is true?
+
+Something like:
+
+1515, 193, 192 +-
+825, 161, 52 +-
+168, 1515, 52 +- <-I assume 1515 is really high or low on the plane.
+16815, 155, 2 or 16815, 15, 52 +-
+418, 25, 212 +-
+
+what is the maximum value for a coordinate? 5 or 4?!
+
+That is definitely a which hunt! >< Each one with a large amount of possibility considering positive or negative values on top of shifting values. Or is positive and negative only for the Y coordinate. That would be easier.
+
+If linux ever starts working I will go check those out.
+
+Edit: Is the link in the quote above with the simple squares and x, y coordinates in any way used in game? That would make Sqaure 4, 18, which there is only one of. And then 25, 21, 2 as a coordinate list. I'm assuming not though.
+
+DRYU BRA XX-L A7-0 (DRYU = 4 18 25 21 (2)) 4,18 / 25,21,2
+
+
+4,18: Smumboa, Egnaix, Dumbai, Schee Ploe, Myumbo, Syrumbea
+
+
+Although that would be the only one to work out conveniently because of the number of letters.. Unless you take away the B/2. In which case it is the only one to not work.
+
+If you treat DRYU like double large map coords then you get two/three locations.
+
+4,18
+-25,21
+25,21
+
+Both of the last two are on or near the galactic edge. But on opposite sides:
+
+25,21: Nuemai, Kuemia <- This one directly on the galactic edge. And coincidentally the one with all positive numbers.
+-25,21: Phua Freau, Phroi Prou
+
+It's an absolutely wild goose chase. And, I'm assuming, completely unfounded in regards to in game logic. But does anyone want to check out Nuemai and Kuemia? >< Is anyone near there?
+
+https://www.edsm.net/en/search/syst...A+XX/onlyPopulated/0/radius/65000/sortBy/name
+
+There is this one(which also allows searching unpopulated planets.). But asterick doesn't work. Does this or any other have a character to represent a string or variable or searching unknowns. Maybe I'm just using the wrong character for it.
+Last edited: May 15, 2018

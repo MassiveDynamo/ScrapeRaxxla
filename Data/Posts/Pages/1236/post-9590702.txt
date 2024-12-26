@@ -1,0 +1,16 @@
+Adel
+A
+Nov 5, 2021
+#24,720
+Jorki Rasalas said:
+Does this technique also give you the stations within system?
+
+And does it only work by scanning the nav beacon? Does it also apply using fss?
+Go to C:/%userprofile%/Saved Games/Frontier Developments/Elite Dangerous/ and you can find station names in files "Journal.xxxxxxx.log" (dont know what xxxxx are for but there are number. I just pick the last file modified).
+In the example below, there are 2 keys: "StationName" and "StationType".
+
+SPOILER: CODE
+
+PS: it's the first time i use beacons so i'm sorry if used them wrong.
+Reactions:
+Jorki Rasalas

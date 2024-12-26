@@ -1,0 +1,20 @@
+Adel
+A
+Feb 3, 2022
+#25,227
+Robert Rockbite said:
+Don't worry, Your code "works" as intended.
+However, your compiler or OS probably does not.
+With gcc on Linux (and %lu instead of %I64u) I get:
+
+Code:
+ID_Base=                                                      1887439211    , ID_Overflow=                                                      2528116736     , buffer=                                                      2528116736  
+*** stack smashing detected ***: terminated
+Click to expand...
+I'm on Win10 Home 64 bits 21H2
+I remember that "int" type are tricky because they depend on x86/x64 architecture.
+This is why i used the uint64_t to be sure i have a 64bits variable.
+
+But i totally forgot that linux can have another behavior, so another number retreived.
+
+Thx for you help

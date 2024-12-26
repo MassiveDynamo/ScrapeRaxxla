@@ -1,0 +1,20 @@
+CMDRCorrMorningstarFelian
+Nov 17, 2023
+#32,080
+Ian Doncaster said:
+(Fortunately for humanity, the Wolf-Rayet Gliese 293 B is fictional - it'd be visible during the day otherwise!)
+That star is very, very real. It's LAWD 26 per SIMBAD and in-game (listed GJ 293). In-game the system is called LAWD 26 but the Wolf-rayet is Gliese 293 B. The reason it isn't visible in daylight is most emissions are ultraviolet instead of the visible light spectrum.
+
+From Wikipedia on Wolf-Rayets:
+All Wolf–Rayet stars are highly luminous objects due to their high temperatures—thousands of times the bolometric luminosity of the Sun (L☉) for the CSPNe, hundreds of thousands L☉ for the population I WR stars, to over a million L☉ for the WNh stars—although not exceptionally bright visually since most of their radiation output is in the ultraviolet.
+
+The naked-eye stars Gamma Velorum and Theta Muscae, as well as one of the most massive known stars, R136a1 in 30 Doradus, are all Wolf–Rayet stars.
+
+Link to Gliese 293 B in EDSM:
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+
+---
+Just because you cannot see it, doesn't make it fictional. A gentle reminder...
+Last edited: Nov 17, 2023

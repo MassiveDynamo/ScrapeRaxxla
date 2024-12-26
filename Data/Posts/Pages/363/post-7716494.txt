@@ -1,0 +1,6 @@
+yoda711
+Apr 4, 2019
+#7,256
+One problem you might run into with using an external tool such as space engine, is perspective / focal length distortion. If you were in the exact same 3D location in ED and SE, things might look a little different, especially at the edges of the screen.
+
+Also, while ED is presented as a 1:1 representation of the milky way, AFAIK it still places stars procedurally where there are gaps in the real databases.

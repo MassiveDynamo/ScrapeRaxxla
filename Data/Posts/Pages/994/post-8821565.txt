@@ -1,0 +1,10 @@
+Jorki Rasalas
+Nov 29, 2020
+#19,863
+You need to check such things out on Simbad, both these systems have several other identifiers & you’ll probably find ED uses a different one in galmap but contains in the its system description one or more of the alternative names which is why it might pop up briefly then disappear.
+HIP 13044
+HD 7199
+
+ED was populated by importing star data from several IRL star catalogues which is usually the cause of this sort of behaviour- often as well as different system name they have slightly different positions which causes things to jump around/cause “hidden”& duplicate objects etc.
+Reactions:
+Han_Zen and [PS4] Filthymick420

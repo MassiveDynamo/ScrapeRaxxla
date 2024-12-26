@@ -1,0 +1,24 @@
+Jorki Rasalas
+Dec 14, 2018
+#4,531
+Edelgard von Rhein said:
+Sorry to hear you've been having trouble. I practised the FSS a lot in beta (as I started out in between Colonia and the Bubble) and have transferred the keybindings and setting over to live, where they work very well, although I do use keyboard and mouse. My technique is to:
+1) have the mouse set to move the FSS viewpoint around, with a sensitivity that allows it to move very quickly, without losing all fine control.
+2) zoom in/out is set to W and S respectively
+3) tuning the scanner is set to A and D for left/right, sensitivity also suitable for fast movement
+4) F enters and leaves the FSS
+5) I move a short way away (only 5-10 seconds of flight for dwarf stars, 20 seconds worked fine for a GIII giant today) from the primary star to try and get a clear view of most of the Ecliptic Plane before opening the FSS
+This means I have my left hand able to quickly control both the zoom and tuning whilst I move the view around. I have not yet scanned a system with 73 bodies but it takes several minutes to do one with 30+. I imagine it might take me 10-15 minutes to do one with 73 bodies, depending on how they were placed (and I sometimes have to look around a bit if a planet is way outside the Ecliptic Plane). If it's taking you 2 hours, then it sounds like you're moving the field of view around much more slowly than needed. So I can only suggest trying to fiddle with sensitivity and to see what works for you (would a hat switch work well for both tuning and zooming, maybe?).
+
+Yes, I realised I must play around with the sensitivity to speed up the rate of moving around the scan arwa, it’s too slow by default (I’m using stick X&Y axes). The system I was in had a lot of moons close together & it was difficult to discriminate between them. Then when I zoomed in I got several more hotspots ... so had to slowly scan around again.
+
+@Clavain- the honk still works. It identifies the planets so you can then decide whether to spend some time using the fss to give a detailed scan. I think it’s quicker (potentially) than travelling out to a body to use the DSS to get the fine detail, but I did have a scanner engineered for long range so I could do most of my scanning from the star’s location. The honk gives you some credits, the fss gives you more and the probe mapping gives you still more.
+
+Edit: stick with it! It was easier for me yesterday, scanned a few planets where I had suspicions from previous exploration trips (nothing to report, apart from one gas planet where I got a human signal, which turned out to be an orbital agricultural installation (Silver Leaf Springs?) that sped away from me too fast to data scan, with some what looked like strange satellites in orbit with no scan details. The strange thing was that the human signal came from the planet which I had discriminated & separated from the Silver Leaf signal.
+
+Am I the only one that doesn’t like the new shader much? It’s good for planet surfaces, but the galaxy is no longer black, the milky way is muddy orange, & the cockpit windscreen is so dirty it’s difficult to see out if the star is shining across it.
+
+I tried mapping the INRA Taylors Keep site and both fss and probe identified it as Guardian!
+
+Also having problems with zoom in system map.
+Last edited: Dec 14, 2018

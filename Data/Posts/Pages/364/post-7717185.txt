@@ -1,0 +1,29 @@
+Six6VI
+Apr 5, 2019
+#7,269
+CMDRGURU951 said:
+I find it very strange that out of the 23 (I think 23, possibly more) constellations I've completed, the only one with a beacon in it notifying you that you're in one is Sirius and all it says is that it's called the Dog Star. I was very surprised that Orion's Belt didn't have anything in their beacons about it.
+Have been sat in Delphi / The Oracle for a few days playing forums instead of the game and debating whether or not to go explore and clear my Orion constellation bookmarks but you might have just saved me the trip if there's nothing to see.
+
+I'm still interested in finding out if there's an ED analogue of the mythical Magrathea, orbiting Soulanis and Rahm (they're not in the galmap, I checked) in the Horse Head Nebula, most of which is curiously still "unknown" permit locked.
+
+Edit: While MB confirmed to Dj Truthsayer that Raxxla is in the Milky Way and it was part of everyone's journey to find it he didn't say whether or not it was inside a permit locked area to prevent it being stumbled upon at random. If the rumours are correct about it being in the game since gamma we'd need to constrain the search to tourist beacons that were also in game at the time.
+
+As mentioned above, I have a dozen beacon entries with the same date, 2016-11-13, long after I started playing and a range of times between 00:52:06 and 12:17:35 that look like a bulk import of some description. The highest numbered one on this list is 0231 in Sol / FCI Information but if we look at the spreadsheet linked above we see 0251 SD / Pilot's Federation Secrecy then 0252 is missing, followed by one that mentions a CMDR by name which would date it's placement some time after FDev let us in.
+
+If the beacons contain clues, wait... Scrolls up to beacon 0001
+
+"Ringed Garden World - CMDR Ziljan recommends..."
+
+Annnnd another hypothesis collapses, lmao! There might still be a pattern worth looking into, at entry 0113 the CMDR names seem to stop, replaced by more long form FDev / canon looking entries. Does anyone remember if there was an early backer / amount reward that included a tourist beacon in the kickstarter that might provide a rationale for why the lowest numbers are assigned to players?
+
+There's plenty of gaps here in the first 100 or so, maybe one of them was secretly placed with a "CMDR David Braben congratulates you on finding Raxxla!" entry? 0199 and 0200 also create a problem as they mention community events involving Palin and Obsidian Orbital, which would be well after launch but somehow prior to those in Sol / SD? Curiouser and curiouser, omg brain melt
+
+Edit [2]: Anomalies: 0082 The Centre (SagA) and 0087 Cradle of Humanity (Sol)
+
+Edit [3]: 0070 Distant Worlds Expedition 3302 (Is there any logic to these numbers?)
+
+Edit [4]: 0061 Maia Black Hole (Actually mentions the lensing effect on the view here)
+Last edited: Apr 5, 2019
+Reactions:
+CMDRGURU951

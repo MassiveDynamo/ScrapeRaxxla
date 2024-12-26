@@ -1,0 +1,17 @@
+Han_Zen
+Dec 13, 2017
+#1,344
+Stinja said:
+I headed to Sirius to do some deep space poking, when I got that weird "frame shift drive operating beyond safety limits"... Is it just a bug?
+
+It's been reported multiple times to FDev, so they know, but have never acknowledged it as a bug (that I can find).
+https://forums.frontier.co.uk/showt...fety-Limits-quot-audio-when-not-in-NS-WD-cone
+https://forums.frontier.co.uk/showthread.php/364192-frame-shift-drive-operating-beyond-safety-limits
+
+What if it's a "little bit obvious" hint that something is nearby? Dark matter / rogue planets / etc?
+
+I'll spend a little more time criss-crossing space looking into these FSD anomalies...
+
+I’ve had it a few times my self. Mostly when going from Sirius A to Sirius B.
+Don’t know If that happens in other white dwarf system?
+No idea if it’s bug.

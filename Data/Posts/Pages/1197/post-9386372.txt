@@ -1,0 +1,90 @@
+uiil
+U
+Jul 8, 2021
+#23,935
+So, I think I’ve actually figured this Raxxla stuff out.
+
+My Problem is that nothing happened; and I suspect the reason why nothing happened is because Fdev’s Raxxla server code is bugged out and non-functional. Since it’s so secret, I doubt quality control has ever been authorized to examine the Raxxla code; and the 2 or 3 people who are authorized haven’t checked it since the 1.0 or gamma release.
+
+I did it in a different way than most paths taken in this forum, or at least I think so, as I didn’t read all 1200 pages. My method doesn’t require any lore or outside information, just the six letters ( R A X X L A ) and the game mechanics.
+
+First step ( very common first step ) convert to numerical letter of the alphabet:
+
+R = 18, A = 1, X = 24, X = 24, L = 12, A = 1
+
+Now keep in mind one of the only, if not the only, consistent things in the game: The large orbital station landing pad numbering layout.
+
+R - Medium Pad # 18
+A - Small Pad # 1
+X – Large Pad # 24
+X – Large Pad # 24
+L – Small Pad # 12
+A – Small Pad # 1
+
+
+Now the how to:
+
+At a large orbital ( I used Jameson Memorial ) have at least 3 ships docked there ( 1 small, 1 medium, 1 large ) or even 6 ships docked ( 3 small, 1 medium, 2 large )
+
+Now launch in the medium, turn around and Request Docking – Then Cancel Docking and Re- Request until dock control assigns Landing Pad # 18 to your medium ship, and dock.
+
+Switch to a small ship and launch, turn around and Request Docking – Then Cancel Docking and Re- Request until dock control assigns Landing Pad # 1 to your small ship and dock.
+
+Switch to a large ship and launch, turn around and Request Docking – Then Cancel Docking and Re- Request until dock control assigns Landing Pad # 24 to your large ship, and dock.
+
+Switch to ( or stay in ? ) a large ship and launch, turn around and Request Docking – Then Cancel Docking and Re- Request until dock control assigns Landing Pad # 24 to your large ship, and dock.
+
+Switch to a small ship and launch, turn around and Request Docking – Then Cancel Docking and Re- Request until dock control assigns Landing Pad # 1 to your small ship and dock.
+
+Switch to ( or stay in ? ) a small ship and launch, turn around and Request Docking – Then Cancel Docking and Re- Request until dock control assigns Landing Pad # 1 to your small ship and dock.
+
+
+What SHOULD have happened:
+
+After completing this final dock, the server should have sent the special Raxxla elevator transition sequence where the elevator goes past small bay # 1 and continues down past racks of stored ships and arrives at the special “Raxxla” bay which is a fast travel point. Just via instancing mechanics, teleporting to other Raxxla bays in other stations would be simple to implement.
+
+
+Why I think this is right - ED specific reasons:
+
+- It fits with existing and long standing game mechanics. If you’ve ever used the glitched free camera while docked in a bay you can see that the games instancing mechanics only renders your ship and the bay that its in. A Raxxla bay would be no different for server instancing operations from a normal docking bay. A Raxxla elevator transition sequence would be no different for server instancing operations from a normal elevator transition sequence.
+
+- It is within the understanding level of a 7 year old. The base ED game has a PEGI 7 rating. No advanced math to convert coordinate systems is required for this method, no translating greek needed, no knowledge of any culture’s mythology has to be used.
+
+- It will not happen by accident. It is extremely unlikely that anyone would randomly and sequentially dock at these bays in this order with the RNG involved in docking control’s pad assignments.
+
+- “There will be no clues” -Fdev. What kind of clue could you give about this method that wouldn’t 100% give it away?
+
+
+Why I think this is right – general gaming reasons:
+
+Everything about Raxxla seems to indicate that it is DB’s pet puzzle, and I think he came up with it way back in the days when Elite was being sketched out on graph paper well before a single line of code was typed into a computer. Games, like most things, don’t develop in isolation. One of the biggest and most influential games around that time was the Ultima series, and it had unlockable fast travel mechanisms ( moongates ). Some types of unlocks required walking through doors or stepping on literal pads on the floor in a specific sequence to solve the puzzles.
+
+My guess is that these graph paper days were when the ideas of landing pads scattered on the interior or a rotating cylinder and the Raxxla puzzle that made use of them were conceived.
+
+I’ll bet sometime between the pure graph paper days and the moment the realities of that era’s hardware limitations fully made themselves known, some notes were passed to Robert Holdstock to be incorporated into “Elite: The Dark Wheel”; notes like Lave is a star system, Cobra is a ship, Raxxla is a mystery. After hardware realities stopped stations from having today's interior landing pads the Raxxla puzzle got shelved until ED.
+
+
+Why am I posting this?
+
+I’m hoping this post makes its way to DB and that he reads it and, in particular, this next bit.
+
+I’ve just handed you a way out.
+
+You can now announce that this post managed to make its way to you and you realized I should have solved Raxxla, and subsequent examination and a quick test revealed there is indeed at least one bug that prevents the fast travel Raxxla bay from triggering after the correct docking sequence.
+
+In fact it doesn’t have to be now, you have time.
+
+Everyone understands that your time is currently fully occupied with fixing Odyssey. Since this Raxxla issue has only affected one player, yours truly, and isn’t game breaking it’s clearly not a high priority on the to be fixed list.
+
+It can be weeks before you announce there is a Raxxla issue, and months even before a temporary placeholder fix is issued. For instance, a fade to black transition sequence could be substituted for the “bugged” elevator transition past racks of docked ships. The Raxxla bay itself could just have a 3D model very similar to existing bays just with some different graphics.
+
+When deciding on whether to take me up on my offer you just need to ask yourself: Is your Raxxla better than mine? Mine has a simple logic behind it, it fits with existing game mechanics, and I’ve even provided you with a development origin backstory behind it. So, is your Raxxla better? Because now it has to be.
+
+Would the player base accept it?
+
+Firstly, is there anyone in existence who would try to claim my method couldn’t possibly be right because Fdev’s game code is so bug free and logically perfect that it would never ever fail. Yeah, no one, that’s who. There will be some who will believe I did solve your Raxxla which you put logical thought into utilizing known game mechanics; yet others will speculate you grudgingly realized your Raxxla puzzle was a sand grain hidden in a sugar bowl level of lazy and you just grabbed at my easy fix.
+
+The tin foil hat army will march on no matter what happens.
+
+Sincerely, your artful corrupter,
+CMDR uiil

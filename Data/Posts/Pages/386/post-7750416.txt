@@ -1,0 +1,5 @@
+AegisXOR
+A
+Apr 24, 2019
+#7,702
+I wonder if it's possible to power off your FSD at the exact moment a jump initiates?

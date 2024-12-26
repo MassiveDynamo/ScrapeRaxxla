@@ -1,0 +1,13 @@
+Pyroboros
+Feb 21, 2022
+#25,415
+Lyrient Bounds x y z
+min -9025 -2585 -6185
+max -7745 -1305 -4905
+
+Some of the IC 1590 Sector Systems belong to the Lyrient Sector. e.g. there may be more.
+ProgGenName Alias
+Lyrient HE-E d13-0 IC 1590 Sector FS-K d8-0
+Lyrient EY-F d12-0 IC 1590 Sector CM-M d7-0
+Reactions:
+CMDR Davanix and Merlin StWahgwaan

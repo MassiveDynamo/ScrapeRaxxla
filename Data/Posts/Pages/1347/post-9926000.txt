@@ -1,0 +1,21 @@
+Pyroboros
+Aug 28, 2022
+#26,921
+Jorki Rasalas said:
+@Pyroboros @Adel
+Ejagham is an interesting system. Bodyids 35 & 36 crashed the system but I knew I hadnt found the two stations so kept at it. Later went back & tried bookmarking those two, but as soon as I did that I got Black Adder errors each time. No Omphalos or TDW hidden station, unless it's at 35 or 36!
+Cant see a way to find them!!
+(N.B. Ejagham 4 has 8 moons!! And travel in a straight(ish) line from Sol (Jewel/Mother Gaia) via Sirius (Witchspace whisperer) you get eventually to Ejagham (tourist beacon mentions lovers, binary ice moons resemble original start menu screen with station)).
+
+Each time I drop into a comet I honk three times - but Raxxla is hitting the pipes!
+
+
+Click to expand...
+Works on my end (only via Bookmark)
+35:{ "timestamp":"2022-08-28T14:09:27Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Ejagham", "SystemAddress":4683418569067, "Body":"Ejagham Comet 4", "BodyID":35, "BodyType":"SmallBody" }
+36:{ "timestamp":"2022-08-28T14:16:03Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Ejagham", "SystemAddress":4683418569067, "Body":"Ejagham Comet 5", "BodyID":36, "BodyType":"SmallBody" }
+
+this one came out of 36:
+{ "timestamp":"2022-08-28T14:13:51Z", "event":"ShipTargeted", "TargetLocked":true, "Ship":"cobramkiii", "Ship_Localised":"Cobra Mk III", "ScanStage":3, "PilotName":"$npc_name_decorate:#name=James Hogg;", "PilotName_Localised":"James Hogg", "PilotRank":"Mostly Harmless", "ShieldHealth":0.000000, "HullHealth":100.000000, "Faction":"Ejagham Silver Boys", "LegalStatus":"Wanted", "Bounty":48964 }
+
+they may supposed to be heavier 18.3 Mm drop Distance.

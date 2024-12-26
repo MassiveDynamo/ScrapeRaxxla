@@ -1,0 +1,25 @@
+John Stoutbeard
+Mar 26, 2020
+#15,815
+And here we think we can't learn anything new. Yet the game just slaps us in the face to remind us how sloppy we are.
+Accidentally via Drews stream tonight we discover that the game doesn't display some system-descriptions summary (via the galaxy map) unless you've visited them.
+Before visit it looks like a generic / no description.
+After visit, it should be updated.
+
+Two test you can do yourself if you've never visited these systems:
+1. Make sure you have never visited CD-86 4
+2. Check system map, description summary. Observe if blank / generic
+3. Visit system
+4. Check description again.
+5. Repeat with LTT 11159 if you like.
+
+Screenshots what it should look like:
+SPOILER: IMAGES
+
+
+
+
+
+Last edited: Mar 26, 2020
+Reactions:
+[PS4] Filthymick420, Vetinari, Han_Zen and 2 others

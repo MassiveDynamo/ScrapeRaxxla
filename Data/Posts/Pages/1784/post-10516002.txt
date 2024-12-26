@@ -1,0 +1,8 @@
+Pyroboros
+Saturday at 11:50 AM
+#35,663
+In Odyssey now. Managed it to get in Shipping Lane while being Stationäry against the 6 Parreco Stations. Journal says i droped at Body 2 but it is a Star now.
+Odyssey:{ "timestamp":"2024-12-21T11:37:17Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco", "BodyID":2, "BodyType":"Star" }
+vs. Legacy: { "timestamp":"2024-12-21T08:37:21Z", "event":"SupercruiseExit", "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco Comet 2", "BodyID":2, "BodyType":"SmallBody" }. So FDEV may have done some deep clean up whit Comets.
+Reactions:
+Han_Zen, Macros Black and Ozric

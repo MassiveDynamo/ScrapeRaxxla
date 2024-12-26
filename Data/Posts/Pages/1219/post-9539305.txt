@@ -1,0 +1,11 @@
+Comandante
+Oct 3, 2021
+#24,377
+So sadly, even though the Inara EDSM system data gives the in-game system description, the advanced search doesn't enable us to query systems /only/ with descriptions. Looks like there's an API, so I'll see if we can query based on description. Also took a look at eddb.io and downloaded the systems CSV and populated systems JSON files, again no beans - doesn't look like system descriptions are included.
+
+Again, I don't think there's anything in the system descriptions that will help but I'd love to actually have a read of all bubble-related systems that have some kind of data on them. I am also trying to restrict myself to just in-game data for 'inspiration' (albeit slowly running out).
+
+If anyone knows any other sites that host the data and can filter on description, or have downloads (SQL, CSV, JSON etc.) available, give me a shout. I had a quick look on Alec's best of the forums 3rd party tools, didn't see any other sites that stood out.
+Last edited: Oct 3, 2021
+Reactions:
+Rochester

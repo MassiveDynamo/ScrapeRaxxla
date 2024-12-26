@@ -1,0 +1,15 @@
+Jorki Rasalas
+Mar 7, 2021
+#21,657
+[PS4] Filthymick420 said:
+I tried going out to lemon slice nebula last night. Spansh said I could make it but my route plotting failed with only 1900±ly. I know it was kind of a joke when it was posted but you never know. I can only find references to it being unreachable before FC but now that I have one, does anyone know a route? I've seen that someone has been there on yt.
+
+
+Also, could you fine cmdrs who have had the Green Glow in Sol's belt locations repost the general how to for that for me? I'm trying to recreate it and possibly help some of my squad see it too
+
+The green glow was, I think, proven to be a graphics bug after some sterling work by some guys on the Independent Raxxla Hunters Discord. Seems to be a slow bleed from the colour look up table back to the normal space look up values after switching from orrery view back to normal cockpit view. IRH Discord set up a channel for that investigation if you want to chase it down. But it was observed in at least one other system and spamming the orrery view was the answer. I did report it to FD but haven’t checked on it since.
+Edit: it’s still confirming. https://issues.frontierstore.net/issue-detail/22785
+
+I think I updated my Raxxla in Sol hypothesis post accordingly & you can read the details there https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8911441
+Reactions:
+TrillClinton, Macros Black and [PS4] Filthymick420

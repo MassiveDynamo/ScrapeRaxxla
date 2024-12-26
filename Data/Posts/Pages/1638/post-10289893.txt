@@ -1,0 +1,17 @@
+CMDRblackfearless
+C
+Dec 25, 2023
+#32,748
+Hi guys i found a few bugs on this system... someting dosent seem right to me:
+1-bug: was it only me that notice that all the passanger mission givers only offer around 300k credit to go to colonia? (to me this feels like a bug) ....but i see other options as well:
+
+1.1- Ither NLTT 46621 was ment to be in Colonia reagion. and the system is buged due to that.
+
+1.2- the nav system "thinks" colonia is nearby becasue there is a way to strait to there in this system (some portal or some way of fast travel)
+
+
+2-when acepting pass mission, after selecting the cabin.. missions dont register on the nav menu, and if you go out of the station they disapear all together.
+
+does this bug with the pass missions happens to you too?
+Reactions:
+Han_Zen, Louis Calvert, Adel and 1 other person

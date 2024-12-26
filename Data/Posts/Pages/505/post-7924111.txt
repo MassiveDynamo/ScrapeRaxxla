@@ -1,0 +1,12 @@
+PeteACarter
+P
+Jul 31, 2019
+#10,084
+PeteACarter said:
+Technically I think the whole game is amazing TBH. My point was less about technical and more about cost. As in, it would not be costing FD anything (or very little) to have a 2nd galaxy sat there, not being used, until we find it. Hope that makes sense.
+Basically, 10 years ago, to have Raxxla "ready" FD would have had to pay for infrastructure. Be that physical servers, or with physical hosts that could support virtual servers.
+With cloud methodology and cost models, however, they would only have to start paying for Raxxla at the point we find it. This removes one big cost barrier to Raxxla being a portal to another galaxy.
+The other barrier would be implementation. Why would you get busy developers to build a new galaxy, when they are still busy working on Milky Way. My assumption is, however, that this barrier would be removed by the fact you could use a model of the Milky Way that Stella Forge spat out during development cycles, that was not very much like the Milky Way.
+With these assertions, you now have a feasible way that Raxxla could exist and how FD would not mind if we dont find it for years/ever. No money is being spent, and no massive effort has gone into it.
+Reactions:
+Scytale

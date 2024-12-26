@@ -1,0 +1,15 @@
+Emperor
+Nov 15, 2024
+#35,315
+Beng_Ammon said:
+The key to Raxxla is in a system that has to be jumpable from our Galmap
+Unless they implemented mis-jumps....
+
+On the BBC Micro for instance (always fun for fighting Thargoids.... and pulse lasers would eventually take them out even though Military lasers were supposed to be needed from memory)...
+
+Elite FAQ
+
+6. How do I force a mis-jump/entry to "witch space"?
+On 6502 versions, this is achieved by engaging maximum "climb" as the hyperspace countdown times out. On the BBC version, you may have to pause the game, press CTRL_X, and then resume to enable this.
+Reactions:
+Jorki Rasalas

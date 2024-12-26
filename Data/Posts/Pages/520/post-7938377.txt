@@ -1,0 +1,11 @@
+Jaiotu
+Aug 9, 2019
+#10,382
+Scytale said:
+Not an astronomer, by far, but I assume RA and Declination only gives you the direction of a star or whatever as seen from Earth. No distance, then no coordinates. But I may be completely wrong... Herr Professor-Doktor , please ?
+Hiciacit's python script can give you coordinates by supplying Right Ascension and Declination along with a range of distances:
+The Cassiopeia Project
+Just a novice question: I've seen some mention of those that have collected out-of-game data and shared via spreadsheet, etc. Is this considered to be part of the data collection process in this mission? I'd really like to see this mission apply real-world science toward solving the mystery of...
+forums.frontier.co.uk
+Reactions:
+Thatchinho, Scytale, PeteACarter and 2 others

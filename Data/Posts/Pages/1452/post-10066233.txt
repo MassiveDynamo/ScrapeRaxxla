@@ -1,0 +1,71 @@
+Louis Calvert
+Jan 25, 2023
+#29,039
+Well. I'm still very slowly reading through Premonition for the first time since it was published.
+
+With all that I now know about the Lore and all this stuff we've been doing with the Raxxla hunting and stuff - it certainly seems like even just the first few chapters I've read are loaded with useful info.
+
+For context: I was very interested in Premonition specifically since this was written after Elite was launched and Drew got to see some (more) secret info that helped him shape the plot for the novel. This was also during/after he'd worked with Fdev to create the Dynasty mystery.
+
+Some things that got my attention follow, for your consideration:
+
+Polaris
+Rebecca is reminiscing about her investigation:
+What she had found were only footnotes, vague references and anecdotes. She had found little that substantiated her findings, just some strange and unconfirmed rumours of the Alliance being involved ... and remnants of information regarding a mysterious ship.
+
+Polaris?
+
+The system was still permit locked, and it wasn't the only one that was impossible to reach.
+
+Something is being concealed. Proof might be thin on the ground, but I found some evidence. I found where they went. One day someone is going to figure this out. I've left the clues. When the time is right they will be found once more. I must prepare them for that, pass the torch...
+Click to expand...
+This almost certainly relates to the Thargoids. The reference to the ship is likely the Quest, especially since a few chapters later we have Mahon himself confirm that Mic Turner is rumoured to have gone looking for Thargoids (if memory serves we also do get to see a Quest ship later too?) - all this is essentially connecting with the plot of Frontier First Encounters. For me, this puts to bed the idea that Polaris is anything related to Raxxla or the Dark Wheel - it's clearly linked here with the Thargoid/INRA/Turner plot as it was in FFE.
+
+The Dark Wheel
+The Dark Wheel (or a faction thereof, most likely) are (some of) the ones working to conceal things from the Galaxy:
+Rebecca: "Because it might reveal the truth? People might find out what you've been concealing all this time?"
+Masked man: "The time is not right"
+Rebecca: "The time is never right, is it? Was it the right time when Galcop collapsed? Nope. How about when the Alliance came to power? No, not then either."
+Masked man: "Secrets last longer than lifetimes, longer even than yours. We operate on a timescale far longer than mere decades. The Wheel turns..."
+
+Context note: Rebecca seems to be a renegade Dark Wheel member. The conversation with the masked man make it clear that she's essentially defying them, and the phrase "the Wheel turns" can't possibly be anything other than the Dark Wheel.
+
+Links to the Raxxla Codex
+Despite my reservations about this; I think Drew might have written the Raxxla Codex - or - whoever wrote the Raxxla Codex is heavily hinting at Drew's writings. This idea is to do with language used and the fact that things written by Drew have exact or near-exact matches to elements of the Raxxla Codex entry, and I don't find these matches as closely related anywhere else in the written lore of the game. Also Drew himself in a livestream (which are on his Youtube channel) said he was very fond of Greek myth, which is why it appears so often in his writing:
+
+In the 'Excerpt from recovered journal, circa 3302, author unknown' text:
+"Only a few look beyond the artificial boundary that rings the edge of civilisation. ... Equipped with new vessels, those who can't resist the siren song of the unknown venture forth into the darkness."
+
+"There are rumours, of course, stories that filter back from borderland trading outposts. Ships that return from long ventures in the void with crews gone insane, or ships that are found abandoned in the darkness. The tales tell of lost planets, lost civilisations, strange beacons, crashed vessels and drifting cargoes."
+Rebecca is getting some memories back, the text reads:
+"distant stars, a sunrise fading into blackness, the flash of spacecraft hulls against the dark. A calling... no, a yearning!"
+Intro of Salome returning from her explorations:
+Edge of the Frontier, two hundred light years from Sol
+
+Myriad stars pricked the darkness of space. Not far away from here was the border, the boundary, the limit of known space; the edge over which only those who couldn't resit the siren song of adventure dared to go; those to which 'dangerous' was just a substitute for exhilaration.
+
+They call it the Frontier.
+
+Out here, against the slowly fading embers of red dwarfs, the sharp light of blue-white supergiants and the deadly peril of uncharted neutron stars, was the void....
+Click to expand...
+The Club are having a meeting:
+Society nodded. 'Yes, rather a law unto themselves. Quite what possesses them to head out into the void on a whim and a prayer is rather beyond me...'
+
+Bear in mind my previous postings about the correlations between the Dynasty logs (specifically the Formidine Rift logs) and the language used the Raxxla Codex. Those logs were written by Drew, they include many of the same linguistic signatures as Reclamation and Premonition.
+
+Humanity is definitely controlled
+In addition to the references above, there's also a large section of Chapter Four that explicitly spells out that a secret cabal controls humanity (the Club, of course). This seems to me to fit neatly with the Raxxla codex talking about a secret cabal controlling humanity - though of course it may be another secret cabal controlling humanity...
+
+However, there's a very interesting section that I think is worth considering further:
+(Context: Society is complaining about us - independent pilots - getting in the way)
+'Irritating parasites' Exo chimed in.
+'How so?' Finance demanded. 'We make considerable currency off the back of their trading and bounty hunting exploits, not to mention taxes, tolls and ship and equipment exchanges. In fact, finding enough diversions for them to spend their credits on has proved something of a challenge.'
+(discussion about explorers poking around)
+'Indeed' Society replied. 'We've given them all sorts of financial enticements to stay away from any areas of interest, naturally. Community goals promising rich rewards seem to retain their allure for the most part. For the determined, we provide other enticements, luring them into areas where they can be ... embroiled in some unfortunate accident in the depths of space.'
+This, to me, seems to heavily correlate to what we know of the Pilot's Federation information from Shinrarta beacons: Bounties, ship equipment, vast secret influence, etc. Seems to confirm that at least one member of The Club is highly-placed the Pilot's Federation and funding flows from the PF to the Club. Also Galnet is controlled and owned by the PF, so when Society here talks about CGs here, that's significant.
+
+In the 'Excerpt from recovered journal, circa 3302, author unknown' text:
+"While some strive to shine a light on the truth, others may work equally hard to keep that knowledge concealed. They might take the view that humanity isn't ready for those revelations, working in secret for hundreds of years, protecting humanity from itself. It could be they consider themselves above the hoi-polloi, above the factions and even beyond the remit of the Empire, the Federation and Alliance, concerning themselves with the enduring, not the ephemeral. If such people do exist, they would know all too well that truth is a dangerous thing."
+Again confirming the 'secret cabal'. It may be that there's more than one, but there's nothing really indicating that in the text.
+Reactions:
+Ataxia, Rochester and CMDRCorrMorningstarFelian

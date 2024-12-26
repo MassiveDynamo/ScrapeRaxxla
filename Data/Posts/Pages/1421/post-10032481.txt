@@ -1,0 +1,19 @@
+Rochester
+Dec 12, 2022
+#28,401
+Louis Calvert said:
+That's a very cool image. How are you creating these images and alignments? are the stars shown (and your other posts) correct to the galmap locations?
+
+If you had, say, 6 systems, could you draw lines between them and see where they cross over and relate that to the Galmap. like this:
+
+View attachment 337250
+
+Edited to remove stupid waffle
+Yes - one can.
+
+It’s accurate and simple X;Y;Z plotting - I use a combination of in-game coordinates from gal-map and those obtained from EDDB. I utilise a very simple 3D CAD tool on Iphone, so I can build on the go, stars are indexed in an Excel document.
+
+That rather pretty diagram of yours is exactly how I imagined the logo as well. Excellent.
+Last edited: Dec 13, 2022
+Reactions:
+John Stoutbeard and Louis Calvert

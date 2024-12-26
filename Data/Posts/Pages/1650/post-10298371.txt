@@ -1,0 +1,64 @@
+Louis Calvert
+Jan 14, 2024
+#32,985
+selbie said:
+Gan Romero is an unknown factor at the moment, although he was a starship technician which does parallel Art Tornqvist.
+In contrast, Halsey was found again and her revelations pointed to the Guardian sites - as the Knowledge Base points out.
+Gan on the other hand was effectively removed (stopped?) from the narrative due to being an "off-camera" character leading players into a wild goose chase. There is a chance he was intended to represent searching for more Guardian clues (25 May 3305 he is linked to Halsey), but this removal action creates uncertainty about what FDev are doing.
+Not really sure what you mean by unknown factor
+
+Galnet explicitly linked Gan's visions with Halsey, it might be a red herring, but as we've said before, if there are red herrings then we're totally screwed, so let's assume there's not, and consider the lore-as-written details:
+24 May 3305:
+Ship Thief Linked to Halsey’s Visions
+“Romero’s dream journal entries were very similar to Jasmina Halsey’s visions after the Starship One incident three years ago. Was this lowly grease monkey in touch with the same ‘caretakers of our galaxy’ that Halsey claims spoke to her?”
+
+“Sure, it could be coincidence. Maybe even a shared psychological disorder. But it seems possible that Halsey and Romero were telepathically contacted by the same incorporeal intelligence.”
+
+I don't think it matters whether he was found, I think the narrative was supposed to be "look; people have visions of this place, more than one person".
+
+FYI: Gan's story had already ended, it wasn't stopped. Fdev's announcement about the ending of off-camera narratives was more about the team writing them being re-tasked to Odyssey. It's also totally clear that off-camera narratives have been back for ages too (like Seo Jin-ae zooming around visiting people, the entire political stuff about the Empire succession, the Feds elections, to name but a recent few).
+
+Halsey is an interesting one because if you go back and read all her Galnet stuff, she had some very specific things to say, and it seems like the Guardian sites were found accidentally*; they certainly weren't what she was looking for!
+
+The Codex itself actually says:
+"She shared these visions with the rest of humanity, prompting explorers to set off in search.... This led to the discovery of the first Guardian ruins... The fact that these sites were devoid of life led to speculation that Halsey had seen the Guardian worlds not as they are, but as they had been."
+No-where does it actually say that Halsey was visited by post-Guardians or was looking for them, nor does it say that she definitely saw living Guardians at all, and the idea that she'd seen the past was 'speculation'. Now yes, it's possible to read it as "Halsey's story was about finding Guardians", but whoever wrote the Codex has been super careful not to actually say that.
+
+Actually, if you compare the Galnet articles with the Guardian Codedx, no-where in the articles do they mention "mysterious alien worlds and cities", which is what the codex says. It's a very strange thing.
+
+In fact, every part of Halsey's vision statements are framed more like a religious conversion than a search for alien worlds. She also explicitly mentions a place. Not "alien worlds and cities". She specifically mentions super-intelligent beings many times, and that's actually her goal, finding those beings... like... the Sirens of Raxxla, maybe.
+20 Sept 3302: In a public address at Gotham Park in the Alioth system, Halsey described the nature of her vision:
+
+"I saw a place of extraordinary beauty. A paradise. It was truly wonderful."
+
+"This was no dream – it was a glimpse of something very real."
+
+"We must find this place. It could be our future."
+“Critics argue that Halsey’s extraordinary claims of encountering super-intelligent beings and seeing paradise are meaningless without evidence. And yet, in a cosmos containing Thargoids and Guardians, can they be easily dismissed? Or are her outlandish claims designed to cultivate a following among the disenfranchised and make her into a messianic figure?”
+
+Yes, the Guardians were found because Halsey called for a generalised mass exploration and (presumably) the data was supposed to reveal the Guardian sites - although Galnet at the time explicitly states the exact opposite:
+27 Apr 3302: Now the former president has launched an appeal for exploration data that she hopes will validate her claims. According to a member of her personal staff, the former leader believes the data will prove there are super-intelligent beings living in the depths of space.
+
+The former Federal president released a brief statement to the media:
+
+"They are out there. I have seen them. We must put aside our petty differences and work together to establish contact. There is so much we could learn from them."
+5 May 3302: "On behalf of President Halsey, I would like to thank all those who supported this appeal. The data you submitted will now be analysed to determine if it can tell us more about the beings seen by President Halsey. With luck, this investigation will set us on a path to making contact with these extraordinary beings."
+6 May 3302: A member of Jasmina Halsey's personal staff has announced that the former president's appeal for exploration data failed to uncover any evidence of the entities she claims to have seen. The campaign yielded a huge quantity of exploration data, but despite being subjected to extensive examination, the information did not yield any proof of Halsey's assertions.
+And then later (after she'd gone into psychiatric care, and then apparently had more visions(?), worked as a peace activist, defected to the Alliance, then after a while simply stopped mentioning her visions and settled down to a more normal political career:
+27 Jan 3307: “Halsey admitted that she no longer has any memory of making those statements, and may have been suffering from post-traumatic shock.
+
+So, despite apparently actually finding the Guardian ruins due to Halsey's urge to explore (her fernweh...), they clearly weren't what she was looking for. Whether she really doesn't remember, or whether she's simply realised if she keeps talking about it she'll lose her career and everything else, who knows. It's also entirely possible (probable) that the sirens/caretakers/architects of creation are post-Guardian beings (probably the Constructs), which is why Halsey has been linked to the Guardians.
+
+I honestly feel like maybe we've misinterpreted Halsey's story for ages. I think Gan's story was (if anything) intended to reinforce this narrative and tie into the Codex - for those with eyes to see, so to speak
+
+This narrative is essentially: Something mystical (probably related to god-level alien beings) is calling people to a specific location that seems to present as 'heaven' or 'paradise' and is very appealing to humans. This place is known as Raxxla (probably other things too), and is described and expressed in many different ways because it's filtered through different people's experiences - but they're all seeing the same place. This location is hard to reach, and for whatever reason the god-beings can't actually be more precise about it. It's likely to be a rip in reality, or a Clarke-tech artefact.
+
+I suspect these beings exist outside the material universe (in witch-space), and therefore can do nothing more than nudge/guide people towards Raxxla, which manifests in people as dreams/visions/hearing voices, etc.
+
+I believe this is represented in game by the Landscape Signal (which I think is more accurately called the Siren Song). I think the 'path to Raxxla' that we've all been searching for is intrinsically linked with 'mystical' lore of the game, and Halsey/Gan/FR crew/etc. are probably only the most obvious expressions of it.
+
+Obviously could be wrong, and honestly am likely to be but I also don't think this idea is actually that far-fetched on the scale of some ideas presented in this hallowed thread!
+
+*(I'm aware of all the stuff about players star-matching from the trailer, etc, that's not what I mean ).
+Reactions:
+Macros Black, Edelgard von Rhein, Ian Doncaster and 2 others

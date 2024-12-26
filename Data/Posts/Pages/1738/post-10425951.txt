@@ -1,0 +1,15 @@
+Ian Doncaster
+Sep 8, 2024
+#34,744
+simulacrae said:
+How do you get the Internal ID ?
+It's in the journal, so you can find it on EDSM or Spansh. It's essentially a numeric translation of the system's default name (i.e. Wregoe AC-D d12-0 rather than Sol), which ensures uniqueness - they are not sequentially allocated and there are a lot of gaps.
+
+Dox Paradox said:
+So, these systems you list are forming some kind of figure "around" Sol?
+Any random selection of seven bubble systems would stand a high chance of doing that, what with the bubble being approximately centred on Sol, especially if your standard is "some sort of figure" rather than anything more ordered.
+
+SPOILER: POSITIONS
+(There is an approximate triangle in the XZ-plane, but it's not centred on Sol, the midpoints aren't great, it has an extra point, and is obviously an illusion of the graph if you consider the relative heights as well or look at the positions in game. And triangles are going to show up coincidentally quite a bit more than any other figure!)
+Reactions:
+simulacrae and selbie

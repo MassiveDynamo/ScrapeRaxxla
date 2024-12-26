@@ -1,0 +1,18 @@
+El Saico
+Sep 11, 2023
+#31,579
+Han_Zen said:
+Lots of handcrafted systems are RL stars. Most of local systems around Sol are handcrafted to some degree.
+Sol it self is probably the most manual system in the game.
+
+There are also some overides in systems with generic names.
+Mostly planet names or the adition of sation, but anything is possible.
+The RL stars are what I meant by condition #1: "not in any IRL catalog". (it was nearly 4am here, hence the ambiguous wording)
+
+On hand-placed, fictitious systems - a much better and clearer description! - the Old Worlds were described as such by FDev itself, but any others would be suspicious...
+
+EDIT: oh no, seems like the simbad_ref column I was relying on for the EDDB dump was a late addition, and as such only ~10k systems have it set.
+This means I have to filter out more naming patterns; luckily, PySpark is being a breeze to work with on that ~7gb mammoth.
+Last edited: Sep 11, 2023
+Reactions:
+CMDRCorrMorningstarFelian

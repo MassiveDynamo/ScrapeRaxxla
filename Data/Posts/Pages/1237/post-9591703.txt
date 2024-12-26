@@ -1,0 +1,8 @@
+Jorki Rasalas
+Nov 6, 2021
+#24,730
+simulacrae said:
+Ya ive toyed with this and have used ArcGIS and Pandas with some of the data, but not on a very large scale. Will have to think about this.
+I hope no Pandas were harmed in the course of your investigations!
+Reactions:
+simulacrae and Adel

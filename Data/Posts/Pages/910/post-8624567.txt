@@ -1,0 +1,10 @@
+John Stoutbeard
+Aug 1, 2020
+#18,198
+Jermainwelch said:
+Hey guys I wanted to let you guys know this. After docking at a FC in LTT 11159 my GalMap showed the system had a Black Market. ( this isn’t caused by FC’s as 1. No FC there had a Black Market 2. Afaik Fc’s that have a Black Market do not appear on the GalMap either
+This seems to only appear when you have Trade Data for the system. This remained after restarting the game, and only disappeared after my trade data ran out. Still see it now 2 weeks later after visiting today)
+Yes, forgot to mention that. We had another commander doing the same thing. We suspect it related to some issues with FC though, seem if you follow a FC into the system the game doesn't detect you 'jumping'. You may have the Black Market (and other data) from a previous system.
+You may have to jump out and back in again with your ship instead of your FC.
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,66 @@
+Noobilite
+Jan 13, 2020
+#14,639
+BTW, the thargoid map seems to indicate the super bright cloud systems I mentioned. It look like the galaxy with half of the arms removed. Also the color of the stars, blue and yellow designate common star colors in this stars.
+
+If you take your map and set it to star classification and turn everything off you will see the cloud systems. If you get close to one turn each on and off until you find teh star type I've found a few types. Non sequence, some of the lower blue ones and proto stars so far. But the colors on the map seem to indicate some of these star types in some of the arms in the galaxy. This could have something to do with the maps purpose.
+
+Those images are definitely the three probes used to activate the map. Last I checked I think the right system was known and the right was a mystery still. the probes led to one of them. Then I found this might be a community created puzzle which confuses me a bit.
+
+I also looked up the moorse code once and put it together. I forget what it the letters were. I have no idea if it was significant or not. But if it's moorse code it depends on which is dash or dot or long vs short. I think I found some potentials but nothing solid.
+
+Out of the star types I've turned on there are two so far near sol. Ando and Glesting.
+
+Don't know if this is related to raxxla.
+
+-------------------------------------
+
+Does anyone know if RA is used in any real world star classifications. I know it can meant Right Assenction but I wonder if it can mean anything else.
+
+So far XX could be Antonia Maury's XX designation. And la could refer a similar systems la for super or hyper giants. Can't find a similar RA usage. RA XX la.
+
+
+--------------------------------------
+
+Odd side note. There is a terraforming Candidate in the system with josie rosa...
+
+HIP 63835 CD 3.
+
+This gets me thinking. If one of those systems is an HIP it could designate 5 numbers as the system and 1 as the planet..
+
+665465
+654656
+546566
+465665
+656654
+566546
+
+656565
+565656
+
+Star: (Exists means the star exist, not necessarily the planets)(I think I did the distance from sol correctly. Should be Sqrt((|A1-A2|^2)+(|B1-B2|^2)+(|C1-C2|^2)) )
+HIP 66546 5 <-Doesn't exist?
+HIP 65465 6 <-Exists -226; 434; -94.5 Distance from sol(498.360ly)
+HIP 54656 6 <-Exists 246; 330; -44 Distance from sol(413.947ly)
+HIP 46566 5 <-Exists -33; 96; -92 HR 3747 Distance from sol(137ly)
+HIP 65665 4 <-Exists 110; 889; 254 Distance from sol(931.094ly)
+HIP 56654 6 <-Exists 480; 366; 104 Distance from sol(612.513ly)
+
+Second set:
+HIP 65656 5 <-Exists 351; 761; 414 Distance from sol(934.729ly)
+HIP 56565 6 <-Exists 70; 266; -53.5 Distance from sol(280.211ly)
+Distance between these two stars: 736.57467374326684760145ly
+Formula: SQRT(|A1-A2|+|B1-B2|+|C1-C2|) <- Distance between any two locations/Hypotenuse!
+
+All of these are within 1000ly of sol. I think the farthest is around 900lys. Shouldn't be too hard to find the center point.
+
+I'm pooped. Anyone want to take a stab at what is the center coordinate for the first 5?
+
+And as all 3 of the lit up ones are present maybe it's just 3:
+
+HIP 65465 6 <-Exists -226; 434; -94.5 Distance from sol(498.360ly)
+HIP 46566 5 <-Exists -33; 96; -92 HR 3747 Distance from sol(137ly)
+HIP 56654 6 <-Exists 480; 366; 104 Distance from sol(612.513ly)
+Last edited: Jan 14, 2020
+Reactions:
+[PS4] Filthymick420

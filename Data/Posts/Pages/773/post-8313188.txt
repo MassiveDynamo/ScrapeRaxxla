@@ -1,0 +1,13 @@
+alexzk
+A
+Feb 27, 2020
+#15,445
+Ra and D is polar system coordinates. To define PS you need:
+1. Start point
+2. 0 angle direction
+Then you can define any point by angle with (2) and length of vector from (1) to point.
+In 3D you need 2nd directional axis and you do 2 angles to 2 axis or you could drop normal to plain of those axis.
+Any way .. main point is you need directions related to something. On Earth it is horizon related to observation place, so you must know observation coordinates too.
+And ...game is bad with directions. You know nothing about your orientations. It was challenge to catch Voyagers before FSS because of that.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

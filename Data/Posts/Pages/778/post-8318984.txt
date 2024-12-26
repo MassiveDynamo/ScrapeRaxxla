@@ -1,0 +1,157 @@
+Noobilite
+Mar 3, 2020
+#15,546
+alexzk said:
+Google gave me another semi-idea ...also showed 340 page or so from this topic..
+
+..."Princess Astrophil and spiral stars" tip in codex.... another guy on reddit mentioned, and wiki confirms - Wolf Rayet stars can form spirals if have companion star in system...
+...also I was always wondered why map has special checkbox for WR stars.
+...so right now something floats in my mind - like ...visit WR stars which has extra stars in system...
+Which goes with my suspicions of thargoids and the map. Aren't all those bright cloud systems you can see from half the galaxy away all wolf rayet stars. If the thargoids are looking for raxxla that would be why their map is all wolf rayet stars. The spiral is our galaxy as far as I can tell. It's just with half of the arms missing. I'm guessing it's based on gravitic influence of the arms.
+
+Still not sure if the map(s) are all of the same arms or intermixed. That could mean something. If all maps are only of half the arms what does that mean? Is it the places they have checked?
+
+RaNaketh said:
+Hi Macros,
+
+I was re-reading the FP entries (again, ... again) and noted Tau Ceti system(s) which confused me for a second, so I checked up the Game Codex, and noted it was 'system'. So I thought I better re-scan the text and get anything else I noticed fixed in case it is actually important.
+
+Hope you don't mind adjusting the following for accuracy?
+
+Things to fix in the Raxxla 'Spolier' entry in the FP.
+-----------------------------------------------------------------------------------
+The earliest recorded mention of Raxxla dates from 2296, from the journal of Art Tornqvist,
+a shipboard mechanic based in the Tau Ceti systems.
+replace 'systems' with 'system'.
+
+She claims she's found a map to some
+pirate stash, and all I have to do is load her my ship so we can go dig it up.
+replace 'load' with 'loan'.
+
+Meybe we should go find Raxxla while we're at it!
+replace 'Meybe' with 'Maybe'
+
+The earliest document stories tend to agree on several points, however: that Raxxla is a
+definite place and that it holds a mystical secret.
+replace 'document' with 'documented'
+
+that Raxxla is a definite place and that it holds a mystical secret.
+add comma ... definite place, and that ...
+
+Commentators have compared this sensation to 'fernweh'. the unaccountable longing for a place one has never seen.
+change period to comma ... to 'fernweh', the unnacountable ...
+
+
+-----------------------------------------------------------------------------------
+I've never met them, but I know they're oout there.
+lose the extra o in out there.
+
+Those who believe in the existence of the Dark Wheel consider it to be a continuous and
+clandestine organisation operating since the very earliest days of interstellar travel.
+add a comma, ... organisation, operating since ...
+
+
+-----------------------------------------------------------------------------------
+Interstingly I also noted in the Codex that it's
+- Felicy Farseer, explorer
+and not what I would have expected FDev to write in the Codex
+- Felicy Farseer, engineer
+
+Not sure it means anything particularly, but just struck me as odd since we all know her as an Engineer (for FSD's). I might need to re-visit and see if there is any other odd text when at her base.
+
+Keep up the awesome work maintaining the thread.
+
+Fly Dangerously!
+/ Ra
+Click to expand...
+
+
+Unless that is a hidden message or puzzle.
+
+
+Maybe the codex numbers and errors make a puzzle.
+
+
+Also, what I found about the name Raxxla potentially. XX can mean that one womens earlier version of the naming system. XX is a special set in here 22 or 24 naming scheme. What was her name again. I can't remember. She worked in a university and had a system that fought with another major one. Was it from harvard?!
+
+Not sure if this is her: https://en.wikipedia.org/wiki/Annie_Jump_Cannon
+
+But the name: Annie(anaconda) Jump cannon. Those words appear a lot in this game.
+
+There was a system prior to this that used up to around 22 or 24 roman numerals. The top roman numerals were for special categories.
+Harvard system
+In 1897, another worker at Harvard, Antonia Maury, placed the Orion subtype of Secchi class I ahead of the remainder of Secchi class I, thus placing the modern type B ahead of the modern type A. She was the first to do so, although she did not use lettered spectral types, but rather a series of twenty-two types numbered from I to XXII.[47][48]
+https://en.wikipedia.org/wiki/Stellar_classification#cite_note-52
+
+There is a coincidence between the XX and LA form different systems. XX is the top of a part of antonia mauries system. It's the start of the stars that can be classified as la in general. RA could mean Right Ascension. Maybe the numbers from Raxxla's name are the RA values also somehow and give us the direction of the RA for XXLA and were looking for a XX la Star. I beleive that limits it down a bit as there is a small category of XX stars that can be la. Literally giant stars. Edit: some things say la is dwarf... I swore there was a version where la was a supergiant. Maybe that was the XX part.
+
+The Analysis of Starlight
+First published in 1986, this is the story of the analysis of starlight by astronomical spectroscopy. Beginning with Joseph Fraunhofer's discovery of spectral lines in the early nineteenth century, this new edition continues the story through to the year 2000. In addition to the key discoveries...
+books.google.com
+
+Group XXII are wolf rayet but there is something about group I? Not sure if it means group I or group XXI. I think it means group XXI. I-XX are normal stars I think. And there are supposed to be a few of bigger/unusual stars in XX as well.
+
+Class L
+
+
+Artist's impression of an L-dwarf
+
+Class L dwarfs get their designation because they are cooler than M stars and L is the remaining letter alphabetically closest to M. Some of these objects have masses large enough to support hydrogen fusion and are therefore stars, but most are of substellar mass and are therefore brown dwarfs. They are a very dark red in color and brightest in infrared. Their atmosphere is cool enough to allow metal hydrides and alkali metals to be prominent in their spectra.[78][79][80]
+
+Due to low surface gravity in giant stars, - and -bearing condensates never form. Thus, L-type stars larger than dwarfs can never form in an isolated environment. However, it may be possible for these L-type supergiants to form through stellar collisions, an example of which is while in the height of its eruption.
+Click to expand...
+
+Is it possible this is where certain metals in game come from? Like that stuff the thargoids produce or are always attacking for? One of the things mentions is ammonia.
+
+There is also a mention of R and N being a classification for carbon stars.
+
+Class C: carbon stars
+Main article: Carbon star
+
+
+
+Image of the carbon star R Sculptoris and its striking spiral structure
+
+Originally classified as R and N stars, these are also known as carbon stars. These are red giants, near the end of their lives, in which there is an excess of carbon in the atmosphere. The old R and N classes ran parallel to the normal classification system from roughly mid G to late M. These have more recently been remapped into a unified carbon classifier C with N0 starting at roughly C6. Another subset of cool carbon stars are the C-J type stars, which are characterized by the strong presence of molecules of in addition to those of . A few main-sequence carbon stars are known, but the overwhelming majority of known carbon stars are giants or supergiants. There are several subclasses:
+
+
+Click to expand...
+Maybe a C-N carbon star within the range of XX?
+
+Plus this:
+
+Class C: carbon stars
+Main article: Carbon star
+
+
+
+Image of the carbon star R Sculptoris and its striking spiral structure
+
+Stellar kinematics - Wikipedia
+en.wikipedia.org
+Are rogue and runnaway stars the same thing? Found this in relation to the jewel box system.
+Stellar classification - Wikipedia
+en.wikipedia.org
+It says jewel box has a lot of B stars.
+
+Edit: One famous L star is V838 Monocerotis. Has anyone been there yet or found it? I can't find reference to it.
+
+Due to low surface gravity in giant stars, TiO- and VO-bearing condensates never form. Thus, L-type stars larger than dwarfs can never form in an isolated environment. However, it may be possible for these L-type supergiants to form through stellar collisions, an example of which is V838 Monocerotis while in the height of its luminous red nova eruption.
+
+Apparently someone has found it. I think. https://forums.frontier.co.uk/threads/welcome-to-v838-monocerotis.101168/
+
+It apparently has a giant gas dwarf with rings and 8 planets around it. Is it possible this is TDW's location?! I can't find much or any reference to it.
+
+Source: https://www.reddit.com/r/EliteDangerous/comments/2r2hi0/has_anyone_seen_or_been_to_v838/
+
+
+This says it's 20,000ly and the 22 delta system is only a few hundred light years away?! Edit: Nothing interesting at 22 Delta from what I can tell. but is it really V838?
+
+These two gas clusters or whatever are closer than they appear. I though andromeda galaxy was the closest. On our map they are almost right next door though and andromeda is very far away in comparison. Maybe it's just the closest spiral galaxy.
+
+Source: https://imgur.com/a/UiCuiCl
+This is also a bit odd:
+Source: https://imgur.com/a/fv1ISDA
+Last edited: Mar 4, 2020
+Reactions:
+Dr. Lexus, [PS4 Pro - PC] earthtone99, John Stoutbeard and 5 others

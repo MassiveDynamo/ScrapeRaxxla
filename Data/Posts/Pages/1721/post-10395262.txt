@@ -1,0 +1,23 @@
+Ian Doncaster
+Jul 3, 2024
+#34,408
+CMDRCorrMorningstarFelian said:
+The only time I have seen 0 population figures outside or lore important minor faction (e.g. Achilles Corporation in Thule*) is the case of prison systems. It doesn't seem based on stations because in some systems like Fomalhaut have insanely low population figures for the amount of stations and settlements.
+Stations don't necessarily have to have particularly high populations - especially not hand-placed ones. Fomalhaut is particularly impressive for the number of low-population stations it has ... but if you look at the station markets, the economy size is also tiny: Cooke Station has just 636t of Hydrogen Fuel [1] available, which is lower than most Odyssey settlements which are themselves smaller than almost all normal stations (~1200 people each, based on the population changes observed with the Odyssey release).
+
+Jaques - before he went off to Colonia - was flying an Orbis with 75 population, after all.
+
+0 population for a system that is otherwise showing signs of being inhabited, and especially if it has minor faction presence, yes, that's very rare and unusual and needs more investigation. ("No stations" being an obvious proximate explanation, if not really answering the question)
+
+
+0 population for a faction on Inara (again, this is just a metric Inara has made up, not something directly observed from in-game data) ... picking a random LHS system:
+LHS 1071 - star system | Elite:Dangerous | INARA
+The companion site for Elite:Dangerous with the game database, market data, trade routes, outfitting, engineers, blueprints, crafting, Thargoid war, squadrons, logbooks, galleries, galaxy information and much more...
+inara.cz
+...all five native factions have no "residents" on Inara because nearby player-supported factions have crushed them all out of system control. I could get the same results in a very substantial fraction of systems.
+
+
+
+[1] The most reliable way to make a guess at station population is indirectly via Hydrogen Fuel amounts, because it has very low variance from other causes. Doing that for all stations in a system tends to give an answer within a few percent of the total system population for non-anomalous systems.
+Reactions:
+Naaman Aram and CMDRCorrMorningstarFelian

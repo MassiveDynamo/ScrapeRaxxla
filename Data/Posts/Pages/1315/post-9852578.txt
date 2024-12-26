@@ -1,0 +1,7 @@
+Macros Black
+May 31, 2022
+#26,286
+Think Col 70 Sector is locked off; there were rumors about a Wreaken construction site and a dead body in Col 70 Sector, see https://www.edsm.net/en/system/id/2136479/name/Col+70+Sector+PY-Q+d5-16.
+
+The only way I know of to examine the sector is to use the Next button (in Horizons) to if all the systems in Col 70 Sector are permit locked (by a very patient CMDR...)
+Last edited: May 31, 2022

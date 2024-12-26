@@ -1,0 +1,13 @@
+Han_Zen
+Aug 7, 2019
+#10,318
+A few additions to the structure of the Lave cluster.
+
+Lave - Diso line runs exactly east / west, on Z = 70.75
+Leesti - Riedquat line runs parallel to the RA20h plane/line, with X/Z = -1/0.384
+Reorte - Lave also runs north / south
+
+Here is a plot of the old worlds, with labels and a few distances.
+SPOILER
+Reactions:
+CMDR Josky, simulacrae and PeteACarter

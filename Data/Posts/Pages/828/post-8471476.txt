@@ -1,0 +1,22 @@
+RaxxlaHunter
+R
+May 21, 2020
+#16,541
+New to the Raxxla hunt, but just looking at the codex entry, the key bits of information I took away are:
+
+1. Known about since at least 2296.
+The timeline here gives pretty specific info about the extent of human colonisation at that point, with Achenar seeming to be most recently colonised. Achenar to Sol is roughly 150 light years, so it's not unreasonable to assume Raxxla won't be much further than say 150 ly in any direction from sol.
+
+2. The title 'princess astrophel and the Spiralling stars' is possibly a hint.
+Astrophel translates as starlover, and spiralling stars are a specific type of binary system involving a wolf rayet star and a satellite star that spirals around it.
+
+It seems to me that we should be looking closely at systems with wolf rayet stars with an accompanying binary within 150 light years of sol.
+
+Using the star map I found lawd 26, which seems like an interesting candidate only 26 ly from sol - although the wolf rayet star orbits a white dwarf star, so I'm not sure it meets the criteria for a spiralling star.
+
+I'm not sure how extensive the list on the site is, but the next closest is Hip 89535, which is 280 ly away but with 2 brown dwarfs in orbit. A bit outside the original target search area, but it would fit the bill better as an unknown location than one so close to sol.
+
+Could be some interesting candidates to investigate for anybody in the area with time to spare.
+Last edited: May 21, 2020
+Reactions:
+Machina Ergo Sum, [PS4 Pro - PC] earthtone99, Jaymundo87 and 3 others

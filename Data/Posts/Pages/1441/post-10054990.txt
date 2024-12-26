@@ -1,0 +1,22 @@
+John Stoutbeard
+Jan 8, 2023
+#28,815
+Jorki Rasalas said:
+But I seem to recall that DB is supposed to have said anyone can find it if they honk enough, which if true (I’ve never found a source reference for that) might mitigate against a complex sequence of conditions
+Keep in mind that was back in the days when we only had the ADS (Advanced Discovery Scanners). Now we have the FSS.
+Back then the USS was personal, per commander instance, Not shared. You had to fly to discover them. Now the USSs are shared and detectable with the FSS.
+Things have changed. Instead we have all these new mechanics from Horizons & Odyssey.
+
+Jorki Rasalas said:
+the location may therefore be found by a “fairly simple” interpretation based on the Codex information, but is obfuscated by a RNG scan mechanism
+I tend to agree with you, but I also suspect since things have changed I no longer believe we can 'just fly to it' anymore. Again because of the drastic changes in game mechanics since 2015. But there are still fairly 'easy' methods.
+My question is; 'Is finding Raxxla compatible with purely Horizons and, do we need Odyssey to get an advantage getting more advanced clues?'
+An example:
+In Horizons you would get a Inbox message when scanning a surface wreck Data-core - aka Jamesson Cobra.
+In Odessey, these messages as gone away when scanning with the SRV. instead we have new 'datapanels' we can scan on foot. Aka see 'down satellites' wrecks, they have new datapanels to scan on foot.
+It brings the question; With updated game-engine, to get access to Raxxla or get access to new personal clues - do we need to use newer mechanics?
+I still believe PF permission (normal mechanics) is one thing that is used somewhere. (Shinrarta Dezhra, Sirius etc).
+But I also suspect that these newer mechanics bring new opportunities to get more hints.
+
+I don't think it is required to have Odyssey to FIND Raxxla. Horizons should be enough since it's available to everyone now.
+Last edited: Jan 8, 2023

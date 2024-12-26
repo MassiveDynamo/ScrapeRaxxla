@@ -1,0 +1,11 @@
+[Diplomacy] Carnegie
+Sep 17, 2019
+#12,345
+CmdrMcGreen said:
+Ah, I missed that. So this area has been scanned and mapped too, I guess.
+
+There are a number of stars that are below the -10,000 LY point at which the Galaxy map stops them being selectable - generally due to them being incorrectly positioned. They're not 'secret' just misplaced (search for Beta Phoenicis, which should be under 200 LY from Sol), and subsequently unreachable.
+
+In the case of the PSR cluster FDev teleported a player there simply to shoot a video. Obviously this wouldn't be the case if there was actually anything significant about those stars. I expect the player had to suicide home anyway.
+Reactions:
+Han_Zen, PeteACarter and [PS4] Filthymick420

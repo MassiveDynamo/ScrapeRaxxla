@@ -1,0 +1,32 @@
+simulacrae
+Jul 26, 2024
+#34,540
+Rochester said:
+So in game these said Otherworlds are not in the pendant globe, but are outside of it and technically from a Miltonian perspective - in Hell. Is this actually an indication in game of the true shape of the authors cosmological model, or is it an academic misinterpretation by the in game author?
+
+I think personally this is the true shape of the cosmology, and it is not wholly Miltonian. I speculate the Lost Realms / Otherworlds exist upon an axis, at the base of which grows the tree of Yggdrasil (very Celtic). Technically upon an area denoted in Norse myth as the edge of the world.
+
+The underworld exists in the lower hemisphere, and is made up of all the fallen ‘lower’ Older gods, guardians of the dead and underworld. Above it, a zone of ‘Storm gods’ Older gods or creators gods (similar to Milton’s Chaos - womb of nature); above that the Empyrean, the seat of the Devine.
+
+The whole cosmology I speculate is upon a shifted axis and that internally various mythologies are laid out and follow similar alignments.
+Click to expand...
+
+It is a strange model - I agree the ThunderGods as well as the Nature Goddess seems to form the upper realm of systems in the bubble - somewhat between Sol and Alioth.
+
+As far as the "Underworld" I would argue that is shaped by Holdstocks views - It contains system names mostly which constitute Utopias, Hells and Heavens. He also brought alot of his deeply personal emotions into his work. "The Parents Grief, the Lovers Woe" I suspect speak to some of that. That is why his magical lost place is filled with wonder and horror.
+
+As to the Axis - I think it is fairly straight forward - the Axis of the three major powers Alioth -Sol - Achenar. The Axis of the bubble itself. But what is the Axis outside of the Bubble ?
+Will try to get map out this weekend
+
+El Saico said:
+Once again I go to Mark Moxon's Elite source code website to see where that Seed comes into play...
+They bootstrap the entire universe as the initial values for system 0 in galaxy 0, and from then on the game's PRNG and procedural algorithms run wild.
+
+Another Mythago
+
+El Saico said:
+The Stellar Forge equivalent must be known only to their backend team - unless they publicized it somewhere. Or maybe, with some hope, the good Dr. Kay Ross remembers it.
+
+Just go to one of the terminals in the Detention Center cells
+Reactions:
+Rochester

@@ -1,0 +1,11 @@
+CMDR Davanix
+Feb 22, 2021
+#21,368
+Vektorboson said:
+No, that's got nothing to do with the servers. I'm talking about the physics which are executed on your computer. While flying in supercruise. The servers don't simulate you flying in a system.
+
+You will get lag spikes in supercruise while network issues happen as even though its running locally it still needs a constant network connection through peer to peer to travel and hold your location, like every single peer to peer fully online game.
+
+to be honest its just become a raging joke now, if you find something to work towards fair enough but now your just adding hypothetical nonsense to the thread dude lol
+Reactions:
+[PS4] Filthymick420 and Vetinari

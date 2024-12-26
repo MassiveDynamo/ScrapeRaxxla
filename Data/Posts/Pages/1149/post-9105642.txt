@@ -1,0 +1,15 @@
+Spaceman Spiff
+Apr 20, 2021
+#22,962
+clavain said:
+Sol ...... and see if I can play hide and seek with asteroids for a bit.
+I cannot stress enough my opinion that "dropping in" on the asteroids is futile.
+The math, in case anyone missed it in my post:
+Rough area of the asteroid field in game, in only 2 dimensions: 1,537,056,529,281 km squared
+Assuming the belt is only 30km thick, the rough space occupied by the asteroid field in game: 46,111,695,878,430 km cubed
+Breaking it down into 30km x 30km voxels (a rather large but still sensible area to search each time one drops into "real space"): 1,707,840,588 voxels (1 in 1,707,840,588)
+For comparison, the odds of winning the Lotto Max jackpot are: 1 in 33,294,800.
+
+I mean, I don't have an issue with people checking as long as they know what they're up against... I just feel like there is a good amount of CMDRs out there who think it's going to work one day, and that makes me sad... I see that as time and energy better used to figuring out whatever puzzle we still need to solve
+Reactions:
+TrillClinton, clavain, Rochester and 2 others

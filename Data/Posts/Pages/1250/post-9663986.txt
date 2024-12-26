@@ -1,0 +1,17 @@
+CMDR Davanix
+Dec 18, 2021
+#24,986
+Jorki Rasalas said:
+Interesting. Ive got all star classes enabled but nothing shows in or anywhere near the cursor when I search for HD 112028. The cursor stops over empty space! And that space is (visually) only around 6ly from current location but nothing shows in the nav list at that distance.
+
+Next time I log in I’ll have a look for your Struve 1694.
+You will find Struve 1694 as a seperate system also within 90ly of eachother, HD 112028 is Struve 1694 B which is also the second star of Struve 1694, Most likely something went wrong in the creation of the system making it the working jumpable one and this Struve 1694 B which is an error system and should only be the second binary star, when viewing the error system you will notice the star class is also set as "loading please wait" but the star class and system name are correct for the second star of the non error system
+
+
+
+
+HD 112028 - Wikipedia
+en.wikipedia.org
+Last edited: Dec 18, 2021
+Reactions:
+Adel and Han_Zen

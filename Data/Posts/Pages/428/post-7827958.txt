@@ -1,0 +1,11 @@
+Jorki Rasalas
+Jun 2, 2019
+#8,542
+AzoreanOutkast said:
+Tempted to try it out, since im just at the edge of such said zones, mapping the systems around it, so i could easily stear my ship in the direction after i passed the last planet of the system im in and let the ship fly towards the closest star that is in the permit locked area to see if it actually get there or gets blown up, diverted elsewhere or stopped dead in space...
+
+Since i didnt saw anything about it here on the forums im left wondering if it has been tried and what results came out of it.
+
+Travelling by SC from one system towards another has been tried numerous times in-game by various people. Nothing happens because if reach to the point where the second system should be you’ll find it won’t exist. In ED a system is “instantiated” during the “hyperspace jump” . I’m sure you can google ED instances/instantiation for more details
+Reactions:
+[PS4] Filthymick420, Count dEstard and Marco Santos

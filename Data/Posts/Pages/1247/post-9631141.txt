@@ -1,0 +1,22 @@
+Jorki Rasalas
+Dec 1, 2021
+#24,927
+Han_Zen said:
+The old ADS scanned the entire system for bodies and stations. It did not detect signal sources. We had to be within range of those.
+
+FD are of course free to turn of the scannability on any object in the game. Having one planet in the game that does not show on the fss because it is 'obfuscated', is no problem.
+If the object has a BodyID, it's a bit more tricky to hide it. It will show as missing, in the logs. Comets does that to, so they will act as camouflage. If the outermost body in the system is the one that is hidden, there is no way to detect it.
+
+I suspect that the comets are invisible, because FD does not have a satisfactory implementation of them yet. I think they want them to look cool, have a tail and be visible in SC. I hope they get it done, because there seem to be a lot of them. I suspect they are in the proc. gen. systems, as well.
+
+If a system has a few unscanned bodies it can be because the system has been updated. This happened several times in the Pleiades, when things started to happen out there.
+
+The FD servers with downloadable objects is relatively new and is in limited use. For years the entire game was local, with only a few stats being sent to the servers. If Raxxla hasn't been drastically changed, it lives in your computer.
+Click to expand...
+If that last bit is correct then why hasnt it been datamined by now?
+I’m not advocating that (quite the contrary!) but somebody on the web would have been unscrupulous enough to do that and broadcast the result by now.
+
+Edit: I remember flying around the FRift, looking for the surface sites. The exploit to detect one (other than a BSOD) was to look at the amount of data being downloaded from the servers and the disc datarate (didnt work if you had an SSD!), so I’d say Raxxla could be downloaded on trigger from the Omphalos.
+Last edited: Dec 1, 2021
+Reactions:
+Adel

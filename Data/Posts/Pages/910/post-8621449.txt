@@ -1,0 +1,11 @@
+Han_Zen
+Jul 30, 2020
+#18,181
+Jorki Rasalas said:
+You could try looking through the FD Dev Diary YT, and think there used to be “design forum” thread or similar; before my time but Han_Zen has a long memory.
+There wasn’t a lot of info from FD at release. Players were guessing If mechanics were permanent or placeholders.
+The current situation is best documented in the Player Journal documentation:http://hosting.zaonce.net/community/journal/v25/Journal-Manual-v25.pdf
+
+In there you can basically see what exists or may exist in the game.
+Reactions:
+[PS4] Filthymick420, PeteACarter, Hanerib and 1 other person

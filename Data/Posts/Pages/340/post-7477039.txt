@@ -1,0 +1,87 @@
+Xaintly
+Mar 18, 2019
+#6,790
+Here's a thought. "The search for Raxxla has been compared to the search for Atlantis, El Dorado and the Kingdom of Prester John".
+
+- Atlantis is a system
+- El Dorado is not a system
+- Prester John is not a system (closest match: Preston's Star)
+
+Dorado, however IS a whole constellation in the southern hemisphere.
+The origin of the name is not related to 'El Dorado', the lost city of gold, but still... nearly all of it's stars are in Elite Dangerous.
+It was "discovered" (by white people, at least) in 1592 or so.
+Isn't that right around the time that godawful poem Astrophel and Stella was written (1580)?
+I doubt our homeboy Pip Sydney was aware of it though, what with his head being so far up a dark region of its own.
+
+Another fun fact about Dorado; It's the star region containing the Large Magellanic Cloud .
+
+Anything interesting about the LMC? Oh, not much, except...
+It's one of the Satellite Galaxies of the Milky Way
+It's classified as a Magellanic Spiral galaxy; the only spiral galaxy out of all the Milky Way satellites
+It's the 4th-largest galaxy in our local group, behind Andromeda, the Milky Way and Triangulum
+It's the biggest thing visible in the skybox/galaxy map in Elite
+It contains one of the most luminous stars known... S Doradus
+S Doradus is in M119, an unusual spiral formation nebula within the LMC
+Some of the stars in the LMC are actually closer to Sol than Sag A* (though there's no way to get there across the void).
+
+Dorado is represented as a Dolphinfish (Dorado is the Portuguese word for such a fish), and also (incorrectly) as a swordfish or goldfish.
+If it were to have a "brow", that'd probaby be Zeta Doradus (I checked it, no planets), but calling a fish the mother of all galaxies is kind of a stretch.
+I guess you could imagine the fish as a female, "laying" the eggs of the LMC if you like thinking about that kind of imagery.
+
+Most of Dorado's stars are close to the bubble. The rest are 160k ly away, outside the galaxy.
+Yes, as soon as this idea occurred to me I made a beeline straight for 'Lambda Doradus' ("L Dorado") but I didn't find anything.
+
+Here's a list of Dorado's stars, from brightest to dimmest:
+I had a look at some of these systems already.
+
+Alpha Doradus > Checked, 4 stars, no planets, USS
+Beta Doradus > F White Supergiant
+Gamma Doradus > Checked, A & B very close, have heat sink ready on entering system, already mapped
+Delta Doradus > Empire A9
+36 Doradus > (HD 40409) Orange Giant Empire K2
+Zeta Doradus > Checked, F9, no planets / Almost on top of Benoit, fully explored
+Theta Doradus > K2 M4
+Eta-2 Doradus > Checked, M2 Red Giant, USS, all 4 already mapped, no terraformable, no gas giants
+Nu Doradus > B84
+Epsilon Doradus > B6v
+Lambda Doradus -> Checked, G star, 9 planets, 2 moons, 1 terraformable, no gas giants
+WZ Doradus > ?? not found
+Kappa Doradus > Empire A5, F9
+28 Doradus > (HD 37292) G8, M5 VA, lots
+Pi-2 Doradus > G8, M3
+R Doradus > Checked, Colonized [empire] Red Giant star, no gas giants, 2 installations
+Pi-1 Doradus > K5
+Eta-1 Doradus > A0 V, F1 VB
+HIP 25482 > (HD 36584) Checked, M9 VI, F0 IV, K9, no planets
+HIP 20109 > (HD 27604) Empire F7
+HR 1597 > (HD 31746) Empire F5, G9
+HR 1882 > (HD 36876) F0
+Hotas > (HD 28255) G4, G6, 0 population
+HR 1960 > ?? not found
+HR 2408 > (HD 46730) F0, M0, K6
+HR 1936 > (HD 37501) G6
+HR 2073 > (HD 39963) G8, 675 ly
+HR 1598 > (HD 31754) M0, 744 ly
+HR 1227 > (HD 24863) A4
+HR 1540 > (HD 30610) Checked, K0 (Giant), M8, USS, no terraformable, no gas giants
+XY Doradus > ?? not found
+XZ Doradus > ?? not found
+AB Doradus > ?? not found
+HIP 20606 > (HD 28254) G5, planet
+HIP 21850 > (HD 30177) G8, planet
+WASP-62 > F7, planet, 1100 ly
+RW Doradus > K5, K5
+Ptah > (Gliese 163, HIP 19394) Checked, Federation, 1 Gas Giant (no moons), no terraformable, already mapped
+BB Doradus > (Multiple names, all not found)
+S Doradus > (Multiple names, in N119 Spiral Nebula 160k ly away)
+AA Doradus > ?? not found
+
+Downside to this theory: I only found a couple Red Dwarf/Red Giant stars in the list.
+I checked both, and neither were very dark; not good candidates for the dark wheel codex picture.
+
+Here's another weird tidbit I noticed when I went to sell my exploration data at Delphi.
+The Oracle has a lot of facilities, but no Universal Cartographics. Universal Cartographics used to be Omphalos Infotech.
+So there is no Omphalos at the Oracle of Delphi. You can sell at Donar's Oak in the same system though.
+Last edited: Mar 18, 2019
+Reactions:
+Ton618 666 and Spaceman Si

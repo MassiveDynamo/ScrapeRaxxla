@@ -1,0 +1,68 @@
+Louis Calvert
+Nov 13, 2023
+#31,984
+Emperor said:
+"He keeps reciting the same little speech: “Xeno-achaeology has moved on. The days of exploring the outer reaches, only occasionally finding something of value, are behind us. I have found the key.”
+
+But I’m not an archaeologist. Professor Melville is just a means to an end. I signed up for the money."
+
+The Cete | Canonn Research Group
+An abandoned megaship named The Cete is in orbit of the planet Col 173 Sector LJ-F c12-0 A 3. A series of six Ship Log Uplink points can be located along the hull. Deploy your ships hardpoints and use the onboard Data Link Scanner within 200m of each post to scan them and retrieve the logs of...
+
+Did we ever find out what the key was?
+Good question, AFAIK it was giving us the hint that led to the newer sites? The galnet article that accompanied it said:
+Melville thinks the Synuefe XR-H D11-102 system represents some kind of end point or ‘last colony’. Beyond that, the sites appear in clusters, with the number of sites in each cluster getting increasingly larger. We discovered a cluster of sites only a few days ago before finding a location with an entirely unique layout. So far we’ve found three sites in each of the following systems: Synuefe LY-I b42-2, Synuefe NL-N c23-4 and Synuefe TP-F b44-0.
+
+The placement of the Cete is very interesting IMO, it seems to suggest that either it jumped through the Regor sector, or around it, but I'm not sure why:
+
+
+I've made this graphic of the Guardian data from Canonn's 3D maps. As with all things, nuances are lost when making a diagram of data, so reference the original, but the diagram is a quick & dirty visual guide.
+
+It's extremely clear to see (on the orignal data) that the big pointy spike heading towards Sol-ways is by far the most dense, the smaller spikes are very sparse by comparison. The Regor sector is clearly an 'origin' point of the Guardian Expansion. Along the largest spike there's clearly a layering addition of the Structures and later the Beacons, assuming that it physically represents a chronological progression - as Ram Tah and Melville suggest.
+
+SPOILER: GUARDIAN DATA EXTRACTS:
+
+
+
+
+
+
+
+
+
+
+
+The big 'expansion path' really does point almost exactly at Sol, it's even more clear on the 3D maps where you can rotate it around and very clearly see it's like an arrow (of course it might not be directly "at" Sol, but it's certainly running very, very close).
+
+Given proximity, compatibility between Guardian and Human tech and biological needs, and how similar in all major ways Guardians and Humans are, and given this arrangement of ruins, I think this really strongly suggests that Humanity may have been at least influenced by the Guardians.
+
+It's certainly entirely possible that the Martian artefact could be Guardian, given the proximity and 'directional' travel.
+
+If we assume that the Martian Relic is Guardian, then it means that very, very early on in Humanities space-expansion we knew of technological sophisticated ancient aliens, and the timeline (as we've discussed previously) for the discovery of the Martian Relic does come a few years earlier than the first recorded mention of Raxxla. We've discussed the idea that the Relic itself may have given hints towards Raxxla, enough to start people searching...
+
+Possible links to Raxxla Coverup (speculation):
+On the Hesperus expedition of 3113 the scientists aboard the Proteus discovered the ancient Thargoid-Guardian battleground, but they were deliberately heading that way, out towards Barnard's Loop. They were apparently following readings from FTL probes:
+
+Dr Farrell insisted on investigating readings sent back by one of Azimuth’s deep-space probes. She believed that Pharmasapien would focus on all the probes they’d sent to the California Nebula, but that we might find something interesting in the opposite direction.
+
+Azimuth was powerful and wealthy, yet they sent two ships considerably far out of the bubble in an era where going that far was very difficult - chasing ghosts on the offchance they might find some alien tech "Azimuth wants to be the first corporation selling alien weaponry, which will make them bigger than Sirius.".
+
+FTL Probes capable of reporting on the Thargoid-Guardian battle were being used in the early 3100s. We know from the Lore that FTL probes were used right from the very, very start of human expansion, Tau Ceti was colonised because FTL probes showed a human-compatible world there - presumably some probes at some point must have picked up the relatively close Guardian ruins, which are very nearly on our doorstep. Going all the way to the Regor Sector, presumably the most dense collection of Guardian worlds is only about 1000ly from Sol.
+
+Yet, apparently not, Guardian ruins weren't officially found until just a few years back.
+
+Given proximity to us, and the fact we categorically know that probe-based detection at very long ranges was possible, and that explorers have always been pushing out the boundaries of exploration, I wonder if this is direct evidence for:
+
+Raxxla also plays a role in several conspiracy theories, most of which attest that it has already been discovered by some kind of sinister cabal (or sole tyrant), which has leveraged its power to establish covert dominance over humanity.
+
+It would presumably take a very powerful group retaining that power over a thousand years to successfully conceal/remove/discredit every discovery of the Guardian ruins by every one of the scattered Corporations and random explorers that push out beyond the Frontier. As the Frontier expanded over time, and spaceship tech got cheaper, easier and more prevalent, it must have required an incredible levels of power and control to keep the Guardians secret.
+
+I remember that at the time of Halsey's recovery there was speculation in the community that her "visions" were actually made up by her to 'leak' the Guardian secret, or her damaged mind confused secret reports of the extinct aliens with reality - and of course, she was Federal President so presumably would have had access to the Martian Relic info, and generally all the secrets of the Federation.
+
+Why keep Guardians secret though?
+Maybe it was necessary to keep the Guardian ruins secret to preserve the secret of this "power" to "dominate humanity"? Maybe that secret is in the Regor sector and until Permit Locks it simply wasn't possible to keep people out of there, now, of course, the only people that can get in there are those not using FSD or possessing the permits?
+
+I would say it's obviously to retain technological advantage, but it seems like that wasn't leveraged, since we've used Guardian tech to improve our tech in the last few years...?
+Last edited: Nov 13, 2023
+Reactions:
+Han_Zen, CMDRCorrMorningstarFelian, Emperor and 3 others

@@ -1,0 +1,19 @@
+Louis Calvert
+Nov 25, 2017
+#1,157
+Thatchinho said:
+Ok, so a couple of things here.
+
+Jason Ryder didn't find Raxxla, he only found evidence for it's existence.
+
+Jump range isn't limited to 7ly jump range. Full post with screenshots below, but in summary, it's been possible to cover ranges greater than 7ly since the very early days of hyperspace:
+
+https://forums.frontier.co.uk/showt...-Discussions?p=6159264&viewfull=1#post6159264
+
+Possibly this was done by doing lots of sub 0.5ly jumps, but that doesn't really matter, the principle is still the same.
+
+We maybe don't even need to speculate. there's now at least one in-game way to bust whether 7ly was a max limit on a 3125-era cobra.
+
+Jameson's Cobra that's just been found - all you need to do is chart a course from Lave to the crash site, if you can't make that with 7ly jumps, you know the jump range was definitely more. If you can make it, well you know it's at least plausible that 7ly was the max range for a cobra.
+
+Personally I don't think it matters. Ryder's ship didn't use the Quirium drive (or, at the very least, not the later version used in the game), so even if you take 100% of everything in TDW as fact (which is definitely isn't), and even if you take everything in Elite 1 as fact (which it definitely isn't), then the one still doesn't relate to the other, and neither relate to the current hunt for Raxxla. We have no data on the jump-range of any early hyperdrive system, sadly.

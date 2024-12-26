@@ -1,0 +1,13 @@
+Ian Doncaster
+Dec 26, 2023
+#32,754
+CMDRblackfearless said:
+Hi guys i found a few bugs on this system... someting dosent seem right to me:
+1-bug: was it only me that notice that all the passanger mission givers only offer around 300k credit to go to colonia? (to me this feels like a bug) ....but i see other options as well:
+This is mostly intended behaviour (and documented, in various ancient patch notes and livestreams, too)
+
+Inter-bubble missions only appear in Tourism economy stations - which are relatively rare in the bubble. Similarly if you're around Colonia, the Tourism stations there will have some missions to go to places in the bubble. You can also get data courier and sometimes long-range cargo missions on the non-passenger board.
+
+There may well be a bit of a bug in that the pay for the passenger and cargo missions is less than for a short-range one (the data courier ones aren't too bad, though definitely balanced around taking a full stack of 20)
+Reactions:
+Louis Calvert and Macros Black

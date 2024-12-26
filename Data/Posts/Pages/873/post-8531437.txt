@@ -1,0 +1,17 @@
+Jorki Rasalas
+Jun 15, 2020
+#17,453
+Eeka said:
+I cant say, i'm just proposing a hypothesis.
+
+Everywhere i looked people seem to be satisfied with "DS/FSS has unlimited range after 3.3" but where is the confirmation for this? If it had unlimited range i could scan nearby systems as well (i know they are not loaded in the game engine thus couldnt be scanned, but the argument persists). If it has a limited wide range, what's beyond that? Can anyone prove it's nothing?
+
+I think it's an important point to bring because it's an obvious limitation, since we cant detect Raxxla without these tools
+
+Well, you have a testable hypothesis there!
+FSD to a new system, travel in SC out to 1ly (around 50 minutes I think), then throttle back and try FSS to see what you detect. I suspect you’ll get the system bodies. Choose an uninhabited system that you haven’t previously visited, with a lot of bodies, say 40 or more (ask around or try EDSM) just to form a good test. Good luck!
+
+And you’re assuming that we can’t detect Raxxla without these tools (N.B. Codex entry “some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.”). There’s nothing to support that assumption, and the FSS only came in quite recently whereas Raxxla has been in-game from gamma release (I’m assuming it has always been detectable and locatable!)
+Last edited: Jun 15, 2020
+Reactions:
+Eeka, PeteACarter and [PS4] Filthymick420

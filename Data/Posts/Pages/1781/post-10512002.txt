@@ -1,0 +1,30 @@
+Jorki Rasalas
+Dec 17, 2024
+#35,609
+Ian Doncaster said:
+There is a possible explanation here that I don't want to rule out just yet... some later work by djadjok established a few extra rules on Tip-off sites: specifically, you get the furthest active one in the bubble you're currently in that you haven't seen recently. (i.e. my point 4 in that old post was largely wrong)
+
+So the clue sequence works like this:
+- Pareco is weird (six stations in a ring, aligned to Polaris [1]) - I agree that some of the arguments to line the names up with the Dark Wheel toast are tenuous, but the whole "ring of stations around a dark object" can do for a subtle Dark Wheel clue on its own, especially since we didn't even find out what the toast was for years.
+- HIP 12248 is certainly a long way from Pareco, so would be fairly well favoured as its tip-off site.
+- because of the "only once per cycle" rule you can probably knock HIP 12248 out of your tip-off cycles semi-persistently once you do it
+- It's also one of the "permanent" sites, rather than one on a cycle, so you don't fail to find it 11 weeks in 12 ... and it's probably sufficiently well-positioned to not be masked too much by the temporary ones
+- That specific tip-off site, unique among them, does something special on activation (necessarily, perhaps, only if activated from a tip-off sourced from Pareco)
+- tip-offs are sufficiently unattractive to min-maxers that someone not specifically looking for clues would probably not follow it up, and Pareco pre-SCO would have been an annoying place to look for them even for people like me who like them (so it would be sufficient obfuscation to explain "why has no-one done this before?")
+
+Based on that:
+- I certainly don't think Raxxla itself can be in Pareco
+- the "Mysterious Stranger" of the tip-off matching the "Mysterious Stranger" of the starting letter is of course more of a TDW hint
+- tip-offs didn't get introduced until 2016 which again suggests "TDW" over "Raxxla" as the mystery involved, but is still safely pre-Codex, and tip-offs in general seem like a nice thematic replacement for the old "Dark Wheel" missions for the "discreet test of skill and courage"
+- there's a good chance that having found the tip-off message, Pareco is "done" and the next part of the mystery proceeds elsewhere
+
+...and obviously, TDW don't know where Raxxla is, but even their list of places it isn't seems worth a try!
+
+So ... well, I like tip-offs, I'm getting closer to allied with a bunch of these factions, let's see what happens. It's a more plausible (meta-gaming here) mechanism to conceal and deliver clues than a lot of the game.
+
+
+[1] The alignment to Polaris from Pareco of course means that they're specifically aligned to Earth's equator ... but nevertheless appear to have been deliberately aligned that way.
+Click to expand...
+I'm starting to get the feeling that we should have investigated much more deeply those DB statements about players not playing the game as they were expected and missions are designed to take you around the bubble...
+Reactions:
+Cmdr Walt71, Rochester and Ian Doncaster

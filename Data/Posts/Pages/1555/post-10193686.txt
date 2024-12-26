@@ -1,0 +1,7 @@
+Jorki Rasalas
+Aug 5, 2023
+#31,098
+“This container appears to hold an assorted collection of low-value trinkets, knick-knacks and statuette (AHTW statuette-Grandmort?). Such trinkets are generally used by superstitious pilots to try and win favour with the lady Fortuna. However, these particular knick-knacks have a much more valuable prize hidden within.”
+I checked - Trinkets container has label “NEX0275401977” VESPINE TRANSPORT SYSTEMS, number is same as SAP8 container (goids ignore both)
+Reactions:
+simulacrae, Edelgard von Rhein, CMDRCorrMorningstarFelian and 1 other person

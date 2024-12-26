@@ -1,0 +1,20 @@
+yelboc
+Aug 21, 2020
+#18,481
+Jorki Rasalas said:
+Mmm, not really, that’s what it looks like & it is on the way to Heart & Soul. The strung out line of bright stars is probably due to the inaccuracy of astronomical measurements of distance & there are a few examples of that in E D where real astronomical data has been imported into the Stella Forge.The Galactic Mapping project is, as I understand, a player group with no links to FD, although there is nothing to prevent FD making use of any their name attributions.
+
+I am more intrigued by the incorrect positioning of the Broken Heart nebula IC 1805, which is a very visible group of stars also on the way to the Heart nebula, whereas in reality it should be within the Heart neb since IRL those stars are dissipating the gas to produce the hole in the Heart. This was at the heart (pun intended) of one of my earlier hypotheses (reported in this thread) and I spent a long time exploring around there. I did find two systems with the same name but different system maps. I also explored the Broken Heart Cluster, which is way back above Barnard’s Loop.
+
+The string of bright stars happens because a particular RL astronomy survey identified a bunch of stars in that angle - the line points to sol as it is a piece of sky surveyed by a telescope fixed to that angle. All the stars have S171-### names - S171 being the Spitzer young star survey in the star catalogue. All the stars have bright O or A stars - interesting bunch of systems if you want multiple black holes and massive blue stars - I did go through them all and others have too - in EDSm its called the siren of the spinward stars, but that's a player description.
+
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net
+'.
+
+There are other examples of such surveys in the game, mostly concetrated about nebulae etc.A list of the Spitzer survey can be seen here:
+
+https://iopscience.iop.org/article/10.1088/0067-0049/184/1/18/pdf (warning - big pdf )
+Reactions:
+[PS4] Filthymick420 and PeteACarter

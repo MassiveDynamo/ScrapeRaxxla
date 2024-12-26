@@ -1,0 +1,42 @@
+Allen Stroud
+Nov 10, 2022
+#27,830
+Louis Calvert said:
+@Allen Stroud I'm sorry to ping you, but you mentioned work you'd done on Hyperdrives originally. I completely understand if you can't/don't want to give us more info , but if you don't have an objection could you give us any more info on the 'order of development'?
+
+Essentially I'm interested in this because of the Galnet Hyperdrive lore (which I think might have been based on your work?) that basically everyone is using as a basis for early FTL travel as defined in Eite Dangerous.
+
+My question is: Is the order of information in that article correct?
+
+(modified quote of the article retaining the structure of info):
+
+
+If you read it top-to-bottom like you would a timeline you end up with:
+
+1) 22nd C. Hyperdrive invented
+2) unknown stuff for ~600 years
+3) 2800 Faraway jump developed, powered by Quirium, consumer access.
+4) Faraway Jump runs for ~300 years (until)
+4) Quirium formula lost, 2b is replacement, FSD replaced 2b.
+
+This is how it's been presented on the and tons of people read it like this, me too for years, but I've just realised, is it to be read differently? Essentially an article summary at the top, then developing the details in subsequent paragraphs, so the information read like this:
+
+1) 22nd C. Faraway Jump Hyperdrive invented, powered by Quirium
+2) ~600 years of development
+3) ships gain access to (now developed, safer) Faraway Jump (~2800)
+4) Faraway Jump runs for another ~300 years (until)
+3) Quirium formula lost, 2b is replacement, FSD replaced 2b.
+
+This reading drastically changes the information on early Hyperdrives!
+
+Is it possible for you to clarify this for us Allen?
+Click to expand...
+That's okay. I think most of this is based on a Michael Brookes edit of a document I originally wrote. It looks accurate. I can check it against the documentation I have, but I'd rather not start doing that too much (see reason below).
+
+I can't recall the final decision on 'Quirium'. The concept of 'Quirium' was one that was intended to be phased out in favour of the Sirius Corporation's monopoly/influence.
+
+In general, I'm reluctant to go into too much detail here as the drafts I have will be pre-edited versions and would be subject to change by Frontier after I had completed the drafting.
+
+With regards to the 2b to current FSD drives. As I mentioned, I will try to reach out to Frontier and resend the last document I wrote about this (and Stardreamer). From that point, it would be up to them to use/tweak/publish/etc. Generally, that's the way I've tried to work with all this.
+Reactions:
+Rochester, CMDRCorrMorningstarFelian and Louis Calvert

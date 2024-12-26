@@ -1,0 +1,218 @@
+alexzk
+A
+Aug 25, 2019
+#11,303
+You can revise...seems ok for me >:
+C++:
+#include <iostream>
+#include <algorithm>
+#include <cmath>
+#include <mutex>
+#include <vector>
+
+#include "spinlock.h"
+#include "strfmt.h"
+
+#define LOCK_GUARD_ON(MUTEX_NAME) std::lock_guard<std::decay<decltype(MUTEX_NAME)>::type> __guard_var##MUTEX_NAME(MUTEX_NAME)
+
+struct Point
+{
+    float x;
+    float y;
+    float z;   
+    Point vectorTo(const Point& end) const
+    {
+        return {end.x-x, end.y-y, end.z-z};
+    }
+    float len() const
+    {
+        return std::sqrt(x * x + y * y + z * z);
+    }
+    Point& operator*(float s)
+    {
+        x *=s;
+        y *=s;
+        z *=s;
+        return *this;
+    }
+    Point& operator+(float s)
+    {
+        x +=s;
+        y +=s;
+        z +=s;
+        return *this;
+    }
+    Point& operator-(float s)
+    {
+        x -=s;
+        y -=s;
+        z -=s;
+        return *this;
+    }
+    friend std::ostream & operator << (std::ostream &out, const Point &c);
+};
+
+struct ErrPoint
+{
+     Point p;
+     float err;
+};
+
+std::ostream & operator << (std::ostream &out, const Point &c)
+{
+    out << "["<<c.x <<"; "<<c.y<<"; "<<c.z<<"]";   
+    return out;
+}
+
+float min(float a, float b, float c)
+{
+    return std::fmin(a, std::fmin(b,c));
+}
+
+float max(float a, float b, float c)
+{
+    return std::fmax(a, std::fmax(b,c));
+}
+
+Point minp(const Point& a, const Point& b, const Point& c)
+{
+    return {min(a.x, b.x, c.x), min(a.y, b.y, c.y), min(a.z, b.z, c.z)};
+}
+
+Point maxp(const Point& a, const Point& b, const Point& c)
+{
+    return {max(a.x, b.x, c.x), max(a.y, b.y, c.y), max(a.z, b.z, c.z)};
+}
+
+Point fromInt(uint64_t x, uint64_t y, uint64_t z, float step,const Point& start)
+{
+    return {x * step + start.x, y * step + start.y, z * step + start.z};
+}
+
+static void hexchar(unsigned char c, unsigned char &hex1, unsigned char &hex2)
+{
+    hex1 = c / 16;
+    hex2 = c % 16;
+    hex1 += hex1 <= 9 ? '0' : 'A' - 10;
+    hex2 += hex2 <= 9 ? '0' : 'A' - 10;
+}
+
+std::string urlencode(const std::string& s)
+{
+    std::vector<char> v;
+    v.reserve(s.size());
+    for (const char c : s)
+    {
+        if ((c >= '0' && c <= '9') ||
+                (c >= 'a' && c <= 'z') ||
+                (c >= 'A' && c <= 'Z') ||
+                c == '-' || c == '_' || c == '.' || c == '!' || c == '~' ||
+                c == '*' || c == '\'' || c == '(' || c == ')')
+            v.push_back(c);
+        else
+            if (c == ' ')
+                v.push_back('+');
+            else
+            {
+                v.push_back('%');
+                unsigned char d1, d2;
+                hexchar(c, d1, d2);
+                v.push_back(d1);
+                v.push_back(d2);
+            }
+    }
+
+    return std::string(v.cbegin(), v.cend());
+}
+
+std::string createEDSMLink(const Point& point)
+{
+    const auto params{stringfmt("x=%0.4f&y=%0.4f&z=%0.4f&radius=20", point.x, point.y, point.z)};
+    return stringfmt("https://www.edsm.net/api-v1/sphere-systems?%s", params);
+}
+
+
+int main()
+{
+const static Point A{4.3125, -1.0625, -27.90625};     
+const static Point B{ -81.78125, -149.4375, -343.375};   
+const static Point C{-2426.84375, 295.03125, -1323.625};
+    
+    const Point start{minp(A, B, C) -500.f};
+    const Point end{  maxp(A, B, C) +500.f};
+    const Point togo{start.vectorTo(end)};
+                                      
+    const float step = 1.f;
+    const float precise = .1f; //~0.00024414 difference = 13.03ly diff between systems, found with 4 & 6 ly precise in db
+    
+    if (start.x > end.x || start.y > end.y || start.z > end.z)
+    {
+        std::cerr << "Failed with ends!!" << std::endl;
+        return 255;
+    }
+    std::cout << "Size to process on each dimension: " << togo << std::endl;
+    spinlock locked_print;
+    
+    const uint64_t xlen = std::ceil(togo.x / step);
+    const uint64_t ylen = std::ceil(togo.y / step);
+    const uint64_t zlen = std::ceil(togo.z / step);
+    
+    std::vector<ErrPoint> result;
+    result.reserve(1000);
+        
+    std::cout << start << end << togo << std::endl;
+    
+    #pragma omp parallel
+    #pragma omp for   
+    for (uint64_t xi = 0; xi < xlen; ++xi)
+    {       
+        for (uint64_t yi = 0; yi < ylen; ++yi)
+        for (uint64_t zi = 0; zi < zlen; ++zi)
+        {
+            const Point N{fromInt(xi, yi, zi, step, start)};
+            
+            const float l1 = N.vectorTo(A).len();
+            const float l2 = N.vectorTo(B).len();
+            const float l3 = N.vectorTo(C).len();
+        
+            const float e1 = std::fabs(l1 - l2);
+            const float e2 = std::fabs(l2 - l3);
+            const float e3 = std::fabs(l3 - l1);
+            const bool a = e1 < precise;
+            const bool b = e2 < precise;
+            const bool c = e3 < precise;
+        
+            if (a && b && c)
+            {
+                LOCK_GUARD_ON(locked_print);
+                result.push_back({N, max(e1, e2, e3)});
+                std::cout << createEDSMLink(result.back().p) << "; max error: " << result.back().err << std::endl;
+                
+            }
+            /*
+            else
+            {
+                if ( (a && b) || (a && c) || (b && c))
+                {
+                    std::cout <<"2 match: " << N <<"; " << l1 <<"; " << l2 << "; "<<l3 << std::endl;
+                }
+            }
+            */
+        }
+    }
+    std::cout << "Sorting results..." << std::endl;
+    std::sort(result.begin(), result.end(), [](const auto& a, const auto& b){
+        return a.err < b.err;
+    });
+    
+    for (const auto& r : result)
+    {
+        std::cout << createEDSMLink(r.p) <<"; max error: " << r.err << std::endl;
+    }
+    
+    std::cout << "End of checks, system name at: https://www.spansh.co.uk/nearest" << std::endl;
+    
+    return 0;                       
+}
+Reactions:
+PeteACarter

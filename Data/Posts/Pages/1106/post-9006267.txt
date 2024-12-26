@@ -1,0 +1,12 @@
+Alexy Zander
+A
+Mar 18, 2021
+#22,120
+Have y'all seen this?
+Possibly off topic but I hadn't seen this mechanic utilized yet.
+Here's a link to the Reddit discussion: Coded Message in Ruined Station? - Advice Please!
+Edit: The series of numbers at the beginning of the message appear to be a portion of the key for the rest of the message. As mentioned in the reddit post, the OP used an A1Z26 cipher to convert the numbers to the letters GAKUTENSO, which corresponds with the key G-KUTENSO--DFHIJLMPQR-W-Y- used to solve the alpha portion of the message, which is "first contact is imminent cmdr ships secured sending the comms channel frequency now tread carefully or noone will trust you". Speculation is he received the message because he had ships in the station that was on fire. But who was it from? What does treading carefully and trust have to do with it? It all seems a little suspect to me.
+Edit 2: It was a player created event for their wing-mates.
+Last edited: Mar 18, 2021
+Reactions:
+selbie, Han_Zen, SergMx and 1 other person

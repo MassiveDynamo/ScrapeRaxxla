@@ -1,0 +1,6 @@
+rOmiLaYu
+Feb 20, 2021
+#21,302
+FrakesAnim said:
+Sounds nice. Fast boot and good range. Ideal for exploring
+The "fast boot" refers to the speed at which the drive powers back up after it powers down. Not how long it takes to charge. It's an easy mistake to make. "Fast boot" engineering is really a niche case for combat pilots who are worried about their ability to flee when their FSD gets sniped. It does add a 15% optimal mass bonus so it does give more range, but it does not increase the speed at which the FSD spools up.

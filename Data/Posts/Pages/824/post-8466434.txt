@@ -1,0 +1,20 @@
+Han_Zen
+May 18, 2020
+#16,469
+rOmiLaYu said:
+The rogue planet theory has been bandied about a good bit. The problem with it, from my perspective, is that I dont think it would work within the game mechanics. As is, you jump into a system and the game creates it. This is all based on stars and their orbiting bodies. If there was truly a "rogue planet," how would the game "draw it" and how would you find it? To my mind the game is billions of little cubes that you can jump into. I dont know that theres a mechanic whereby Stellar Forge can migrate data across those cubes.
+It's a tricky one. Rogue planet is a star type, so it can be either a separate system or a non main star in a regular system.
+
+If it is a separate system, we need to find it in the Galaxy map. There is no filter for that class, so it's quite a challenge to find.
+
+If it's in a star system(passing slowly trough), it would not be gravitationally bound to the main star. It's unlikely to be in the normal plane of the system and it's most likely far out(far out is much bigger than close in). We don't know if it's even displayed in in the system map. There might be lots of rogues in the galaxy, there might be non or just one.
+
+The only thing i have seen in the game, that made me think rogue planet are these 'system map anomalies' that shows up in a few systems:
+
+Zoomed HD screenshot
+
+
+Unzoomed they look like these (bottom left and top right).
+
+Reactions:
+Augusta, PeteACarter, Machina Ergo Sum and 6 others

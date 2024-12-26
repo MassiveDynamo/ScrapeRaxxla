@@ -1,0 +1,12 @@
+{SAS}Stalker
+Jan 24, 2021
+#20,537
+Jorki Rasalas said:
+FD “coding errors” for Sol
+
+1) in Sol’s main asteroid belt between Mars & Jupiter no clusters are directly selectable and are not shown as in every other asteroid belt in-game. The belt is shown as an annulus split into 32 equal sectors, but this is the only system in-game to date with this depiction of an asteroid belt.
+
+Just to update on one point, the segmented representation of the asteroid belt is not unique to sol (I think that's what you mean?). It occurs quite commonly in other systems as well, in the nearby fusang for example.
+Last edited: Jan 24, 2021
+Reactions:
+Rochester, Jorki Rasalas and [PS4] Filthymick420

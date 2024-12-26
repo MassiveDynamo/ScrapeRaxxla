@@ -1,0 +1,39 @@
+Jah'bastah II
+Aug 29, 2018
+#3,316
+Based on my previous post #3310, taking 'utopia' as the 'key', I went ahead and applied decodes in a variety of ciphers (poly-alphabetic, 4 types of vigenère, cipher wheel ("dark wheel"? this one and its reverse are double-starred below)) and these are the strings I came up with:
+
+UTOPIA+RAXXLA DECIPHERMENTS
+=======================
+
+OMCEQA
+Note: Looked promising. My first thought was a system in the omega sector but I couldn't find a system in there starting with designation 'c-' or 'ce'.
+
+USMMEV
+Note: ~550 systems with USM, none with USM M*.
+
+RZVUHV
+Note: ~570 systems with RZV, none with RZV U*.
+
+IAUUWA
+Note: ~450 systems with IA-U, none with IA-U U*.
+
+**OHGFOA
+Note: ~450 systems with OH-G, none with OH-G F*.
+
+**XMFHFA
+Note: ~750 systems with XM-F, none with XM-F H*.
+
+DTRSXA
+Note: Contains 'star' and 'dx' or 'xd'.
+Note: ~290 systems containing DT-R...
+
+XHJIDA
+Note: ~290 systems containing XH-J...
+
+LTLMTA
+Note: ~580 systems containing LT-L...
+
+These could of course be symbolical representations of systems/bodies as we have seen in other discoveries or acronyms. They could all mean nothing at all, that's possible too. Just decided to throw them on here in case someone else spots something. I've lost my inspiration for today. I do want to stress something, because I might not have been clear enough, I strongly believe 'place that isn't a place' is meant to be Utopia. Any clues?
+Reactions:
+Macros Black

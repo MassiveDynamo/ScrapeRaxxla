@@ -1,0 +1,56 @@
+electro
+Jan 9, 2022
+#25,074
+Pyroboros said:
+May i join the discussion?
+I would like to apprehend something from a few pages above.
+
+Someone said "how would we even know if we have found Raxxla?"
+It can't be a Message popping up, not an Object called Raxxla.
+Everything that contains the string Raxxla would have had been Dataminned.
+I was looking many places. mostly Omphalos stuff like i tried the system farthest away from the GalMap Borders. Tried to find a System whit 0;0;0 (64;32;64) in Stellar Forge Coordinates (not Sol based).
+I was LandScapeSingnal hunting and so on.
+JadeJadeJade ...
+
+Now i have returned to the Game, to see what Odyssey has for me.
+Surprise my hunting instincts were awakened again by the new GalMap Search Bar.
+Before, you couldn't see this list. She was there, but only brought you to the next entry without showing your name. you only saw the system name on which the cursor stopped.
+Some systems had the behavior that you had to click several times (i only remember 2x) until the next entry was jumped to. this behavior is explained by the new search.
+I started to look for things that ain't there.
+
+Here the odd Stuff:
+Try type J[Spacebar] in the Search Bar. U will see 3 entries without a Symbol on the left side that shows what type of Object it is.
+-Jackson's Cave | Jackson's Lighthouse (searched if already Solved but no Luck)
+-Jait | Kevenland
+-Jaitinder Singh | Kevenland (only 2 Stars no pop no nothing)
+
+Since i am only interestet in Raxxla why would i care.
+-Jackson's Cave may be part of the solution anyway (have not diged in to that as much)
+-Jackson's Lighthouse is a Neutron Star (Pulsar) also maybe part of the puzzle
+
+-But most importantly if we find a way to track something down that we think must be there but is not. we may gain a new tool/way to verify/falsify if Raxxla is in the System we think it is. And if not try the next hypothesis. I can spit out new hypothesis on a hourly basis, but whit no way to test them they not much usefull.
+
+(I need to find that post again) Many thanks to the person who wrote that post i was mentioning. Thx for bringing me back to the root of logic reasoning.
+So my currend goal is to try if there is something to discover in Jackson's Lighthouse.
+Eighter by finding it. Or FDEV stepping out the shadow and state that there is a glitch... whatever.
+
+If u think this is worth a look.
+here is what have i found in Jackson's Lighthouse so far:
+A Singnal (i am trying to find a way to uploade a recording)
+U can only hear it in normal Space. it gets quieter for every other sounds. Even Engines at 15ms will silence it.
+it is only present if closer to 7.13ls from Jackson's Lighthouse and pointing in a geneal Direction. (could'nt pinpoint any specific direction.)
+
+What i forgot:
+There is a Body missing in SOL between Saturn and Uranus
+Body 20 is Iapetus Saturns outer Moon (in ED at least)
+Body 22 Is Uranus
+I looked at every Body, Barycenter and belts (Barycenters and AstroidBelts are also Bodys at least if u ask the engine)
+So if something is there this may also serve the goal of getting some verifier in our hands.
+
+
+--Not native englich speaker but tryed my best so if i in any way offended you whit anything here... Well actually i do not care Fly Save CMDR's
+
+-edit here is a short mp3 of it
+Click to expand...
+Body 21 should be 2060 chiron but since it is impossible to know exactly where it regarding which REAL date current sol orrey has been set to. I has flown to the exact location where chiron aka the key should be in the year 3308, and there was none. As discussed before, it hard to make the location of it in orbit exact for many 100 years since our data today is not as exakt. Even Stellarium has some discrepancies in it orbits regarding chiron.
+Last edited: Jan 9, 2022

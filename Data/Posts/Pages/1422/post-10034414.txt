@@ -1,0 +1,7 @@
+Pyroboros
+Dec 13, 2022
+#28,439
+is there a way to get all text that was written on the last 1423 pages?
+then i could go and check each word if its a system Name in EDSM. and let my PC run a couple days.
+Reactions:
+Macros Black and Louis Calvert

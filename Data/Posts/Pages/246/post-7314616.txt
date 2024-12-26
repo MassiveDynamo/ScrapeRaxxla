@@ -1,0 +1,10 @@
+turkwinif
+Jan 4, 2019
+#4,912
+Han_Zen said:
+I've tested this on three different computers, with different graphics cards and drivers. Looks the same on all of them.
+
+Looks the same in VR, as well.
+
+Weird, perhaps if it is a bug it may have re-emerged because of the lighting overhaul. Have you tested this with any other large stars?
+Last edited: Jan 4, 2019

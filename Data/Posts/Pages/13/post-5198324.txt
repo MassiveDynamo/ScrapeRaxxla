@@ -1,0 +1,11 @@
+Macros Black
+Feb 24, 2017
+#258
+How to eat an elephant
+
+You divide it into smaller chunks and then begin to eat the first chunk. Using the cube method in edsm.net to provide the system names in a 50*50*50Ly cube is a good start. So (over) estimating the bubble to be a cube of 1000Ly*1000Ly*1000Ly gives 8000 cubes of 50Ly*50Ly*50Ly. 8000 cubes, that sounds easy...
+
+So starting in the corner of [-500,-500, -500] and giving edsm.net this query:https://www.edsm.net/api-v1/cube-sy...ze=50&showPermit=1&showInformation=1&coords=1, I got 2 systems returned: Synuefai XB-K b26-0 & Synuefai UJ-P d6-9. Inspecting the systems in GalMap shows more systems in the area, so I got curious as to why I only got 2 systems returned. Now a number of good reasons could explain why they weren't included, such as the missing systems simply isn't submitted to edsm.net, and that appears to be the reason for the systems I checked nearby. Assumptions are always worth validating.
+
+As a little curiosity, I got first discoveries on bodies a mere 334Ly from Sol
+Last edited: Feb 24, 2017

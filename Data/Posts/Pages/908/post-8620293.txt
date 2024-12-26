@@ -1,0 +1,21 @@
+Jorki Rasalas
+Jul 29, 2020
+#18,155
+Vetinari said:
+I was wondering the same but waited until someone whod played for longer said something. Does any of that bit about Dark Systems fit into any gameplay at all from that time or was it another idea that got shelved? (like Rogue Planets afaik) Have we been missing something a 'tiny bit obvious' all this time? Are there areas of the galaxy that arent mapped until a payer gets within so many LY and we dont even know it?....cue Donald Rumsfeld.
+
+
+
+What am I looking for? I wouldnt know if a 'system' in the Nav Panel was significant or not would I? I usually scan for permit locked but a lot of times its just a meaningless name and string of numbers? Anything in particular to look out for? Any string of numbers or something, I still dont understand exactly what they mean but I know others including you can decipher them so just tell me what to look for.
+
+Arent Rogue planets in game the ones that co-orbit a binary system not orbiting just one star? They have an x - designation on system map?
+Click to expand...
+
+No, the X in a system map denotes the barycentre of their orbit
+
+Rogue planets are allowed in-game according to the Journal specification (since they appear in the “star type” which is the destination for hyperspace jumps). If they exist they will:
+(1) form their own system (i.e. no primary star for them to orbit) and will hence have a low system mass so their name will end in A?-? (Google ED system naming convention) OR
+(2) be shown in a system, but they will not have a circular or elliptical orbit but parabolic or hyperbolic so it will exit the system eventually.
+Last edited: Jul 29, 2020
+Reactions:
+Fiera, Han_Zen, PeteACarter and 2 others

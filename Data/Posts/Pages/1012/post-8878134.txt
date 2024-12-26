@@ -1,0 +1,13 @@
+Darth Ender
+D
+Dec 30, 2020
+#20,224
+Jorki Rasalas said:
+Well, in IC1805 just past the Heart &Soul there is a duplicate name-two systems, one name, totally different bodies. I reported it as a bug a year or two ago. You might check it out and support the bug; I expect it won’t have been corrected. I remember it was one of the 2MASS stars-I surveyed a load of them. In Drew Wagar’s second book (starts off with Zurara) it was claimed she had been deploying terraforming equipment and beacons to highlight them; we never found any but it would be nice to know if any exist. There are also hints in the FRift base logs (worth doing if you haven’t already) of strange things, unknown heat signatures, lurking evil... this might have been detections of Zurara by the bases, but might have been something else-thargoids? Guardian AI? Rogue human AI? Who knows (FD!!), but Bovomit sector is locked for a reason!
+
+As noted here : https://forums.frontier.co.uk/threa...chive-0-to-vicinity-of-bovomit-sector.559836/
+
+Utopia has an ongoing investigation in the area of Bovomit. I plan on being out there indefinitely. (edit. And as a utopian enforcer, very armed in case of trouble - but mostly just scouting)
+
+as for one name and two systems..likely a possible data issue when seeding the galaxy (those 2MASS survey data stars all seem to be kind of thrown in without much review as they tend to be the stars that are not realistically dispersed). But also, fdev creates custom systems by injecting a system at the same coordinates (and potentially same name) as an existing one ....perhaps they screwed up and overlaid it on an adjacent system.
+Last edited: Dec 30, 2020

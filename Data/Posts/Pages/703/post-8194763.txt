@@ -1,0 +1,12 @@
+Jorki Rasalas
+Dec 14, 2019
+#14,057
+Koben said:
+Regarding the rogue planet, which is classified as a star type... while looking for the video I mentioned before, there's a discussion where they say that there's no limits for planet's size but the bigger ones are able to retain their atmosfere, hence a gas giant... and from in-game description, these Y class stars are actually gas giants with stellar propperties.
+
+So, a Rogue Planet could be a Class Y star not big enough to keep its own burning atmosfere... which over time turned itself onto a planet...
+
+No, that contradicts basic astrophysics. A star (even a Y class) is basically different from a planet and the atmosphere isn’t burning, its undergoing nuclear fusion for which the density and temperature must be huge.
+However in programming ED, FD have allowed the ‘star class’ to include various types of object including a rogue planet-that allows for the abiliy to jump to a dark system (rogue planet with no star) since we can only jump to objects that are members of that ‘star class’. When we can find one! There is no guarantee that one exists in-game; there are other types of object in thta class which have not been observed (yet)
+Reactions:
+Six6VI, BluWolve and [PS4] Filthymick420

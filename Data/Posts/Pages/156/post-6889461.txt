@@ -1,0 +1,36 @@
+Crimson Echo
+Jul 26, 2018
+#3,120
+Maximium Tinfoil Ramblings Time!
+
+It does seem like we are stumbling around in the dark. However, I have a idea that the E/F missions are not completely gone, but instead have an additional trigger to spawn in addition to rank/founder status. Possibly we need to run a ton of Elite Ranked missions for a given/system faction to prove our cmdrs are up to the task (as it stands rank is just a grind, and not a pure indicator of skill). Before only a few had elite ranks, and the missions flowed, but as more people ground out Elite ranks the trigger may have gotten more selective. I almost remember seeing a "What was lost will soon be found" missions a few months back after running a ton of elite assassination missions. (after they were supposedly removed.) Take it with a grain of salt as it is possible I am not recalling correctly, or the may have actually removed in 3.0 etc.
+
+Everything I have tried so far has been a dud. Traveled out to California Nebula on the hunch that Turner Research might be involved. The Black Markets were all locked, and no mission spawned. I have tried soaking the ship with neutron/white dwarf rad to no avail ( I kept the shields up, but that should not matter to that kind of radiation) . Hauling rare goods like sothis gold and Soontill Relics with the mil courier stuff has had no apparent effect so far. Trying to sell to the Dark Wheel, Sirius Corp, various stations near SD/FW, and various high tech anarchists has not worked or triggered any missions etc. The game did crash once when dropping Hydrogen fuel with a sap 8, but that was probably a glitch.
+
+It also seems the permit locked systems are handled differently with respect to the Mission Board. Missions to Permit locked systems will not spawn from other systems even if you have the required permits.
+
+With how rare the Military Courier spawns are it would be very easy for us to miss something important due to not staying in SC or a particular system. It seems possible that the other system states may have rare spawn npcs we have not seen yet.
+
+On a very random note: many important/named systems seem to have 6 letter names. (Alioth, Sirius, Essafa (mentioned in relation to mic turner, but does not appear to be in game) , Hodack, Anlave, Raxxla etc. Maybe this is significant (a code or cypher, or shift of some kind???)
+
+A long time ago in a live stream people were wondering if Raxxla was related to the Cuthullu/ Old Gods/ Lovecrafting horror, and iirc MB mentioned he did not place Raxxla.
+
+Has anyone at all managed to miss jump in ED since release? (Not counting Hyperdications.) Maybe we missed a clue in the starliner Antereas, or Space Ship one story lines related to how to force missjumps. A galnet article seemed to suggest that it was possible to sabotage an fsd to reach the beings Halsey supposedly ran into. (mentioned in relation to an attempt to mess up Jaques before the big jump to colonia.)
+
+The hunt is frustrating not knowing which way is up after the MB era. Maybe MB moved on to be the role of Thargoid overmind while also working on Dinos .(i.e. directing the thargoids actions independent of the people doing the human side of things?) (after all he does have a huge UA/TS plushie. A plushie cobra or Coriolis would seem like a more natural option for an ED plushie vs the UA).
+
+Based on an old forums post by someone from Fdev seemed to suggest a long time ago (it was in one of the cannon mega thread I think) that there was still a solvable mystery about Sap 8 that could be solved, but it looks to have gone nowhere.
+
+I am starting to burn out on this hunt. We do just seem to be spinning our wheels.
+
+Perhaps it would be fruitful to have a thread focused on the constraints of the problem, and speculate on the problem in the light of Fdev's intent for the puzzle rather than trying to solve the problem directly at this point? (what methods could Fdev being using to hide Raxxla? Does Fdev want raxxla to be found randomly, or do they want a solution that must follow a particular path with multiple steps that could not be stumbled upon? Is the problem likely to favor a super power in the game (or their respective permit locked systems), or can a player with no super power affiliation (only independent permits) still be able to find raxxla? Will all professions be involved, or only a subset of tasks? Can a vanilla player find raxxla or is horizons required? From what version of the game forward was Raxxla findable? (i.e 1.0, 1.2, 1.4 etc).
+
+If we can come up with a set of working constraints, and a timeline that take into account that the puzzle was made by people with a specific intent it may help the problem become semi-tractable.
+
+Current line of thinking:
+A place that is not a place == Witch space or a Pocket Dimension???
+Door that is also the key == special FSD that generates the portal to Raxxla, UA have also been mentioned as being the key in a newsletter. a reference that did not seem to go any where.
+
+How do we force a misjump in ED? (the shell of the mechanic is there with hyperdictions. i.e Fdev can inject a misjump like event)
+Reactions:
+M. Grey, Cmdr Shijima, Hanerib and 2 others

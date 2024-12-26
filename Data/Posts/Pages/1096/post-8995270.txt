@@ -1,0 +1,15 @@
+Spaceman Spiff
+Mar 11, 2021
+#21,915
+Jorki Rasalas said:
+Currently in Sol's main asteroid belt investigating the "asteroid clusters". Sunday I found them in segments 5, 17, 8, today in 21, 5, 22, 5. In mid December I found them in segments 21, 17, 6, 15, 8, 11, 19, 5, 19 & 6. (My numbering scheme:
+
+). Now someone spotted that the belt is rotating slowly, so don't know if that affects my numbering scheme. Getting fed up with this! Not interesting gameplay!!
+Click to expand...
+
+I am fairly confident that the HUD displaying the asteroids is present in all parts of ALL segments, and is consistently repeatable by anyone/everyone. Dropping to the system plane seems to achieve these results without fail for me, it's never failed in 40+ trips to random locations within the asteroid zone.
+
+What IS interesting to me, on a slightly related note, is that (happily) the orbital eccentricity of the belt in Sol is 0.00.... which means that however far from the Sun the asteroids are in orbit remains consistent... just a small thing in our favor.
+Last edited: Mar 11, 2021
+Reactions:
+clavain

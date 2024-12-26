@@ -1,0 +1,7 @@
+simulacrae
+May 6, 2021
+#23,153
+Han_Zen said:
+Roughly shouldn't be necessary in ED. The milky way is the galactic plane. Zero on the Y coordinate(Sag. A is at about - 20, but that is basically nothing).
+The ecliptic is Earth's orbit line.
+good point - ya i was just kinda going through the motions from the perspective of our Eleusian devotees... and using stellarium. But ya should be easy enough to put down an axis showing the equinoxes which is where the two circles cross.

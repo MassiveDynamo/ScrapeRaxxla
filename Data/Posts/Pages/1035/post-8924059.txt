@@ -1,0 +1,15 @@
+Jorki Rasalas
+Jan 28, 2021
+#20,686
+Vektorboson said:
+It looks like some of those videos can be explained by ship contacts on the radar. I think the second last (SteelQuagmire - green glow) is the most obvious: The glow starts to appear, the light coming seemingly from behind. Then a friendly ship contact appears on the radar: Behind the player and above; as the friendly contact moves away, the light also gradually disappears.
+On other videos you see ship contacts roughly in the direction from which the light is coming (notice especially how the shadows in cockpit act, when the ship is rotating).
+
+In some of the videos there are no ships on the radar at all. But seeing how the ship contact appeared in the middle of nowhere in the second last video, the glow could indeed stem from ships not visible on radar.
+
+Mm, it’s a possible explanation of the green glows but I’m not convinced. Of the 8 videos that Clixer posted (nice going there guys!) on my iPad I can only see two that have another ship and one of those is not convincing wrt the light source direction. You’d expect other ships to be flying around so one or two dropping in/out is not surprising.
+
+If this phenomenon was related to other ship’s in SC, then why does it only appear in Sol? It hasn’t been reported to my knowledge in 5 years of flying in ED.
+
+This possibility should be borne in mind for further investigation, but I wouldn’t plump for this as an explanation.
+Last edited: Jan 28, 2021

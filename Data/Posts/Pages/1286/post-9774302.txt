@@ -1,0 +1,8 @@
+Rochester
+Mar 14, 2022
+#25,702
+Maybe a question to hold onto collectively for any future QA with FD.
+
+Logic would suggest it ought to be direct line of sight, within a certain radius.
+Reactions:
+CMDR Davanix

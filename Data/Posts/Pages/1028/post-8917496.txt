@@ -1,0 +1,15 @@
+Jorki Rasalas
+Jan 24, 2021
+#20,554
+CMDR Alexander Sarethi said:
+Jorki Rasalas
+I can confirm green light in belt too. Spotted it today. It's very hard to be in line with asteroid belt. I was slightly under it. Maybe you need to drop off SC when you are exactly in belt?
+Well done! It’s good to get independent corroboration. Next step is to tie it down, locate the source (if there is one and it’s not just a strange lighting Artefact) and investigate it!
+
+It is indeed difficult to keep inline with the asteroid belt, much easier to align with Jupiter’s orbit line which is visible once you’re above minimum speed, but not yet sure if that impacts on the green glow instancing. As someone pointed out the other day the orrery view is bugged (I.e. the positional jumps) and not realistic since the asteroid belt is actually a torus with a thickness and IRL some of the asteroids have non-zero orbital inclinations. So perhaps just using Jupiter’s belt would suffice? Might try that tomorrow.
+
+Spent all day (well, several hours) winged with Macros, got one glow instance and I messed up the video capture, again!!! I’m going to have to investigate Joystick Gremlin or some other utility to allow me to send the keyboard combination to Windows 10 to control the video capture from the hotas buttons.
+
+If you get through the Omphalos Rift to Raxxla send me a postcard!
+Reactions:
+[PS4] Filthymick420, Han_Zen, Macros Black and 1 other person

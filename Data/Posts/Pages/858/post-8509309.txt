@@ -1,0 +1,57 @@
+NewkTV
+Jun 8, 2020
+#17,143
+Probably is nothing, but we hit a roadblock a while back in our Squadron (The Forgotten Initiative) in our search. Ended up concluding this is probably nothing related. However, there is really no where in the Forums that documents our efforts, so here is some dumped info.
+
+//EXPERIMENTAL: RECREATING CONTACT//
+1: Go to the system Sol and grind reputation with every faction. Ensure "Sol Constitution Party" is priority and grind until you are allied with all of them (Stop grinding as soon as you get in contact).
+2: After you achieve allied status, go to the Unregistered Comms Beacon at the Moon and wait for the hourly broadcast. (Yes... this is old Formadine news, no need to investigate the beacon).
+3: While listening to the Comms Beacon, you should hear a notification, "Critical Mission Objective Detected". Yet, nothing will populate in your Comms or Navigation Panel.
+4: As soon as you here that message, jump into Supercruise, immediately slow down all the way, and enter FSS Mode. Start scanning the Low Band Spectrum for an Orange Signal by the name of Mission: Trading Beacon.
+5: Go to the beacon and establish first contact with the NPC Ariel. She will always be in a Type-9 and assigned to a random faction to conceal her identity. She will establish comms and push either one or more missions to you under a Hidden Contract. Read and accept these missions.
+6: Complete these missions and report back to The Forgotten Initiative after each contact. Eventually you will be contacted by Ariel again to do more missions.
+7: Look out for the NPCs Captain Dayana or Dark Commander, if you are interdicted by her during an Ariel mission, please take a screenshot of the interaction. She will mention becoming a child, completing the trials, and keeping Ariels identity hidden.
+
+Beacon Discovery: Around 2:10 Mark
+8-17-2019_8-35-16_PM-uf4vbhvd.mp4
+MP4 File
+1drv.ms
+
+NOTE: Known Locations for Ariel so far:
+Sol
+Othime
+GD 2 15
+Andhrimi
+LTT 11485
+Azeban
+Asellus Primus
+HIP 17692
+LHS 3439
+
+Ariels ID: DE-FE01 has been debunked, the ship ID is randomly assigned to other Type-9s.
+
+Only Three Forums that mention the word Ariel:
+
+https://forums.frontier.co.uk/threads/chai-not-cha.142178/
+In this one, FDev responds directly about Ariel taking someone Tea.
+
+Ariel type-9 NPC Missions?
+Left a planet after farming materials; and all of a sudden got this mission message in blue. Dropped out of FSD and found a type-9 named Ariel say Goods required! ... Flew to 229 km and starred at each other for half an hour. Nothing happened. Searched my windows for some indicator to interact...
+forums.frontier.co.uk
+More about Tea.
+
+https://forums.frontier.co.uk/threads/log-entry-updates.14288/#post-585450
+In this one you can clearly see that someone edited out all the content related to Ariel.
+
+Special thanks to The Forgotten Initiative and all the CMDRs who grinded for probably nothing haha
+
+Some Images:
+
+
+Ariel Discovery (Multiple CMDRs):
+
+
+
+Last edited: Jun 8, 2020
+Reactions:
+turkwinif, Machina Ergo Sum, [PS4] Filthymick420 and 2 others

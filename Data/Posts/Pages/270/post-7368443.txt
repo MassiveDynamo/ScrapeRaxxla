@@ -1,0 +1,15 @@
+Howard o Pato
+Jan 22, 2019
+#5,382
+Noobilite said:
+Out of curiosity, has anyone seen a phenomenon where a star in the galmap has another star next to it but then has it disapear after looking at it for a while? Like it's absorbed by the other star. I keep getting this. (NVM, I think it might be because I set the galmap settings to high quality.)
+
+I'm also getting this. It's a previously visted star with the lines coming from it without focus.(I think that is just a neutron with the map being funny.)
+
+
+
+And I wonder if the cost of planets has any signifigance to anything in game... https://forums.frontier.co.uk/showt...ants-w-life-pay-less-than-Gas-Giants-w-o-life
+Click to expand...
+
+I do not know if it has already been answered, but it is not a mistake
+They are systems that have binary stars, it will show you the two stars at the same time, but when tracing the route the direction is unique, drawing a straight line to a single point

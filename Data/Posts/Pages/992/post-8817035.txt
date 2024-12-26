@@ -1,0 +1,13 @@
+Han_Zen
+Nov 26, 2020
+#19,824
+Jorki Rasalas said:
+True, a rogue body could be visiting a normal system (which should be in galmap), but then the only way to see it’s a rogue would be to check the orbits in the orrery view to see if one is hyperbolic. Of course the orrery view was not implemented (was this delay on purpose??) until relatively recently, certainly well after MB had (reputedly) made the statement about Raxxla system having been visited but it was not recognised, which would agree with Raxxla being a rogue body. But the alternative view of a rogue being its own system that is not in galmap is also worth looking out for; the question is can such a check on the nav panel be made any easier to make it practicable? I did try it at one stage, but gave up after a couple of systems on the grounds of tediousness!
+
+This is posited, of course, on the reported Design Forum statement on “rogues only being seen in nav panel when relatively close” being valid. I’ve never seen it so really want to check it out first.
+If a rouge planet is far enough out, it will likely not show any orbit at all. It might not even be on the map.
+If we are at Oort cloud distance (outer rim), it can be basically stationary. If it's stationary, it can be found by decoding hints. Even if it's not on any maps.
+
+To me this seem to be the most likely, if Raxxla is in or near the bubble. If it's really far out, I can see it possibly pop up on a map or nav panel.
+Reactions:
+[PS4] Filthymick420 and Rochester

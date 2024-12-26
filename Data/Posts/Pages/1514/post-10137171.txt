@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+May 4, 2023
+#30,280
+Grens404 said:
+Ohh did not know that. So spansh has Delphi as (-63.59 -147.41 -319.09) and that's (x,z,y).
+
+Still - would like to find a program to visualize these
+Offline Download | SketchUp
+www.sketchup.com
+Reactions:
+simulacrae

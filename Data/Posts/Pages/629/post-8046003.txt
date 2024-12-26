@@ -1,0 +1,33 @@
+Han_Zen
+Sep 30, 2019
+#12,577
+The Cygnus posts, part 1.
+
+I'm going to try to write a coherent hypothesis of the correlation between the ED galaxy, the codex and Greek mythology, to indicate the approximate location and nature of Raxxla.
+
+The main story of Greek mythology is the story of three brothers, Zevs, Poseidon and Hades who split the worlds between them, after killing of their father and locking up the rest of the Titans.
+
+Hades rules the realm of the dead. Hades and Tartarus. Poseidon rules the sea. Zevs rules Olympus / the heavens. Most of the goods live in Olympus. Even Poseidon. Hades is rarely there. He prefers to stay in the underworld.
+The brothers have small internal fights and some bigger issues with monsters. Typhon was a particularly nasty one.
+
+If we say that all this is the myth of a story that actually happened in the ED galaxy, we can put on a few hats.
+The Goods = Guardian AI / Constucts or Guardians with AI that escaped.
+Titans = The original Guardians. The parents of the constructs, killed by their sons.
+Monsters = Thargoids. Typhon, Medusa, Cyclops, Hydra.
+How does this fit with the geography of the galaxy? If we start at the bottom in the underworld, we have Gamma Velorum (Regor) as a central eye catching star. It's deep in Guardian territory and in the permit locked Regor sector.
+Gamma Velorum is located at Right ascension: 8h 11m / Declination: -47° 29'. This is interesting. If we flip it to the opposite side of Sol, we point to: Right ascension: 20h 11m / Declination: 47° 29' (Add 12h on RA, flip sign on Dec).
+This is rather close to the RA 20 50a interpretation of the word Raxxla. RA as Right ascension coordinate and 'a' alt(altitude in horizontal coordinates, the same coordinate as declination), XX as 20 in Roman numerals and L as 50 in Roman numerals.
+
+We have a possible Axis mundi https://en.wikipedia.org/wiki/Axis_mundi, that connects the three realms, through the Omphalos.
+
+Hesiod tells us that a bronze anvil falling from heaven would fall nine days before it reached the earth. The anvil would take nine more days to fall from earth to Tartarus. This should place Olympus at the same distance from Sol as Tartarus. Regor is about 1100 ly. 900 ly is still deep inside Guardian space. In Elite most mysterious places are at about 1000 ly.
+
+The gods liked to travel from Olympus to earth. To get in and out of Olympus, they used 'the gate of clouds'. That seem to be a ok match to a ghost world that is a gateway.
+https://mythology.net/greek/greek-concepts/mount-olympus/
+
+Conclusion: We should look for a cloud planet thingy, in Cygnus at about RA 20 DEC 50. About 1000 ly form Sol.
+
+Happy hunting.
+Last edited: Sep 30, 2019
+Reactions:
+Rochester, Vasquess, [PS4] Filthymick420 and 6 others

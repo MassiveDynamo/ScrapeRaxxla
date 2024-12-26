@@ -1,0 +1,17 @@
+Han_Zen
+Jun 4, 2019
+#8,602
+yelboc said:
+I had wondered before if "spiralling stars" was some sort of hint at a Fibonacci sequence, which fdev are so fond of. But you need start values and a stop point to run the sequence to - got stuck there.
+
+Given that mythology has been beaten to death and not revealed one extra clue, I figure a different tack is needed. May as well start with codes, but if you can figure the "mother of galaxies" out without reaching for Larousse' Mythology then I think that'd be a good start.
+
+As they say - start at the beginning ( and it's consistent across languages)
+
+I think the most fitting for the spiraling stars, would be the different pole stars: https://en.wikipedia.org/wiki/Pole_star
+
+If you pick any one of them and watch it for 25,770 years, you will see it spiral slowly out to about 40° declination and back in to the center of earth's axis at 90° declination(The Ophalos point / Axis Mundi). All of them will move in this extremely slow spiral.
+
+This would also fit nicely with Vega as princess Astrophel, as Vega is a historical north pole star.
+Reactions:
+Scytale, [PS4] Filthymick420, Edelgard von Rhein and 3 others

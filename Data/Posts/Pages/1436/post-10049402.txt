@@ -1,0 +1,14 @@
+CMDRCorrMorningstarFelian
+Dec 31, 2022
+#28,702
+Louis Calvert said:
+Voyager's appearance, position or audio that suggests they have anything to do with Raxxla. Sadly.
+I just want to add one thing because there is a positional quirk with Voyager 1 and New Horizons - the larger dish aims directly at Polaris* (independently confirmed by multiple CMDRs and with the Stellarium app). Voyager 2 does not in-game because IRL Voyager 2 had a gyroscope failure.
+
+* - Polaris in First Encounters was a Thargoid system
+
+That said, Polaris does not fit the type of star for Thargoids. It is very warm and having two of them in the same system won't help matters ( data pulled via Wikipedia ). It is a cepheid variable with a mass of 5.4 solar masses. It therefore far better fits asymptote giant branch stars which are much better matches for Guardians. Perhaps we found living Guardians. Should be noted, the First Encounters journals did delve into a separate unknown species beyond Thargoids. It also covered a good deal of anatomical details of Thargoids (GalNet "Galactic News: The Thargoids" appears largely based on the "Thargoids: Truth or Fiction" series of journals from First Encounters.
+
+Last edited: Dec 31, 2022
+Reactions:
+John Stoutbeard

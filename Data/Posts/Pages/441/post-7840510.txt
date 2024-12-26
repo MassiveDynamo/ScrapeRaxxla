@@ -1,0 +1,38 @@
+AndyJ
+Jun 9, 2019
+#8,801
+Jmanis said:
+So, interestingly... they may be bugged. I went back to TDW and looked at some cargo missions.
+
+While they look the same on the surface:
+View attachment 134123
+
+One was a standard mission:
+View attachment 134125
+
+Other was an E/F mission:
+
+
+It's not just an "Elite" thing either... they also offered some other missions which just had the "Elite" rank req. Maybe a bugreport is due...
+Click to expand...
+
+Scytale said:
+A new bug report about the E/F missions can't do any harm. FD is used to, they'll survive.
+Now, it's interesting to see that the word "Founders" is back. Not sure up to what point, though.
+Anyway, the fact that some missions are reserved to Elite and others to Elite and Founders is quite a point ! Imho.
+Be aware that the ancient missions were more likely given by other factions, aimed at doing espionnage on TDW suspect activities.
+
+It's not a bug or something new.
+I detailed what happened to the the original Founders missions way in post #586...
+TLDR: FD didn't migrate the original Founder missions to the new mission system for 2.1.
+I raised the issue during the 2.1 beta and we got thrown a couple of standard missions with increased payouts - that was all they had time for before it went live. They said they hoped to revisit them in the future and add more but never have.
+
+"Elite or Founder" missions were supposed to be special/rare missions. Some of us pledged extra Kickstarter cash to be "Founding Members of the Elite" and one of the perks was to have early access to them. MB said post release (when we actually had to take to the main forum area to fight for our unimplemented "Founder" decal and other missing features) that more special/rare missions would be coming... I think they've since been swept under the carpet along with Offline mode and multiple commander slots though. My most recent inquiries about the status of the missions either just get ignored or receive a "nothing to discuss" response. Well at least I have a £55 decal hey.
+I don't think they'll be coming back tbh.
+
+BTW - The difference with the "Elite" ranked missions vs the "Elite or Founder" ones are that the "Elite" missions aren't locked to rank - it's a difficulty indicator - but the "or Founder" missions ARE rank-gated. They're the only ones, and it's because they were meant to be "end-game" type missions only available in the Founders system. (we got left with place-holders)
+
+(@Macros Black: I've fixed most of the links in post #586 mentioned in your OP - but one dev post didn't get migrated by the looks of it.)
+Last edited: Jun 9, 2019
+Reactions:
+Midian Cabal, RaNaketh, rOmiLaYu and 8 others

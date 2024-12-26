@@ -1,0 +1,25 @@
+Cunder
+C
+Aug 26, 2022
+#26,867
+I created an Excel going through some details of the word Eye/Eyes, going by the Raxxla Codex which says "For Those with Eyes to See".
+There are 84 words (Eye/Eyes) in Astrophel and Stella.
+
+The Songs are still hard to figure out how I would implement it. I still figuring out the Rhythms structure of Sonnet that I would like to add to it. And hopefully Meter if Possible.
+
+I'm looking for a good version with Today's English then old English so I get the right translation.
+to add to it so I cover my basis
+It would have to Fit the 14 line Sonnet.
+
+I use the Roman Numerals as a way to find out what Character/Word is the 5th character/word (spaces and punctuations included with characters only)
+So V = 5 = the Fifth word of the Sonnet like D-2 which is the word "That".
+I also over think the idea that since each Sonnet is 14 lines I used that idea to find the 14 character and 14th word of Each Sonnet
+Though it's very... Mixed up and means nothing. But I did this to remove any possibilities.
+
+For Those With Eyes to See
+Sheet1 Roman Numberal,Number,Character,Old English / Current,14th Character,14th OE / CE V,5,S,That,U,And VII,7,A,Stella,A,She VIII,8,O,From,N,A XI,11,O,Doest,O,Thy XII,12,U,Thy,E,None XVI,16,T,Fine,T,Many XVII,17,,,Shot,E,Loue XX,20,S,Who,F,Boy XXIII,23,N,Paines,I,Whence XXV,25,H,Strange,H,Sent...
+docs.google.com
+
+This is still a work in Progress and seeing other ways I can approach this.
+Reactions:
+simulacrae

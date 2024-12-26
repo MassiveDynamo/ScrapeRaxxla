@@ -1,0 +1,10 @@
+Robert Rockbite
+R
+Dec 13, 2022
+#28,436
+Louis Calvert said:
+Maybe, but I don't think anyone's actually tried it, have they? If so what 6 systems did they use as points (will save me time if someone else has done the work!).
+
+Which systems?
+Why, I would use brute force and check all known stars in a certain range around Sol if they form a certain geometric shape - usually within some tolerance, to get any results at all.
+Didn't do that search for 7-systems-forming-a-3D-cross-shape, though.

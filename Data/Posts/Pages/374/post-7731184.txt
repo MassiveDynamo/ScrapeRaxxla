@@ -1,0 +1,10 @@
+Edelgard von Rhein
+E
+Apr 13, 2019
+#7,462
+A few observations and musings:
+1) Saturn's rings. The entire Sol system is already considered as mapped so you cannot map it again. If there are no hotspots, then this is probably intended.
+2) The Dark Wheel station. The Codex states that the original Dark Wheel used a disused starport - this means that they did not build it themselves, that it was once an inhabited system and that the occupants of that starport left for some reason. There are not many things that will cause people to abandon an entire station. However, the Codex does not comment on whose station this once was - could it have been one built by the Guardians?
+3) Misjumps. The Achilles Corp. Codex, 1st paragraph, states that misjumps can occur as a result of a computer malfunction. I still think that a misjump could explain how Raxxla could originally have been discovered in such a way that the journey was not readily repeatable. Elite: Reclamation by Drew Wagar features a misjump, although it was not a distant one. I doubt if misjumps are really in-game but it might need very contrived circumstances to achieve if they are, especially as the software in our nav. systems is from Achilles Corp which claims it's very safe so that cannot happen. So how to get a computer malfunction? Thargoid Probes. This will require some experimentation with timing to get a jump to happen at the moment of shutdown but my expectations are low - and I'll need a couple of Thargoid Probes for testing and I don't know how easy these are to come by in 3.3, so it could take a while to find enough.
+Reactions:
+Deleted member 192632, Jorki Rasalas and Macros Black

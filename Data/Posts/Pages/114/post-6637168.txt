@@ -1,0 +1,10 @@
+lorrad
+Apr 19, 2018
+#2,277
+Just a note Re: The sirius "FSD operating outside of normal limits" messages.
+
+I got several of them in NU-2 LUPI which as well has a secondary White Dwarf 169,000 ls from the primary.
+I was nowhere near the White Dwarf so I think our engineered FSD are just reacting to stray White Dwarf radiation?
+So nothing special about Sirius in this regard.
+Reactions:
+Jaiotu and Han_Zen

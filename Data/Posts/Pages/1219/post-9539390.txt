@@ -1,0 +1,7 @@
+Jorki Rasalas
+Oct 3, 2021
+#24,378
+You can use Spansh/systems search to look up systems with population greater than 1, and limit the range from Sol. My query found 9,289 within 140ly! It lists them by distance. What you then need is to look up the descriptions.
+I asked on EDSM thread (suspect Inara gets it data from EDSM) and was told “In-game descriptions have been manually entered into EDSM for many populated systems. Being manually entered, it is likely to be incomplete, and some descriptions may be out of date.”
+Reactions:
+yelboc

@@ -1,0 +1,72 @@
+Macros Black
+Jan 28, 2019
+#5,551
+OP updated with Codex Raxxla info. DW Codex looks interesting too, might add it later.
+
+I've located 44 systems that has an A- or O class star and an Orbis Starport:
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task now seems more doable, at least these systems can be ruled out for being the origin for the Horizon Main menu background.
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The assumption is of course that edsm contains the relevant data, I managed to import all of it, and I got the sql select right.
+Last edited: Jan 30, 2019
+Reactions:
+Eckee, Rochester and Han_Zen

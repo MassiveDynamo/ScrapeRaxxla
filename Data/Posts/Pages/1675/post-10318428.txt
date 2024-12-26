@@ -1,0 +1,9 @@
+Mecrutio
+M
+Feb 22, 2024
+#33,491
+ajg007 said:
+Some of those readings don't match up in game. If you take into account in game that 3.1k ls turns in to 0.1ly then I'd suggest that 1ls would equal 310,00km
+Agreed. I intentionally used a round number and not the exact number. In reality, c = 299,792.458 km/s which is slower than my example. It's not what I was expecting considering the game numbers you presented. I guess close only counts in horseshoes, hand grenades and now space lol! I think my point was to show myself how precise the above discussion was referencing and I wanted to share the results. The discrepancy you brought up bolsters what I was thinking in that we do not have a good enough tool to exactly align an object to travel to. No big deal tho, with enough resolve the graveyard should be found if it exists.
+Reactions:
+CMDRCorrMorningstarFelian

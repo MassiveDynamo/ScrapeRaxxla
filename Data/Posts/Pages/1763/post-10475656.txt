@@ -1,0 +1,33 @@
+Jorki Rasalas
+Nov 8, 2024
+#35,257
+Well, I've just reread both parts of the codex on Raxxla and TDW:
+
+The Raxxla entry has not a single mention of TDW.
+The TDW entry only says "The group is often mentioned in connection with the equally unsubstantiated 'Raxxla'", which is very insubstantial. There is absolutely nothing to say that TDW are part & parcel of MB's "Raxxla storyline" (should that still exist in-game after he left the tiller and despite all the retcons we believe to have occured).
+
+So, going by the protocols for assessment of evidence (which @Rochester 's often quoted):
+I am prepared to believe Raxxla is in-game - DB and MB both said so several times on different occasions, thereby providing corroboration.
+I am prepared to believe under MB's leadership that there was an in-game storyline leading to it, but whether it still exists I am on the fence.
+I am prepared to believe a TDW stealth station may be in-game, but without further corroboration my confidence in this is quite low.
+IF it exists I am highly suspicious that station is a toroid and located at an 8th moon -that codex paragraph clealry points out that Lyta Crane may be an unreliable witness. Moreover she was said to be not a first-hand source, at best secondhand and may be further removed, if she isnt outright lying to further her own career. The mention of the children's story "Princess Astrophel etc" is also suspicious. I have some further hypotheses on that but not yet ready to discuss, however MB was an author and hence words were important to him; there is a dichotomy in the book title -Astrophel is a boy's name so why a princess? Sounds fishy.
+I am prepared to believe that anything TDW-related in-game is solely FD using player enjoyment if Holdstock's original novella to give some apparent depth (& that's not a criticism of FD -they made a game & they want people to play it, but they cant commercially afford to have a lot of authors creating deep storylines to build into the game to give it depth- by the same reasoning I dont think the Col70 permit lock will ever be lifted as FD would first have to program in a whole region's worth of Thargoid sites, infrastructure, etc etc)
+
+I still think DB actually said "in-game characters can lie", and that would include Lyta Crane.
+
+EDIT
+Now of course IF TDW were a real in-game "legendary group of adventurers, explorers, investigators and treasure-hunters " instead of a front (‘You think the Dark Wheel advertises on a station board in plain sight?...‘You should not consider the Dark Wheel a single organisation, gentlemen. How could it survive for so long if it were? The Wheel has many levels, many
+hubs, cogs, gears and spokes. It is more akin to an affiliation of organisations that share certain common goals") AND had named a disused station as "Raxxla" then that might make sense of the various pictures, codex paragraphs and the toast. However applying evidential reasoning to the available information I am sceptical.
+
+EDIT2
+And if the codex paragraph were a clue, and the rather strangely named Lyta Crane is relevant, there are 7 systems within 100ly of Tau Ceti (location to first documented rumour of Raxxla) that contain LY and T type stars, however I think that start screen pic would suggest that station (IF it exists) should be closer to Barnard's Loop.
+
+
+EDIT3
+"Lyta Crane" is a strange name, and that 8th moon phrase sounds suspiciously like misdirection to me. LYT star types may be hints, but what about the rest of the name? A is another star type, but an unlikely candidate in a system with LYT (might be worth a search on the full JSON SPANSH catalogue (EDSM started deleting unvisited star systems so I dont think thats now a good source) - my PC and spreadsheet skills are not up to the task). CrA is the astronomical abbreviation for corona australis but A(lpha) CrA is Alfecca Meridiana, in-game but only a single body (A type). Crab Nebula might be another interpretation, but IIRC that's around 6,500ly from Sol. So I don't think the curvature of Barnard's Loop (if visible there) would match the start screen pic.
+
+Constellation names and abbreviations | aavso
+www.aavso.org
+Last edited: Nov 10, 2024
+Reactions:
+Cmdr Walt71 and Rochester

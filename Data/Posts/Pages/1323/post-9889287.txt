@@ -1,0 +1,26 @@
+Jorki Rasalas
+Jul 16, 2022
+#26,455
+Blaggerdy said:
+I thought the faction had another name as Pareco science institute, just checked on EDSM
+The home of the Pareco SCIEnCE Institute. The Pareco Scholarly Collective of Inquiry, Experimentation and Cosmic Exploration Institute - also known as the Pareco SCIEnCE Institute, or PSI - is a collective of Commanders that work to search out the mysteries of the universe no matter where it leads.
+
+SCIEnCE. Take the capital letters. I tried using the n (14th letter of alphabet, ascii 110) as a key but no joy.
+SCIECE. 6 letters. 1 S, 2 C, 1 I, 2 E
+RAXXLA. 6 letters. 1 R, 2 A, 2 X, 1 L
+I'm going to have to take another look. Pretty sure I did stop at the Pareco comet by using the manoeuvre. I tried plenty in normal supercruise but never found it.
+Click to expand...
+Yes, the way the six SCIECE letters are capitalised seems suggestive (edit: together with the letter counts!). I presume someone skilled ( not me!!) in cryptography has checked to see if there is a key and algorithm that gets RAXXLA from SCIECE? (General question to anybody so skilled!). A-> C or E, X-> E or C, R-> S or I, L-> I or S.
+
+(Edit: possible keywords: Pareco, comet, comet 2, comet1, Pareco comet2, Pareco comet1, Asire Dock, Crown Orbital, Webb Station, Phillips Market, Garden Ring, Neville Ring?)
+
+Mmm, @Rochester @Macros Black @Han_Zen : the original SD elite missions mentioned IIRC “a lock that is also a key” -could it actually be a cryptographic key? Were the mission descriptions just hints that were removed because it made the puzzle too obvious?
+
+I wondered if getting Allied with the Institute perhaps led to the TDW membership test or other missions which are part of the “Raxxla storyline” that MB mentioned, cos I don’t see randomly dropping out at a comet as being a storyline.
+
+Pyroboros manoeuvre? Have I missed something? Having managed to select the comet, at what distance from it do you press the FSD button to drop out at the comet? I suspect it has to be within the reported cometary 50km sphere of influence, which is tiny compared to SC speed, hence the semi-random nature I spoke about. At minimum speed of 300 km/sec in SC you presumably have to be accurate to 1/6th of a second to drop out at the intended position. Stations have SOI of 1Mm so they’re easy...or perhaps it flashes up on the nav panel & you have to press the button then? Might try again this morning after copawlot walk, before it gets too hot...
+
+I like the immersion of having hotas/hosas. But hammering Thargoid scouts for 8 hours per day during lockdown left me with arthritis of the base thumb joints and De Quervains tendonitis. I need to be very careful and limit use of the thumbs. At one stage I couldn’t even lift a coffee mug -disaster!! Even mouse use can be painful, having bought a multi-button mouse in January specifically to get into Odyssey...so I never have...
+
+Edit: just had a look at the old (now deleted) SD Elite missions...maybe we need to be carrying SAP8 &/or Trinkets of Hidden Fortune when arriving at the comet?
+Last edited: Jul 16, 2022

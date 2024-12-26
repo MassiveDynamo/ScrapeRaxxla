@@ -1,0 +1,20 @@
+BluWolve
+May 25, 2023
+#30,534
+Jorki Rasalas said:
+@Han_Zen I remember doing that out in the FRift! And happy days when we then got a game crash cos the resource file was faulty! But I think the permanent “trigger point” for Raxxla will load then only download the Raxxla resource file when we trip the trigger by honking enough & close enough. Otherwise Raxxla would have been found by the data miners (who I suspect did find the FRift base files).
+
+@BluWolve no, I don't understand this game detail either. Don't think there was ever a livestream that gave us some useful information on the instancing mechanism; if there was I missed it and need to see it! But this is the point I was pondering- do we need to drop into the near vicinity from SC rather than travel along honking in normal space? That’s the case for comets, and it seems almost like they were implemented in such a weird way to perhaps give us another clue....but this would be typical of FD, to add an RNG element to the puzzle which makes it extremely difficult to find! Comets are hard enough to drop in on when you have a location! And if you’re off by a tiny amount their location disappears into the distance faster than the ship can fly......So actually we probably wouldn't need to meet any honking criteria - the RNG of dropping in within 50Km is sufficient obstacle! The obvious comets have stations orbiting them to give a hint for the drop point. But I dont see any such sign for this Lassel ring hypothesis (whereas Saturn has TB0232 ... errmmmm!!).
+Click to expand...
+I dont recall there ever being a livestream where they spoke about instancing, but yeah it would be handy if there was.
+
+I only know what i know about instancing in Elite Dangerous due to countless issues trying to wing up with friends, a lot of dropping in and out of SC trying various things.
+
+Im not convinced FD would do anything bizarrely different for Raxxla, as it has been in game since the start. Judging by the past they normally only build on top of things. Laying foundations such as planets, then adding the ability to land on some. Or Holo-me, then adding space legs down the track. This is also common for many game developers and designers. This is what leads me to believe it is a station above all else, or something akin to a station. What else has been around since the beginning that could be Raxxla?
+
+It could be a planet, but we couldnt land on planets or do much in the way of interacting with them until Horizons, so i doubt that scenario personally.
+
+It could be within rings, as you have been investigating. I think that is a good hypothesis. But it could even be a signal source like Voyager and New Horizons, way out in space so far that we are going so fast in supercruise we blink and miss it. Having said that, I also wouldnt be surprised if there were no signal source to assist in finding it, requiring specific co-ordinates for us to manually navigate and drop in at.
+Last edited: May 25, 2023
+Reactions:
+Jorki Rasalas

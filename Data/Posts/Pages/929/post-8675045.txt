@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 29, 2020
+#18,576
+When I posted my list of FDev reference source vids plus notes the other day the forum software expanded the urls to show the start of the video, which then seems to really slow down the page update and makes it a little buggy. Is there a way to stop that expansion happening?
+
+Edit: mmm, taken advice on this. Only way seems to be to remove the ”https://” from the start of each url, so have done so. The remaining part if each link still seems to work if pasted into Safari browser “paste & search” so guess it will be the same for others.
+
+Edit2: removed the prefixes and updated the post. The forum software allows the remainder of the url to be clicked and opens up the source video, fantastic!!
+Last edited: Aug 31, 2020
+Reactions:
+Vetinari and [PS4] Filthymick420

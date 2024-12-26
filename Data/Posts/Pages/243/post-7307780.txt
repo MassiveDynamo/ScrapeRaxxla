@@ -1,0 +1,24 @@
+Ko Shiji
+Jan 1, 2019
+#4,857
+You can't really expect to find Raxxla by just reading a bunch of tourist beacons and going where they point you.
+
+The Codex entry points at Cupid's Arrow, and the single tourist beacon there points at Maia AND a barnacle. Probably the original one on Merope 5C. Maia yields 2 tourist beacons, as does Merope (5C has the tourist beacons, by the way). One points you at a next system, but it's locked behind a permit. The obvious easy clues dry up, which is why you've tried to find the next link in Ancient Greek lore, rather than by following the tourist beacons.
+
+The only thing these tourist beacons have in common is that they mention CMDR names. Perhaps that's a way to tell whether you're reading the correct tourist beacon (vs an unrelated one), but I don't think you'll get any more easy direct pointers to the next system.
+
+What I would expect from the devs, and from such a National-Treasure-like quest, is a theme-park ride through the game, that hits all the major points of attraction. Thargoids, Guardians, Formidine Rift, Colonia, SagA*, Beagle's Point. I'd expect the devs to have us go everywhere, and at each place, apply a key to discover a hidden "extra" of the lore we all know and love. Maia (Thargoid territory), my first thought when I read the Cupid's Arrow message was that I'd have to play with Thargoid sensors and probes at the black hole and the barnacle site. Only, those are not used at barnacles, they're used at surface sites. But who knows, I'm not sure we've tried.
+
+So, two things about Maia:
+
+1. Has anyone tried to "charge up" a sensor by, say, jetting it near the Maia black hole, then taking it to the Delphi surface site (along with a probe, and the link of course) to see if anything other than that generic map happens? If the sensors have memory, perhaps the map changes based on what the sensor has scanned prior to being inserted in the Thargoid machine. How else could the Thargoids perform a "search" of their galactic map, with only 3 binary bits as inputs? I mean, the machine is useless as just a projector for a pretty picture.
+
+2. And has anyone tried to travel to the Col 70 sector with a probe, sensor, and the link that the surface site drops, in their (corrosive) cargo hold? These things open (surface site) doors, why can't they also be permits?
+
+And one thing about Cupid's Arrow:
+
+1. 48 O stars. All pointed at the Earth, because that's how the telescopes saw them, and the game data is imported from reality. But why aren't these stars numbered in order, from the tip of the arrow to the feathers? 33 34 46, 5 25 4, 10 9 3 12, 31 22 30, ... it's like a code. I'm looking for a piece of text to apply it to.
+
+All of this stuff has been in place for a while. We just didn't pay attention, too excited at the time about discovering Thargoids, Guardians, etc. So now they gave us the codex and the Cupid's Arrow starter to try to get us going again.
+Reactions:
+Rochester

@@ -1,0 +1,14 @@
+Jorki Rasalas
+Apr 13, 2021
+#22,893
+Han_Zen said:
+The FSS does not resolve ‘cold’ objects, smaller than 135 km radius.
+Objects in a cluster are the exception. Perhaps the hole count as one?
+
+Our ships are a good example. Unless we turn on a beacon, they are ‘cold’enough to go undetected, in normal space.
+
+The FSS can see big things and things with considerable emission. That’s it.
+Ooo,
+Do ship’s Beacons show on the FSS? I’ve never tried that.
+Reactions:
+[PS4] Filthymick420

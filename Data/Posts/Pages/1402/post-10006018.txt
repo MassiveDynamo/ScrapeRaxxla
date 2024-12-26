@@ -1,0 +1,10 @@
+SongOfTheVoid
+Nov 25, 2022
+#28,033
+Sublime said:
+Okay, did I say I’ve made any modifications to the files? No, I didn’t, and I haven’t. All I said was that it’s not against the rules to change confit files. There are numerous threads published out there providing assistance with how to do it.
+
+Go ahead and call them. Drive over to the office and speak to them in person even.
+
+Have a nice day.
+Ill give you the benefit of the doubt and assume your misunderstanding the nature of what people are objecting to, it is not the editing of the files themselves that is a problem it is the editing of the files for the purpose of getting the game client to provide information you couldnt otherwise have... Im not sure how you could conflate legitimate usage like GUI changes and intentionally abusing this 'attack vector' in the manner they are suggesting in which like a miner hacking away at coal they can cycle through parameter's in a system above and beyond what the client would legitimately let you do for the purpose of finding "Secret" content.

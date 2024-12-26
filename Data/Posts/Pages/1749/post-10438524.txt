@@ -1,0 +1,37 @@
+Dox Paradox
+Sep 26, 2024
+#34,964
+Louis Calvert said:
+This is a cross post from my thread, for those here that don't read my thread I think it helps to identify with greater clarity why I think it's very important that as many people as possible study the Landscape Signal in relation to the Quest to find Raxxla.
+
+I'm currently making recordings of the 'Landscape Signal' from different system pairs that cross the origin point, using this spreadsheet compiled by Seventh_Circle.
+I've stacked the first 4 of those recordings as precisely on-top of each other as I can be bothered to do for this proof-of-concept, and looped them in an animation.
+
+In the animations you're seeing here, anything that doesn't move is the Landscape Signal because I aligned those bits. Anything that does move is the Galactic Background Sound (most visible on the left and the 'static' bands that run across the animation), this also accounts for the flickering darkening of the animation.
+
+
+
+Detailed Explanation of what you're seeing here
+This is a small section of the spectrogram showing two overlapping sounds:
+
+1) The 'Landscape Signal'
+2) The Galactic Background Sound.
+
+This was recorded from the following locations:
+Stuemeae JM-W c1-5825 looking towards Juenae QS-L a7-42
+Juenae ZI-C c2-3751 looking towards Stuemeae GG-Y c4601
+Stuemeae GG-Y c4601 looking towards Juenae ZI-C c2-3751
+Stuemeae JM-W c1-582 looking towards Juenae WC-E c1-3378
+
+As I've , these two bits of audio overlap, so any time you record the Landscape Signal, you're recording the Galactic Background Sound. One thing I've tried and failed to do many times is to isolate the Galactic Background Sound so we can see the Landscape Signal. This doesn't do that, but it helps a little bit.
+
+To recap: the two audio sources aren't correlated (they play at different rates). The Galactic Background sound audio loops at a different rate (2:30s) to the Landscape Signal (1:46s).
+
+This animation makes it clear what's part of which audio, and (especially in the contrast adjusted one) I think it's extremely clear that there are faint shapes inside the "mountain", and another clear shape off to the upper left of the 'mountain'. I think there are obviously other features here too that require study.
+
+Click to expand...
+There's enough noise in the signal to see a lot of things if you zoom in.
+What's almost certain is an escaping bird, with something in its beak (a prize?).
+I'm not sure it is a mountain; it looks more like a cave entrance to me.
+Reactions:
+Louis Calvert, Han_Zen, Neestar and 1 other person

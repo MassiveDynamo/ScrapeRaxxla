@@ -1,0 +1,141 @@
+Jorki Rasalas
+Aug 28, 2022
+#26,915
+@Pyroboros @Adel
+Ejagham is an interesting system. Bodyids 35 & 36 crashed the system but I knew I hadnt found the two stations so kept at it. Later went back & tried bookmarking those two, but as soon as I did that I got Black Adder errors each time. No Omphalos or TDW hidden station, unless it's at 35 or 36!
+Cant see a way to find them!!
+(N.B. Ejagham 4 has 8 moons!! And travel in a straight(ish) line from Sol (Jewel/Mother Gaia) via Sirius (Witchspace whisperer) you get eventually to Ejagham (tourist beacon mentions lovers, binary ice moons resemble original start menu screen with station)).
+
+Each time I drop into a comet I honk three times - but Raxxla is hitting the pipes!
+Source: https://www.youtube.com/watch?v=Yii1ufTyOWs
+
+
+Ejagham body search
+system address
+4683418569067
+Body#
+SearchString
+0
+Wregoe BC-D d12-136
+Ejagham
+1
+Wregoe BC-D d12-1048712
+Ejagham 1
+2
+Wregoe BC-D d12-2097288
+Ejagham 2
+3
+Wregoe BC-D d12-3145864
+Ejagham 2 a
+4
+Wregoe BC-D d12-4194440
+Ejagham 2 b
+5
+Wregoe BC-D d12-5243016
+Ejagham 2 Comet 1
+6
+Wregoe BC-D d12-6291592
+Ejagham 2 c
+7
+Wregoe BC-D d12-7340168
+Ejagham 2 Comet 2
+8
+Wregoe BC-D d12-8388744
+Ejagham 3
+9
+Wregoe BC-D d12-9437320
+Ejagham 3 a
+10
+Wregoe BC-D d12-10485896
+Ejagham 3 b
+11
+Wregoe BC-D d12-11534472
+Ejagham 3 c
+12
+Wregoe BC-D d12-12583048
+Ejagham 3 d
+13
+Wregoe BC-D d12-13631624
+Ejagham 3 e
+14
+Wregoe BC-D d12-14680200
+Ejagham 3 f
+15
+Wregoe BC-D d12-15728776
+Ejagham 3 Comet 1
+16
+Wregoe BC-D d12-16777352
+Ejagham 3 Comet 2
+17
+Wregoe BC-D d12-17825928
+Ejagham 3 Comet 3
+18
+Wregoe BC-D d12-18874504
+Ejagham 3 Comet 4
+19
+Wregoe BC-D d12-19923080
+Ejagham 3 Comet 5
+20
+Wregoe BC-D d12-20971656
+Ejagham 4
+21
+Wregoe BC-D d12-22020232
+Ejagham 4 a
+22
+Wregoe BC-D d12-23068808
+Ejagham 4 b
+23
+Wregoe BC-D d12-24117384
+Ejagham 4 c
+24
+Wregoe BC-D d12-25165960
+barycentre
+25
+Wregoe BC-D d12-26214536
+Ejagham 4 d
+26
+Wregoe BC-D d12-27263112
+Ejagham 4 e
+27
+Wregoe BC-D d12-28311688
+Ejagham 4 f
+28
+Wregoe BC-D d12-29360264
+Ejagham 4 g
+29
+Wregoe BC-D d12-30408840
+Ejagham 4 h
+30
+Wregoe BC-D d12-31457416
+Ejagham 4 Comet 1
+31
+Wregoe BC-D d12-32505992
+Ejagham 4 Comet 2
+32
+Wregoe BC-D d12-33554568
+Ejagham Comet 1
+33
+Wregoe BC-D d12-34603144
+Ejagham Comet 2
+34
+Wregoe BC-D d12-35651720
+Ejagham Comet 3
+35
+Wregoe BC-D d12-36700296
+crash bookmark>Black Adder
+36
+Wregoe BC-D d12-37748872
+crash bookmark>Black Adder
+37
+Wregoe BC-D d12-38797448
+Glenn Ring
+38
+Wregoe BC-D d12-39846024
+Henry Ring
+39
+Wregoe BC-D d12-40894600
+crash bookmark>Black Adder
+40
+Wregoe BC-D d12-41943176
+crash bookmark>Black Adder
+Last edited: Aug 28, 2022

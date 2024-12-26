@@ -1,0 +1,18 @@
+Merlin StWahgwaan
+Feb 7, 2022
+#25,263
+alexzk said:
+I don't think any in-game thing is expected to be found using out-of-game tools
+
+Just saying, we already know this to be wrong and untrue. Fdev has already atleast once required the use of out of game tools. And that's just what we know of.
+
+The Thargoid sound map is just a perfect example.
+
+There are still, today, absolutely no tools, in game, to decode thier "sounds-scape" or "map" from the thargoids.
+That required, 100% the use of not only outside tools, but a technical breach of the EULA as well. But Fdev wanted it to be that way. And it also basically made it impossible for Xbox/PS players to find the answers, as we cannot get data from the game, logs, ect, from our consoles. (Well not very easily)
+
+So it's very possible that we need to use things, calculations, maps, star charts, who knows, from out of the game, to find the answer to an ingame question....
+
+Also, I cant remember if it was MB or DB or who... but I seem to vaguely remember someone from Fdev specifically hinting about needing to use outside tools as well, and that's how users discovered the thargoid sound map, until then they hadn't tried outside tools with it being a risk to breach of EULA.
+Reactions:
+Adel and CMDR Davanix

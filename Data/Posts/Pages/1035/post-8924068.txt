@@ -1,0 +1,19 @@
+Jorki Rasalas
+Jan 28, 2021
+#20,688
+clixer said:
+I still don't believe it's a bug yet, by the time the external camera was lined up the glow likely would've faded as roughly 6-8 seconds had passed, and the glow was already fading before switching to camera. Would be interesting to get a wing out there to see if the source is visible from a second ship.
+
+Yes, it does fade very quickly. Perhaps it’s something starting to instance, triggered by pilot proximity, but then we go beyond the distance threshold so it disappears. This would fit with what I’d expect of an Omphalos Rift. Still think of the alleged DB video where he was supposed to have said:
+DB: "- It would be more likely to reveal itself to a group of players."
+Interviewer: "- How so?"
+DB: "- If you are at the right place and you scan it enough..."
+Interviewer: "- Advanced scanner or the basic one?"
+DB: "- Basic scanning is enough."
+
+That was when Scanners existed in basic, intermediate and advanced versions with corresponding detection ranges. IFF this is true then it does seem that it’s related to the distance at which the ship scans it. But that assumes there’s only one “thing” to trigger the glow and at one location but various detections have been found at various places around the belt. I think there’s a clue in the Raxxla icon. Need to get that & the sector map aligned in various scaling to see if that highlights anything.
+
+Maybe we need to hunt for vivid glows and try a concerted effort at crashing out of SC at its maximum to see if we get a close look/instance?
+Last edited: Jan 28, 2021
+Reactions:
+PurgeTheXeno

@@ -1,0 +1,9 @@
+Djidjel
+Oct 7, 2020
+#19,191
+Jorki Rasalas said:
+Think you’d have to download the EDSM database, filter for BH then get their mass from the resultant set.
+
+I'm using EDDiscovery and the download is so slow I'm starting to lose it. Is there a faster way?
+Reactions:
+[PS4] Filthymick420

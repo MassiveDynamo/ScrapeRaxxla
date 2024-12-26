@@ -1,0 +1,31 @@
+El Saico
+Nov 28, 2023
+#32,210
+Han_Zen said:
+Regarding the whisper in witch space. This does not have to be overly complex, to be a possible implementation of the Raxxla mystery.
+Even though the hyperspace sequence is a loading screen, it's not entirely static. It does change a bit, depending on the target star. Some form of data is loaded into the sequence animation. The sound probably has the same option.
+
+We know there are hidden systems in the game. At release you could search the galmap for test or test2, and the map would move to locations in the central bubble. one of them was very close to Sol. You cold not select them jump to them. They were used by FD for testing.
+
+FD could easily made another hidden system and put Raxxla in it. If so they would only have to override your target system for the hyperspace jump, if all the required criteria were in place. If they use Shinrarta Dezhra as either the jump from system or target system, you even get the Elite requirement for free.
+Click to expand...
+Case in point: Ross 54, which IRL is an alternative name to LFT 509 - curiously, a long-suspected host to the Dark Wheel station - but represents an unplottable different location.
+They attempted to fix this, so searching by its name points to LFT 509 instead, but a different alternative name (HIP 34104) still shows it.
+Ughkoff said:
+Hmm... curious. can't you remember where it was on the map and how far it is from Tau Ceti?
+
+The solution to this riddle itself should be simple, I am far from thinking that during the crunch before launching the game, Braben sat in encyclopedias about Ancient Greek or Egyptian mythology (at least to such a deep level as we are currently looking for) in order to fit this Raxxla secret into the framework of such things. And although the game is full of such names, these people (devs) are still closer to mathematics, logic, etc. than to theology and philosophy. Therefore the solution should be simple, a mystery at the level of 2012-2015 (if it really exists)
+
+By the way, doesn’t the jump into witch space itself give some kind of signal that draws some pictures, like a signal from the center of the galaxy?
+Here's the thing though: Raxxla was not a Braben invention, but a Michael Brookes one.
+
+And, as Drew Wagar said in his memorial tour (which I'm watching right now) he loved to make his puzzles as complex as possible. The Thargoid Probe was cited as an example - when placed in a planetary atmosphere, it emits an audio burst containing binary-encoded data of the planet:
+Some attributes (temperature, gravity, radius) expressed as a fraction of those of Merope 5 c
+The atmospheric, represented by each molecule's composition (number of atoms of each element + its atomic number) and its percentage expressed as a fraction
+The distance to Col 70 Sector FY-N c21-3, in terms of the distance between that system and Merope
+Canonn's article has a guide to decode this information, it's quite a read: https://canonn.science/codex/unknown-probe/
+
+Since Raxxla was designed as his magnum opus, and a secret he literally took to his grave (Braben is supposedly the only other person to know its location), a very convoluted solution is to be expected.
+Last edited: Nov 28, 2023
+Reactions:
+Adel and Rochester

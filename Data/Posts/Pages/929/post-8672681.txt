@@ -1,0 +1,12 @@
+Vetinari
+V
+Aug 27, 2020
+#18,569
+from p927
+
+Emperor said:
+26 AURIGAE D is also a bit weird as the icy planets don't show up when you scan the system using the field spectral analysis to discover them (I'm guessing because they are tiny by the looks of it, looked like empty targets until I got very close when flying to them).
+
+Just checked and they showed up as normal for me in FSS. Must have been a bug or something, I had no issue whatsoever. Now off to check the most obvious system in the galaxy for Raxxla.
+Reactions:
+Emperor, PeteACarter and [PS4] Filthymick420

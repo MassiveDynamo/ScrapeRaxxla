@@ -1,0 +1,16 @@
+Jorki Rasalas
+Jul 29, 2020
+#18,165
+Vetinari said:
+'Without that info...it will not be possible to travel through hyperspace to it'
+
+So cant be 'in system' as need to be in system to scan it in the first place and we cant travel from system to system without FSD jump.
+
+Which leaves the possibility that it was at least discussed and planned to have entire galaxy areas not fully shown on the GalMap? Was it on the cards to scan space in the same way as scanning systems? Or was it just Brown Dwarfs that wouldntbe shown on GalMap at first? Does any of this ring true with anything from those days at all? What on Raxxla was he on about?
+
+Maybe we can ask fdev what was meant and whether it was implemented, it shoudlnt be breaking NDA?
+Click to expand...
+
+You could try looking through the FD Dev Diary YT, and think there used to be “design forum” thread or similar; before my time but Han_Zen has a long memory.
+Reactions:
+Han_Zen, Vetinari, simulacrae and 1 other person

@@ -1,0 +1,15 @@
+Jorki Rasalas
+Sep 25, 2018
+#3,626
+Scytale said:
+Well... my point is IF Raxxla is a "rogue planet" and FD classifies them among "stars" (like for instance a sub-brown dwarf of slightly more than 13 Mj) then I assume they did it to get us able to jump in there.
+
+Ah, I now see what you mean! I found the journal file spec (http://hosting.zaonce.net/community/journal/v13/Journal_Manual_v13.pdf) & did a search. “Rogue Planet” appears under the parameters list for “Star Description” and nowhere else. I think the implication is that a rogue planet will appear in-game in its own system (& therefore is equivalent to the “dark systems” that are mentioned in some of the FD-sponsored ED novels. I’m not sure how this would affect the system name though, must peruse the journal spec a bit more.....
+
+edit: ok, had a further read & think. When you look at the FSDJump event the destination system is sometimes clearly named by a human (e.g. Asellus Primus), sometimes taken from an extant star catalogue (e.g. HIP 78085) but more often a Stellar Forge procedurally-generated name (e.g. Praea Euq NW-W b1-3). Given that Raxxla may (too much retcon!) be a rogue planet then what sort of system name should we be looking for? Since there is no star with it then the emissions should be very low. According to the system naming convention (https://www.reddit.com/r/eliteexplorers/comments/3rekys/star_system_name_meanings_sector_subsector/)
+the first character of last part of the system name (e.g. the b1-3) in the procedurally-generated name indicates the mass of the star (main body? All bodies??) in the system. Since Raxxla has not yet been found (I think ) in any current astronomical catalogues and it is unlikely that FD would put a human-named system in the outer rim as it would be a bit of a red flag, then Raxxla should be in a procedurally-named system with the last part named a?-? due to the relatively low mass of a solitary planet.
+
+edit2: not that that will help much, have you seen how many a?-? type systems there are!
+
+Edit3: just mulling this again over breakfast coffee. IF Raxxla is a rogue planet in its own system with no star then it should be pretty black & almost invisible to reconnoiter. Not sure whether that is a gameplay experience that DB would want to present. So I am still thinking that Raxxla may be a (rogue or otherwise) planet with a station or two in attendance, built either by the “elite corps of powerful, twisted men” that reside there, or by aliens which would then provide the “alien gateway” that Raxxla is supposed to home.
+Last edited: Sep 26, 2018

@@ -1,0 +1,8 @@
+yelboc
+Oct 14, 2021
+#24,531
+CMDRCorrMorningstarFelian said:
+So it isn't a traditional lock (though considering this game's obsession with Chthonic gods/goddesses and Lunar gods/goddesses it wouldn't surprise me if the moon is key to the lore ultimately). That said I swear it mentioned permit on the description panel (will get a screenshot when I play next).
+It non-landable nature has a simple explanation - fd are in a pinch due to game design. They want the moon to look right from space, but they have no way to make it render right on the ground with the game engine which is entirely procedural, therefore they cant make it landable.
+Reactions:
+dysonl, Rochester and CMDRCorrMorningstarFelian

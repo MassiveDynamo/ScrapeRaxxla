@@ -1,0 +1,13 @@
+FullM3talX
+Dec 7, 2019
+#13,870
+TL;DR : i just discovered that all the bodies in a system dont automatically appear in system map, just because i honked a system. silly me.
+
+wow... i just found a system that has only 1 star, but when i honk it, it says there is 9 bodies. the bodies didnt show up in the system map. and they only started appearing as i scan them with the FSS instead. the appeared bodies arent discovered by anyone, while the star itself is. so the guy who discovered it honked and moved on. didnt pay attention that the honk said 9 bodies. i can easily see raxxla being hidden this way! like you honk a system and it says 10 bodies. but the system map only shows 9.
+SPOILER
+the first screenshot is the system map before i used FSS on the bodies individually, while the second screen is the same exact system AFTER i scanned. maybe this is already known knowledge but this is huge for me. i didnt know this.(i never done any far away exploration) i used to honk and check the system map, and assume that everything i see is only what there is and nothing more. i thought the honk revealed everything a system had... from now on, i have to check if the amount of bodies the honk says matches with the system map or not, and if not... there is a hidden bodie somewhere. 500hours in elite, and i never knew this lol
+
+edit: i just realised this is such a noobish discovery. this is propably what deep space explorers been doing since ages. haha so sorry for the noob hype here. i just never thought that the system map was dynamic, and can have more bodies appear in it as you FSS xD
+Last edited: Dec 7, 2019
+Reactions:
+[PS4] Filthymick420, PiggyPiggyPig and simulacrae

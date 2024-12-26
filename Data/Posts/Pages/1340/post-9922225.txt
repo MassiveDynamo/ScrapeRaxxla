@@ -1,0 +1,14 @@
+yelboc
+Aug 24, 2022
+#26,789
+Jorki Rasalas said:
+@Pyroboros @Adel
+Well, Fortuna has no comets!
+But there are a couple of installations and three belt clusters. Just dropped out at an installation, Baldwin Estate, flown around it...
+Then checked- it has a SignalName but NO bodyid in the journal! Place that isnt a place??
+
+There are a couple more installations, but it’s getting too hot to do any more today.
+
+Interesting observation, but yesterday I was comet hunting in another system and as I was approaching a comet signal two npc (fed military in this case) appeared out of it in SC, while just after I’d dropped out of SC at another comet an npc dropped in after me, but there was no pirate warning and he was clean, didnt attack me & no conversation...perhaps makes sense of all those npc SC trails that just appear or disappear in the black?
+Click to expand...
+I got the impression the installations were not in the early releases? So we shouldn't need them to find it ?

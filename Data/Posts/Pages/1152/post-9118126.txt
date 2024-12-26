@@ -1,0 +1,13 @@
+clavain
+Apr 24, 2021
+#23,033
+Han_Zen said:
+That is possible to make, but would look silly in a multiplayer game. If you spawn objects based on rank, you risk messing up the game logic.
+
+Rank lock needs to to make sense in the game world. A TDW station demanding Elite to give landing access makes sense. A TDW station that only spawns for Elites does not.
+I think normally it would look silly. But if you are spawning a single unique handcrafted object based on rank or a permit, and only making it visible (or accessible) to people with those prerequisites (or perhaps to those in the same wing or instance with someone with those prerequisites), for something like Raxxla it makes perfect sense. There are certainly ways they could do it without "breaking" multiplayer. YMMV.
+
+Edit: Doesn't everyone play solo mode anyways?
+Last edited: Apr 24, 2021
+Reactions:
+Exekrator

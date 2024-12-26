@@ -1,0 +1,13 @@
+Disemboweled Ego
+D
+Feb 4, 2022
+#25,233
+Jorki Rasalas said:
+As I understand it I suspect the last half dozen or so posts may be close to the boundary of breaching the EULA clauses 3 c,d,e
+I think it's a case where it violates the spirit of the law but not the letter of it.
+
+It's definitely a bug that should be fixed or implemented properly (and securely) as a feature so you could link a route to any station/body/or combat zone easily from out of game links.
+
+It would be way different the same exact exploit mechanism was used to gain a gameplay advantage or to crash other peoples games.
+Reactions:
+Adel

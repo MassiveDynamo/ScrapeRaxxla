@@ -1,0 +1,33 @@
+Vektorboson
+V
+Feb 18, 2021
+#21,201
+I bottled it. I discovered Raxxla, then I lost it.
+
+Here's the journal entry:
+
+Code:
+{ "timestamp":"2021-02-18T20:35:22Z", "event":"FSDTarget", "Name":"Sifi KO-G b24-5", "SystemAddress":11634663892689, "StarClass":"M", "RemainingJumpsInRoute":9 }
+
+Ignore the remaining jumps, it's actually 128 to "Sifi KO-G b24-5". I was at "Wregoe CO-F c25-11" at the time.
+
+I was reading about "Land of Oz" on Wikipedia at the time, and I remembered that there's the "Veil East Nebula" and the "Veil West Nebula", similar how there's a "Wicked Witch Of The East" and a "Wicked Witch Of The West" in Oz. So I did the only reasonable thing, I typed "veil north" into the search bar in the galaxy map and the map centered me on "Sifi KO-G b24-5". The "Select"-button was disabled, but it was possible to plot a route to it.
+
+My travel target at the time was "HIP 54876".
+
+Dammit, I bottled it.
+
+I remember that someone else already found a weird system in the same region. I'm still 100 jumps away, but I'm going now to sleep.
+I'll write down all steps I did prior to typing "veil north". One thing I did was following the "gold trail"; when you type "gold" into the search, you can follow a list of systems that have a planet called "Gold" or they have a moon called "Gold". Afterwards you get stations and planets called something like "Goldwater" a.s.o.
+
+EDIT:
+I forgot; typing "veil north" into the search did not yield any result again.
+
+EDIT 2:
+During a jump sequence the stars on the left side were spinning/spiralling like crazy.
+
+EDIT 3:
+Forgot something: The "Sifi"-system can be selected again and it is no longer "weird" for me.
+Last edited: Feb 18, 2021
+Reactions:
+Han_Zen and TrillClinton

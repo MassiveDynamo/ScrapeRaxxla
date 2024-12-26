@@ -1,0 +1,8 @@
+Rochester
+May 11, 2024
+#34,041
+In concern with talk of ‘data-mining’ yes that’s a total no-no and FD will take action.
+
+Not wishing to actually dive into this area, but others have seen a plethora of ‘oddities’ within the code, not including code for unused content, some of this was named appropriately, other stuff used aliases.
+
+It’s very likely that such code does exist but, its structure etc is held on the server, not the PC, so one might not be able to reconstruct it; all you would have - theoretically - would be a placeholder name, such as ‘insert Petunias here’.

@@ -1,0 +1,22 @@
+D7
+D
+Feb 21, 2024
+#33,475
+Ian Doncaster said:
+Tricky because you're trying to hit something 1000km in radius at a distance of 3.6 Ls (~1,000,000km), and really need to hit the inner part of that to actually stand much chance of seeing it as a POI before you flip out again. The planet has a radius of just over 6000km, the star has a radius considerably larger than that, so figuring out where the cylinder you need to fly down is to sufficient precision is not going to be easy: you'll need to line up with sub-pixel accuracy.
+
+The exact distance measure is imprecise because we don't know the planet or star mass exactly, plus the orbit isn't perfectly circular, so the search area for that 1000km radius is probably around 50,000 km long given the imprecision
+
+And, of course, everything is orbiting ... so your target is itself moving sideways at around 30km/s relative to where that straight-line course was when you departed, so even if you did line up perfectly when you set off, you'll miss completely if it takes you more than about 30 seconds to get there (but if you're travelling that fast, you've got a good chance of skipping right the zone without seeing it, because you'll pass through it in about 1/20th second even if you hit dead centre)
+Click to expand...
+
+
+I see... I get that the target is very small and I suppose you are assuming that you have to fall out of SC in just the right spot because you could only see the graveyard after leaving SC. That seems reasonable - is that your assumption?
+
+Now, I am not really trying to find the graveyard that accurately. I just want to be in reasonably close proximity as a point of origin to fly in a targeted direction that might be in the direction of Rafe's Anaconda 0.1 LY away. I think it would be essentially impossible to land on that spot by falling out SC dead on the target (his Conda home) which would be even smaller than the graveyard - by a long shot. But, I also have to assume that Rafe would have had that same concern so he likely had a reasonably short range beacon at his home so he can find it himself. Short range because his whole thought process was to stay undetected from (presumably) the DW or other bad actors he ticked off over his life. Therefore, if you get in the general area of his Anaconda you should be able to pick up a beacon on your radar or contacts - while in SC. Otherwise it is hopeless trying to find that position - if ED even put anything there.
+
+RE: "...so your target is itself moving sideways at around 30km/s relative to where that straight-line course was..."
+I'm not sure the actual game mechanics work in that real-life manner. If you are at New Caledonia and you set your sight bead on the sun in SC you fly to the sun without the reticle really showing any drift at all toward the sun or back toward the planet.
+Last edited: Feb 21, 2024
+Reactions:
+Quaero

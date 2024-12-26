@@ -1,0 +1,15 @@
+athulin
+A
+Jan 13, 2024
+#32,970
+Rochester said:
+If it’s not factions, then it’s either just floating around…. Or on a moon… or in a belt… or really far out of the orbital line… or just dark and not registering on the scanners… we simply don’t know.
+
+As so much of ED touches on acquisition of money, an appropriate 'hiding spot' would be away from missions and other money-generating aspects of the game. Asteroid belt clusters are a fairly obvious guesses: there's no missions or significant money to made from those, and any 'content' needs a visit as it doesn't show up on scanners. Asteroid belts close to stars have an extra 'stay-away factor' to discourage those who are not incurable curious as heat may make it difficult to enter -- and so possibly adding piloting skills as probable requirement for entering. (I once hoped to find cluster orbital elements -- they might show if some near-star cluster moved in and out of overheating zones, and could only be entered at certain times. That's would be a neat hiding place.)
+
+As many ED players go for ranking up, another 'hiding spot' would be 'away' from ranking. (Many Raxxla theorists seem to have come up some version of this with already: somewhere in the Pilots Federation District seems to be a favourite idea, with permission-locked systems in general also at a top place.)
+
+As Raxxla might be unique in some sense, implementation and quality assurance would require special effort. Are there any known bugs that don't appear to make sense from normal pount of view? If there are, they may indicate galaxy locations where some degree of manual patching has been done, or where something tricky is going on. (I once found a Youtube entry about Orna 8 (landable), showing a bug that seemed to make planetary rotation larger that ship speed, making it impossible to land without crashing. It was fixed, and I think it turned out the rotation speed had been linked to the Orna 8 ring speed, or to some object in that ring. That was singular enough for me to spend a couple of weeks poking around in that neighbourhood ... but there may be other places like that.)
+Last edited: Jan 13, 2024
+Reactions:
+El Saico, Emperor and Rochester

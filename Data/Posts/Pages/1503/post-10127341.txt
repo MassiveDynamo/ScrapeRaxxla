@@ -1,0 +1,10 @@
+Dox Paradox
+Apr 18, 2023
+#30,041
+"This busy trinary system has terrestrial planets orbiting the two companion stars. The locals aren't particularly friendly and appear to be harbouring a dark secret."
+Well the dark secret of this system seems to be that it doesn't have any terrestrial planet orbiting any of its stars.
+I wonder if the inaccurate descriptions were done on purpose, or if it warrants a bug ticket... Opening a ticket might be the only way to find out
+For the palm trees... I always thought it was just assets to distinguish between lavish stations (like statues, fountains..) and the rest.
+Speaking of which, if these assets are indeed meaningful, fountains are quite a symbol too.
+Reactions:
+Rochester, simulacrae and CMDRCorrMorningstarFelian

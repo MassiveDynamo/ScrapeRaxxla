@@ -1,0 +1,16 @@
+Jorki Rasalas
+Oct 17, 2020
+#19,351
+CMDR Zulu said:
+Yea in this search I don’t think it matters if someone has been there previously.
+
+I’ll tell you guys one thing though, these Camelopardalis systems have more than one “errors“ in their generation. There’s “Camemopardalis” the typo, and then 2 Camelopardalis system has a star in it labeled 53 Camelopardalis even though there is a completemy separate 53 Camelopardalis system nearby. Not that this means anything but it’s interesting.
+
+I’ll check out CS Camelopardalis when I get on later, thanks for recommending it.
+
+This probably came about back in the “Big Bang” (game data creation) through FD’s automated input of data into Stellar Forge from extant star catalogues. If there were separate reported positions for a star (similarly sometimes there were different names for the same star) then it can cause two distinct in-game objects with the same name (often very close so it’s obvious), or long strings of stars because the distance data wasn’t accurate (it never is in astronomy unless the system is close enough for accurate stellar parallax measurements). And typos would also have been automatically input, though FD do seem to have their own unique level of grammar/typing/spelling skills.
+
+Edit: and MB is reputed (though not confirmed by him) to have said that the system containing Raxxla was visited (but it wasn’t noticed) by someone early on, so whether or not others have visited a system may be totally inconsequential to this Quest.
+Last edited: Oct 17, 2020
+Reactions:
+Rochester, Vetinari and CMDR Zulu

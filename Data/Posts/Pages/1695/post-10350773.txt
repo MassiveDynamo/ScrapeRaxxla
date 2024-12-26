@@ -1,0 +1,7 @@
+Jorki Rasalas
+Apr 16, 2024
+#33,888
+Was trying to find a Lagrange point yesterday, but the primary/secondary distances disagreed a little with the online Lagrange point calculator I used. Could be an error in ED or, more likely, in my understanding. When you face a planet and target it you get the distance shown-is that to the centre of the body or the surface?
+edit
+ah, it shows the distance to the centre of the body!!
+Last edited: Apr 19, 2024

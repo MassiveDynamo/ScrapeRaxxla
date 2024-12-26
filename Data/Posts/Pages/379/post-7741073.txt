@@ -1,0 +1,67 @@
+Noobilite
+Apr 19, 2019
+#7,573
+Galaxy 1-4 from:
+
+http://wiki.alioth.net/index.php/Sector1/Index
+
+Underlined = Direct result from galmap
+Plain text = No direct result but got other result(s)
+* Multiple results!
+
+Visited list: (-) visited (Ignore this. It's for my personal search.)
+
+Systems in Galaxy Sector 1
+
+A - Ara* -
+B Beor*
+D -
+E
+I
+L
+M Malama* Mariar*
+O
+Q
+R
+T
+U
+Z
+
+Systems in Galaxy Sector 2
+
+A -* Ausis*
+D Diti*
+G Gema*
+R Rave*
+
+Systems in Galaxy Sector 3
+
+A Anar* Atan*
+I Inar*
+L Lege*
+R Rea* Rige*
+S Sovere*
+
+Systems in Galaxy Sector 4
+
+A Ange* Ante* Arama*
+I Inve*
+Click to expand...
+
+I have this in a document. Having problems with alt tabbing because of wine/linux atm. It has the full list(non reduced) of the systems I've check with galmap in game. These are the end results of 1-4. Haven't done 5-8 yet.
+
+Underline means direct result. Non underline means no direct result but get some odd result. * is a bit reduntant and means multiple results in gal map. This can apply to both of the previous.
+
+You'll note that so far only galaxy 1 and 2 have any systems represented. And only one from galaxy 2.
+
+I was also planning on making a list of all searches producing more than one result or a result besides the text given. And list all results. From the ones I've done I think only 2 are very far from the bubble. They are near colonia. The results are very weird when it comes to non given results. It's so odd I wonder if it's on purpose. It doesn't make search as a general result for name base search. So, is it on purpose?! If not it may help understand the galmap search function better to understand the game.
+
+Quickest way to search: double click name to get it to highlight. CTRL-C. Alt tab into game. Have galmap open and click the search bar or hit spacebar to speed this up potentially. Hit CTRL-V. Hit enter or click the triangle to search. Search as needed. Alt tab to document. Use(or make) shortcut to strikethrough. rinse repeat!
+
+I won't be able to search more until wine/linux/vram limitations stop making it impossible for me to alt tab. 8)
+Attachments
+Elite Planet list.doc
+63 KB · Views: 629
+Last edited: Apr 19, 2019
+Reactions:
+Edelgard von Rhein and Six6VI

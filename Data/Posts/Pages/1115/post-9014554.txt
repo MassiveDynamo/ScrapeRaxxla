@@ -1,0 +1,15 @@
+clavain
+Mar 22, 2021
+#22,283
+Jorki Rasalas said:
+Has anyone visited Adamastor and checked cargo and hackable radio transmitter? I've used hatchbreaker and recon limpets and got no cargo & no data, although the data transfer display seemed to be doing something. Frustrating! But it's probably me misusing them as I've not used these things for a long time.
+
+But apparently in a livestream an FDev said something like "have you checked the cargo and data"?
+Not sure, but I thought I saw a thread in Dangerous Discussion where someone was complaining that getting cargo from megaships has been broken forever. This was from a piracy perspective though so not sure if that would also apply for a mystery ghost ship, but if it is broken for one type of megaship...
+
+I did get the logs when I was there - data scanner on the ship itself to identify possible contact points, then data scan the ones identified as ship's log. When I was there a week or so ago I wasn't aware it even had any cargo so never tried to get it. I think there might have been some cargo and mats just floating in space nearby though, nothing unusual as I recall, just run of the mill stuff.
+
+SPOILER: LOGS
+Last edited: Mar 22, 2021
+Reactions:
+Vetinari, simulacrae and [PS4] Filthymick420

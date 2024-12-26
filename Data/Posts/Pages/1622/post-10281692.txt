@@ -1,0 +1,55 @@
+Louis Calvert
+Dec 10, 2023
+#32,439
+If we're assuming the Codex is a clue, or many clues, then by rights any other clues should make sense when compared to the Codex - either by adding more context or explanation, or relating to an existing clue so we can see the continuation of the puzzle there.
+
+Let's look at Shamash/Thetis for Raxxla clues:
+Thetis:
+The Thetis picked up a "digital signal...originates from an uninhabited planet we passed 15 light years ago", clearly stated.
+The signal is describes as: "It’s the same message relayed again and again and again – it’s more a whisper than anything else; it says, ‘kill them all’…"
+Thetis is current 53ly from Sol, and we know it was travelling long enough for 8 generations (just started on 9) to be born, using standard calculation of Generations that's between 220 and 270 years, give or take. That's 1ly per 5 years of travel, approximately, we don't know if they stopped at all along the way, but that seems about right for an advanced gen ship.
+Edit: Recall that "uninhabited planet 15ly ago" translates to "it was uninhabited 75 years ago".
+Thetis is stopped in Nefertum around planet 6. We don't know if that's an astronomically lucky thing, or it stopped there automatically/intentionally, or one of the survivors stopped the ship deliberately. It's not a system that seems desirable for a new colony.. who knows!
+Shamash:
+One pilot/squad from the military unit "Grey Swan" on exercises picked up a 'murder signal' which caused them to want to kill others.
+The signal "seems to bury itself in the comms network, generating its own feedback loop to maintain broadcast".
+There's a mysterious armoured person in a 'skull mask' helping people survive attacks at Garrett Orbital by killing those infected by the signal. (This was also the outfit rewarded for the CG.)
+Those infected seem to remain 'normal' for some time after infection, something like 20-30mins at least.
+The audio from Shamash contains a message in the spectrogram with the words "Kill them for me"
+Shamash is 15.5ly from Nefertem (The Thetis).
+If you chart Sol (the origin point of Thetis), and Shamash and Nefertem you can clearly see they don't align. Unless the Thetis changed course dramatically, it never passed Shamash.
+
+
+
+Raxxla Codex:
+The only indication of an audio presence in the Codex is "whisperer in witch-space", which is exceptionally specific - witch-space, and whisper.
+If you wanted you could compare this line "the legend exerts a strangely potent fascination on the minds of seekers." to the Thetis/Shamash signal's effects on humans, but it's clearly not intended to be read that way, and it's a very different effect even if you read it as a physical 'infection'
+Conclusions:
+Is Shamash/Thetis in any way similar to any part of the Raxxla legend or the Codex?
+
+Looking at the facts we have - I personally don't see any connection whatsoever, other than the word 'whisper' used to describe a perceived voice in the Thetis signal. The rest is a case of "one weird thing might be linked to another weird thing".
+
+It seems undeniably clear that the Thetis signal is some version of the Shamash signal, and that some 'agent' or 'agents' already knew about it (Skull-mask person), or rapidly moved to vigilante justice. The two systems proximity is odd, as is the Thetis' orientation to Shamash. It's possible Grey Swan was experimenting with the signal, or being experimented on (both very interesting ideas that tie into my theory at the end!).
+
+Yes, the Thetis signal come from an unknown source 1,000 years ago - but that has been in the heart of the bubble for over a thousand years now, and so far we've only seen one 'event' like this occur. Though honestly I feel pretty strongly that next Halloween season we might see another one where we have to put down another 'murder signal' event and maybe learn a little more about it...
+
+What might Thetis have picked up then?
+I think there's an easy answer that many overlook:
+
+The Thetis was launched from earth between 2097 and 2150-ish. So let's assume the Thetis was launched in 2110, it travelled for at most 270 years, that means it picked up the 'murder signal' around the year 2380.
+
+By 2380 Hyperdrive had been in use for almost 300 years, there is active war between the Federation and Empire, human colonies had spread out a lot. Sirius had become a corporate powerhouse and brokered a truce btween the Federation and Empire. You can stretch this for a few decades either way and the answer is the same:
+
+Galnet News 3301: ..."the explosive exploration triggered by the invention of the hyperdrive by Li Qin Jao and others in the 22nd century, first by unmanned probes, then with manned craft, overtaking the generation ships sent in the previous decades. Despite the huge dangers involved, a massive land-grab followed, fuelled by the voracious corporations."
+
+And the Thetis was no more than 53ly from Sol during this time, well within the sphere of FTL expansion: Alioth was discovered in the 2390's, that's 83ly from Sol.
+
+The Thetis signal was almost certainly a human-made signal (or a human made rogue AI). There would have been human colonies out there, undoubtedly black-ops military scouts, Federation-Imperial special ops teams unofficially duking it out, probably military research projects on distant worlds to keep them secret, etc. etc.
+
+Think about it: a 'murder signal' that infects any comms system and sends anyone who hears it even for a few seconds into a murderous state. That's definitely a weapon. For all we know the Thetis was deliberately targeted by whoever made the weapon, a 'lost' generation ship with thousands of people aboard is a perfect test-lab. I wouldn't be surprised if the unfolding Halloween event story is about how someone rediscovered the old research and tested it out on Grey Swan.
+Attachments
+1702241010666.png
+124.2 KB · Views: 53
+Last edited: Dec 10, 2023
+Reactions:
+CMDRCorrMorningstarFelian, Edelgard von Rhein, Macros Black and 2 others

@@ -1,0 +1,12 @@
+PeteACarter
+P
+Jun 8, 2020
+#17,134
+Edelgard von Rhein said:
+This happens because The Pilots Federation is a Superpower. It's confusing because of there being a minor faction in Shinrarta Dezhra with almost the same name. You can tell that they are a Superpower because your reputation with them gradually declines just as with the other Superpowers, stopping at 75% friendly. This means that if you don't do bug hunting for a while the rep drops to 75% and then if you do things to bring the reputation back up you again get the message about becoming allied with them.
+
+As to why your rep with them isn't shown anywhere... it might be something that the developers don't want to be too obvious. Maybe being allied is a component of the requirements for TDW invite, or something else. The other thing is, being allied with the other Superpowers gives you advantages, such as needing less rep to increase your standing with minor factions (being allied is like having a 2x multiplier to anything you do to gain rep with a faction of that Superpower, including handing in exploration data). I'm not sure what, if any, advantages you get from being allied with The Pilots Federation.
+Click to expand...
+So are the "local branches" and the Administration minor factions of the superpower? Guess they must be
+Reactions:
+rOmiLaYu

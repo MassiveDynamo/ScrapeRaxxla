@@ -1,0 +1,21 @@
+simulacrae
+May 27, 2021
+#23,479
+Cmdr Unknown said:
+o7 Cmdrs, new user (but occasional lurker) here...
+
+So i'm not exactly a firm believer that, Raxxla is simply in the center of the "Galactic Center" (region!), and even less so that one will just stumble upon it. But then again, you never know...
+I just recently made a trip to the center and now find myself quite overstrained with the task to actually find the very exact center of the region. I tried to estimate it as good as i could by drawing lines as an extension of the region's straight bordering lines, and see, where they intersect (see picture below). I tried the same with a high-resolution map with region overlay on edastro.com, with more or less the same imprecise result. I marked some random system, but given the scale i still might be off by a good couple of hundreds of lightyears.
+So i wanted to ask you folks, if you have any ideas on a) whether anyone has pinpointed the galactic region's center yet, or b) how to more accurately and "scientifically" find that out.
+I'd be happy with anything that has an error margin of less than 10 ly... ;-)
+Click to expand...
+You might try: 404 / x / 26960
+I tried getting points along those lines and zeroing out the up/down - hence the 'x'.
+
+https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/page-1101#post-8998104
+
+Havent made it out to check myself yet
+Good Luck
+o7
+Reactions:
+Cmdr Unknown, Vetinari and [PS4] Filthymick420

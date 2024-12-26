@@ -1,0 +1,14 @@
+Vektorboson
+V
+Feb 22, 2021
+#21,361
+Ok, I think I have just crashed the servers.
+
+I was exploring the 20 H moon; I was at the north pole of the moon, I pointed my nose straight up, then I disabled Supercruise.
+
+My ship started accelerating and then the game crashed. Now the servers are gone.
+
+EDIT: I assume it's just a programming error; something unexpected I did.
+Last edited: Feb 22, 2021
+Reactions:
+[PS4] Filthymick420, simulacrae and FrakesAnim

@@ -1,0 +1,19 @@
+Jorki Rasalas
+Sep 25, 2018
+#3,617
+Han_Zen said:
+Crab Nebula is a Stellar remnant nebula, I think. It has a pulsar in the middle.
+
+The list of RL rouge planets is just two long. Only PSO J318.5-22 and SDSS J111010.01+011613.1 are confirmed and not a possible brown dwarfs. Even SDSS J111010.01+011613.1 is an edge case, as it's very close to dwarf mass.
+https://en.wikipedia.org/wiki/PSO_J318.5-22
+https://en.wikipedia.org/wiki/Rogue_planet
+
+Scytale said:
+Anyway, even the concept of "rogue planet" is quite unclear imho, as it is arbitrarily based on relation with Jupiter masses...
+
+Two confirmed rogue planets but half a dozen candidates, so far. Edit: has anyone visited the RL rogues in-game?
+
+Not really arbitrary related to Jupiter masses, just that the mechanism to eject a planet from its parent system may involve a large mass object (e.g. a gas giant like Jupiter) migrating around within that system and if it gets too close to a planet may slingshot it out of the system.
+
+https://en.m.wikipedia.org/wiki/Rogue_planet
+https://en.m.wikipedia.org/wiki/Planetary_migration

@@ -1,0 +1,14 @@
+Lachann
+L
+Jan 29, 2019
+#5,567
+CMDR Beni Stingray said:
+Im not too sure if this station is more reasonable. Dont you think this station is too close to the sun because we know it orbits the 8. moon of a gas giant.It should be further away from the sun, not?
+
+We've done some research based on that Codex picture. The biggest problem is we don't know the parameters of the "camera" the picture was taken with. It could be cropped from a much wider angle picture, taken from different distances etc. If we assume the FOV is anything close to the default in-game FOV, that station would have to be either very close to the star or the star would have to be very big.
+
+I've queried the EDSM database for gas giants with 8+ moons and sorted them by estimated angular diameter of the star as seen from the gas giant's location*. Within 1200ly of Sol there are only a few candidates that could produce the image from the Codex, but they all have the wrong spectral type or are too hot or too cold to be the right color.
+
+*NOTE: this is not possible for all systems in the EDSM db, some of the are missing data; in other cases involving binary+ systems and bodies orbiting barycenters instead of other bodies it becomes very hard to estimate the angular diameter of stars.
+Reactions:
+Jorki Rasalas

@@ -1,0 +1,14 @@
+Han_Zen
+Jan 15, 2024
+#33,008
+The main issue with all the older hyperspace technology, was not range. It was time.
+The old tech had a relativistic effect when jumping. A max range jump took one week in FE2 and FFE. I don't remember the exact the exact amount in Elite, but time passed. For the pilot the jump would feel like the jump took 15 seconds, but a week passes on the galaxy wide clock.
+This ment that exploration was slow. In a ship with a 25 ly jump range, you would probably need 800 jumps to Colonia. That is 15 years.
+
+In addition, all in system travel happened at sub-light speed. The star-dreamer was used to slow down the perception of time for the pilot, but the clock ran. There was an exception with the micro-jumps in Elite, but these were quite short.
+
+To make matters worse, the old drives in Fe2 and FFE required periodic maintenance. Unless you had a big ship with an automatic repair unit, you weren't going very far.
+
+Exploration was hard before 3300.
+Reactions:
+Edelgard von Rhein, Louis Calvert, Emperor and 1 other person

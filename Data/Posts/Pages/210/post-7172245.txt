@@ -1,0 +1,14 @@
+Jorki Rasalas
+Nov 14, 2018
+#4,187
+Malicron said:
+It's invisible to sensor, and you have to fly there from the nearest system, in supercruise. Should only take you two weeks... assuming you know where you're going.
+
+Come to think of it, a system that our sensor can't pick up and that doesn't show on the galaxy map would count as "a place that isn't a place"...
+
+Yes, it would fit that part of the riddle, assuming the riddle was a clue to Raxxla. But you can’t SC from one system to another, the fsd jump is needed for instantiation. If you SC from one system to another there would be nothing there when you arrive, people have done it.
+
+So an exotic star must be in a system with a normal main sequence star (or BH or NS) to allow the game to instantiate the bodies, but if an exotic star is not detectable by radiation then it would be invisible, so I’m guessing hidden in a USS? Can’t see any other way it could be coded.
+
+edit: we’ve already discussed Rogue Planet instantiation, a system might conceivably have only a single rogue planet that would be “wandering” the galaxy, but would not in practice move in RL timescales. It would be a low mass “A” type system, and I suspect might only be visible to ship sensors on the nav panel within a very few ly. I guess an exotic star could be invisible but have planets orbiting since it would still have a gravitational field.
+Last edited: Nov 14, 2018

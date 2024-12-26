@@ -1,0 +1,22 @@
+John Stoutbeard
+Mar 6, 2022
+#25,555
+Jorki Rasalas said:
+I dont seem to be able to access Pyroboros’ spreadsheet, but then I’m having ipad browser problems.
+The ID64 definition is here http://disc.thargoid.space/ID64.
+Some of the fields are variable width, depending on the system mass value, but that is all taken care of in the system body value, which is given in the journal file) The bodyID needs to be added starting at the 55th bit, so for Pareco comet 1 (bodyID=1) then the ID64 value for that comet is
+1*2^55+3034117572971 (since 3034117572971 is the Pareco system value)=36031831136536939 (so I’ve read)
+For Pareco comet 2 (bodyID=2) the ID64 value would be
+2*2^55+3034117572971 = 72060628155500907
+
+But my calculator doesnt handle those size of values to check!
+
+If anyone is near Pareco it would be interesting to see if
+a) typing Pareco comet 1 in galmap search box the comet position when in-system
+b) ditto but try typing 36031831136536939 instead.
+Click to expand...
+Depending on how many non-bodies and bodies you have, I just grabbed the search string for you here using his spreadsheet.
+
+SPOILER: PARECO
+Reactions:
+Jorki Rasalas

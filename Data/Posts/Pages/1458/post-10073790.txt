@@ -1,0 +1,181 @@
+Macros Black
+Feb 4, 2023
+#29,160
+Operation VIP
+
+Goal: Get allied with all factions in selected systems coaxing a solid lead from a VIP passenger mission.
+
+Ongoing systems getting all factions allied
+Cupinook
+Kushen
+NLTT 19808
+Nang Ta-Khian
+LHS 2936
+
+Completed all factions allied systems
+
+10 Kappa Pegasi
+15 Pegasi
+61 Cygni
+Aeneas
+Aganippe
+Akandi
+Altair
+Antilope
+Amun
+Arcturus
+Arexe
+Aritimi (Griggs Hub, Palladium)
+Arque
+Arro Naga
+Awawar
+Aztlan
+BD-18 3106 (Refinery)
+BD+46 2014
+Beta Trianguli Australis
+Bevan's Hope
+Biaris
+Blatrimpe
+Bunda
+CD-33 8748
+CD-35 9019
+Cemiess
+Czernovale
+Dahan (Jorki)
+Diso
+Duamta
+Elli
+ER 8
+Eravarenth
+Epsilon Indi
+EZ Aquarii
+Finteno
+Fong Wang
+Gato
+Gera
+Gnowee
+Gurney Slade
+He Bo
+He Pora
+Heheng
+Hesa
+Heveri
+HIP 86063
+HR 5630
+HR 571 (Shavyrin Terminal)
+HR 4979
+I Carinae
+Katta
+Kochole
+Konduwa
+Koller
+Kui Xing
+Kuk
+Laumaia (Hirayama Enterprise)
+Lave
+LDS 413
+Leesti
+LFT 37
+LFT 880
+LFT 926
+LHS 2477
+LHS 2813
+LHS 317
+LHS 332
+LHS 346
+LHS 380
+LHS 3872
+LP 806-8 (Massacre)
+LP 908-11
+LTT 2974
+LTT 4131
+LTT 4487
+LTT 4497
+LTT 5131
+LTT 5212
+Lugh
+Mariyacoch
+Moyopa
+Naits
+New Yembo
+Nott (Palladium)
+Nuenets
+Orerve
+Orrere
+Quator
+Panomi (Lowry , Tritium)
+Pareco
+Rhea
+Ross 529
+Ross 1015
+Ryu
+Reorte
+Riedquat
+Seginus (Jones Station, Palladium)
+Sesuang
+Sirius
+Skeggiko O
+Slatus
+Sol
+Solati
+Songzi
+Sosong
+Tamor
+Tarach Tor
+Tau Bootis
+Tau Ceti
+Ticushpakhi
+Timbalderis
+Tionisla
+Toolfa
+Thraskias
+Upsilon Aquarii
+Uszaa
+V640 Cassiopeia
+V886 Centauri
+Varati
+Vega
+Yavas
+Yawa
+Zaonce
+Zeta Horologii
+Zeta Trianguli Australis (Guest City, High Tech)
+
+Ships:
+Rhuagh Hauler
+Ryath
+Passengers
+Orca Passengers
+Armed Passengers
+Armed Trader
+
+Consider to fit a small fuel scoop in the passenger ships for sightseeing trips. With respect to illegal passengers, make the ship a fast one!
+Consider fitting a collector and cargo for limpets for the odd HGE's
+
+Palladium delivery stations:
+Quator Station, Quator
+Cummings Platform, Koller
+Chasles Landing, HIP 86063
+Fort Harrison, Arcturus
+Stewart Orbital, HIP 7564
+Pugson Vision, Tau Puppis
+Felice Station, Konduwa
+Tyson Port, Slatus
+Shavyrin Terminal, HR 571
+Hirayama Enterprise, Laumaia
+Griggs Hub [Aritimi]
+
+Tritium delivery stations:
+Solo Orbiter, Altair
+Curbeam Hub, LHS 3872
+
+Interesting systems:
+Chicomoztoc https://www.edsm.net/en/system/id/8168/name/Chicomoztoc
+
+Code:
+$systems = Invoke-RestMethod "https://www.edsm.net/api-v1/sphere-systems?systemName=Sol&radius=20&showInformation=1"
+$inhabitedSystems = $systems | ? { $_.information.allegiance }
+$inhabitedSystems
+Last edited: Dec 19, 2024
+Reactions:
+electro, Louis Calvert, simulacrae and 5 others

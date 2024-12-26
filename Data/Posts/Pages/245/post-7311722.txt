@@ -1,0 +1,4 @@
+{SAS}Stalker
+Jan 3, 2019
+#4,881
+Is there a way to determine a star system location from a known pattern of stars?

@@ -1,0 +1,23 @@
+Six6VI
+Mar 30, 2019
+#7,112
+Cunder said:
+From my understanding is a Gas Giant is a failed attempt of becoming a star. It is possible that the so called star on the codex is actually a Gas Giant in transition to forming either between being a star itself or a in transition to becoming a Gas Giant due to the failure of becoming a star itself.
+Contemporary wisdom would suggest a gas giant has not yet achieved sufficient mass, inward pressure and outward radiant heat for ignition to occur, which is why it's still a gas giant, and not a star, yet. The 1984 movie, "2010: The Year We Make Contact" had an interesting concept on how this process occurs but it's not the only theory / hypothesis out there. Oxford dictionary definition, here.
+Cunder said:
+This explains the idea why the orbit of the station is always in the dark side of the 8th moon due to the possibility of it being dangerous during it's transition. Which also explains the use of lower power outputs it's using critical systems like life support. The possibility to this is if the Gas Giant does succeed to becoming a star the moon Blocks most of the EMP blast from the succeeding Star formation. This helps from ruining any other systems that are not online and be able to access back up systems if other systems do go down.
+
+Making it less of a pain to fix primary systems on the station.
+Contrary to popular be-LIE-f, the Earth's Moon does not have a dark side, she only has the side we cannot see from Earth due to the two body system being tidally locked with the same side of the Moon always facing Earth. The Moon orbits the Earth (technically the Sun) once every 27~30 (synodic vs sidereal) Earth days during which any given point on the Moon experiences roughly two full weeks of uninterrupted daylight (unless there's an eclipse) followed by a fortnight of night in each cycle.
+
+What you might be looking for is the L2 point of a planet orbiting a single star (see previous post a few pages back for Lagrangian points), because if there's a second stellar body it's going to be more difficult to avoid the light of both than just one. As an example, the James Webb telescope was recently launched into the L2 point of the Sun-Earth system where it orbits the Sun at around 1/100 AU from Earth and is constantly within our shadow as this reduces the necessity for liquid nitrogen cooling of the sensory equipment. Due to advantageous gravitational anomalies created by the two bodies it is also cheaper in terms of fuel for the vehicle to maintain it's position.
+
+In relation to EMP hazards, newer satellites in Earth orbit are able to retract their solar panels and power down completely during cosmic storm events because the danger of overload and damage to the system is significantly higher in equipment that is powered and functioning than it is when it's off. This can also occur on Earth when lightning strikes overhead power or telephone lines. The surge can burn out any connected phones, routers or other electrical equipment that is not earthed and start fires at the consumer end. If your computer isn't plugged in, it won't notice the spike.
+
+Such events have also been known to knock out circuit breakers and blow transformers going back towards the supply end of the system which may suggest a major CME (Coronal Mass Ejection) such as the Carrington Event of 1859 could cause catastrophic damage to the centralised energy grid of today, with distribution lines covering significantly more of the landmass. If you were dealing with a station, such as the Dark Wheel, orbiting any single moon of a gas giant which is itself orbiting the local star, avoiding such events becomes even more difficult. Even if the moon is tidally locked to the host planet it's only going to spend a small fraction of it's orbit in the planet's shadow and the rest in direct starlight.
+
+Consider that the only time when our Moon is completely within the shadow of the Earth is during a Lunar eclipse, there isn't one every mo(o)nth due to her tilted orbital path and they don't last long, only a few hours. Add a second stellar radiance and they can only occur when all four bodies are in conjunction, with one star behind the other, creating a single light source and the planet perfectly aligned between the stars and it's own moon, assuming that planet is sufficiently large and close enough to the moon to completely block the light.
+
+Mind bent yet? Celestial mechanics is fascinating stuff!
+Reactions:
+Cunder and Han_Zen

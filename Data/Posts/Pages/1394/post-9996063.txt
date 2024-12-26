@@ -1,0 +1,10 @@
+Pyroboros
+Nov 13, 2022
+#27,880
+Just wanne share something i found today that some may be interested in. I personally did not got into the Yggdrasil Theory and missed a lot about that.
+And i did not investigated if someone else pointed this out already.
+So i was doing some Linux History research today and then heard the word "Yggdrasil" i was instantly thinking about the posts here in the Forum.
+Turns out one of the First Linux Distro was called Yggdrasil Linux Yggdrasil Linux/GNU/X
+No clue if this is relevant here. also its Dec/1992 most probably a coincidence. But better document it somewhere right.
+Reactions:
+Jorki Rasalas and Louis Calvert

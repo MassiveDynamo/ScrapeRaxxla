@@ -1,0 +1,13 @@
+Jorki Rasalas
+May 10, 2024
+#34,028
+Doctor Dread said:
+I'm simply suggesting that someone who knows how to do it - I don't know how - unpack the original 1984 BBC or the first Commodore 64 version of Elite (a single file named ELITE-E.D64) into whatever was used before compressing. There should be easy to find Raxxla in hex, a line or two. I can do that search.
+
+It was there, in the original 1984-85 versions for various computers. Ian Bell confirmed it, saying it's gone from the later versions. "I don't know. The missions vary across the platforms. There is no Raxxla functionality in the 6502 versions AFAICR."
+
+There's the origin, plain and simple. Might give an important clue. Maybe, just maybe, DB played the oldest trick in the book - sending researchers all over Galaxy, while leaving Raxxxla-whatever-it-is somewhere in the starting core systems (Lave, Leesti, Riedquat etc) as a trick, something to be activated and summoned. There, in that starting micro-bubble from 1984.
+Click to expand...
+That contradicts what FD (I think DB) said that ED is the first game to implement Raxxla. I believe the code of the first game has been extensively analysed.
+Reactions:
+Macros Black and Rochester

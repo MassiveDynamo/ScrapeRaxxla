@@ -1,0 +1,25 @@
+Jorki Rasalas
+Jan 28, 2021
+#20,636
+Stonn Mrogg said:
+Hmm not seeing those green glow videos either.
+
+Not getting any green glows in the belt ~1380ls from Sol.
+
+Where are you seeing this sector 16 label? Not sure what the criteria are for getting this to happen. Just so many posts to sift through, but it doesn't matter...
+
+I realized I did, am doing, and will do what happened when the Thargoid interdictions happened. I raced out to the scene, banged my head on the wall hoping for something green, then grabbed some popcorn and watched youtube instead of playing the game.
+
+Sometimes I wish I wouldn't read the forums so I wouldn't know what I'm missing. FOMO is raging lol
+
+Git that green glow. The popcorn is great btw.
+Click to expand...
+
+Watch my videos (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8911441) for the position. I arbitrarily started counting sectors clockwise from the top. I’ll mark up a photo and link it here so others can see my counting scheme. The glow is very rare, which makes me think there is something RNG about its apparition and it isn’t a lighting/graphics bug. Several reports have come in suggesting that it is being seen in different sectors. So maybe keep flying around the whole belt. I first saw it ~1327 ls from Sol (in the middle of the belt) and have only seen it at the “South” of the belt in sector 16/15 (depending on how you count them). But it would be good to have people flying around the belt and checking out all possibilities.
+
+One other thing to note is how fast you’re flying when you see it. I seem to remember someone ages ago saying you stand maximum chance of observing something instancing if you fly with the throttle marker at the first black bar. So I’ve been flying at that or minimum throttle to try & get maximum time to explore it, and maybe turn/use external camera to see it’s source (have failed there so far!)
+
+Edit: these green glows were proven to be a graphics bug related to the colour pallette slowly decaying afterswitching from Orrery view to normal in-cockpit or camera view!
+Last edited: Jun 29, 2021
+Reactions:
+Fiera, clixer and [PS4] Filthymick420

@@ -1,0 +1,15 @@
+Thatchinho
+Oct 20, 2018
+#3,988
+Noobilite said:
+Looking up Coriolis and found Coriolis effect. Is the Coriolis affect the same thing as that rumor about going around 7 time around a body to find raxxla? Maybe it's describing the effect or something. Maybe Raxxla is somehow related to the Coriolis effect somehow.
+
+http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/fw/crls.rxml
+
+
+
+Possible directions to land on a very difficult planet? Could this mean we'll find Raxxla when the atmospheric bodies are added? BTW, there is a video in that link showing the effect with kids throwing a ball on a rotating thing in a school yard. Might be relevant.
+
+Doesn't seem likely to me. The Coriolis force is just the effect of moving within a rotating frame of reference.
+
+If you want to experience it in game, try docking in a rotating station with rotational correction off. If you want to see it in effect, get someone else to do it while you watch.

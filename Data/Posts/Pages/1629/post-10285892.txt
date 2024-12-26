@@ -1,0 +1,14 @@
+Jorki Rasalas
+Dec 16, 2023
+#32,562
+Rochester said:
+Didn’t someone assess these might be broken solar flare animations, can’t recall?
+Yep Han_Zen and I investigated them a while ago. Seems to be an Artefact of solar flare animation shifted away from the parent star.
+Initially the systems they were observable in seemed to be concentrating down to a black holebeyond the StarofIndia, but then we found they were also evident much more widely. Justan Artefact of the graphics. Can't remember if FD made any comment about them.
+
+
+
+If we're allowing the Milton quote to be so "poetical" that it could be referring to a very bright, very dim OR very small (physically) star, then maybe the "golden chain" is also "poetical" in a similar fashion!!!
+Last edited: Dec 16, 2023
+Reactions:
+Rochester and Emperor

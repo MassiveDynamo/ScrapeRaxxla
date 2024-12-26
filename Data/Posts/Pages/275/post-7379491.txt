@@ -1,0 +1,12 @@
+SpocksOddSocks
+Jan 26, 2019
+#5,485
+Edelgard von Rhein said:
+The skybox is generated when you enter the system, so it never changes. However, the relative position of nearby stars *is* determined based upon your current position. I remember I once went 1 Mls+ away from Merope to look for a Voyager-like POI and I noticed that the skybox was no longer exactly in sync with the star I had targeted for my next jump!
+.
+I've done some looking for TDW station near Alliance space, on the basis that it seems to be orbiting the eighth moon of a gas giant in a very close orbit of a red-looking star, that might be K, M or a T Tauri. In fact, I suspected it might be a T Tauri, since these might be, like the L, T and Y dwarfs, considered 'dark' systems (I think Drew Wagar made the comment about brown dwarfs once in regard to finding Octavia's asteroid base from Reclamation). That's a very unusual orbital arrangement (it would be more likely to be a K star on the basis of the orbit but the appearance to me seems a closer match for a M dwarf or certain T Tauri stars). There are relatively few T Tauri stars in close proximity to the Old Worlds or just 'above' them but I found nothing. I'm now more strongly suspecting it is in a permit-locked system and you can't get the permit unless approached, hence the text of the Codex saying it's futile to go looking for them.
+Click to expand...
+
+I can't remember the quote exactly, but I thought he once said something along the lines of T-Tauri stars being strange things.
+Reactions:
+Scytale

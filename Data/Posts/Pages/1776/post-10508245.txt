@@ -1,0 +1,21 @@
+Nezzie Muso
+N
+Dec 13, 2024
+#35,520
+OK I've been working on this for the last couple of years but making no further progress, so publishing and asking for what I could have missed. I should mention I'm on Legacy, which could be significant.
+1. First clue is that earliest mention in Tau Ceti by Art Tornqvist - Tau Ceti is the other notorious in-game comet system apart from Pareco
+2. Pareco is within the bubble at the date given (2296)
+3. Pareco is owned / exploited by "an evil man" Yuri Grom
+4. Pareco station names are the answers to the six questions of the Raxxla toast - CROWN is the diadem; ASIRE (a sigh) is the whisper in witch space; James WEBB was the siren of the deeper void responsible for the foundation of NASA; the GARDEN (of eden) is the longing of our vagabond hearts (according to the song by Joni Mitchel) and so on.
+5. The stated population of Pareco exceeds that of the six stations - it includes the colony at the comet. Someone once managed to get within the comet instance and posted a screen grab.
+6. The station ring orbits perpendicular to Polaris (Pole-star = Astrophel and the spiralling stars, seen from below) I assume Polaris is permit locked specifically to stop you easily getting the direction right.
+7. The "Omphalos rift" = meaning the navel, would suggest that the access is in the centre of the ring. So I'm guessing you get to the comet and go up toward polaris; or possibly you need to go between comet 1 and comet 2, if anyone knows how to find them.
+
+So. I became allied to all the Pareco factions, I loitered in the system, and I received an inbox "covert" mission directing me to steal data from a secure planetary base. (Blackman Silo+++ on HIP12248 5A) On successful completion of this mission, stealing the data that "we are not alone in the galaxy", I receive an on-screen message telling me that I am now considered "elite" - being a pre-requisite for joining TDW. I've done this 3 times so far. I know of no other system where a covert inbox mission gives you an on-screen message as a reward.
+
+However, many months later this is still the point at which I'm stuck. I have drawn out the map of the system and plotted the location of the comet (four times, the location changes as the stations orbit at different speeds and semi-orbital distances)) and tried to supercruise to the current location many dozens of times, without success, even though I know that someone did once succeed at this. I have flown around the "shipping lane" and "deep space" area inside the centre of the ring for many, many hours (hundreds) and have not managed to locate the comet. Its usually just nside the shipping lane of Asire. I have flown through the approximate centre of the ring in the direction of Polaris (and back) many dozens of times. I have tried hyperjumping through the ring. I have tried visiting the stations in the named order in the toast, in case that made a difference. And about 20 other orderings as well (but there's over 700 possible orderings in total).
+
+I know in Live there was briefly a bug where you could jump in-system to a calculated offset; so did anyone jump to pareco comet 1 or 2 and take a picture? Does anyone have any thoughts on how to trigger the next step ?
+Last edited: Dec 13, 2024
+Reactions:
+Han_Zen, Ian Doncaster, Macros Black and 2 others

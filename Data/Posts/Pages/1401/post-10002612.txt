@@ -1,0 +1,52 @@
+Louis Calvert
+Nov 22, 2022
+#28,005
+I'm back with another Historical Comparison set - as always, the objective here is to establish a baseline across the Sol system for "what's normal and what's weird" for future Raxxla hunters who feel something in Sol may tie into the Raxxla mystery. As with Saturn and Jupiter, it's clear that time and effort has gone into visually matching surface features and large-scale geology - although as we move out from the more studied planets and moons, Fdev clearly took more creative license, and do remember that New Horizons data on Pluto and Charon wasn't yet available in the same detail as we have it today (Pluto flyby was in 2015). As always I'm trying to use pre-2015 data.
+
+See Also, Historical comparisons: Saturn and its moons, Jupiter and its moons.
+
+Comparison of Uranus and its Moons:
+
+Note: As with Saturn and Jupiter, Uranus is known to have many small non-spherical moonlets which are not present in 3308.
+
+Historical moons Comparison:
+Historical records from the late 20th and early 21st Century are sparse. Few probes had been dispatched to the outer reaches of the system. Broadly speaking Uranus' moons are similar to those of Saturn - mostly a combination of ice and rock pock-marked by craters. Miranda is not present in 3308, presumably suffering the same fate as Mimas, both moons are relatively small and comprised of a large amount of ice.
+
+Much like some of the moons of Saturn and Jupiter, Oberon and Ariel seem to have lost all their ice yet retained their mass and radius. Umbriel and Titania seem relatively unchanged over the past ~1300 years.
+
+Uranus Historical Comparison:
+The planet Uranus seems largely unchanged, despite suffering the same atmospheric Hydrogen depletion as Saturn and Jupiter. Over the last ~1300 years Hydrogen has dropped from the 83% estimated in the early 2000s to 73% by 3308, as expected atmospheric Helium has risen from 15% to 26.3% over the same period.
+
+Planetary Rings:
+In the early 21st Century Uranus' rings were described as being "composed of extremely dark particles, which vary in size from micrometres to a fraction of a metre.". Thirteen faint rings were present at this time. By 3308, similar to Jupiter, Uranus' ring system is more substantial, although still very faint compared to Saturn.
+
+Historical Comparison of Uranus and its Moons Conclusion:
+Little was known of the moons of Uranus in the early 21st Century, but compositions were estimated based on radius and mass. As with Saturn and Jupiter it seems as though ice has been stripped from two moons without altering mass, radius or orbit. The remaining moons are broadly similar to historical records.
+
+Uranus itself, despite some alterations to atmospheric composition, appears essentially the same as it did to observers ~1300 years ago. The more stout rings may be the result of collisions between smaller moons or captured bodies, as with speculation around Jupiter's more substantial ring system.
+
+Comparison of Neptune and Triton:
+
+Note: As with Saturn, Jupiter, and Uranus, Neptune is known to have several smaller non-spherical moonlets which are not present in 3308, Triton makes up 95% of the mass of all Neptunian moons.
+
+Historical Triton Comparison:
+Triton in 3308 is permit-locked by an unknown agency, but some information is available. As recorded in data from the early 21st Century, Triton orbits in a retrograde path around Neptune. Historically Triton was known to have an atmosphere of Nitrogen and Methane, early probes detected what might have been clouds and atmospheric 'haze'. This atmosphere appears to be entirely lacking by 3308, it's unknown if this relates to the permit-lock.
+
+Neptune Historical Comparison:
+The planet Neptune appears visually extremely similar to probe data from the early 21st Century. Its radius and mass are identical, despite apparently suffering the same atmospheric Hydrogen reduction as Saturn, Jupiter, and Uranus. Neptune's atmosphere still has visible banding and lighter storm spots, indicating that overall the atmosphere is largely the same after ~1300 years.
+
+Historical Comparison of Neptune and Triton Conclusion:
+Neptune seems essentially unchanged from the early 2000s data, visually or compositionally, despite undergoing the same Hydrogen-reduction (presumably due to skimming for industrial use?).
+
+Triton is a mystery. Historically it was though to be a captured body, possibly from the kuiper belt. Comparisons have been made with Pluto in terms of composition and size. However, many other details are a mismatch with historical records. It was listed as being "geologically active" in historical records, similar to Io, Europa, Enceladus, and Titan.
+
+This comparison shows that Triton in 3308 does not have any of these features listed on Galmap or visually present, and seems to lack an atmosphere. The very fact that some agency felt it necessary to anonymously place a permit lock on Triton is curious. As recently as 3302 Triton was accessible to private citizens.
+
+Comparison of Pluto and Charon:
+
+Pluto and Charon Historical Comparison:
+These two dwarf planets have both suffered the same de-icing as some of the moons of Jupiter, Saturn, and Neptune. Estimates of their radius and composition were hard to make via the primitive probes used in the early 21st Century, however, so considerations must be made.
+
+Next up: the inner planets: Mercury, Venus, Earth (& Luna), and Mars.
+Reactions:
+Rochester

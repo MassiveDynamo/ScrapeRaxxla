@@ -1,0 +1,10 @@
+Jorki Rasalas
+Aug 26, 2019
+#11,404
+alexzk said:
+This is "mass center". This point can have any distances to A-B-C.
+We wanted the center of circumscribed circle which is equaly remote from A-B-C by Radius.
+
+That is true, but the centroid has a straightforward formula. There are many “centres” of triangles. I’m no mathematician, and it’s 20 + years since I did my sailing navigation courses, but I remember that to minimise effect of bearing error you want bearings that are equally spaced around you and distances that are approximately the same, which is an equilateral triangle. Googling “centre of triangle” I found in the case of an equilateral triangle the centroid, incentre, orthocentre & circumcentre are co-located.
+
+Be that as it may, I’m beginning to reconsider this approach- I can’t see that it has any relation to “a journey we all must travel”. The only thing that seems to make sense of that clue, I think, is that the toast represents coordinates of objects that need to be visited in sequence. And also the fact that some of the toasted objects are invisible through dust obscuration...

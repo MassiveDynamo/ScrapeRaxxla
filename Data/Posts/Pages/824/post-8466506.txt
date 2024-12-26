@@ -1,0 +1,14 @@
+alexzk
+A
+May 18, 2020
+#16,475
+yelboc said:
+Parsec is a functional unit a bit like an Inch (which is the length of the thumb from knuckle to hand roughly, and a handy size for timber work), a bit like imperial versus the SI unit based LY, although a year is also rather functional.
+
+It comes from measuring things by parallax from Earth. 1 Parsec is the distance a star would be, if it shifted +/- 1 arc second in the sky between one side and the other of the earths orbit - hence par-sec or parallax-second.
+
+Unfortunately, it was coined and popularised (1838) before we realised that the speed of light is constant (1884), so astronomers still use this rather earth-centric unit. LY makes much more sense if you believe in the fixed speed of light in the universe.
+Click to expand...
+Thanks, didn't know that history. Was always wondered why they don't use LY wider.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

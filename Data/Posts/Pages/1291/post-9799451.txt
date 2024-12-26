@@ -1,0 +1,188 @@
+Jorki Rasalas
+Apr 3, 2022
+#25,811
+Ive been trying to exploring the different cliques of Pilots Federation a little of late, on the hypothesis that you need to get allied with them all to open the Raxxla/DW storyline. Here are my musings:
+
+From EDSM searching on “Pilot” in Minor Factions (not player faction) I see:
+
+1 Pilots Federation Local Branch -PFDemocracy 0 controlled stations 0 controlled systems.
+
+2 Pilots’ Federation Administration - PFCorporate 5 systems 7 stations Otegine/Aldrich, Matet/Coelho, Dromi/Mawson+Dimery+Aitkins, Sharur/Archias, Orna/ Fuzong, however all these systems need Pilot’s Federation permit-newbies area!! Recently implemented so unlikely to be relevant.
+
+3 Pilots’ Federation Local Branch - PFDemocracy 0 stations 0 systems - in ShinDez
+
+4 PilotsFederation - no detail! -rank via rescue missions or Thargoid kills 0 stations 0 systems
+
+5 The Pilots Federation - IndependentDemocracy 0 stations 0 systems Shinrarta Dezhra
+
+
+
+So:
+
+A) Pilots’ Federation (Admin for noobs area, Local for ShinDez)
+
+B) Pilots Federation (Local)
+
+C) PilotsFederation
+
+D) The Pilots Federation ( may be same as B)
+
+
+
+The different (original, now corrected!) spelling discrepancies were noticed in the Tourist Beacons in Shin Dez. Perhaps this beacon set of clues with different spellings is really why they are located in Shin Dez which you have to be Elite to enter?
+
+We know from Elite Premonition that TDW in Shin Dez are “at the outer rim” - “Obfuscated In The Outer Rim (Answering The Call Of Adventure)”- old SD mission.
+
+
+
+Clearly for some arcane reason FD have set up several factions of PF in-game. Rochester raised a bug report on these different spellings & the response (later deleted!!) indicated that all spellings were correct so there must be a reason. Clearly this is an obfuscation on the basis that most people would assume this was a single faction and put the differences down to bad spelling on FD’s part (which has always struck me as a bit strange, especially since MB was an author and Exec Producer who should have enforced good spellchecking practice). I suspect we do need to ally with all these variants to trigger some event. Could this be part of the “obfuscation on the outer rim” from the early SD missions?
+
+
+
+Could be there are just 3 factions:
+
+1 Pilots Federation Local Branch -PFDemocracy AND 5 The Pilots Federation - IndependentDemocracy
+
+2 Pilots’ Federation Administration - PFCorporate AND 3 Pilots’ Federation Local Branch - PFDemocracy
+
+4 PilotsFederation - no detail! -rank via rescue missions or Thargoid kills
+
+
+Shinrarta PF Tourist Beacons - original spelling (now corrected in-game!)
+0244/Pilots’ Federation Origins/The Pilots’ Federation has existed for a very long time. It was founded in 2805 during the great surge of private ownership of small starships enabled by the hugely competitive modular ship designs made available during the previous decades. / It was founded as much as a way of agreeing prices for ship parts en masse (where member benefit from group discounts), but soon becane much more, providing a system where trusted pilots could share route information and protect each other from a new scourge - also enabled ny the proliferation of small starships - of interstellar piracy. Over the years an unofficial tally of pirate kills amongst some members began as 'bragging rights' but soon members started showing their kills on their online IDs, and before long those without such a rating were referred to as 'Harmless' - and by implication not so desirable to provide cover on a route known for pirate attacks. / Gradually, the Pilots Federation grew to encompass a great many pilot-owners and their ships. It also provided an element of respectability as the itinerant nature of their lifestyles had started to bring suspicion amongst planet-siders - where the lack of accountability of space farers brought about by their ability to simply move on to a different system before the law caught up with them gave them a bit of a reputation as cowboys or as thieves in certain places. The Pilots Federation would not tolerate dishonourable behaviour among its members, and so such members would wear the PF's logo with pride - earning them a little respect in their dealings, and an antidote to the cowboy image.
+
+
+
+0245/The Elite/In 3100 the Pilots Federation began issuing modified version of its 'wings' badge that included the pilot's rating written across it in capitals, and made official the names of these ratings, starting with 'Harmless, then 'Mostly Harmless', all the way to 'Elite'. The most coveted was the 'Elite' badge, and the first of these was awarded to Commander Peter Jameson, who wore it on the rear of his Cobra MkIII for the rest of his life. / Before long this small and highly respected group of pilots with these coveted badges became known as 'The Elite'. They received all sorts of offers - both commercial and personal - (including offer of marriage!). The commercial side became valuable - whether it was transporting royalty or taking unknown items 'no questions asked'. The group was considered utterly trustworty, with the confidentiality assured, and its members took this very seriously.
+
+
+
+0246/The Elite Federation of Pilots/As their reputation spread, the small group became overwhelmed. There was no way they could satisfy anything like all the demands on them, so the formed 'The Elite Federation of Pilots'. This was a sub-group of the Pilots Federation and it ran its own system to exchange offers between its members. It was quite secretive, and hugely respected, and there was a high demand for their services. Their main problem was how few 'Elite' pilots there were. Many pilots would get rich and retire long before they attained the coveted 'Elite' status; the fundamental problem was that the rating was a kill count. Wise members of the group realised that, in fact, they were no better pilots than some younger pilots with much lower ratings - they had just been doing it for longer - though others outside the group didn't see it like that. They wanted the cachet of employing an 'Elite' pilot. They were also aware that the pirates were getting better. They were better organised than in the early days, and better equipped. / It is rumoured they run secret bases and have their own technologies, but what is known for certain is they are highly respected, and get generous discounts throughout human space. In practice the aura of secrecy proved a great strength. The EFP now has representatives throughout human space and beyond, and it is an organisation to which every pilot aspires to be a member.
+
+
+
+0247/Pilots’ Federation Secrecy/The Pilots’ Federation in many ways is a secretive organisation. This in part reinforces its status of neutrality. It exists to support pilots, not nationalities or political factions. Over the years this has led to its acceptance (albeit grudging in some cases) in practically all human domain. / Despite its ubiquitous presence it has very little direct dealings with the public. Even member pilots tend to interact via the networked rankings and bounties system. The prime exception to this is registration. A pilot has to register in person for their PF license. Registration is performent at offices throughout human habitted space. / The PF represents the nearest thing to law in uncontrolled and ungoverned space. Their existence provides a safely net for human expansion in space beyond the major factions. / The Elite Federation of Pilots (EFP) continues as a select and extremely secretive group within the larger organisation.
+
+
+
+0248/Pilots’ Federation Interests/The Pilots Federation as an organisation controls a vast financial empire. This is not public knowledge, although the major intelligence services are aware of the fact. However for the most part these financial resources are used to improve safety for pilots and for funding bounties used to improve safety for pilots and for funding bounties where local authorities do not (or in uncontrolled space), some governments have been known to take advantage of this. / The Pilots Federation also takes a private interest in the independent venture with new colonies, this will typically be masked by front companies. In only one known case has the PF taken control of a world or system - see the Founders' World section below. / As well as providing fund for bounties it also receives transaction fees for completed bounties that are processed through the PF bounty system - and in many cases retains unclaimed bounties where, for whatever reason, the pilot who has earned it doesn't claim it. / By far the most significant contribution to the PF's finances is the near monopoly it has for the embedded ship and station systems.
+
+
+
+0249/Pilots’ Federation's Near Monopoly/Historically the Pilots’ Federation has been a trusted soure of information for pilots. As humanity expanded into space that need for informatiuon continued to grow. / Before 3100 they provided data for many ship and station manufacturers. After 3100 in an understated, but effective campaign of acqusitions and mergers they came the dominant provider of this data as well as the hardware and software solutions serving that data. / From star chart data, ship data and bounty management systems the Pilots Federation expanded their data sources to include markets, newsfeeds and communication systems. / In 3300 the Pilots Federation's GalNet system has a near monopoly on all shipboard and station embedded systems. The systems are fitted as standard on nearly all independent ships and even some militaries. It's a testament to the trusted nature of the PF that his monopoly has occured with the little resistance bar some back room negotiations.
+
+
+
+0250/Pilots’ Federation's Influence/Officially, the Pilots Federation is apolitical: as an organisation it does not interfere with the internal workings of systems or factions. However this official stance is a misnomer. The PF wields considerable power through its web of political contacts as well as the application of the bounty system and control of the ship and station embedded systems. / It also uses a lot of soft power by providing pilot safety support throughout human space. / There are also known cliques within the PF (The Dark Wheel is probably the most famous) that have their own agendas. Officially these are discouraged, but in an organisation so large they are tolerated as long as they don't overstep the mark.
+
+
+
+0251/Pilot’s Federation's Secrecy/Much of what the Pilots Federation does revolves around secrecy; and this has many layers. Within the Pilots Federation, the Elite Federation of Pilots is even more mysterious and secretive, and at the centre of that is the elusive 'Founders World'. / It is the only system directly controlled by the EFP, and even its location is closely guarded. The secrecy is maintained by the EFP using 'misinformation' - there are a great many rumours of its rough location - and they all contradict each other. Only a select few - the members of the EFP - know the truth. / The system is governed by the EFP and it is here that the organisation's headquarters is based. / EFP members are allowed to retire here in relative anonymity.
+
+
+
+PF CLIQUE ANALYSIS-galnet and Tourist Beacon searches
+
+Pilots Federation
+
+TB 0246, 0245
+
+Davanix claims Allied after combat in the Jupiter Rochester HIP 54530 CG, but could be “The Pilots Federation” clique (if they are different!)
+
+Galnet 5 September 3300: The authorities are reporting that they have managed to contain the dramatic increase in black-market trading in the past week with numbers of illegally traded items considerable down on last week...The recent reduction in commodity supply rates have driven traders farther afield in search of profitable trade routes, but it would seem that only 2% of Commanders can really call themselves adventurersvisiting more than 20 different markets when exploring for opportunities and no single Commander has yet to trade commodities in every single market currently available...Puzzled mechanics working in shipyards across the sector have noticed that some Frameshift drive cores have needed replacing much earlier than expected. One was overheard talking in a bar on Smithy’s Claim: “These cores are normally good for 1000 light years, and yet nearly 1 in 20 of my customers has needed a complete drive overhaul, where have these Commanders been flying?” (Adventurers-perhaps a reference to TDW description?)
+
+29 August 3300 all seem to be black market/piracy-related posts
+
+15 August 3300
+
+12 August 3300
+
+8 August 3300
+
+11 December 3304: A new networked database system named the Codex has been released to the galactic community. The Codex is a joint initiative from the Pilots Federation and Universal Cartographics.
+
+7 October 3307: Pilots Federation ALERT* The battle between Delta Pavonis Galactic Interstellar and EG Union has concluded successfully for Yuri Grom’s forces.
+
+
+
+Pilot’s Federation
+
+TB 0251
+
+1 July 3300: Significant numbers of fatal unprovoked attacks on Pilot’s Federation members are being detected. Pilots Federation members are reminded of their obligation to uphold the values of our organization by seeking out and destroying enemies of the Pilot’s Federation.Bounties have been placed on the heads of all such rogues. (BH or assassination missions?)
+
+
+
+Pilots’ Federation
+
+TB 0250, 0249, 0248, 0247, 0244
+
+Faction in Shinrarta Dehzra; Jorki Allied with Local Branchthrough data/cargo missions & exploration data.
+
+responsible for setting the new pilots’ locked region, and also for granting all our pilot’s Licences.
+
+TDW is a subfaction.
+
+20 April 3305: The Pilots’ Federation has revealed plans to establish a restricted area of space for newly licensed Commanders.
+
+18 February 3308: Pilots’ Federation ALERT* Commanders are resisting Thargoid incursions in the Dan, HIP 12314 and Nauni systems.
+
+
+
+PilotsFederation
+
+rank via burning station rescue missions or Thargoid kills. Jorki Allied
+
+No relevant Galnet posts!
+
+
+
+The Pilots Federation
+
+EDSM shows no existence anywhere - Jorki rep at ~ -40%?
+
+29 July 3302: “The Pilots Federation was established in 2805 in response to a surge in private-starship ownership. It was created principally to allow pilots to share reliable trade-route information, and to provide them with a system of mutual protection against the rising scourge of interstellar piracy.”
+
+“At the time, independent pilots were generally mistrusted, the itinerant nature of their profession giving rise to perceptions of irresponsibility. The Pilots Federation’s strict code of conduct put an end to this, and over time a galaxy-wide respect for its members emerged.”
+
+“As piracy became more prevalent, the Pilots Federation started issuing bounties on known pirate vessels.Some of those outside the organisation condemned the initiative as bloodthirsty, but few were able to argue with the impact it had on piracy. Shortly thereafter, the Pilots Federation introduced an official ranking system to reflect the number of combat victories achieved by each of its members. Pilots who accumulated the largest number of kills were awarded the title of Elite – a citation that became highly coveted among independent pilots.”
+
+“The Pilots Federation derives the bulk of its wealth from the GalNet data network. Originally a system of ship, bounty and star-chart data, it evolved into an interstellar aggregator of market information and galactic news. By 3300, the Pilots Federation was not only the dominant provider of this information, it was also the main manufacturer of the hardware and software serving this data. Today, Pilots Federation systems are fitted as standard on virtually all independent starships.”
+
+“In 3290 the Pilots Federation expanded its ranking system to encompass the fields of trade and exploration. In 3301 it expanded it again to include pilots who had distinguished themselves in the Close Quarters Combat championships.”
+
+“The Pilots Federation has always remained politically neutral, avowing that it exists to support pilots rather than nationalities or political factions. The organisation is based in the Shinrarta Dezhra system, which can be accessed only by invitation. Receiving an invitation is typically dependent on achieving a high rank in the Pilots Federation. This stipulation has contributed to perceptions of the organisation as secretive – a perception compounded by the fact that the Pilots Federation has very little direct interaction with the public.”
+
+24 June 3301: The Pilots Federation Supports Fuel Rat Initiative
+
+Each year, thousands of pilots go missing in the black.
+
+Some are waylaid by pirates. Others are lost to the dangers of space. However, an estimated 63% of all deep space losses are attributed to pilots who simply run out of fuel in an area where others rarely tread.
+
+Now a new initiative, which is being backed by the Pilots Federation, is hoping to turn those figures around. A group of independent pilots, calling themselves the Fuel Rats, have begun patrolling the outer fringes of civilisation. Their mission? To provide assistance to traders and explorers before their life support runs out.
+
+6 July 3303: The Pilots Federation has announced that its campaign to clear the LHS 3447, Eravate and Asellus Primus systems of agitators has been a success. Hundreds of combat pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the systems.
+
+11 FEB 3307: Pilots Federation ALERT ... Jupiter Division ships have engaged in battle with rival Federal vessels in the HIP 54530 system...The Pilots Federation has agreed to supply all ships participating in this conflict with temporary permits to access HIP 54530. These will expire early on Thursday the 18th of February 3307.
+
+
+
+Summary- likely ranking activities
+
+So: Ps_F/ P’s_F/ Ps’_F/ PsF/ T_Ps_F
+
+Ps_F: # markets traded, Anti-piracy missions.
+P’s_F: BH enemies of the Pilot’s Federation-sponsored CG/BH/Assassination?
+Ps’_FLB: Missions for SD faction -YEP, Jorki Allied
+PsF: Kill Thargoids -YEP, Jorki Allied
+T_Ps_F: refuel stranded pilots, sponsored CG
+I’ve been trying a bit of refuel/repair activities in Civil Unrest/War systems. They do not increment the SAR count in the codex pilot stats, and they seem to receive a “Trade” reward. This can be as low as 10 or 20 Credits, but think some I got 2,500 Cr (think I was allied with the ship’s faction) & need to be redeemed within a station run by that faction, Interstellar Factors can’t do it.
+
+Also did some pirate assassination missions and the recent Gliese 868 anti-piracy CG. No results to report as yet
+(edit: apart from the fact my hand & wrist RSI is complaining again!)
+
+Trying to do the irradiated minerals CG at the moment, but RL keeps getting in the way. Today...grandkids!
+
+Last edited: Apr 4, 2022
+Reactions:
+simulacrae, Macros Black and Rochester

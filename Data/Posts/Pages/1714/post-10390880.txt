@@ -1,0 +1,23 @@
+Macros Black
+Jun 20, 2024
+#34,268
+Jorki Rasalas said:
+Thought for the day...
+
+I've been pondering What Raxxla may be, while also pondering Where, and How to find it.
+
+From the logo, I suspect Raxxla is an orbiting space station, probably old type Coriolis so smaller than current version. It might also be a Guardian ark ship, realisation based on the same Coriolis 3D model. I suspect, from the Li Qing Jao garden design, that it is orbiting in a planetary ring which has 6 mineral hotspots. The circular arcs of the logo were (still are?) seen at the entrance to asteroid bases, & several of those exist in-game in planetary rings. To my mind the black shapes on the logo suggest the outline of diamonds, so it is possible that at least one of the hotspots is LTD. If it is hidden then a clue to localising it might be that it will have cleared a path, so there will be an associated gap in the planetary ring...that fits with the possibility that it has accreted valuable minerals on its hull over a long time, so that would fit with FD's (Arthur?) suggestion that "it should be a huge payoff". My reasoning here is based on visual similarities between aspects of the logo and this diagram of various cuts of diamond.
+
+
+
+
+
+How to actually find it? I'm still puzzling over this question!!!... I think it's clear ship sensors will not detect it at range in the usual fashion ("the system it's in has been honked but it was not detected"). So does it exist in normal space, and we just have to poottle around blindly honking to detect it at very close range? Or do we have to drop in on it out of hyperspace? (In which case how would we know when to do that if its invisible?- "comets" have an instancing range of around 50km or so & you have to be very close to drop in on their instance. I've been searching around a contender system for a few days now-it's boring gameplay! I've set up my Joystick Gremlin profile to hold the scanner fire button permanently to reduce strain on my painful hands!
+
+There's another possibility that came to mind-it might be a solid LTD asteroid, possibly engraved with DB & MB faces...that would fit DB's amusement in the livestream when he said we "don't know it is"...but I suspect this is just my DB bobblehead envy showing through.
+
+Does any Spansh (or alternative) report give the number and type of mineral hotspots in a ring? I've flown to around 25 systems visually checking with my surface scanner, but want to check out another 25 or so.
+Click to expand...
+https://edtools.cc/miner knows where to find specific minerals/metals in specific rings so that's a start.
+Reactions:
+Jorki Rasalas and Rochester

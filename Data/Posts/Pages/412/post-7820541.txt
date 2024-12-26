@@ -1,0 +1,7 @@
+yelboc
+May 28, 2019
+#8,233
+Zieman said:
+F10 should take screenies. IIRC good old PrintScreen works too.
+You could use the free version of FRAPS or some other to grab screenies too.
+Neither F10 or PrinScreen work for me. Maybe FRAPs is what I need... thanks. Not sure I could bear win10 for the sake of screenshots

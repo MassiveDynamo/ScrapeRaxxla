@@ -1,0 +1,25 @@
+Noobilite
+Feb 11, 2020
+#15,151
+Koben said:
+Have you noticed that the "IPv4 Address" on the top of you DBX cockpit frame does not fit a regular IPv4 address: View attachment 161758
+If you take off 255 from each of the larger numbers you get.
+
+35.167.11.1
+92.11.0.110
+
+Does this have any relevants to anything in real life or the game?
+
+35.167.11.1 - ec2-35-167-11-1.us-west-2.compute.amazonaws.com - United States - Amazon.com, Inc. - IP address geolocation
+35.167.11.1 or ec2-35-167-11-1.us-west-2.compute.amazonaws.com is an IPv4 address owned by Amazon.com, Inc. and located in Portland, Oregon, United States (see map)
+db-ip.com
+
+Portland. I was just at a base called portland selling diamonds. Maybe it is a hint.
+
+Check your IP address in system anti fraud detections, detecting real location
+www.ip-score.com
+92.11.0.1 IP Address Detail - IP Address Location Lookup - Abuse IP Report
+92.11.0.1 IP Address Whois, IP Address Lookup, Revers IP Lookup and Domain Whois
+ipaddress.is
+Reactions:
+Machina Ergo Sum

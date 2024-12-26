@@ -1,0 +1,21 @@
+selbie
+Jan 26, 2024
+#33,181
+These sectors do not align neatly to the coordinate space we know and love; the nearest sector "corner" boundary to Sol is at coordinates [-65, -25, 215]. The reason for this oddity is potentially explained by knowing that Frontier internally appear to use different coordinates which put Sol at [49985, 40985, 24105]. The boundary coordinates shown earlier match a coordinate system with such an origin (e.g. 49985-65 is a multiple of 1280).
+The name system is secondary, I was just referring to the coordinates that have somehow been measured by players.
+Assuming this is accurate the corner of the Sol boxel is:
+X = -65 offset
+Y = -25 offset
+Z = 215 offset
+So if Sol is exactly 49985, 40985, 24105 that means:
+(49985 - 65) / 1280 = 39
+(40985 - 25) / 1280 = 32
+(24105 + 215) / 1280 = 19
+
+This is where my brain starts to implode. Does this mean Sol's "true" coordinates are 39, 32, 19 (?)
+Is the factor 1280 used to generate a large enough number for greater location precision?
+Perhaps the vector lattice of the coordinates won't allow for systems directly on the boundary or 0,0,0 of a boxel? so they "dislocated" the boxels to keep Sol (ie the point of origin) away from an edge?
+Edit: Also does this coordinate offset value relate to the theorized location of the signal? some other clue?
+Last edited: Jan 26, 2024
+Reactions:
+Quaero

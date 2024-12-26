@@ -1,0 +1,39 @@
+Louis Calvert
+Jun 27, 2024
+#34,342
+selbie said:
+The garden is a systemic feature based on the Tourism archetype. So if it relates to the station, then what other aspect of the station might help glean something related?
+
+There is still an unsolved mystery behind the dynamically changing signals emitted from the internal station 'core'. Heard loudest at the central spire directly above the rearmost landing pads.
+This recording I took from Donars Oak in Delphi for example.
+View attachment 395967
+I know people have scoured these for any method of decoding the shapes, but it might be a wise investigation to isolate / rule out whether this signal is related in any way to the Tourism stations and thus the garden designs.
+The easiest way to make progress is to record all station meta-types and compare.
+
+Is it 'just' the sound of particular types of stations, or is the sound different per station interior?
+
+For example; Drew Wagar talked one of of his livestreams about how his 'home' station that was named for him and granted to him very early on had the interior appropriate to that type and location, and then he saw the garden-type interior and asked MB if he could have that one in 'his' station as a special treat. Drew says that he asked many times and finally (on his birthday) he got it.
+
+I don't know if the interior Drew is talking about is the 'Milton Garden' type - but if so we can immediately rule out any "clue" that relations specifically to the locations of stations with that interior, since we know of Drew's interior being changed on the whim of a developer, not as part of a larger plan. (lots of IF there obvs, but you guys can figure it out easy enough).
+
+However, this also confirms that the station interior is independent from the exterior, to the degree that it can be substituted like-for-like. An interesting facet of the design, and obviously makes sense, therefore you can have a lot of combinations of exterior/interior to create more variety. Therefore any station can have any interior, in theory - this means that if you do find anomalies (Milton Garden interiors where there shouldn't be one, for example), that's more suggestive than "it has to have that type of interior because it's that type of station".
+
+So - loop back to the original conundrum them:
+
+Is the sound of the "Milton garden" type that you're interested in related to the "shell" of the station, or the interior, or some other factor. You'd only need to collect a sample of a few in order to figure that out.
+
+Second aspect of the Milton Garden to consider:
+
+How many "Milton Garden" types have been added since launch? New stations have been brought online, specifically related to expansion and exploration of the Frontier regions and beyond.
+
+Has any exiting station changed to a "Milton Garden" type interior? I genuinely have no idea if interiors ever change? If it's a tourist interior but the system changes economy type does that change the interior? I don't know??
+
+If the distribution of these specific garden stations is essentially in fitting with the theming of where those stations should be (they're tourism stations right?) - therefore you can easily sample for expected statistical distribution based on the expected conditions. I'd imagine (if it's not already been done) someone can figure out the "rules" of how those types of interiors should be distributed.
+
+If you keep finding that the location of "Milton Garden" stations doesn't match what you'd expect - there's more going on and it's worth looking into more. If it's basically what you'd expect, then you can put a big hefty pin in that and not bother investigating further until more info comes around.
+
+Doing this kind of very basic stuff you can all pretty easily determine if there's likely to be any significance in the Milton Gardens or not.
+
+If you've already done all this, apologies I've been away for a while.
+Reactions:
+Darrack, Rochester and CMDRCorrMorningstarFelian

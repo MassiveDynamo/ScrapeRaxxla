@@ -1,0 +1,637 @@
+Jorki Rasalas
+Apr 12, 2022
+#25,925
+Can someone please explain why this purported disclosure by MB at a closed Q&A session is still being pushed? Its just a huge time waster!
+
+1) it was supposedly a closed session, so an NDA is implied, even if attendees didn't have to sign a legal document
+2) where are the supporting statements from these other people who witnessed it?
+
+There are two relevant points here:
+1) As Rochester said, there is no documented support so it is hearsay evidence and less confidence can be placed on it than otherwise (I personally believe it is likely to be true, but that is not the point!) - Rochester is talking about how evidence is assessed, in Intelligence analysis, in Judicial courts etc. Uncorroborated hearsay has low confidence, because people mishear, misunderstand, forget.....
+(For Hearsay evidence definition see https://en.m.wikipedia.org/wiki/Hearsay; MB is not available for cross examination on this, I asked a CM to check this statement with him & MB would neither confirm nor deny it!)
+2) like many (most? all?) MB “clues” it tells us ABSOLUTELY NOTHING USEFUL in the quest for Raxxla!
+
+MB is an author and a master of his craft, he was the game Executive Producer at the time and teaser clues that actually contain no useful information is a very good marketing ploy. Without these teasers how many of us here would still be looking for something where we dont know where it is, what it is, or even why it is? (Though actually we do know a little hint of information about the why-Drew told us it was in the background alien lore document, so we know it relates to aliens within game; I hypothesise a Guardian connection).
+
+Assume this rumoured “disclosure” is true. So someone entered the system, honked, didnt notice Raxxla and left. What does that tell us? ABSOLUTELY NOTHING USEFUL!
+The system could be entered at that time- it might or might not have been permit locked, if so the pilot had the permit. Does it tell us the system can still be entered? NO! It could have been locked later by FD, that happened to a lot of systems. Does it tell us where the system is? NO! from the release date of the game some people were circumnavigating the galaxy, going on long distance exploration trips....It might be anywhere! (Though I think the codex first rumour date is suggesting it’s in/near the bubble; It could even be in Sol, the game “origin”, because the Sol permit is easily gained....)
+Does it tell us anything about Raxxla itself? NO! only that it was not detected. It was early days, before the universal ship scanner was introduced, so it could have been out of range of a basic or intermediate scanner. Does it tell us what Raxxla is NO! -could be an NPC, planet, asteroid, station, installation.... anything!
+
+MB has said it is a definite place (not text) and very difficult to find (see my FD quotes thread). So it may be that you have to be in exactly the right spot, within say 50km (apparently the in-game comet influence distance) of it for it to be detected by ship scanner. The odds against that are very high with a minimum SC speed of 30km/sec and 16 seconds between honks. If this is the case FD could even tell us where it is and we’d have a hard time finding it!
+(And IMHO the Pareco system, with its six stations all orbiting a comet, is sufficiently notable for it to be an FD clue that this is the sort of detection distance used to hide Raxxla-MB did say “you have to make some of it a tiny bit obvious”, and comets are tiny!)
+
+There is, I believe, a genuine “clue” in the codex:
+“Several versions of the Raxxla story mention an alien artefact, the Omphalos Rift, described as a gateway or tunnel through which parallel universes can be accessed. These details, however, were later shown to bear a striking resemblance to the children's story Princess Astrophel and the Spiralling Stars, and soon lost credibility. Undaunted, some Raxxla seekers insisted that the story's author had cunningly concealed facts about the mysterious locale in his book as hints for those with eyes to see.”
+
+Now this book does not exist, so why mention it? We cannot see the text of the book since it does not exist. We do have “eyes to see” the book title, since that is given, so could the system name or some other indication be hidden in the book title? Using the Spansh systems search I looked up systems within 140ly of Sol (to fit the first rumour date “clue”, which was just before Achenar (139 ly from Sol) was colonised). I then started to check (manually) for in-game system name anagrams that can be made from the letters within “Princess Astrophel and the Spiralling Stars”. There are a lot!!! At some point I started to include the distance from Sol and the lead faction in case that gave any indication...eventually I gave up because there are so many!
+
+These are as far as I got (the apparently odd way some of these names are constructed suggests to me that FD did exactly this when naming them, to obfuscate the quest) :
+Sol (also planets/moons Earth, Neptune, Europa, Io, Callisto, Titan, Dione, Iapetus, Rhea, Titania, Ariel, Triton, )
+
+Talta
+
+Altair
+
+Careena
+
+Narenses
+
+Rana
+
+Taliesin
+
+Elphin
+
+Sin
+
+Connla
+
+Liasstrata
+
+Nessa
+
+Dala
+
+Athra
+
+Cet
+
+Tara
+
+Capella
+
+Isleta
+
+Erne
+
+Eranin
+
+Alshain
+
+Nornari
+
+Alrai
+
+Dahan
+
+Eeaea
+
+Eea
+
+Eta Cephei
+
+Circe
+
+Ithaca
+
+Talitha
+
+ER8 (ER eight)
+
+Pan
+
+Ptah
+
+El
+
+Liaedin
+
+Arth
+
+Castor
+
+Aine
+
+Etain
+
+Edin
+
+Aten
+
+Ra
+
+Thesan
+
+Ehi
+
+Helios
+
+Alectrona
+
+Eos
+
+Phanes
+
+Caph
+
+Lai
+
+Algreit
+
+Arinna
+
+Inti
+
+Neto
+
+Ao
+
+Tohil
+
+Dagr
+
+Atarapa
+
+Atanua
+
+Hors
+
+Radegast
+
+Shenetserii
+
+Ishtar
+
+Arare
+
+Parcae
+
+Geras
+
+Horae
+
+Nona
+
+Nuenets
+
+Sheratan
+
+Egeria
+
+Nortia
+
+Tinia
+
+Nott
+
+Aoesta
+
+Elli
+
+Hai Ho
+
+Dalia
+
+Rolli
+
+Orna
+
+Ori
+
+Taran
+
+Ho Hsi
+
+Taranis
+
+Ditia
+
+Thor
+
+Otegine
+
+Perendi
+
+Gebel
+
+Panoi
+
+Indra
+
+Shinrarta
+
+Set
+
+Sango
+
+Rantii
+
+Tao Ti
+
+Chelgit
+
+Alpha Caeli
+
+Aparctias
+
+Argestes
+
+Circios
+
+Pepper
+
+Lips
+
+Neche
+
+Ehecatl
+
+Enlil
+
+Isis
+
+Rish
+
+Iansan
+
+Toci
+
+9 Ceti (nine ceti)
+
+Nareri
+
+Pacana
+
+Asherah
+
+Ashtart
+
+Rhea
+
+Hera
+
+Sionesta
+
+Neits 69.69
+
+Herishep. 69.74
+
+Aeneas 60.79
+
+I Puppis. 69.87
+
+Gato. 70.17
+
+Don 70.35
+
+Daiti. 70.62
+
+Arigens 71.03
+
+Anglii. 71.07
+
+Apala 71.37
+
+Hlin 71.74
+
+Santal. 72.05
+
+Icontia 72.06
+
+Noegin. 72.26
+
+Lhan. 72.39
+
+Ot. 72.50
+
+Aongi 72.66
+
+Nepi. 72.78
+
+Senones. 72.87
+
+Panarion. 73.20
+
+Arngi. 73.23
+
+Greila. 73.28
+
+Gitse. 73.43
+
+Nanter. 73.62
+
+Andceeth 73.96
+
+Apep 74.03
+
+Olgrea. 74.12
+
+39 Leonis (three nine leonis). 74.36
+
+Potriti. 74.37
+
+Thiin 74.70
+
+Sarin 75.12
+
+Shen Di. 75.15
+
+Asteria. 75.18
+
+Chini. 75.36
+
+Halai. 75.42
+
+Hecate. 75.68
+
+Ratri. 75.82
+
+Chelidones. 75.84
+
+Chandra 75.85
+
+Naits. 76.02
+
+Cosi. 76.38
+
+Ngaledi 76.45
+
+Acionna. 76.86
+
+Spinoni. 77.38
+
+Dangarla 77.43
+
+Ehlangai. 77.58
+
+Har. 77.58
+
+Tlapan. 77.59
+
+Lir. 77.65
+
+Nodens. 77.76
+
+Islasto. 77.92
+
+Sinann. 77.98
+
+Calor. 78.07
+
+Nandh. 78.07
+
+Hoder. 78.41
+
+Eta Indi. 78.83
+
+Li Cha 78.96
+
+Paitina. 79.40
+
+Aegaeon. 79.55
+
+Ahti. 79.57
+
+Pancienses. 79.67
+
+Miola. 79.71
+
+Athena. 79.72
+
+Pacalite 79.72
+
+Tsetsegei 79.72
+
+Anapos 79.80
+
+Narentes. 80.14
+
+Ceto. 80.16
+
+Delphin 80.33
+
+Doris 80.35
+
+Dalla 80.36
+
+Solati 80.51
+
+Indaol 80.53
+
+Galene. 80.88
+
+LO Pegasi. 80.90
+
+Stheno 81.15
+
+Pareco. 81.16
+
+Herci. 81.36
+
+Dierites. 81.38
+
+Aphros. 81.54
+
+Ladon. 81.56
+
+Naiti. 81.60
+
+Alcor 81.71
+
+Tegmen. 81.84
+
+Lethe. 81.92
+
+Tricor. 82.06
+
+Siren. 82.12
+
+Telchine. 82.20
+
+Panopi. 82.31
+
+Salleda. 82.41
+
+Sanorta. 82.48
+
+Alioth. 82.53
+
+Palis. 82.60
+
+Ngeri. 82.77
+
+Thalassa. 82.82
+
+Thetis. 82.83
+
+Triteia 82.87
+
+Delkar. 83.11
+
+Triton. 83.16
+
+Ethli 83.41
+
+Seeti. 83.48
+
+Peela. 83.60
+
+Corn Pin 83.82
+
+Targari. 84.11
+
+Tatil. 84.31
+
+Seer 84.52
+
+Tarach Tor. 84.53
+
+Orgelal. 84.66
+
+Trella. 84.74
+
+Lidpar. 84.90
+
+Adenets. 85.01
+
+Perit. 85.02
+
+Cheng Den. 85.25
+
+Caller. 85.32
+
+Ba Po. 85.39
+
+Anindari. 85.56
+
+Pie. 85.82
+
+Opila. 85.85 Sirius Special Forces
+
+Lorden. 85.99. Verne Partners LLP
+
+Har Itari 86.21. Terra-EX Astro Corp
+
+Itela. 86.29 Federal Expeditionary Armed Response
+
+Gebo. 86.40
+
+Ringardha. 86.71 Leviathan Shipyards Corps
+
+Tethlon. 86.88. Atlas Corporation
+
+Cochipati. 86.93. East India Company
+
+Tiliala. 86.98 Tiliala Jet Life Incorporated
+
+Andere. 87.02. Alioth Independents
+
+Shedi 87.06. The Fatherhood
+
+Peltan. 87.12
+
+Tiris. 87.21. Pixel Bandits Security Force
+
+Rho Indi. 87.23. The Fuel Rats Mischief
+
+Holiacan. 87.31. Alioth Independents
+
+Serrot. 87.35. CQC Holdings
+
+Gree. 87.50 Alioth Independents
+
+Negriti. 87.96. Independent Negriti Progressive Party
+
+Nedos. 88.04. United Nedos League
+
+Epsilon Ceti. 88.18. Tetekhe Inc
+
+Ascella. 88.20. Ascella Public Ltd
+
+Nett. 88.34
+
+Norn. 88.37. Brazilian Armada X
+
+Indrians. 88.51. Nullspace Technologies
+
+Lindol. 88.52. Perez Ring Brewery
+
+Tenche. 88.57. Movement for LP 876-76 League
+
+Pelin. 88.57. Sidewinder Syndicate
+
+Carini. 88.66. Ice Storm Squadron
+
+Pacap. 88.67. Green Party of Ngeri
+
+Cettal. 88.69
+
+Haritana. 88.76. Terra-EX Astro Corp
+
+Detris. 89.19. CPD-59 314 Imperial Society
+
+Lillith. 89.29. Social Eleu Progressive Party
+
+Tetrian. 89.30. Yimanbin Nationalists
+
+Deacon's Star. 89.30 13th Legion
+
+Lenore. 89.53. Wolf 406 Transport & Co
+
+Noti. 89.60. Olympus Trading Corp
+
+Grendel. 89.67. Federal Liberal Command
+
+Caihe. 89.74. Zinra Corporation
+
+Caldarn. 89.75.
+
+Tirada. 89.76. Tirada Jet Comms Limited
+
+Tiralla. 89.76. Gungnir Corporation
+
+Seliacha. 89.91. Teaka Elite Altruists Bagging Cooperative
+
+Dietri. 89.96. Leviathan Shipyards Corps
+
+Asgaa. 90.05. Federal Expeditionary Armed Response
+
+Naitis. 90.10. Wolf 406 Transport & Co
+
+Renetes. 90.12. Democrats of Kou Zu
+
+Neali. 90.20. Dark Matter Corporation
+
+Adenses. 90.27. Hidden Tradition
+
+Hotas. 90.34
+
+Agarda. 90.49. Comando Elite Hispano
+
+Antinica. 90.57. Rosa de los Vientos Corporation
+
+Sanos. 90.77. Federal Liberal Command
+
+Lhana. 90.81. Federal Liberal Command
+
+Tatapai. 90.94. United Euryale First
+
+Agathiar. 91.21. North Wall Alliance Embassy
+
+Li Chong. 91.28. Samebito Purple Advanced Company
+
+Petra. 91.37. Praetorian Curiate Assembly
+
+Andel. 91.38. Federal Liberal Command
+
+Aphra. 91.40. German Pilot Lounge
+
+Arie. 91.42
+
+Aurora. 91.49. Wayward Aviators Solar Praetorian
+
+Cai. 91.52 Raven's Scouts
+
+Adeo. 91.59. Marquis du Slavanibo
+
+Negani. 91.60. L.Y.S Corp
+
+Shalit. 91.87. Brethren of the Void
+
+Adepti. 91.88. West Leeds Yacht Club
+
+Selniang. 91.89. THE AZGHARIE
+
+Tiangchi. 91.98. East India Company
+Reactions:
+electro, Adel, simulacrae and 1 other person

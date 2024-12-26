@@ -1,0 +1,56 @@
+Louis Calvert
+Jun 20, 2024
+#34,269
+Not sure how many people managed to read this in my thread Raxxla Revealed since it's near the bottom of the first mega-post, so I thought I'd snip it here since we're sharing stories so much, and this is the pat of my discovery that includes a lot of guesswork about what everything I found means. I've edited it for clarity from the original post.
+
+What is Raxxla all about?
+AKA The narrative, "Secret Lore of Raxxla"
+
+NOTE: What follows is, from what I can tell from solving the Codex and related clues, a fair approximation of what Raxxla actually is, but it is my informed speculation and it all could be wrong. It's heavily based on what I found, game lore, and the things Michael Brookes shared about his personal tastes in fiction and narratives.
+
+Raxxla is (or is the gateway to (AKA Omphalos Rift)) another universe that has different but compatible laws to ours, a universe that contains intelligent malevolent life, life that... wants. I speculate that other universe is what we call Hyperspace - though it may be another Universe and Hyperspace is a "junction" between ours and theirs. I do believe that the word Raxxla actually generally just means the Myth itself, but I'll generally call this other universe Raxxla for ease.
+
+Fundamentally this other universe it the "real" (In the Elite universe) origin of the myth of Hell, where daemons live and the Devil rules - in a biblical sense (as detailed by John Milton in Paradise Lost). Most religions have some version of a place where monsters rule, this is that place, but really it's aliens not supernatural stuff.
+
+That alien life wants to get into our universe (or back to our universe (see later)). The entities there, let's call them Raxxlans for the sake of it, have figured out that they can subtly influence sentient minds in our universe (the Siren Song (Landscape Signal) is weak mind control: Gan, Halsey, Rift crewmember, others). I'm not sure if the Omphalos Rift is natural or they made it, or the Guardians made it, or the Thargoids, I hope that'll be revealed in the Siren Song (Landscape) image.
+
+This 'influence/weak mind control' is analogous to Satan tempting Adam and Eve with the fruit of the Tree of Knowedge - a major part of the narrative of Paradise Lost.
+
+Through the Omphalos Rift at the centre of the Galaxy, the Raxxlans 'sing' (an in-game representation of what amounts to subtle/no-so-subtle mind-control), enticing people to the Rift by convincing people that it's a glorious place of heavenly beauty, or progressive knowledge to aid humanity (se Gan and Halsey). I refer to this as the Siren Song of Raxxla. In-game this is represented by what's been called the Landscape Signal. Raxxlans may also be able to nudge sentient minds towards certain behaviours and ideas - like maybe the discovery of Hyperdrive was 'influenced' - 3 of the 4 sentient races we know about in the Galaxy all invented/used Hyperdrives, and the Mudlarks may well have developed it too if they hadn't been wiped out.
+
+We know Hyperdrives punch through into another universe, and ships travelling through are surrounded by Raxxlans (see my thread for details). This is why I suspect that Hyperspace is Raxxla (or home to Raxxlan aliens, at least).
+
+They want people to reach the Rift it because they need someone to open it from this side, maybe if a ship with a Hyperdrive enters the Rift it explodes, allowing the Raxxlans through. Don't know the details, I hope that'll become clear.
+
+This is essentially the plot of Paradise Lost; Satan plots to bring down humanity (God's newest and most favoured children) by luring them to take an action that forever changes their fate. In Elite Dangerous the Raxxlan aliens are tempting Humans to use Hyperdrives to reach the Omphalos Rift, presumably that action will result in a situation analogous to eating the forbidden fruit in the Garden of Eden... bad news for everyone... (but possibly bringing about a major change in the status quo of the game, a great way to introduce a whole new chapter of Elite...)
+
+I believe the Raxxlan aliens resemble Serpents/Dragons (in a very alien way) because of Paradise Lost again. In punishment for their actions God turned all the Daemons into serpents, and in fact the biblical story of Adam and Eve is one version of ancient mythology that casts serpents/dragons in the role of antagonists. Another is the story of Delphi in Greek Mythology. This relates to the Omphalos Rift because in Greek Mythology the Omphalos stone marking the centre of the world was placed in Delphi - over the spot where the god Apollo killed a dragon with the gift of foresight called Python, this is why the Oracles of Delphi are called Pythia. It's easy to see the connection here with the Omphalos Rift at the centre of the Galaxy containing a metaphorical pit in which 'dragons' dwell...
+
+Imagine: the Siren Song of Raxxla has been beaming out across the Galaxy for millennia, subtly influencing humanity. What myths and legends have arisen that have similar themes and shapes? We might speculate that the origin of these myths of battles in heaven between 'gods', and some of them being exiled to the 'underworld' are the tendrils of influence from the Omphalos Rift/Raxxlan aliens.
+
+I also wonder what might happen if some species made a non-organic sentient mind that couldn't be influenced by the Siren Song? I wonder if such non-biological minds would consider that destroying the biologicals was the only way to keep the universe safe from the Raxxlans? We know the Guardians made non-biological life, and we did too. Both times that creation was murderously dangerous to their biological creators for unspecific reasons. What if the non-biological life can see how much we're being influenced?
+
+I also think the Thargoids are aware of the Raxxlans and the Siren Song. This is very much pure speculation, but I think there's a very deep link there in some distant shared past. Possibly the Thargoids are hostile to all non-thargy life for the same reason non-organic sentient life is?
+
+I think this Drabble, written by Michael Brookes about his book "The Space Inbetween" might have been (a version of) the plot for Raxxla:
+There is a secret hidden deep inside the heart of the universe. A terrible reality which once challenged the power of the divine. In a war spanning our universe and beyond the elder beings almost destroyed everything that was and what might yet come to be.
+
+Those who survived imprisoned the horror inside a maze of nothingness. Only the complex space in between could contain their impossible forms. Their presence creates quantum chaos to what was once mathematical precision.
+
+No faith alone can unlock their prison, but science has the key.
+
+The elder ones await our discoveries with keen hunger.
+Click to expand...
+Click to expand...
+Imagine that Hyperspace is "a maze of nothingness". The creatures visible in Witch Space and the Landscape Signal show "their impossible forms".
+
+"No faith alone can unlock their prison, but science has the key." - like, Hyperdrives, for example? What if the Sirens (Raxxlan aliens) are trying to attract someone with a Hyperdrive to the Rift?
+
+I assume the full Siren Song (Landscape Signal) image, when revealed, will tell the full story...
+
+I believe the system (instance) containing the Omphalos Rift has been removed from Galmap to prevent anyone jumping there - narratively by the PF, and in reality by Fdev so they can control the pace of the story. Since apparently no-one had seen the images hidden in the Landscape Signal before I discovered them, Fdev didn't progress the story any further because other things took priority and no-one had found it until it was discovered by (I believe) PublicStatic Void a few years ago. By then Michael Brookes had moved on, and the game had also moved on from many of the original ideas.
+
+My guess is that the Omphalos Rift will just look like a small black hole, but in close proximity the Siren Song (Landscape Signal) will be as clearly visible as the "Thargoid Map" image/signal. I don't think we'll be able to "fly through it to another universe" or anything, I think that's the end of the Quest, seeing the Siren Song image in a full reveal and learning some part of the ancient history of the Elite Universe.
+Last edited: Jun 21, 2024
+Reactions:
+Macros Black, selbie and simulacrae

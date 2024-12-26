@@ -1,0 +1,35 @@
+Allen Stroud
+Dec 22, 2022
+#28,631
+CMDRCorrMorningstarFelian said:
+Quick questions @Allen Stroud :
+
+Augustus Brenquith "glistening legacy" probably doesn't happen until first commercial hyperspace (Faraway) in the 2800s. Is that reasonable to assume. Granted he sounded rich. Also, is there perhaps a connection to a certain cyborg barman with the story "..All that Glisters.."? The phrasing here seems almost too coincidental not to be intentional. Jaques per "..All that Glisters" was "some three hundred years". That could put him as from 2800s or 2900s. If so, seems human colonies were hand picked.
+
+Relevant text:
+
+
+...
+More relevant text:
+
+
+Jaques means either "supplanter" or in reference to Shakespeare's "As you like it" is "a disillusioned and satirical observer of life". Jaques and Brenquith are same person? This may even extend to Peter Jameson who grandchildren received the letter gifting the ship originally. I believe that trend continues with Elite Dangerous.
+
+More info on Brenquith:
+Click to expand...
+I'm very aware of Brenquith and Jacques.
+
+I've not heard of Brenquith's 'glistering legacy'. That specific phrase was not applied to him in anything I worked on. Where did you find it?
+
+"All that Glister's" does indeed have the Brenquith reference with Jacques reminiscing about him. That is as far as the connection goes. I am pretty sure the author was using the sentence to connect the text to existing Frontier Gazetteer information as the story was a Frontier Anthology story.
+
+Jacques and Brenquith are not the same person. Brenquith's legend is intentionally imprecisely defined. I do have a proposed date for it, as suggested in the work I submitted to Frontier, but that's for them to publish if they choose. I will say this, the exploration events attributed to Brenquith are far older that you are suggesting. The start of his journey was a long time before the other elements being discussed here.
+
+There is no connection between Jacques and Jameson. Worth reading Roland Barthes 'The Death of the Author' to get a comment on this kind of extrapolated criticism. Writing in the late 1960s, Barthes suggests that critics of the time are too obsessed with finding authorial intention and therefore miss the essential qualities of the text they are studying (in hand). As far as I know, the writers of Elite fiction generally weren't trying to reference Shakespeare. You might have one or two passages of intertextual depth, but in most of the Elite fiction, that wasn't a thing. EDIT: I will add, Massey was probably the most likely to add something allegorical or metaphorical. His work does have that kind of weight in places.
+
+Worth bearing in mind that linking all of the different legends of the Elite universe together goes against David Braben's intention. By linking everything, we make the narrative smaller, not bigger. Yes, there are links, but not in the way you are attempting to construct a sweeping "Skywalker" style narrative. That is exactly what we didn't want to do with all the elements being created.
+
+Again, I'll make the point, the game is the primary text. So, an analysis of Jacques would (for me) start with all the Elite Dangerous references to him and then move to "All that Glisters" to see what was drawn from that to connect with the primary text narrative.
+Last edited: Dec 22, 2022
+Reactions:
+Louis Calvert, John Stoutbeard, Rochester and 2 others

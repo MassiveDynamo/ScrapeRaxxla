@@ -1,0 +1,35 @@
+Rochester
+Sep 10, 2023
+#31,571
+Edelgard von Rhein said:
+The Milky Way as it is now in-game did not exist until the procedural generation received its final modification to create what became the gamma build, which debuted a couple of weeks prior to the game's full release in December 2014. It was not until then that players could explore the Milky Way, having previously been confined to the beta 'pill' that excluded many key systems.
+
+It is possible to make 'overrides' for systems to change what is in them but I don't know if it is possible to add a system in a given place. When TRAPPIST-1 was implemented after Earth-sized (presumably) rocky worlds were discovered there, an existing system that the procedural generation had placed in almost exactly that location was modified to better represent what was found (very optimistically!).
+
+The clues that have been laid down by naming of systems in a coherent manner, along with some bodies within them, could have been planned well in advance but, if my understanding is correct, the final implementation would have depended upon utilising assets that the procedural generation had placed, with carefully-chosen handcrafted elements (e.g. making certain planets Earth-like Worlds) and possibly reworking some systems completely (although Sol was apparently a lot of work, so something like the Avalon system, which has few bodies, would be easier for one person to do).
+
+Therefore, I suspect that the planning phase would have allowed for Raxxla to be placed anywhere in the lost realms region but that the final location could not have been known when Elite: Legacy was written.
+
+The final location chosen may well have depended upon picking a system matching certain criteria, like having a bright star appear close on the skybox to Andromeda or another visual navigation marker. Clues from the Codex or events in-game (e.g. Jaques mis-jump) would have been laid with the knowledge that Raxxla was in a particular location, so may lead to a more precise location. In-game searching of a system is likely to be the only way that such a navigational clue can be seen - you can't see the skybox of each system in EDSM!
+Agree, in game searching is the preferred method.
+
+Third party tools only show data submitted by Cmdrs.
+
+The placement of Raxxla - being undiscovered means logically it cannot be found outside of game, as there might be some unknown identifier, unless it’s hidden in plain sight.
+
+However, various 3rd party tools are still extremely useful in applying wide brush strokes, to identify potential hotspots of interest. QED such anomalies like the Lost Realms or Yggdrasil, pull in our attention and make us question why they are there… are they hand placed?
+
+Others may know more on this than myself, but I do recall a number of statements from various persons, that Brookes personally hand crafted a lot of systems, via a spreadsheet, the details of which are not clear but if correct it informs that a certain percentage of the galaxy was certainly handcrafted.
+
+The existence of the lost realms and various other correlations, eg the Yggdrasil systems advocate a logic to their structure which cannot simply be explained away as arbitrary in my opinion.
+
+If that were so I would presume there would be a huge level of uniformity, where as in reality there is logic to their placements which correlates.
+
+Post in thread 'Should I be able to play Elite Dangerous without nine spreadsheets?'
+https://forums.frontier.co.uk/threa...without-nine-spreadsheets.340372/post-5334283
+
+Post in thread 'What is the most efficient way to crowdsource the 3D system coordinates'
+https://forums.frontier.co.uk/threa...-the-3d-system-coordinates.43362/post-1089082
+Last edited: Sep 10, 2023
+Reactions:
+El Saico, Shadowsnog and Darrack

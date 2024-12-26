@@ -1,0 +1,28 @@
+Noobilite
+Feb 5, 2020
+#15,041
+Zieman said:
+No.
+Your max jump range is with just enough fuel to make the jump. You can't jump further without boost (WD/neutron/jumponium). Doesn't matter how you got your fuel level to that point.
+I'll put this in simpler terms. You seem to be missing the question like everyone I've asked over the past several years.
+
+If you start at point A and jump to point B it cost X fuel.
+
+If you travel half way to B from A and jump does it cost 1/2X or X. People have told me X as it uses the start location of the Star making mass fuel filled ships travelling between start pointless as it doesn't actually reduce the calculated jump range in game.
+
+Although I've seen information that it might work and no information that any side actually knows what they are saying and endless other confused information where everyone and their brother incorrectly answer a different question as if it was not what was being talked about. This should worry everyone... Probably why Raxxla hasn't been found yet.
+
+That brings up an interesting though. We have that we have gotten around 0.3 or 0.03% of the galaxy... But what if we go by efficiency? how many stars have been visited overall and how many times. And if you compared that to how many stars how many unique stars could have been visited. Not to derail my own question or anything.
+
+3navis said:
+yes, it is possible. Sorry but it's in Spanish
+https://forums.frontier.co.uk/threads/diario-de-un-explorador-3navis.520125/#post-7964091
+attempted entry into a system with required permit in super-cruiser
+the final jump takes it into account from the current position
+
+I'll look into that.
+
+If that is true then either the game changed at some point or there may very well be people in this community purposely telling people wrong information about base game mechanics and that makes me a bit more than mad.
+Last edited: Feb 5, 2020
+Reactions:
+Machina Ergo Sum

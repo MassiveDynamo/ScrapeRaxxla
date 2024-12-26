@@ -1,0 +1,22 @@
+Jorki Rasalas
+Saturday at 4:23 PM
+#35,680
+Ozric said:
+You sir, are a legend! As always. That's far better than I've ever tried to explain it, and the fact you missed it first time is actually perfect for the science part Very nice work.
+
+
+
+Yes it's the fact that the Body Type is different that I find so confusing. Removing the name so it displays the Shipping Lane is one thing, but showing the body type as a star rather than a Comet does imply something very specific has happened. I'm still not going to say for certain it was on purpose though And as Howard (journal dev) has retired I'm not sure how we'd find out.
+Wot? You mean he's not on your Xmas card list??
+
+
+Edit
+Ah, I see... I misread things... the bodyId is still 2 but the bodytype has changed from SmallBody to Star, as well as the name change. Mm, sounds like FD overkill.
+
+Edit
+Though I think the Shipping Lane name is procedurally generated when you drop out of SC from a couple of system vectors betwen appropriate bodies & evaluated at that time. So if the name has changed then maybe that's not significant,; its the change to body type that I find confusing...
+I have my xmas decorations up, and have started the first xmas tipple...
+Who knew Santa came from Lave? Though the afternoon is not yet over so Ive diluted mine (egg nog)
+Last edited: Saturday at 4:41 PM
+Reactions:
+Ozric

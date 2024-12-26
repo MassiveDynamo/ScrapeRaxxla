@@ -1,0 +1,44 @@
+Louis Calvert
+Oct 31, 2023
+#31,863
+Searching for The Dark Wheel?
+
+Honestly I think we've already found the Dark Wheel home system, and the Dark Wheel itself. The confirmation is that we're told in the Codex entry that fake DW get shut down, and that hasn't happened to the Shinrarta faction (the exact opposite, actually).
+
+I think the issue with people accepting that is that we're looking at it from the wrong end:
+
+Imagine you're a new player, or in-universe (it's basically the same for these purposes) in 3300. You have virtually no meta knowledge of prior games and/or lore. Say, you maybe know a little, but nothing like the knowledge level of the majority of people that post here, as someone in the world you've probably heard whispers and things, know a little of the world, etc.
+
+You get a mysterious ship and some money sent to you, and there's a note on the lawyer's letter saying that someone is keeping an eye on you (as per the intro to the manual). This matches the Codex "it is always they who initiate contact, initially in disguise".
+
+A while later you get awarded the rank of Elite by the Pilot's Federation (after much adventuring) This matches the Codex "revealing their true identity only once a suitable test of courage and skill has been discreetly administered, and passed". You find you've got a permit to a mysterious system named Shinrarta Dezhra. You go there and spend a while reading all the entries in the (previously entirely inaccessible) beacons there; Massive Lore drop containing all sort of previously unknown revelations!
+
+You dock up at the station named for the most famous of all pilots, and you see for the first time you can accept missions from THE DARK WHEEL!
+
+Narratively, that's pretty awesome and does match, approximately, the template established in the myth.
+
+We also know that originally there was some sort of special missions relating to the Dark Wheel that were later removed, so there would have been some additional contextual stuff around that faction of the Dark Wheel being the "real" one, and who knows what else got changed over time.
+
+Most of us who were really into Elite were backers in the early days and got into Shinrarta anyway (as per the Codex and Galmap hinting at other ways of entry), and the internet proliferation of info and tools has made common knowledge of what was/would have been reserved for only a select few Elites - but that doesn't make it any less special or secret when you take in context.
+
+
+In all the lore we're told that the widespread use of the new technology of FSD has fundamentally changed the galaxy in almost every way. It sparks mass exploration, wars, all sorts of places that were inaccessible become accessible (for better and worse).
+
+It seems to me that narratively The Dark Wheel, and more widely the Pilot's Federation has been evolving to keep up. Instigating Permit Locks is clearly a reaction to FSD and Universal Cartographic's democratic approach to data-spreading. UC doesn't seem to be part of the PF, but I'd assume the PF can leverage enough pressure on UC to get stuff changed. Much like Azimuth and other private corps can afford to pay UC to lock systems like governments can.
+
+All the players are automatically in the PF, but most of the 'people' in the galaxy aren't. We get our news via Galnet, which is in itself controlled by the PF for the PF - so it's sort of like we're in a dictatorship where the state controls all media we have access to, and in fact the ships we fly and the services we use - all that stuff is basically provided by the PF for PF members only. The bounty system, mission rewards, repair costs, all that stuff if subsidised by or controlled by the PF - all this is laid out in the Shinrarta beacons really clearly.
+
+The Dark Wheel is a faction of the Pilot's Federation. From the Shinrarta tourist beacon around the 8th moon of an unnamed Gas Giant:
+... There are also known cliques within the PF (The Dark Wheel is probably the most famous) that have their own agendas. Officially these are discouraged, but in an organisation so large they are tolerated as long as they don't overstep the mark.
+I read this as clear confirmation that the Dark Wheel in Shinrarta is the 'real' Dark Wheel. But we also know from "And Here The Wheel" that the DW splintered at least once, so that DW might be the name, but not anything else (we simply have no additional info yet).
+
+
+Personally, I think the Dark Wheel is a dead end anyway. All the lore says they were searching for Raxxla and never found it. We know that quest continues because of the events of the novel "And Here The Wheel", though it's possible Raxxla was found by some faction of The Dark Wheel within the last couple of decades, which may have been made possible by FSD, but I suspect the problem with finding Raxxla wasn't as much about distance and ease of travel as it was something else.
+
+
+Further things to consider:
+Things that I think are still interesting are the Ryder Revolutionary Party, a faction in the Maia system. That name is highly significant to Raxxla Lore. It's presence in the Pleiades can't be a coincidence. Add that to the Delphi/Oracle connection in the Pleaides from the Raxxla Codex and the fact that many people have seen connections between the Thargoids and Raxxla during that period where Thargoids were exclusively found in the Pleiades. I think that's a lot of arrows pointing to the Pleiades.
+
+LFT 509 is permit locked by the PF, but so it Bellica, Alpha Hydri, Ross 354, Mingfu, Witch's Reach, and I'm sure many more... other than a galmap bug relating to star catalogue names I'm not seeing what makes LFT 509 more interesting than any of those others?
+Reactions:
+Yure, Edelgard von Rhein, El Saico and 6 others

@@ -1,0 +1,13 @@
+Ian Doncaster
+Jul 3, 2024
+#34,405
+CMDRCorrMorningstarFelian said:
+There are two factions reporting 0 population that are natives
+There's no in-game assignment of population to factions at all [1], so all this means from an Inara perspective is that those factions don't control any systems in the BGS.
+Since only one faction can control Alioth and all of the other nearby systems are unlocked and available for players to change the controlling faction, it's almost inevitable that most of Alioth's native factions control no systems themselves.
+
+CMDRCorrMorningstarFelian said:
+and New Growth. Party
+"Natural Growth Party" is the faction name.
+
+[1] Or if there is, it's entirely invisible and likely done at the station level. Station populations aren't directly visible and are rarely practical to deduce indirectly either, so Inara can't estimate that, but there's nothing particularly unusual about a faction not owning stations either, especially in systems where players are deliberately moving station ownership (though both of those factions do own some, as it happens)

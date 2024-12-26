@@ -1,0 +1,13 @@
+Crimson Echo
+Jul 17, 2020
+#17,919
+Erlaed said:
+Welp, we were able to force Starship One to jump out with 2 CMDRs. Hat-tip to CMDR Eweqer. Nothing apparently happened except a mysterious "Mission Objective located" that we couldn't trace down. The ship was there when we re-entered the instance. Still planning to try it again with more people tomorrow night. Splitting the defender ships away from the Farragut worked like a charm, but the 11 defenders+fighters are a bit much for 1 CMDR to handle.
+
+Getting 2 CMDRs into 1 instance took about as long as the fight. The Farragut didn't leave a wake.
+
+Click to expand...
+
+If the mission objective was not a trader beacon thing it will either be a special black box uss that spawns a mission as soon as you scoop the black box. (note this is seperate from the scenerios thing they added with a black box data decrypt thing), or a planet side poi in system that spawns a mission (usually after scanning the data point etc at the poi). The trick is to notice the marker in the left side panel, and note down the range. Then track down the body etc that corresponds to the range. You have to get close ( handful of ls if memory serves) for it to show up. They have been known to be bugged (some point to 'crashed ship' poi inside of gas giants.)
+Reactions:
+Fiera, PeteACarter, Erlaed and 1 other person

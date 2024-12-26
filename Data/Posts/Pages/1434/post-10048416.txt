@@ -1,0 +1,75 @@
+Louis Calvert
+Dec 29, 2022
+#28,667
+The Dark Wheel redux
+I've been looking into the Dark Wheel again since that should (in theory) lead us to more Raxxla clues...
+
+Assuming that the Codex is intended to help new players find stuff, and players who are at a loose end something to investigate, I decided to imagine I'm new and take a fresh run at it from the start.
+
+So, starting at square one since it's the best place to start. Based on Lyta Crane's reference:
+According to self-professed Dark Wheel expert Lyta Crane ... the original group was based in a disused starport orbiting the eighth moon of an unnamed gas giant. The station was toroid, hence 'wheel', and operated with a minimal power output so as to avoid detection, hence 'dark'.
+
+Crane believes that this starport is still in use, and is the only means whereby the genuine Dark Wheel can verify its identity.
+and based on the idea that:
+Those who believe in the existence of the Dark Wheel consider it to be a continuous and clandestine organisation, operating since the very earliest days of interstellar travel.
+
+Using my previous research on reconstructing the early part of the Lore Bible I made these assumptions:
+
+1) There were 4 colonies outside Sol "in the earliest days of interstellar travel", (2100 to 2300) all of them were under 30ly from Sol - that gives us an idea of the feasible radius and where the frontier might have been back then.
+
+2) It takes time, money, purpose, and resources to build a station. The idea of a space station way out in deep space hundreds of lightyears from Sol doesn't seem reasonable.
+
+3) The Dark Wheel must have been in/near areas of space where they felt someone could detect them (because they kept the station 'dark'). That implies somewhere already trafficked, maybe on the frontier, a colony that failed (leaving a disused starport to use as a base).
+
+4) The Dark Wheel's origins date back 1000 years or so. Therefore the station is probably is a Trigger's broom situation - hence the station appearing like an Orbis in the Codex image (Codex: Brewer Corp says Orbis weren't introduced until around 3200 and they're very expensive).
+
+Searching 8th Moons of Gas Giants
+I made a list of every 8th moon of a gas giant up to 30ly out from Sol. I visited them all, scanned them and flew around them looking for anything at all. I do think that's the inner limit, but adding another 30ly to that for the frontier systems was too much for me right now, maybe later.
+
+SPOILER: SYSTEMS CHECKED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results
+Nothing. Predictable. I'm sure thousands of people have done this but you never know what might have changed!
+
+Either:
+a) Lyta Crane is wrong
+b) it's completely hidden and therefore unfindable
+c) it's more than 30ly from Sol.
+
+However!
+In Shinrarta, 64ly from Sol, but that's not too crazy far, it might well have been conceivably on the frontier back then.
+
+Around the 8th moon of unnamed gas giant AB 2 there is Tourist Beacon 0250 that talks about the politics of the PF. It mentions to the Dark Wheel.
+Officially, the Pilots' Federation is apolitical: as an organisation it does not interfere with the internal workings of systems or factions. However this official stance is a misnomer. The PF wields considerable power through its web of political contacts as well as the application of the bounty system and control of the ship and station embedded systems.
+
+It also uses a lot of soft power by providing pilot safety support throughout human space.
+
+There are also known cliques within the PF (The Dark Wheel is probably the most famous) that have their own agendas. Officially these are discouraged, but in an organisation so large they are tolerated as long as they don't overstep the mark.
+
+Obviously the tourist beacon was there long before the Codex... It just feels a bit too on the nose for a coincidence. Maybe the Codex writer was hoping that we'd check every 8th moon in an expanding radius from Sol, eventually we'd find the Shinrarta beacon if it hadn't been pointed out already... and... then...
+
+Felicity says:
+Oh, they're out there alright. I've never met them, but I know they're out there. Think about how well known the stories are. Now think about how easy it would be for some two-bit band of hucksters to pass themselves off as the Dark Wheel and start trading on their reputation. Doesn't happen, does it? Not for long, anyway. Whenever someone tries to usurp the Dark Wheel name, sooner or later they get quietly shut down. And that's how I know.
+The Shinrarta Dark Wheel have been operating and expanding for 8 years now... so either Felicity is wrong, or it's the real Dark Wheel. And they were hidden behind an Elite rank permit lock...
+
+If the codex does point there then maybe there's actually something to find still?
+
+Only problem is I've no idea what to do next. I suppose (with my 'new' hat on) it makes sense to do missions for the DW, but as we all know, that's been done a lot and doesn't seem to lead anywhere...
+
+That's all I got for now.
+Reactions:
+simulacrae, Edelgard von Rhein, CMDRCorrMorningstarFelian and 4 others

@@ -1,0 +1,31 @@
+Macros Black
+Sep 20, 2015
+#112
+SAP 8 Core Container Ship Convoy Types
+
+On my quest to find Raxxla, I have been taking a few "Discrete Redistribution Agent Desired" missions and I wanted to share my tips of dealing with them in this post. This mission is by far the most dangerous mission of the Raxxla missions, I've lost Shuruga at least twice, and Ryath at least 6 times trying to recover SAP 8 Core Containers. This is also the reason why Shuruga is equipped with "Military Grade Composite bulkheads" and Ryath is equipped with "Mirrored Surface Composite bulkheads" to give us the extra critical few seconds to scoop the SAP 8 Core Container and make our getaway.
+
+Why are the missions so incredibly dangerous? - the reason is simple; you need to steal 1 or 2 SAP 8 Core Container(s) from heavily guarded convoys. I have listed the different types and my specific tactics to accomplish the goal of SAP 8 Core Container "redistribution" below. Note that the tactics for dealing with military convoys also works for "redistributing" Hafnium 178 canisters which are always military convoys, and I imagine it'll work for liberating the unicorn of Elite: Dangerous; the Unknown Artefact although I have yet to come across this particular convoy type.
+
+A word about systems for convoy encounters. When engaging double military convoys, I only do it in unpopulated systems as the other convoy for some reason won't come to the rescue of the first convoy. However in populated systems, the other escort will engage you.
+
+
+Civilian T-6 Transporter convoy
+A T-6 Transporter escorted by Sidewinders and Eagles. Take out the escort, some of the ships may jump away. Take the shields of the T-6 Transporter, fire the hatch breaking limpet and scoop the SAP 8 Core Container.
+
+Civilian T-7 Transporter convoy
+A T-7 Transporter escorted by 3 Eagle's and 3 Sidewinder's. Take out the escort, some of the ships may jump away. Take the shields of the T-7 Transporter, fire the hatch breaking limpet and scoop the SAP 8 Core Container. Consider taking the drive of the T-7 Transporter as he may attempt to jump away.
+
+Military T-9 Transporter convoy
+A T-9 Transporter escorted by 2-3 Anaconda's. Preferred tactic is the Smash'n'Grab'n'Run'n[SUB](tm)[/SUB]. When the T-9 is escorted by 3 Anaconda, I usually leave it alone, but when pressed for time, I kill the 1 Anaconda by ramming it, reducing the problem of 3 Anaconda's to 2 Anaconda's which is more doable
+
+Double Military T-9 Transporter convoy
+2 T-9 Transporter convoys flying together, 1 with 2-3 Anaconda's and 1 with 4 Cobra's. Only engage in unpopulated systems, unless you feel very lucky.
+
+The military convoys will sometimes be escorted by 3 Vultures and a Federal Dropship. Wait for them to jump away, and then engage the convoy.
+
+Edit: And if you bring more fire power, i.e. a wingman, the NPC's will simply just add more. The NPC convoy below was a 13 wing convoy. (I cannot fathom where they get all those NPC's from)
+SPOILER
+Last edited: Oct 4, 2015
+Reactions:
+CMDR John Casey, nilreb, Futuristic Kung Fu and 1 other person

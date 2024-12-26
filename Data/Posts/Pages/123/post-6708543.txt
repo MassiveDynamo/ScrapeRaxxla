@@ -1,0 +1,15 @@
+Vasquess
+May 17, 2018
+#2,452
+Jorki Rasalas said:
+...
+I do quite like the hypothesis that Raxxla is in one of the aforementioned systems:
+DRYU BRA XX-L A7-0
+PHOOE BRA XX-L A76-0
+HYPAE BRA XX-L A7-0
+OOSCS BRA XX-L A7-0
+
+any of these in the “outer rim”?
+...
+
+To be honest, according to the galaxy map there is no HYPAE BRA XX-L A7-0 in the galaxy. But by screening the current dump from EDSM if found HYPAO BRA XX-L A7-0, which I can also find in game. From this search I can say that there are currently no other RAXXLAs in the EDSM database. (Removed all non-alpha characters from the system names and then searched for Raxxla).

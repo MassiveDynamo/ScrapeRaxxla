@@ -1,0 +1,11 @@
+Mecrutio
+M
+Feb 22, 2024
+#33,493
+ajg007 said:
+Let me get this correct, you're saying that if I was looking for exactly 3,155,760 ls might be impossible to dumbing down it for the players?
+No, not the players, the CPU and/or GPU. The calculations take an immense amount of resources the larger the inputs are. Larger meaning the number of digits for a number.
+Edit - I'm wrong, keep reading.
+Last edited: Feb 22, 2024
+Reactions:
+Darrack and CMDRCorrMorningstarFelian

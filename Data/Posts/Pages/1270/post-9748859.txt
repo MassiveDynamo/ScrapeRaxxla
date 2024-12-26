@@ -1,0 +1,16 @@
+Pyroboros
+Feb 20, 2022
+#25,386
+Jorki Rasalas said:
+Mmm, 12 comets in Shinrarta seems a bit excessive! Not seen the “SmallBody” data type mentioned before, but then not looked in the journal specification for a long time, it’s probably been updated...
+Comets get at least a position from StellarForge but are not in Game. We can figure out were StellarForge would have put them and drop there.
+The BodyType: SmallBody is not in the Journal Spec probably cause they not in game.
+
+Since Frontier decided to not put Small Bodys in Journal Spec, despite the Type exists. Makes me curious about Star Description: X (=exotic) again. I have scratched that from my mind because i thought it's simply not in Game.
+Now we have a BodyType that is not in game and also not in journal Spec. i start to believe again, there may be at least one Star of Type X somewhere out there. And Rouge Planets as well.
+
+So to my latest experiment:
+I will repeat that, but this time i will sell the Data to TDW while docked with a breached canopy. Since the Game apparently makes a difference.
+Any idea how i can crack my canopy open, without killing myself?
+Reactions:
+Adel

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Jun 30, 2021
+#23,864
+What I need is an anagram solver using astronomical terminology. All I can find is anagram solutions of the word “astronomy”!
+
+Doing it manually anagramming the book title I can get: Sol Ship asteroid Earth Io Callisto Dione Rhea Titan Ariel Titania Triton Charon.
+Last edited: Jun 30, 2021
+Reactions:
+simulacrae and Exekrator

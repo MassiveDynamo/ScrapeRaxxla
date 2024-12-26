@@ -1,0 +1,11 @@
+Jorki Rasalas
+Mar 9, 2021
+#21,743
+{SAS}Stalker said:
+The 32 segments displayed in orrery view where the asteroid belt should be in Sol are not unique to sol, they are pretty common and occur in systems adjacent to sol even.
+
+Yes, thanks for the clarification. I thought I had updated my “Sol in Raxxla” theory post to avoid misleading people on that point, but I don’t think I made it sufficiently clear and have just updated it again accordingly.
+
+However it does raise a further question- for these “sectored asteroid belt” depictions in other systems is it possible to actually find the asteroids? In Sol it is not possible. You can detect an “asteroid cluster” in the left hud display but when you drop out of SC nothing is there even though that “asteroid cluster” is still showing in the hud. Spaceman Spiff also spotted that in Sol if you fss then a count of 8 is shown against the asteroid part of the spectrum window but there is no signal there by which you could locate them. Is this behaviour unique to Sol?? If unique then it is suggestive when coupled with the possible visual resemblance in Greek of “Gallia” to the word “Raxxla” since there is IRL an asteroid named 148 Gallia (as others have pointed out many times).
+Reactions:
+[PS4] Filthymick420, Rochester and TrillClinton

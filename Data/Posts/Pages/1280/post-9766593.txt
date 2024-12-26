@@ -1,0 +1,17 @@
+Jorki Rasalas
+Mar 10, 2022
+#25,593
+Adel said:
+Regarding Shinrarta's logs, i have this:
+
+SPOILER: SHINRARTA DEZHRA'S LOGS
+
+The crash at ID 68 doesn't only happen in this system, but even to others (i still doesn't figure out why, it's not related to station type)
+Hope it can help
+
+Edit: Once you done all stations, the next ID to search crash the galmap, so stations are the last 'objects' to be detected.
+Click to expand...
+I notice the comets only seem to be associated with event "SupercruiseExit". Perhaps that's why they dont show up on scans. Must check Halley's & Grey's for event type!
+
+Edit: mm, also “SupercruiseExit"
+Last edited: Mar 10, 2022

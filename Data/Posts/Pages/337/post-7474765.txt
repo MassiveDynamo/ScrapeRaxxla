@@ -1,0 +1,24 @@
+Noobilite
+Mar 15, 2019
+#6,726
+stg213 said:
+Can anyone confirm that this is in-game: https://en.wikipedia.org/wiki/LL_Pegasi
+
+EDDB doesn't find LL Pegasi (but several Pegasi systems), nor 2MASS J23191260+1711331.
+
+According to the article it should be ~4200 ly from Sol.
+
+Did you try the IRAS 23166+1655.
+
+I have seen many of those.
+
+Edit: Got in game for a moment and couldn't find it but maybe it has an NGC equivalent.
+
+http://simbad.u-strasbg.fr/simbad/sim-id?Ident=RAFGL+3068
+
+There are even more names for it. A think I've seen a lot of those designation types in game.
+
+https://www.google.com/search?client=firefox-b-1-d&q=RAFGL+3068
+
+I'm going to visit this right now but I can only find one instance in the game of a system type called NAME. it's 2883 away from my current location in the bubble. If my game will stop crashing. I just had to install over with the steam varient. Not a good idea when using wine.
+Last edited: Mar 16, 2019

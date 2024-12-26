@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 26, 2022
+#26,868
+Emperor said:
+<snip>
+
+
+EDIT: Almost forgot to mention... something else in the patch notes "- fix for intermittently disappearing stations/systems in overriden generated systems"
+
+Elite Dangerous: The Guardians 2.2 update
+Seem to remember that was to do with stations not appearing in very busy systems, but interesting...

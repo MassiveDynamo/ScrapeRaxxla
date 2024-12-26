@@ -1,0 +1,20 @@
+Ian Doncaster
+Nov 19, 2023
+#32,100
+CMDRCorrMorningstarFelian said:
+LHS 3447 (one of the start systems) has a rare good - Galactic Travel Guide
+Though that one wasn't there at the start of the game - it was added for the Colonia Expansion Initiative PMF placement CGs - if that makes a difference to your theories.
+
+Louis Calvert said:
+So... Is it a bug in the stellar forge?
+Probably just the same bug as Maia's black hole, etc. - a lot of systems have been hand-edited to specify a particular primary star, system name and system position, but not system contents. So the chances of the stellar forge procedurally generating the secondary stars exactly the same as the real ones is pretty low. You can probably find the same oddities for a substantial number of catalogue stars if you go looking.
+
+It may depend on what catalogue they were using for each object and whether it made accessing secondary star data straightforward or not, since some of the systems they have got the secondary star data correct.
+
+Raz Griffin said:
+So Guardians didn't exactly need to live under a WR. Most guardian structures are near brown dwarfs just like the one in Gamma Velorum and, although not as often, K-type stars like the ones in Hen 2-333. We really can't tell until we look at the system.
+True - but in the case of a supergiant, system age should be the more concerning factor. Gamma Velorum's age is estimated at 3.5 - 5.5 million years, which is nowhere near enough time (given that they used 1-2 million of it being extinct) for the Guardians to have evolved from a primordial planet. It shouldn't even be enough time for a planet to coalesce and cool to the point where it could support life, though the stellar forge can be a bit generous about that at times.
+
+Given how common brown dwarf stars and K-type stars are, you could probably discover from the placement of human structures that we most often live in systems containing at least one of those star classes.
+Reactions:
+CMDRCorrMorningstarFelian and Louis Calvert

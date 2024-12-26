@@ -1,0 +1,17 @@
+Han_Zen
+Sep 9, 2024
+#34,753
+Louis Calvert said:
+Doesn't need to be complete sets though does it. It seems incredibly likely to me that they reserved some names for future use. They could have even done that by just picking "cool" sounding names from a master list of all names they'd collected as possible uses across the entire game, what was left was used to rename the systems (or any other criteria).
+
+I believe something as simple as that would result in basically what you're suggesting there in terms of the 'incomplete' sets.
+
+Simple answer really. Most likely to be the case.
+I checked a bit on this a while ago. The clumping from lists is quite clear. This page seem to be the basis for the religion / mythology section of names: https://en.wikipedia.org/wiki/List_of_deities_by_classification
+If you check against the game, you see clumping of both classification and the specific religion. I have not bothered to check the if the system IDs follow the lists in order.
+What is clear, is that there has been filtering of the lists. Any names with non English letters, apostrophes or other difficult stuff, have been dropped.
+I also suspect that names have been left out, because their assigned system already had been assigned a catalogue name.
+
+Some systems have of course been fully manually and deliberately named, as well. These are mainly systems named by backers, systems from the official novels and significant historical Elite systems.
+Reactions:
+Ian Doncaster and Louis Calvert

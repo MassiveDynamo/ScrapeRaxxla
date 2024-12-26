@@ -1,0 +1,10 @@
+yelboc
+Jun 3, 2019
+#8,582
+I had wondered before if "spiralling stars" was some sort of hint at a Fibonacci sequence, which fdev are so fond of. But you need start values and a stop point to run the sequence to - got stuck there.
+
+Given that mythology has been beaten to death and not revealed one extra clue, I figure a different tack is needed. May as well start with codes, but if you can figure the "mother of galaxies" out without reaching for Larousse' Mythology then I think that'd be a good start.
+
+As they say - start at the beginning ( and it's consistent across languages)
+Reactions:
+PeteACarter

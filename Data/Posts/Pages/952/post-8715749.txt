@@ -1,0 +1,7 @@
+Jorki Rasalas
+Sep 24, 2020
+#19,038
+Vasquess said:
+I wrote me a small program and can do that as a datastream => No mem problems. But where is the download of a file with all the systems + bodies. I only find systems with coos – no bodies. (~7.8GByte)
+
+API Systems in a sphere? (https://www.edsm.net/en/api-v1), say 150ly radius from Sol since the Wiki says that is the bubble.

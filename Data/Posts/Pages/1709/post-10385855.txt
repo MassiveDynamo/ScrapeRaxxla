@@ -1,0 +1,6 @@
+Macros Black
+Jun 5, 2024
+#34,179
+I've seen core? miners showing a method to get retrieve previous positions for the core's, that could be helpful to navigate a ring.
+Reactions:
+CMDRCorrMorningstarFelian and Jorki Rasalas

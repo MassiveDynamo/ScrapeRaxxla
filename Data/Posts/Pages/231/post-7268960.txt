@@ -1,0 +1,12 @@
+Jorki Rasalas
+Dec 18, 2018
+#4,601
+SpocksOddSocks said:
+And also, you don't get anything to select. Your composition scanner gauge just goes from the red "nothing found" status to a blank blue status, then you can use it.
+
+fairly sure it was blue the second or third time I used it, but still didn’t show the find in my codex. There really ought to be some feedback on screen that it’s registered something.
+
+edit: ah, got it to work this time, and of course there’s visual feedback! Just needed to get to something like stable near-horizontal attitude so the reticle stayed over a single mound long enough to register. Doh!
+
+if anyone wants to investigate there are 13 biologicals (3 are bark mounds, assume the rest are also) plus several geologicals on IC 4694 Sector ye-a d21 3a
+Last edited: Dec 18, 2018

@@ -1,0 +1,6 @@
+Macros Black
+Aug 15, 2019
+#10,697
+@PeteACarter: I have a SQL query for you: How many bodies in a radius of 300Ly from SOL have no discovery tags. I'd like to pay them a visit
+Reactions:
+PeteACarter, Thatchinho and Count dEstard

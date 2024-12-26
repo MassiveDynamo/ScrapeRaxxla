@@ -1,0 +1,16 @@
+Merlin StWahgwaan
+Jan 27, 2021
+#20,598
+Jorki Rasalas said:
+In my videos (see my first post on this, https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8911441, the videos were all taken with the Phantom) you’ll see varying levels of brightness, a couple were fairly weak with a hint of blue in the reflected light, but one was quite vivid which might be closer & the colour is also much greener in the vivid example.
+
+Just a question, does this glowONLY appear when you open and then close the System Map? I believe that what I saw in your videos, that this is the only time you have recorded it happening....
+Have you ever had the light appear in the cockpit WITHOUT going back and forth thru the system map?
+
+If not, I have a sinking feeling that it a bug of some kind due to SOL being a hand crated system. Assuming the Stellar Forge'originally' created SOL as proceedural before being hand edited and crafted, Im wondering if its possible there was a Green Gas Giant or some other phenom that 'would' be generated if the Stellar Forge was creating the system, but since its been overlayed with a hand made system, we shouldnt see that color, but due to the back and forth of the map, youre getting a few moments of 'bleed thru' while it re-generates your view of the cockpit from the SF....
+
+Idk, probably im wrong, but just a thought of consideration....
+
+But i deff have no argument its very interesting that it can be replicated like that, consistantly....
+Reactions:
+Mrrshal, Han_Zen and [PS4] Filthymick420

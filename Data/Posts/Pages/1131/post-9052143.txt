@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Apr 2, 2021
+#22,601
+simulacrae said:
+Hmmm you got me looking at triangles again
+
+SPOILER: LUNCH BREAK FUN
+
+Just a word of advice.. my design of the triangles is very intentionally crafted to remove as much ambiguity on the z-axis as humanly possible. Given the equidistance but opposite direction you can keep things in a relatively easy to work 2D plane. Even then, I am going to have to probably look up some stuff to validate that the z-axis portion gets calculated sanely.

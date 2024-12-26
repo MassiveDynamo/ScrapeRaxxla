@@ -1,0 +1,24 @@
+Jorki Rasalas
+Nov 27, 2018
+#4,303
+HoneyDaPooh said:
+I've been lurking reading this thread for a few weeks. I, too, would like to embark on a quest to find Raxxla. I have a few theories (many of them touched upon in this thread) and therefore a few areas to search, but I fear the search is too immense for a lone commander.
+
+I feel like we need a tool to organize the search. Precisely, I would like to have some sort of unified exploration schedule as well as an automated way for commanders to report on the systems and planets they have explored.
+
+Coding is my craft so I have started to build a tool, that rests upon 2 components :
+
+1. A website where one can browse the ongoing expeditions, which are sets of systems currently explored. Systems can then be assigned or self-assigned for exploration and one can view the status of each celestial body in every system ('view' as in 'explored' or not).
+
+2. A Windows client that reads the game's logs and update the status of visited systems and flown-by bodies automatically. This would account for the changes in the new discovery scanner.
+
+are the github repos. Don't mind the github organization name, it's botched. My only intent was to draw a parallel between this quest and the Knights of the Round Table's for the Holy Grail. I am almost done with the backend part, but quite a bit of work remains to be done with the other parts.
+
+Would you guys think such a tool would be useful ?
+
+To my mind a tool to help organise a multiplayer search is useful, in the past we have used a simple shared spreadsheet for this purpose ; however I currently have running an app for my joysticks, EdTracker UI and OpenTrack for my head tracker, the game, EDDiscovery, and often EDSM &/or a photoshot or three of an area I’m searching, and occassionally EDMC etc, that’s a lot of windows to keep track of so I don’t think I want any more apps. I think a better solution would be to raise a user requirement statement, then request that capability upgrade on EDDiscovery (which already extracts data from the logfiles as you play, plus much more) & get support there. It would then be also generally useful to people playing the game, including the upcoming DWE2.
+
+If you want to quest then go out & quest, select a hypothesis to work with & go looking for evidence to support or negate it, if you want to develop software.....
+
+but then I’m just a grumpy old git; my nurse has taken away the lavian brandy, and the pills
+think she’s got a date with the doctor up on emergency ward ten.

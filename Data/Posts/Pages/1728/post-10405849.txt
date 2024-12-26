@@ -1,0 +1,11 @@
+yelboc
+Jul 26, 2024
+#34,541
+El Saico said:
+Once again I go to Mark Moxon's Elite source code website to see where that Seed comes into play...
+They bootstrap the entire universe as the initial values for system 0 in galaxy 0, and from then on the game's PRNG and procedural algorithms run wild.
+
+The Stellar Forge equivalent must be known only to their backend team - unless they publicized it somewhere. Or maybe, with some hope, the good Dr. Kay Ross remembers it.
+Maybe Raxxla is the seed word for the proc gen, in which case Raxxla would be everywhere
+Reactions:
+Ravenloft45

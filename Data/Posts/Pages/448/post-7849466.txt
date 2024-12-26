@@ -1,0 +1,14 @@
+[Diplomacy] Carnegie
+Jun 15, 2019
+#8,942
+Korlod said:
+Hey Drew, I’ve a question for you. I started cataloging the HIP systems some time ago and came across one early on that bothered me as I could see no way to get to it: HIP 53. I can’t find any in-game info on the system having been visited or any mention of it as a “dev” system, but I’m curious if anyone else has actually managed to get there.
+
+Edited to correct autocorrect.
+
+6,000 LY below the galactic plane. Yeah, that's unreachable.
+And it looks like it's misplaced. Simbad gives it the ID CD-29 18916. There's a bunch of CD-29 xxxxx stars in a cluster about 900 LY down, almost directly below Sol, so it belongs with them in Blanco 1 sector
+
+Link to Simbad
+hip 53
+simbad.u-strasbg.fr

@@ -1,0 +1,10 @@
+Jorki Rasalas
+Nov 28, 2018
+#4,324
+mister ron said:
+yea, i'm being told (with each message) "Please check the mission board at Jameson Memorial" and this chained icon has not been seen there since (or prior to) receiving this message, only been a week so far so will wait... would board flipping up the odds here?
+
+These secondary missions are always shown at the top of the list of missions offered by the faction and are separated from the normal missions. They should show up immediately you dock there.
+
+If that’s the message you’re getting & when you dock at Jameson Memorial and open up the mission page there’s no follow-on mission offered by the sender of the message (Dark Wheel in this instance) then you need to take screenshots of the message and mission board and raise a support request as you’ve found a bug. You could try swapping between game modes to see if that clears the problem.
+Last edited: Nov 28, 2018

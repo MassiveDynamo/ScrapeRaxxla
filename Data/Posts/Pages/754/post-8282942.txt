@@ -1,0 +1,28 @@
+Vetinari
+V
+Feb 6, 2020
+#15,061
+D2EA did a vid, called something like 'The shortest jump in ED' .
+
+Noobilite said:
+If you start at point A and jump to point B it cost X fuel.
+
+If you travel half way to B from A and jump does it cost 1/2X or X. People have told me X as it uses the start location of the Star making mass fuel filled ships travelling between start pointless as it doesn't actually reduce the calculated jump range in game.
+
+It uses X fuel regardless to make x LY jump. You haven't 'moved closer' to it by SC towards it, its still X LY away, opposite is also true, if you fly in SC away from it it doesn't get further away and you don't need more fuel - its not in the same instance and the game effectively just starts at the star regardless of where you are in system. The LY distance between 2 systems is fixed.
+If you have full fuel tank you weigh more so max distance is reduced but it still would use X fuel to make the same jumps
+eg empty can jump Y LY, full tank weighs more can jump Z LY
+So if you run half empty you can jump further but it should use the same % of fuel. Edit: or does it? Full cargo means cant jump as far so maybe uses X fuel per ton mass of ship including fuel and cargo.
+If it doesn't it will be a tiny fraction in the algorithm that's rounding a decimal point up or down and that's the difference, not really measurable by any standard.
+
+Noobilite said:
+Although I've seen information that it might work and no information that any side actually knows what they are saying and endless other confused information where everyone and their brother incorrectly answer a different question as if it was not what was being talked about. This should worry everyone... Probably why Raxxla hasn't been found yet.
+
+If that is true then either the game changed at some point or there may very well be people in this community purposely telling people wrong information about base game mechanics and that makes me a bit more than mad.
+
+Don't put down to malice what can be put down to ego and people believing the wrong thing because they've never actually tested it against the available evidence. Some people who complain a lot haven't played for a while and it shows in their knowledge of the game as it is now.
+
+I will say however that I trust this thread 100%. I have asked off topic Qs here as have others and the answer has always been honest and correct or the debate is open and honest and opinions are given as opinions not facts usually.
+Last edited: Feb 6, 2020
+Reactions:
+Six6VI, Machina Ergo Sum, Jorki Rasalas and 1 other person

@@ -1,0 +1,10 @@
+alexzk
+A
+Sep 6, 2019
+#11,946
+Offtop a bit ...
+
+Did anybody try stream PC screen left-right 3D split to smartphone "google cardboard" ? Is it any viable ? I'm thinking to write programs / buy phone (as I don't have it for 2 years). Just feel like I want VR after started to use Krait Phantom instead Conda
+Problem is ..I dunno how to tell to Elite gyroscope data from phone so it could track. Seems like need to do "fake" device/driver...
+Reactions:
+simulacrae and Six6VI

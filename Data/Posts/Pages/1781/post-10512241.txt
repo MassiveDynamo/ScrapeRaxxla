@@ -1,0 +1,14 @@
+Jorki Rasalas
+Dec 17, 2024
+#35,619
+Ian Doncaster said:
+Not just visual - they also don't currently show gravity to get a supercruise slowdown, and don't appear as either Body or NonBody contacts in the journal.
+
+
+In that respect - and notwithstanding the Support comment - a chain of tip-off missions would certainly take a player around the bubble!
+IIRC Comets do appear as SmallBody type in the Journal, but not until youve maanaged to drop into their instance, which of course is impossible because there's no way of detecting/locating them (apart from the Pareco stations) since the galmap overflow mechanism was nerfed....
+
+Ive speculated a few times why FD didnt give them visible behaviour. I think it would be easy using the same mechanism they have for the surface probe trails; it may be that they implemented Raxxla using the comet mechanism and didnt expect anyone to find a method to locate them in general, apart from those orbiting Pareco stations. Maybe when we find Raxxla we'll switch on comet trails in-game
+Last edited: Dec 17, 2024
+Reactions:
+Ian Doncaster

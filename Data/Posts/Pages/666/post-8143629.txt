@@ -1,0 +1,8 @@
+Han_Zen
+Nov 15, 2019
+#13,320
+Jorki Rasalas said:
+No. I’m hypothesising that the station is at one of the Lagrange points of a star+planet, not orbiting the planet. But there seems to be no way to calculate the station mass , doesn’t seem to be given in-game or Wiki, & I need it to plug into the lagrange point calculator. I know the star & planetary masses from the system map info. All I need is a figure for the station mass. I know Aulin Enterprise (looks similar station type) orbits 6030 km above planet Nirvana (0.9500 Earth masses), but that doesn’t help in calculating the station mass since, in mv^2=GMm/r^2, the satellite mass m cancels out.
+Just pick the mass of a small asteroide. It probably doesn't make much difference at all, as the mass of the station is insignificant compared to the planet and the star.
+Reactions:
+Jorki Rasalas

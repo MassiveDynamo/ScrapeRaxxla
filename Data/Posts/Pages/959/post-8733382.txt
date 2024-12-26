@@ -1,0 +1,9 @@
+Jorki Rasalas
+Oct 5, 2020
+#19,171
+Djidjel said:
+Speaking of realistic science, has anyone found any low-mass black holes (around 1 stellar mass or below)? Is there a way to search among known in-game BHs by their mass?
+
+Think you’d have to download the EDSM database, filter for BH then get their mass from the resultant set.
+Reactions:
+[PS4] Filthymick420 and Djidjel

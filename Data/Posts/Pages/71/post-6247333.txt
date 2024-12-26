@@ -1,0 +1,8 @@
+Louis Calvert
+Dec 27, 2017
+#1,412
+Apologies if this has been suggested before:
+
+The PF make our nav systems and run Galnet.
+
+Could this "boot up sequence" contain some sort of constellation map, or system map, to the location of Raxxla? Or is this just random stars:

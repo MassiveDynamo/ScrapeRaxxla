@@ -1,0 +1,12 @@
+Jorki Rasalas
+Apr 12, 2024
+#33,848
+I'd forgotten the garden theory, fallen back on another hypothesis...got a couple of candidate systems to check.
+
+You can't do a triangular search with any tool that I know of, nor a cylindrical search which is what I was looking for last week.You could download the database from EDSM and do a coordinate-based search yourself if you're a programmer...or maybe do 3 spherical SPANSH searches (radius set to their distance apart) on Fall, Sheela na gig & Thetis as the reference systems, import the results into 3 spreadsheets and do some comparison to check for systems that are in all 3. The initial 3 searches could check for those body types.
+Edit
+Don't forget to add one to the body count for the star!
+Just had another look at the garden design & think it's recursive so I'm leaning towards a system with a star and four planets, the third planet being a ringed GG with a single moon. But there are clearly various combinations that design could represent.
+Last edited: Apr 12, 2024
+Reactions:
+Rochester

@@ -1,0 +1,7 @@
+Emperor
+Aug 26, 2022
+#26,869
+Jorki Rasalas said:
+Elite Dangerous: The Guardians 2.2 update
+Seem to remember that was to do with stations not appearing in very busy systems, but interesting...
+Just noticed I forgot a bit from the patch notes when I copied it... It was a "speculative" fix for them disappearing... It could have been a tricky bug or they may have been trying not to break some functionality would be my guess having been in software development for far too many years...

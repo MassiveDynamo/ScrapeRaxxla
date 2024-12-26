@@ -1,0 +1,21 @@
+yelboc
+Feb 24, 2021
+#21,397
+Jorki Rasalas said:
+I’m a bit suspicious of this Inara information. How did it get in there & how authentic is it??
+You are right to be suspicious of Inara data - Inara has some data that is user editable and I have come across anomolies there before when users have modified the data, but then it hasn't been updated when things change.
+
+Here's my own scan of the Inara data for non-standard allegiances:
+
+
+Notice CM Draconis 'PlayerPilots' - I believe this is related to Cannon - its not real - the real CM Draconis is allegiance 'none' and there are no planets there.
+
+EDDB and EDSM do not modify the uploaded data from journals so these can be trusted.
+
+Some system descriptions strings may be out of date on EDSM, thats all I found to not trust, and the bottom right panel descriptions on some places are also player generated. But the map and bodies are as per the journal.
+Attachments
+1614167047298.png
+117.8 KB · Views: 80
+Last edited: Feb 24, 2021
+Reactions:
+[PS4] Filthymick420 and Jorki Rasalas

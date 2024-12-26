@@ -1,0 +1,17 @@
+Ian Doncaster
+Jul 4, 2024
+#34,432
+Jorki Rasalas said:
+@Ian Doncaster When I've got time I'll add a minibubble around Lave to my analysis...size of said minibubble at release of game?
+Was it an actual bubble, or just the 11 "old worlds"?
+It was certainly smaller than the Alioth one but I think they did have more than the 11 - though, on the other hand, they didn't have all of those, either:
+- Riedquat started as Anarchy (and a Federal one, at that)
+- Orrere might have been Federal or Independent, I can't remember
+- Orerve I think was definitely Federal
+- Uszaa again Federal or Independent
+
+Of course, at game start even the Alioth bubble was fairly sparse, with a lot of Federal and Independent systems mixed in. They only had a bit over 200 systems total.
+
+(Simple and mostly reliable test: check if the system has a native non-player Alliance faction; if it doesn't, it definitely wasn't Alliance in 3300. Having one doesn't necessarily mean that it was, but it makes it more likely)
+Reactions:
+Han_Zen and Jorki Rasalas

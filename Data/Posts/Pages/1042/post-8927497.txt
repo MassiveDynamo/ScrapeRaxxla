@@ -1,0 +1,22 @@
+Jorki Rasalas
+Jan 31, 2021
+#20,823
+simulacrae said:
+Ok so im particularly dense ... how are we getting the sector numbers for the asteroid belt?
+
+You catch an asteroid, turn it over, and read the serial number!
+
+Seriously, I found I needed a numbering scheme when I first started to investigate the asteroid clusters, so I devised one: https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8923413
+
+How did I determine where the top was? Well, I made a decision.
+
+Marcos’ finding that the belt is rotating may of course impact this numbering scheme. I had spotted that between the time I took that snapshot to apply a numbering scheme and later shots/videos (after I had spotted and started investigating the green glows) that the sectors on the orrery view seemed to have rotated a little, but thought it was just me with a bad camera angle. It may be that the orrery view sectors themselves are rotating to match the belt rotation. Don’t know if anyone’s investigated that.
+
+Some sterling research work on the green glows and orrery view apparent positional jumping has been done by the Independent Raxxla Hunters over the last few days and I’m really grateful for their efforts. It is looking like the green glows may be due to a lighting bug that appears after switching back from the orrery view to normal view. It has now been observed in a couple of other systems than Sol, so I think that lays the green glow phenomenon to rest. It was an interesting and promising diversion in my theory but has not disproven it.
+
+Edit: I’ve updated my original theory post (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8911441) but I’m too close to it to decide if it still makes sense. Perhaps someone else could read though it & give me feedback?
+
+I still think there is something hidden in Sol and that the Raxxla logo is a hint at that. I shall continue to investigate!
+Last edited: Jan 31, 2021
+Reactions:
+Dr. Lexus, Crimson Echo, simulacrae and 5 others

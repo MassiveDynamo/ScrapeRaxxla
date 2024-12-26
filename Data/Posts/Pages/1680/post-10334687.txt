@@ -1,0 +1,16 @@
+SpaceGoblin
+Mar 17, 2024
+#33,596
+Jorki Rasalas said:
+This pattern is supposed to represent a garden layout with pools of water, so IMHO the colour blue is likely meaningless.
+
+D7 said:
+=> Oh gosh no. That is not water in that park. That is stone work or some kind of blue gravel pavement. Water would not look like what is in that image. It's clearly stone-like.
+
+I believe you are both correct, in as much it looks like they are meant to represent pools of water, with blue/green tilling/paving at the bottom.
+
+Looking at the gardens in game, the blue/green texture moves in one direction (different in each 'pool') with a speckled white texture pattern overlaid on it, moving in a different direction to the blue/green.
+
+Why is the water moving? No idea, I'm sure we can think up lots of lore/in world physics/in engine physics/creative reasons for that, but I'm going with 'a quick visual shorthand using as few gpu/cpu/memopry resources as possible'
+Reactions:
+Jorki Rasalas

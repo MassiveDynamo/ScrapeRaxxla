@@ -1,0 +1,13 @@
+simulacrae
+Aug 5, 2019
+#10,258
+Han_Zen said:
+Thanks.
+
+I've put in the planes as surfaces in my plot (turned of in the link). The display is pretty horrible, so ti doesn't help much.
+
+I need a better 3D program. I'm used to working in Rhinoseros 3D, but I don't have a lisens at the moment.
+
+I have been using Sketchup for mine... It has a xyz import... works good for plotting out the points.
+Reactions:
+TotallySirius, Han_Zen and CMDR Josky

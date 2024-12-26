@@ -1,0 +1,27 @@
+El Saico
+Apr 8, 2024
+#33,830
+Han_Zen said:
+I still think Vega is the best starting point. In addition to the points in the post: https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/page-1591#post-10245730,
+Vega also sits directly on top of the Andomeda galaxy, when viewed from Lave. The Jewel in TDW's toast is probably from TDW viewpoint of the galaxy. That is most likely from the old worlds region.
+
+I also found this:
+"
+Persian: Guardian Star
+In the Zoroastrian religon, Vega was one of the four stars who protected the earth. Vanant (Conqueror) ruled the western quarter, and he guarded the gates the sun passed through each day. The others were Tishtrya/Sirius (East), Satavaesa/Antares (South), and Hapto-iriñga/Ursa Major (North)."
+Source:
+
+The Zoroastrian religon is an old Iranian religion, often considered the first Monotheis religion in the midle east. The prophet is the same person as Nietzsche's Zarathustra and the inspiration for this music by Straus.
+Click to expand...
+So, one thing intrigued me and I was caught in a rabbit hole for a while.
+As it turns out, there's some pop culture misinformation regarding the Zoroastrian guardians and their stars which dates back to late 18th century - and we have evidence that Brookes himself fell for it.
+
+Tishtrya can also be spelled Tascheter, which is the name for one of the sectors in the Bubble; one might presume, therefore, that it's centered on Sirius... right?
+Well, no. The developers of the EDTS software found approximate origin points for all handcrafted sectors long ago thanks to some arcane magic geometry, and Tascheter's is listed as (1.46094, -22.39844, -62.74023). There is a system pretty much dead-on at (1.4375, -22.40625, -62.75); however, it's Aldebaran.
+
+Why's that? Well, many places list the latter system as "one of the royal stars of Persia", together with Regulus (as Venant), Antares (as Satevis) and Fomalhaut (as Haftorang). This is because when the Avesta was first translated into French, back in 1771, the correspondence between the ancient Persian constellations and ours was not known yet - so a contemporary astronomer came up with a far-fetched theory based on the systems which matched the equinoxes and solstices of Zoroaster's time.
+
+See: this 1945 article which is the earliest debunking of the whole concept.
+Last edited: Apr 12, 2024
+Reactions:
+Han_Zen

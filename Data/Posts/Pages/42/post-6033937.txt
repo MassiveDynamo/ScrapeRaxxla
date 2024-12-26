@@ -1,0 +1,7 @@
+clavain
+Oct 14, 2017
+#824
+So, I have checked the list of rogue planets against the Galmap - the only one in game under those designations is [correction from original post] WISE 0855-0714, and it is in fact a star in the game (as wikipedia suspected) and not an actual rogue planet. The others will all have to be looked up in Simbad and their multiple designations checked against Galmap before it can be determined if they exist in game or not. This will likely take me a bit of time (and motivation, which is pretty low at the moment).
+Last edited: Oct 15, 2017
+Reactions:
+madbilly and Jaiotu

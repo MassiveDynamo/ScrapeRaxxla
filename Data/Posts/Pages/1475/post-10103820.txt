@@ -1,0 +1,10 @@
+Thatchinho
+Mar 21, 2023
+#29,481
+Emperor said:
+Did someone check the audio and alter the pitch to confirm it was exactly the same and did they check for the same patterns in a spectrogram analysis?
+Just on the audio - the pitch was lowered as part of 3.0.
+
+I’m not sure what the subsequent change has been.
+Reactions:
+Emperor

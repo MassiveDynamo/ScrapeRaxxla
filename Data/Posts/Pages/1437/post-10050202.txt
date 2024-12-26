@@ -1,0 +1,77 @@
+Louis Calvert
+Jan 1, 2023
+#28,725
+John [Panzertard] Stoutbeard said:
+Notes on ...
+What we know of PF symbology
+Codex, TDW Article - the PF symbol. View attachment 340011
+Galaxy map, Map mode button uses the PF symbol: View attachment 340012
+Codex. Colonia (does it mean it was established by PF?): PF symbol. View attachment 340013
+Codex, Handbook, Salvage and Rescue activities. PF Symbol again: View attachment 340014
+
+Perhaps FDev have made an oversight and is using this symbol willy-nilly.
+Or perhaps they have made a conscious decision that the PF symbol belongs to these areas.
+Click to expand...
+As I mentioned in my post we are all part of the Pilots' Federation by default. We're not random spacefaring peoples, we were inducted into the PF when we were gifted a ship and training and a pilot's licence by the PF and the mysterious benefactor. That's why ships and stuff for us are dirt cheap, because PF members get massive discounts.
+
+Colonia was founded by players, therefore, the Pilots' Federation.
+
+Our ship interfaces are made by the Pilots' Federation, that's why there's the PF symbol on our ship interfaces.
+
+The interfaces within the stations we interact with are the Pilots' Federation section of the station interface, hence the use of the PF symbol.
+
+Galmp is owned/managed by the PF, hence the use of the symbol there.
+
+The Dark Wheel is a sub-faction of the PF, hence the use of the PF symbol on the Dark Wheel logo. That's explicitly stated in the Shinrarta tourist beacons. Though if Lyta Crane is right, the Dark Wheel pre-date the PF by centuries.
+
+The vast majority of the trillions of people in the galaxy aren't part of the PF. It's essentially supposed to be the players and (presumably) Fdev as the "Management/special groups" of the Pilots' Federation - that's a relatively minuscule amount of people wielding an immense amount of power.
+
+This isn't me hypothesising, this is literally the game lore
+
+Further to that, there's an addendum on the intro letter in the manual that heavily implies that the Dark Wheel (not named) are testing us right from the very start. The whole process right from the first time you boot up the game is "part of the test".
+
+Apologies, I should have included all this in my post recently, I assumed it was general knowledge
+
+The manual (available to all, top left of the game launcher) says this:
+PRIMARY TRANSMISSION BEGINS...
+Sue, Cripple & Sneer, Solicitors
+Windrush Tower, Olympus Village, Mars, Sol System 0/0SO4 OL1
+Reference: JAS 161200/42
+Date: 16.12.3300
+To whom it may concern,
+It is our solemn duty to deliver to you a package left with us, from a benefactor who wishes to remain
+anonymous at this time. The package was placed in our care with instructions to be delivered in the event
+– and only in the event – of your successful membership of the Pilot’s Federation.
+We have been so notified of said acceptance, following your grading in the recruitment aptitude exams,
+and so are carrying out this transaction in the manner as specified by our client’s wishes.
+The package is two-fold. Encoded into this transmission is the first part: a secure code. Use this code to
+access a starship account, pre-configured with your credentials, including a fully paid, indefinite lease, and
+comprehensive insurance cover. The second part of the package is a credit transfer to your personal
+account, which I can confirm was successfully completed at the time this transmission was dispatched.
+The attached message was also to be delivered to you upon receipt of the access code. We feel this
+matter has now been resolved to the satisfaction of all parties concerned. If you have any questions, do not
+hesitate to contact us. The normal fees of one thousand two hundred credits (1200 CR) per hour (plus
+Federal Service Tax) apply, plus a one off initial contact fee of five thousand credits (5000 CR).
+Yours sincerely
+J. Sneer
+ATTACHMENT-01
+You may be puzzled right now as to why you’ve just received this little windfall. Nothing wrong with that – I’d
+be worried if you weren’t.
+But now get ready for lesson number one. When a golden opportunity comes your way – and trust me,
+they’re few and far between, my friend – reach out and grab it with both hands. Sometimes it’s clever to
+ask questions, and sometimes it’s not. This time it’s not.
+All you need to know is that my organisation has a very specific remit: to seek out those who have the
+potential to become real movers and shakers, those precious few with the talent to mould and shape the
+galaxy around them, to create change on a grand scale.
+We find them, and then we test them. Consider this your test.
+Take the ship. Take the money. No strings, no hidden clauses. Do with them what you will.
+Blaze your own trail.
+Impress me, perhaps you’ll learn more.
+A Friend
+Click to expand...
+WELCOME TO THE PILOT’S FEDERATION
+As a newcomer to the life of a starship pilot, and as a new member of the Pilot’s Federation,
+please read the following short guides for additional information you may find useful in your
+travels across the galaxy.
+Reactions:
+John Stoutbeard, CMDRCorrMorningstarFelian and Rochester

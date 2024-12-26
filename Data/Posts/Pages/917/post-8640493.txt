@@ -1,0 +1,12 @@
+alexzk
+A
+Aug 11, 2020
+#18,334
++/- same distance point should be somewhere in guardian sector. Going there to check, as calculations aren't exact...and maybe wrong. Wana measure on map.
+Ok...not sure, here I found center of outer circle around triangle assuming Y coord is same (it's almost same for that 3 stars), so line must go perpendicular to plane and through this point. Maybe some errors present:
+
+Pro Eurl GE-B b2; 12.37 (ly)
+Pro Eurl GE-B b3; 12.47 (ly)
+Last edited: Aug 11, 2020
+Reactions:
+PeteACarter and [PS4] Filthymick420

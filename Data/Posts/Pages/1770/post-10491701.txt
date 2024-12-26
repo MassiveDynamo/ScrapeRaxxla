@@ -1,0 +1,29 @@
+Rochester
+Nov 24, 2024
+#35,397
+Louis Calvert said:
+"Dark Systems" are just Brown Dwarf or similar systems. AFAIK early on there was a plan to have them hidden and discoverable as "shortcut" systems but that was never implemented, so technically every dim star is a potential dark system. That's why they appear in some of the novels though because the writers were working off very early drafts of the overall design documents.
+
+It's just yet another one of those Elite myths that clouds the real mysteries that get propagated by this community.
+
+Note: I think this is also a misunderstanding of my post! I was only commenting on the visibility of stars in the skybox within set criteria.
+
+I agree, and no I didn’t misunderstand, I was going off topic due to wine…
+
+Never the less - I agree in you’re assessment.
+
+Star visibility in game is probably affected by obfuscation from dust. FD stated their original designs were too bright so they had to manually edit dust levels and luminosity. I do believe there isn’t a logical answer. There are stars in the galaxy which technically shouldn’t be there. And our displays (huds) are set to show certain luminosity which can be edited by FD.
+
+Black holes can be visible in the gal map as some (not all) are shown with a halo…if the bh is not the primary it technically is invisible until you jump there and see various visible clues, and the scanner of course.
+
+I don’t really know the answer only speculate if the star is not visible in the sky map it’s just due to luminosity, distance and dust, if it’s not visible in the galaxy map, it technically could be just part of a primary system that is, and that might fit the description of some dark systems as either very distinct or captured bodies or are they remnants of the known star library duplication?
+
+Nether the less, this is a good find O7.
+
+Going off topic again, I do miss the old mechanism for exploration, and do suspect it was the primary reason we never found Raxxla, the new mechanism effectively makes everything far too easy and probably introduced complacency?
+
+I do miss the old Mki scanner…
+
+Last edited: Nov 24, 2024
+Reactions:
+Emperor

@@ -1,0 +1,39 @@
+Louis Calvert
+Nov 13, 2024
+#35,303
+Beng_Ammon said:
+I dont there is any way, nor is it inline with any MB or DB mystery ever, that a small team of MB, DB, and a dev or two made all of that for raxxla.
+
+And that is not "simple" and "under our nose" lol.
+
+That might be the other end of the omphalos rift or something like that, but most of the raxxla clues we do have point to earth based references, and classic db riddles, with Brookes' layering that he liked to do.
+
+The biggest clue we have with omphalos rift, is that the codex entry referencing it, the system name change to Delphi, and the Delphi Control Center in Sol, all dropped with the same release.
+Click to expand...
+Strongly disagree.
+
+My solution to the Raxxla mystery meets the following criteria, which I believe would have been important to Brookes and Braben when implementing this easter egg:
+
+It is platform and game version agnostic - anyone on any platform can hear the Landscape Signal, and therefore track it to the centre of the Galaxy.
+Although the spectrogram is much easier to see on PC, I'm sure there are methods for recording from console, since this same puzzle was used for the Thargoid Map. It's also possible that at the time of implementing Raxxla they didn't know that non-PC platforms would be used.
+It is Language agnostic - finding and tracking the Landscape signal is not linguistic, therefore accessible to all players.
+It is based almost entirely in the game lore - Understanding Raxxla does not require anything other than knowing the game lore, which also makes it language agnostic since the in-game lore is translated into multiple languages.
+There are no (significant) barriers to finding the Landscape Signal - Any player, anywhere, on the base version of the game can locate and track the Landscape Signal. The only requirement is to be able to reach the centre of the Galaxy to perform the final triangulations, which can technically be done in a stock sidewinder with a fuel scoop.
+It is very simple - It is a single spectrogram hidden in a sound at the centre of the galaxy. There is nothing else to it, it's just that. I can whip that up in about an hour and I'm just an idiot with google. Implementing Raxxla in the lore is something Brookes would have done anyway since he was present for shaping all the game lore pre-launch and early game, therefore simply adding in little hooks that point at Raxxla is the work of seconds, anyone that's done any worldbuilding knows this is just how it's done.
+Finding the Landscape Signal does not require knowledge of Raxxla - it's fully possible to track the signal to the centre of the galaxy, see the spectrogram, and all that, without knowing a single thing about Raxxla, therefore it's open to all to discover it, even if they don't have a name for it.
+It does not require a PHD in Mythology, Cyphers, or any other restrictive discipline - it relies entirely on playing the game, finding things in-game, understanding game lore, and a tiny bit of recording sounds and using a spectrogram (things already familiar to much of the Elite mystery hunter community due to later puzzles that used the same and similar techniques).
+It required a team to fully solve - It probably could have been done by one person, but ultimately it was resolved by a large group from the Independent Raxxla Hunters, and me much later putting bits together partially based on discussions on this thread over the years - very much a team effort.
+It retains mystery and ambiguity even after discovery - The Landscape Signal was found years ago by Commander Seventh_Circle and investigated by the Independent Raxxla Hunters, and yet it's still widely dismissed by the Raxxla community even today, even in IRH Discord it's relegated to a poky little subthread amongst many.
+It retains the option for Fdev to expand on the easter egg at a future date - At any time Fdev can add something more to it, using the Landscape Signal as a jumping-off point for anything they want. Simply releasing a Galnet article about a "mysterious signal from deep space" will be enough to start that storyline and induct anyone not already in the know.
+All I did was join the dots between the game lore, the Codex entries, and the already-discovered Landscape Signal. Using a spectrogram discovery made on this thread by D7 I was able to then learn to tune the spectrogram and see the hidden images in the Landscape Signal which hint at deeper lore and more mystery yet to discover. I documented all my findings for others to try out and attempt to resolve the signal fully.
+
+No other solution to the Raxxla mystery presented at any time in the last decade has actually produced any results or solved all/most of the Codex clues in a way that actually points towards something, and brought it all together in an actionable sequence of repeatable steps that anyone can do - a sequence of steps that seem exactly like the kind of gameplay that was available at launch and was entirely possible for a single person or small team to implement during the frantic rush to create Elite Dangerous. Even if you can't see the hidden images, then the Landscape Signal is unequivocally there, and it's unequivocally an artificial signal, and it fits the Codex and other clues.
+
+The reason this solution is rejected by the majority of the community is that almost everyone (myself included) has some sort of imagined solution to Raxxla, usually one that involves them as the discoverer dropping into some astonishing never-before-seen vista like a space-gate or ancient whoosit, and maybe getting a congratulatory email from Braben or something. Compared to your imagined Raxxla solutions, an already-discovered audio signal with hard-to-see images in it seems like an anticlimax to most people - and therefore it can't be the right solution, right?! The fact is that maybe it's actually still possible that there's some whizz-bang fancy stuff to find; I have repeatedly said that I don't think what I found is the end, I think it's what we're supposed to have found years ago and missed which may be literally just the first clue.
+
+Brookes couldn't have predicted how long it would take to find the Landscape Signal, it might have been found 1 day after launch, in which case the Raxxla mystery might have evolved from there early on when he was still at the helm. Instead it drifted in obscurity for many years mostly championed by this thread and the few who continued to post here for years until the Codex in 2018 revitalised it, and then when nothing significant showed itself after a while most people have drifted off again, especially in the last few years when (IMO) content was a lot more "shoot aliens or get stuffed". Hopefully now this "Thargoid War" is nearly done Fdev will bring back some of the mystery and adventure to the game that was so redolent in the early years - and Raxxla is a hot ticket waiting to be punched.
+
+If all the collective brainpower on this thread was focused on solving the Landscape Signal then we might well all be looking at whatever is hidden in there, it might be the starmap of everyone's dreams leading to some awesome discovery still out there - thought I personally think it's 'just' pictograms and images showing deep lore, which can be built on in future.
+Last edited: Nov 14, 2024
+Reactions:
+Macros Black, simulacrae and Rochester

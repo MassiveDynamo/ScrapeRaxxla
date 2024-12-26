@@ -1,0 +1,16 @@
+Han_Zen
+Sep 30, 2018
+#3,683
+Scytale said:
+A Rogue Planet cruising inside a system shouldn't be called "Rogue" as long (very long time...) as it doesn't quit the system boundaries. Rogues orbit Sgr A*, by definition. (btw, incredibly low probability for a system to catch a rogue...)
+Protostars, afaik, are a totally different stuff. Nothing to do with a "solid" body.
+But, again, why not ? ED/FD definition of "consistency" is wide....
+I think we could imagine Raxxla appearing in the GalMap as a class X, and as a rogue planet in the system map. It would fill both descriptions.
+If there is only one X in all the GalMap, and maybe even obfuscated, then it wouldn't be surprising that nobody found it for now.
+We assume the current ADS detects and maps all the bodies, except comets, inside a system. Don't we ?
+
+That's correct, as far as I can read. Interlopers that are caught by the system, are no longer rogues. As soon as they have a permanent orbit, they are par of the system.
+
+It's speculated that Venus may be an ex rogue, because it has retrograde rotation.
+
+Objects like the comet Oumuamua, are real rogues, that just visit our system.

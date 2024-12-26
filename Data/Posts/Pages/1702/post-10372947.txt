@@ -1,0 +1,12 @@
+Doctor Dread
+May 10, 2024
+#34,029
+Jorki Rasalas said:
+That contradicts what FD (I think DB) said that ED is the first game to implement Raxxla. I believe the code of the first game has been extensively analysed.
+"...to implement."
+
+Something Raxxla WAS in the original(s) code at the beginning. Not working as a feature (I made Elite rank in 1985 on C64, knew it inside out, no Raxxla whatsoever ingame) but it was written in .
+Ian Bell confirmed it was there (written in a code), and removed for the later editions.
+
+So I'd gladly hex the crap out of the original, if only someone can unpack it.
+A single line "Raxxla xyz" would make a breakthrough.

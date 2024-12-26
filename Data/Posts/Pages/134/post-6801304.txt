@@ -1,0 +1,13 @@
+Friedenreich Xante
+Jun 21, 2018
+#2,675
+Han_Zen said:
+I use this site: https://cim.sotl.org.uk/elite-dangerous/
+
+To find sectors that end with 'RA' (Ctrl F - RA ). Remember the space after RA.
+
+Then i copy that sector name (e.g. Byooe Bra) to the galaxy map search box and add 'XX-L A'.
+
+Then I just click trough all the systems.
+
+Oh, I was hoping there was a less tedious way to do it. Anyway, thanks!

@@ -1,0 +1,13 @@
+Lest
+Apr 5, 2020
+#15,919
+Oseris said:
+Here's the raw video.
+https://twitter.com/x/status/1246482482897158145
+Source: https://twitter.com/i/web/status/1246482482897158145
+Awesome stuff. Is it Morse code? Maybe it needs an audio analysis?
+The "pshhh pshhhh..."s ounds like a noise (pink, white,...?) passed through a low pass filter modulated by a LFO. What you can get from it could be:
+-The frequency of the LFO (which is variable here): pass the sound through a high pass filter untill you can only hear the high frequency noise, then mesure each periods. As the LFO modulating the filter's frequency could easily be modulated by another LFO to give this sweeping effect, there might not be much to find here.
+-Information hidden into in the noise (once the filter is fully opened): a spectrogram should do the trick.
+Reactions:
+[PS4] Filthymick420, [PS4 Pro - PC] earthtone99, Machina Ergo Sum and 1 other person

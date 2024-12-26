@@ -1,0 +1,15 @@
+Han_Zen
+Apr 23, 2021
+#23,031
+clavain said:
+Again just a minor quibble. I don't see why there is no reason that the code can't check to see if a commander has a permit before making something visible or accessible in a system, without us even knowing.
+
+Also, the Adamastor/Hesperus mystery has been using an interesting twist on the permit mechanism to get access to rewards from Salvation. So there certainly may be other permutations and combinations of permit access that have been there for a while and which we aren't aware of.
+
+Edit: It could even be a completely hidden permit, that we don't know we have even acquired. It is just a boolean variable after all, presumably (or a larger variable if it can have more than two states).
+Click to expand...
+That is possible to make, but would look silly in a multiplayer game. If you spawn objects based on rank, you risk messing up the game logic.
+
+Rank lock needs to to make sense in the game world. A TDW station demanding Elite to give landing access makes sense. A TDW station that only spawns for Elites does not.
+Reactions:
+[PS4] Filthymick420 and Vasquess

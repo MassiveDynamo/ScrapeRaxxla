@@ -1,0 +1,32 @@
+Jorki Rasalas
+Feb 15, 2021
+#21,127
+drew said:
+I researched this claim in much detail, talking to everyone I could think of who might have been a witness, hoping to establish its veracity. I was not able to confirm it, nor the identity of who was supposed to have said it. It resurfaces every few months.
+
+The story comes from LaveCon in either 2015 or 2016 and was alleged to have occurred in a "corridor" conversation between some fans and an unidentified Fdev employee.
+
+It may have been said, but no one (to my knowledge) has been able to corroborate it.
+
+Cheers,
+
+Drew.
+Click to expand...
+
+Hi Drew, nice to see you you here again!
+
+The reputed quote that the system containing Raxxla had been visited by a pilot who had honked and then moved on without discovering Raxxla is supposed to have been said by Michael Brookes at a closed Q&A. I discussed this with one of guys who made the claim; he was hazy as to which was the exact meeting though he’s adamant it was said and by MB. Michael Brookes has declined to comment, unsurprisingly if it was a closed session and therefore with an implied NDA.
+
+I’ve pointed out many times that it does not give us any indication of the possible location of Raxxla- after all the first deep space expedition started even before the gamma release (when Raxxla was inserted into the game)! However it does suggest that Raxxla may be hidden and not discoverable by a simple quick scanner honk, assuming that (a) the quote is true and (b) the pilot in question was within scanning range of Raxxla, they could have had a limited-range basic or intermediate range scanner (which were in-game at the time) which might not have reached to the distance at which Raxxla is placed in-system.
+
+Coupled with another supposed quote, also unproven with no source reference, by David Braben about Raxxla:
+(DB: "- It would be more likely to reveal itself to a group of players."
+Interviewer: "- How so?"
+DB: "- If you are at the right place and you scan it enough..."
+Interviewer: "- Advanced scanner or the basic one?"
+DB: "- Basic scanning is enough."
+Interviewer: "- But you have to be Elite..."
+DB: "- You have to be Elite.”)
+
+then I suspect Raxxla is hidden in plain sight and needs to be actively searched for; it will only be found if you’re very close. Though why the requirement for Elite I don’t know, unless it’s to be consistent with the lore from the original Holdstock novella.
+Last edited: Feb 15, 2021

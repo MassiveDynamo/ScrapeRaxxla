@@ -1,0 +1,45 @@
+Jorki Rasalas
+Aug 27, 2020
+#18,552
+Let’s not credit Drew for everything! Macros keeps links to relevant sources on the first page of this thread.
+
+DB video “ED has a story that "embraces all the players"
+Source: https://m.youtube.com/watch?v=gDh9G1gDgMU
+. At 7:35 he said: “now we’ve got the beta, we’ve got the house & now we’re adding the story, the furniture that makes it a really rich game. At 8:20: it does have a story, but it’s not a single-player threaded “rescue the princess” style story, it’s a story of your progression through the game, we will have things that happen to you at certain stages through the game, you’ll get invited to join things, if you get invited to join a secret organisation that’s a thing that can happen to lots of players, if you don’t get that invitation you’ll think to yourself why? I did kill that policeman the other day maybe I need to get my reputation higher”.
+
+MB: DJTruthsayer [TIQ] Michael Brookes Lore interview
+https://player.twitch.tv/?volume=0.8&video=v66487974&time=1h40m30s
+01:40:45 DJT: We put the first question in as a joke, I’m astounded you’re going to answer. MB: Well, you're assuming you’ll get a sensible answer...DJT: Where is Raxxla? MB: Where is Raxxla? ”Well, It's in the Milky Way, but I can't tell you where at this stage, it's a journey that everyone has to travel for themselves". DJT: You have always said there will be no clues. MB: "that is true, but I think you have to make some of it a tiny little bit obvious just so that people know what they are doing, there is nothing to be revealed at this stage"
+
+Some people continue to say there are no clues based on MB’s statement, but clearly FD then gave us the codex which does have clues. The trouble is the clues are so ambiguous that they haven’t actually helped. They have generated a lot of gameplay though, which is perhaps what FD wanted. But I agree, it should all be fairly obvious when the truth is finally revealed; degrees in physics/literature/astronomy/mythology should not be required. I strongly suspect it is much simpler than that. Spiralling stars is clearly a significant clue, I recently postulated two orbiting black holes, Alexzk has postulated Wolf Rayet stars, the Milky Way galaxy itself spiralling around Sag A* is also a possible solution. There may be others but those are the obvious ones. I’ve dived a lot of BH, including experiments at several binaries without success to the point that I got bored. Wolf Rayet stars is an interesting hypothesis since they can exhibit spiral structure, especially if close to another star.
+
+I dont believe FD would put Raxxla in-game and then effectively bar players from finding it for several years until Guardians/Thargoids & their artefacts appeared, so Omphalos Rift is the Raxxla gateway (or it’s already in situ and should not need an artefact to trigger it. Maybe disguised as a station? Nor do I believe it’s in a permit locked system with no way to get that permit-it would make much more meta sense for the gameplay here to involve a series of permits, & possibly each would be difficult to attain - a typical Quest!
+
+The Gateway/Raxxla is likely to be a single object (from the deleted Elite mission clue “certain celestial body”), however this contradicts both the spiralling binary BH and WR+companion star hypotheses since they require two bodies; perhaps that contradiction is why those missions were deleted?
+
+The WR hypothesis is interesting because Wolf-Rayets are the most massive and brightest stars known. Closest WR in-game example near to bubble is LAWD 26 B; permit-locked Gamma Velorum (Regor) is another, only one that can be seen IRL with the naked eye (& that is possibly the Guardians’ homeworld). BUT as EDSM says Regor is IRL by far the closest and brightest Wolf-Rayet star to Sol, so given DB’s statement “Scientific accuracy is really important to me” accuracy of LAWD 26 B is highly suspicious since a WR should not be so close to Sol!! But Stone’s Legacy station there is an Ocellus not a hexagonal/dodecahedron to match the codex Raxxla logo.
+
+WR examples in-game-these should not exist either if Regor is IRL the closest to Sol?
+LAWD 26 22ly
+HIP 89535 281 ly
+HIP 91911 420 ly
+HIP 99982 561 ly
+HIP 74634 644 ly
+HIP 69445 673 ly
+Phi Persei 718 ly
+
+Taking a look at possible potential influences on DB’s thinking I found the following papers on WR around the game design period:
+2012 "IC 4663: the first unambiguous [WN] Wolf–Rayet central star of a planetary nebula"
+2012 "A Near-Infrared Survey of the Inner Galactic Plane for Wolf–Rayet Stars. Ii. Going Fainter: 71 More New W-R Stars"
+2012 "The Wolf–Rayet Content of M31"
+2012 "A Study of the Wolf–Rayet Population of M101 using the Hubble Space Telescope".
+2013 “Astronomers Capture A Rare Wolf-Rayet Star Just Hours After It Dramatically Explodes” Researchers were able to capture a dramatic Wolf-Rayet supernova called SN 2013cu just a few hours after the explosion began thanks to the intermediate Palomar Transient Factory (iPTF) collaboration
+2014 “The Wolf-Rayet stars in M 31”
+2014 “M1-67 is the youngest wind-nebula around a Wolf-Rayet star, called WR124”
+
+I haven't investigated any of those destinations, as I’m stuck on Lawd26 since that is a glaring contradiction and is well within the range possible for Raxxla (I’m not persuaded by the argument that it could be within several thousand ly based on fsd capability. That speculation may be true, but how likely is it? Humanity would have explored in an expanding sphere, possibly with some directed effort spikes to astronomically interesting specific destinations, so a “morning star” shape (https://en.m.wikipedia.org/wiki/Morning_star_(weapon)) vice a smooth sphere, but still not far outside that sphere.)
+
+Edit: I haven’t checked those WR examples to see if they are WR IRL. Also I did check the front of Stone’s Legacy (who was Stone? Is this a clue??) and the pattern of lights around the entrance doesn’t match the 33 dots in the Raxxla logo, but it is suggestive- I am now hypothesising that the Raxxla logo actually represents TDW’s station entrance, and that the implication is that we need to find TDW to find Raxxla (though logo seems to depict a dodecahedron which doesn’t tally with the orbis “wheel” structure required for The Dark Wheel, so not fully convinced on this).
+Last edited: Aug 27, 2020
+Reactions:
+CMDR UDentalFloss, John Stoutbeard, Vetinari and 3 others

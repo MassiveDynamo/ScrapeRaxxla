@@ -1,0 +1,10 @@
+alexzk
+A
+May 13, 2020
+#16,400
+Updated my proggy:
+https://github.com/alexzk1/ed_highway
+
+Now it can query rings (ICY!!) and build optimal route in known space for edsm of coz. Gona try it now with carrier. Idea is - check all sys around for nice icy.
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420, PeteACarter and 1 other person

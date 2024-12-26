@@ -1,0 +1,9 @@
+madbilly
+M
+Mar 24, 2017
+#303
+Rogue Planet is one of the star descriptions that appears in the player journal API. It's not selectable as a filter on the galaxy map, obviously, but I assume it would be classed as non-sequence. Rogue Planet is a star class, not a planet, so I assume it should appear in the left hand description pane in the galaxy map, but this would require a brute force search method. Similarly, if it's not listed in the galaxy map, then finding it by scanning objects in system will also take ages.
+
+I'm currently "collecting" all the different star classes, and haven't found a rogue planet yet. Maybe there aren't any, and it's a red herring as far as Raxxla goes.
+Reactions:
+turkwinif

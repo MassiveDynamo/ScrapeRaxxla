@@ -1,0 +1,40 @@
+ironshirt
+I
+May 22, 2019
+#8,174
+RaNaketh said:
+Hi Ironshirt,
+
+I tried scanning the data-point last night with my ship, but the Core data-point was displaying as 'inactive' when I locked it up (ship nose almost touching it) and scanned it through to completion. I then checked all the other data points on the base and they were likewise 'inactive', and tried to scan these also to no avail. I had a friend flying cover and drawing their fire at the time so I wouldn't be targeted so I could scout it out.
+
+I tired again without his cover, and running a 2-10% heat spamming heatsinks (which didn't seem to do anything in preventing the system defences from spotting and locking me up), and after about a minute I was fined, bounty, wanted, and killed by the system defences. Seemingly because all the points were inactive again, otherwise I think I'd be able to scan and get out in time.
+
+Has anyone else seen the data-points inactive? I must be missing something, but not sure what!
+
+@ Eclip5e - I don't recall this being a nano-med tip off, I haven't done many of these so might have missed that part about it? Here is the tip-off mission message in-case it's different for any reason from others you've all noticed before. It looks pretty 'generic' so I'm not expecting anything to come of it, but we have to try!
+
+
+
+
+/ Ra
+
+p.s. Macro, you're right it's a medium installation level 3.
+Click to expand...
+
+Hi RaNaketh!
+I feel very sorry and guilty for the loss of your ship! Should have made things more more clear.
+After visiting Rothfuss Vista again, I have to admit that this is one of the tougher settlements IF you gain fines to the point that the turrets start firing.
+Edited the original post to avoid that somebody else relies on this rather bad advice .
+
+However, if you are quick, it IS possible to scan the core data terminal.
+And you really need to scan ONLY the core data terminal (the one with the green light cone), not the other data points!
+Boost through the restricted zone towards the terminal, scan it with your data-link-scanner(!) and boost your way out. This is how I usually do it.
+I am not sure if the core data terminal is always marked as 'inactive' - the scan should work in any case, just the outcome would be different (core data package with message vs core data package without message). If you were not able to scan it (e.g no 'progress bar' during the scan) then there must be something wrong with your data-link-scanner. Please make sure you have it in a fire group!
+For the case you were able to successfully scan it, but got no scanned message. only the core data package, please check if your Tip Off already expired!
+
+Again, sorry for you loss - if you are on PC I hereby offer you compensation in form of a cargo of your choice. Contact me via PM if you are interested!
+
+O7 and fly safe commander!
+Last edited: May 22, 2019
+Reactions:
+AOpsyche, [PS4] Filthymick420, Midian Cabal and 2 others

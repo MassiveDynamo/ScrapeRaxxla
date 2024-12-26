@@ -1,0 +1,51 @@
+yelboc
+Mar 2, 2020
+#15,541
+Crimson Echo said:
+Some version of the elyssian plain of greek mythos may be what raxxla ends up being?
+
+That might bring blessed relief...
+
+I've been checking systems that have Allegiance, but no population. There are many that are just prisons or other sensible things. But there are a short list of Fed systems that have no reason to be like this. I checked them out - none of them are actually very interesting, but there are some that have inconsistent data between what the Galaxy Map says and what the System map says.
+
+LTT 15493
+HIP 15310
+LTT 11159
+NLTT 8065
+BD+03 3861
+Jackson's Lighthouse
+V463 Carinae
+LHS 412
+LTT 10787
+LTT 2952
+BD+10 1684
+Andbephi
+LTT 12106
+LTT 3013
+Lanaest
+Placet
+MCC 515
+NLTT 18977
+
+So this is likely just a bug (I have reported it if you want to give it a poke)
+
+In addition there are these that are correctly consistent - i.e. they have allegiance but no people to pledge allegiance...
+
+HIP 107457
+Pegasi Sector JW-W c1-21
+LP 413-18
+Ferez
+B Carinae
+LTT 3075
+LTT 3010
+NLTT 19088
+LP 366-45
+LP 123-75
+
+which is a little odd. A couple are lore sysytems, but several have just stars in.
+
+Finally there is AY Indi (which has population btw) - the only system with Pilot's Federation allegiance that isn't a starter system (apart from Shindez) - anyone know if this was once a start system in beta or something? Nothing interesting there though...
+
+Now what was the question? Six x Nine..??
+Reactions:
+[PS4 Pro - PC] earthtone99, Machina Ergo Sum, Macros Black and 5 others

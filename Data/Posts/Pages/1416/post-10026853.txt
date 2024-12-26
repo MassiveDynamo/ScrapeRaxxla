@@ -1,0 +1,17 @@
+John Stoutbeard
+Dec 8, 2022
+#28,314
+Louis Calvert said:
+reported or confirmed bugs with multiple reports
+Nice work, but ... Sorry to leave a discouraging comment; It doesn't help us much in this case.
+
+I'm afraid it's hard to conclude "its not a bug" with the lack of FDev response - or lack of the correct issue in the issue-tracker.
+We can only disregard the whole idea if FDev gets a reproduction/clear cut issue in the tracker, they acknowledge it and declares it as a bug.
+
+Personally I don't like to involve FDev at all in such questions, but that's just me. I'd like to figure it out on my/our own.
+But, choices given I'll be keep following other leads, I got a gut feeling too that it may be a glitch somehow.
+However, I'm really glad to see YOU take such an interest in this case though.
+
+Good luck dear colleague. o7
+Reactions:
+Louis Calvert

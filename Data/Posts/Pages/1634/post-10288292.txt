@@ -1,0 +1,14 @@
+Merlin StWahgwaan
+Dec 21, 2023
+#32,678
+Ravenloft45 said:
+Almost all of them are hand picked in RA/DEC coordinates. But the thing is, some star names are different in catalouges, and in game some of their names are not false, but incomplete. Check https://simbad.u-strasbg.fr/simbad/ or https://www.universeguide.com/ for alternative names, maybe something is wrong, or misnamed.
+Yea, confirmed its got the same HIP name and RA/DEC in both of those catalogs as well now,
+So literally everywhere except in-game I can find, it's got the same Name, and same coordinates.
+It's just in-games that's got a different coordinate/ RA/DEC
+
+I thought the base of the game was the HIP and HID catalogs ect, using their IRL info, and then the galaxy propagated out with ProcGen based on NASA/ESA star density calculations/estimates ?
+
+
+Does anyone know of a website that can change time? LOL
+As in, enter a star coordinate now, and see where it will have moved in relation to Earth over 1300 years?

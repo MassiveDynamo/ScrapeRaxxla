@@ -1,0 +1,7 @@
+Zieman
+Jul 13, 2020
+#17,862
+If you want to attach images straight to your post, you need to reduce the filesize under 1 MB.
+1920x1080 jpegs can be of acceptable to good quality images under 500 kB easily, even 4k images stay ok when jpg -compressed to under 1 MB.
+Reactions:
+[PS4] Filthymick420, PeteACarter and alexzk

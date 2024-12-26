@@ -1,0 +1,24 @@
+alexzk
+A
+Aug 25, 2019
+#11,285
+Noobilite said:
+I did some rounding on the calculations so there is some wiggle room. There are also some interesting stars like the Wredguia PS-U E2-# sequence of stars that seem to all be blue. Several of which are actually HIP #### stars. Plus the Wredguia CV-G C10-# star cluster is also right nearby it. I was correct about the general location before. 8)
+
+Thinking about it. there are also odd places like the system with Josia Rosa. It's the 8th planet from a double black hole. And there is a weird set of planets around a sun around the 8th sun the main star there. HIP 63835, but I'm sure it's been explored to death. Also firsoff orbital that is around the technical 8th moon. But, again, explored to death.
+Did you try to find "mass center" or "equal remote from each point" ?
+1st is
+const auto summ {A+B+C};
+const Point M{summ.x / 3.f, summ.y/3.f, summ.z/3.f};
+2nd is center of outer circle or intercection of mid perpendiculars ...
+
+also there is "center of inner circle" to check which will be equal distance to each route between each star's pair (triangle sides):
+
+const float a = B.vectorTo(C).len();
+const float b = A.vectorTo(C).len();
+const float c = A.vectorTo(B).len();
+const float summ = a + b + c;
+
+const float x = (a * A.x + b * B.x + c * C.x) / summ;
+const float y = (a * A.y + b * B.y + c * C.y) / summ;
+const float z = (a * A.z + b * B.z + c * C.z) / summ;

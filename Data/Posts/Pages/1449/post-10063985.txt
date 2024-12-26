@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Jan 22, 2023
+#28,969
+Coehoorn said:
+The percentage of discovered systems in the milky way doesn't mean anything in the context of Raxxla, as they wouldn't place it around a proc generated Y dwarf named xyz sector xy-z b12-1.
+At least lore-wise pinning down how far we got has proven to be notoriously difficult to set a maximum distance. Per Sirius system, we have had Hydrogen-based fuels since very early (probably all the way back to Sol). The Old Worlds Coalition in Premonition and Elite Encounters RPG further reaffirms this as the dominant industry was Hydrogen fuel. Further, every single book has Hydrogen or scooping fuel mentioned. We also have the Early Colonies beacon in Delta Pavonis that puts rapid expansion starting approximately in 2230. That's a good 66 years of uncontrollable expansion before we know the Raxxla rumors even exist.
+
+The closest thing a a reliable idea of how far we got is how far from Sol: how far away you can find crashes and escape pods. I would estimate those disappear somewhere around 2,000 - 2,500 LY from Sol (I'm still working on getting a more precise value). That would mean the majority of the Inner Orion Spur is fair game. But, even with that, it may not be good enough at properly limiting the search. I have tried to stack the odds in our favor but FDev really doesn't seem to want this be that simple. Early Colonies beacon is a thorn that seemingly won't go quietly into the night.
+Last edited: Jan 22, 2023

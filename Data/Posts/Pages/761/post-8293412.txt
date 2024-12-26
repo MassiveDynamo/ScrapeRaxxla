@@ -1,0 +1,43 @@
+Yuki Estelle
+Feb 13, 2020
+#15,202
+Noobilite said:
+Astrophel and Stella - Wikipedia
+en.wikipedia.org
+I was going over constelation stars for the heck of it and put in the word jewel. This brings up the jewel box sector. Then I looked up the sonnets and low and behold there is a sequence of special stars with no last number named fly. In the sonnet one of the references near cupid is:
+
+
+And here is Jewel Box Sector FL-Y D20. It is part of a whole sequence of stars. Just type in the name with D0-whatever.
+
+One of the brightest/whitest most obvious star in the sector.
+
+
+
+Is anyone near it and willing to check? I'm 7k out atm.
+
+Right next to NGC 4755 also.
+
+
+
+
+
+I think you can use coordinates and figure out the line. treat it like a triangle then find an intersecting point. You can even find distance easily enough. Can you use delphi or zues as a third point? You can divide and intersect any circle with lines to make triangles.
+
+If you draw it out and keep making right angles you can eventually find the line and where it is aiming. Just use basic math like A^2+B^2=C^2.
+
+Distance is: Sqrt(|A1-A2|+|B1-B2|+|C1-C2|)
+
+And probably this:
+
+I wonder if the eagle nebula could have anything to do with it. How many other things have the name eagle in them in the game?
+
+I did a simple test by using the last star and zooming backwards to the first star in the set and then zooming back to the bubble. Went past Inra and on the other side Charick drive. So, it may be pointing towards sols direction. This is very inaccurate though obviously.
+
+Can you use the above to extract points on a line and find a system? You could probably find it at x point every x ly and then look for things. Maybe with an average of the distance of the objects and find the points per say and a direction.
+
+The more of those innacurate things I do the more it seems to point in the direction of sol. Or something nearby. if anything it makes a vertical line going straight up and down through sol from alioth/kuk down to achenar and hits a bunch of engineering planets. I wonder if the engineering planets mirror the ones in NGC 7822.
+Click to expand...
+
+Haha, I'm literally 700ly out and heading for the Jewelbox for similar reasons, just looking for anything with 'jewel' in the name as a lead. I'm interested in your idea for figuring out the arrow's "trajectory", let me run a few calculations and see what I come up with.
+Reactions:
+John Stoutbeard, Machina Ergo Sum, Rochester and 1 other person

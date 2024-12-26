@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 14, 2022
+#26,690
+Pyroboros said:
+I'm not really pursuing the comet idea anymore. Currently focusing my search more outside of the game, study The Alien World The Complete Illustrated Guide Researching the artists of the Illustrations and stuff. To your post ID 2 most likly Barycenter of ID 3 and 4 the crashes are interesting. I think the only system I had this kind of crash was Jackson's Lighthouse but not sure anymore. I'm lazy atm so unchecked google translate must suffice
+I’ll check my logs tomorrow if I get chance. No, fairly sure bodyid 2 was the comet & I did drop out where it should be, only to repeatedly see the uss drift away faster than I could travel.. Guess some of the bodyid 8 to 15 were the barycentres. Lost interest when two consecutively crashed the game, and the persistent pirate attacked... normally they lose interest if interdiction broken but not that guy. But the big bodyid gap up to the asteroid base was puzzling, and then why would 6 & 7 cause a crash-I’m sure I applied the bookmark idea.
+
+edit: @Pyroboros - nope, I was wrong. Checked back in the Journal and bodyid2= Seagull Sector DL-Y d3 BC barycentre, which explains why it kept moving away from me!!
+
+But I really must wander back that aways sometime and check out that gap in bodyids, I'm intrigued!
+Last edited: Aug 15, 2022

@@ -1,0 +1,23 @@
+CMDRCorrMorningstarFelian
+Apr 2, 2021
+#22,579
+Darth Ender said:
+Rogue planets as a unit type exist, but none have been identified in the game.
+Comets also exist as a unit type, and 1 has been found, but it has no mesh.
+
+historically, raxxla was a station of sorts and a planet in another galaxy. I think in terms of elite lore, it makes the most sense to make raxxla a mobile station (basically a mega ship). Which is why after it's initial discovery, it was lost ...because it moved. This also benefits frontier the most, because even if raxxla is eventually discovered by a player, it wouldn't be a 1 time thing, and it probably wouldn't stick around long enough to do anything interesting. Then the next step would be trying to figure out where it will appear next in order to do any kind of tests or attempt to acquire any items/etc. something that may take additional years. This also lets them hide it from the system map and BGS, and position it in places like asteroid clusters and rings and such. If it's in normal space and not supercruise, it would be effectively impossible to find unless it jumps periodically to a known place of interest ... determining the time it can be found there would be the deciding factor on it's first discovery.
+
+Or they could go with the whole magic "jump to these locations in this order and a magic jump will occur that takes you to raxxla" method they've used in the past. But i highly doubt they'll go with a means of discovery that is only effective 1 time for something like raxxla in a multiplayer shared game.
+Click to expand...
+They exist but they are either sub-stellar objects or true dwarfs .. nearly all these are in the game. There are a ton of brown dwarfs and sub-stellar objects as the primary body (meaning too big to be a standard gas giant but too small to fuse hydrogen - in game classes L,T, and Y). You can normally jump to all of them. Any discoveries prior to the game release is in the game generally. I think some have been added.
+
+List of brown dwarfs - Wikipedia
+en.m.wikipedia.org
+
+List of nearest stars - Wikipedia
+en.m.wikipedia.org
+
+The galactic map filters may be why you aren't seeing them. FDev uses the fact we don't want have to call the Fuel Rats as a game mechanic against us. If you filter by stellar class or populated systems you may be self-blinding yourself.
+Last edited: Apr 2, 2021
+Reactions:
+Rochester and clavain

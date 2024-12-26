@@ -1,0 +1,4 @@
+Han_Zen
+Feb 26, 2019
+#6,272
+Just noticed that Sedna in Sol, has an elliptic orbit. I don't think I have seen that no any planets in ED before. I didn't even know it was supported.

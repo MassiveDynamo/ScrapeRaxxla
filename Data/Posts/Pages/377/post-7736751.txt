@@ -1,0 +1,11 @@
+Edelgard von Rhein
+E
+Apr 16, 2019
+#7,522
+yoda711 said:
+This is an interesting idea. Are you simply aligning your ship with the Thargoid exit vector and then targeting various systems until you find one that's directly in front of you? How many times have you done this? We need to try this from several thargoid-inhabited systems, ideally ones that are far apart.
+This is what I did, although I have some margin of error as I need to follow in the Interceptor wake just before it jumps and their trails include a blurring effect. I did some testing yesterday to see if there was any kind of pattern. I have checked to see if anyone at Canonn has already tried but I have not yet found anything that suggests it.
+
+No two Interceptors chose the same direction but all could be broadly said to have aimed at Thargoid-related regions: other than the one mentioned in my earlier post, one other aimed for the general Barnard's Loop locale, one aimed for the Aries Dark Region and two aimed at different places in the Pleiades. The only clear target I was able to identify was one that aimed for 14 Tauri from within the Pleiades, a jump of 55.2 LY. I used a FSD boost to follow it with my Courier but there was nothing special there, only plenty more NHSS.
+
+Regarding Rocky Ice moons, they have a tendency to produce extremely jagged terrain when found in close orbit of a massive planet, such as a gas giant.

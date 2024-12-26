@@ -1,0 +1,12 @@
+Jorki Rasalas
+Mar 5, 2022
+#25,538
+I’m intrigued by these invisible comets. Can one type, for example, Halley’s comet, Pareco comet 1 or Pareco comet 2 into the galmap search bar to target select it?
+
+Or do we have to use the 64bit ID?
+
+Is that 64bit ID given in the journal file when we enter a system? Is it the “SystemAddress"? E.g. apparently Shinrarta has "SystemAddress":3932277478106 from https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-9748589
+Because the example I saw to calculate it wouldnt work for a named system since it required the XX-X designation in the system name.
+
+Edit: ah no, only works for some comets. And need to use the stellarforge generated system name, not the given name...
+Last edited: Jul 17, 2022

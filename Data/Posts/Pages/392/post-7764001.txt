@@ -1,0 +1,14 @@
+Crimson Echo
+Apr 29, 2019
+#7,831
+Matlab seems well suited to these sorts of puzzles.(many useful intrinsics, and import functionality)
+
+So far attempts to shift the cipher text into something sane have failed. (may try something like a brute force search over night)
+
+There are 32 refs to 'remember' or some variant of such in Premonition and 65 in Reclamation. The one that stands out is in chapter 31 of Premonition:
+
+"The truth must be known... and all this pain will end... they will ... remember." (similar to the text in the clue)
+
+The chapter ends with the word "Martyr!"
+
+I am going to be focusing next on trying to figure out if it is a plain text scramble of some sort, of if it is a pure cipher text.

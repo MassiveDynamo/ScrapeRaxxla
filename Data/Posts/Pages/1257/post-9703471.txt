@@ -1,0 +1,10 @@
+Adel
+A
+Jan 17, 2022
+#25,123
+yelboc said:
+I've done similar things in the past, but I have access to matlab which makes life easier for me - its an engineer's programming language (the free Octave might be a possibility or else python can probably suffice ). You shouldn't try to load the whole file - parse it byte by byte on the disk - trying to load 100GB into memory is not a good idea. Its just text with nice formatting characters - you can read byte by byte until you get a pair of '[' ,']' and then you know you got a whole system. Etc.
+
+But it seems like you haven't got the skill base for the rest of the task, in which case your only hope is to inspire someone else to do it for you. I'd offer, but I have far too many other things to do, and I'm not inspired enough to overcome my intertia activation energy. I would recommend learning to do it - that way your hunt for Raxxla is achieving something useful
+Nice idea. Is it from here that you got the .json files?
+=> Json Links

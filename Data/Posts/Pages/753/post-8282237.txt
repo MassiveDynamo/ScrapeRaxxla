@@ -1,0 +1,14 @@
+Zieman
+Feb 5, 2020
+#15,043
+Noobilite said:
+If you start at point A and jump to point B it cost X fuel.
+
+If you travel half way to B from A and jump does it cost 1/2X or X.
+If by travel you mean supercruise, then X*.
+If by hyperjump (to a hyperjumpable point in between = another system), less than ½X, because fuel usage grows exponentially with distance increase.
+
+*any perceived reduction in fuel usage is not caused by the travelled distance, but by reduction of mass (fuel used for the travel).
+Last edited: Feb 5, 2020
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

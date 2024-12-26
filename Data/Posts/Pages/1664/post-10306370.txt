@@ -1,0 +1,32 @@
+Rochester
+Jan 31, 2024
+#33,262
+Han_Zen said:
+The UA mystery was long and hard. It wasn't overly complex in the beginning, but it was hard to pick out the morse code.
+MB actually dropped the 'have you tried listening to it' hint well before we found the first UA. There was a lot of searching, due to the WIngs trailer.
+On mai 4th 3301 FD tweaked something that made the convoys spawn. At least three UA were captured that day. Due to a multiplayer bug, these actually multiplied. Quite a few commanders had one and a lot of recordings were made. Nothing came from the extensive sound analysing.
+The mores code was discovered by commanders Jmains and QorbeQ (who had a friend with practical morse experience), by listening to the recordings. The code spelled 'Sega Port'. The name of the station instance where the recording was made.
+The community was later able to extract the graphical representation of each letters dash and dot sequence, but this was done manually by listening.
+
+For each update after that, the UA evolved. They started to point to Merope (5C). They started spawning in the wild (first in the Pleiades, then in a 50 ly shell around Merope). Finally they started to morse the layout of our ships, if we were close enough.
+
+All this happened while we didn't know if it was Thargoid or something else.
+Click to expand...
+I think this is a necessary reminder about puzzles generally in game; that the ‘whole’ UA puzzle was not presented to us in its entirety on day one. It evolved overtime.
+
+Content - or ‘clues’ were fed to us. This is actually baiting, FD were pushing us towards certain areas or at minimum, leading us down a narrative path.
+
+One could not have uncovered all of it from day one. It was ultimately a live narrative story - not really a mystery, FD wanted us to explore it and ultimately uncover it’s secrets.
+
+Remember FD did go on record in an interview given by the previous CM Arthur that this is precisely what they do - they insert narrative content over time.
+
+Raxxla I suspect is now different, in respect that I believe it’s actually an archived narrative. I think FD still do drop hints, but they are now probably rather wide. I strongly suspect that the Raxxla Codex was inserted as a retro-fix, to tidy it up and put it to bed…
+
+The alternative is too unpalatable to contemplate; that like everything else it too could be locked behind a narrative.
+
+Again, I think that like the ‘Missing’ it probably ‘used’ to be the case but no more, I doubt there are any ‘new’ clues to find, I suspect everything we need is already in game, because if it’s not, then FD are in control of what, where and when we find such content, if that’s the case there really is no point in looking.
+
+However, I take amusement in the assumption that we might actually have uncovered something much bigger, maybe something FD were not aware of, and only Brookes knew of… but that could just be what Raxxla is, or only one small part of it?
+Last edited: Jan 31, 2024
+Reactions:
+Quaero, El Saico, CMDRCorrMorningstarFelian and 1 other person

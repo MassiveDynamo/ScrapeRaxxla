@@ -1,0 +1,39 @@
+Rochester
+Oct 24, 2022
+#27,509
+That text I now recall seeing previously: “Well, if you're looking for adventure, I have a pretty solid lead on the location of Raxxla” is a match to a Reddit post a few months ago about data-mining of Odyssey. I didn’t give it much credibility at the time, as it’s only 1 post and not verified.
+
+I won’t post that link here, but just search the text online and it’ll pop-up.
+
+However, note I’ve not read the data in that report so cannot verify if the text is genuine or not. If this is a genuine duplication of the data-dump via an innocent crash report then it ought to be easily replicated. I’ve not attempted to do so.
+
+Be aware there’s known to be a lot of not-yet-in game content in data dumps, in the past, if true then it could relate to future, or discarded content not yet implemented.
+
+This would fit with the running hypothesis that Raxxla although in game is not currently accessible. I’m no fan of this theory myself, although I never discount it, as it’s still as likely to be true as all other theories, as by FD own description, content can be in game, when it is not… they also utilise narrative to insert content and they certainly altered the Raxxla / DW narrative circa 2017, so literally anything is possible.
+
+One could also identify that the DW codex identifies this, as it effectively tells us the older DW missions aren’t true anymore, confirmed by FD to be archived, potentially awaiting being turned back on, maybe the Raxxla codex is another example of this?
+
+I hope not. But it’s not beyond the scope of incredulity.
+
+However if in game currently, as a passenger mission, that would make sense, as it would direct you to a specific location, a tourist beacon or POI, this seems a logical application of game mechanisms. But is it attributed to a particular faction or location? Then it could be pretty simple to find, but does it require a particular alliance?
+
+Logically speaking, the only known location identified by the Codex so far is Tau Ceti, and potentially a sphere of influence around it set by the 2296 date, do we need to become allied with every faction in Tau Ceti and just run taxi services!
+
+However, there is nothing clear about the codex which directs us to passenger missions, it doesn’t give any clues other than Tau Ceti. Might as just be in relation to running bio-fuel….
+
+My patience with this game is running especially paper thin at present; ‘advertising’ content as being in game, attributes to identifying it is currently present and accessible. Failure to adhere to this I find very counter intuitive (for a game) and smacks of blind-siding, and counter-intelligence to keep customers on a false lead.
+
+Very dubious territory.
+
+If we give FD the benefit of doubt then Raxxla not being in game ‘temporarily’ becomes highly likely, remember a logical analysis of the given facts, only attributes Raxxla being accessible towards a probability of 50%; such evidence (above) if validated, makes that assessment very shakey.
+
+If it’s a passenger mission, then so be it, very well… but if like most data-mined information this likely referrers to a future narrative/content drop. Let’s test it, does it occur in 3.8, not just 4.0, can it be replicated, what other data does it identify?
+
+Not advocating data-mining but if a bug or genuine crash it could be replicated.
+
+Lowest common denominator, is it’s not yet accessible, but I hope that’s not true.
+
+This technically could be considered by FD as data-mining so tread carefully.
+Last edited: Oct 25, 2022
+Reactions:
+Jorki Rasalas

@@ -1,0 +1,9 @@
+Ton618 666
+Mar 15, 2021
+#21,989
+Jorki Rasalas said:
+Han_Zen first reported the system map clouds a while ago, I think in Alpha Centauri and Alpha Cygnus, and I spent some time with him searching for them. They don’t appear in every system, but are much more common than we originally expected. The hypothesis was that they are a clue to Raxxla and would lead to it if the systems that demonstrate this phenomenon were followed. It was an intriguing hypothesis because they originally seemed to lie mainly along a line where RA (right ascensions = 20 hours, 0 minutes 0 seconds. However after a fair degree of searching we found the phenomenon all over the place!
+
+All you have to do is travel to a system which exhibits this behaviour, switch to system map and wait- seems to take 8 to 12 minutes sometimes before it starts to show, after once seen it often (but not always) seems to happen quicker. There can be more than two clouds, I think the most we found was four. I had a spreadsheet of the findings and plenty of videos but seems I’ve deleted them from my iPad; if you’re interested I could look on my gaming PC for them next time I log on. The conclusion I came to is that it’s a system map graphics bug- the coloured dots that seems to be associated with the clouds match the colours of the stars in the system map. The clouds grow and shrink but couldn’t match that to anything, but probably still an associated graphics bug. Don’t know if Han_Zen reported it as such. The thing that decided me was that it appeared in some systems that were nowhere near RA=20 and didn’t seem to be leading in any particular direction.
+Click to expand...
+Thanks for the awesome reply! If you can find some data on the gaming pc let me know this hunting raxxla thing does my head in lol

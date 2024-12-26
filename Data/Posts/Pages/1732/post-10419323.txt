@@ -1,0 +1,18 @@
+Ian Doncaster
+Aug 24, 2024
+#34,627
+Hmm. Slight oddity - SAO 92746 is in the real-world HD 12249, which is also in-game (as HIP 9369) and well below the bubble. In-game the SAO designation is given to HIP 56685, a star which doesn't appear to have a real-life SAO designation.
+
+The SAO/HIP/HD references match up fine for the other five.
+
+(And of course HD 12249 in-game has two further gas giants with eight moons...)
+
+
+EDIT: and another maybe-not-coincidence: from the bubble (anywhere in the bubble really, given the distances involved), the long-distance SAO 10931 is basically on the straight line to NGC 7822 with less than a degree's deviation). So the whole thing could be read as an arrow pointing to that nebula. Of course, that's one of the most explored nebulae in the game...
+
+Macros Black said:
+Exported from my carrier in Secure Trading, see my sig.
+Thanks - very helpful.
+Last edited: Aug 25, 2024
+Reactions:
+simulacrae, Han_Zen, Macros Black and 1 other person

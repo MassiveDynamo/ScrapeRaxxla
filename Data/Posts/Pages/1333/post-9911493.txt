@@ -1,0 +1,10 @@
+yelboc
+Aug 11, 2022
+#26,659
+Im afraid you have your wires crossed - that tale is attached to the Guardian Sites - first discovered by reverse engineering the trailers. In game the Halsley story that was meant to lead to them rolled as if nothing had happened. I expect FD are a bit more careful these days with trailers.
+
+It was still an impressive feat to find the site from those images..
+
+You are correct that Stellar forge generates the system on the fly as it were. There is no database of the galaxy on your or FD's harddrive - its all procgen for normal systems, though there is some server side and client cache for 'Hand Authored' systems. FD do not keep the galaxy on the server - EDDB does, in as far as commanders submit their data, and the database is already well over 100GB for something of the order of 0.01% of the galaxy...
+Reactions:
+Rochester and CMDRGURU951

@@ -1,0 +1,17 @@
+Mrrshal
+Jan 28, 2021
+#20,693
+Djidjel said:
+Ok. Distances from sun. 1st vid - aprox 1071 kLs, 2nd vid - unclear, 3rd vid - unclear, 4th vid - 1501 kLs, 5th vid - 924 kLs, 6th vid - unclear, 7th vid - unclear, 8th - unclear, 9th - unclear, 10th - unclear.
+
+Even with those numbers, on one instance the green glow appeared outside those numbers. We need to know if the glow can appear even outside belt limits, or if it's belt-only.
+yelboc said:
+With regards to the asteroid 'clusters'. I've found that the ring is in fact a very thin object and that you can stay in the ring (belt on left hologram) all the way from the inside edge to the outside edge with care. When you see the ring appear and disappear, its because you have intersected the thin ring. According to the orrery view, the plane of the belt is not quite in line with the ecliptic, i.e. it doesn't quite follow the plane of the planets themselves, so its hard to stay in the right plane. To repeat the experiment, find the ring at its outer most edge, and then head straight for Sol, you will find you're in the ring right up to the inner edge.
+
+The orrery view seems to be bugged. On PC it does not update in a live way - once opened the marker doesn't move with your ship. I'm not sure this is intentional as on other platforms, I'm told it updates in real time. More significantly, as soon as you are in the belt, you position is incorrectly reported on the map. I was in (1) and then reported in (15) or thereabouts. Likewise a similar shift in other sectors. The offset seems to be consistent, though I don't have enough evidence for that yet. Your actual position doesnt changed, as evidenced by the scanner and your relation to the other bodies.
+
+Finally, I've never gotten the green glow in the belt itself yet. I suspect I'm in the wrong sector. But having run out of fuel, and being refueled by the Search + Rescue ship (never knew that was a thing...)
+Click to expand...
+yelboc said he has seen it at Titan station and no one noticed his message
+Reactions:
+Djidjel, clixer, Leeloo Catfish and 1 other person

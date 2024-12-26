@@ -1,0 +1,4 @@
+ModishNouns
+Sep 25, 2018
+#3,621
+Another problem is that ED is instanced per solar system and you can't SC from one system to another. With that in mind it's hard to imagine how they would implement something outside that model. A rogue planet would need to be free to roam independently of any system while being able to intersect with (be visible in) them. I would be surprised (and delighted!) if that mechanism was there.

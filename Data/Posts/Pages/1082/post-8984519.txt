@@ -1,0 +1,6 @@
+Jorki Rasalas
+Mar 5, 2021
+#21,628
+Anybody else having endless scan of star? it never finishes to report star type, just continues cycling away.
+
+Doesn’t happen every system, but it happens to me quite often, thought it was a well known bug, but people are questioning this on the IRH Discord.

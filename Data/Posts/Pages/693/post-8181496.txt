@@ -1,0 +1,17 @@
+Garand1987
+G
+Dec 7, 2019
+#13,852
+Vetinari said:
+any chance you have a link to the full vid?
+
+Devs have Devi Mind Trick abilities, including the ability to basically type the system name in somehow and jump there or be 'placed' there instantly (eg its 500 LY away) without using normal physics
+
+Adam Woods used it a lot in some vids he was in as he shows off a lot of new features all over the place.
+
+Could be that, but I still like the whole 1 planet system idea as a separate idea/entity. Implies it wouldn't show on GalMap as can only filter by 'stars' (yes/no? - Real view shows 'everything' or just stars?) but may show in NavPanel as jumpable to. Jumpable is now an acceptable word here where GalMap still gets a red line under it? One to remember for Countdown. (deliberately obfuscating lmao could have said Scrabble)
+
+Not sure how it works as a system though rather than just a rogue planet drifting through space...it could have a moon or two and the DW station orbiting it just for lolz though just to have some Orrery/Orbit/system, otherwise its just a planet.
+Click to expand...
+That was my next though. The route plot system may not auto plot to it if it’s not got a star, so people jumping around the bubble using the auto plot system, even when filtered only to stars not visited, would never get there. It would require you to manually select it.
+Not sure of the name of the video and I don’t have a link but I’m pretty darned certain i made the screen grab either from Drew Wagars Raxxla video or from his twitch live stream about it which should also be on his TY channel. The video itself is a separate thing but I believe he showed it on his channel at that time as well. I’ll do some looking for a link and time stamp when I get a chance a little later.

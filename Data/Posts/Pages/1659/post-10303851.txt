@@ -1,0 +1,62 @@
+Ian Doncaster
+Jan 26, 2024
+#33,178
+Louis Calvert said:
+A lot of it is beyond me unfortunately, am I right in thinking that you're saying that the way the galaxy is constructed around Sgr A* could be seen as strange enough to obfuscate hidden systems or other oddities?
+The way systems are named in-game is arbitrary in a way that doesn't make a lot of sense for a naming scheme that (in fiction) was constructed by the in-game humans at Universal Cartographics or some predecessor organisation.
+
+I'll go into more detail below about how, but in summary: yes this could be used to hide a small amount of information; it's not obvious that it is or what the significance might be so I'm out of testable ideas on that, and it could easily be entirely irrelevant.
+
+selbie said:
+Sector Naming - DISC Wiki
+disc.thargoid.space
+
+It's probably related to their proc gen system for the Forge. Maybe the coordinates are encoded which results in a slightly different value.
+It's certainly true that the box positions are part of the procedural generation, but that doesn't really answer the question I was asking.
+
+All three of the boxes and the visible coordinate grid and the positioning of the stars themselves are aligned to the same coordinate system with three perpendicular axes (which didn't need to be the case, rotational coordinate transformations are cheap) but with odd anomalies which apparently don't serve a purpose.
+
+The zero points of the visible coordinate grid make sense - they're Sol.
+The direction of the Y-axis makes sense - it is the axis perpendicular to the plane of the galaxy.
+The positioning of the Y-axis borders between boxes makes sense - it puts the boundary between (e.g.) Wregoe and Syneufe in the galactic plane, so that (an idealised) half of the mass of the galaxy is either side of that border.
+
+The Z-axis points from Sol apparently towards the centre of the galaxy (and then the X-axis is automatic from that and the Y-axis). Again, very logical.
+
+That's all logical and not particularly arbitrary up to this point, given the human-centred selection of the Z-axis.
+
+The placement of the borders between the Z-axis and X-axis boxes is arbitrary. There are 33 filled boxes to the left of Sol (-X), but only 31 to the right (32 if you count that most of the box it's in is to the right). Similarly there are more boxes "before" Sag A* than there are after it.
+
+That's not necessarily a problem either - the galaxy isn't a perfect disk, so the distribution of mass might not be completely symmetric with respect to our human-centric Sol-SagA* line.
+
+But having established that there's no "natural" point for the X and Z borders to appear, it does leave a question of where they are precisely where they are.
+
+
+
+
+In-universe, someone designing a human-centric coordinate system that places Sol at 0,0,0 would then normally be expected to place their regional boundaries relative to that - so either the Wregoe-Wredguia border goes through Sol, or Sol would be positioned in the centre of one of these boxes. They haven't. (As an early explorer, it took me a while to notice that they didn't)
+
+Out-of-universe, there's a possible chain of events:
+- line up a picture of the galaxy approximately with the grid
+- generate the boxes on their own coordinate system
+- decide where to place Sol and set that to be the displayed zero point after the boxes are in
+- happen to position Sol at an exact integer shift from the boxes for convenience to get it into the right-looking sub-part of the Orion spur
+
+So there's no reason to expect the Stellar Forge implementation to necessarily line up the box grid with the in-game coordinate system.
+
+But ... that still leaves three possibilities:
+- it's just an out-of-universe implementation detail, there's no in-game need to study the naming system at all because the only real purpose it has is ensuring that all stars have unique names
+- it's an out-of-universe implementation detail, but that doesn't mean that it can't also be used in-game so that the (in-universe inexplicable) offset between the star-naming grid and the star-coordinate grid is actually a hint to something, so long as the puzzle it's a hint to was developed after the coordinate system was set up
+- the offset, being arbitrary and therefore entirely up to Frontier to choose, was deliberately picked by Frontier as part of a hint to something
+
+I think the first is by far the most likely but it would nevertheless be an interesting "in plain sight" way to hide some information.
+
+
+
+
+
+
+As an aside: the galaxy generation in FE2 worked differently though also somewhat arbitrarily - even leaving aside that it was largely 2-dimensional and the thickness of the disk was mostly ignored. In that, the generation boxes were Sol-centred - Sol was dead-centre in box 0,0 - but the axes were completely arbitrary with respect to the galaxy and the galactic core was just "vaguely southwest".
+
+"North" and "South" in that system are picked to roughly match the positions of Polaris and Achenar in the night sky - allowing for the massive distortions introduced by compressing a 3-D galaxy into 2-D, of course.
+Reactions:
+Han_Zen, Louis Calvert, Quaero and 1 other person

@@ -1,0 +1,27 @@
+Louis Calvert
+Dec 6, 2022
+#28,265
+John [Panzertard] Stoutbeard said:
+Yep, agree.
+
+But I would think the following could help eliminate some issues.
+See if we can deduct the places / locations / directions the jumps happened.
+Repeat, many times.
+
+Have Nvidia Shadowplay recoding or OBS running at any given time. And:
+- Avoid Open, avoid Wings; it's may introduce extra network polling, friendlist / instancing network requests, which can cause issues on its own.
+Click to expand...
+Brilliant, I like it when we have a plan.
+
+CMDR Red Borg's FC: unknown location, jumping to Delkar (Anamundi).
+Searching for Anamundi on Galmap takes you to Delkar, I assume this is a naming bug, but we should confirm that.
+I don't know anything about carriers so can't tell what type etc.
+Borg might be up for talking about it? we can at least get carrier model and maybe he remembers where he was jumping from? It was only 6 months ago, he might be active.
+
+Hollow-xiii video: Burke Horizons, Arinack, Jumping to: Tascheter Sector FM-M a7-1
+He's in a Fed corvette
+100% hull 100% shield, pips to engines.
+Crest on the front looks like he's at least Elite (can't quite tell).
+Just launched from settlement and aimed directly at the target system, presumably jumps just after the mass lock.
+Reactions:
+John Stoutbeard

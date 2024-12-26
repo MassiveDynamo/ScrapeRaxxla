@@ -1,0 +1,11 @@
+Toothsaw
+T
+Jan 13, 2019
+#5,136
+clavain said:
+It's not just you. I tried it during beta, couldn't figure it out after several attempts at setting keybinds/going through tutorial, gave up. Just upgraded, went through the tutorial again, set up keybinds again, and still can't figure it out or get it working properly with HOTAS. At least you managed to get to the point of actually exploring, I'm giving up until they retrofit the original honk. This isn't engaging gameplay even if you can get it working, it's just another grindy timesink. Sad, but not unexpected frankly. They've succeeded in killing the one thing that might have brought me back to the game. Oh well, maybe in six months the honk will be back.
+
+Aw, come on! You don’t really expect us to believe you can’t map 3 axes and a bunch of buttons to a HOTAS for using the FSS, do you??
+Those controls don’t interfere with standard flight ones. Just use the X and Y stick axes to pitch and yaw, the stick’s Z axis or the left/right paddle on the throttle to the tuner axis, two buttons for zooming in and out, two for fine zooming in/out, the honk button and the exit button. You don’t need anything else.
+
+It’s actually more complicated to set a functional control scheme to drive the SRV IMHO.

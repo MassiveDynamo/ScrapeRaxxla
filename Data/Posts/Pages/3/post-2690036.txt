@@ -1,0 +1,50 @@
+Julio Montega
+Aug 13, 2015
+#41
+MacrosTheBlack said:
+Great pictures, Julio!
+If I may come with a suggestion: Take the pictures from the Debug view, that way you'll don't see the cockpit.
+
+Open the GalMap, and simply scroll to the coordinates, sadly the ones I suggested is a grid containing no stars.
+
+SPOILER
+
+Ahoy lad!
+I'll use the external view more often from now on
+
+How did you get the coords shown?
+I'll try to add up the coordinates and see what comes out like this:
+
+RA = X
+XX= Y
+LA = Z
+
+Edit:
+OK i activated the grid,
+absolutely nothing at:
+
+X = +/- 181
+Y = +/- 2424 (too high/low)
+Z = +/- 121
+
+Edit:
+By just adding i come up with:
+X = +/- 19
+Y = +/- 48
+Z = +/- 13
+
+Too much in the area, two times a system with the "GD" designation.
+Hmm... not sure this will lead somewhere,
+funny thing is when i use my method of RA/dec i only have a target on one axis,
+the other one is not mapped yet, thus not in E: D with a clean designation.
+
+I checked the "Herculis-constellation" lead system,
+but the other one is in the constellation "Sagittarius"....
+
+Here is a fitting song:
+[video=youtube;bnTHdutYsLw]https://www.youtube.com/watch?v=bnTHdutYsLw[/video]
+
+Edit2:
+The second possible grid might be close to the "Lagoon Nebula",
+i'll have a look.
+Last edited: Aug 13, 2015

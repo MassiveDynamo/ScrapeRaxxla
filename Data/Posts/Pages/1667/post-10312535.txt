@@ -1,0 +1,16 @@
+Quaero
+Banned
+Feb 10, 2024
+#33,323
+D7 said:
+So I can think of a couple basic ways.
+1) a hyper jump that requires you to jump with low fuel to get there making the return jump a risky bet.
+2) a designation in a star system that requires so much fuel during SC that, once there, a jump out to the nearest star is a risky bet.
+
+In both cases you could die yourself back to your last dock though.
+Which could explain how cmdrs may have been there but don't know where, because their explore data went poof.
+D7 said:
+Interesting. I have never tried to set a hyperspace jump such that it my reticles are dead head straight on a black hole. I assume unless FDev made a special case exemption, that the jump would get rejected for being blocked ("destination target obscured").
+The actual black hole is, as I understand it, incredibly small and the visible stellar object is only gravitationally distorted light. So idk if that would get in the way or not.
+Reactions:
+CMDRCorrMorningstarFelian and D7

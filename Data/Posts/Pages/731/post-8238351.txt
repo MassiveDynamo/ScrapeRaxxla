@@ -1,0 +1,8 @@
+Frankymole
+Jan 12, 2020
+#14,614
+Noobilite said:
+Is RA possibly part of what Raxxla is? I assume this is part of a coordinate system. Does anyone know what it is? Maybe XXLA is part of the games designations while RA is from this system. Right Ascension?! Part of the sky from a certain point. I'll assume england or something. Now sure where that is usually referenced from.
+Right Ascension and Declination are astronomical coordinates for the night sky, used all over the world. Their reference points are above/below the ecliptic, basically an "equator" (a great circle on the celestial sphere representing the sun's apparent path during the year, so called because lunar and solar eclipses can only occur when the moon crosses it) for declination, and Right Ascension is counted in minutes and hours around the ecliptic from the First Point of Aries, the location of the vernal equinox. As it's the real-life common astronomical coordinate system used for describing positions of stars, constellation etc from Earth it's unlikely to have anything to do with Raxxla.
+Reactions:
+[PS4] Filthymick420

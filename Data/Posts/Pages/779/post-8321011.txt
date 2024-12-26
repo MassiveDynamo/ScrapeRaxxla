@@ -1,0 +1,27 @@
+Thatchinho
+Mar 5, 2020
+#15,574
+Vetinari said:
+I don't recognise any of those but havent done them all by any means. If they are codes from the Beacons then I have bad news for you, they are written down wrong, they need spaces to define letters and words or it wont work.
+
+Some have keywords hidden at the beginning or nearby that you will need.
+
+Try here first:
+
+
+Replace RAGAZZA with text in INPUT. Add keyword if known or can 'crack' to brute force. Can add or remove layers of encryption.
+
+If still totally stuck try here, find the beacon system, it will give you the answer so if you don't want to know read slowly to get the solution but not the answer. I warn you though, all the beacons in this category are here in one list so you may see something you didn't mean to.
+
+
+Ive also found one Beacon not registered on Canonn, but 100% assume that just nobody updated it rather than its not been found yet, kinda following that trail now while doing other stuff at the same time.
+Click to expand...
+It’s very possible the beacon you’ve found might not be known to Canonn. They’ve all been added at various different times, so even if a systems been checked in the past the beacon might not have been found before. (And by found, I really mean found and reported on the forums/to Canonn.)
+
+@Jorki Rasalas also maintains a list of UCBs, etc. Think the link is in his sig. Not sure if there’s anything there which isn’t on the Canonn site or not though.
+
+Out of interest, is it a UCB, LP, Transmitter, or something else? (I’m presuming it’s not a Guardian Beacon )
+
+Anyway, good luck with it! Whack the info on here or the Alien Archaeology thread if you want anyone to give a hand with it at any point. (Particularly the latter if you want assistance with the code breaking part.)
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

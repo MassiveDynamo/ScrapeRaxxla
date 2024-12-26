@@ -1,0 +1,13 @@
+Louis Calvert
+Feb 21, 2024
+#33,473
+D7 said:
+... That may in fact be the distance of the POI id have to check.
+It is.
+Galnet 1: 1 Oct 3302
+Galnet 2: 2 Dec 3302
+
+"A small group of EM-transmission technology enthusiasts in the Tionisla system claims to have partially decoded the encrypted message transmitted from the Tionisla Orbital Graveyard by an antique Cobra Mk III a few months ago."
+
+Note: the Graveyard is much more an homage to Drew Wagar than it is to TDW novella. The Graveyard is only present is the narrative, not in the physical reality of the game. Or, you might want to imagine that the Tionisla authorities don't want people messing it up, so our nav systems can't 'see it', the closest we can get is that beacon (presumably on the edge of the Graveyard proper, relaying the message from the Cobra...).
+Last edited: Feb 21, 2024

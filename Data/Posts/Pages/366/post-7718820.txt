@@ -1,0 +1,6 @@
+Noobilite
+Apr 6, 2019
+#7,304
+The coordinate sequence is the sexigesimal J2000-equinox RA and declination, hence the "J" designator.
+
+What dos that part mean? equinox and RA declination. Is the RA possibly related to the meaning of RA XXLA?

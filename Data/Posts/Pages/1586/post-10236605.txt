@@ -1,0 +1,27 @@
+Louis Calvert
+Oct 9, 2023
+#31,703
+CMDRCorrMorningstarFelian said:
+This post is for all Raxxla Hunters.
+
+The renaming of Delphi of December 11, 3304 from Pleiades Sector IR-W d1-55 was clearly important as it coincided with the introduction of the Codex Knowledge Base, Codex Map, and an archival record of each individual CMDRs actions. It was was so important the head of Omphalos Infotech Universal Cartographics saw fit to publish the announcement in GalNet. But let's take a moment to see where it is compared to Yggradasil - not anyhere remotely close. Now sure, trees have sometimes huge canopies or crowns. But, what then can explain something so centrally important as Delphi's renaming deserving such pomp and circumstance for its' auspicious renaming, that almost any descriptor but central would fit more appropriately. It quite frankly, isn't close to anything else except other settlements in the remote Pleiades Nebula region. Yet, the same system Delphi hits this idea home of a very central importance with the stations The Oracle and Donar's Oak. Despite all this, the systems Delphi and Axis Mundi are separated by 350.18 LY.
+
+Perhaps it isn't the place that is important but something about it. Nevermind that Delphi was the center of both Greek culture and geography. Delphi for centuries was destined to alter events both within the Greek civilization and beyond. All who sought The Oracle had to cross a threshold. That threshold bore the entrance maxims that altered history even when the words of the Oracle fell upon deaf ears. There were other maxims in the temple, but those three were more important than all the others combined. You had to cross the threshold to find the Otherworld...
+You're right in that the renaming of Delphi and the release of the Codex info on Raxxla seems important - but many, many, many people have tried unsuccessfully to discover anything there.
+
+As an alternative idea, consider that the correlation may have been a coincidence caused by the need to bundle together 'software updates' into a package:
+We've already discussed the fact that Aegis uses Greek-myth inspired naming conventions, and have done so for naming the Thargoids and Aegis ships, systems, and stations (and Aegis itself). It's possible that the renaming of Delphi and the stations was related to following that theming and nothing else. Delphi was the first recorded Thargoid surface site discovered IIRC, foreshadowing the future: the Oracle station is above that site. This is internally self-consistent with the theming and doesn't really need to be expanded further.
+Separately the Raxxla Codex info has an unknown source, almost none of the info is dated. We know there are plenty of examples of Greek-myth inspired naming and such in the galaxy that are unrelated to anything else. If we take the Codex at face value, the "Omphalos" reference is reported as hearsay/myth, and may in itself be nothing more than an offhand reference.
+The codex update and the renaming of Delphi only seems like a significant link because they happened concurrently for us, but what if they were, in fact, done years apart and/or by entirely unrelated people*.
+
+Now the logical argument here is that maybe someone renamed Delphi as a clue to the Raxxla Codex info, knowing that we'd get access to it - which may still be the case, but that implies that someone is leaving clues to find, which begs the question as to why no-one has ever found anything significant at Delphi (that we know of) - and so we return to the start of this post in a recursive loop.
+
+My question would be:
+If we didn't have the Raxxla Codex then would Delphi being renamed be significant at all? (recall that many other systems wee renamed at the same time).
+If Delphi hadn't been renamed then would there be any in-game connection with the word/idea of "Omphalos"?
+I suppose I'm saying that correlation isn't causation. I would be nice to have more than a singe connection.
+
+
+* i.e. what if whoever penned the Raxxla Codex at Fdev did it several years before it was made public to us - and/or what if whoever renamed Delphi at Fdev was working on a different team with entirely different goals and had no knowledge of the contents of the Codex update that was going to be bundled into the same update. To us getting the info at the same time, it seems like a massive clue, to Fdev it was two entirely separate bits of info that were coincidentally released together in one very large mass of stuff. The alteration of "Omphalos Infotech" in the UC entry makes sense to me if someone at Fdev was proof-reading the Codex update before final release and noticed that two unrelated things shared the same name, so to avoid confusion they altered one of them before release. If anything this reinforces that the "Omphalos" reference in the Raxxla Codex was more important to keep than then UC entry.
+Reactions:
+simulacrae, Rochester, Edelgard von Rhein and 2 others

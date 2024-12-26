@@ -1,0 +1,9 @@
+Ughkoff
+Apr 19, 2020
+#16,065
+No one has encountered a system in which there are absolutely all types of space bodies?
+
+The task is to calculate this system and check. We do not know how the systems were generated in the game, but we know for sure that the developers did not create each system on their own. Several key systems were selected, but the rest was generated. We know that often a lot of developers on live servers have a hub in which all the objects of the game are concentrated, in which they conduct their tests, take screenshots, etc. .. (for example, the developer’s room in fallout 76, some kind of God’s modes in many old games including the Elite, etc.). This simplifies the work of the developer, for example, you don’t need to fly somewhere to see what an object looks like, all objects are concentrated in one place. And even perhaps it is the basis for a systems generator that takes data when creating a system. Entrance to such places is usually closed to the player, but .. sometimes this is just a pleasant surprise or feature. And maybe this is connected with a concept like Raxxla is
+Last edited: Apr 19, 2020
+Reactions:
+Macros Black, Machina Ergo Sum and [PS4] Filthymick420

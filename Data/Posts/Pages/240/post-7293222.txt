@@ -1,0 +1,21 @@
+CyberTribe
+C
+Dec 26, 2018
+#4,782
+Comandante said:
+The station is rumored to be in 'silent running' mode, letting little heat escape. Therefore it will not show on any scans. You'll have to manually search for it.
+
+Yeah, i know, i know. And that's exactly what Stinja is suggesting - to compile a list of 8th moons near gas giants and look around them manually for that silent-running station.
+That could work if that moon is already in the DB, which might not be the case.
+
+Also a question is - will that station appear as a signal source on FSS? From the codex article it looks like "No".
+
+So there's basically two routes we are exploring right now:
+1. Route to Raxxla through Raxxla codex article, which has links to Astrophel (being it Astrophel and Stella, or another petry, written in memorial for the author of the 1st one) and greek mythology. And also that DW pledge.
+2. Route to Raxxla through Dark Whell (that silent running sation might have some links to where Raxxla is), in that case we have a hint that DW is rumored to find you themself after completing a special kind of "quest".
+
+Devs only said that Raxxla is indeed already ingame, but we don't know if the way to join darkwheel is already implemented, or if Raxxla is in permited system. And if not if there is a way to get that permit.
+It might be that way to Raxxla can be found with DarkWheel. But as well it could be that Raxxla opens a way to join DarkWheel, and finding Raxxla yourself is that special quest to join DW.
+Last edited: Dec 26, 2018
+Reactions:
+Rochester

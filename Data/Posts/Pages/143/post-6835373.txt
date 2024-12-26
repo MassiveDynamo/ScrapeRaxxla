@@ -1,0 +1,9 @@
+Jorki Rasalas
+Jul 3, 2018
+#2,859
+MakahiGames said:
+Has anyone ever tried ramming a SAP 8 core into a Thargoid structure? It normally gives us a nonsensical map using Thargoid tech, and blows up using Guardian tech - perhaps the crystal in a SAP 8 Core is treated as a guardian artifact and it kabooms (in which case I would try out the guardian data terminal with the SAP 8 core), or it could do nothing.... or it could give us a map to Raxxla?
+
+I would try this but am a bit busy with BGS work atm to get the time to find a core and then get out to the respective places...?
+
+I suggested a couple of pages back that we should try inserting SAP8 containers into a Guardian Data Terminal (at new Guardian sites). If SAP8 are storing data crystals then that might be the way to decode them.

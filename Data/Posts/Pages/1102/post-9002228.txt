@@ -1,0 +1,11 @@
+Thatchinho
+Mar 15, 2021
+#22,038
+Just randomly found a useful snippet of info in my logs. Hopefully it means we can actually put that 'numbered stations' stuff to bed once and for all if it comes up again.
+
+""event":"FSSSignalDiscovered", "SystemAddress":633742594786, "SignalName":"$NumberStation:#index=1;", "SignalName_Localised":"Unregistered Comms Beacon"
+
+Edit - having posted that, I'm now going to bet that it's been posted before, and still hasn't stopped the ol' numbered stations stuff.
+Last edited: Mar 15, 2021
+Reactions:
+[PS4] Filthymick420

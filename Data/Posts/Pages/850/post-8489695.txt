@@ -1,0 +1,10 @@
+Han_Zen
+Jun 2, 2020
+#16,995
+simulacrae said:
+Ya def nav beacons... I dont think ive ever seen it on stations but I could have swore someone said there was some morse coming from a station just saying its name...
+Nope. But if you put an UA (TS) in the instance of a station, that will transmit the station name in Morse code.
+
+Some stations have pictogram hidden in their sound though.
+Reactions:
+Hanerib, simulacrae, Machina Ergo Sum and 1 other person

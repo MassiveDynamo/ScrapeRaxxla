@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Jun 14, 2023
+#30,670
+Darrack said:
+Just for this system? Normally the fss does show planetary rings
+
+O7
+Discovery of rings requires DSS scanner. In addition, if you are running a ship without DSS scanner previous DSS scans of that system are invisible. In essence, the DSS stores memory for any scanned bodies. As you approach a DSS scanned body, your ship will report on any updates. If you run EDDiscovery, I strongly suggest the voicepack add-on for extra details as you explore a system as it can convert your journals to spoken updates.
+Last edited: Jun 14, 2023
+Reactions:
+Darrack

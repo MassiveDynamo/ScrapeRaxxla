@@ -1,0 +1,57 @@
+SongOfTheVoid
+Apr 16, 2022
+#26,030
+Jorki Rasalas said:
+Thank you for your kind correction of my English. However I would point out that I am English by birth and approaching 70 years of age, so have a small modicum of experience in the language.
+
+English is a contextual language. Meaning sometimes changes depending on the context, and poetical usage of English can stretch the context.
+
+In this case It depends on what definition of the word “find” you apply.
+
+If you define it as “discover”, then the implication is that you can only “find” once an object that has not moved and you would be correct.
+So, for example if there is an object in a cupboard when you open the door for the first time ever then you have found that object. If you close the door, then reopen it and the object is still there then according to that definition perhaps you do not “find” it, perhaps “rediscover” would be a more appropriate term. But what happens if the object exhibits quantum behaviour so fades in and out of existence during the time the cupboard door is closed? So it might not be there if you open the door again, in which case do you “find” that object when you reopen the cupboard door? By this definition quite possibly. Or consider it as a Christmas light bulb that switches on and off randomly, you might open the door one time and “find” it lit, but on further reopening you may “find” it unlit, and later you may “find” it lit.
+
+However there is a second definition of “find” as “identify (something) as being present.” So according to this definition every time you open the door and see that the object is within then you “find” it.
+
+Where they exist (they were not in every system map, as previously explained, & I am currently assuming they are still in-game and have not been corrected by the several game updates that have occured since we investigated them) the graphical artefacts in the system map fade in and out of visibility over several minutes, so I think either definition of “find” would legitimately apply.
+
+In this case we also need to consider the meaning of the word “place”. One definition is “a particular position, point, or area in space; a location”. This would commonly mean in-game a position within a star system, one of approximately 400 billion in the game. However a synonym search for “place” brings up “location, site, spot, scene, setting, position, point, situation, area, region, whereabouts, locale. venue. technical locus”. So does an in-game system map fall under any of these meanings for “place”. I would say yes, since a system map is a setting, it depicts a situation or region. The astronomical objects depicted within that system map each have a position, though the relationships between them in this depiction are representational rather than actual.
+
+You may argue that Raxxla is not in a single location; that is a valid hypothesis which has often been expounded in this thread. However as far as I can see there is no evidence to support it hence it is merely a belief and I have no desire to question anybody’s belief system.
+
+I hope this explanation of how the English language works has been helpful to you. And I wish you luck in your attempt to get anyone in FD to say anything about Raxxla!
+Click to expand...
+Disclaimer Preface; criticizing someone's premise or theories is the basis of scientific debate and is not personal attacks nor are any intended, on the contrary Ive a healthy respect and appreciation for those who can intelligently debate or argue their opinions regardless if I agree with them or not.
+
+Lets break this down again;
+Statement 1;
+"English is a contextual language. Meaning sometimes changes depending on the context, and poetical usage of English can stretch the context."
+Response 1;
+Correct to some degree, it is indeed contextual and meanings do change on context, what you fail to grasp is who and what defines context, which I expand in 'Response 2' to explain why this is the case.
+
+Statement 2;
+From: "In this case It depends on what definition of the word “find” you apply."
+To: "However there is a second definition of “find” as “identify (something) as being present.” So according to this definition every time you open the door and see that the object is within then you “find” it."
+Response 2;
+In my opinion this entirely incorrect the words 'Find' and 'Discover' quite literally have different meanings and are NOT interchangeable unless you are referring to SINGULAR event. This premise is based upon and built upon my above listed criticism in 'Response 1' in which you assume the reader defines context and not the sentence itself. In fact every variation of the meaning 'Context' of a written sentence or statement in English language is framed around the authoring or entirety of the sentence itself and has nothing to do with the Cognitive Biases, whims or beliefs of the reader.
+
+Statement 3;
+"However there is a second definition of “find” as “identify (something) as being present.” So according to this definition every time you open the door and see that the object is within then you “find” it."
+Response 3;
+The framing of this scenerio is shaky at best and calls into question whether or not your trolling but ill assume your statements in good faith and rebuff it with the correction that "Until the situation or parameters have changed since something was first found or identified it cannot be found a second time until it has been 'Found' to no longer have the same parameters/location", It is the primary difference between to 'Find' something and to 'Discover' something though both words have multiple possible meanings the meanings are defined by the SENTENCE the statement is made in and has nothing to do with the readers desires to attempt to play wordswap. By the premise of your statement you 'Find' the Sun each and every morning...
+
+Statement 4;
+"Where they exist (they were not in every system map, as previously explained, & I am currently assuming they are still in-game and have not been corrected by the several game updates that have occurred since we investigated them) the graphical artefacts in the system map fade in and out of visibility over several minutes, so I think either definition of “find” would legitimately apply."
+Response 4;
+You found them the first time then as you KNOW that they will disappear and reappear in a set cycle you have been able to predict and then confirm that prediction, you are not freshly discovering it on each pulse cycle in exactly the same way we do not freshly discover the Sun each and every morning... Even after Patch updates until you "Find" that they are not there you are not finding anything new as your already able to predict and thus KNOW in advance.
+
+Statement 5;
+"You may argue that Raxxla is not in a single location; that is a valid hypothesis which has often been expounded in this thread. However as far as I can see there is no evidence to support it hence it is merely a belief and I have no desire to question anybody’s belief system."
+Response 5;
+We a firmly told it can be found by a person more than once thus we already know it must be able to be in multiple locations... As for the Science, Considering the Logo itself is comprised of Encoded Scientific information ranging from the colour of the logo, the shape it uses and the patterning's within it we can deduce quite alot if we know Science.
+
+Statement 6;
+"I hope this explanation of how the English language works has been helpful to you. And I wish you luck in your attempt to get anyone in FD to say anything about Raxxla!"
+Response 6;
+Again you are misreading what is front of you I quite famously have no intention of asking Fdev to say anything about Raxxla I am very well known for stating THEY DO NOT KNOW anything themselves and the ones who do are under a NDA, as for what is known by rumoured players who may be hording information the only one who could verify that with said players is Mr Braben. If lower ranking Fdev employees are trying to imply they know or are teasing something I can guarantee you it comes from a small list of Pre-Approved tongue-in-cheek responses regarding the matter in which most people assume they are being fobbed of but the truth is theirs a grain or nugget in truth in almost all of those joke responses which only a person who KNOWS what it is would even recognise.
+Last edited: Apr 16, 2022

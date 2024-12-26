@@ -1,0 +1,8 @@
+yelboc
+Apr 4, 2019
+#7,247
+agree with much of this - stellarium is earth bound, but those stars are mostly distant so, although some variance to be expected, you would still expect to see those two stars in view if you're in the bubble. I keep meaning to do some stargazing in a few places and check this sort of thing. But in addition, the deep sky objects are also in the wrong places.
+
+Star class in the menu would be A/B/O -i.e. a white star. and yes this is in contradiction to the Codex - except - if the codex shows a T proto star, then some of these are classed as gas-giants and so could be a satellite of the white star, but even so you expect to see the red glow, which you don't.
+
+The image might be possible, if its highly zoomed in compressing the perspective - this means the shot has a narrow field of view, and spotting stars then very hard indeed.. The default zoom is 1x on which you base your feel.4x is max in gu, but who knows if they cant zoom in further in the graphics dept.

@@ -1,0 +1,12 @@
+yelboc
+Aug 28, 2022
+#26,914
+As far as I can tell the number is a hash of the system ID, then 256 is added for each station out from the star. Reverse engineering the hash might not be very easy, but then given there is no secret in the numbers, why bother ? (Do please yourself though )
+
+I have a small sheet with some analysis:
+
+FSP numbers
+docs.google.com
+
+feel free to copy or even contribute to if you want to.
+Last edited: Aug 28, 2022

@@ -1,0 +1,29 @@
+Louis Calvert
+Dec 28, 2023
+#32,775
+CMDRCorrMorningstarFelian said:
+You act like we don't know who has the keys . Look no further than Sirius Corporation (reverse engineered drives in Sol), Saud Kruger (developed shipboard interface via subsidiary Astrogator - all ship manufacturers use this interface), and Achilles Corporation (developed station interface and CMDR interfaces in concourses and settlements). Sirius Corporation and Achilles Corporation jointly developed navigation lock software.
+Consider why The Club via Sirius wanted the widespread and unilateral dissemination of FSD technology. It seems altruistic, bizarrely so - until you take into account that FSD in the format we have is intrinsically linked to UC's galactic maps, and therefore actually gives total power to a single megacorporation. Not Sirius at all, but Universal Cartographics.
+
+If anyone was in a position to make sure that a certain system can't be reached, it happens via UC.
+Adel said:
+But guardian's code wasn't present before Horizons. And we know that Raxxla was already present.
+I don't trust Raxxla has been modified as only 2 persons ever known where it is (MB and DB).
+I agree. I think the Guardian civilisation was planned from very early on though, so I'm unsure whether Brookes miht have included conditions for the Guardian objects he knew were coming.
+
+(This also answers @Merlin StWahgwaan question too ) However... Thargoid Sensors were in-game extremely early, so I personally consider that possibly Thargoid Sensors might have something to do with a part of the Raxxla quest. Mostly because of this:
+
+
+
+And this:
+
+
+I always assumed that Jaques meant that the Thargoids 'find you'... but now I'm wondering if Halsey's post-Guardian "caretakers of the galaxy", which are the things in Hyperspace that are described as calling to people with "a siren song" (which happened to Gan Romero and Halsey too, and matches the Codex 'Fernweh'), might actually be what Jaques meant. Which makes sense really; if the Caretakers are post-Guardian/Construct higher-life forms, then they might still be highly sensitive to Thargoid signals.
+
+Jaques was specifically attempting to jump from the Bubble to Beagle Point, a route which takes him through the Galactic Centre - while carrying Thargoid Sensors (due to the UA bombing attempt by certain folks).
+
+So my current thinking is that maybe jumping around the Landscape Signal with a Thargoid Sensor (the same objects Jaques had with him, and the object that some suggest might (for some reason) be hidden in the Exodus Beacons in the Rift mission) might attract the Caretakers!
+
+I also need to acquire some more tinfoil. Supplies are running low.
+Reactions:
+CMDRCorrMorningstarFelian, Adel, Rochester and 1 other person

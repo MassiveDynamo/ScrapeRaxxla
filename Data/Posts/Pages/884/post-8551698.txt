@@ -1,0 +1,18 @@
+Erlaed
+Jun 23, 2020
+#17,664
+Hi Folks.
+
+Back on April 18, I posted on this thread that I was thinking about attacking Club-related minor factions as a way to knock something loose with respect to The Dark Wheel/Raxxla.
+
+I've been tugging on that thread ever since, trying to make it easier for commanders & squadrons to find ways to damage the Club in the course of their normal gameplay. What started as a text list became a spreadsheet and is now a fully functional web app with a lot of bells and whistles.
+
+If that sounds interesting to you, please do check it out. I'll keep this post brief, but here are the relevant links:
+
+Club Raiders Web App - https://club-raiders.herokuapp.com/
+Discord Home - https://discord.gg/6TWATZF (thanks to Independent Raxxla Hunters for providing the channel)
+Forum Thread - https://forums.frontier.co.uk/threads/club-raiders-fighting-the-club-in-the-bgs.548972/
+
+Cheers!
+Reactions:
+Exekrator, Lest, [PS4] Filthymick420 and 7 others

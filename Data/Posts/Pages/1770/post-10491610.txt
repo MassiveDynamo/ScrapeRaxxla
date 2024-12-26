@@ -1,0 +1,11 @@
+Louis Calvert
+Nov 24, 2024
+#35,392
+Louis Calvert said:
+The proposed Hidden System might contain a very dim star type - do we know if all known stars would be visible at that distance? What about a black hole?
+I have recently been able to find a system nearby that's got a T Brown Dwarf .8ly away from a nearby star - it is invisible in the skybox. An L class is visible 1.5ly away though.
+
+So if there is any hidden system anywhere we can't even guarantee they'd show in the skybox
+Last edited: Nov 24, 2024
+Reactions:
+Ian Doncaster and Rochester

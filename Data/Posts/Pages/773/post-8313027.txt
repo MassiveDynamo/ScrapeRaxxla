@@ -1,0 +1,23 @@
+Thatchinho
+Feb 27, 2020
+#15,444
+alexzk said:
+I missed a bit ... you need coordinate start. In real astronomy it is Earth and horizon of it (to count angle). However you cannot land on Earth >:
+Also we move faster then light. So we cannot relay on current astro data. As they show many years ago values. And now we see different stories moving immediate there.
+In 3D, any point in space needs 3 values and a reference point (or origin) from which to measure them from.
+
+I believe the point @Jorki Rasalas is making is that with the Earth as the origin, Right Ascension and Declination only provide 2 of the necessary 3 values. Specifically they define a line which extends from the origin to infinity. To specify a specific point in space, a 3rd value, the distance along the line, is needed.
+
+There’s a semi-workaround though, which is to treat everything as a projection onto the surface of a sphere, and use the Ra and D to locate a point on that sphere. In other words it’s just the first thing that can be seen along the defined line. In general that’ll be the first star which fits on the defined line.
+
+Alternatively the Ra and D can just define a direction which needs to be travelled along.
+
+Also, it could just define a rough direction in which to look in from the origin, and what’s being referenced could be anything/everything in that direction.
+
+If I’m understanding correctly, you’re suggesting using one of those workarounds rather than the full 3D co-ordinates.
+
+I think what @Ravenl0ft is talking about though is essentially treating everything as a projection on the inside of a sphere centred on Earth and then effectively ‘drawing’ lines on the inside of that sphere.
+
+I might be wrong though.
+Reactions:
+[PS4 Pro - PC] earthtone99, Machina Ergo Sum, John Stoutbeard and 3 others

@@ -1,0 +1,12 @@
+Jorki Rasalas
+Apr 24, 2023
+#30,105
+simulacrae said:
+Ya i dont think there is a good db of system descriptions it doesnt look like ed discovery collects it- and with the proliferation of “player factions” and letting them change the descriptions i think many of the few system descriptions that were actually put in the game originally have been altered or destroyed.
+Mmm, that’s what I suspected...though hadnt realised player factions were allowed to change the system description. Bad move!
+
+Next question- is there an easy way of checking for anagrams against known system names? Unfortunately I’m no programmer.
+And doing it manually is very tedious!
+Last edited: Apr 24, 2023
+Reactions:
+CMDRCorrMorningstarFelian

@@ -1,0 +1,15 @@
+Crimson Echo
+Feb 13, 2021
+#21,105
+Machina Ergo Sum said:
+Because the Great Raxxla Potato Hunt is by definition madness.
+
+The entire ED universe is a one time pad. Even though it is procedurally generated but to us humans, it might as well be random.
+
+Brute forcing it would be an exercise in futility.
+
+TGRPH seems less about reverse engineering the galaxy (or exploring all 400 billion systems) but rather constraining the 'gaps' the problem can live in. Having complete, clean data to interrogate from a large region of systems is rather nice to have when solving a problem with a rather large solution space. At a min it establishes a baseline or point of reference. This could be used to study the distribution of crashed ships, and predict where new sites beyond the searched area might be found. Another application would be to more easily/quickly identify seemingly random 'hand crafted systems' by applying statistic to system composition, orbit stability, and orbital parameters. Humans may be bad a pseudo-random or highly non-linear problems, but computers have gotten quite good at such tasks, and computers tend to thrive on large-ish data sets. Much of the galaxy is pseudo-random, but the most interesting/relevant parts (with respect to the raxxla problem) are likely to be handcrafted/modified in some fashion.
+
+Computerized optical triangulation from screenshots is practical so long as sufficient data is available from all over the galaxy, and the field of view (and number of stars in view) is large enough to be unique.
+Reactions:
+Dr. Lexus, [PS4] Filthymick420, TrillClinton and 2 others

@@ -1,0 +1,9 @@
+Han_Zen
+Mar 9, 2023
+#29,383
+CMDRCorrMorningstarFelian said:
+Interesting that those were not in at the beginning. Though, I'll be honest I have my suspicions that stuff like Voyager 1, Voyager 2, Horizons probes and possibly other stuff was there but FDev gave us ways to find them when we took too long. Like I said, from a pure lore perspective the asteroid bases are centuries old (from at least 2800s for the oldest of them). The first game, I believe did not happen until sometime following August 3174 but before December 31st, 3199.
+The probes weren't in at all, at launch. Not a lot was.
+Back then the game had open object lists and when something was added it was listed in the update.log file.
+Reactions:
+CMDRCorrMorningstarFelian, simulacrae and Rochester

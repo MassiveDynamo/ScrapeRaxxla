@@ -1,0 +1,33 @@
+Ian Doncaster
+Sep 7, 2024
+#34,740
+Louis Calvert said:
+Doesn't need to be complete sets though does it. It seems incredibly likely to me that they reserved some names for future use. They could have even done that by just picking "cool" sounding names from a master list of all names they'd collected as possible uses across the entire game, what was left was used to rename the systems (or any other criteria).
+
+I believe something as simple as that would result in basically what you're suggesting there in terms of the 'incomplete' sets.
+
+Simple answer really. Most likely to be the case.
+"Randomise the list order" is such an obvious thing to do (given that they're building a random system name generator in the first place) and there's at least three different plausible ways to do it with essentially identical effects.
+- concatenate all the lists, shuffle them, draw from the top
+- concatenate all the lists, don't shuffle them, draw from a random index
+- don't concatenate the lists, pick a random list each time and draw from the top
+All of these would give partial usage of each list - automatically reserving names for later. All of these are simpler than dividing each list into a "now" and "later" set by hand first, ensuring that just enough are in the "now" set to cover whatever the system use turns out to be (bearing in mind that "name after famous thing" is the rarer form - various syllable concatentations are far more common for the randomly-named systems)
+
+
+Also: most of the named-by-theme systems aren't particularly clustered. Looking at the Greek Pantheon set as used:
+System Star class (approximating masscode) Distance to Sol (LY) XYZ octant relative to Sol Internal ID
+Zeus K 62.53 +,-,- 83919606474
+Hera G 69.06 -,+,- 285355297131
+Poseidon G 81.86 -,-,+ 4207021069010
+Demeter K 69.18 -,+,+ 4756709872338
+Athena A 79.72 +,-,+ 155929543860
+Apollo M 54.38 -,-,- 9466778953105
+Artemis K 69.39 +,-,- 3107509474002
+Ares used for planet in CQC system
+Hephaestus added much later in Colonia region
+
+We don't need a particular theory to explain why these systems were allocated names in consecutive order ... because there's no evidence of that happening to start with: they're scattered in lots of different directions, there are other systems from other lists "between" them on pretty much any criteria whether spatial or masscode or internal ID or distance from Sol or anything else you might use to suggest the "order" in which they were allocated.
+
+(Their distances to Sol are all within a fairly narrow shell, true - but they still span a wide enough range for many other lists to overlap it)
+Reactions:
+Han_Zen, simulacrae and Macros Black

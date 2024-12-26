@@ -1,0 +1,15 @@
+El Saico
+Jan 27, 2024
+#33,198
+selbie said:
+Sector Naming - DISC Wiki
+disc.thargoid.space
+
+It's probably related to their proc gen system for the Forge. Maybe the coordinates are encoded which results in a slightly different value.
+Returning a little on the procgen naming, this link also reminds about the numerous, spherical handcrafted sectors that override chunks of the original ones. They're listed on the source code of the EDTS toolkit: https://bitbucket.org/Esvandiary/edts/src/develop/edtslib/pgdata.py#lines-188
+
+They're mostly named after either nebulae, star clusters, constellations or particular stars. The former two are self-explanatory, and the latter seem to be for helping with flavour on the bubble's system names... but what about the exceptions (like the Regor sector, from which the Guardian cone of influence extends)?
+
+Then you have oddities like the faraway permit sectors with procedural-esque names (Bovomit, Dryman, Froadik, Hyponia, Sidgoir, Praei[1-4], Bleia[1-5]) and the ICZ sector being composed of multiple overlapping spheres; also, does anyone knows what ICZ even means?
+Reactions:
+Louis Calvert

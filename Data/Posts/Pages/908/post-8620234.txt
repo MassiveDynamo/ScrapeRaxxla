@@ -1,0 +1,9 @@
+John Stoutbeard
+Jul 29, 2020
+#18,149
+Spike78 said:
+Real rogue planets are not implemented in the game.
+Do we know? Do we have someone from FDev stating that we can ignore this category, it was in error introducing the category via the API?
+Perhaps you mean "we have not seen it yet"
+Reactions:
+[PS4] Filthymick420 and PeteACarter

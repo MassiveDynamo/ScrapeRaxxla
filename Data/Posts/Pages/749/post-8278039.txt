@@ -1,0 +1,7 @@
+Jorki Rasalas
+Feb 3, 2020
+#14,963
+Still out in the black trying to match star patterns to Horizons start screen with the Orbis.
+I have fss scanned Sifi KX-S d4-10. There is a gas giant showing in the spectrum response and 9 bodies reported but only 8 are detectable. There is a distant orbit line, but no gas giant appearing on it. I have logged to desktop and back but the planet has not appeared . Bug reported!
+Reactions:
+John Stoutbeard, Machina Ergo Sum, [PS4] Filthymick420 and 2 others

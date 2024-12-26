@@ -1,0 +1,13 @@
+RemusLt
+R
+Jun 29, 2024
+#34,371
+Ian Doncaster said:
+I haven't been to that specific installation, but a lot of installation layouts have Data Links that (unlike megaships) don't have any default content, so do nothing if you try to download them. There's at least one megaship class that has two Data Links and in general only the first does something (the usual itinerary)
+
+It certainly sounds like a generic procedurally-added installation from the name, though that of course could be deliberate.
+
+I think it's there for a reason. And the fact that it is hard to scan makes it more interesting...
+The landscape signal also contains mountains BTW.....
+Reactions:
+Louis Calvert

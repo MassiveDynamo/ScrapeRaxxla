@@ -1,0 +1,130 @@
+Noobilite
+Mar 17, 2019
+#6,782
+MrMarkusCZ said:
+Well I wanted be quiet but ... yes there are many possibilities when we know code but no idea about meaning. Some sectors have "RA-X" in system name - for example Praea Euq RA-X b15-0. I'm using check AA-A hx (where x is number) systems for wolf rayet and other rare stars. There is logic behind naming systems (https://forums.frontier.co.uk/showt...-the-system-name-reveals-the-main-star-mostly). Is something uncommon for systems named RA-X? Is it worth of effort to try find some RA-X hx because hx contains special stars often and we all know Raxxla is very special ( haha maybe really rogue planet or rogue (intergalactic) star ) ?
+
+I was trying to find a raxxla that way but couldn't. I was hoping by following the other idea on names that you could get a system wide version with actual RA-X XL-A as a guide based on:
+
+https://www.reddit.com/r/eliteexplorers/comments/3rekys/star_system_name_meanings_sector_subsector/
+
+I was hoping there was a way to find a single generic location based centered on sol or sag A.
+
+It makes a really big grid with an interesting correlation potentially to your screen resolution: 1280x1024 for, "R." 1,310,720. (1280x1024 is used in later screen resolutions for probably the FE/FE2 games. Coincidence?! ) Although I think my understanding of this is completely flawed.
+
+But there is another oddity that could fit with the spiraling star code thing. There were only like two letters that were ever numbers. You could combine things to get a galaxy wide, or larger, coordinate. This is a much larger grid than the galaxymap. But would it be within the galaxy map or confirm it's one of the other galaxies like andromida somehow potentially. If you look at real coordinates only 2 letters are ever numbers. So, you could interchnage the letters and one of them might be usable with the spiraling star thing if needed.
+
+http://bestcodes.weebly.com/spiral-cipher.html
+
+Although use of such a cipher is highly questionable unless there is some in game connection. Although if there is an in game connection I would likely have missed it or have forgotten about it and usually do.
+
+You would be looking at it from a standpoint of RA-X XL-A I think. The last two chunks of letters/numbers only potentially also. I might be mixxing up methods though. This greatly simplifies where it might be from a coordinate standpoint, but I'm really bad at this. Where would this be if centered at Sol or SagA?! I think remembering that the two numbers can be single or multi digit numbers.
+
+RA-X X#-#
+
+RA-X XL-A
+RA-X XL-1
+RA-X XL-30
+RA-X X12-A
+RA-X X12-1
+RA-X X12-30
+
+Is there any actual location capable of making this location, or is there a hypothetical location on or outside the map that could be pointed to and identified. It might be interesting where it leads. Either centered on sol or sagA. I couldn't figure out where the generic spot would be if you imagined a grid that was the size of R=1,310,720.
+
+Although I have found a single large plane in the middle of the map that is thin and spans the entire galaxy as far as I can tell. I wonder if it is the correct size for such an odd sector. It is just above the Barnard loop and is partially made up of col 70 at the top I think.
+
+https://imgur.com/a/uZSofC9 <This spans potentially the entire galaxy or bigger. It is not just located at those locations.
+
+What size would an R based sector be? I hadn't quite figured that out yet.
+
+And where would RA-X be located if you imagined a grid potentially larger than the gal map?!
+
+Obviously those pics I showed show things bigger than R based.... So, it must not be impossible within the gal map. If not P is close to start with.
+
+Edit:
+
+There are indeed RA- systems
+
+https://imgur.com/3HX9Pd3
+
+If you went through every sector you could try to find RA-X X
+
+Best find so far: https://imgur.com/wzqwHe0
+
+Haven't found RA-X X yet though. But this is a little promising. Is there a complete list of sector names?
+
+There are tons of RA-X ones though. It would use up lots of someones time if that is what they wanted. 8)
+
+Each sector may have 1 or more RA-X systems
+RA-X ##-#List: (growing)
+Col 70 Sector
+FLYOOE EOHN
+PYULT
+FLYAE DRYE
+PRAE DRYE
+PROOE DRYE
+SWOIWNS
+SYNUEFAI
+OOCHOST
+SLEGAO
+PLOI THUA
+QIEDEA
+HYPOAE AIN
+HYPOAE AIM
+EAFOTS
+AUCOFS
+AUCOPP
+BLEIA EOHN
+BLEAE THUA
+STUEMAEA
+PHAA AUG
+PHRIO PRAO
+WREDGUIA
+WREGOE
+SYNUEFE
+EOS CHREA
+EOS BRIAE
+PlOI FREE
+SKAUDE
+UMBAIRRS
+SCAULAO
+etc
+....
+
+RA-X X#-##=number or letter)
+....
+
+That or an HD or HIP with 6 numbers:
+
+916631(numbers combined)
+916833(numbers combinedSpiraling cipher)
+
+or something with full numbers: (maybe 2mass or similar)
+
+1812424121
+18124531230
+
+BTW, if, "CORE SYS SECTOR," were to have a RA-X X#-# system which one would it be. Most of them are named so it would be really hard to figure out. That could be where Raxxla is. It would be a very simple logical way to say what raxxla originally was. The pre named system label for a currently named system. That might be the trick to finding raxxla. It might just be that straightforward. In fact that would make the most sense if early travel was limited. That means it would have to be:
+
+CORE SYS Sector RA-X X#-#:
+
+RA-X XL-A
+RA-X XL-1
+RA-X XL-30
+RA-X X12-A
+RA-X X12-1
+RA-X X12-30
+
+Particularly with how old the Raxxla myth is. And the entire ordeal makes you learn the system naming convention to figure out exploration properly. Makes sense if it's related to the dark wheel somehow or is a joke/lesson for explorers.
+
+I still haven't figured out how to figure out a hypothetical point in a sector based on those letters/numbers though.
+
+Edit: Alternatively could that mean it could be any system that has a non normal name like an HIP, HD, NGC, 2mass, SSTGBS, or anything else commonly in certain structures if it's not in core sys or the surrounding name filled sectors? It would be a reason to whittle the search field down and it's all stuff you could never find from a gal map search without other knowledge to guide as it has a non standard name. But which entails a massive drop in the number of stars to search to figure it out.
+
+If core sys sector is too small and so are the surrounding sectors. Maybe if you stick them together to make a bigger sector. Or potentially look to see if there were older maps to go buy. Isn't the gal map new. Or was there an older version with different sector / naming conventions. If raxxla is known to be that old we may need to look at how things were then or in the original game even. How has it changed from game to game. And do we know anything about the way stars were labeled in the period we know as the oldest mention of raxxla or similar. Is it also possibly they had an older bigger sector over the bubble that could hide a raxxla system or did the sectors change over time or at any other periods?
+
+http://wiki.alioth.net/index.php/Raxxla
+http://wiki.alioth.net/index.php/INRA
+
+Are we sure this is not cannon?
+Last edited: Mar 17, 2019

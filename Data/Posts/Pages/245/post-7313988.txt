@@ -1,0 +1,14 @@
+Jorki Rasalas
+Jan 4, 2019
+#4,900
+{SAS}Stalker said:
+As in if you know what a pattern of stars looks like and you know the name of them but are trying to work out from which system they are being viewed from.
+
+Its probably a long shot to think such a thing is even possible.
+
+If you know the RL/in-game (not always identical) name then you can select a star in the galmap and it will be highlighted when you look out the cockpit canopy; repeat until you know every star in your group. Then you can check kts distance from you- nearer objects will move relatively fast against the skybox. If you move left they’ll move right, & up/down with respect to distant objects/skybox.
+
+If you know the star names then you can bookmark those systems in galmap & move your point of view around to get a rough check of how the pattern will appear from various positions. In my experience of questing this is not exact- I recently hopped 8ly to a neighbouring system & the pattern I was trying to track down seemed to break up entirely althoughthey were 40+ly away, so I suspect there is a problem with the accuracy of some skybox calculations; either that or I found a hidden gravitational anomaly!
+
+But good luck in trying to find a star name from a pattern-this aspect has been driving me nuts for the last two months in my quest. We really need an ability to display an angular graticule in the cockpit so we can get visual angles to an object from our current position, then project a straight line in galmap to see what stars line up with it; bright star types with no intervening dust can be visible over a hundred ly away. And we need a galmap that doesn’t suddenly decide to zoom off into the distance just because there was a distant star at the point where your mouse pointer grabbed the map to change the point of view, it’s VERY frustrating! I think I was making progress in my quest, but I’ll be glad to call a halt on Sunday in order to make my preparations for DW2.
+Last edited: Jan 4, 2019

@@ -1,0 +1,8 @@
+Ian Doncaster
+May 8, 2019
+#7,963
+RaNaketh said:
+(Note: This is on the assumption I have understood the meaning of 'Target Faction' = non-beneficial for a planetary scan job, otherwise they're both beneficial and you can ignore this post.)
+In strict BGS effects, planetary scan - assuming it's the "random spot on a planet" sort, rather than a named installation - are neutral to the target. This may be a bug, or it may be a reflection of the mission not involving anything actually marked as that faction's assets.
+Reactions:
+RaNaketh

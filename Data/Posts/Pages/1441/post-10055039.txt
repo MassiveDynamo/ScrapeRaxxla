@@ -1,0 +1,66 @@
+Louis Calvert
+Jan 8, 2023
+#28,817
+John [Panzertard] Stoutbeard said:
+@Louis Calvert - care for a sip of Lavian? I got some stash out in T Tauri, meet me at Hind Mine.
+SPOILER
+HA! Small Galaxy Sorry I missed you there, next time! Were you looking for Seo Jin-ae too?
+
+Possible Leads to Raxxla?
+Sorry this is more of a ramble than usual, just wanted to sort of put all this down and see what you all make of it.
+
+I wasn't here for most of it so I missed all the stuff with the Scriveners Dredger Clan, I was mighty surprised when researching megaships generally to find this:
+
+
+The Cannon page mentions it resembles the metatron cube, and yes it sort of does (but I'd argue that it differs in more ways than it matches), I do think the similarity is deliberate, but I don't think that's necessarily "the answer" entirely.
+SPOILER: METATRON CUBE COMPARISON
+But the point is that both the Scriveners logo and the Metatron cube are hexagrams. The Scriveners logo is the only example of such a symbol in-game other than the Raxxla logo that I've ever encountered.
+
+
+To my eyes it bears a strong similarity to the Raxxla logo:
+Both are hexagrams (based around equal 6 sided geometry)
+Both feature a prominent hexagon surrounded by an element on each of the sides (Scrivener's has circles where the Raxxla logo has gaps)
+Both have an 'inner core' with more geometry.
+The Raxxla logo is cleaner and doesn't feature circles, so it's definitely not a close match, but I've never come across anything else in-game that shares this hexagramic structure.
+
+I checked the only other known Dredger we have images of (Blue Viper) and the logo on that is of a graphic illustration of a blue viper snake, looks like an American Football logo to me so the Scrivener's logo probably isn't the general logo of the clans. The only other two Dregers we know of haven't been seen (only referenced) so there's no way to compare the logos.
+
+This could simply be a coincidence, but Fdev have always extremely careful with their shape language.
+
+I don't think this means the Scrivener's are Raxxla, but I do wonder if it means they found something in their travels that filled them with awe and wonder:
+
+Galnet: “Many in the scientific community have pointed out that the contents of the Knowledge Core, around which the Scriveners’ entire culture is based, will now remain a mystery. There are rumours that this tribe of academic researchers have acquired data about the Guardians during their decades of wandering, which was perhaps the real prize sought by Orion University.”
+Galnet: “When the Scriveners laid claim to the Hesperus, I expected only a cloud of fragments would remain. But their salvage operation has been prematurely abandoned, after stripping the megaship’s innards and leaving behind a mostly intact hull.”
+
+“Why have they done this? Perhaps because this particular dredger clan avoids outsiders. Public interest in the Hesperus inspired thousands of curious travellers to see it for themselves, potentially drawing more scrutiny than the secretive tribe could bear.”
+
+“Alternatively, the Scriveners detected richer pickings elsewhere – either fresh resources for the dredger to consume or new information for their ‘Knowledge Core’. In theory they could still be tracked down as their vessel’s hyperdrive has a similar range to modern-day fleet carriers.”
+Click to expand...
+From another Galnet article that I forgot to keep the link to:
+"The Scriveners Clan was originally a fleet of research vessels for a long-forgotten academic consortium. Over centuries they became a self-sufficient society, constantly acquiring materials and information. They’re not aggressive, but shun outsiders and jealously guard their ‘Knowledge Core’. I’m fascinated by mentions of research-sergeants and lector-generals, suggesting their culture is a merger of scholastic and military.”
+
+The Scriveners are also on a quest:
+The Scriveners Dredger was last seen in Oochost PC-C c29-0 (where it was the subject of the 'ownership debate').
+
+If you put Oochost PC-C c29-0 and Perseus Dark Region KC-V c2-2 (where the Scriveners Dredger was first spotted) into Galmap, you can see a potential 'direction of travel' vector. Might not mean anything, but I'm making the following assumptions:
+They always generally head towards something they can study/archive for their Knowledge Core.
+They can't just jump-jump-jump, they need to stop and refuel after each jump which takes days/weeks per stop, so they probably don't wander randomly.
+They are likely to do exactly what we do, head towards "big interesting things" to study, and look for smaller things on the way.
+They were coming from somewhere (as opposed to just wandering randomly) when they found the Hesperus, and they left to continue their journey.
+If you track the Oochost PC-C c29-0 - Perseus Dark Region KC-V c2-2 vector back - assuming they found the Hesperus on their way from somewhere to somewhere... that line leads pretty solidly to the Col70 sector, not that far from where the Thargoids Col70 signal goes - it's incredibly hard to eyeball a direct line in Galmap of course so I could be way off, but it looks to me like maybe they were coming from somewhere above the Spirograph Nebula.
+
+Galnet says " There are rumours that this tribe of academic researchers have acquired data about the Guardians during their decades of wandering", which makes sense if they'd spent years in the Col70 area feeding information into the Knowledge core - we're fairly sure that area relates to the Guardian/Thargoid war. But where were they going next?!
+
+I'm on something of a quixotic quest now to see if I can find the Scriveners again, or at least heading generally in the direction they might have been going in to see what they might have been going towards. Unfortunately the vector line is so short that it's incredibly hard to project it forwards with any accuracy.
+
+Speculation about Hexagrams:
+The Raxxla logo is all about the 6's, as we've discussed before. Hexagon surrounded by 6, 6-sided shapes. The Scriveners logo is also all about the 6's: A hexagon surrounded by 6 circles, including other hexagons, and 6 more circles in the centre. I don't think that's a coincidence.
+
+The Scriveners are 'scientist explorers', essentially. Galnet makes a rumoured connection with Guardian discoveries. The Scriveners path might have come from the Col70 area, the possible area of the Guardian Thargoid war. Scriveners guard their Knowledge Core, it's very important to them.
+
+Could it be some alignment of 6 planets? like a Klemperer rosette, maybe that's what the Scrivener's found, maybe that's what Raxxla is and is represented by in the logo? Finding (for example) 6 planets or stars arranged in a Klemperer rosette would surely be something mystical, something that's on that border between magic and science...
+
+SPOILER: POSSIBLE SCRIVENERS PATH
+Last edited: Jan 8, 2023
+Reactions:
+Han_Zen, Rochester, Edelgard von Rhein and 1 other person

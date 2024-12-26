@@ -1,0 +1,12 @@
+Jorki Rasalas
+Feb 3, 2021
+#20,879
+Dauthiatull said:
+Some have suggested there are systems that don’t show up on the galaxy map. Has this been confirmed?
+
+Yes, it’s fairly common. The “Hidden” systems are usually very close to a system that exists in the galmap. It is due to FD inputting various star catalogues when they were creating the in-game universe. Star catalogues can have different names for the same star, and differing values for distance are very common due to the imprecision of distance estimation in astronomy. The galmap is often aware of some of these various names. If you go to the Simbad astronomical database, put in the name of a star into the search field you will get a load of information on it including its alternate names. If you put those alternate names into the galmap search it often will find one or more and usually there will be a difference in the position, often around a light year or so.
+
+There may of course be other examples that are not due to this effect...reasons?
+But this is the common cause. If you find an example always check against Simbad.
+Reactions:
+Fiera, Mrrshal, [PS4] Filthymick420 and 1 other person

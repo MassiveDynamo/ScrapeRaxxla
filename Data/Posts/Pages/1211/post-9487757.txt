@@ -1,0 +1,8 @@
+simulacrae
+Aug 30, 2021
+#24,213
+Jorki Rasalas said:
+Still suffering from wrist & thumb RSI. Spent an hour yesterday updating my LP/UCB sheet for the new Hyford’s Cache beacons & regretted it.
+Found this document which has some useful info on gaming RSI, although a couple of years old.
+www.working-well.org/articles/pdf/Playing_Games.pdf
+You have voice attack i think? Maybe look into macros and even see how people are creating bots for the game. Think you might be able to jury rig some sort of voice command fly by wire fun. Just imagine yourself on the deck of the enterprise giving commands to your redshirts

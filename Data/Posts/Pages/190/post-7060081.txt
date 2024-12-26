@@ -1,0 +1,4 @@
+Jah'bastah II
+Oct 3, 2018
+#3,791
+I made a traversable 3D star map two years ago based on the Hipparcos, Yale and Gliese data. I'm curious, has there ever been an expedition to honk all 119614 stars in those? I could put the data in a simple google sheet so we can all explore them and check them off one by one in the hopes of finding Raxxla?

@@ -1,0 +1,19 @@
+selbie
+Dec 17, 2023
+#32,569
+Bushido Brown said:
+How does one analyse audio? I'm looking at the Thetis logs and they all have a "beep" at the start of each message, but it's different each time. Then there's the audio from log 5 which is interesting, especially compared to Shamash log 8.
+You've probably picked it up already but just for anyone else here interested.
+1. Load Audacity and open / drag-drop in the audio file.
+2. Right click on the left panel area and change the view to Spectrogram
+
+3. Right click the same panel again, and go into Spectrogram Settings to change the parameters of the graph - frequency view range, scale, dB gain/boost to change the contrast of the image etc
+
+4. You can drag the bottom of the audio file window down to open it out more. The left and right channels split the window, so you can also drag down one of the channels, and also Ctrl + Scroll will let you zoom to expand the timeline.
+
+
+
+May Cthulu grace you with its presence, Commander.
+Last edited: Dec 17, 2023
+Reactions:
+Bushido Brown and Emperor

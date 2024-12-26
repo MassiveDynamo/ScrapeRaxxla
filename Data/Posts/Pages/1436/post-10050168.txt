@@ -1,0 +1,61 @@
+John Stoutbeard
+Jan 1, 2023
+#28,719
+Jorki Rasalas said:
+How does one contact FD Support without going throughnthe useless process of raising a bug report?
+
+Ive done a search on “Sima Kalhana” and FD have done it again- released Galnet ”a retrospective of 3308 (part two)” but without yet releasing part one!
+
+Doh FD, xmas hangovers clearly still lingering!!
+Part 1, concise version: https://www.elitedangerous.com/news/galnet/azimuth-historical-perspective-part-one
+Full version: https://forums.frontier.co.uk/threads/the-azimuth-saga-the-story-so-far.585804/
+Just wanted to mention this since I use the full version in looking for breadcrumbs.
+
+Salvation (The Witch) may have been looking for Raxxla, but ended up totally sidetracked with the Thargoid / Guardian discoveries being made at those times (early investigations). Perhaps it's a way for him to get even more funding.
+The early expeditions may have been an attempt (Adamastor etc) to track Raxxla down. 'Shady cabal' with the same interest (TDW?) may have sabotaged and robbed the Adamastor because of competing interests. Technology & Power. Both the Thargoid tech and Raxxla findings would provide that for both parties.
+All of this is happening in around 3110, perhaps it's the first organized and well funded attempts to find out more about Raxxla.
+
+----
+
+Jorki Rasalas said:
+There is no in-game confirmation that TDW (& their hidden space station) exist, it is all rumour according to the Codex, our only known canon source. TDW is a nice concept, but is it a red herring?? Perhaps we should concentrate on what we do know!
+
+We do have confirmation of Pilots Federation.
+
+Notes on ...
+What we know of PF symbology
+Codex, TDW Article - the PF symbol.
+Galaxy map, Map mode button uses the PF symbol:
+Codex. Colonia (does it mean it was established by PF?): PF symbol.
+Codex, Handbook, Salvage and Rescue activities. PF Symbol again:
+Note: Scriveners (stripping the Hesperus) are salvagers.
+Perhaps FDev have made an oversight and is using this symbol willy-nilly.
+Or perhaps they have made a conscious decision that the PF symbol belongs to these areas.
+
+
+Jorki Rasalas said:
+The Elite/In 3100 the Pilots Federationbegan issuing modified version of its 'wings' badge that included the pilot's rating written across it in capitals,
+And this is the time 'things changed'. Same time as Adamastor (and the sistership Hesperus - I not found dates for Hesperus) set out in 3111.
+Ghost Ship Adamastor | Canonn Research Group
+The Adamastor, a Lowell class science megaship, can be found orbiting Chukchan 5 b. It is on fire and there are cargo and engineering materials nearby. Scanning the ship with the Datalink scanner reveals the usual array of subtargets, including a data point that gives more information about the...
+canonn.science
+
+Thargoids & PF will always be linked in the narrative, it doesn't mean it has something to do with Raxxla.
+But I do like the idea of such a narrative. Azimuth & Salvation, TDW and they all set out to grab more power but ends up stirring the hornets (petals) nest.
+Anyway, I'll keep hopping around to check out some systems from the lore.
+
+----
+
+Minor Note on ... Sosong (one of the invaded systems in the past)
+Sosong A 3 anomaly; Peter's Usquebaugh; A Settlement Icon missing, showing up as POI instead. Settlement not showing up in the system map nor planet map.
+Acts as POI when filtering the NAV panel - not acting as Settlement. 1000ls POI view distance applies.
+Note; Still has the 'Shield' for a settlement. A very curious thing.
+
+
+Bug or not, don't know. Not seen this kind of bug anywhere else in the game (over the past 8 years).
+Attachments
+1672572035674.png
+53.9 KB · Views: 75
+Last edited: Jan 1, 2023
+Reactions:
+CMDRCorrMorningstarFelian and Jorki Rasalas

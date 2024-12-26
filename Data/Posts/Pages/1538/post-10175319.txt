@@ -1,0 +1,9 @@
+Jorki Rasalas
+Jul 5, 2023
+#30,743
+Darrack said:
+Some time back i tried to use the planetary orbit model on NASA's site to see if i could get any of the main planets to line up with the gaps in an orrery view (worth a shot), sadly their model doesn't go up to 3309!
+
+We’ve discussed this sort of thing before, but I think the result was that FD didnt set their planetary orbits to anything in particular, and arent accurate enough against real life to allow conclusions to be drawn.
+Reactions:
+CMDRCorrMorningstarFelian, Rochester, Darrack and 1 other person

@@ -1,0 +1,14 @@
+Thatchinho
+May 31, 2019
+#8,494
+Han_Zen said:
+If you want to get really technical, I don't think there is a distance to travel in a worm hole. Speed is needed to get to the worm hole but once you are there, you are on the other side.
+To the best of my knowledge, traversable wormholes (or at least the one's definable under General Relativity) have 'throats', and traverse distance and times are non-zero.
+
+(Happy to see something from a reputable source demonstrating a zero-length traversable wormhole as possible under GR of course. Not that you're not a reputable source but you know what I mean.)
+
+A source clearly stating the non-zero traverse time and length as a rule isn't readily available, but I've not seen anything it's not implicit in. A few examples with it implicit:
+
+- http://web.mit.edu/asf/www/Wilfred_Wormhole/wormhole.pdf
+
+- https://www.quantamagazine.org/newfound-wormhole-allows-information-to-escape-black-holes-20171023/

@@ -1,0 +1,15 @@
+Han_Zen
+May 19, 2020
+#16,510
+Vasquess said:
+If they are the same things viewed from two different systems it should be possible to triangulate their position? Or at least to estimate their distance.
+
+Edit: Already considered. Never mind...
+I've tried to make something out of it, without success. I have no idea if there even is a direction in the system map?
+If it's a distance thing, it's closer to SOI than Deneb.
+
+SOI is interestingly at almost exactly RA 20h (Right ascension: 20h 0m 14.621s / Declination: 35° 20'26.916''). One of it's 'clouds' is dead center, in the horisontal direction. That might mean something?
+
+I would love to find a third system, out in the same region.
+Reactions:
+[PS4 Pro - PC] earthtone99, Jorki Rasalas, Machina Ergo Sum and 2 others

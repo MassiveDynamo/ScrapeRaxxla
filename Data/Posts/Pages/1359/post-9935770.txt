@@ -1,0 +1,8 @@
+Jorki Rasalas
+Sep 8, 2022
+#27,178
+@Pyroboros @Adel
+the method of searching a system for bodies doesnt work if there is no nav beacon or if youve already fss scanned the system. Any ideas how to work around this?
+I want to retry some things in many systems Ive already visited.....
+Reactions:
+Ataxia

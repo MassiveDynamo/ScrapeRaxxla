@@ -1,0 +1,15 @@
+Adel
+A
+Feb 4, 2022
+#25,229
+Pyroboros said:
+The Id to overflow is the SystemID not the 64bitAddress.
+To get the bits for the Body by adding something to the 64bitAddress you would need to add BodyID* 2^54 (BodyID is always the 9 bit MSBs of 64bitAddress)
+
+To get the SeachString
+Thx a lot for your tool !
+
+For those that have issues with the file when downloading it:
+- #NAME? => the pb comes from the difference between your system lang and the file lang. You have to get the right name of "BITLSHIFT" in your lang (in french it's "BITDECALG"). Then replace all occurences of BITLSHIFT to the function used in your lang.
+
+- When a cell has "##########" it just means the number is too long and the police (letters height) is too tall to be displayed. I modified it from 10 to 8 and its now displayed.

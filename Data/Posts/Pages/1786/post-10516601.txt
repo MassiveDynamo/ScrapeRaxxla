@@ -1,0 +1,16 @@
+Jorki Rasalas
+Sunday at 8:10 AM
+#35,702
+Nezzie Muso said:
+many thanks for confirming this - I've been in this location a hundred times but I've no journal access on console so didnt realise it still counted as the comet SOI.
+
+For everyone - I've noticed something weird. When I started, there was no shipping lane inside the ring. Beyond the SOI's of the stations, it was "deep space". Then there was a 50km shipping lane. I assumed deliberate, to obfuscate the comet SOI. But the next time I checked the shipping lane was 60km, then 100km. Now, for me at least, there is no deep space at all. The whole of the pareco station ring is encased in an 80Ls sphere of "shipping lane". My assumption is that honking makes the shipping lane bigger. But other than that i can't fall out of the instance, and the stations no longer rush away from me, I'm not sure what this actually achieves. Any ideas?
+Dont know, other than further obfuscation for its own sake. But I conclude that FD clearly are intent on hiding the location of that (& presumably other ) comets. So the logical consequence is that EITHER:
+1) it is NOT related to Raxxla - there's a difference between making something "very hard to find" (as raxxla was originally, from the Gamma, MB said so; and comets are very hard to find) and making it impossible to find, OR
+2) FD do not want Raxxla to be found.
+
+I dont know which possibility to believe. If FD purely wanted to stop people finding comets they could nerf the galmap overflow search mechanism, which they did. To go further, by masking the display of a comet in the HUD (if you manage to drop into its instance by pure dumb luck and precise SC dropout timing) seems to me to be overkill.
+
+Edit
+Breakfast coffee is kicking in and a third possibility occurs to me...the shipping lane could be created by a bit of procedural code created when a defined number of ships start to travel along a set route; so it could be the recent interest youve generated in this thread has actually created the Pareco shipping lane, that would fit with the lane width increasing over time...the way to test that hypothesis would be to try to drop in at an infrequently visited comet, however without the galmap overflow method we have no way of knowing where they are other than the one highlighted by the 6 stations in Pareco
+Last edited: Sunday at 8:30 AM

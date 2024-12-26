@@ -1,0 +1,30 @@
+Jaiotu
+Nov 24, 2017
+#1,123
+Han_Zen said:
+Hypothesis: Raxxla is (in)Sirius.
+
+
+Names:
+The names Raxxla and Sirius are similar in buildup. Both have six letters and two letter pairs. A simple two step encryption will encode Sirius -> Raxxla:
+- Byte rotation, with three characters/byte gives sirius -> rissui.
+- Substitution r=r, i=a, s=x and u=l rissui -> raxxla.
+
+Door/Gateway:
+Ancient Egyptians considered Sirius to be the most important star and a gateway to the 'other world'. They would not bury their dead during the 70 days each year, Sirius was invisible below the horizon. The gateway was not open.
+A properly performed mummification takes 70 day, to mimic this period.
+
+Key:
+Sirius is also known as Alpha Canis Major. An official abbreviation of Canis Major is 'CMaj'. This is also an abbreviation for the musical Key 'C Major'.
+
+Other silly stuff:
+- Planet called 'Waypoint'. Waypoint to what?
+- Planet called 'Lucifer', meaning 'light-bringing'.
+- Antares crashed mysteriously, when exiting the system.
+- Sirius is controlled by 'powerful, twisted men. Powerful enough to hire an assassin to kill the threat to their dominance.'(ask Ran Corsen).
+
+If you start to wander in to the more alternative regions of the internet, there are of course countless claims for Sirius' magical properties, celestial bodies and inhabitants. It also has a significance in most ancient cultures. Egyptians and Dogons were particularly fixated on this star. I will not go further into that.
+
+So, what do you think? Is something obfuscated in the outer rim of the Sirius system? Are there other clues I have overlooked?
+
+If you can find a connection between Sirius and the year 2814 you'll have me convinced.

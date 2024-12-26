@@ -1,0 +1,8 @@
+Jorki Rasalas
+Feb 21, 2022
+#25,402
+Yes, in-game comets have been known for a long time, discovered in Pareco around 2017 https://forums.frontier.co.uk/threa...-drop-into-normal-space-close-to-them.350586/, after which many others have been “detected”. Though I didnt know until yesterday there are 12 in Shinrarta Dezhra alone!
+But they currently have no visual implementation. Initially IIRC that was because someone at FD said they couldnt do them visual justice. However I pointed out that with the particle graphics as seen in the surface probes FD have had that technology for some time. They just need to extend the time duration of the tail, thicken it (tail density inversely related to distance from star) and add an extra bit of code to “blow” the tail away from the star. The comet itself could be a non-landable small body.
+So, why havent they implemented them visually? Could be low management priority, though it seems there are so many in-game that they would be a quick win for some graphics improvements. So perhaps there’s another reason? Perhaps these comets are too similar to Raxxla and they didn't want to draw attention, or make finding it easier by people actively looking for comets?
+Reactions:
+Adel and Rochester

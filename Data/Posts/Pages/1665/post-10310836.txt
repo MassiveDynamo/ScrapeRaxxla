@@ -1,0 +1,13 @@
+D7
+D
+Feb 6, 2024
+#33,287
+simulacrae said:
+Ive been playing a little with this - but im having trouble seeing it. There is a spot that i think is it… but want to know if you can give a relative time stamp or show the area within a full jump. I will have to play around with moving my head around too i guess. - ive been doing recordings as i make my way slowly towards SagA. Just passed Thors Eye.
+
+Here is my spectrogram of a hyperspace jump taken using camera view. The scale at the top (0.0, 1.0, 2.0, ...) are the seconds into the jump. Circled in green at about 4.5 seconds is the sound of a "whisper" and on the spectrogram you see a triangle with a circle inside and etc.. This is a rough finding while Louis Calvert did a more comprehensive study to clean out other interference and draw out more of the image. At 11.5 seconds in there is a repeat of this pattern but it's a little harder to see on this copy-past image. Both are easier to see in the actual Audacity software. Please note the spectrogram settings panel I overlay-ed at the bottom right. I used these settings to create this spectrogram. Note sure what or if this image has meaning but some say it is unlikely to be found naturally in sound recordings.
+
+Regards - D7
+
+Reactions:
+Quaero, Han_Zen, Louis Calvert and 3 others

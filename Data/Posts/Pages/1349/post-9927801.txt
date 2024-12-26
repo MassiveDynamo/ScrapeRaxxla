@@ -1,0 +1,6 @@
+Pyroboros
+Aug 30, 2022
+#26,970
+found a new BodyType: "HyperbolicOrbiter" still nothing here.
+Reactions:
+Han_Zen, Jorki Rasalas and Dox Paradox

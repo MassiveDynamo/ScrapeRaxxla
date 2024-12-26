@@ -1,0 +1,15 @@
+CMDRCorrMorningstarFelian
+Mar 1, 2023
+#29,363
+Rochester said:
+This is EDDB data mapped into a vary basic CAD I-Phone APP ‘3DModeling’.
+
+https://m.youtube.com/channel/UCcMEARC2ELag00h3u6pmd1w/playlists?view=1&sort=da&flow=grid
+
+It’s very rough and ready, which suits my needs at present, being on-the-go most of the time, it’s very easy to use. I rattled all this together only this afternoon whilst cooking. All the calculations for mid points and triangulation etc are just undertaken in the Mki Sapien CPU.
+
+I then just tart-it-up a little afterwards with an editor.
+Click to expand...
+This exists for Android. Sweetness.
+Reactions:
+Rochester

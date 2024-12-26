@@ -1,0 +1,118 @@
+Yuki Estelle
+Feb 15, 2020
+#15,238
+This one might be a bit long and will cover a few topics.
+
+Cupid's Arrow
+I spent several nights studying and applying trajectory formulas for 3D points in space. I'm not sure how helpful this will be, my personal opinion is that the solution for Raxxla is actually quite simple and doesn't require anything too advanced. That being said, I like to cover all the bases so let's talk about the arrow and where it's pointing.
+
+Unfortunately the arrow's trajectory (if indeed it has one) is tough to figure out, not because of mathmatical reasons but simply because we have to ask where the "arrowhead" and "tail" are to make accurate assumptions. Even minor deviations in coordinates will result in a huge trajectory failure later on. Not only that, but we also need the correct distance or we're looking at potentially thousands of results in the search. Here's a quick list of questions worth narrowing down:
+
+Does the arrow have a "head" and "tail"?
+Is it pointing negative or positive to galactic 0 (Bubble-ish or Formidine-ish)?
+If the arrow has a head and tail, which stars represent them?
+Is it possible that instead of a star, the head and tail are averages of star coordinates? If so, which ones?
+Once we have a vector, how far do we travel before the arrow stops?
+
+With those questions in mind, I think it's fair to assume a few things about what we can expect from the arrow if it's relevant:
+
+Arrow's trajectory may be purposefully generalized and not entirely accurate, so calculations might only provide us with a search "zone".
+FDev would probably provide hints to the arrow's travel direction or distance. Hence my first calculations, which are trajectories where the distance to the target is the distance from Cupid's Arrow Beacon (S171 34) to Maia (since it's mentioned as a visitor spot).
+FDev has a pattern of keeping their puzzles simple while allowing for several levels of interpretation. We could assume that something like this can be solved with calculations, but might not need to be.
+
+I'm currently in the process of creating a spreadsheet, which I will publicize here once it's formatted. At first it will contain some basic trajectories I calculated for experimental purposes, but all of them are potentially useful. I'll continue to use the sheet to record my findings, perhaps even allow users to submit candidates for more searches. Eventually I want to write a very basic calculator that will accept two coordinates and a distance to calculate a third point.
+
+Before we move on from this topic, it's worth mentioning a fun side effect of predicting the trajectory of Cupid's Arrow: It also works in reverse. So if you suspect a system might be related to the arrow, we can connect it with the arrow-head and reverse engineer the path to see if any of the tail stars line up perfectly. This is assuming it's even relevant, it's probably best if we experiment first.
+
+
+
+The Toast, Cupid and Psyche
+It's been a while since we talked about new lore theories. While the Toast and Astrophel and Stella mostly verify their relation in the hunt for Raxxla, I feel like Greek mythology is important in Elite Dangerous and has is somehow connected. I could talk about the reasons I believe Greek mythology plays a role but you've probably heard it elsewhere so I'll offer this advice before continuing: Pay attention to names that are NOT used in Elite. If FDev wants us to find something using mythology they would likely avoid misleading names that create too many false paths, meaning whatever is left must be relevant.
+
+I've been looking into several greek stories and mythologies over the past month trying to find something that hits all the marks and feels right. It's been difficult because it's very easy to find value in the nebulous nature of mythos and goose-chase almost any story. With that in mind, I came across an intriguing bit of lost literature.
+
+Cupid and Psyche is a tale of lovers, sometimes called Eros and Psyche, that's been passed down through secondhand accounts and various writings. It's known sometimes as pure mythology, but some scholars think it's possibly an allegory for the human struggle to find happiness. The tale itself appears to have been lost in time and rediscovered by an author, who wrote about the story from a Roman perspective (Wikipedia's version). I would highly recommend checking out some of the other versions too, since they do provide some insight into the character's motivations and a more proper Greek interpretation.
+
+
+SPOILER
+
+Already we begin to see strong ties between the story and our progress in the Raxxla hunt. First, it's much closer to the themes we constantly encounter during our search, such as Cupid and the Heart and Soul nebula ("Psyche" means "soul", so this is literally a story about Heart and Soul). Furthermore the characters also set us up for a better interpretation of the Dark Wheel Toast, which I'll get to later.
+
+
+SPOILER
+
+The oracle referenced in this passage is the Oracle of Delphi, also known as Apollo's Oracle.
+
+
+SPOILER
+
+
+
+
+
+There are a few unsubstantiated connections here, such as the beautiful palace and it's nature, which could potentially be connected to Sonnet 9 in Astrophel and Stella.
+
+Perhaps more worthy of mention however is that there is a minor faction in Elite called "Zephyr Nation" who's home system is permit locked. I'm not sure if it's related to the story but I think it's odd that the system is off limits. I'm not at home right now but I'm also curious about it's location and if it's possible to get inside. The rite Psyche performed is known as "Transition to the unknown", it would be a strong case if this system was on the way to Cupid's Arrow, especially considering Zephyr takes her to Cupid's palace.
+
+Even more compelling is the fact that this absolutely fits into the Dark Wheel Toast in a very realistic way. "The parent's grief..." comes to mind, where Psyche's parents are literally so upset by their daughter's marriage to a monster that they dress her in funeral attire because to them she's not just getting married, she's also dying.
+I don't know how this would translate into the game's world; what represents their grief? It's possible that the Oracle of Delphi has something to do with it since she delivered the news, or perhaps a dragon since that's technically what brought them grief, but I'm unsure.
+
+And in case you're wondering, Cupid didn't want to be seen. He didn't think mortals and gods could love each-other and I'm pretty certain he asked Apollo to have the Oracle lie about who Psyche would be marrying.
+
+
+SPOILER
+
+
+
+"...the lover's woe."
+
+There are so many points in this story that could represent the lover's woe. The oil lamp? Her sisters? The knife? I don't know if it was intentional but the quote is "the lover's woe" and not "the lovers' woe"; the former implies only one of the lovers is suffering, the latter would indicate both. I take this to mean Cupid since he's most effected at this point.
+
+
+SPOILER
+
+
+
+Unsure if there's anything relevant here.
+
+
+SPOILER
+
+
+
+
+
+
+
+Admittedly I came up with some dead ends and this is one of them. Psyche sets out into the world to find Cupid because she loves him and feels bad for what she did. Along the way she's presented with three impossible tasks she must pass before reaching Cupid and her journey begins in Demeter. In Elite Demeter is a system, but it's also a Generation Ship (see Demeter). I honestly don't think the ship logs have any relevance to this story so I'll leave that up for you to decide. Possible worth noting: Demeter is in orbit around Mizuchi 2. Mizuchis are serpant-like dragon creatures in Japanese myth.
+
+There is a mention of Helios (which implies Sol) and the rivers Styx and Cocytus (Cocytus is a nebula with a stellar mass black hole in it) where Psyche is supposed to collect water in a crystal vessel.
+
+If there was ever an argument against the Cupid and Psyche connection this would be it. The trials of Psyche feel like they should be relevant to us since we're possible going on a trial or initiation rite, but they don't seem connected by anything. If you have other thoughts about this part feel free to let me know.
+
+As a matter of fact, much of the story seems rather aimless from here. I'll post the remainder in the spoiler below
+
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's a shame there's no solid connection on Wikipedia between the Roman and Greek versions of this story, since it would make a very good potential lead. Unfortunately it's difficulty to access makes me think it's a dead end, but I couldn't ignore the literal connection between Cupid and Psyche, heart and soul.
+
+Keep an eye out for that spreadsheet in the coming days, fly safe.
+Last edited: Feb 15, 2020
+Reactions:
+Dr. Lexus, John Stoutbeard, Machina Ergo Sum and 3 others

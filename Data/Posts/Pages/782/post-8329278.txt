@@ -1,0 +1,14 @@
+alexzk
+A
+Mar 12, 2020
+#15,624
+Hmm...got weird bug or feature ... not sure yet. Will try restart.
+Any way, came to big guardian site with a lot of big empty space on Anaconda. Trying to land. Somewhere at 10-60m altitude ship hits invisible wall, inside cabin black smoke, shield goes down slowly..
+Most likely some bug as it was not stopping after jump at star too automatically.
+Restart didnt help ...keep hitting something at 30m altitude, black smoke starts before hit and gets more dense...gona fly to another planet. Will see if repeats there.
+Upd: ok ...black smoke that is how dust looks in night vision in dark ...landed ok on another planet. So that one just bugged it seems. Or not for big ships.
+
+P.S. jump dethrottle still not working ... it shows in chat "dethrottle" then keeps going into star. I started to mention that last 2 weeks when came to bubble and changed ships. Any body have idea why ? >: Maybe some setting from another ship (it is ON on panel, tried OFF/ON explicit too)...
+Last edited: Mar 12, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Machina Ergo Sum, [PS4] Filthymick420 and 2 others

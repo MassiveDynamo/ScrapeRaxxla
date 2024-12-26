@@ -1,0 +1,16 @@
+Jaiotu
+Jan 29, 2018
+#1,569
+JulesD said:
+You did go back to 1917? (not 1918 as you say in your previous post)
+Also can/did you allow for the altitude of Mt. Wilson.
+
+Yes, I did 1917 and Stellarium has Mt. Wilson observatory programmed in as a default location so it should account for altitude. Vega would have been on or below the horizon until about 30 minutes to an hour after the observation was supposed to take place.
+
+Scytale said:
+Makes sense, Doc.
+Do you suggest an exhaustive survey of Sirius Corp ships movements ?
+I'm honestly not sure how to proceed.
+
+Do you think Sirius Corp fits somewhat in the 'tiny little bit obvious' - thing ?
+I certainly would at that.

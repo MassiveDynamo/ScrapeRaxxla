@@ -1,0 +1,22 @@
+Jorki Rasalas
+Aug 23, 2024
+#34,615
+Ian Doncaster said:
+Well, I might have found something interesting.
+
+While poking around the "dark wheel" side of things as looking to have more obviously actionable clues than Raxxla itself, I started looking at the possible connections between the "SAP 8 Core Container" and the "Trinkets of Hidden Fortune" ... and the Dark Wheel's hidden base around the 8th moon of a gas giant. I'm not sure how you were supposed to originally conclude the latter from the former, but I can believe that they're intended as clues to the same thing.
+
+And after a typo, I ended up looking at the "SAO" systems. The "Smithsonian Astrophysical Observatory" catalogue is a real one, of course like the more familiar HIP or HD - but in Elite Dangerous it seems to have been used to set the primary names of just six systems. All of them, a quick check in Simbad confirms, have more familiar HD names which could have been used instead. So why bother including the SAO catalogue for just six stars which were in the HD catalogue anyway? Bit weird.
+
+Then I looked more closely at where those stars were.
+Five of them are in the bubble, all almost exactly 100 LY from Sol in various directions (all very slightly over, but being real-world stars you can't be too picky) - though very definitely not on Sol: there's a high cluster of three about 60-70 LY apart from each other around Alliance space (though one was Federal originally) and the other two are about 75 LY apart to the "right" of Sol.
+The sixth is way further out ... very marginally over 900 LY south-westish
+(Bonus tinfoil: if you add up the SAO numbers of the six stars, you get a suspiciously round 703500, a number of no apparent significance. For more tinfoil if you join the dots you can probably make a passable crystal shard shape, but now we're getting really silly)
+
+These systems also have a surprisingly high number of gas giants with at least eight moons (between them, two eights, a nine, and a brown dwarf with 12)
+
+So ... it might be completely unrelated to either the Dark Wheel or to Raxxla, of course. But something's very weird about these systems nevertheless, so I'm going to head back to the bubble and have a poke around.
+Click to expand...
+Mmm. Interesting, I agree SAP8 might be relevant. Have you checked the map for anything near (70/35/00) ?
+Reactions:
+Dox Paradox

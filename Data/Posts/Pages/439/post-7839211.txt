@@ -1,0 +1,4 @@
+bluecrash
+Jun 8, 2019
+#8,773
+Has anyone looked into the odd permit order - and why it forces them to be in the order they are in after you get all 26? I have been looking into this for weeks- and can post here, unless someone has a good answer as to why they are like they are?

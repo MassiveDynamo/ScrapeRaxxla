@@ -1,0 +1,11 @@
+Vasquess
+Sep 23, 2020
+#19,035
+Q Hung said:
+It's still trying. Crunching away. I've maxed out the physical memory of the machine and it's now paging to and from the hard disk, on a 32GB machine.
+
+Not sure how possible this is gonna be via my methods.
+I wrote me a small program and can do that as a datastream => No mem problems. But where is the download of a file with all the systems + bodies. I only find systems with coos – no bodies. (~7.8GByte)
+Last edited: Sep 23, 2020
+Reactions:
+Han_Zen, [PS4] Filthymick420 and Vetinari

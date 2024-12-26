@@ -1,0 +1,11 @@
+Nezzie Muso
+N
+Dec 15, 2024
+#35,556
+Inverted Walrus said:
+Ok so I'm at Pareco, trying to fly to the centre of the ring of stations. All six stations are clearly orbiting the same thing, said "thing" isn't visible. I've just noticed a bug/feature/quirk/whatever in that station's seem to "chase" the player? As soon as the distance from a station goes from 1000km to 1 megametre, the station very quickly catches up by 5km, leaving the distance at 995km.
+I'm not sure if I'm allowed to post links here but here is an unlisted video I've just uploaded to show this. Anyone else seen this before?
+
+yes the object the stations are orbiting is itself moving at twice the speed any ship can boost so as soom as you are more than the shipping lane away from the station the whole thing zooms away from you (or toward you) if i remember rightly the axis between crown and asire is the direction of travel. Its just to make it extra awkward, I think. I've tried many dozens of times to calculate the position of the comet and supercruise to it but it never shows up ; and flying around the shipping lane / deep space section in the middle doesn't seem to find anything either.
+I'm really glad you got the missions though - which ones did you get? [EDIT] and importantly, unlike me, have you taken a screenshot?
+Last edited: Dec 15, 2024

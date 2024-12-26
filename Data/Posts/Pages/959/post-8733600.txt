@@ -1,0 +1,7 @@
+Tibercov83
+T
+Oct 6, 2020
+#19,173
+Jorki Rasalas said:
+You can search for bodies (e.g. BH) and specify a reference system (choose one in the approximate centre of your desired search area from the Galmap)-either EDDB/Bodies or Spansh/Bodies search will do this, but then you’ll have to go through and check them manually.
+So does a search using the above only show ones that have discovered? Or is it a search of all the systems in game?

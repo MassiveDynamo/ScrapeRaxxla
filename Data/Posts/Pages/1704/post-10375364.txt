@@ -1,0 +1,21 @@
+El Saico
+May 14, 2024
+#34,064
+Rochester said:
+The system Ross 629 is mentioned in Brookes Legacy, it’s the only system bar one other that’s named in the book but not in game. I think this is intentional.
+
+Any idea where this might be? Other than ‘where’s 628 and 280 relatively’?
+SIMBAD's aliases are not helpful in the slightest:
+
+
+
+However, EDGalaxyData (a great source of data dumps) has a table of renamed systems as part of their Body Mismatches analysis.
+It illustrates some of the game's history nicely - Beagle Point, the Sirius exclave, Trappist-1, the Colonia bubble, the variable stars on the Orion Nebula getting named after scientists, the Witch Head exclave...
+
+Although Ross 629 is not on the list, there are some instances of off-by-one corrections: V1577/V1576 Cygni, TX/TY Cancri, 39/40 Andromedae, 58/59 Ceti, 15/14 and 58/57 Geminorum, and my favorite: 2MASS J21541877+4712096 to 2MASS J21541877+4712097.
+Not to mention the truncated names from EES2009 and the many DM99 duplicates.
+
+Ross 628 is 150ly from Sol, so it might qualify.
+Last edited: May 14, 2024
+Reactions:
+Rochester and Korlod

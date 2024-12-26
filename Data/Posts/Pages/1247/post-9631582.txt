@@ -1,0 +1,9 @@
+Han_Zen
+Dec 2, 2021
+#24,929
+Jorki Rasalas said:
+If that last bit is correct then why hasnt it been datamined by now?
+I’m not advocating that (quite the contrary!) but somebody on the web would have been unscrupulous enough to do that and broadcast the result by now.
+
+Edit: I remember flying around the FRift, looking for the surface sites. The exploit to detect one (other than a BSOD) was to look at the amount of data being downloaded from the servers and the disc datarate (didnt work if you had an SSD!), so I’d say Raxxla could be downloaded on trigger from the Omphalos.
+As long as you call the functions something mundane and use standard objects, there is no real danger of dataminig.

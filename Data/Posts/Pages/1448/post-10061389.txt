@@ -1,0 +1,35 @@
+CMDRCorrMorningstarFelian
+Jan 17, 2023
+#28,948
+CMDRCorrMorningstarFelian said:
+I'll do a better explanation when I have some time. Some of this is less Raxxla theorycrafting and more looking at what we have been told vs what seems to be the case. Also, I am a bit of an odd one in Raxxla realm as I tend to deal lots with odd parts of the lore so keep that in mind because I can use small details to get fairly robust conclusions. Just know, what I may say may not be the larger consensus.
+I think it is helpful here to start at the beginning because only then does it become apparent something is off.
+
+We are told the following:
+-Frameshift Drive was rumored to be a result of reverse-engineering from Thargoids.
+-The Dark Wheel did not find Raxxla but instead found Soontill which contained Thargoid loot (rumored).
+-Polaris was a (rumored) Thargoid base per First Encounters.
+
+Frameshift Drive problems:
+-Hyperspace technology originated in Sol thus allowing us to send probes to Tau Ceti.
+-Fuel Scoops predate even Faraway (established 2800s) as they are used when getting from Beta Hydri to Achenar (see Logistical Nightmare beacon).
+-Sirius Corporation produces Hydrogen-based starship fuels as well as Fusion reactors from Sol and later Lucifer (in Sirius) well before even Old Worlds Coalition (2200s-early 2400s). See beacons and system description in Sirius.
+-Old Worlds Coalition is major producer of Hydrogen-based fuels (Elite Encounters RPG and Premonition).
+-Auto-dock and equivalent of supercruise exist under varying names since first game and likely prior.
+-Only successful Human/Thargoid to date is D-2 via Azimuth Biotech but others at same facility died.
+
+Soontill:
+-Not landable (9,081,479.88 Atmospheres and 8,256 K surface temperature).
+-System contains Technetium which is only produced by S-process nucleofusion (asymptote giant branch stars) linked to Guardians.
+-System is entirely too hot for Thargoids (must be between -107.9°F/-77.73°C/195.42 K to -28.01°F/-33.34°C/239.81 K) - this is between the freezing and boiling points of ammonia.
+
+Polaris:
+Classical asymptote giant branch. System unless exceptionally large is likely too hot for Thargoids.
+
+From Wikipedia:
+Polaris Aa is an evolved yellow supergiant of spectral type F7Ib with 5.4 solar masses (M☉). It is the first classical Cepheid to have a mass determined from its orbit. The two smaller companions are Polaris B, a 1.39 M☉ F3 main-sequence star orbiting at a distance of 2,400 astronomical units (AU),[15] and Polaris Ab (or P), a very close F6 main-sequence star with a mass of 1.26 M☉.[3] Polaris B can be resolved with a modest telescope. William Herschel discovered the star in August 1779 using a reflecting telescope of his own,[17] one of the best telescopes of the time. In January 2006, NASA released images, from the Hubble telescope, that showed the three members of the Polaris ternary system.[18][19]
+---
+Larger problem with the Elite Dangerous lore is CMDRs are intentionally being led astray. If Soontill wasn't landable the rumored secret base never existed. Further, if Soontill has Technetium it is on the asymptote giant branch. These are stars on in classes M-K that have 2-8 solar masses and are long-period variables. This along with significant problems with lore means the actual search should be focused on Guardian favorable worlds. Even Sol would have been too hot for Thargoids. So, the Martian Relic would have likely been Guardian. Further, a terraformed Mars would be close to ancient Mars in terms of surface conditions. The conditions on Mars are in-line with Guardian (1/3 Earth gravity and hotter due to 2.30 atmospheres pressure). The best search locations probably involve combing through Guardian ruins and see if drawings on stones or the layout of ruins leads to their home system.
+Last edited: Jan 18, 2023
+Reactions:
+Edelgard von Rhein

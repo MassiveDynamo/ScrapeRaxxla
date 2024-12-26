@@ -1,0 +1,21 @@
+Teronis1746
+Jan 24, 2019
+#5,441
+Phil JMac said:
+OK
+
+To explain - Ive been there lots, and have scanned the system (FSS)
+
+If I enter the system again and use the FSS (say to find signal sources) Avogardo Station is in the FSS as a blue mark with circle as if its not been scanned before - unresolved
+
+
+This is most likely nothing but I don't think Ive seen it before in other systems, It may well be a "quirk" of the FSS.
+
+
+edit - "quirk"= polite name for a bug.
+
+
+edit 2 - bug does not mean alien
+Click to expand...
+
+That is a working as intended design. These count as signal sources, which you need to discovery scan to detect each time you enter a system.

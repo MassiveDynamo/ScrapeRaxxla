@@ -1,0 +1,23 @@
+Ian Doncaster
+Sep 16, 2024
+#34,837
+Neestar said:
+imho, everything we need to find RAXXLA is buried ( or surfaced ) within the game itself. However, what i am wrestling with is: Do you need to be in the 'Horizons' version of EliteD to find RAXXLA? Or can it also be found in the 'Odyssey' version? Because if it's only in the 'Horizons' version , then someone like me who purchsed the Steam/Odyssey ( entire game ) version is totally out-of-luck, no? Since i have no idea how---or if---my game client can even access the 'Horizons' version. And even if i can , how do i know which version to be in for RAXXLA pursuit?
+The Odyssey license should let you access all three of Odyssey Live, Horizons Live and Horizons Legacy (though the latter will require an extra download). I wouldn't expect it to make any difference which one you're using, though - the possibility of bugs preventing its discovery being present in one version but not another aside - since it was claimed to be in game before any of those expansions it's presumably also something which can be found without visiting any planet surfaces at all.
+
+Neestar said:
+"if one has the eyes to see it" ---- What if that means a player needs to use a certain in-game mechanic, before the ability to "see" RAXXLA ( or any clues therein ) is triggered within the client code? Or maybe some sequence of scans triggers something SERVER side? I'm just trying to think here in terms of standard confines & limitations of typical video-game MMO coding & functionality.
+Or more straightforwardly just a hint to look at things because they might contain clues.
+
+e.g. the apparently random string of letters and numbers on a standard cargo canister might be a clue (or, of course, it might not; most things probably are just the art team trying to make things look more interesting) but either way most players probably handle thousands of them without taking a close look at any of them
+
+Neestar said:
+Bummer. However, maybe it's part of 'FDev' master plan, once Thargoid chapter is soon complete? Maybe then all these "abandoned" contents/permits will finally be utilized as the penultimate "endgame" before this current incarnation of Elite Dangerous is retired? And just maybe PowerPlay 2.0 is the beginning of the long end?
+Given the current pace of two permits per decade, I think that gives us several centuries to find Raxxla. I don't see any evidence that Frontier intends to retire ED any time soon.
+
+I wouldn't give much credence to that specific claim about Lave 2, though. Anyone can claim to have totally found Raxxla but then mysteriously be unable to provide any actual evidence; they weren't the first and won't be the last. My personal silly theory - it's even supported by the Codex, but I posted it originally before then, so it must be true - is that the body Ra 10 a is Raxxla. The evidence? Raxxla is called Raxxla - that's Ra X (XL) a. The tenth planet in the "Ra" system (X) is also the largest (eXtra Large), so its 'a' moon is Raxxla.
+
+
+
+
+Incidentally, the thread I posted that in contains a year-earlier-than-previously-proven reference - April 2018 - to the "a player has been in the system" rumour. Though their version says that the player didn't even honk the system. Still, a vague recollection is an improvement on "someone said this and then somehow no-one mentioned it again for two years" for trying to figure out how that got started.

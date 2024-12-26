@@ -1,0 +1,19 @@
+Djidjel
+Nov 5, 2021
+#24,728
+Han_Zen said:
+Hi,
+
+I made a complete list of bodies in the Sol system. This was done by scanning the nav. beacon and taking the data from the Journal log file.
+
+BodyID Body Ring ParentID
+BodyID:0 Sol Asteroid Belt
+BodyID:1 Mercury
+0
+
+Interesting to see that asteroid belts and planet rings are the same thing.
+As you can see there are some bodyIDs missing. BodyID: 6 seem to be the asteroid belt (between Mars and Jupiter). BodyIDs 8, 14, 23 and 29 correspond to the rings of the Gas giants.
+
+BodyID: 21 is unknown. It's an orbit between Saturn and Uranus. It could be the fabeled Halley's comet? I would have to do a similar check in Pareco, to get a better idea on how the comets are implemented.
+Click to expand...
+Can anyone explain the blank spaces for bodies 6, 8, 14, 21, 23, 29 ?

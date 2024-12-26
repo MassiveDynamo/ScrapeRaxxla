@@ -1,0 +1,8 @@
+Jorki Rasalas
+Sep 12, 2023
+#31,593
+With several thousand systems within the bubble I don't think it’s surprising that 7 have integer coordinates. I’d expect that by random chance & I’m surprised it’s so few. If you think it’s significant you need to plot the distribution of fractional coordinates. It’s a shame Kay Ross is no longer around to answer questions, this sounds like an artefact (no pun) of the way StellarForge distributes systems.
+
+I’d perhaps be surprised if hand-crafted systems had a significant bias toward integer coordinates.
+Reactions:
+Shadowsnog and CMDRCorrMorningstarFelian

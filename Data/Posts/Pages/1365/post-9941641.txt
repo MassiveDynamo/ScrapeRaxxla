@@ -1,0 +1,10 @@
+Jorki Rasalas
+Sep 14, 2022
+#27,297
+Updated my body search sheet for Colonia. Several comets. Method again fails for several bodyids. Wouldnt have realised but spotted Colonia Orbital outpost hadnt been detected, docked there & found it as bodyid 77, those between it & Jaques crash the search....
+(edit: also for Tir, ditto!)
+(edit2: and ditto for Luchtaine!)
+mmmmm!!!
+this method needs an update, any mathematicians in the house?
+may need an insight into detailed workings of ED Galmap!
+Last edited: Sep 14, 2022

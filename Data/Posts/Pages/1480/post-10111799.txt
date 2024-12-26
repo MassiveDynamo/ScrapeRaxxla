@@ -1,0 +1,21 @@
+Jorki Rasalas
+Mar 28, 2023
+#29,585
+SergMx said:
+I wonder how exactly they translate the text in the Codex?
+I have now read the codex again in my (russian) language.
+
+It says exactly: Princess Astrofel (that's her name) and stellar spiral. (i.e. a spiral of stars)
+
+P.S. And long wanted to ask, what is this picture on the forum logo top left corner?
+SPOILER
+Click to expand...
+That looks like an O’Neil cylinder https://en.m.wikipedia.org/wiki/O'Neill_cylinder
+though none have been found so far in-game. Or it might be an example of a station during construction before the torus is added. Likely an example of early concept art that was omitted during development; IIRC if you look through the ED art book there are a few similar examples.
+
+It might be enlightening if you were to take the book title that in English is “Princess Astrophel and the Spiralling Stars”, but your Russian version of it, and see if its anagrams equate to system names with increasing distance from Sol. Are the system names the same in both English and Russian game versions or are they different?
+
+I think FDev would have taken pains to ensure all players would have a fair chance of solving their riddles, no matter what their native language.
+Last edited: Mar 28, 2023
+Reactions:
+SergMx

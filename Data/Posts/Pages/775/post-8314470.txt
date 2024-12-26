@@ -1,0 +1,10 @@
+Thatchinho
+Feb 28, 2020
+#15,484
+Jorki Rasalas said:
+Sounds like a subject worthy of sciencing! Has there been a thread on this phenomenon?
+As @Han_Zen says, he highlighted it a while back in this thread. I then went, checked and confirmed the phenomena. So first step of independent confirmation is done and it’s not a hardware specific/individual setup specific thing.
+
+What we really need now is an avenue for checking the bug possibility, without having to go through the risks of actually raising it as an issue!
+Reactions:
+[PS4] Filthymick420, Jorki Rasalas, Han_Zen and 1 other person

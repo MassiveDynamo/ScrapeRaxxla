@@ -1,0 +1,9 @@
+Zieman
+Feb 6, 2020
+#15,059
+alexzk said:
+My Conda consumes 2t/hr. So it means need 22T of fuel to keep cruise for 11hrs.
+All that will allow you to "extend" jump range by 1 light year IF distance is really gets shorter. Is it worse? >:
+The hyperjump distance doesn't get shorter. Wish it did though. You can jump a bit longer in that scenario, because your ship will be 22 tons lighter after consuming that amount of fuel (ship total mass, including fuel and cargo, determines the effective max jump distance).
+Reactions:
+Machina Ergo Sum

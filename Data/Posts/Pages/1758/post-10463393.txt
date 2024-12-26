@@ -1,0 +1,19 @@
+Jorki Rasalas
+Oct 29, 2024
+#35,151
+Rochester said:
+Yes.
+
+I too bought ED through FD. Each purchase actually has a free Steam key. Look into your FD purchase library on the FD store, it will be in there.
+
+Enable it and the game will just launch through Steam. I had found it increased update speeds by 400%.
+
+It’s a common problem since forever.
+Are you sure?
+Just looking at my FD Store account at the Odyssey upgrade in 2020... No Steam Entitlements, no sign of any Steam key.
+
+edit
+ah partner keys, looks like I should be able to log in via Steam and that might generate a Steam key...
+
+I'll try the minilauncher mechanism first, having spent all morning on it
+Last edited: Oct 29, 2024

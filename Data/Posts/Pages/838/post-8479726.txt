@@ -1,0 +1,10 @@
+Jorki Rasalas
+May 26, 2020
+#16,748
+alexzk said:
+Do you understand, that Gaia's map is NOT complete YET as for today ? https://www.esa.int/Science_Explora...tes_richest_star_map_of_our_Galaxy_and_beyond
+That one should give us proper 3d coords for closest stars ...so everything we could plot here - are projections and speculations for some degree, and once we have already 3D map inside Elite ...how can we relay on projections to Earth sky ? It MAY match 3D in game only for very close stars I think.
+Of course.
+Also much of the star data FD used is good on angular accuracy but less accurate on distance, as you’d expect. I think this is why the Broken Heart “Nebula” (IC1802 I vaguely recall) is located between NGC 7822 and the Heart Nebula, wheras in practice it should be located at the heart () of the Heart Neb. IRL it’s bright stars are creating the cavity at the centre of the Heart Neb. This was one of the factors that led me to investigate that area, that and the fact that Broken Heart is a great solution to the Parent’s Grief and Lover’s Woe. I also investigated Broken Heart Cluster, which is a long way in the opposite direction, towards Col70.
+Reactions:
+Machina Ergo Sum and PeteACarter

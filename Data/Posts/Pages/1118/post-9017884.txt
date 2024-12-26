@@ -1,0 +1,8 @@
+SpocksOddSocks
+Mar 24, 2021
+#22,356
+Jorki Rasalas said:
+Feasible, but I suspect more likely to be a stupid marketing decision by FD who probably hired at great expense a firm of marketing consultants who told them to have a standout brand they should use a memorable colour like bright orange for most of their marketing, logos, hud elements etc etc, and FD forgot to point out that many stars are bright orange, so are many planet surfaces, and pilots often can’t read those hud elements. Plus, it gives me a headache!
+I though I read somewhere it was due to orange being the optimal for reading on HUDs based on RL testing. However, in RL, most people utilising a heads up display aren't trying to read it against an orange background as often as we do in ED. You'd have thought with all the supposed magic going on in a cockpit, it would be possible for that stuff to change colour automatically depending on the situation.
+Reactions:
+clavain, Jorki Rasalas and simulacrae

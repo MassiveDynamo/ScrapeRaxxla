@@ -1,0 +1,19 @@
+[Diplomacy] Carnegie
+Aug 1, 2019
+#10,105
+bluecrash said:
+the ghost system for 1337 is somewhere between the left and right point... added video of search and bug here(if it is a bug) : https://drive.google.com/drive/folders/19U2JsxlOiq0XFqySHi73gqSIMxekZ4ye?usp=sharing
+
+It's a bug*
+
+Search for HD 119834, otherwise known as M Centauri (not to be confused with m Centauri, HD 116243) and you'll see the same behavior - you get taken to an empty patch of space with no star.
+
+* Of course, it could be a clue** Someone needs to cycle through ALL of the HD stars and identify those that show as blanks, then plot them on the GalMap to see if they form a giant arrow.
+
+** It's a bug
+
+Edit:
+Actually, now I think about it, it should be a spiral, not an arrow
+Last edited: Aug 1, 2019
+Reactions:
+[PS4] Filthymick420 and bluecrash

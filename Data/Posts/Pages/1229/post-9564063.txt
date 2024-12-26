@@ -1,0 +1,8 @@
+electro
+Oct 20, 2021
+#24,562
+electro said:
+Is there someone that have found a NPC character with a familyname of Ryder?
+I only found one engineer and the player faction (Ryders of the void)
+But my guess is that this is important.. could you all search your game logfiles which system Ryder family exists
+Found a pirate with the name Tom Ryder in Vaccae. But I dont know if the name Vaccae means something...

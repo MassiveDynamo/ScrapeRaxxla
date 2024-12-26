@@ -1,0 +1,17 @@
+selbie
+Aug 19, 2021
+#24,158
+CMDR Davanix said:
+Heres one i havnt seen mentioned as a theory yet, could the Raxxla logo represent Ring Topology in networking, if you read a description for ring topology it almost sounds like you are explaining how the FSD works
+
+FSD system to system jump through Ring Topology:
+
+In ring topology each device is connected with the two devices on either side of it. There are two dedicated point to point links a device has with the devices on the either side of it. This structure forms a ring thus it is known as ring topology. If a device wants to send data to another device then it sends the data in one direction, each device in ring topology has a repeater, if the received data is intended for other device then repeater forwards this data until the intended device receives it (Permit lock within fsd systems).
+
+
+Thargoid Interdiction described through Ring Topology ;-)
+
+Click to expand...
+That might actually be a good theory for what the Thargoid surface sites are for although there is no evidence that they communicate between each other.
+Reactions:
+[PS4] Filthymick420

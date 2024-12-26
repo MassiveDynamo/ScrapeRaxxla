@@ -1,0 +1,19 @@
+dezpe
+Apr 4, 2019
+#7,245
+yelboc said:
+Those annotations don't look right to me. I overlaid this from Stellarium, and Betelgeuse and Bellatrix should also be visible and are not... need to look again
+
+Click to expand...
+
+I am not so sure if using Stellarium helps. Stellarium shows us the view from Earth. If TDW station isn't really close to Earth, the stars will look different.
+
+My initial thoughts when looking at the main menu screen were:
+Star class from the system is a white one. I read that someone found out its probably "A".
+The station is an ORBIS one, orbiting an icy moon/planet.
+There is another planet/moon really close (too close actually for ingame but might be a hint regardless) in the foregroud with the SRV. This means either a binary moon constellation or really close orbits.
+Together with the info that it is thought to be "orbiting the 8th moon of an unnamed gas giant" I assumed this would help to narrow the possible systems down significantly. I furthermore assumed that the system is within 1000ly of the bubble due to the fact that early hyper-drives were not so potent, which means that there is a good chance the system was already scanned by someone.
+
+However, the image from the CODEX shows that the Dark Wheel Orbis station is in close proximity to a red star, which is a contradiction to the main menu. My feeling is that we should give the image in the CODEX more weight, as it was put in later and probably for a reason.
+Reactions:
+Dartay

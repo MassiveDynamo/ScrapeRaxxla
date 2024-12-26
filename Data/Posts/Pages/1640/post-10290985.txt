@@ -1,0 +1,14 @@
+TR
+Dec 28, 2023
+#32,781
+Edelgard von Rhein said:
+There's an odd system in the Lost Realms region that came to my attention through one of the racers scouting out unpopulated, atmosphereless moons within 75LY of Axis Mundi to land on for the race I am currently running. I was wondering if anyone here knows if this is a backer-named location, something related to one of the works of official fiction or something that might have been hand-crafted by Michael Brookes that has relevance to us.
+
+The system is CD-58 16.
+This system has no population but its description shows is to be an Imperial, Corporate system with an Extraction economy and Low Security. There is a single planet, named Suontaka, which has a moon, called S-One. Both are landable and have the usual surface POI but there are no settlements, installations, megaships, space stations or even belt clusters in the system. If you fly out to the planet you will find yourself in a shipping lane. The space-based POI I saw today were universally Degraded Emissions (Threat 0). There is another feature that is unique, to my knowledge: an orbital line about 50 Ls distant from the only star that only shows up in the FSS scanner but not on the HUD or orrery view. I flew a couple of orbits along this line, or as close as I could, but saw nothing like a point of light that would have suggested a body not showing on the scanner.
+Click to expand...
+Oooh...this is all very interesting! I'm fairly familiar with this system, as it's where I park my FC! But I'd never ever noticed that mystery orbit line...
+Once you are in the system, it is described as Anarchy. I've spent some time going round the space POI, and as you say, they all appear to be Degraded Emissions (Threat 0). Never found anything out of the ordinary in any of them. Likewise, never seen anything unusual on the surfaces of the planet or it's moon. My personal theory is that perhaps there was once a station here, destroyed under mysterious circumstances; the orbit line is where it was, and all the POI are debris from the station. I also suspect that it was a bit of backstory/plotline that never got implemented before the game's release.
+Now, it just so happens I have a stash of Ancient Keys and Trinkets of Hidden Fortune on the carrier. Just tried flying approximately where that orbit line is with one of each in the iEagle, nothing. But open to suggestions
+Reactions:
+Louis Calvert, CMDRCorrMorningstarFelian and Edelgard von Rhein

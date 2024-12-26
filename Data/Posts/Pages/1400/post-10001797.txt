@@ -1,0 +1,19 @@
+Rochester
+Nov 21, 2022
+#27,993
+cmdr_imonix said:
+I've found something peculiar, a what looks like disappearing orange binary and an small orange trianary (180 degrees behind the binary) on the background of stars, along with another 5 or 6 background stars that are inline with the binary - (?bug or something by design that I've not seen elsewhere in the game) in COL 359 Sector DA-Q D5-17. Both take turns to disappear as they are approached and the centre point between the two can be reached both in supercruise and in normal space. I've reproduced the stars here in this video, one of a series of 4 videos I've produced from different perspectives:
+
+- The tin foil started when I split the letters of RAXXLA into alternate Egyption and Greek alphabets. It's been said that there are no clues in the game, so the probability that the name RAXXLA could produce results is unlikely. However I found this system using alternate Hieroglyphics and Greek - For "RA" - Hieroglyphics R is a Vulture (Lyra), Greek A (Alpha), giving Alpha Lyrae (Vega). For "XX" - In Hieroglyphics, X is a Basket (Sagittarius in Chinese astronomy), in Greek X is Chi (Chi Sagittarii which consists of 3 stars x1, x2 and x3, all in an almost straight line cluster and just North of the 1977 discovery of the 'WOW' signal. For "LA" In Hieroglyphics, L is a Lion (Leo), Greek A (Alpha), giving Alpha Leonis (Regulus). Triangulating theses three systems, Vega, Regulus and specifically using star X2 of Chi Sagittarii (48 Chi Sagittarii in game), chosen as it was closest of the three Chi Sagittarii stars to the 1977 WoW signal discovery, I found that he centroid for those three systems is around COL 359 Sector DA-Q D5-17 - the subject of this video! Has anyone seen this happen before? The stars don't appear to correlate to any star systems on the galaxy map and are not related to the stargoids on FSS.
+Click to expand...
+Needs to be repeated by another to be verified in my opinion but off the cuff it looks more like a graphical or instance bug?
+
+Are you in the system which this anomaly occurs or in a different system?
+
+If your in a different system, then your in a different ‘instance’ so those stars ought to be presented within the flat 2D image of the galaxy, which forms around your visual background.
+
+If that’s the case it’s odd if they glitch in that way because they like all the other stars in the back drop are not actually there, it’s just a graphical illusion.
+
+If you’re in those system/s then they could glitch for some reason unknown? Needs replication to rule out. Report it to FD as a bug.
+Reactions:
+Jorki Rasalas, 3navis and Louis Calvert

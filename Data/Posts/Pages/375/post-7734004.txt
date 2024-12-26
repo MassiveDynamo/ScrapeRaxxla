@@ -1,0 +1,14 @@
+stg213
+Apr 15, 2019
+#7,497
+Edelgard von Rhein said:
+Thanks for the assistance! o7
+The jumps were made from Delphi to Merope, having the FSD fully charged and engaging boost at the last second whilst aligned for the jump. The Thargoid Probe shutdown pulse hits 10 seconds after the discovery scanner honk but the HUD shuts down earlier - but even with the HUD shut down you can boost and then jump after 9 seconds.
+.
+We also checked Thargoid Wakes but it is not possible to follow their trajectory, which looks suspiciously like they jump to Col 70 Sector, maybe even Col 70 Sector FY-N c21-3, although I would need to do further checks to verify that.
+
+I don't think the idea is bad, i am quite sure tbh that a 'misjump' is needed (and that this is how Raxxla was originally discovered also) but i don't think Thargoid Probes are the way. Remember this is supposed to be reachable by 'Day 0' means... at launch ED didn't have thargoid probes innit.
+
+My own tinfoil hypothesis is that there is still an old jump-gate around and that's the only way to 'misjump'. Problem is that jumpgate is most likely dark and quite probably right next to the DW dark station. So not something you can find randomly but rather part of some quest. I'm guessing that even finding the jumpgate will not let you use it unless you have some 'activation code' from TDW.
+
+Other ways to achieve a misjump might also be interesting to explore (damaged FSD maybe ?) although i don't have high hopes that it will work.

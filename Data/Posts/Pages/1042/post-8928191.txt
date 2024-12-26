@@ -1,0 +1,20 @@
+Jorki Rasalas
+Jan 31, 2021
+#20,832
+Djidjel said:
+All this reminds me of current efforts of astronomers all over the world toward finding the elusive "Planet nine" or "Planet X" which affects orbits of TNOs. I can't remember: were they were in ED from the very beginning or were they added later? Also, am I the only one that sees 6 ASP-X's facing out on this logo?
+
+Persephone is ED’s “planet 10”, and to my mind suspiciously brightly lit for something that’s so far from the sun. Han_Zen’s got a better memory than me, but I think originally only out to Pluto was implemented & then the TNOs (Pluto is actually the first TNO) were added later.
+
+Edit: mmm, Han_Zen must be out skiing. Found the patch note though:
+Oct 25 2016
+Elite Dangerous: The Guardians 2.2 update
+“...StellarForge
+- Added Persephone (Planet Nine), Haumea, Makemake, Eris, Orcus, 2002 MS4, Salacia, Quaoar, 2007 OR10 and Sedna to Sol....”
+
+Patch Notes - Update - Elite Dangerous: The Guardians 2.2 update
+Hi guys, The time has finally arrived! Today sees both the Elite Dangerous Horizons (2.2) update and the Elite Dangerous (1.7) update making its way to the live game. For those of you who haven't experienced a big milestone day, these updates can take several hours to install and make live...
+forums.frontier.co.uk
+Last edited: Feb 1, 2021
+Reactions:
+Han_Zen and Crimson Echo

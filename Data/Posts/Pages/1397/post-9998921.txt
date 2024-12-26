@@ -1,0 +1,34 @@
+SongOfTheVoid
+Nov 17, 2022
+#27,939
+Rochester said:
+Is this to do with the known bug due to duplication of stars?
+
+Where a name from a star catalog can be entered and it takes you to a non existent star? But really the ‘real star’ is just next door and uses an alternative name?
+
+I presume that’s due to use of duplicative star catalogs. That’s a known bug. We presume too there are ‘Dev’ systems / sectors only they can access for testing.
+
+From what you’ve highlighted identifies a specific set of intentional flags which enforce limits on certain ‘hidden’ stars, insinuating that they can be visited if you hit a certain gate?
+
+Not I presume gated because they are inserted by error, bugged or locked for devs?
+
+Not being a coder I wouldn’t want to presume the meaning, or source, please elaborate, is this in game code, are these ‘description’ in game and how were they found?
+
+Pics please?
+
+As if there is a gating method that really does throw the cat out of the box.
+
+This I find interesting because I was just discussing this theory. Originally certain missions were gated, you had to be Elite to see them; FD nerfed that cool idea, so that everyone could see and engage with them.
+
+It made me wonder if certain system missions were still intentionally gated, eg I’m not Elite so many of my theories are based on research, if there is a path and if it’s gated one would not be able to identify anything unless you hit certain requirements.
+
+Which is why we share data, some of us who are Dangerous or Rlite etc can stress test our nonsense and visa vera.
+Click to expand...
+The vast majority of them are clearly from the "Tidyup" phase after galaxy generation which from appearances occured in the following order:
+Form Galaxy and distribute matter, Add Darkmatter and recalculate distribution and streams, add additional stars from HIP and other indexes and papers, Remove duplicates from last step, Apply max-hidden flag status to confirmed 'blocked to client-server access' systems, Apply soft-hidden flag status to special imported list.
+Gating is 100% still in use though ive no idea regarding rankings or the like Human stuff/Lore/puzzles has no interest for me though I can confirm for you that the game is using a "Content X requires PlayerID-YourID to have triggered/obtained 'ServerFlag-Event' before the Server will honour/reply to requests for interacting with that content."...
+You should also notice the difference in grading between the hidden systems as Im sure everyone yourd ever seen before would at least tell you the systems StarType and information, ones that are max level hidden will even hide that from you and will merely show the loading information placeholder, that right there from a ex-Devs point of view is what we call the smoking gun of the gating system as the systems "You must have Server Flag xxxx to interact with this object" kicks in even on the galaxymap level... that is therefore very very specific to its function. Ie> This is why when you select a Perm locked system itll show a flag on the information for it being perm locked, but once you have the permit you wont get the same information screen on galmap as, even on the galmap level your Server-Flags (Which is what Permits are) get checked.
+Spoilers: Every "I Will map every star in X ly radius of Sol" project so far is doomed at the start as there are several hundred soft and hard hidden systems in that region alone So If they do not KNOW 'EXACTLY' what they are looking for, theyll never find it
+Last edited: Nov 17, 2022
+Reactions:
+Suhurrat and Rochester

@@ -1,0 +1,17 @@
+Jorki Rasalas
+Oct 29, 2024
+#35,149
+OK
+I've googled this slow download problem and people have been complaining about it since 2015!
+Come on FD, surely you've made enough profits to be able to buy a faster internet connection & server!
+
+I've now installed the mini-ED launcher and will see how that goes on Thursday. Apparently it caches the download files in the Windows cache area (on my ssd!) before installing so should be much faster (crossed fingers!!)
+link: https://github.com/rfvgyhn/min-ed-launcher
+
+edit
+I found the instructions a bit confusing...when you add the "/frontier profile-name" argument to the minilauncher's shortcut Target properties you actually need to add " /frontier "+"your own made up name for this"
+e.g. " /frontier Jorki" (without the quotes!)
+the first time when you run the shortcut you're prompted to insert your Frontier login email address and then prompted for your login password, FD will then email you a logon confirmation code, enter that and the minilauncher then sets up a login ".frontier-jorki.cred" credential file on your PC so you only need to do this once on setup. You can set up multiple shortcuts to the minilauncher for multiple commander accounts.
+Last edited: Oct 29, 2024
+Reactions:
+Rochester

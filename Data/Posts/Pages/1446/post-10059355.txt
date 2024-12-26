@@ -1,0 +1,10 @@
+CMDRCorrMorningstarFelian
+Jan 14, 2023
+#28,905
+This is something someone noticed in their screenshot collection and posted to Independent Raxxla Hunters discord (believe it was possibly CMDR CrazyGolm based on display name on Discord):
+
+
+
+If our ships are uploading telemetry and Hyperspace route plotting it would appear Faraway may not have gone away (Faraway had external configuration of jumps).
+Reactions:
+Louis Calvert and John Stoutbeard

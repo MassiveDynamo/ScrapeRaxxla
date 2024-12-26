@@ -1,0 +1,48 @@
+Edelgard von Rhein
+E
+Jul 25, 2019
+#9,789
+Scytale said:
+Well.. It's just my own humble opinion based on rational statements, Pa !
+As ED is becoming more and more arcade-ish, maybe TDW station can very well be detected in SC when you approach it or even when launching the FSS as soon as you enter its system as an "unknown contact" of sorts (and soon even still docked at Eravate with the incoming Extended FSS ! Cool !).
+Would just be.. "FD-esque". The legendary TDW home base,supposedly in silent running, as easily detectable as any other space debris. LoL !
+
+I think it is supposed to be very hard to find. But certainly "findable", because of the 8th moon clue thing. Or just a new FD's carrot?
+Now, who finds it will provoke a major turn in the ED general story line. Almost as huge as finding Raxxla.
+Nothing will be the same like before.
+Click to expand...
+I think there is an analogy here with the Engineers.
+
+Imagine if there was an unknown Engineer, whose unlock requirements were unknown, but whose base the Codex told you was on a station in low power mode around the 8th moon of a gas giant.
+
+You could search for gas giants with eight or more moons near the bubble and map the eighth moon in the hope of finding the base. With crowdsourcing and time, you would eventually find it, unless it was permit-locked. Without the invitation, you would not be able to dock and, just like the other Engineers, if you get too close without an invite, you get shot at. You can survey the base and take a rebuy or two but you need to dock to progress. Worse - if the location becomes known, TDW might move out (or jump the station - Jaques might not be the only one with a movable station!) as there are probably a few people who would be interested in disposing of them!
+
+The way to find and use that Engineer would be to find the unlock requirements, triggering the invite. This assumes that invites are not dealt out personally by a GM. When you have as many CMDRs as there are here, there ought to be some idea as to the conditions.
+
+The Codex gives only the hint of 'a handful of the bravest and most competent pilots of each generation', adding that there is a task that must be completed in addition: 'a suitable test of courage and skill'.
+
+So what is measured in-game that can be used to distinguish between the 'bravest and most competent pilots of each generation' and the rest?
+Furthermore, once those conditions are met, there must be a 'suitable test of courage and skill' that must be passed.
+Only once both of these happen, is an invite forthcoming.
+
+Currently, no one appears to have been invited. It is less clear whether or not anyone has met the conditions, or been given the test.
+
+Therefore, it is worth collecting the characteristics of those searching to see if there is some statistic or measurement that the game records but which none of us have (triple Elite by itself is clearly not enough).
+
+Secondly, it is worth keeping an eye open for possible tests. Currently, I think the Tip--off system is one mechanism that could be used to set a discreet test, however I have found them hit and miss and too similar in their objectives: they do not all meet the 'suitable test of courage and skill' (my emphasis), rather how to infiltrate a base or scan a crashed ship. What exactly are they testing for? It certainly need not mean blowing up lots of skimmers or transporting biowaste. Perhaps we should be alert for unusual missions and, if anyone finds something, we need to see what characteristics those CMDRs have, to see if they meet conditions that the rest of us do not.
+
+Again, I'm assuming that the invite is issued algorithmically, not by hand. There are arguments for both. I don't want that debate to detract from the effort to find the conditions.
+
+My own statistics that could potentially (though these are of course open to discussion) have relevance:
+ranks: Triple Elite (since Dec 3304)
+superpowers ranks: Admiral, Duke
+superpower reputation: friendly with all.
+Engineers: all grade 5 except Etienne Dorn (not given him any occupied escape pods)
+outstanding fines and bounties: none
+max distance from start: 65222 LY
+total distance travelled: ~2.4 MLY
+systems visited: 71K (from ~93K jumps)
+to add: combat and trade stats not yet recorded with screenshot
+trade profit: ~979 MCr
+Reactions:
+Xaintly, yelboc, RaNaketh and 1 other person

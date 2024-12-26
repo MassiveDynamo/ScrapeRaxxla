@@ -1,0 +1,15 @@
+yelboc
+Aug 7, 2019
+#10,327
+Vasquess said:
+I think I understand your ideas. But I only wanted to make a little joke. I'm a software engineer myself and from the UML/MOF thingies I like the distinnction between model, meta-model and meta-meta-model which in the end will bring you to the question: When there are so many models, shouldn't there also be an original? I.e. most things one stores in a computer is an abstract model of something real. And a real galaxy, the thing you really can touch, cannot be stored in a computer. Anything in a computer about a galaxy simply is by nature a model of that galaxy. - I'm not talking about a specific layer of a specific software architecture style.
+
+By the way: Considering the power of "Proc. Gen." I don't think that another galaxy will need much ressources in whatever cloud. But I would recommend reading the explanations of the axe wielding penguin - or alternatively there was a live stream from FDev on YT where someone explained stellar forge in depth.
+
+Source: https://www.youtube.com/watch?v=iTBvpd3_Vqk
+
+
+edit: ((excuse my windows 10 has cut and paste disease))
+Source: https://www.youtube.com/watch?v=ACGSzBXKONo
+Reactions:
+PeteACarter

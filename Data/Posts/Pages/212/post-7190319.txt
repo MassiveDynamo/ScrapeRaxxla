@@ -1,0 +1,7 @@
+Han_Zen
+Nov 20, 2018
+#4,226
+CMDR Poet Starwind said:
+I found a bug in beta, a persistent signal source with no matching frequency. Flew out to a distance that would make a Hutton Trucker blush, and still it loomed in the distance. It persisted through closing to main menu, complete shutdown, and logging back in 12 hours later.
+
+I've seen this. It's a 180° reflection of another signal source. If you resolve all the signal sources behind you, it will disappear.

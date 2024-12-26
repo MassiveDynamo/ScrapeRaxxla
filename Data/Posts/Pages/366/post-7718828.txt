@@ -1,0 +1,12 @@
+AegisXOR
+A
+Apr 6, 2019
+#7,305
+Not exactly. Further reading here and here, but TL;DR to define a coordinate in the sky from Earth you use celestial coordinates, which have three components: A time component (the "epoch") because stuff moves a lot; and two space components, "right ascension" and "declination", which are sort of the same idea as longitude and latitude.
+
+Right ascension and declination are angular measurements so they are expressed with hours, minutes, and seconds. So you have six components. And if you just use a letter-number cipher on "RAXXLA" (a=1 b=2 c=3 etc) you can interpret the resulting six numbers as celestial coordinates. Right ascension 18h 1' 24", declination (±) 24 12 1.
+
+UPDATE: I'm having trouble locating this entire region of stars. "2MASS J18" turns up an area in 1802, but the sign is wrong. "2MASS J19" turns up a region with the correct sign. But any 2MASS J1801 stars are conspicuously missing.
+Last edited: Apr 6, 2019
+Reactions:
+Six6VI

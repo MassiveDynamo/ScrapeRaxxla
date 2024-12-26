@@ -1,0 +1,24 @@
+JT442
+Sep 24, 2020
+#19,057
+Jorki Rasalas said:
+A thought occurred that TDW’s stealthy station might be the same in-game as in the AHTWheel story (though as Simalucrae pointed out TDW/=CIEP; but then, since FD retconned the lore, who knows?). See my last post for AHTW extract that describes the system it’s in. Hence the proposed search on EDSM known systems near Sol/Achenar with an M type single star & a blue-green gas giant. Since the CIeP station has Imp-standard gravity, and the first mention of Raxxla was quite close to founding of Achenar, I’m inferring it might mean the station is nearer to Achenar than Sol and might explain the link between Raxxla/TDW/stealth station.
+
+Suspect the only way to do what you want is to download EDSM data and do your own search on the JSON-formatted file (beyond my software skills!), but it’s very large, much too large for Excel (& I no longer have even that thanks to MS’ “update” process).
+
+ay up, lad..
+
+We already did that last year.. The issue with AHTW, is that it was written before ED was finished, so things like the dark systems don't exist, and the system description doesn't match exactly. The location is reasonably good, but leaves plot holes.
+
+The JSON search of all 8th moons within 500ly of sol is being done by the Great Raxxla Potato Hunt group and is about 1/4 done I think....
+
+Dark Wheel Station Investigation -
+clean DW Station
+docs.google.com
+
+Soontil Investigation
+Is Soontill Soontill
+docs.google.com
+Last edited: Sep 24, 2020
+Reactions:
+Dr. Lexus, Fiera, CMDR Temunjin Boras and 2 others

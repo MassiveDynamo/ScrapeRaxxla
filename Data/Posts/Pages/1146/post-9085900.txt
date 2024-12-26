@@ -1,0 +1,9 @@
+alexzk
+A
+Apr 13, 2021
+#22,901
+Koben said:
+Every asteroid "belt" I have visited so far contains about half-a-dozen rocks... which is quite diferent from a asteroid "ring" in which you shall find an "endless sea" of rocks.
+Yes, my point is it exception rather common case. I.e. common belt is "sparse" = invisible = absent in game. However Sol had to have 1 such. So instead doing deep engine changes they did trick with Sun, so belt looks like sparse but not sparse in fact because engine do not support such present.
+Reactions:
+[PS4] Filthymick420

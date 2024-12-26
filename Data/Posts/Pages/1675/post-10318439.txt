@@ -1,0 +1,9 @@
+varonica
+Feb 22, 2024
+#33,496
+ajg007 said:
+Thank you, it's more informative than you realise.
+
+Yeah all distances in game are usually given to the full ls or .5ls distance, to stars etc, but the journal actually records that distance more accurately, for instance it will say 181.496667ls from arrival for a planet whereas in game it would be 181.5ls, so rounding will produce less than accurate distances if you are trying to do it to any sort of precision in game.
+Reactions:
+Han_Zen

@@ -1,0 +1,43 @@
+Rochester
+May 10, 2024
+#34,030
+Doctor Dread said:
+I'm simply suggesting that someone who knows how to do it - I don't know how - unpack the original 1984 BBC or the first Commodore 64 version of Elite (a single file named ELITE-E.D64) into whatever was used before compressing. There should be easy to find Raxxla in hex, a line or two. I can do that search.
+
+It was there, in the original 1984-85 versions for various computers. Ian Bell confirmed it, saying it's gone from the later versions. "I don't know. The missions vary across the platforms. There is no Raxxla functionality in the 6502 versions AFAICR."
+
+There's the origin, plain and simple. Might give an important clue. Maybe, just maybe, DB played the oldest trick in the book - sending researchers all over Galaxy, while leaving Raxxxla-whatever-it-is somewhere in the starting core systems (Lave, Leesti, Riedquat etc) as a trick, something to be activated and summoned. There, in that starting micro-bubble from 1984.
+Click to expand...
+
+No thats not what IB nor DB stated.
+
+IB in the text you allude to does not ‘affirm’ its existence, he simply is stating the obvious, it wasn’t in any of the code and that there were various iterations of the game, which he didn’t port, the title was marketed by the publisher.
+
+DB similarly affirmed it wasn’t, in an 80s magazine (below).
+
+Raxxla was never part of the game officially. It was purely an invention of Robert Holdstock who wrote the accompanying book. That book was not what we now call canon, it was his work, IB and DB did not tell him what to do, other than ‘show him’ the game.
+
+Much of how Raxxla is described is in fitting with RH previous work. He is like many authors contextually repurposing his lore for that text, developing it.
+
+Technically Raxxla never appeared in game officially until Elite Dangerous. Technically never until the Codex.
+
+Here is IB statement:
+
+“What secrets can be found in eight bit Elite versions? What are difference between them and does in any of these exist a planet named Raxxla?”
+
+“I don't know. The missions vary across the platforms. There is no Raxxla functionality in the 6502 versions as far as I can recall.”
+
+Here’s DB statement:
+
+“A couple of years ago, when there on speccy scene was so much hype about Elite, some magazines wrote - there in game Elite is secret planet Raxxla. Is it true?”
+
+“[!] No.”
+
+Recollection
+
+Many of us old enough have known this to be the case for some time. In so much, that such a context probably did bias many into not believing it initially wasn’t in the ED game either.
+
+Maybe this ought to be included on page one? Probably is, can’t recall…
+Last edited: May 10, 2024
+Reactions:
+Louis Calvert, Macros Black and Jorki Rasalas

@@ -1,0 +1,4 @@
+Chorda
+Mar 5, 2022
+#25,537
+Anyone successfully activated the thargoid map room recently? I've tried twice and it crashed each time, after placing the sensor and link. Haven't lost the probe yet, thankfully, but this is still pretty annoying.

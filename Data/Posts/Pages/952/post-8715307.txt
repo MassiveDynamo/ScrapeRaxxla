@@ -1,0 +1,11 @@
+Q Hung
+Q
+Sep 23, 2020
+#19,034
+I forced it to quit upon reaching 50GB memory usage, much of it compressed into the available 32GB physical space.
+
+
+
+Q
+Reactions:
+Jorki Rasalas, Han_Zen and [PS4] Filthymick420

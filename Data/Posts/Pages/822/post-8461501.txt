@@ -1,0 +1,22 @@
+Crimson Echo
+May 15, 2020
+#16,425
+Some thoughts after DW's Raxxla Lore Tour 2020 stream:
+
+The discovery of the relic on mars is conspicuously just a handful of years prior to confirmed (in the codex) knowledge of Raxxla as a legend. If the relic was some sort of data storage device it could have simply contained references to raxxla (possible precursor hub/homeworld), and would help explain how we finally licked Hyperspace travel not to long after finding the relic. The legend may have started as a result of leaks related to the relic.( I would liken it in some ways to a far future civilization finding the equivalent of of a harddrive and the golden record that had partially degraded over time, but which contained a reference to a place called earth etc.)
+
+The finding of raxxla by the elites may not have occurred until much closer to the modern (3000-3300) era. Presumably after the founding of the Pilots federation, and before the dark wheel novella/original game. Thus a ~300 Ly search zone around sol is probably very conservative, and 1000+ LY is possibly more reasonable. I do not see Fdev as likely to make the problem of raxxla something that could reasonably be brute forced or stumbled upon randomly. Some sort of crib or insight/perspective is needed to make the problem tractable.
+
+
+MB was involved with tailoring at least some aspects of the galaxy in addition to doing the pure lore stuff, but it may not be entirely separate...
+System Name: GEN# +2.12450534
+It's a weird name for a system, right? But it exists in NGC 1245, a line of stars below the galactic disk currently out of reach. It also appears to be a one-of-a-kind so far: type in GEN into the Galmap search and GEN# +2.12450534 should be the first system it takes you to. From then on it...
+forums.frontier.co.uk
+
+The galaxy map is rather odd in what was added (the entire PSR catalog does not appear to have been added, but some stars way below the galaxy were included. Some of these PSR systems are searchable, but do not display as selectable when searched (they disappear virtually instantly, but are visible as the camera moves).) What can and can not be search for seems to have odd rules. Partial searches (of more than 3 characters) some times work, and in other cases do not. There are often may ways to cross reference or search for systems. Some of the system aliases are more telling than others.
+
+The galaxy map is capable or making lies of omission. (one example are star systems in an x-ray source catalog that apparently only contains a single main sequence star. The x-ray source (black hole/neutron star) has been omitted in the galaxy map info) There are systems relatively close to sol that seemingly do not show the correct info until the system is visited and scanned by each individual cmdr.)
+
+The fact that the galaxy map has been hardened, and how it has been hardened may be a clue... maybe even a tiny bit obvious. More so if raxxla orbits some sort of exotic (or other special) star that does not fit those typically listed in the galaxy map. Using the info in known star catalogs (via simbad etc) for neutrons/black holes in the appropriate mass ranges (apparently ~2 to 5 solar masses?) may be a viable way to look for anomalies in the galaxy map data, and possible hidden/obfuscated exotic star/ raxxla candidates. So far i have resisted the temptation to write scripts to try and brute force info out of the galaxy map (Voice attack + video recording +ocr etc would likely be viable but probably frowned upon by Fdev). Just by looking manually i have enough candidates/odd things to look into than i have time to explore. Others may see other things, and a focused group effort will likely be needed to tackle everything...
+Reactions:
+PeteACarter, Machina Ergo Sum, Vetinari and 5 others

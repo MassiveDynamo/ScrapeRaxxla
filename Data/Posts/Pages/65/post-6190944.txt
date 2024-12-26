@@ -1,0 +1,27 @@
+Evoflash
+Dec 6, 2017
+#1,295
+I don't think "Obfuscated by The Outer Rim" is a play on the phrase The Outer Rim like a cryptic crossword clue.
+
+I put all of the system names in to an excel sheet (all 8661 of them which I found here: https://cim.sotl.org.uk/elite-dangerous/ )
+
+I removed the spaces and then filtered for systems with 11 characters as per "The Outer Rim".
+
+I searched for anagrams of "The Outer Rim"
+
+No matches
+
+I searched for anagrams of "Outer Rim"
+
+No matches
+
+I then searched for names where characters 3 and 7 were the same, and characters 8 and 9 were the same - maybe a cypher.
+
+No matches.
+
+I then tried the same with just "Outer Rim" and the matching R's. 11 systems meet this criteria however there's no further pattern I can see that links the remaining letters to an type of cypher shift.
+
+No matches.
+
+Reactions:
+madbilly, Cmdr Shijima and rOmiLaYu

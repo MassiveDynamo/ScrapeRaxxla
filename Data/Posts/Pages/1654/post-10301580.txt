@@ -1,0 +1,14 @@
+Mecrutio
+M
+Jan 21, 2024
+#33,073
+Pyroboros said:
+Did a similar experiment in Aug. 2020
+From STUEMEAE JM-W C1-5825 several hour Supercruise in a straight line, but no change from where to where the signal was detectable.
+Also a 16 hour Session from STUEMEAE KM-W C1-7529 same result. Turned ~90° and another hour no change.
+That close to the source it should have a noticeable Parallax. Had done more Systems with shorter Sessions due to the realization that Parallax should be a thing that close. But no System had shown any sings of Parallax. If i remember correctly i may have never tried a System in a different Boxel like JUENAE. Hope you have better luck.
+Thank you for that. At the moment I'm 2.65ly from Juemae WC-E C1-437. At this point, I have intersected the line between Stuemeae JM-W C1-5825 and Juenae UY-J A8-49 with no change in course. I've started to stop every .10ly now as discouragement is grabbing my heart. The intersection is important as it is defined geometry to reference to. Meaning that after I exhaust the fuel tank (leaving enough to get back to Exp. Anchorage for repairs) I'll head back to Stuemeae JM-W C1-5825 and orient to the signal. My known path will have a defined vector in the galactic map and having a new course, I suspect this new course will intersect the traveled path. This will prove my theory of starting from the system that the L. signal is tied to. Should this be the case, which I believe it is, The next step is to travel from nearby systems and intersect known travel paths and find what system this signal is tied to. I'll know when I pass a traveled path by using the distance from the starting star.
+One thing of note is that I am around 8ly from CMDR Seventh_Circles defined origin. This contradicts the CMDRs claim of it being .07ly accurate. I'm not saying its wrong, just why is there such a discrepancy? Universal spin with speed of sound accounted for? Sag A's gravitational pull distorting sound? I dunno, only I admit I am quick like rock, sharp like marble.
+There is also the very real issue that this may be just a game sound that needed to originate from somewhere with no meaning.
+Reactions:
+CMDRCorrMorningstarFelian, Quaero, adventurer8612 and 1 other person

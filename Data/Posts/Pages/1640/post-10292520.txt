@@ -1,0 +1,67 @@
+Louis Calvert
+Dec 31, 2023
+#32,799
+Follow up to my previous post investigating the Landscape Signal.
+
+Right folks. I want you all to get a brand new piece of tinfoil from your Pilot's Federation official tinfoil container. Make sure there's no holes in it. Do not re-use an old piece! Fashion it into a sturdy new hat, it's advised that you use two layers for extra protection.
+
+
+
+I believe the Landscape Signal might be a (partial) map.
+READ THIS TLDR: I've drawn lines over a composite of dozens of recordings of the Landcape Signal taken from many different locations and under many different conditions (total of about 10 hour of recordings). I've picked out the details that occur in the majority of spectrograms. This is, at best, an interpretation of what I'm pretty sure is actually there - but I can't say for sure that I've got this right. I encourage you ALL to do this for yourself. All the software I used is completely free and the rest of this post details the methods I used. Please, please do test this yourself. The below is a work in progress:
+
+
+
+There's an alternative which is representative of what's there, but I'm not sure if the additional pillars in the image below are part of the 'landscape image', or are part of the signal coding since similar 'pillars' also appear later in blank areas in the same configuration (still investigating).
+
+SPOILER: ADDITIONAL PILLARS
+
+I have compressed the following within Spoilers to keep the physical post short.
+What are you looking at here?
+SPOILER: EXPLANATION OF THE RAW IMAGE
+
+
+
+
+
+How did I get this image?
+SPOILER: EXPLANATION OF THE PROCESS TO CREATE THIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So what is it? (My speculation on what this shows)
+I think it's an image of the "Omphalos Rift" on the surface of a planet. I think the 'towers' are the 'gate', the valley between the two mountains is the 'rift', as in, rift valley.
+
+I do not know why the left and right channels seem to be different. Most notably there's that very weird thing in the top left corner. It appears regularly enough that I'm sure it's there, but it's incredibly hard to see properly, what you see in the image is my current best interpretation, and yes, it seems to be different between left and right. It's possible the difference is just an artefact of the spectrogram processing.
+
+
+
+I believe that the signal is incomplete
+This is 11 seconds out of 100-ish seconds of signal. There are traces of other shapes in there but I wanted to get this out here and get feedback on it while I'm working on the rest.
+
+My hope/guess is that the Landscape Signal is essentially a fragmented treasure map.
+
+I wonder if there is more audio that can be found in more specific locations which we can use to 'fill in the blanks' in the Landscape Signal? Much like piecing together a map that's been torn into bits. The key is that the Landscape Signal can only be detected in realspace - how many of us have sat in solar systems in real-space and recorded audio? How many systems? how many planets? I bet not many. Most explorers stay in supercruise most of the time (any why not!)
+
+I believe that the key to solving Raxxla is to find additional unique audio in realspace that we can combine with the Landscape Signal to create a full map. I think that's what the Raxxla Logo shows. Possibly even recording the audio while looking towards the Landscape Signal source, which will fill in the blank sections... something like that.
+
+That's all I've got for now. As I said, work in progress, just wanted to share this with you all Happy New Year!
+
+(Please do test this yourselves, I'm very frequently wrong!!! The Landscape Signal is pretty much the same when recording in Sol as it is here right next to the apparent source, so everyone, everywhere in the Galaxy can do this if you want.)
+Reactions:
+D7, Planewalker, Philip Coutts and 3 others

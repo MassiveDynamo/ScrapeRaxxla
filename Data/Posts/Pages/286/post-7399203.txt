@@ -1,0 +1,16 @@
+ccommander81
+C
+Feb 4, 2019
+#5,718
+Cmdr RootBeer said:
+Howdy Cmdrs,
+I've been deeply reading this thread the past two weeks, taking in everyone's thoughts and views on the subtle breadcrumbs we have been left to sniff in the hunt for Raxxla. I have noticed when searching in the Galmap for star names from the internet that sometimes it doesn't find the star. Does anyone know how to find the star you want to visit but it doesnt have the same name in game?
+
+Many Thanks.
+
+Identifiers from different Star Cartalogues are used in Elite Dangerous (e.g. HIP, HD, HR, UBV etc.). You may search for different Identifiers of a star by SIMBAD Astronomical Database.
+
+http://simbad.u-strasbg.fr/simbad/
+
+E.g. if you are looking for zeta cassiopaie http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=zeta+cassiopeiae&submit=SIMBAD+search
+you will see that for example its Identifier at the HIP -Catalogue is: HIP 2920

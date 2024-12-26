@@ -1,0 +1,31 @@
+Pyroboros
+Aug 20, 2022
+#26,731
+Still works: #1 Solution in GalMap -> Bookmark it.
+If u select ta System outside the Bounds via Bookmark the cursor does not snap back in to the bounds.
+I think HIP 57951 was the first System found been outside the bounds. (at least its the first i heard of)
+
+here is a list of the System i have as BMs
+HIP 57951
+HIP 60952
+HD 10446
+PSR J0024-7204E
+PSR J0024-7204H
+PSR J0024-7204I
+PSR J0024-7204O
+PSR J0024-7204P
+PSR J0024-7204Q
+PSR J0024-7204R
+PSR J0024-7204S
+PSR J0024-7204T
+PSR J0024-7204U
+PSR J0024-7204V and PSR J0024-7204W is the Same Sys
+PSR J0024-7204X and PSR J0024-7204Y Same System but father away from the Cluster
+PSR J1518+0204B
+PSR J1518+0204C
+PSR J1543+0929
+PSR J1641+3627B
+PSR 2140-2310A
+PSR J2140-2310B
+Reactions:
+Ataxia

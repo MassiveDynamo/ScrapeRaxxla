@@ -1,0 +1,10 @@
+Thatchinho
+Apr 3, 2019
+#7,204
+Yshido said:
+Thanks for the answer. I havent even thought about "reverse engineering using a hexeditor". I was more curious about the idea to translate the messages, or parts of the messages into HexCode. Maybe you find something interesting. I did it on my own but i am missing the knowledge to see anything in particular.
+
+Cheers
+Ah, ok, I see. If I'm following you correctly you're talking about an additional message concealed in the text of the logs. Not aware of anyone looking for that kind of stuff. @anyone else?
+
+Oh, and just for the avoidance of doubt, I was suggesting that you were talking about using an actual hexeditor. (It just wasn't clear what you actually meant. )

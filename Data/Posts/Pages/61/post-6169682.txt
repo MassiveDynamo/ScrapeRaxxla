@@ -1,0 +1,12 @@
+MrMatt-V
+M
+Nov 28, 2017
+#1,207
+JulesD said:
+difficult to tell, as not enough reference points. I experimented for over 30 mins trying to get close. You get within about 15Mm then stick there. increasing throttle gets you closer but then you stick again, repeat until about 6.6Mm away then can't get any nearer. My ship will not allow me to increase throttle any more once at minimum distance.
+
+Exactly what I experienced. If you go far enough away and come in at full throttle, then make an emergency stop, you can get close, but it immediately pushes you out again. Interestingly, in the attempts I made it never seemed consistent how quickly I'd get pushed away (sometimes almost straight back to 22Mm, once hanging on at 0.10Mm for a few seconds before crawling back).
+
+Whatever angle you take, and whether you're in supercruise or not, you seem to run into the same distance-blocking bump. That suggests to me that it's not something like a fast-moving object we're not keeping up with, but something else. Question is, is this working as intended, or is it a bug? Does anyone know of anything else happening like this?
+Reactions:
+madbilly

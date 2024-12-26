@@ -1,0 +1,38 @@
+ironshirt
+I
+Sep 19, 2020
+#18,987
+PeteACarter said:
+Trying to think....Where does A Friend appear, other than the letter from our beneficiary?
+
+I think there are a few tip off missions that are from A Friend (most are mysterious strangers)
+
+Is there anywhere else?
+
+As a side note - it would be a nice little twist if it was a bit of a double bluff and it turns out there is a character in TDW called Alex Friend
+
+ironshirt said:
+I know of another occasion when the friend contacts us.
+Usually i don't do a lot of combat but back in January (2019) I completed a lot of 'kill pirate' missions in one system in order to gain combat elite rank (unfortunately can't remember where exactly, but it was no special faction like DW or similar). Killed hundreds of pirates of one anarchy faction which made me a hostile commander to them. I completed even more kill pirate missions and suddenly got a message from the hostile faction. They told me that its enough and that they start sending out agents to hunt me down. Soon after that another message appeared, from our 'friend' , who told me how I could get rid of those agents. Had to scan something on a planetary outpost nearby (something common like generator or turret or similar, but again cannot remember exactly). After the scan the agents disappeared....
+
+Meanwhile I found out where this happened and which faction were involved. I really was eager to reinvestigate this experience as I think there is/was more to it, and spent weeks on trying to replicate it - but just with moderate success. I was able to trigger the message from the anarchy faction, but the message from "a friend" did not appear afterwards.
+The reason for this (I can think of) may be one of the following:
+
+I was in supercruise last time (1,5 years ago) and in normal space this time (in an asteroid belt) when the message appeared .
+ED may have changed this in the meantime (perhaps reserved for Odyssey)
+Could be a bug
+Last time I played on Win 7 and this time on Linux. Pirates and also other targets simply do not spawn sometimes. Network seems to not work correctly according to some WINE error messages and neither manual port forwarding, nor UPNP port forwarding works. I can imagine this prevents triggering the special message (client/server communication error)
+
+I spent hours per day and earned nearly 3 billion credits, just by killing pirates in the process. Last year it wasn't even one billion ... and the messages appeared.
+Stopped playing weeks ago. Not knowing whether this game mechanic still exists, or if it is a bug which prevents those messages (which also is very likely), or my OS, or whatever reason, drives me crazy. I would so much appreciate if FDEV could confirm if this is still in game (a simple yes or no would be completely fine), because right now it feels like I wasted my time on this - but I guess this won't happen.
+filing a bug report makes no sense in this case, as I'm using a not supported OS. But installing Windows on my computer is not gonna happen on my side.
+
+However, here is the message that I was able to trigger (in german language) from the anarchy faction.
+Last year the message from "a friend" , who maybe Alex friend, as someone in this thread suggested, appeared immediately afterwards. But not this time
+Oh, and the targeted ship is one of their agents.
+
+
+SPOILER: TRANSLATION
+Last edited: Sep 19, 2020
+Reactions:
+Macros Black, PeteACarter, Jorki Rasalas and 4 others

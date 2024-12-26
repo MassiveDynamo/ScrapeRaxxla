@@ -1,0 +1,21 @@
+Comandante
+Apr 7, 2018
+#2,091
+Agony_Aunt said:
+That is total range without refuelling. It still requires multiple jumps.
+
+You can also go a lot further if you use economical jumps. That calculation assumes max range jumps which are not very fuel efficient.
+
+As for it being in range of a stock Cobra Mk3, well, you could still travel a long way in one. Even assuming 1.0 modules Beagle Point or thereabouts is technically speaking in range.
+
+What i prefer to think about is the old FSDs which took a week to make a long jump and the 1 year decay on the drive system.
+
+Bearing in mind people went to Raxxla and returned in their own lifetimes, then the far side of the galaxy is unlikely, and if we accept the 1 year need to repair the jumpdrive, then its not more than half a year away.
+
+If we take a Frontier CM3 with a size 3 drive it has a 27LY range. Let's say 25LY average jumps, and 26 jumps (half a year), and that would mean Raxxla is within 650 LY of the old systems. Which fits with my pet theory that many people have been to the system where it exists and that its either well hidden or very far out from the sun.
+
+Thanks Agony Aunt, that makes sense now.
+
+Perhaps the hint that it can be discovered using a MkIII implies that it is much closer to the bubble than we think - and is a theory many here (including myself) believe. I remember the early days (was it alpha or beta pre-release?) of eye-balling systems for planets/bodies before the introduction of the discovery scanner. Like many, I have the sneaking suspicion that it's out there, we just need to spot it. Perhaps I am wrong though, but it just wouldn't make sense to place it randomly somewhere in the galaxy.
+
+If they've stuck to the lore, then your approximation of being well within 1K Ly of the bubble makes sense.

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Dec 16, 2021
+#24,978
+weird!
+Flew for 30 minutes just before lunch, then a visitor so logged out to desktop. Now loader is giving me "error 403 client out of date", even though I spent an hour Tuesday updating both EDO and Horizons, and there is no update option shown.
+
+edit. Looks like another update today. Rebooted PC, opened launcher, still not getting an update game option!
+Launcher "Server Status" still shows OK & green!! Methinks it is fibbing!!
+Last edited: Dec 16, 2021

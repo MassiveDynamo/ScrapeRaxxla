@@ -1,0 +1,41 @@
+GURU-951
+Aug 21, 2020
+#18,490
+Emperor said:
+Nice video....
+
+I did a quick trip over to the systems you covered....
+Firstly Pink Floyd video - very apt! ;-)
+I couldn't replicate the human signal at ADS 10329 B5... it was my first visit to the system, lots of degraded emissions and pirates at the asteroid belts but nothing weird for me...
+ADS 4229 ABC / PMSC 05322+3026 is truly weird being separate systems and yet in the same system (I searched for the PMSC system and jumped to it and whilst the ADS system appears as a separate system in nav, you can fly to it and if you try and jump to it, it says destination is obstructed)..... 26 AURIGAE D is also a bit weird as the icy planets don't show up when you scan the system using the field spectral analysis to discover them (I'm guessing because they are tiny by the looks of it, looked like empty targets until I got very close when flying to them).
+I have recorded most of the stuff mentioned above and if any of it is of interest, let me know and i will upload...
+
+keep the good work going! o7
+Click to expand...
+
+Awesome! PMSC will sometimes come up as blocked, from what I can tell this is cause the jump point is a the B star, (this is actually the entry star due to mass). You'll need to get close to it to get a good shot at it, and if that doesnt work try moving around at different distances. As for the bending, its been tough to replicate and may take a few jumps when you target the PMSC system. You can literally get within 1Ls of the system pre-jump and for whatever reason you will bend at times. This seems like its tied to trying to time the jump to happen as you pass up the jump point, because you'll fly through it and as the FSD is already in motion and engaged itll make the correction by bending. So, timing and distance (closer the better) seems to be the trick.
+But I did it by jumping from ADS 4229 to PMSC.
+The anomalies you're experiencing with 26 Aurigae D are new to me.
+
+As for the vanishing bodies. Ive experimented with friends with this and all of them were able to replicate it. It's a distance thing and seems tied to the orrery and its first ring.
+If youre outside the first ring of the orrery for ADS 4229 the planets vanish. iirc, for one system it's when too close iirc, and for one its when too far. Im gonna have to go through my footage again. Once you enter/exit that orrery ring, they reappear/disappear. The distance from Aurigae C for them to reappear is about 1K Ls,
+maybe a small bit more.
+
+For both systems (attachments below), the Red circles are showing the bodies that vanish when too close or too far from them.
+
+Thanks for the questions and the follow up research.
+Let me know if this isnt working still and I will try to revisit to do a more detailed discussion on its exact behaviors.
+
+Here are the gifs of the missing bodies showing distance.
+
+GIF- ADS 4229 #1
+GIF- ADS 4229 #2
+GIF- ADS 9338 #1
+Attachments
+359320_20200818104439_1.jpg
+346.2 KB · Views: 258
+359320_20200818113827_1.jpg
+324.9 KB · Views: 270
+Last edited: Aug 21, 2020
+Reactions:
+Emperor, Dr. Lexus, simulacrae and 1 other person

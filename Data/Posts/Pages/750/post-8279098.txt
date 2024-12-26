@@ -1,0 +1,12 @@
+Jorki Rasalas
+Feb 4, 2020
+#14,986
+Vetinari said:
+Strangely enough I think this may be how Raxxla or the DW Station appears, as an unresolvable FSS signal or something, no real reason just a thought and I keep an eye out for this behaviour just in case (its a long list of just in case eye keep an out scenarios lol)
+
+That’s what I wondered when I saw the GG was missing, though I seem to remember this sort of thing happening infrequently over the last couple of years (but didn’t get terribly excited as I don’t think Raxxla is a GG). Think it’s probably a hiccup in Stellar Forge system generation.
+
+Edit: the alternative is a bug in the fss!
+Last edited: Feb 4, 2020
+Reactions:
+Vetinari, Machina Ergo Sum, John Stoutbeard and 1 other person

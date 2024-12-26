@@ -1,0 +1,15 @@
+Jorki Rasalas
+Sep 11, 2022
+#27,266
+Returned to Beta Hydrae. Body search method still screwy as previously reported. Done a NS boost & "FSD Supercharged" reported. Ship range in Systems Panel reported as increased to 244 ly. But galmap wont use it, insisting my first jump is 60 ly, and no degredation to my FSD health!!
+
+weird system!!
+
+edit:
+dropped out of SC & disabled FSD then re-enabled. Now showing 98% health. Still can't use the darn extended jump range!!
+and EDD isnt showing all three stars, though I have already visited & discovered them!!
+
+weird system!!
+Last edited: Sep 11, 2022
+Reactions:
+Ataxia

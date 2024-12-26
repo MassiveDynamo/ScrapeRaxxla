@@ -1,0 +1,9 @@
+Rochester
+Jul 10, 2023
+#30,801
+Yes that tool will only find the nearest system to an XYZ location, we need a method to calculate all systems 38.1473 away from 48.31 , -109.185 , -5.49.
+
+48.31 , -109.185 , -5.49 is just empty space, there’s a system 9lyr from there but we need to assess all systems around that point, if any fall upon that circumstance they likely are a potential candidate.
+
+Remember that 38.1473 represents the numerical points in distance of the XYZ points, I don’t know if this relates directly into game as light years….oh hang on it does, it’s 38.1473 light years.
+Last edited: Jul 10, 2023

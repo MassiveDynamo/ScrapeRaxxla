@@ -1,0 +1,10 @@
+Adel
+A
+Nov 5, 2021
+#24,723
+Jorki Rasalas said:
+Thanks, that’s what I expected, but the crux of the question is do we get the same information as the nav beacon scan from an fss scan (e.g. if there is no, or damaged, nav beacon)?
+No, the nav beacon is much more reliable than FSS, because when i arrive in some systems, some station outposts are not detected (i have to search them with scanner).
+As far as i remember, nav beacon always gave all the information of a system. For scanner, u get them too IF it has been well implemented.
+Reactions:
+Jorki Rasalas

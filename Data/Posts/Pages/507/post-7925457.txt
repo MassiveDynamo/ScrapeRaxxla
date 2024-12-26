@@ -1,0 +1,10 @@
+Macros Black
+Aug 1, 2019
+#10,122
+CMDR Maylor Rom said:
+It was discovered in 2014, just about the time Elite was released. I don't know when Stellar Forge was developed for Elite, but since the discovery occurred with stellar forge being created about the same time, I don't think Frontier put it in the galaxy. Since it also does not have an alternate designation in other star catalogs, there is no other star designation to use in the GM. It is 870LYs from earth, but it did not give a direction. I wish GM had an option to enter stellar coordinates as opposed to star names, then GM could point you in the vacinity and we could just fly there.
+
+This call allows you to enter x/y/z and returns systems in a sphere with a radius of your choice.
+https://www.edsm.net/en/api-v1
+Reactions:
+CMDR Josky, Jorki Rasalas, Six6VI and 2 others

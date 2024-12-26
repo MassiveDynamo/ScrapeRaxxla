@@ -1,0 +1,11 @@
+PeteACarter
+P
+Aug 2, 2020
+#18,215
+Jorki Rasalas said:
+I thought Stellar Forge ran on FD’s servers, and then when a pilot jumps towards a system the system description (rng seeds) is provided by Stellar Forge to the pilot’s client and expanded into what we see during the hyperspace transition sequence?
+
+Edit: and “Astrophel and Stella”?
+No. It runs client side. There is a good post from Alec Turner here https://forums.frontier.co.uk/threa...ion-of-everything-from-stars-to-rocks.517029/ he confirmed it at a Lavecon
+Reactions:
+Spike78, Han_Zen, [PS4] Filthymick420 and 1 other person

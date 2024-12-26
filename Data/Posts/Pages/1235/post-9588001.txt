@@ -1,0 +1,9 @@
+Jorki Rasalas
+Nov 4, 2021
+#24,693
+Those are astronomical body types permitted by the game logfile specification, v3.0 of which is here
+http://hosting.zaonce.net/community/journal/v15/Journal_Manual_v15.pdf
+
+A system in-game must comprise of at least one “star” and the permitted “star” types are listed in section 12.2. Exotic stars (X, e.g. quark stars, see Wikipedia) are hypothesised in astronomy but I dont think any have been actually spotted, but Rogue Planets have indeed been found IRL.
+
+We dont know if X or Rogue Planets are in-game. But this spec permits them. So I think Raxxla could be classed as a “Rogue Planet” and would likely be in its own instance accessed by the Omphalos Rift gateway/tunnel; however until we find it we wont know. X star types don't appear to show in galmap if you filter for them.

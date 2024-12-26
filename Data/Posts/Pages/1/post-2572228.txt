@@ -1,0 +1,54 @@
+Macros Black
+Jul 21, 2015
+#3
+Mission: Discrete Redistribution Agent Desired
+
+Mission: Discrete Redistribution Agent Desired.
+Summary: Steal SAP 8 Core containers from Dark Wheel faction (appears not to be a pre-requisite, any ship will do) ships going in and out of sector.
+Hypothesis: Completing this mission will give a lead as to what the Dark Wheel are up to.
+Tested: No leads given yet upon delivery. On non-delivery faction states it could contain alien artefacts or AI software (credits to bitstorm for supplying this information)
+Best retrieval technique so far: Smash'nGrab'nRun'n.
+SPOILER
+
+Upon delivery (Bug reported):
+SPOILER
+
+Mission: Discrete Redistribution Agent Desired
+System Station Faction Date # Status Reward
+HIP 86063 Benyovszky Dock HIP 86063 Cartel 14 sep 3301 19:51 1 Complete 342,720
+HIP 86063 Benyovszky Dock HIP 86063 Cartel 14 sep 3301 19:51 2 Failed (out of time) 474,635
+HIP 86063 Chasles Landing Gold Netcoms Systems 14 sep 3301 20:29 1 Complete 360,825
+Varati Thompson Dock Varati Ring 15 sep 3301 20:48 2 Complete 477,325
+Motilekui Young Ring Motilekui Empire Party 16 sep 3301 17:09 1 Complete 367,530
+Motilekui Young Ring Motilekui Empire Party 16 sep 3301 17:09 1 Complete 358,985
+Motilekui Young Ring Motilekui Purple Clan 16 sep 3301 17:09 1 Complete 337,975
+Motilekui Young Ring Unionists Of Motilekui 18 sep 3301 18:18 2 Failed (servers down) 467,080
+Motilekui Schwabe Terminal Motilekui Purple Clan 19 sep 3301 9:31 1 Complete 339,940
+Motilekui Schwabe Terminal Motilekui Empire Party 19 sep 3301 9:31 2 Complete 447,005
+Motilekui Schwabe Terminal Motilekui Empire Party 19 sep 3301 10:11 1 Complete 353,180
+Motilekui Schwabe Terminal Unionists Of Motilekui 19 sep 3301 11:40 1 Complete 363,415
+49 Arietis Gaiman Dock 49 Arietis Gold Council 19 sep 3301 21:35 1 341,725
+49 Arietis Konscak Colony 49 Arietis Gold Council 19 sep 3301 21:55 1 Complete 349,325
+49 Arietis Konscak Colony 49 Arietis Blue Bridge Comms 19 sep 3301 21:55 2 Failed (out of time) 470,405
+49 Arietis Konscak Colony 49 Arietis Gold Council 19 sep 3301 21:55 1 Complete 336,300
+49 Arietis Gaiman Dock 49 Arietis Gold Council 20 sep 3301 07:54 2 Complete 457,795
+49 Arietis Fisk Landing 64 Arietis Front 20 sep 3301 08:09 2 Complete 477,885
+Kochole Judson Terminal Kochole Party 03 oct 3301 19:50 2 Complete 456,555
+Wikmunda Moore Vision People's Wikmunda Coalition 04 oct 3301 8:51 2 Complete 456,515
+
+6 aug - 13 sep
+SPOILER
+
+Missions 21 jul - 6 aug
+SPOILER
+
+
+
+[1] No Dark Wheel ships found in system.
+[2] Container stolen from arbitrary T7 (wing of 7) in another system 130ly from origin. 1 Python lost - 10mill.
+[3] Failed due to pilot fatigue. 1 container "obtained".
+[4] Was too impatient. Attacked T9 with 2 Anaconda escort. 1 Python lost - 12mill.
+[5] Only one container obtained. "White-washed" after delivering 4 other containers from a "Silent Song..." mission.
+Last edited: Oct 4, 2015
+Reactions:
+xeroxzone and [PS4] Filthymick420

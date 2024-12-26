@@ -1,0 +1,37 @@
+Thatchinho
+Nov 25, 2017
+#1,158
+Moribus said:
+I agree. That's one of the reasons I think Raxxla is in the bubble now. There's little evidence whatsoever (even in non-Lore but old "myth" stories from older games) that Humanity got very far outside the bubble prior to the 2b hyperdrive - which was noted specifically for having very long jump ranges compared to what was previously possible - and even then, it wasn't great.
+
+I speculate that older Hyperdrives might have needed recharging before jumping again. Essentially you'd need to make a series of micro-jumps to get anywhere, and the recharge might have taken hours - or it might be like Lightspeed in Star Wars, requiring a lot of calculations before making the jump - we know from TDW that was one thing the Faraway Network did (SysCon did the jump calculations). We also know that this is (partially) discussed in Lore. Salome and Luko make a "manual" jump calculation to get around the Col70 Permit lock, which they describe as being very dangerous. Luko's ship is old (from at least 3200), so it's entirely possible that back in the creaky old days before Faraway maybe each jump was only about .5ly, and took a few hours of calculations before you could actually make the jump. That means that although it's then possible to travel anywhere, it's going to take a long time (but still significantly faster than anything else at the time).
+
+That would be a very easy way to explain why humanity never expanded very far, despite having FTL. It just took ages to get anywhere, and also why the Faraway network is described as taking centuries to establish.
+
+It's entirely possible that Raxxla was found by explorers in the early days of FTL. Back then (Assuming the above is approximately correct) it would have taken anyone else that wanted to go out there weeks or months (or maybe years) to travel there, and it would have been tricky and expensive.
+
+But... later on the Faraway Network gets built, so it's easier to get in the vicinity - you basically take the Faraway jump to the nearest system and then use your ship FTL to .5ly micro-jump the rest of the way. This does two things. A) Makes it easier to get there for people who you to get there, so you can build up more of a presence there, start a proper colony, etc. and b) Makes it much easier for people to accidentally find!
+
+Assume then that Ryder maybe got a tip-off from someone saying "take a Faraway jump to XYZ place, then head towards XYZ system using FTL..." That could well have been the type of clue he discovered. That could explain why TDW needed to step up to actually suppressing the info about the location, and cracking down on the rumours. Maybe at this point they started spreading rumours of their own, sort of a disinformation campaign. That way, anyone looking for it might be sent off in the wrong direction - only people who knew where Raxxla was already would know which rumours were true and which false.
+
+Then in the 3100's single-ship jump drives got a lot better, with the introduction of the Quirium Drive (or just a safer version, if we're assuming all hyperdrives already used Quirium). This obviously represented an even greater threat, and so TDW set about creating a longer-term plan. They decided the only way to keep Raxxla safe now was to make sure that navigation software couldn't make the jump there at all - they essentially started to invest their vast wealth into nav software companies.
+
+For years this worked brilliantly. They essentially erased the Raxxla star system from maps entirely. Very few people bothered to look at the actual stars any more since the new jump drives jump Star-to-Star, and so, you just follow your nav system right? There's no-longer a need to head towards a specific star in the sky. All they need to do is make sure they maintain a monopoly on the Nav software.
+
+(explains why Raxxla was never in any previous game! It was literally erased from maps)
+
+That takes us to more recent times - the PF is well known to control the NAV software used by everyone (Tourist beacon at Founder's world), they give it away for free, and it's the best software ever, and they've got ties to all the governments, etc. So why would you ever try to develop any other software? Plus they have more than enough power to eradicate anyone who tries!
+
+Combine this with the centuries-long disinformation campaign they've been running that continues to spread rumours about Raxxla. Now you've got legends about it being "on the outer rim" and all that sort of thing - anyone who tried to find it automatically assumes it's off out in the black somewhere...
+
+Putting all that together - It's in a system that's well within the Bubble, but could conceivably have been on the edge of the Faraway Network. It's not so far from Sol that it couldn't have been found in the early days of space exploration. A system that's not previously been in any other game. A system that's almost certainly permit locked. A system where the PF rule absolutely, very probably is an ELW that's populated "Raxxla is Guarded". Has the DW faction.... sooo... . All they did was Legitimise it, change the name on everyone's Nav Software, then surround it with literally the best pilots in the Galaxy. No-one is going to try to start anything when it's that well guarded! Especially if you make sure that only a tiny core of the best of the best know what it really is...
+
+But, even if you don't think Raxxla is Founder's World, then the rest of this informed speculation still indicates it's within the Bubble, probably not far from Sol. It could easily be a wide-orbiting planet (though wouldn't that still be picked up with the infinite discovery scanner?).
+
+Having said all that, there's two outliers that could still mean it's anywhere else...
+
+As Jaiotu says - References to time-travel are present in Hyperspace theory. also we know that long-range misjumps are possible with hyperdrive - any one or both of those could have lead to the discovery of Raxxla. Also, we know that several thousand Generation ships were sent out prior to FTL being discovered, and some of them never arrived where they were supposed to. It's entirely possible that one of them travelled for a few hundred years and arrived at a star well outside the bubble at the time and found an alien gateway, then decades or centuries later a random explorer found the "lost colony", and for various reasons they kept it a secret. However, even given hundreds of years, a Generation ship can't have got that far from Sol, so it's not going to be outside the Bubble any more.
+
+Where's the stuff about The Dark Wheel actually knowing the location of Raxxla coming from? In TDW, Jason never actually found it, and according to And Here The Wheel, The Dark Wheel never found Raxxla.
+
+Also, it was confirmed at some point that a lot of the Gen ships had FTL. Can't remember when, but it was in one of the livestreams IIRC.

@@ -1,0 +1,22 @@
+Ian Doncaster
+Jan 3, 2024
+#32,836
+Louis Calvert said:
+I'm wondering now if maybe a player faction co-opted a local faction. This 'Section 42' or similar made a player faction based in NLTT 46621 so they could create the system description for The Link and wrap it into their group's lore.
+It probably pays to be very specific with the terminology here to avoid confusion:
+- faction = the in-game entity which can have influence and states and own stations
+- squadron = the in-game entity which contains players as members and can optionally be aligned to a faction (multiple squadrons - including on the same platform - can align to the same faction)
+- group = the out-of-game collection of players which can run one or more squadrons (on one or more platforms) and which may or may not have any registration on Inara, which could until last year request a faction be created (but got no exclusivity over it after creation) and which can of course have an interest in the state of as many factions as it likes.
+
+Looking at the factions present in NLTT 46621, all of them except The Link have names matching the form of standard procedural factions, and two are clearly native to nearby Eos or LHS 3343 respectively. Further, from the EliteBGS archive, no new factions have entered or old factions left the system since the addition of The Link in mid-2019.
+
+So, this gives the following possibilities:
+1) The Link is the player faction, which was created in June 2019 at the request of "Section 42", who submitted the description
+2) The Link is the player faction, which was created in June 2019 at the request of an unknown and possibly extinct player group who submitted the description. "Section 42" have since adopted it, with or without the knowledge or agreement of its original creators.
+3) There is no player faction in the system. Frontier added the faction in June 2019 for their own unknown reasons, and added the description either at the same time or at another date. "Section 42" have since adopted it.
+4) {unlikely, but still possible} The Link is the player faction, which was created in June 2019 in a system which already had that Frontier-entered description prior to that date. The group requesting the faction chose not to submit a description since Frontier had already added one; whatever earlier reason Frontier had to add the description did not trip any of the "no lore significant systems" rules for requesting player factions.
+5) {excessively unlikely but technically possible} One of the factions with NLTT 46621 in the name is a player faction created before October 2017, which has been named deliberately to resemble an original procedural faction. Either they didn't submit a system description, or it referred to "The Link" for no obvious reason. In June 2019 for even less clear reasons Frontier added a faction called "The Link" to the system anyway despite it being a player faction home system. "Section 42" may or may not have anything to do with it.
+
+The influence curve of the faction prior to Welsh Dragon's adoption 7 months ago is certainly compatible with "new player faction added to a busy high-population system that they do not have the firepower or knowledge to handle" (especially the rise and then fall back to equilibrium in the first month of its existence), though that's definitely not the only possible explanation.
+Reactions:
+Macros Black, Han_Zen, Emperor and 3 others

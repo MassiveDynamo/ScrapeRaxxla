@@ -1,0 +1,22 @@
+yelboc
+Aug 19, 2022
+#26,719
+almost - you can view the history of each faction right back to when the tool started which is about oct 2017 if I recall.
+
+So you cant actually do as you suggest , but for any faction you can trace their activity.
+
+E.g. for Black Rock Military, They would have been introduced mid '19 by the look of the data. The flat line before that 1st bump shows the faction had no inf anywhere. BRM only have this one system ( the chart is actually for the system)
+
+Setting the time span for the graph is not the nicest UI, but you'll get the hang of it..
+
+Elite BGS
+elitebgs.app
+
+
+
+Here's Sirius Corp. for comparison, in Sirius itself:
+
+
+Its a nice tool - shame the data doesn't go back further, but its good for finding some introductions and identifying player factions etc.
+Reactions:
+Cunder and simulacrae

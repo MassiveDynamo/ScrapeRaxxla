@@ -1,0 +1,43 @@
+Jorki Rasalas
+Aug 23, 2022
+#26,779
+Emperor said:
+I thought I'd watch the video as I don't think I've seen it since back then....
+
+I did notice this a bit before the SAG A question.... one for @Jorki Rasalas and Sol theories... ;-)
+
+19:59 mins in...
+"Because of these new drives that we brought in with Elite dangerous, people can travel more rapidly and you would get this huge period of rapid expansion.
+What I'm hoping is that there will be lots of places for things like exploration, even within human space there will be outer planets that people won't even have bothered looking for, so people will find things..." <quickly stops talking in an awkward Braben manner>...."So it's that kind of richness I want to happen."...
+
+I do think you might be being a little harsh on the SAG A comments though, I got the feeling he was saying it wasn't really possible with what they had planned for launch and got the distinct feeling he thought there were other priorities but didn't want to upset the backers who were explorers (If I remember correctly explorers were towards the back of the queue in terms of information/priorities in the early days and especially before go live as there was very little to explore in the beta.....)
+
+22:30 mins in...
+"Can you go to the core.. So at the moment in theory you can and you can go there on the map, in practice there are way fewer planets, it's very, very hot and I fail to see the point of it again but I think because people want to we'll look at that. Currently it's not very practical to do that, I mean it's such a long way away as well."
+Click to expand...
+Mm, I dont see the point in speculating over what was said in such early statements; the game has changed significantly over what was planned/hoped for/speculated during the early days. But we know that Raxxla was inserted in the gamma version and should be constrained by in-game capabilities of the time. the other day I went through Drew Wagar’s lore vid on hyperspace technology and added it to my ED timeline notes & here’s my thoughts:
+
+Hyperspace technology
+2097 first generation ship launched, start of some 70,000. Towards end of 21st century permanent colonies on Moon & Mars.
+22nd Cent (i.e. sometime 2100- 2200) hyperdrive invented by Li Qin Jao’s team, spurring explosion of exploration & colonisation. hundreds of automated probes sent to all nearby systems.
+2242 Federation Accord transforms it from Sol government to interstellar federal union; members are Sol, Tau Ceti, Delta Pavonis, Altair, Beta Hydri.
+2280 First alien artefact found on Mars. Artificial and measuring no more than a few centimetres square (Allen Stroud’s PhD thesis quotes lore bible “In 2280, the first non-human relic was found in space. The object, no bigger than a child’s hand was collected by an orbital probe around Europa and quickly brought back to Earth. No information has ever been circulated as to the properties of this item or its origin.
+2296 earliest recorded mention of Raxxla rumour is from the journal of Art Tornqvist, a shipboard mechanic based in the Tau Ceti system.
+29th Cent consumer ships start to take advantage of drive miniaturisation
+2800- 3125 “Faraway” system, typical max range 7 ly, significant external infrastructure required. “Witchspace” term coined for the hyperspace transit tube. Unsupervised jumps extremely dangerous. Thargoids reputed to hover in Witchspace & ambush transiting vessels. Transit time <1 minute.
+3145- StarDreamer tech introduced to slow passenger metabolic rate.
+3125- 3174 “Type 1” Quirium transit system, typical max range 7 ly, autonomous mechanism aboard ship. Quirium fuel secret lost with collapse of GALCOP. Modifications allowed “travel between galaxies”. Transit time <1 minute.
+3174- 3297 “Type 2b” Hydrogen transit system. Range 7-25 ly, but unconfirmed rumours of up to 665 ly. Transit time several days-1 week. Military versions with unique fuels were available. Drive scaled to size of vessel. Radioactive waste produced. Hyperspace entry & exit clouds prominent
+3251 Antares Starliner fitted with prototype fast hyperspace jump system lost on maiden voyage, which delayed introduction of current FSD technology. Wreckage found in January 3302.
+3200-present day. “Type 2c” Tritium transit system, range 500 ly. Very bulky drives but autonomous mechanism aboard ship give enormous range and greater flexibility in exit point. Transit time <1 minute, but significant pre- & post-jump provisioning. Used by Drake class Fleet Carriers, Farragut battlecruiser and Majestic class Interdictor.
+3297-present day “Type 3” “Frame Shift” technology introduced, based in Antares drive. Typical range 7-60 ly, extendable by rare material injection and supercharging. autonomous mechanism aboard ship. Navigational refinement is poor with exit coordinates determined by significant mass in destination system. Transit time <1 minute. These drives required large amounts of element Tantalum in manufacture, and causing some unrest due to land grabs. By 3300 had virtually replaced Type 2b technology, with the loss of a number of ship classes that could not be retrofitted with type 3 due to design constraints. Range increases changed tactical military deployment capabilities.
+
+This timeline just highlights that at, & before, the date of the first Raxxla rumour the achievable jump range was very low, around 7 ly, which would have severely limited possible travel range. So how could Raxxla have been detected and the rumour started? Possibilities are: astronomically by telescope (in which case more details would be known), from leaked research on the “Mars” alien artefact, from probe detections or by bar gossip from someone who had personally encountered “something”. If it was by personal encounter or probe detection then it must be within a very short radius ( from Sol, Tau Ceti, Delta Pavonis, Altair, Beta Hydri) due to short fsd range & low speed of generation ships (& light speed comms). We also know that Raxxla is discussed in the alien lore manual which we have no access to.
+
+My suspicions towards Sol are based on the reported presence of the alien artefact - perhaps it had markings “Raxxla me facit”? We have no details about it, but since it was found in Sol, then it could be a hint there may be something else of similar origins hidden within Sol. It is the only indication of alien visitors we have that might have started the rumour. I find it intriguing that the Alan Stroud’s lore bible had it recovered from orbit around Europa but the codex has it as found on Mars during terraforming. Why the change? We know the game characters can lie/deceive. Is the difference due to a desire to avoid too obvious a tribute to 2001 Space Odyssey? Or to make Raxxla harder to find?
+
+The Raxxla rumour could be pure myth based on drink/drug-induced hallucinations or children’s tales of an alien boogeyman, but DB has said that Raxxla is in-game & MB has said it can be found, it is a non-random thing in-game, but is difficult to find. If it’s so difficult then how come a rumour started about it? Clearly not a widely-observable astronomical phenomenon, since many people have telescopes so details would have been impossible to hide. So Raxxla is something alien, physically existing but hidden/small so difficult to detect. And therefore logically it must be in/near to those early systems.
+
+This reasoning is based on an assumption that FD have been logically consistent with their own lore and sensible in its location. Given FD’s reliability on this I am continuing my search for comets, and am currently around 60 ly from Sol! But Im staying within the short range bubble!
+Reactions:
+simulacrae, Han_Zen and Rochester

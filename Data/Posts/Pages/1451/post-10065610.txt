@@ -1,0 +1,17 @@
+CMDRCorrMorningstarFelian
+Jan 24, 2023
+#29,020
+Here's my current understanding of scanning in Elite Dangerous presently operates in light of all the updates and expansions.
+
+We have essentially have two modes for system scans: passive and active scans.
+
+Passive scan: Oldest scanner mode and dependent on body type and distance from the body. Passive happens any time you fly close enough but only gets orbital parameters. As you fly close to stars, planets, moons, stations, installations, and fleet carriers initial data will be added into navigation computer (if not present).
+
+Active/non-FSS: Target body and fly there. This will only work when the initial round of system data has been submitted to Universal Cartographics.
+
+Active/FSS: Fly in honk the system, slow velocity to slowest supercruise speeds, load FSS. Works all the time but still only get you orbital parameters. Will detect stations installations, and fleet carriers. Installations may have to be within 1000 LS for detection. Actively, inhabited sites scanned in.
+
+Active/DSS: Fully detailed surface scan. Anything that isn't inhabited or operating at lower power states get detected: POI (lore), crashes, various human and non-human signals.
+Last edited: Jan 24, 2023
+Reactions:
+Rochester and Macros Black

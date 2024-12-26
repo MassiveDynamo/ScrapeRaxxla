@@ -1,0 +1,13 @@
+Ravenloft45
+R
+Apr 18, 2024
+#33,907
+Rochester said:
+“10 points” is a joke, it’s a British pop-culture reference to TV game show catchphrase. Dr Ross was just saying there’s an error here - hypothetical credit for anyone who figures it out - it’s essentially saying the reward of points for doing so is not the prize, but the taking part. As the points were always irrelevant or overly high or low in comparison to the task at hand...
+
+Click to expand...
+Thank you for the brief explanation. I did a lot of search for the ship mechanics name. Art Tornqvist always sounded interesting for me. Google says Art is short name for Arthur, and a Celtic masculine given name, meaning "bear", the surname is Swedish. Very interesting and rare combination. when you put it in a base64 decoder, it shows "9 PT".
+ART TORNQVIST https://md5decrypt.net/en/Base64-decoder/ There are some non recognised characters maybe from ASCII table, but ART TORNQVIST is decoded as 9 PT
+and Dr. Ross'es 10 PT joke made me think Maybe we should try base64 for the clues from the codex?
+
+Anyone can confirm that was Elite 1984 used base64 in coding, due to memory restrictions?

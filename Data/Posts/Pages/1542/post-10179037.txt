@@ -1,0 +1,9 @@
+Shadowsnog
+Jul 12, 2023
+#30,832
+Jorki Rasalas said:
+But disappearance of the game menu from the Escape key at the same tIme seems to suggest a game bug, & not connectivity issue
+im not an expert, im just poorly paraphrasing what was said somewhere else on this forum:
+basically opening main menu is some server-side game action that has to have connection like everything else ingame. even in solo. this might happen not necessarily because of your bad connection but might be a server issue. usually its a desync that over time got so bad that game doesnt know what to do so it does nothing...
+
+last time i got this it was during traveling and after restarting the game i found myself like 2 systems before the place where i had to shutdown the game

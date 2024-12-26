@@ -1,0 +1,14 @@
+Spaceman Spiff
+Mar 9, 2021
+#21,774
+Han_Zen said:
+Good point. All L3s are there. Not just Jupiters.
+L3s aren't exactly on the orbit, but usually very close.
+
+I use this calculator, to find exact distances: http://www.orbitsimulator.com/formulas/LagrangePointFinder.html
+
+Also remember that L1, L2 and L3 are unstable. Objects in those point will not stay for a long time. L4 and L5 are stabile as long as the primary mass is about 25 times the secondary, or more.
+Correct, but if we are talking about space-faring technology it follows that thrusters to stay in an otherwise unstable orbit would be a trivial point, I would think?
+
+Also, cool calculator
+Last edited: Mar 9, 2021

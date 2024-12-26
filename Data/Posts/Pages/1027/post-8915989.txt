@@ -1,0 +1,12 @@
+Jorki Rasalas
+Jan 23, 2021
+#20,523
+Filthymick420 said:
+Do any of the 3rd party tools let us search for a list of systems by specific distance from a location, For example a list of every system exactly 235 ly from shinrarta?
+
+EDDB can do it, think Spansh Bodies (https://spansh.co.uk/bodies) can do it, think EDDiscovery/ search panel and EDSM both have mechanisms to do a spherical search.
+
+On second thoughts actually you might get a list of all systems within that radius & have to filter out the nearer ones yourself, & think one of them might be limited to 50 ly radius...it’s been a while!
+Last edited: Jan 23, 2021
+Reactions:
+[PS4] Filthymick420

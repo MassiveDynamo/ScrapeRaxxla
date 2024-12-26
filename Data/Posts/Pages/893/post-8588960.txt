@@ -1,0 +1,12 @@
+alexzk
+A
+Jul 13, 2020
+#17,854
+Jorki Rasalas said:
+I’m trying to figure out how I can use EDDB/bodies, EDSM/bodies, Spansh/search etc to find a system with something and something else, but failing at the moment. Say a NS and a water giant, or a Red Dwarf and an ELW, or a Wolf Rayet and a NS.
+Any ideas?
+You need to write own tool. Or explorers forums has topic, guy there did a clone of DB and makes pictures, like visitied W-R, too hot NS etc. Ask him.
+I started to do one for rings ... queries EDSM for up-to 100ly around something, then selects rings. But amount of variants is huge of what you want to query. I could make some generic, for example you do query using Lua.
+Last edited: Jul 13, 2020
+Reactions:
+PeteACarter

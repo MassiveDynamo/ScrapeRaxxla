@@ -1,0 +1,36 @@
+Thatchinho
+Aug 11, 2020
+#18,343
+On the Dynasty expedition log stuff I did a post in the FR thread a while back: https://forums.frontier.co.uk/threads/the-formidine-rift-mystery-part-4.324796/post-7945696
+
+It’s got most of the points I was going to make in this thread so just pasting it all below:
+
+——————
+I'm not so sure about the direction the Thargoids were coming from stuff.
+
+I've been coincidentally been looking back at what happened when, and in retrospect, the definite in game establishment of the Thargoid - Pleiades connection goes back to 1.3 / 1.4. So if that was a change from something else it happened very early and well before the Dynasty expedition bases were put into game.
+
+SPOILER
+
+
+The CTD bug with the Dynasty expedition sites also meant things didn't happen in the order they should have. What ended up happening was:
+
+1. The first Hyperdictions by Unknown Ships happen
+
+2. Dynasty expedition logs are found
+
+However, what would have happened if it wasn't for the bug was:
+
+1. Dynasty expedition logs are found (with all the mentions of strange signals, power shutdowns, and ships being pulled out of hyperspace...)
+
+2. Cmdrs start getting pulled out of hyperspace by Unknown Ships, including having their power shutdown...
+
+Looked at that way round, the Dynasty expedition logs would seem to form part of the build up to the start of the encounters with Thargoid ships.
+
+That suggests that the content of the logs isn't an artefact of a change of plan, but rather they were a deliberate part of the plan at that time.
+
+Exact dates they were added would help, but from when things happened, there's a good chance it was in the 2.2.02 patch on 15th Nov '16. If they weren't added then, that still roughly marks the time when FD put in the CG etc that lead to the discovery of the beacons that lead to the sites. It seems to me that it would be a bit of an odd thing to do to push all that forwards with all those things which would have acted as portents of what was to imminently come, if they were in no way intended to provide portents of what was to come.
+
+————
+Reactions:
+Han_Zen, Vetinari, PeteACarter and 2 others

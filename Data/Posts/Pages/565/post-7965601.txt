@@ -1,0 +1,18 @@
+Noobilite
+Aug 25, 2019
+#11,293
+The systems are the same but in the opposite direction from between the star systems. Like if you rotated it towards east instead of west. I might be misunderstanding the point of the calculations.
+
+I didn't know you could look that up in EDSM. That could be interesting. I'm horrible at figuring that stuff out though.
+
+alexzk said:
+This system
+https://www.edsm.net/api-v1/sphere-systems?x=1389.2188&y=-323.4375&z=-458.6250&radius=20; max error: 0.00524902
+
+has distance error less then map can show, I guess it is center - equaly remote from 3 stars u mentioned
+const static Point A{4.3125, -1.0625, -27.90625};
+const static Point B{ -81.78125, -149.4375, -343.375};
+const static Point C{*(-)2426.84375, 295.03125, -1323.625};
+
+Found the problem. 2426.845375 should be negative. There was an error in the original coordinates.
+Last edited: Aug 25, 2019

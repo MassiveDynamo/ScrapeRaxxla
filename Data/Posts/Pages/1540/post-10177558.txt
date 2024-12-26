@@ -1,0 +1,35 @@
+Rochester
+Jul 10, 2023
+#30,789
+Ok late night maths and geometry pondering.
+
+If you knew the two points of a hexagon, but you didn’t know the location of the other points, within a 3D environment you can identify them by working out the centre.
+
+If you have two points, the hexagon center is just a straight line parallel to that formed by the two points.
+
+In a 3D environment you then simply rotate this centre (effectively forming a torus) Not knowing the alignment of said hexagon the centre ‘should’ be able to be found, as the point would align somewhere on the outer rim of that circumference relative to that midpoint at an equal distance?
+
+So ‘if’ we could be certain of at least 2 points in space, and ‘if’ the Raxxla hexagon could be presumed to be represented in space by 6 points, with the centre presumably being Raxxla, we could hypothetically find said centre through the use of only 2 points, if those 2 points were the correct two points of course.
+
+Question is, which two points, and is the hexagon an actual spacial map?
+
+So here is one potential concept!
+
+Deepest Void = Tartarus
+Lovers Woe / Parents Grief = Persephone.
+
+Draw a line between them, work out its midpoint, expand a radius from that point (so they sit on its circumference) and you know the relative distance from the midpoint of where the centre of the hexagon might be?
+
+If these two points are representative, and the hexagon is a spacial map, I presume Raxxla ‘could be’ someplace around here (or not)?
+
+
+*this is a rough draft - not to scale.
+
+But this is reliant on these two systems being relevant, and the hexagon being a spacial map. Because technically you only need 3 points to find an X, Y, Z not 6, a hexagon is actually a little silly but in the absence of any meaningful information I’ll take silly, it’s something,
+
+Now that I have a potential distance and area of influence all one needs do is do some simple math to determine the actual ranges, then plot to identify potential systems falling in that hypothetical circumference, if none fit this idea is hogwash, if any systems do fit it’s only relevant if some correlation can be then be confirmed, plus I’m in Legacy, so who knows what limitations that includes!
+
+Generally this is a shot in the dark.
+Last edited: Jul 12, 2023
+Reactions:
+SergMx and CMDRCorrMorningstarFelian

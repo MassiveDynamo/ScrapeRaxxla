@@ -1,0 +1,52 @@
+Ian Doncaster
+May 1, 2019
+#7,853
+Cmdr Bo Hero said:
+This whole Kwatis system seems pretty good to me. I mean what are the chances that this is pure coincidence? Very low.
+Nowhere near as low as you might think.
+
+I took the database of all 6-letter populated systems (2610 systems), and the UK English dictionary file from my Linux desktop (87940 words of at least six letters), and did an exhaustive Vigenere cipher search using four different algorithms (is Raxxla the decoded or encoded form, is 'a' or 'z' the leave-unchanged character) for just under a billion possibilities.
+
+It returned three results (not counting Kwatis, as "Hexedit" is not in that dictionary file)
+
+The three results are:
+System: Calili
+Cipher: Pampas (using 'a' as 'leave unchanged')
+Result: Raxxla
+
+System: Pisagi
+Cipher: Brewer (using 'z' as 'leave unchanged)
+Result: Raxxla
+
+System: Raxxla
+Cipher: Handba {handbag or handball} (using 'a' as leave unchanged)
+Result: Yakama
+
+Brewer, eh? What's the chance that one of Frontier's major lore-significant corporations would be cipherable with an obscure Imperial mining system to produce the word Raxxla? This one doesn't even require us to discard the last letter of "hexedit" (or "handbag"...) to make it fit, and it's a ciphertext clearly originating in Frontier lore, rather than from a 3rd-party author who doesn't know where Raxxla is.
+
+
+Or, if we allow system names > 6 characters, as well as ciphers > 6 characters, you can also use
+System: Imeutrimudj {no other systems begin Imeutr}
+Cipher: Inscri {inscribe, inscription, etc.} (using 'z' as leave unchanged)
+Result: Raxxla {and a bit more, depending on which inscri word you use}
+
+(The Pisagii system also works as well as Pisagi with Brewer, if you want)
+
+System: Raxxla....
+Cipher: Courts {or courtship} (using 'a' as leave unchanged)
+Result: Toroesing {no other systems begin Toroes}
+
+So that's three more options, and "inscribe" and "courts" seem like nice mysterious ciphertext words to me. Better than "handbag", anyway.
+
+
+Sticking with just the 6 letter systems, but using the system name as the cipher itself, we can also get a seventh option
+
+System: Raxxla
+Cipher: Laguts {system} (using 'a' as leave unchanged)
+Result: Cadres
+
+
+
+In other words, depending on how many alternatives you try for the ciphering, Hexedit + Kwatis is one of between four and eight options, and it's not even in my opinion the best of those (Pisagi + Brewer is better).
+Reactions:
+Rat Catcher, Bigmaec, -=fox=- and 17 others

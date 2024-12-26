@@ -1,0 +1,18 @@
+darkflemish
+Aug 7, 2019
+#10,336
+Playing around with converting.
+
+From txt to binary to Fibonacci number.
+
+Tried it with the word of course = Raxxla
+Fibonnaci give me the numbers 11235
+
+Checked in EDDB
+Checked in EDSM
+
+And the strange thing is that the word = "The Dark Wheel" give also the Fibonnaci numbers 11235
+
+Might be too simply and totally unrelated.
+Reactions:
+PeteACarter

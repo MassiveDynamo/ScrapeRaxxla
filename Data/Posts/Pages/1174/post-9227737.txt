@@ -1,0 +1,10 @@
+Cmdr Unknown
+May 27, 2021
+#23,480
+Thank you for the replies. @Carlos Sagan Although i don't quite get it, what you're trying to tell me ;-) The region borders seem to be completely disconnected to the game's grid system, so i don't know how coordinates alone would help me... @simulacrae Thank you for that input. I started checking distances of your reference coordinates by a "highly scientific" method that just came to my mind (see pic below)... I found, that your coords are only off by a little bit. It is correct though, that at least in one case the region borders are aligned in a perfectly parallel way to the grid lines. And these are the "north-south" going borders, that are laterally offset to the "0-meridian" by some 400+ ly.
+Long story short: i found 420 / 0 / 26900 to yield the best result i could come up with so far. Still probably off by a good dozen ly though...
+Attachments
+highly_scientific.jpg
+170.8 KB · Views: 84
+Reactions:
+simulacrae and [PS4] Filthymick420

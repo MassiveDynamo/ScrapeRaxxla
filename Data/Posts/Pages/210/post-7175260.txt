@@ -1,0 +1,25 @@
+HunterwithGreenScales
+Nov 14, 2018
+#4,194
+Han_Zen said:
+The 'normal' way to detect exotic stars, would be to use indirect observation. Same way we find comets in in ED. Objects orbiting something that isn't there. Gravity wave detection is the other method that scientists hope will help, in the future.
+
+Another object type that actually exist in ED and has relevant properties, is Wolf-Rayet planetary nebulae. These are hard to see in the galmap(like all planetary nebulae), until you zoom all the way inn. Then they light up very brightly.
+List of RL examples(some can be found in ED): https://en.wikipedia.org/wiki/Wolf–Rayet_star#Examples
+
+Wolf-Rayet stars could possibly be a Guardian connection as well. Guardians had a far wider visual specter than we have. That would probably not have evolved, unless there was a use for it. Gama Velorum(Regor) is a Wolf-Rayet system in 'Guardian space', known as the Spectral Gem of Southern Skies. The entire Regor sector is permit locked.
+
+I would love to find a system like WR 104 in ED.
+
+
+On a more tinfoily note, there is an funny name trick that can be done with Gamma Velorum.
+
+Take the star γ1 Velorum(companion to the Wolf-Rayet):
+
+- Replace lower case gamma with upper case.
+- Replace 1 with a
+- Replace Velorum with Vela
+
+We get: Γa Vela
+
+Gamma Velorum has already been some-what strongly hinted at (in game) being the location of the Guardian homeworld.

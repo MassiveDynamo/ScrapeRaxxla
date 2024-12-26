@@ -1,0 +1,5 @@
+SergMx
+Sep 24, 2021
+#24,299
+For some reason, the map of the Horizons and the Odyssey are different in content.
+For example, Horizons has Targoids in the system, but if you switch to Odyssey, there is no more.

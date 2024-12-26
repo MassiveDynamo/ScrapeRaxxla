@@ -1,0 +1,14 @@
+Pyroboros
+Mar 13, 2022
+#25,667
+Koben said:
+Many thanks!
+I get the part that Shinrarta Dezhra got its name manually and Stellar Forge reffers it as Wregoe FP-E c25-14...
+
+But where you get this information and where did you find the body search string to paste on the galaxy map search bar?
+I have put some Python here Galaxymap Supercharged! this may help understand this better.
+John [Panzertard] Stoutbeard said:
+I was thinking, we should have seen the comet-name in the low left corner, the info panel. But if you have the BM targeted, it probably wont show that. We need to have untargeted to get the object of influence.
+We do not always see the Comet Name in the low left corner. I think most of the time this is overridden by the SOI of something whit higher prio i don't know. Sometimes i get Deep Space but in log its clearly the Comet. so always check Log for SC Exit. I suspect its only shown for the ones FDEV manualy renamed.
+Reactions:
+Zieman, Koben and John Stoutbeard

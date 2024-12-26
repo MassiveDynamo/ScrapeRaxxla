@@ -1,0 +1,106 @@
+Jorki Rasalas
+Aug 24, 2022
+#26,813
+Non Grata said:
+Thanks for the extensive reply!
+
+If it was in game from Premium Beta, and if we assume that only accessible systems would count as "in game", then I think the list of accessible systems would be something like this:
+
+Eranin
+Asellus Primus
+Ibootis
+LP 98-132
+Dahan
+Aulin
+Styx
+LHS 3006
+
+If it was actually added at an earlier stage it would be in one of a subset of those systems (the last three of the systems above being the most-recently-added). I presume the Alpha had only Eranin (not sure as I didn't take part in it), but perhaps that statement negates the whole point of what I'm saying, as it would be unlikely to be located in the very first system the game ever had.
+
+(This is making a bunch of assumptions, e.g. that Raxxla is a thing in a system, and that it can't move etc etc.)
+
+Of course Raxxla could also have been in game, but in an inaccessible system, which having typed all this out now seems more likely! (or my preferred theory: that it is witchspace, with hyperspace being the door/key).
+Click to expand...
+disagree-see my earlier post about hyperspace.
+
+Also the timeline - "hundreds of probes were sent out from the outset of space exploration". At maximum 7 ly per jump within three jumps (21 ly from Sol) there are 125 systems, 4 jumps (28 ly) there are 228 systems. But don't think practically early exploration would have chained too many jumps as reliability would have been low. And I suspect it would be unwise to be too hung up on the actual alpha/beta/gamma implementation, DB could have been talking about it at the time from a lore viewpoint...for example Sag A* was "out there" from a lore viewpoint from the outset of a 400 billion system galaxy implementaiton, but I don't think it was implemented in alpha or beta, may be in gamma? maybe later? AND also... since Beta release was the day after the BAFTA presentation where Drew talked to DB, then FD would already have been working on the gamma version...so I think the gamma was meant (& Im sure somewhere I've read/heard DB say it was gamma).
+
+I think the codex is telling us the Omphalos Rift is the door. But where is it, and what's the key? Trinkets of Hidden Fortune? Something else??
+
+today's comet hunting (because it's got to be "a tiny little bit obvious", and "exigeous" means "dimutive or tiny ")
+Body#
+SearchString
+0
+Wregoe RW-J c22-1
+Exigus
+1
+Wregoe RW-J c22-131073
+Exigus A Belt Centre
+2
+Wregoe RW-J c22-262145
+Exigus A Belt Cluster 1
+3
+Wregoe RW-J c22-393217
+Exigus A Belt Cluster 2
+4
+Wregoe RW-J c22-524289
+Exigus A Belt Cluster 3
+5
+Wregoe RW-J c22-655361
+Exigus A Belt Cluster 4
+6
+Wregoe RW-J c22-786433
+Walkerworld
+7
+Wregoe RW-J c22-917505
+Exigus Comet 1
+8
+Wregoe RW-J c22-1048577
+Exigus 2
+9
+Wregoe RW-J c22-1179649
+Exigus 2 a
+10
+Wregoe RW-J c22-1310721
+Exigus 2 b
+11
+Wregoe RW-J c22-1441793
+Exigus 2 c
+12
+Wregoe RW-J c22-1572865
+Exigus 2 d
+13
+Wregoe RW-J c22-1703937
+Exigus 2 e
+14
+Wregoe RW-J c22-1835009
+Exigus 2 f
+15
+Wregoe RW-J c22-1966081
+Exigus 2 f a
+16
+Wregoe RW-J c22-2097153
+Exigus 2 g
+17
+Wregoe RW-J c22-2228225
+Exigus 2 Comet 1
+18
+Wregoe RW-J c22-2359297
+Exigus 2 Comet 2
+19
+Wregoe RW-J c22-2490369
+Exigus 2 Comet 3
+20
+Wregoe RW-J c22-2621441
+Exigus Comet 2
+21
+Wregoe RW-J c22-2752513
+Exigus Comet 3
+22
+Wregoe RW-J c22-2883585
+Slackagers' Hangout
+23
+Wregoe RW-J c22-3014657
+crash
+Reactions:
+Rochester

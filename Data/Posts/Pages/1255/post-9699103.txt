@@ -1,0 +1,54 @@
+Merlin StWahgwaan
+Jan 13, 2022
+#25,099
+Adel said:
+Awesome discovery!
+
+In Odyssey, you have to write Z3non_RAXXLA_Bj5 WE-A H17-to at least show a fragment of result.
+Starting from Z3non_RAXXLA_Bj5 WE-A H17-1 it seems that the last one is not Z3non_RAXXLA_Bj5 WE-A H17-11 but Z3non_RAXXLA_Bj5 WE-A H17-42
+42, the answer of questions on universe? .
+
+I'd like to know HOW this "Z3non_RAXXLA_Bj5 WE-A H17-1" was found in the codex.
+
+EDIT:
+
+I have this list (different than ) :
+
+
+Some "Z3non_RAXXLA_Bj5 WE-A H17-??" are following a same GalMap system but some are coming more often such as HIP 9221.
+I Don't have data but in eddb.io 2 bodies are missing for :
+Planet 9 and 10. BUG?
+
+I was bored, now i have 48 systems to explore
+Click to expand...
+
+
+ok here ppl, its already been said above twice atleast, but im going to say it in a more detailed way so we can all stop wasting our time....
+
+this text search string thing, has nothing to do with Raxxla and is just click bait...
+
+the original poster of the string, said himself on Reddit;
+
+"It is an issue how FDEVs not check User Input. It is Just an overflow. I told them 18 Month ago."
+
+and if that doesnt explain it for you, heres another users explaination;
+
+"It ain't some special kind of code
+Z3non_RAXXLA_Bj5 actually don't mean anything
+You can put I_HATE_MAYONNAISE there and it will still work the same
+WE-A
+W letter is probably for the cords of center in regions. typing different number after H17- will take you to other centers of regions
+You can also change W to other letters and it will deliver to other coords
+But yeah, nothing special"
+
+
+so, to reitterate one last time, any text upto and including "Bj5" doesnt matter and can be random and it will still point you to the same area. the fact you can use text that includes 'RAXXLA' is no different then the fact that you could use swear/curse words in that spot and it still works, its just a bug in the way search text is parsed in the galmap.
+
+everyone on the same page now? lol
+
+good luck CMDRs ! dont waste your time on verified misinformation.
+
+EDIT: for those still wanting to know how the text string was found in the Codex by the original poster... IT WASNT, lol.... they were bored and made that part up as well.
+Last edited: Jan 13, 2022
+Reactions:
+dysonl, electro, Jet Blaqq and 4 others

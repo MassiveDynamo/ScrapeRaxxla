@@ -1,0 +1,27 @@
+Suhurrat
+S
+Nov 17, 2022
+#27,948
+SongOfTheVoid said:
+Nah Fdev do themselves a disservice with their refusal to accept or acknowledge player knowledge/discoveries unless said person subscribes to the communist ideal of having worked for thousands of hours on X puzzle only to hand over the results to the masses for literally nothing. Frontier are well aware ive whole hosts of information that the general playerbase dont know, numerous times they were offered chances to discuss releases of information in such a fashion that it benefits the storyline, plots and brings clarification to the rest of the research scene.
+Frankly this knowledge of the Hidden systems mechanics is nothing of any significance as anyone who spent long enough exploring the HIP index manually could easily deduce the same information for themselves, of far graver concern is why MAJOR plot aspects are left vague by Fdev despite them knowing of their discoveries. I sit on all the real Guardian science and knowledge, have for years and have been able to prove it... If I had been a BGS person, a Hauler, a Trader, a Pirate or even a explorer I couldve earned billions in the time I devoted to solving the puzzle, and Fdevs stance is tens of thousand of hours of work should be handed to the masses for nothing.
+PS> The Tinfoil is the endless "My mythology" in the scene and as its fair easier to swallow the Mythology line and then take boring but easy trips around the galaxy to whatever random location they are wasting time on, than to go "Ok we need to learn some science, stop labelling things we dont understand or recognise as nothing and get to some hardwork"... Humans generally take the lazier option regardless if they are aware of it or not and people promoting such behaviour have caused the vast majority of all the burnout in the scene with their one endless goose chase after another.
+Click to expand...
+@SongOfTheVoid yeap. True.
+
+Yes, I can confirm everything that this commander said about the map. First, when searching, you can find that:
+
+1. the name is sometimes doubled
+2. They are from different directories.
+3. Galmap very often displays the first 10-20 variations in the search, and asks for clarification since 100+ names suitable for the search have been found.
+4. I myself encountered the curvature of Galmap when paving the way for Stargoids. I pointed out specific systems from the Cannon3d website. And the search sometimes did not find at all and sometimes gave out the exact search result. Moreover, the quality of the result depended on the first two letters you will enter or combinations of letters and numbers. That is, for example, some system with the name "I found something A-B3-S-0-D " may not pop up in the search at all and cannot be selected simply on the map until you come across the output in the search by searching.
+5. Considering point 4, I came to a very simple and funny conclusion. the easiest way to pave the way is to switch galmap to the display of stars (a realistic option) and, starting from it, look for the right star with your hands. Which immediately leads to interesting results. When there can be 10-20 stars or systems that are nearby and differ only by one digit or letter in the name. But at the same time, the output of the list through the search will not show them at all.
+6. Another interesting observation of mine is that black holes and pulsars are not always displayed on the map in any color. Some black holes are marked in black in the map, some are cloudy transparent gray. So are pulsars. Pulsars are also sometimes marked with an almost very light shade of blue and white.
+7. If we take this as a basis, as I did, then it immediately turns out that there are quite a lot of pulsars and black holes around the bubble. Just like there are pulsars and holes outside of dense sectors. Such as the Cyg-X3 I specified, which is actually achievable only through a supercharged fsd or through the player's carrier ship.
+8. Almost the entire traffic density of both NPCs and players lies plus or minus in one plane. And many systems around the same bubble have not yet been investigated, as they are above or below the plane.
+9. I have already mentioned above that many jump from point a to point b, with the maximum possible distance for them. But if you limit the laying of the path, for example, to 1-2 ly, then galmap either will not pave the way, or create a list of 100-200-300-400-500 jumps that will pass through systems in which no one has been. I myself earn money from time to time by opening systems
+
+Conclusion: yes, the map does not always work as it should, I would say often. And very often names from completely different catalogs are used. Sometimes a system or star may be called by a mythological/other name.
+So technically, we still have to explore and explore. That's why I pointed out that 99% of events are very tightly located to the bubble. But they can be located in different planes. Pleiades, for example, are lower than Sol. But the ruins of the guardians are both above and at the solar plane level.
+Reactions:
+SongOfTheVoid

@@ -1,0 +1,8 @@
+alexzk
+A
+Aug 25, 2019
+#11,302
+Well, not sure ... I extend coordinates +/- 500 it each direction, to ensure that "infinite line" touched, so it goes in bounds:
+
+[-2926.84; -649.438; -1823.62]
+[504.312; 795.031; 472.094]

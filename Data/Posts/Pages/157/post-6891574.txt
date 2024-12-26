@@ -1,0 +1,9 @@
+Jaiotu
+Jul 27, 2018
+#3,123
+Noobilite said:
+I think in one of the ian bell interviews I found he said that Raxxla was in the original game. But not in the original release. I think he said it was in several of the original elite games, but only ones release on certain systems. AKA different releases for different computer systems besides PC had difference content in them. So, I think it depends which version of Elite is being referred too. I was wondering if it was in the original they gave us for buying elite dangerous. Which version is it equivalent too or is it unique version.
+
+Based on personal correspondence with Ian Bell I don't believe this to be the case. Raxxla wasn't in any of the original Elite games regardless of platform. The entire galaxy was procedurally generated and system names used a lookup table that didn't contain a combination of characters that could have produced the word "Raxxla". Elite had already been completed, by and large, when Acornsoft hired Robert Holdstock to write the game manual and accompanying novella. Holdstock reused his made-up-word "Raxxla" from 1981's The Alien World to create a great short story but, Raxxla never existed in the game code. In Oolite it is possible to visit Raxxla via OXP user mods to the game but, regardless of the many urban legends about the game, Raxxla has never been a part of the original Elite's code.
+Reactions:
+Thatchinho

@@ -1,0 +1,15 @@
+Jorki Rasalas
+Sep 24, 2020
+#19,043
+Vetinari said:
+What are we doing now? I'm lost
+
+Whilst you people of programming are watching and here, in my mind I have an vision of a database we can all 'question' a la EDSM or Inara. Where we can choose number of Stars, Planets, Moons, GG and other system bodies or filters. Not to find the closest station but the closest system with an A star with 8 bodies, 3 HMC, 2GG & 3 IW, secondary G with 2 Ast fields, 6 IW for example?.
+
+I only know enough to know / imagine its a ton of work but I dont know how much Im asking....Anybody up for having a go?
+
+A thought occurred that TDW’s stealthy station might be the same in-game as in the AHTWheel story (though as Simalucrae pointed out TDW/=CIEP; but then, since FD retconned the lore, who knows?). See my last post for AHTW extract that describes the system it’s in. Hence the proposed search on EDSM known systems near Sol/Achenar with an M type single star & a blue-green gas giant. Since the CIeP station has Imp-standard gravity, and the first mention of Raxxla was quite close to founding of Achenar, I’m inferring it might mean the station is nearer to Achenar than Sol and might explain the link between Raxxla/TDW/stealth station.
+
+Suspect the only way to do what you want is to download EDSM data and do your own search on the JSON-formatted file (beyond my software skills!), but it’s very large, much too large for Excel (& I no longer have even that thanks to MS’ “update” process).
+Reactions:
+Dr. Lexus, Vetinari and [PS4] Filthymick420

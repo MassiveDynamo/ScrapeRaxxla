@@ -1,0 +1,7 @@
+Jaiotu
+Apr 15, 2018
+#2,241
+lorrad said:
+Might be easier to learn mysql and run your queries against your local edd or ed-ibe database?
+
+Might be easier to perform a self lobotomy. I don't have a local edd or ed-ibe database. I'm a bad citizen.

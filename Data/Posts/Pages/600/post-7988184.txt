@@ -1,0 +1,30 @@
+Deleted member 38366
+D
+Sep 6, 2019
+#11,985
+yelboc said:
+Oh dear - more mis-truths..
+
+Extensive studies have shown no ill effects other than increased cataract rate in people who use them for many hours a day (using old tech phones of the 1990's). These are caused by direct heating of the eyes by conduction of heat from the case, not by the RF radiation. All modern phones are actually designed to direct RF away from the head - partly because of stringent safety rules (all phones are tested to meet Rf radiation limits set to give negligible exposure risk), but mainly because you get better data rates.
+
+Extensive studies often sponsored by Multi-Billion $ Corporations... Please do yourself a favor and always take "studies were performed" with a huge grain of salt.
+(it's common practice these days to simply purchase studies, it's completely normal for the institutes to literally ask the desired/preferred outcome of any study)
+
+Radiation intensity is one thing. Naturally it can be harmful at high intensity, which isn't the case for mobile phones.
+BUT.... the biggest threat Radiation typically poses is dose and exposure over [t].
+
+So if you see very young people (even small kids) operating Smartphones or being chatty on them, they're doing nothing else than holding an active VHF/SHF Transmitter with extreme PRF right next to their body or head. And they get alot of exposure over the years due to intensive usage.
+
+PS.
+Similar things were stated about WLAN installations, totally harmless and no factor at all. "WLAN everywhere" was all the rage.
+Well, in fact they're so "harmless" that both civilian and military Radar Installations even at large distances were jammed and a 5GHz Radar Blanking had to be implemented into the WLAN standards (i.e. FCC-06-96A1).
+
+I remember our old Airframe (fighter jet) received a new and upgraded RWR decades ago (Radar Warning Receiver), fully tested and calibrated by the manufacturer.
+Well, the sorties we did with this brand new RWR were.... let's just say "rather surprising".
+We ended up seeing the device literally being jammed into oblivion by surface signals, rendering it nearly unusable for months. Only over open sea it was found usable and fully functional.
+Manufacturer had to analyze the results and found out the Equipment wasn't at fault. It was merely bombarded with EM signals from the populated ground in a huge frequency spectrum. Much worse, much more intense and much broader then they had expected based on all civilian rules, regs and certifications guiding the production of EM-capable consumer devices.
+It wasn't until a few Software updates later that the new Equipment worked to full satisfaction.
+
+All I'm saying is... things aren't "all safe, sound & shiny" as the industry would love to make its "consumers" believe.
+Reactions:
+[PS4] Filthymick420 and Six6VI

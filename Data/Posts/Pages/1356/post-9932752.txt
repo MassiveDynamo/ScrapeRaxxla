@@ -1,0 +1,12 @@
+cmdr milesred
+Sep 5, 2022
+#27,104
+here is what it was once.
+this is a 32mil year old black hole=main
+I have to look to see if it has changed, but my prg still sees and notes them with proper value, etc..
+
+{ "timestamp":"2016-11-20T11:03:35Z", "event":"FSDJump", "StarSystem":"Eord Flyuae YU-Y f92", "StarPos":[-7532.781,-214.031,17474.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":167.349, "FuelUsed":5.883783, "FuelLevel":26.077272, "BoostUsed":4 }
+{ "timestamp":"2016-11-20T11:03:39Z", "event":"SupercruiseExit", "StarSystem":"Eord Flyuae YU-Y f92", "Body":"Eord Flyuae YU-Y f92", "BodyType":"Star" }
+{ "timestamp":"2016-11-20T11:04:38Z", "event":"Scan", "BodyName":"Eord Flyuae YU-Y f92", "DistanceFromArrivalLS":0.000000, "StarType":"H", "StellarMass":6.527344, "Radius":19255.523438, "AbsoluteMagnitude":20.000000, "Age_MY":32, "SurfaceTemperature":0.000000, "RotationPeriod":0.091549 }
+Reactions:
+Ataxia

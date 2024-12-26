@@ -1,0 +1,13 @@
+Macros Black
+May 25, 2022
+#26,240
+Macros Black said:
+Mission designation: Operation Haystack HIP 36823
+Objective: Examine belt clusters in systems near HIP 36823 (Guardian beacon)
+Ship: Fortyminer
+
+Belt clusters have been used to hide things. Examine the belts and use the Pulse wave to locate and extract valuables in the process.
+Mission status: Complete
+Conclusion: No Raxxla found in asteroid belts in star systems ca. 20Ly from HIP 36823.
+Reactions:
+Rochester and Ughkoff

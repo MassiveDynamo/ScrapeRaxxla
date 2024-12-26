@@ -1,0 +1,24 @@
+D7
+D
+Feb 22, 2024
+#33,487
+Mecrutio said:
+Just a little math; (c=speed of light in a vacuum. Please note that the values shown are from a quick google search and are not precise, but precise enough for here.)
+
+1c = 300,000km per second. (ish)
+1Ls = 300,000km
+.01c = 3000 km per second, or if used to measure distance, 3000km. (.01Ls)
+So to hit a 2000km diameter object (dead center or zero) using a scale that measures in 3000km increments, there is an inherent 4000km deviation before even stepping into the cockpit. That's plus or minus .01Ls from zero, minus the 2000km diameter (1000km radius)
+The 3.63Ls distance is from theoretical planet center. The rise to run of 1 deg. at a distance of 1km = 17.452km.
+The rise to run of 1deg at 3.63Ls = 19,005,670km (0.63Ls) Taking into consideration the radius of the start planet will only change this by about 100km.
+So ya, the idea of aiming at a single pixel is pretty accurate. (My kitty just lost a leg so I'm feelin... wierd and mathy.)
+Click to expand...
+
+Still, it's possible to position a ship at a given estimated L1 point as precisely as the precision of the game allows - as I have demonstrated above. What's "tricky" is how precise that position actually is. I would replace the word tricky with random luck and a waste of time to repeat said process if your purpose was to try and locate a cemetery that very possibly is not even in the game. I also feel the same about targeting Rafe's Anaconda especially when the game doesn't even give precise Ls values all the way out to 0.1 ly (it converts over early at 3,076,000 Ls - LOL). The latter feat may be worth trying a little bit because it's predicated on there being a position transponder that tolerates some inaccuracy in arrival position. Even so, it's not worth wasting too much time since there is also no direct evidence that the game incorporated this extra-game information.
+
+But yes, Han_Zen and Ian Doncaster's caution is noteworthy for sure.
+
+BTW: So Sorry about your cat, that's a bummer.
+Last edited: Feb 22, 2024
+Reactions:
+Vlad plus and Mecrutio

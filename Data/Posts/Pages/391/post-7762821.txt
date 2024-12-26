@@ -1,0 +1,8 @@
+Redden Alt-Mer
+Apr 29, 2019
+#7,811
+Crimson Echo said:
+The Capitols and number scattered all over the place and the variation in line length seems weird.
+yeah, that's why I mentioned it didn't seem a plain substitution/transposition cipher. Also, by doing some basic frequency analysis you can see there're a lot of repeating digrams that do not have a direct transposition in english, so it would seem something at least as complex as vigenere is implied.
+
+Or it's not encrypted, but just encoded: if you concatenate all the words, it's a valid base64 string but the output is nothing human-readable (nor a common file format)

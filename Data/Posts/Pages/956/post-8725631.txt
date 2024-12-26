@@ -1,0 +1,11 @@
+alexzk
+A
+Oct 1, 2020
+#19,120
+Jorki Rasalas said:
+Sorry Alex, I’m not a programmer. Where/how do you type that in? Does it have to be compiled??
+Twas easy using the EDD route planner
+In browser:
+https://www.edsm.net/api-v1/sphere-systems?x=0&y=0&z=0&radius=20
+Reactions:
+PeteACarter, Macros Black, Jorki Rasalas and 1 other person

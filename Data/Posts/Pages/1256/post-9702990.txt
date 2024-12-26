@@ -1,0 +1,11 @@
+Merlin StWahgwaan
+Jan 16, 2022
+#25,113
+Absense of evidence is not evidence of absence.
+
+Just because we see limited live changes on our ends, is absolutely not a reason to believe fdev CAN'T manipulate anything they want live. Is weather they CHOOSE to do so or not.
+Changing how the forge generates things would change then entire galaxy, changing a line of text in a sever file to read a different system name, is more then capable, especially if that line of text is in a separate assets file that is only called when specifically encountered, so as long as no one has the raxxla file called to their forge/pc actively "in use", then they can edit any information in that file at will, no delays or questions, and the changes would be live immediately to the next user that does call on that file... same with moving the files location if that's how they store server sided info, just wait until no one is actively in the system, change/add/remove the files from that systems server sided folder, and boom, things are changed for the next user who calls the server for the systems extra content....
+
+Edit: also, there is nothing in my theory that says fdev IS changing anything 'live' either.
+I said periodically, which could be weekly, monthly, quarterly, yearly, ect.... and this would be being done by an automated script or ect that ensures that the process is followed on time and doesn't interfere with the forge itself ect, no human fdev interactions or intervention required to be done 'live'
+Last edited: Jan 16, 2022

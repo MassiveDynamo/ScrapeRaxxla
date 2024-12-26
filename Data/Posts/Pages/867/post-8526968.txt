@@ -1,0 +1,18 @@
+djadjok
+Jun 13, 2020
+#17,330
+Eckee said:
+Yes, I guessed that was the thing you're talking about, just wanted to be sure. I remember the days I had to count every "human" POI in the vicinity of a body to compare with the numbers I got from FSS. That had been exhausting. I hope you're right and they've moved those real interesting signals to "other". That would surely step up our pace.
+Jorki Rasalas said:
+I still do a check of FSS human detections versus CZ and surface bases. It’s the only way to find a wrecksite at a distance (and sometimes even close up as some of those POI seem to be bugged)
+Reporting in. I've checked some persistent crash sites around the Bubble, mostly "unnamed" ones. Even if some of them were absent just after the FC patch now they have returned. My expectations were wrong - all of them "human" once again (so the old technique of signals "count and compare" still must be applied).
+So far only two cases of FSS signature "flipping":
+1) the "special" one of Mitterand Hollow (hardly the best example), I even plan to revisit it once again (will be the 4th time in 2 weeks)
+2) A well known crash site of commander Jameson cobra. But here I have no recorded evidence of the state before the update. At least now it belong to "Other" category (the INRA base in proximity is still "Human")
+I also plan to check some other sites.
+
+Jorki Rasalas said:
+But that’s only true if Raxxla is a POI, which I highly doubt. There is no evidence to support it, the suggestion arose from Holdstock’s TDW novella (“planet with alien artefact”) and Wagar’s Oolite books (hyperspace-capable wandering planet with alien artefact) , the former has been retconned by FD and the latter is fan fiction (though a good read!) and not relevant to ED. And Raxxla has been in-game since gamma release, so well before Horizons, hence it cannot be landable. Raxxla ought, logically, to be an astronomical phenomenon, and sufficiently novel to be a worthwhile find at the completion of a long tedious frustrating search, so I’m mooting an Exotic Star (though it might also be a rogue star wandering between systems, and I reserve the right to be incorrect!! ), or perhaps a Diamond Star (good luck getting it back to a market for sale! Though it would probably pay for a fleet of Fleet Carriers!! )
+Don't want to object here, in fact my "alert" do not concern on the possible in game "nature" of Raxxla. Firstly, I must admit here that I'm not a Raxxla hunter myself (more the contrary, "anti-raxxla hunter" if you wish, as, involuntary, I'm more in "closing cases" then in "opening new ones"). My own field of interest concerns mostly understanding of the in-game mechanics. Afaik there are numerous theories about Raxxla or any other in-game mysteries, possible clues and where to search for them. At least some of them do sound "logical" from the common sense. However when they start to rely on some procgenerated in-game locations I'm starting to became skeptical, as for the cloud of proc.generated locations its dimensions/boundaries and center/centers can have some meaning, but I highly doubt the the coordinates of its individual members are of importance. And that is not the case when some handvavium has been applied. So my recent expectations were linked to the appearance of new in-game method to distinguish some procedural and hand-tweaked POI's. However at the moment I can not confirm that situation has significantly changed in this domain.
+Reactions:
+Eckee, PeteACarter and Merlin StWahgwaan

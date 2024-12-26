@@ -1,0 +1,6 @@
+CMDRCorrMorningstarFelian
+Jan 1, 2023
+#28,744
+Rochester said:
+Technically it’s logical to assume FD would allow us to find it, so it ought to appear on the FSS!?
+My guess is that it is an installation. If memory serves me correctly, installations are not detected unless you are within 1,000 lightseconds. Though, scanning a body with FSS will get nearby stations, fleet carriers, and installations so the 1,000 lightseconds may have changed.

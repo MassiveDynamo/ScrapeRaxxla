@@ -1,0 +1,20 @@
+Ian Doncaster
+May 6, 2019
+#7,946
+While we're looking at Viginere ciphers, one extra thing I thought of was using other system names as the keyword. There are three matches of various qualities available there, all using "a" as the "leave unchanged" character.
+
+Plaintext: Raxxla
+Codeword: Mandii
+Encoded: Dakati (could be Dakatipini system, though this would require the plaintext to actually be Raxxladiaf)
+
+Plaintext: Capella
+Codeword: Paita
+Encoded: Raxxlaa (so close!)
+
+Plaintext: Raxxla
+Codeword: Yaur
+Encoded: Paroja
+
+The third one is the only really good match, of course. But could this be a clue in the style of Drew's Formidine Rift directions, stating that Yaur is "between" Raxxla and Paroja, so if you start from Paroja, then travel to Yaur, then keep going, you'll find Raxxla? (For a bonus coincidence, sure to get the less cautious rushing off immediately, check out who currently controls the Paroja system...)
+Reactions:
+Midian Cabal

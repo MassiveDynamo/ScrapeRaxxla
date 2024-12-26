@@ -1,0 +1,11 @@
+Han_Zen
+Jan 28, 2019
+#5,513
+Jorki Rasalas said:
+I suspect this is TDW stealth station & it can’t be found this way because it won’t be in EDSM etc until it’s been found.
+
+I’m no programmer, is that an Excel command line?
+
+I think you are right. The TDW station will not be in EDSM.
+
+I also doubt the Coriolis station in the standard start up video is significant. That one has blinking nav. lights and seem fully powered.

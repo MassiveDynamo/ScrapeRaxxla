@@ -1,0 +1,34 @@
+Djidjel
+Sep 5, 2020
+#18,647
+Howdy Cmdrs,
+
+FD said they made Raxxla's location "a tiny bit obvious", therefore I think we need to laterally think the s**t out of this. The Codex entry says the toast is an "alleged toast" and although there has to be something useful there, I'm not gonna focus on that too much. I took my Anexplonda (she either explores or explodes depending on my abysmal flying abilities) and went lateral right off the proverbial cliff. And kept going since I somehow managed to miss the ground.
+
+(TL;DR I think I found something, maybe nothing, laughable most likely. Fun journey though)
+
+1) It sure would be nice to know the level of allegedness of that toast. Is it canon? Should we ignore some/all of it? Anyway, here's another way to look at the "brow" part. Beside "forehead", "eyebrow" or "summit/peak" it also means "bridge" (the old Norse meaning). There is a star that sits right on the galactic equator, bridging the galactic hemispheres. Mintaka. There's a black hole in it, Mintaka B, the lover's woe and the parent's grief. Mintaka A is an O-class star, so there's your jewel. Don't know how the siren and the whisperer fit in, but it might be just be a distraction from FDev, I don't know. So anyway, I went there, scanned again (and mapped) the whole system, spent some time there looking for anything out of the ordinary. Even went in the black hole. There's a body exclusion zone of 147 km. No Omphalos. That was it. Nothing else.
+
+2) RAXXLA. The name might bear a clue itself. RA XX LA. Could they be coordinates? I've seen some cmdrs pursued this already, but here's what I think: RA is Right Ascension and LA is Latitude, better known as Declination. XX, as roman numerals, are either 10 and 10, or 20. So we got 10 degrees RA and 10 degrees Declination, OR 20 degrees for both. Because I can't seem to figure out how to search GalMap by coordinates (is it even possible?) I went through the astronomy catalogues and at close proximity to those coords I found some systems: HIP 48866, HIP 49279, HIP 48911 (for 10 and 10) and HD 189550 (for 20 degrees). There was another one which I have to mention: HD 189754, alt name is HD 1989, it's about 1340ly away, which was right on 20 RA and 20 LA/decl, but it's not in GalMap. Or it is and it's a dark system.
+
+Neither of those systems I found had any Omphalos thingies, or anything else of much value for that matter, just some LTDs and Tritium in a sea of serendibite, alexandrite and whatnot. Maybe something else might be found following those coords, but this is all I could find so far. If someone else finds/knows a way to search GalMap by coordinates, please let me know.
+
+3) Now for the cool part. Just as I was leaving Mintaka I got a phone call. I was looking at my old phone with a numeric keyboard and it suddenly dawned on me that someone could write Raxxla using numbers. R is 7, A is 2 etc. Hell, maybe the cmdr who found it was an old 20th century movie Matrix fan and was still using a vintage Nokia...it could happen right? Right? Slim chances, but Raxxla would translate to 729952. (Well actually it would translate to 777299995552 but let's hope the FD devs are not completely insane. )
+
+I searched for 729952 in GalMap and came up empty handed. BUT, there IS a system called HIP 72995. And the 2nd planet in that system would be....? 72995 2. Or RAXXL A.
+
+SPOILER: COULD IT BE? NAH.
+
+
+Well, since FDev hasn't told us what Raxxla is or what isn't, before they officially deny it (and maybe give us SOME info at least on what Raxxla isn't), we might just as well go there and snap a selfie.
+It looks like some crappy render out of the first season of Star Trek TNG. Something fits, but it's just an interpretation. So anyway, as far as I'm concerned, this is my own personal Raxxla. For now. I'm enjoying this until FD tells us it isn't.
+
+As a finishing thought...
+What if there's more than one Raxxla?
+
+Keep flying like Raxxla's just one jump away cmdrs.
+
+O7.
+
+Reactions:
+Dr. Lexus, [PS4] Filthymick420, Vetinari and 4 others

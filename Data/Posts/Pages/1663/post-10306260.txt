@@ -1,0 +1,13 @@
+Planewalker
+Jan 31, 2024
+#33,254
+CMDRCorrMorningstarFelian said:
+I could be wrong here but I believe megaships act like orbital installations in that you must data-link scan to see interactable parts.
+Correct.
+
+Some megaships also function as taxi services; you can dock at them and be transported to other systems.
+
+The itinerary/destination(s) is listed in the "Local News" portion of the station menu.
+-for non-taxi megaships, the initerary can be found by scanning "Ship Log Uplink".
+Reactions:
+CMDRCorrMorningstarFelian

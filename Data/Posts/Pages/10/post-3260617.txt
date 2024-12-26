@@ -1,0 +1,17 @@
+Futuristic Kung Fu
+Dec 15, 2015
+#184
+Julio Montega said:
+What exactly is that code?
+The stuff from the morse?
+
+
+Tried cezar code?
+
+http://www.dcode.fr/caesar-cipher
+
+Nope isn't the hook here
+
+Top left row: A,B,C,D,G,H,N,R
+Missing in progression: E,F,I,J,K,L,M,O,P,Q
+Oops. The dangers of copy pasting. It's the UA morse code for the Asp Scout.

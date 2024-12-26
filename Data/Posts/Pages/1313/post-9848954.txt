@@ -1,0 +1,22 @@
+CMDR Davanix
+May 26, 2022
+#26,255
+Macros Black said:
+Mission Operation Bubble To Barnard's Loop.
+
+Data analysis
+
+Using Spansh to get a destination gives the system Flame Sector DB-X c1-0
+SPOILER: CUBEO TO CRAB NEBULA
+
+Using the edsm api gives 750 systems
+
+TODO: Exclude all Non-KGBFOAM? in the 750 systems
+Click to expand...
+Flight log of the CMDR: https://inara.cz/cmdr-flightlog/118999/
+
+Crab Sector DL-Y d9, anyone with a 45ly ship to go to Cubeo and plot a route he passed through Wregoe VI-K b8-0 but the story of a DBX doesnt add up to the flight logs I am also going to share a system he may have passed through that I have been meaning to check out V* V393 Gem
+
+Last edited: May 26, 2022
+Reactions:
+rOmiLaYu and Macros Black

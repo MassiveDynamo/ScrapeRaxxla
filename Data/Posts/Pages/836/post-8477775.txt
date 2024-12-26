@@ -1,0 +1,42 @@
+rOmiLaYu
+May 25, 2020
+#16,701
+Rochester said:
+Hi guys, not wanting to add fuel to the already inpolite language around this subject, and yes please lets all try and be civil, but whilst I'm currently out of the game for a while, I had some time to spare and decided to look into the 'that' image again.
+
+My origianl assessment was based off a very poor mobile screen grab, but I've since loaded it up into my 4k plasma and Photoshop.
+
+The Quest To Find Raxxla
+The name of the target in the blurred panel seems too long Image forensics also returned some blurry artifacts over the target: But the cockpit also got this blurred effect around it: Not sure what it worth... Also the user don't have any other pictures posted on imgur and seems to have...
+
+To give some back ground info, I do work in the field of 'information interogation' and trained in fine art / film making and digital manipulation. There are many ways to manipulate such an image and a lot of ways to un-mask certain effects, but there are a few simple ways to mask editing by 100% if you know what you are doing.
+
+Normally the only way to tell if an image has been fiddled with is if the creator is poor at hiding their tracks, or to manipulate the colours etc, to look for patterns etc and also crack the meta-data (which I cant do out of the office). Anyhoo going off what meta data is available it looks to have been scrubbed, which is probably the hosts platforms normal practise.
+
+The text at the bottom left had been smudged, in my opion, not blurred as blurring can be undone, I cant un-smudge it outside the office, but if you flip the contrast, volume, and colours etc there is a few letters visible, but nothing can be obtianied from it, personally I think they applied a mobile smudge effect over the top of the original image, as its just mostly noise. If it were me, I would also flatten and screen grab the image a few times too to hide any history.
+
+The image in the centre, I cant see any tells, e.g. replication, patterns etc and there seems to be a natural glow in the backdrop (under false colours) which fits and disipates with the rest of the image, if it is edited then its a good edit, but again its easy to do.
+
+
+This is the best quality image I can get of the centre of the picture (shown here in B/W for better detail), its sperical, brownish with golden lines converging, it has a reflective surface indicating either an object of astronomical body, the pattern also seems to match the holo display.
+
+To reiterate my initial assessment my personal opinion was that it was . And I stand with that still as its still a , nothing to .
+
+Such information, as is submitted here, can be best described as and the source is certainly 'unknown', on its own and using scientific principles it cant be supported on that basis alone.
+
+If you follow the standards for attributing confidence to investigative intelligence, information only becomes reliable once it can be said at best to be 'known directly' or 'indirectly but corroborated'. Anything lower is untested or unreliable.
+
+I would just go hmmmm probably not, but maybe, who-knows?
+Click to expand...
+All of that is good work, but for me, the obvious bit is that the numbers don't add up. My guess is that it's two different screen shots welded into one or something along those lines. The font in the top bit of the screen is good everywhere except the "RAXXLA" name. So my guess is that he took an empty sky box and then took the reticle and plopped it on to the empty sky box. Then slapped a pattern on a sphere, copy/paste, and voila.
+
+Two more things before I get to the nail in the coffin, though. The light is off on the object, likely because it was made in another program. It's far too bright and the light is directly behind the Asp. Problem is, as you can see from the HUD, the main star is aft and starboard, so the light should be more "centered" on the planet to screen right. Also, a planet that is that big at 92 light seconds? That's 17,140,000 miles away....and it's that big? Raxxla thicc, tho, boi!
+
+Anyhow, enough faffing around. Let's put this to bed for good....I'm dying for some Lavian brandy. Speaking of the HUD and 92 light seconds, let's do a little math. The HUD says that the ship is traveling 0.14c (that's 42,000km/s or 2,520,000km/h) and that "Raxxla" is 92.0ls away. Here's where it gets tricky. If all of that were true, it would take the ship 6.8 HOURS to get there, not the six minutes and forty one seconds shown in the pic. So either the game's fundamental engine of space travel, velocities, distance, and timing are broken - along with the font - or, this is a copy paste job that I just blew out the air lock with my maths.
+
+And before anyone says, "Oi, Biowaste Bucket! Maybe that's six HOURS and forty one MINUTES, eh? Y'ever think o'that, didje?" Yes, I have...and as someone who has done multiple Hutton runs, I know that times displayed in hours always have six digits. Also, even if it was six hours and forty one minutes, even that's wrong because 6and 8/10 of an hour would be 6:48, not 6:41.
+
+It's a fake.
+Last edited: May 25, 2020
+Reactions:
+PeteACarter, Non Grata, Hanerib and 3 others

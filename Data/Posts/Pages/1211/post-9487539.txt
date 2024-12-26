@@ -1,0 +1,26 @@
+Cmdr Judoker
+C
+Aug 30, 2021
+#24,212
+Grab your tinfoil.
+
+It's all to do with Ptolemy I think. The first astronomer, and literally Astrophel (or Astrophil) who looked at spiraling stars (i.e. the Milky Way). Two theories.
+
+The first and I think most likely is that Raxxla's star / or Raxxla body can be found by the use of an Analemma which Ptolmey invented [let wiki be your friend on this]:
+
+"The north–south component of the analemma results from the change in the Sun's declination due to the tilt of Earth's axis of rotation. The east–west component results from the nonuniform rate of change of the Sun's right ascension, governed by combined effects of Earth's axial tilt and orbital eccentricity."
+
+("Although the term analemma usually refers to Earth's solar analemma, it can be applied to other celestial bodies as well").
+
+When you use an Analemma and input the co-ordinates plotted you get a figure of 8, so Raxxla's star or body is a moving target which would explain why it's lost/hasn't been found.
+
+I suspect as others here have said that the name gives some clues (RA = right ascension) or that there are clues in the the toast and obviously there's lots to go on in there. Granted, an analemma would have to be post-hoc justification as the name Raxxla predates FDev, but that's OK lore-wise, it would be pretty neat, and would make sense why the curious inclusion of the Astrophel is in the codex.
+
+Anyway, over to someone with a head for maths and astronomy on theory one.
+
+My second theory is that established star systems with a connection to Ptolmey (Ptolmey; Almagest etc) might offer a clue. No surprise to see Sirius Corp pop up in Almagest's system for instance. But I dont think that's as much fun or nearly as likely.
+
+PS no sniggering at the back because Analemma sounds a bit like...oh in fact it includes...
+Last edited: Aug 30, 2021
+Reactions:
+Exekrator, Adel, Djidjel and 3 others

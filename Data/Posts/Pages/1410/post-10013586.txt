@@ -1,0 +1,33 @@
+Louis Calvert
+Nov 30, 2022
+#28,188
+Suhurrat said:
+There is no special sounds in the witchspace. I play odyssey, compared with the sounds from horizons and the original, only in odyssey pulsars give out such a sound.
+That's good info, but there are a lot of sounds in witchspace
+Suhurrat said:
+Here is confirmation that the pulsar sounds like a whisper. The witch's space is another problem.
+That's good, but witchspace is the relevant part of the clue: "To the whisperer in witch-space, the siren of the deepest void!"
+
+There's a few known things that whisper in Elite; there's whispers at a surface settlement, there's whispers that killed the crew of a generation ship, there's whispers in the Formidine rift logs. The Pulsar whispers are excellent, but if all pulsars whisper, and those whispers don't translate into witchspace, then they're probably not the "Whisperer in witch-space" that the Codex mentions.
+
+Suhurrat said:
+This is the boot screen. Technically speaking, when the targoid pulls us out of hyper-jump, the exit falls on the nearest system at a distance from the star.And again, technically we can't get into witch space.Therefore, trying to somehow look for something in it is useless, as long as the developers themselves do not allow such movements.
+That's a common myth, it's incorrect!
+
+You're never "pulled out of witchspace", technically the "Hyperdiction" is a 'fake' hyperjump that's triggered under certain conditions. It just looks like you're making a regular jump that gets interrupted, but you're actually not jumping at all, you're just in a special witchspace environment, and you're always dropped in the same system you started in afterwards. This proves that Fdev has created a system whereby under certain conditions you experience a 'special' jump that you can't actually tell is unusual until things go wrong.
+
+Using the exact same method (that's been in game for, what? 5 years?) it would be easy for them to create any hidden trigger conditions that cause any type of alternative hyperspace jump.
+
+Therefore, me asking you if you tried listening for whispers when jumping to a pulsar is something that's technically entirely possible
+
+Consider also that Fdev have updated the witchspace graphics (early on, and then Horizons to Odyssey). If it's "just" a loading screen, and everyone knows the original one looked great... why change it? Why actually reduce the amount of "stuff" in the tunnel... maybe it was a technical reason, but maybe it was to make it easier to notice "weird stuff" in the jumps?
+
+There's also an example I saw recently of two systems sitting "on-top" of each other, it's called Martha's Pulsar:
+Source: https://www.youtube.com/watch?v=pe2W1DBQLzo
+Basically you can jump from one system to another (each are different) but they occupy the same space. It's (almost certainly) obviously a bug in Stellar forge's mapping, but it proves that it's fully possible to get to "hidden" places via hyperspace jumps. The mechanic is shown to exist in the game, therefore it could be used as an intentional game mechanic to access a hidden place
+
+The assumption that hyperspace jumping is "just" a loading screen is likely a massive mistake I've been compiling a list of documented "strange things" in Witchspace jumps which I'll post soonish - in short, people have seen planets in Witchsapce (maybe the same planet actually), and that's just the ones that have videos, who knows how many times weird stuff happens that's not reported or not noticed by people assuming witchspace is "just" a loading screen sure, these anomalies may be bugs, but what if they're not??!
+
+Every time someone reports something weird in Witchspace jumps they're told by people on the forums that "it's a known bug" or "Fdev stupid they do bad" or whatever. But you know what? I've not found anything in the bug tracker about these types of things... (still looking though!).
+Reactions:
+Merlin StWahgwaan and Darrack

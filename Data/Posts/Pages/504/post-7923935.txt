@@ -1,0 +1,16 @@
+[Diplomacy] Carnegie
+Jul 31, 2019
+#10,069
+TotallySirius said:
+I stumbled upon something odd while playing with the galmap. It's probably just a bug, but it seems to line up with a couple of things. If you search "HD 1337" it takes you to AO Cassiopeiae, which is just a different designation for that star. However, if you search again it will move a few light years away from it and just stop there. No star near that spot. I mess around with the map a lot, but I have never seen it do this.
+
+I know some stars below and above the galactic plane will shoot you back to an empty spot, but this just moves over as if something there. A lot of people have linked the Raxxla mystery to Cassiopeia, and "A place that isn't a place" seems to fit this situation.
+
+Once again, probably just a bug, but it made me add a few extra layers of foil to the hat.
+Click to expand...
+
+There are a few glitches like that. Some catalogue stars are misplaced and/or mislabeled, and a few take you to a blank space on the Galmap.
+
+Also, if you search for 'HD 1337' and keep pressing the '>' button you'll cycle through 'HD 13370', 'HD 13371', etc.
+Reactions:
+PeteACarter and TotallySirius

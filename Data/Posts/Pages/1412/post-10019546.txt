@@ -1,0 +1,52 @@
+cmdr_imonix
+C
+Dec 3, 2022
+#28,223
+Rochester said:
+The are currently 3 goid maelstrom’s; as I understand the current situation, of which there are to be 8 planned, I was not interested in their origin points, but their destinations.
+
+We know from FD the craft inside each are ‘looking for something’. It’s up to players to either observe or interact (combat).
+
+If we plot their destinations in relation to each other, do these tell us anything, do they correlate to each other or something else - to which we could rule them out of the quest?
+
+I’m still operating upon the assumption they are not, as Thargoids are octagonal and the Raxxla logo is hexagonal. But any information is good information, especially if one can confirm its relevance.
+
+I am currently cooking breakfast (Eggs Benedict) but, will do a little plotting later into the day, might be nice distraction.
+
+*edited following breakfast:
+
+
+
+HIP 20567 - Indra
+HIP 8887 - Lia Gong
+Hyades Sector FB-N b7-6 - Taranis
+
+, the Hindu king of the gods an Indo-European cousin of the German Wotan, Norse Odin, Greek Zeus, and Roman Jupiter, gods of thunder.
+
+is the Chinese god of thunder.
+
+is a the Celtic god of thunder,
+
+: Currently these 3 maelstroms are all linked via the naming use of a god attributed to ‘Thunder’ (discounting the obvious Thargoid link).
+
+The 3 systems currently correlate equally; but there is not enough data to draw any conclusions at present, but we know there are to be an additional 5 locations.
+
+All 3 systems sit below the (one is bang on the equator), all within the lower celestial hemisphere (identified by the location of the zodiac in relation to Sol).
+
+This lower hemisphere is populated by various systems whose naming link to various mythology and literary concepts of an underworld, commonly Pandemonium and Norse mythology.
+
+Nothing definitive can be concluded at present but I will keep track of these, and see if the additional maelstrom’s identify any correlation.
+
+Interesting.
+Click to expand...
+Very interesting. When all 8 Stargoid's are in position, it is possible to find the system in the middle of all 8 stargoids - Their centroid.
+
+Add all the individual eight X coordinates added together and divided by 8, all the individual eight Y coordinates added together and divided by 8 and finally all the individual eight Z coordinates added, divided by 8 will reveal the Centroid at (X,Y,Z) i.e.
+
+(X1+X2+X3+X4+X5+X6+X7+X8)/8, (Y1+Y2+Y3+Y4+Y5+Y6+Y7+Y8)/8, (Z1+Z2+Z3+Z4+Z5+Z6+Z7+Z8)/8 = (X,Y,Z)
+
+It's going to be a known system, but something might happen there.
+
+I do personally think that Thargoids are not the real road to any lore discovery; a red herring. I suspect, without proof other than we have been heavily fed the Thargoid story line, that this is hiding Guardian or Guardian AI involvement. The Guardians have been mysteriously quiet for sometime, happy in their trans-dimensional world perhaps as Halsey experienced, whispering away in hyperspace.
+Reactions:
+Ataxia, Rochester and Frankymole

@@ -1,0 +1,16 @@
+Ian Doncaster
+Sep 15, 2024
+#34,824
+Ian Doncaster said:
+Seems worth a trawl through the exploration databases for it, though it'll take a while for me to get the right sort of search to pick all of those conditions up.
+Having done this experiment, I think I can conclude at least one of these things must be true
+1) The Codex picture isn't of the Dark Wheel station
+2) The DW station is not actually around an 8th moon of a gas giant
+3) The DW station is in an extremely unusual system - possibly fully hand-edited, but otherwise "world of death" level rarity - which has probably not yet been discovered at all
+4) The star is a distant red giant (or some other extremely large red star) after all and there's some other explanation for the visual artefacts which make it look like a nearby red dwarf.
+
+8th moons around cobinary gas giants (or around gas giants themselves orbiting a star) aren't unheard of - but either the gas giant is the heavier object in its cobinary system, or the radius of the cobinary system is far too large - even allowing a separation of 200Ls where the star would be a tiny dot rather than the necessary 10Ls seems to only allow for Y-class stars to be part of this configuration, not even the larger brown dwarf classes.
+
+This makes sense - a complex moon system shouldn't be stable within a few Ls of any stellar-mass object - but means that the picture is likely just of some random Orbis orbiting a planet near a star. Disappointing if so given that it's one of the few pieces of apparent information available, but never mind.
+Reactions:
+selbie, Han_Zen, Kryxix and 2 others

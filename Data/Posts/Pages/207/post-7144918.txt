@@ -1,0 +1,9 @@
+Thatchinho
+Nov 5, 2018
+#4,135
+Edelgard von Rhein said:
+I've never had to manually delete files from a beta. I think once you install the main patch they relate to, some (a lot) of them are used for that so you don't have to download everything again. I've not checked what happens to them but I imagine they have their own beta folder next to the regular game folder that can hopefully be deleted after the main patch has been installed without problems. I'm not really the one to ask, though.
+.
+Regarding checking things once the patch goes live, I'd keep an eye on the permit-locked systems (and sectors). I don't think these have been removed in beta but I've read about some 'Security Permit required' systems being found in 3.2 in deep space. It might be that some clues to either The Dark Wheel or Raxxla have been placed there, if anything is unlockable.
+
+Yeah... those systems were data mined not found. And this isn't one of those wild accusations that go round, they definitely were. Personally I've applied an 'ignore and disregard' policy to them as a result of how they were found.

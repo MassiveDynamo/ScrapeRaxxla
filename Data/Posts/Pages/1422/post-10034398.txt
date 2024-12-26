@@ -1,0 +1,8 @@
+Louis Calvert
+Dec 13, 2022
+#28,437
+Robert Rockbite said:
+Which systems?
+Why, I would use brute force and check all known stars in a certain range around Sol if they form a certain geometric shape - usually within some tolerance, to get any results at all.
+Didn't do that search for 7-systems-forming-a-3D-cross-shape, though.
+There's tens of thousands of stars within only 200ly of Sol, if you're trying to brute force 3 pairs of 6 looking for a match... that's a lot of possible combinations. I think maybe that's why it's actually a good and hard puzzle, even if you know exactly how it works.

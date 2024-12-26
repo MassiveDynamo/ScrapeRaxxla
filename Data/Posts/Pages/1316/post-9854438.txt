@@ -1,0 +1,8 @@
+Jorki Rasalas
+Jun 3, 2022
+#26,312
+Interesting hypothesis...but why specifically the Crab Pulsar? Jocelyn Bell Burnell did indeed discover (though not sure that then warrants her as the “Whisperer”?) the first pulsar (good match for “siren”), originally called LGM-1 so it’s a significant astronomy event which DB might have commemorated with Raxxla. But is LGM-1 (aka PSR B1919+21, PSR J1921+2153) actually in ED?
+Has anyone tried boosting from it & seeing what boost level is attained & where it jumps to? If LGM-1 is the Omphalos then Raxxla might be an enhanced jump, but it is said to be “very difficult to find”, so that jump might only trigger to one planned destination so low probability of finding it.
+
+The only difficulty I see with this hypothesis is that FSD supercharging/boost was added with Horizons The Guardians (2.2) on October 25, 2016, well before this “alleged toast” was released in the Codex (11 December 3304/2018), but well after Raxxla was inserted in the Gamma. However as part of the puzzle it might have been included for a particular NS from the outset and perhaps only with 2.2 expanded into a general feature for all NS as a potential hint in the Quest.
+Last edited: Jun 3, 2022

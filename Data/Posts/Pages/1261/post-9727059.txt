@@ -1,0 +1,9 @@
+Pyroboros
+Feb 2, 2022
+#25,219
+Adel said:
+I try to understand since an hour how to enter in a comet signal but can't understand (your link is about how to crash galmap).
+YesYes GalMap. u can Seach for stuff in Galmap this includes everything that has an 64bit ID. Stations, Planets, ... . You just need to find the right way to put that seach string together. Basicly Overflowing the SystemID so that its mostsignificant bits go in the BodyID part. Depending on the Layer (MassCode) there is a difference. The GalMap (if a lookup gives no result) the search will trys to convert the input string in an 64bit number and then asks Stellarforge if a system body ... whit this nummber exists or not and if so it will show u in which system.
+If u happen to be in that system already... it will pop up a marker like for an Signalsource, at the lokation were the thing whit that ID should be.
+Reactions:
+Disemboweled Ego and Adel

@@ -1,0 +1,7 @@
+clavain
+Sep 6, 2022
+#27,142
+Currently chasing the whale(s) at 778c ("and rising..."), but don't seem to be making any progress....
+
+Edit: At 1,210c now and can see it move every now and again, in a very small stutter jump forward (not a smooth animation at all). Not sure if it is supposed to be parallax or it is actual movement or both.
+Last edited: Sep 6, 2022

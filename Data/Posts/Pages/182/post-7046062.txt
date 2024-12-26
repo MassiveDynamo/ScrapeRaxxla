@@ -1,0 +1,20 @@
+Jorki Rasalas
+Sep 26, 2018
+#3,628
+Jah'bastah II said:
+The whole point of a rogue planet is that it escaped the system it belonged to and is in interstellar space somewhere, so of course it would be the jumpable body. How does one go about finding and travelling to those? Doesn't show up in galaxy map filters... (unless non-sequence or dwarf stuff includes it somehow). Or perhaps one has to manually select it from the galaxy map if he/she finds it?
+
+Well, if my reasoning above is correct then it might be in a system named along the lines of:
+SECTOR($$$$) SUBSECTOR($$-$) A#-#, where $ are letters and # are numbers.
+It would be an A type Star mass system because a rogue planet should have very low mass, though the upper limit might take it near to the mass of a brown dwarf (which are also in A systems).
+
+There would be nothing to distinguish it from any other A type system until you jumped in; though possibly some visual difference in galmap realistic view?
+
+edit: but without a star in the system the rogue planet would be lit only by the light of the Milky Way, and should therefore be very dark (therefore uninspiring).....unless it’s near the galactic centre, or maybe in a nebula that might provide some lighting. The only example we have of a rogue planet in the fiction was in DW’s (non-canon) book where Raxxla was temporarily located in Lave.
+
+edit2: it is possible to search EDSM by celestial body type. Zero instances reported of types: X, rogueplanet, nebula, stellarremnantnebula!
+
+The alternative to being in a procedurally-named system (when it would follow the naming rule above) would be for it to be in a human-designated system, which should stand out like a sore thumb if you’re anywhere outside the bubble.
+Last edited: Sep 26, 2018
+Reactions:
+Scytale

@@ -1,0 +1,18 @@
+Bran Lucius
+Mar 4, 2019
+#6,360
+CMDR Woland92 said:
+Sorry if this is an obvious idea/question, but has every system in the bubble been visited, scanned and fully-scanned (dss)?
+
+If not, is there any way to determine which systems have not been fully mapped or scanned?
+
+To systematically do this would take many people and years of time. The best you can do is use what we know to narrow down the search. For example Raxxla is the 8th moon of a gas giant. So heres what I do when searching random systems:
+
+1) DSS and see how many bodies there are. Lets say there are 19 bodies.
+2) Go into system map and literally count the bodies to make sure every one has been discovered. If its 19/19 nothing more to do unless...
+3) There is a gas giant with at least 8 moons. Whenever I find a system with a gas giant that has 8 moons I go to the 8th moon and then I
+a) Look in the FSS for any possible signal sources around the planet
+b) Probe/map the entire moon
+
+One thing I am wondering is how literal 8th moon is. The way the game categorizes moons is they are lettered a, b, c, etc... So the other day I found a gas giant with like 10 moons, but two of those moons had their own moons so were counted as like Moon C - 1 Moon C - 2. The actual "8th" moon in these systems was of course Moon H, but there were other bodies before that so the number was higher than 8. To be sure I just map them all, but I still wonder if its needed.
+Last edited: Mar 4, 2019

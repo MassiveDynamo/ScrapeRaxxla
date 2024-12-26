@@ -1,0 +1,22 @@
+PeteACarter
+P
+Jun 15, 2020
+#17,478
+Thatchinho said:
+Well if a celestial body has left the system, then it's no longer effecting the system. So that means looking for changes that happened due to when it was in the system.
+
+Which means looking at how that could be detected in terms of how the Stellar Forge works.
+
+Key question is when. Essentially, the Stellar Forge sims up the system to a day 0 (which is round about 3300 IIRC), then fast forwards the orbits from day 0 to the current game date to get the system at the point of entry.
+
+AFAIK, the random events part is in the 'sim up to day 0' part and doesn't factor into the second part. (That's just my understanding of it though, and I don't have an explicit statement from FD saying that.)
+
+So in that context you're looking for unusual orbits and things like that. Not sure off the top of my head quite how you would distinguish the effects of a rogue body from other possible causes. Captured rogue bodies can potentially be tentatively identified by having elements which are absent in the rest of the system (or at odds with where they theoretically should be in the system).
+Click to expand...
+I think your thoughts regarding random events being prior to day 0 MUST be correct, because after day 0, I can't see how the algorithm could garuntee we all get the same system at the same time.
+
+I read a really insightful post into rogue planets a few days ago, but I cant find it now. IIRC, the best way to determine if a planet is not just to look for eccentric orbit, but also to look at the planets type and composition.
+
+If you have a HMC world further out than the gas giants, its probably rogue. If a planet in the outer system, has an eccentric orbit, look at its composition. If a high percentage of its materials are not found elsewhere in the system, its probably rogue.
+Reactions:
+[PS4] Filthymick420

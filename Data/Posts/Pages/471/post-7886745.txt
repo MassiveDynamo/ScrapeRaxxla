@@ -1,0 +1,27 @@
+Thatchinho
+Jul 8, 2019
+#9,409
+FullM3talX said:
+very interresting and fascinating idea, about the 2 cubes being attached to each other like from the logo. and holding one in your cargo, could teleport you to the other.
+there exist a scientific Observation from actual real life experiments called Quantum Entanglement, that sounds very similar to this.
+
+Quantum entanglement is a physical phenomenon that occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the others, even when the particles are separated by a large distance. whatever changes made to one particle is reflected and mirrored onto the other entangled pair particle. they act as if they are the same entity existing in two different places at the same time.
+Quick RL point - the description of Quantum Entanglement here is a little inaccurate and slightly misleading.
+
+The problem part is this:
+
+“whatever changes made to one particle is reflected and mirrored onto the other entangled pair particle.”
+
+That would mean a direct route to FTL comms. However Quantum Entanglement doesn’t enable FTL comms.
+
+What’s happening is not that something is being changed for one particle, it’s that something’s being measured for it. Because the particles are entangled, that means that measuring a value for one, also means the value for the other particle is then also known.
+
+Where the trickiness comes in is that it’s not a case of measuring something that’s already set. Rather it’s the measurement that makes the value become set.
+
+What that means is that when the value for one particle is measured and becomes set, the value for the other is also instantaneously set, regardless of the distance between the particles.
+
+To try to clarify, ‘changing’ would constitute altering from known value A to known value B. What’s happening is going from <value not set> to <value known>.
+
+Further explanation available on request!
+Reactions:
+Scytale, PeteACarter and FullM3talX

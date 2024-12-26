@@ -1,0 +1,31 @@
+lorrad
+Apr 17, 2018
+#2,255
+Louis Calvert said:
+If there's lights on a planet with 5million people, then that surely means that either the lights aren't related to planetary populations in a strict way, or that they are, but Founders World is exempt? Both of those results are pretty good aren't they?
+
+Based on the picture that seems to be building up, Founders is a very odd planet.
+
+- A month of night time.
+- Approx 80million population, no observable lights
+- Surface oxygen oddities that might siggest it's not a good place to live/possible to live there
+- High surface pressure siggest it's not a good place to live/possible to live there
+
+Again I do wonder why the PF would pick a planet like that? Given that (in theory) they probably have access to the best explorers out there, and access to the best exploration data, when picking your retirement planet, you'd think you'd pick a really, really nice one?
+
+Looking at it from a Meta perspective - I wonder why Fdev made Founders World to be like that? Presumably it's a hand-crafted system, they could easily have given it paradise stats, but they don't seem to have done that?
+
+Problem is Fdev is a black box; we don't know what's deliberate, what's a bug, what's not a bug, what's part of lore, what's attention to detail and what's ignoring it.
+
+One could be drawn to some weird conclusions if the model is intentional and deliberate. Looking around for planets to check for Jaiotu's parameters is that mankind, humans are not like those we have today. Looking at population levels and FSD development timelines one would be forced to conclude these are not homo sapiens but homo space ratus with a longevity towards 200 and a rapid breeding cycle with females pumping out a litter of 20 every two weeks, to sexual maturity in a month to achieve the population we see in the bubble in 3304. I doubt even that could account for it.
+
+I searched 4 100 lyr spheres and rarely found anything close to Shinrarta like criteria,,,
+these two were close but contradictory both tidally locked so off the official track ,,
+
+Apam Napat 2,500,000 54.1D TL lights
+Phiagre 70,000,000 41D tl no lights
+
+So even tidal locking means little..
+
+Perhaps Founder's World being custom was forgotten when they did the update adding night lights because it was close to pub time and then stamped done with next mornings hangover?
+Last edited: Apr 17, 2018

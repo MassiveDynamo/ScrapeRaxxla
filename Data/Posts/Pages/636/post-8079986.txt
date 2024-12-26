@@ -1,0 +1,10 @@
+yelboc
+Oct 11, 2019
+#12,704
+Well I processed it up and tried a number of online readers, but no result from any of the standard forms...
+
+Checking the list on wikipedia, it doesnt contain the valid start or stop sequence of any of the formats there.
+
+Perhaps someone with more skill than I have with these things can work it out..
+
+Last edited: Oct 11, 2019

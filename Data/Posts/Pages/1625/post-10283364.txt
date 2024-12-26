@@ -1,0 +1,28 @@
+CMDRCorrMorningstarFelian
+Dec 12, 2023
+#32,484
+CMDR Davanix said:
+VV Orionis was originally a pinpoint location for many back in the day, it was permit locked before col70 and the others also and lies bang center of the nebula, only 7 ships by edsm ever went into it however no map available so wasnt scanned/uploaded
+
+This system was visited for the first time on EDSM by Virosh Lich.
+
+7 ships passed through VV Orionis space, including 0 ship in the last 7 days.
+
+0 ship passed through VV Orionis space in the last 24 hours.
+Click to expand...
+This appears to be a variable star based on name designation. I am still working on naming convention for the cataclysmic variables. That said, asymptotic giant branch stars are generally long period variables so it's still a start (linked to both Soontill and a large number of Pleiades stars).
+
+The current naming system is:
+
+- Stars with existing Greek letter Bayer designations are not given new designations.
+Otherwise, start with the letter R and go through Z.
+
+- Continue with RR...RZ, then use SS...SZ, TT...TZ and so on until ZZ.
+
+- Use AA...AZ, BB...BZ, CC...CZ and so on until reaching QZ, omitting J in both the first and second positions.
+
+- Abandon the Latin script after 334 combinations of letters and start naming stars with V335, V336, and so on.
+
+The second letter is never nearer the beginning of the alphabet than the first, e.g., no star can be BA, CA, CB, DA and so on.
+
+Source: https://en.wikipedia.org/wiki/Variable-star_designation

@@ -1,0 +1,22 @@
+Thatchinho
+Jun 4, 2019
+#8,626
+yelboc said:
+carrying on the brainstorm:
+
+Reverse Book Ciphers
+normally you have numbers that convert to letters of the plaintext by looking up the words or letters in the reference text, but for coordinates you have it the other way around - words that make numbers by looking up the words in the reference text.
+
+Triangulation from systems implied from the text
+By identifying 3 systems in the galaxy a fourth can be triangulated - the text points to systems - I gues we've already done alot of this in our mythologising.
+Click to expand...
+Slight point, but you need more info than the names of 3 systems for trilateration or triangulation. Either that or you’re making an assumption of equidistance, which is fine as a starting point in the absence of any other info, but is a pretty big assumption to make in general.
+
+For trilateration you need 3 reference locations and the distance from those 3 locations - that will allow the calculation of 2 possible destinations.
+
+Triangulation’s more of a visual thing in this context. Just having 3 locations wouldn’t tell you anything in terms of a further location. As an example (off the top of my head), from text you’d need something like ‘find the place where the angle between A and B appears to be X, the angle between B and C appears to be Y, and the angle between A and C appears to be Z. (With X,Y,Z being angles, not cartesian co-ordinates.)
+
+Edit - just for clarity, with the example above I’m talking about the type of information you’d need to be able to derive from the text, not a specific form it would need to be presented in within the text.
+Last edited: Jun 4, 2019
+Reactions:
+yelboc and PeteACarter

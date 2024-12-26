@@ -1,0 +1,20 @@
+Macros Black
+Mar 11, 2017
+#278
+Wolf 903 report
+
+State.......................: None.
+Traffic report..............: Asp Explorer(1), Federal Corvette(1), Anaconda(1)
+SAP 8 Core Containers found.: 0.
+CIF Missions................: 1. Mullane Station.
+Convoys scanned.............: 2. Antiquities, Scientific Research.
+Combat Aftermath............: 1.
+Weapons fire................: 13.
+Degraded Emissions..........: 13.
+Degraded Emission w. Rescue.: 3.
+High grade..................: 4. Proprietary Composites, Core Dynamic Composites.
+Stations visited............: Mullane station, Hausdorff Holdings, Bulgakov Keep.
+Crewmember..................: Harmless, couldn't hit a planet, even if she was right in front of it.
+Last edited: Aug 25, 2017
+Reactions:
+Tom2

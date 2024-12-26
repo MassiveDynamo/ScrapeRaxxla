@@ -1,0 +1,25 @@
+Sublime
+S
+Nov 25, 2022
+#28,032
+SongOfTheVoid said:
+Please dont make yourself look silly, if you are:
+A) Editing a game file,
+For the purpose of,
+B) Getting the game to reveal information otherwise not shown.
+Then you are
+C) Breaching the EULA by abusing a client to accept modified information for the purposes of obtaining information.
+Not a problem I'll take it up with Fdev on the phone as its unacceptable to have people trying to handwaive through any forms of datamining... your claim is absurd as someone going "But I wasnt hacking anything in the game I was just inserting my own values into the memory addresses that the game shares". Again GUI and HUD mods have been publicly accepted by Fdev because they arnt remotely Datamining, All this idiotic behaviour does is call into question if Fdev should outright ban all modifications to files because stupid people given a inch of freedom decide they can take a mile and expand 'Yeh im just changing some graphical appearances of things' into 'Yeh lemme just manipulate this file so I can trick the game into loading my own values for the purpose of extracting information I didnt have otherwise, Datamining...'
+Click to expand...
+
+Okay, did I say I’ve made any modifications to the files? No, I didn’t, and I haven’t. All I said was that it’s not against the rules to change config files. There are numerous threads published out there providing assistance with how to do it.
+
+Looking at log files and modifying configuration files is not “inserting values into memory” the way you’re implying. You’re not editing the memory space. It’s not data mining.
+
+Go ahead and call them. Drive over to the office and speak to them in person even.
+
+Have a nice day.
+
+Edit:
+Also, your threatening reply to me is quite bordering on harassment.
+Last edited: Nov 25, 2022

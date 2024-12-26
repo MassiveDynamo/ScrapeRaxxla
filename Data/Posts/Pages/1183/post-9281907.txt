@@ -1,0 +1,10 @@
+Jorki Rasalas
+Jun 9, 2021
+#23,657
+@Rochester : you’re suffering from Raxxlitis, a deep depression due to an excess of fernweh and grind. Have a break, do something else. It’s a game so if you’re not having fun then do something different! Life is too short to waste! (I’m not far off my three score and ten! ). You can always participate in this thread, even if you’re not actively involved in the search!
+
+@MrShinyTorterra : your logic is faulty! Why should FD continue to give statements about Raxxla? DB has said its in-game, end of story. Either look for it or don’t, that’s up to you. If you dont think it’s in-game and can’t be found then you’re trolling this thread.
+
+I think Raxxla is in-game, and is findable by anyone looking in the right place. However I think activating it by honking when you’re at the right place could involve RNGesus, with a random-number activation process that probably has not been updated since the gamma, and some of us remember how difficult FD initially made many RNG processes until the playerbase complained loudly and they eased things off a bit. However I also suspect that there is a mechanism to assist that localisation via TDW. Even if the “right place” and honking is all that’s required to trigger it then it’s still a needle in a haystack. E.G. If you have to be within, say,10km when you honk and its orbiting a planet/moon at, say ~1ls (300,000 km) radius then area of sphere=1.13097×10^12 sq km, so ~1.13x10^11 “detection cells” and you’ve got to be in the right one to trigger it. So ~ 1 in 100,000,000,000 chance of finding it.
+Reactions:
+Vetinari

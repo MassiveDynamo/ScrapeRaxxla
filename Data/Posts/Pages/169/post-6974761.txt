@@ -1,0 +1,11 @@
+Han_Zen
+Sep 3, 2018
+#3,368
+Jorki Rasalas said:
+could a hidden comet account for the odd orbital behaviour in Sirius?
+How does one go about finding a comet? (I presume its orbit isn’t marked)
+Why do the stations in Pareco orbit that comet so closely? Isn’t this breaking Newtons law of gravity?
+
+The only thing odd about the orbital behaviors in Sirius, is the orbit of Lucifer. It orbits about 20 times to slow to keep it's position around Sirius B. It would have to be one hell of a comet to achieve that.
+
+It's most likely a bug. I have reported it a long time ago, but got no response.

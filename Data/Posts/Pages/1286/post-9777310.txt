@@ -1,0 +1,14 @@
+Artie
+Mar 15, 2022
+#25,715
+CMDR Davanix said:
+Hey Art,
+
+If i search by galactic region it works, however not by just the system name
+
+INARA
+The community site for Elite: Dangerous, Starfield with the game databases, information, gaming news and other handy content...
+Click to expand...
+Ah, thanks. Then it's a case of the missing star system in the database - I am not storing an entire (discovered) galaxy as it will be a pain with the database size and performance to have every unimportant star system there and it's rarely needed anyway. The region selected is the only way in this case I am afraid.
+Reactions:
+CMDR Davanix

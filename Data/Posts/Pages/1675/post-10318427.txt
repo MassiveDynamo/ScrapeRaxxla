@@ -1,0 +1,9 @@
+varonica
+Feb 22, 2024
+#33,490
+ajg007 said:
+Some of those readings don't match up in game. If you take into account in game that 3.1k ls turns in to 0.1ly then I'd suggest that 1ls would equal 310,00km
+
+Because of rounding I would suggest. In game the values presented to the player to view are not accurate due to it being pointless to present everything to the players with 6 decimal point precision.
+Reactions:
+CMDRCorrMorningstarFelian

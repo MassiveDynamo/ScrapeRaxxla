@@ -1,0 +1,19 @@
+Han_Zen
+Aug 28, 2018
+#3,304
+Scytale said:
+Right, Pa. As I said, perhaps we need to know exactly what Raxxla is in ED for us to find where Raxxla is in ED.
+We mostly assume it's a door that is also the key and a place that isn't a place. A celestial body obfuscated in the outer rim. I hope it still is so.
+The RH's definition is very clear. A planet inhabited by people (a TDW schismatical party) with a portal..etc... (Rafe Zetter's stuff)
+Hopefully you can find the thread between both, Doc. Otherwise who will ?
+
+If we assume that Raxxla actually is a celestial body, is obfuscated on some 'outer rim' and has been possible to access/see/discover since launch, we don't have that many options.
+
+- Raxxla is a regular planet in a far away system that is hard to spot. The system is what is obfuscated.
+- Raxxla is a planet orbiting one of the mysterious 'Exotic stars'. Exotic stars are apparently a star class in ED, that no one has found.
+- Raxxla is a very smal planet. Stellar Forge seem to have a 100km radius minimum size. It could still be possible to manually insert smaler bodies. These may not be detectable by discovery scanner.
+- Raxxla is a comet. Comets are in the game and have been since launch. They exist as a point with gravity. Some stations orbits them, but they are invisible.
+
+Please add more options, that are compatible with what we know about the game engine.
+Reactions:
+M. Grey

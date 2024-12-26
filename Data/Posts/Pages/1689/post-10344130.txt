@@ -1,0 +1,19 @@
+El Saico
+Apr 3, 2024
+#33,762
+Rochester said:
+What’s the probability this is a graphical anomaly from lensing? Isn’t the sky box just a low res 2D graphic of a starfield plotted by the Stella forge, relative to your position in game around a 3D mesh (still impressive), lensing is just that backdrop being magnified and distorted relative to the BH in that instance.
+
+Could one presume it’s a blocky graphic being magnified?
+
+I generally have an issue with how BH are so poorly replicated in game, eg how stars or bodies in a system with a powerful BH don’t likewise have their graphics warped, let alone Earth like worlds with habitable temps etc, hardly scientific.. so there’s room for random graphical glitches? I don’t understand why this is so important!
+
+What would such an effect look like in video, or image colour saturation filtering?
+
+I’m all for literal doors in space… or monoliths…
+Click to expand...
+The last GIF does hint of a graphical artifact... which is sad as one of the Orion's Belt stars feels like a very auspicious place for such a thing.
+
+Now that I'm back home (not to ED, however, as one of my RAM sticks is gone), I need to copy my Blender model to the desktop and resume the triangulation work...
+Reactions:
+selbie and GURU-951

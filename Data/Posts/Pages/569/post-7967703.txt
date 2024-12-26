@@ -1,0 +1,9 @@
+alexzk
+A
+Aug 26, 2019
+#11,374
+Jorki Rasalas said:
+The centroid of a 3D coordinate triple is (x1+x2+x3)/3, (y1+y2+y3)/3, (z1+z2+z3)/3
+This is "mass center". This point can have any distances to A-B-C.
+We wanted the center of circumscribed circle which is equaly remote from A-B-C by Radius.
+Last edited: Aug 26, 2019

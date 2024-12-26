@@ -1,0 +1,8 @@
+Koben
+Apr 4, 2022
+#25,818
+Regarding passing through Thargoid "portal"... I've tried it with all Thargoid/Guardian materials onboard and it's like hitting a rubber wall. Scanning the wake with these materials onboard also did not yield anything. (for me)
+
+But I wonder why ploting a course close to the locked sectors takes significant more time even if you plot a jump to the next nearby system.
+Reactions:
+Blaggerdy

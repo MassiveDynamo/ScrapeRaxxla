@@ -1,0 +1,13 @@
+Macros Black
+Sep 5, 2023
+#31,496
+Jorki Rasalas said:
+I thought I'd find the nearest systems within 100ly of Sol and look through them for Paradise Lost etc meaningful names.
+I'm handicapped as Ive never read more than a few lines of Milton (poetry of any form is not my thing)... but I find I'm also handicapped because Spansh's Systems search option is coming back with a load of nonsense at the moment. Tried Inara but that doesnt go out beyond 20 ly & I cant see a filter value to change.
+What are people using in the absence of EDDB?
+
+edit
+mmm, as a fallback I used the body search for any star within 103 ly which worked, but only found Fall after I reduced the solar mass filter from 1.0 to 0.5.
+EDSM - Elite Dangerous Star Map
+The Galactic Positioning System of Elite: Dangerous at your service.
+www.edsm.net

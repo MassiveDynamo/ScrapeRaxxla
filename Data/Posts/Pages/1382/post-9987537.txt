@@ -1,0 +1,22 @@
+CMDRCorrMorningstarFelian
+Nov 3, 2022
+#27,622
+Ian Doncaster said:
+Galnet since its return in 2020 has had a consistently-used mechanism for articles:
+- articles headed "Pilot's Federation Alert" refer to something immediately actionable in game (a CG, a new POI to find, a new module being available, etc.)
+- articles without that heading might still be important for knowing what's going on but you don't need to hunt around every system mentioned in them just in case
+Any particular story arc will usually have a mix of both types of article.
+
+The actionable/unactionable distinction isn't quite the same as important/unimportant, of course, and I'd rather that they didn't feel that they had to highlight it even subtly like this, but overall I think the post-2020 stories have been stronger than most of Galnet's previous eras of storytelling.
+Here's the problem with that -- there are 3 distinct layers of information present:
+Exoteric - information available to all who can read or hear
+
+Esoteric - Knowledge available only to those who go looking and learn (e.g. some systems had differerent names and the named planets or stations are often keys in deciphering this hidden history)
+
+Anagoge ("the hidden of the hidden") - You can deduce from small details (e.g. colonization patterns by degrees of resource utilization, types of stations present, etc.).
+
+This is why we have terraformed, terraforming, and candidate for terraforming). This goes a lot deeper than just colonization. There are TONS of ammonia worlds with hybrid ammonia-oxygen atmosphere in the Bubble ( see HIP 15310 ) where apparently those system may have more going on than meets the eyes.
+
+Standard disclaimer: Examples provided barely manage to touch on the depths to which this can be utilized.
+
+Last edited: Nov 3, 2022

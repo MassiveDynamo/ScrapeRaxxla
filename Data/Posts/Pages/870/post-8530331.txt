@@ -1,0 +1,53 @@
+Emperor
+Jun 14, 2020
+#17,390
+Tibercov83 said:
+Got a reply from frontier support re permit for LFT 509.
+
+So LFT 509 is also known as GL 263
+
+
+
+Searching for GL 263 I came across this...
+
+HIPPARCOS,
+RECONS,
+NStar
+Distance (ly)
+Name or
+Designation Spectral &
+Luminosity
+Type Solar
+Masses Constellation Notes
+50.2
+Ross 54 M3.5-5V 0.? DK-33 1023, GL 263, Hip 34104, LHS 1895
+http://members.fcac.org/~sol/solcom/stars3/100-ms.htm
+
+
+Searching for Ross 54 in Elite Galaxy Map eventually shows (might take you a few search clicks - I can't remember how many)... I thought there must be a body in the system with Ross 54 in the name.
+
+
+
+Having done some googling I found confirmation that there is a secondary star called Ross 54 in LFT 509 in a post from back in 2015 when you could see the permit locked systems.
+LFT 509 and Witch's Reach - A call to identify the factions that issue the permits to these two systems (if any such faction exists)
+Good point I keep wondering, with the recently increased effort to find Unknown Artefacts in mind: why would FD add valuable salvage convoy beacons to LFT 509 and Witch's Reach as part of the 1.2 release if we're not meant to be able to get there in 1.2???
+forums.frontier.co.uk
+
+Searching for the other system names didn't reveal anything too interesting (DK-33 1023 is not found if you search for it), however searching for Hip 34104 will give you the following:
+
+
+
+When you search for the system, it's not selecting LFT 509, but a completely blank part of the galaxy map.
+
+I thought I might have moved the map accidentally so I tried it a few times with the same result. I then asked a friend to check it and he experienced the same thing.
+
+I've logged a support ticket here:
+
+webapp
+issues.frontierstore.net
+
+I would appreciate it if anyone could try this on themselves and if you experience the same thing "Add your contribution" to the support ticket.
+
+It would be very useful to know if this is expected behaviour or a bug based on the current speculation around this system....
+Reactions:
+[PS4 Pro - PC] earthtone99, Exekrator, Rick6549 and 9 others

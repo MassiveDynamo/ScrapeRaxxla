@@ -1,0 +1,14 @@
+Jorki Rasalas
+Mar 20, 2024
+#33,652
+El Saico said:
+10000 is just the maximum amount the Spansh API can return; even within 400ly it already returns 9187 systems.
+
+it's possible to scrap and comb through the raw JSON output to get a more precise result - let's try it here...
+
+EDIT: 7425 out of those 9187 have no secondary stars, but the body list does not differentiate between planets and moons; unless we can extract that information from their id64 somehow...?
+
+EDIT 2: nope! But a very ugly heuristic (last character of body name is a digit) trims it down to 4262. Too bad it makes any system with named bodies (such as Tau Ceti) miss the cut.
+Aha, the first time I ran the search Tau Ceti was one of the first 20 to be returned....is the universe trying to tell me something thought I !!
+Reactions:
+Rochester

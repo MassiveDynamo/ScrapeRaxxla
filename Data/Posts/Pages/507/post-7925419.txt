@@ -1,0 +1,10 @@
+[Diplomacy] Carnegie
+Aug 1, 2019
+#10,121
+CMDR Maylor Rom said:
+I wish GM had an option to enter stellar coordinates as opposed to star names, then GM could point you in the vacinity and we could just fly there.
+
+EDSM reports (real world) equatorial coordinates as well as the ED ones, so clearly someone has done the math to translate between the two.
+Try posting in the Exploration subforum asking if there's a tool.
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Feb 27, 2020
+#15,442
+Ravenl0ft said:
+This is not a coordinate. THis is a direction. From sol, 10 10 50 right ascension is a 180 degree ark. If you have a declination, that will get you to a coordinate. But the interesting thing is if you are in sol, plot a straight line to Regulus. That line aligns with that cassiopeia like stars in the ceiling. I am telling this again, im not saying its right there, but this is so weird to be a coinsidence.
+
+Addition of declination still wouldn’t give you a coordinate. RA plus declination gives a bearing line, you need a distance to then get a coordinate.
+Reactions:
+[PS4 Pro - PC] earthtone99, yelboc, John Stoutbeard and 2 others

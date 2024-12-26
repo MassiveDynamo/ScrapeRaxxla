@@ -1,0 +1,12 @@
+clavain
+May 31, 2021
+#23,554
+Han_Zen said:
+I'm having a bug or feature moment in Spica, at the moment. I'm trying to fly to the gravity centre of the system, in the orrery map. That should be simple as this is a binary system with two large stars, about 12 AU apart.
+
+When flying from Spica (smaller star) to Spica B (larger star), my marker jumps shortly before I get it to the centre. It ends up way out on the far side of Spica B.
+
+I can't be bothered to bug report it. Has anyone had similar issues, in other systems?
+Maybe try renaming your ship "Experiencing a Significant Gravitas Shortfall"?? Oh wait, forgot, there is a "feature" that ship names can't be that long either. Maybe just "Lack of Gravitas"?
+
+Edit: I'd try to confirm the bug for you but I'm busy reinstalling That Other Spaceship Game.

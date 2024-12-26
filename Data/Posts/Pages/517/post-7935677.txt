@@ -1,0 +1,13 @@
+darkflemish
+Aug 7, 2019
+#10,338
+yelboc said:
+Can you elaborate on your method here?
+
+Convert txt to binary
+Text to Binary Converter
+ASCII/Unicode text to binary code encoder. English to binary. Name to binary.
+www.rapidtables.com
+
+Convert binary to Fibonacci numbers (txt in it works also)
+https://www.browserling.com/tools/fibonacci-numbers

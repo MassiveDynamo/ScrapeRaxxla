@@ -1,0 +1,38 @@
+Han_Zen
+Mar 8, 2021
+#21,710
+A few points about the galaxy and game of Elite 1 and Fe2/FFE.
+
+In Elite the game was limited to 8 "galaxies". The Lave cluster was in galaxy 1. These galaxies were just Galcop control sectors. The 7 ly jump limit was just a property of the Galcop configured Cobra III, which was the only ship available for players. In lore 'Imprint', the rest of the 'real galaxy' existed. It was just not visible on Galcop nav computers. Only by becoming Elite, could a pilot apply for a full jump licence(only in lore, not available to players).
+
+In Fe2/FFE the Galaxy was made in the same way as now. It was a combination of imported catalogue stars and proc gen stars. FD did however make a mistake, when importing catalogue stars. The sign of the horisontal galactic angle was swapped (there is a bit more to it, but this is the mistake they made). This means that real stars are in funny positions. The Lave cluster was located just past Achenar.
+
+Non of the old games had Raxxla. They were offline games and the code has been made public. In FE2 and FFE, Raxxla wasn't mentioned in the game or in lore. Before ED, Raxxla was only in The Dark Wheel book.
+
+Elite 1 books:
+Elite: The Dark Wheel, a novella written by Rob Holdstock | Dream-Ware
+The Dark Wheel expands upon the universe Robert Holdstock outlines in the Elite manual; Alex Ryder watches his father die at the hands of an unknown C
+www.dream-ware.co.uk
+Imprint: A short story set in the Elite Universe by Andy Redman | Dream-Ware
+Any commander will instantly be reminded of his/her/it's maiden flight from Lave and the dreams they had when they were still starry-eyed and before t
+www.dream-ware.co.uk
+
+Fe2 books:
+Frontier: Elite II - Gazetteer | Dream-Ware
+A small booklet compiled for Faulcon de Lacy by Darlitz featuring tourist highlights and additional background information on several interesting syst
+www.dream-ware.co.uk
+Stories Of Life On The Frontier: Eight Short Elite Stories | Dream-Ware
+Eight short stories from Frontier: Elite II, each one ties into the the next. - Dream-Ware
+www.dream-ware.co.uk
+
+FFE book:
+Further Stories of Life on the Frontier-Nine Short Elite Adventures | Dream-Ware
+Nine short stories we're released with Frontier: First Encounters; four of which we're set in the Elite Universe. - Dream-Ware
+www.dream-ware.co.uk
+
+FFE ingame journals:
+The complete Frontier: First Encounters Journals | Dream-Ware
+The complete Journals from Frontier: First Encounters. - Dream-Ware
+www.dream-ware.co.uk
+Reactions:
+clavain, Macros Black, yelboc and 4 others

@@ -1,0 +1,11 @@
+CMDRCorrMorningstarFelian
+Jan 13, 2023
+#28,876
+Jorki Rasalas said:
+Hun Nak Yeh? Close at 5ly. Never heard of it, definitely not visited there!
+Chapter of Isinor lead faction? Always had my suspicions about them!!
+
+But I seem to remember there was confusion about the order of coordinates in the early days, weren’t Y & Z often swapped? Might be worth searching nearest system for various permutations.
+I suspect this is simply horizontal coordinates vs equatorial (both of which are Sol-centric). If that is the case, conversion between them might be possible but I would have to look into some more. Also, dubious they put that much thought into it but there are a number of key systems from the oldest game present. I say this as IRL my first job long ago was an internship at the Department of Astronomy at University of Georgia. NASA has tools to make the conversion easier as it's requires semi-complicated formulas (see Wikipedia article on the various coordinate system in astronomy). It would however, quickly obscure connections since most people would not realize what was being done.
+Reactions:
+John Stoutbeard

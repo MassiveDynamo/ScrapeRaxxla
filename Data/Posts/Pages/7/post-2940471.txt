@@ -1,0 +1,40 @@
+Macros Black
+Oct 13, 2015
+#126
+Long Range Smuggling
+
+Ship: Asp Explorer
+Cargo: 84t
+System: Sothis
+Profit: 66mill CR
+Effective Hours spent: 4
+
+To System To Station Cargo # Price Notes
+BD+31 434 Baudry Settlement Slaves 8 5,269,964 Compromised Nav Beacon
+Gubiakum Keyes Plant Battle Weapons 8 4,925,052 Compromised Nav Beacon
+Gubiakum Keyes Plant Bauxite 4 1,344,912
+Rhiboni Komarov Base (124,379.26LS) Combat Stabilisers 4 2,192,918 Compromised Nav Beacon
+Pathan Smith Port Biowaste 4 1,390,276
+BD+26 8 Merbold Hub Battle Weapons 5 3,741,622
+MCC 868 Lucid Dock Imperial Slaves 2 1,493,930
+MCC 868 Swanson Port Tobacco 20 9,238,655
+Pathan Smith Port Personal Weapons 9 6,892,438
+Pathan Carr City Battle Weapons 14 5,036,643
+LHS 3877 Ring Biowaste 5 1,040,057
+LHS 3877 Shaw City Cobalt 5 1,758,460
+LHS 3877 Gresley Gateway Silver 8 1,584,716
+Elska Qurra Dock Battle Weapons 15 10,056,350
+LP 195-25 Carr Orbital Combat Stabilisers 1 2,359,067
+LHS 1348 Lebedev Hub Bertrandite 9 1,750,810 Gold looks good.
+LHS 1393 Brady Station Cobalt 5 1,053,817
+CK Arietis Hooke Port Silver 5 1,760,110
+Bao Yan Luo Behnken Terminal Combat Stabilisers 3 1,859,663
+BD+65 1846 Banks Dock Slaves 8 2,721,918 Seeking Goods
+Itza Ore Terminal Biowaste 3 1,069,875
+LHS 3877 Williams Port Biowaste 5 1,867,180
+LHS 3877 Williams Port Biowaste 2 869,845 Tote System: Seeking Goods
+
+I'll riddle you this: How do you fit 152t cargo into a 84t cargo hold?
+Last edited: Oct 13, 2015
+Reactions:
+Futuristic Kung Fu

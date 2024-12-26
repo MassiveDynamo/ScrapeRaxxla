@@ -1,0 +1,13 @@
+clavain
+Mar 22, 2021
+#22,279
+So Sagittarius Dwarf Galaxy in Simbad (referenced as Sgr dSpH) lists 4,115 child objects. Each of those (assuming they are unique stellar objects and not nebulae and rifts and dark regions and the like) will have a list of anywhere from a few to a couple of dozen stellar catalog identifiers, which can be checked in game in the Galaxy Map to see if it actually exists in Elite Dangerous and under what identifier, here is page 1 (of 42...):
+
+http://simbad.u-strasbg.fr/simbad/s...mit=children&siblings=102&hlinksdisplay=h_all
+
+Similarly, Canis Major Dwarf Galaxy aka Canis Major Overdensity seems to be referenced as an open cluster as CMa in Simbad, but searching on it tells you to reference it as the subset of the star catalog MWC53 R CMa, which I can't seem to get to work correctly. If anyone figures it out let me know. [Edit: although that may reference the constellation Canis Majoris, not the Dwarf Galaxy. Very confusing. CMa Dwarf and PGC 5065047 don't seem to work at all, so the listing may not be online]
+
+Believers in other galaxies in-game, fill your boots!
+Last edited: Mar 22, 2021
+Reactions:
+[PS4] Filthymick420

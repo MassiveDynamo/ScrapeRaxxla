@@ -1,0 +1,8 @@
+Gaiseric
+Feb 16, 2018
+#1,748
+DrewCarnegie said:
+I see those on EVERY landable, inside and outside the Bubble.
+I've always assumed they're a visual cue to help you see movement when you rotate the view.
+
+They are the same colour as the poles axis line, so conceivably they are some other kind of map reference, but I don't think so. There is a lot of variation, looks quite random to me. Three circles on the three axes planes would make sense as a reference. These RNG lines don't look like any kind of reference to me.

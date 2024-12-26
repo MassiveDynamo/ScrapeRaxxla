@@ -1,0 +1,11 @@
+Ian Doncaster
+Sep 9, 2024
+#34,759
+Han_Zen said:
+I checked a bit on this a while ago. The clumping from lists is quite clear. This page seem to be the basis for the religion / mythology section of names: https://en.wikipedia.org/wiki/List_of_deities_by_classification
+If you check against the game, you see clumping of both classification and the specific religion. I have not bothered to check the if the system IDs follow the lists in order.
+What is clear, is that there has been filtering of the lists. Any names with non English letters, apostrophes or other difficult stuff, have been dropped.
+I also suspect that names have been left out, because their assigned system already had been assigned a catalogue name.
+Do you happen to have the list of which names are used still?
+
+I didn't see any obvious clumping for the Greek ones besides the general "deities only seem to appear 45-85 LY from Sol" restriction, but it'd be good to do some more thorough checks.

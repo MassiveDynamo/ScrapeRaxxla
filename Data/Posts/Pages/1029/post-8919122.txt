@@ -1,0 +1,16 @@
+Emperor
+Jan 25, 2021
+#20,562
+Jorki Rasalas said:
+Can anyone give a personal comparison of Joystick Gremlin versus AutoHotKey?
+I need to convert a hat press to shift+windows+g
+
+following on from my last reply on voice attack, it's not limited to voice activated macros you can use keyboard and joystick macros....
+
+here's the options for a joystick...
+
+
+
+if it helps with the pain and frustration a little it's worth the $10 U.S. (£7.32 according to Google).
+Reactions:
+[PS4] Filthymick420

@@ -1,0 +1,15 @@
+selbie
+Sep 18, 2024
+#34,852
+Ian Doncaster said:
+That seems ... highly implausible, to say the least. What coding would possibly require galaxy-level sound sources to be attached to a corner of a boxel? Why would anyone do it that way in the first place when the maths to locate a sound in space is exactly as easy - easier, since it doesn't have a superfluous rounding step! - when using full-resolution coordinates, and they have to be able to calculate the direction of out-of-system objects more precisely than "nearest boxel" anyway to stop the starbox looking very silly.
+
+Yes, ED has some weird bugs which occasionally imply disturbing things about the underlying code, but this doesn't feel like the sort of mistake they (or anyone else!) could possibly have made.
+Wasn't it also confirmed by FDev that it was an intended feature? As in they knew what they were doing placing it in such a way and that it was not a bug.
+
+This would be enough evidence to me that, if it is part of a mystery, it performs the role of a siren's song to find 'something' in the vicinity.
+It's frustrating that it effectively led to no apparent breadcrumbs to continue the investigation because the mystery of it is incredibly tantalising.
+
+The more humbling option is that FDev are technically correct and it is simply just a correctly working audio feature that has nothing to do with any mysteries
+Reactions:
+Louis Calvert

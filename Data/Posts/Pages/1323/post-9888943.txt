@@ -1,0 +1,8 @@
+Jorki Rasalas
+Jul 15, 2022
+#26,451
+No, FD have not implemented comet graphics. What you’re seeing is either the trail of surface probes being launched down to map a planet, or the trails of ships in supercruise.
+
+But either could easily form the basis for proper implementation of comet graphics. It would be pretty easy for FD. So I suspect there is a reason why they haven’t been implemented, and the obvious answer is that it could highlight the one “comet” they have hidden from us.
+Reactions:
+Rochester and Adel

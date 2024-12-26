@@ -1,0 +1,9 @@
+alexzk
+A
+Dec 22, 2020
+#20,165
+CMDR Temunjin Boras said:
+To get GPS style coordinates in space there's right ascension and declination.
+You need starting point. Those coordinates you talk are bound to Earth. Today. 1000y later it will differ. It takes only 25000 to swap polaris and sirius as northern star.
+Reactions:
+Exekrator

@@ -1,0 +1,13 @@
+El Saico
+Mar 19, 2024
+#33,651
+Jorki Rasalas said:
+Ah, Spansh system search has a body count parameter...for option (1) there are10,000 systems with body count=7 within 600 ly of Sol; 832 within 60 ly
+10000 is just the maximum amount the Spansh API can return; even within 400ly it already returns 9187 systems.
+
+it's possible to scrap and comb through the raw JSON output to get a more precise result - let's try it here...
+
+EDIT: 7425 out of those 9187 have no secondary stars, but the body list does not differentiate between planets and moons; unless we can extract that information from their id64 somehow...?
+
+EDIT 2: nope! But a very ugly heuristic (last character of body name is a digit) trims it down to 4262. Too bad it makes any system with named bodies (such as Tau Ceti) miss the cut.
+Last edited: Mar 19, 2024

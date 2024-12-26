@@ -1,0 +1,48 @@
+Xaintly
+Mar 19, 2019
+#6,837
+Jorki Rasalas said:
+I agree with Thatchinho. We have no statement from anyone at FD that the DW and Raxxla Codex entries hold real truthful clues, it could just be further obfuscation, even the phrasing is telling: “legend, wild stories, myth, fragmentary rumour, conspiracy theories”. This thread seems to be losing its balanced scepticism, an essential tool of any good questor. Not saying it’s all wrong, but I don’t think it should be taken on face value.
+
+That's a valid point. The codex entries could be 100% garbage.
+
+However, I think it's safe to assign all knowledge/speculation about Raxxla with a confidence score based on how close to "official statement" it is.
+
+David Braben telling Drew Wager (presumably a friend) that Raxxla is "definitely in the game and we know where it is" = 100% confidence (assuming DB & DW aren't known liars/trolls, and he was telling DW this on purpose knowing he'd tell others as a master trolling plan)
+
+The other official statements made by FDev on the topic = 100% also.
+
+Now the codex... we know that at one point, FDev considered clues to Raxxla to be a "tiny bit obvious", and yet nobody has found anything that seemed to point in a definite direction in like 5 years.
+If FDev wanted to continue their policy of being unhelpful, they could just have not said anything. There was no reason to add Raxxla/TDW entries to the codex.
+
+The only reason to mention any specific names, people, places or topics is either;
+To give hints to the people searching, because they are ready for it to be found soon
+More trolling at their own fans/customers expense
+Hoping fans get distracted by this search for a nonexistent thing in hopes they will continue playing more until FDev can come out with some actual compelling content to distract them
+
+When we ask "what could cause FDev to create these codex entries", this is the differental diagnosis. We can assign probabilities to these possibilities.
+Distracting fans: 10% chance - FDev seems content to slowly add minor features to the game, and then yearly or so release a big feature. By now their fans expect this. They don't really have subscribers to keep happy and they don't seem to be trying to attract new casual markets
+Trolling - 5% Ok, I don't think they seem like the kind of company to purposefully troll customers, they're a business after all, but I'll give it 5% anyway
+Giving hints - 85% The remainder
+
+So now I think the codex is 85% chance meant as a hint.
+Assuming they don't want only English-speaking players to find Raxxla, we can see what information in the codex is conserved across translations.
+For each thing, you can assign a chance based on how likely it is that you think it's a hint. If there's any other reason you can think of for including this element, try to guess what the odds are that it was chosen deliberately vs randomly.
+
+The toast (more or less) - My guess is 99% hint, never been in lore before, oddly specific concepts are mentioned, vague but has hints of a deeper meaning
+Princess Astrophel and the Spiraling Stars - 99%, again- why mention this story otherwise?
+Art & Cora Tornqvist - I'd give it like 50% that these names are hints, it's plausible that they just made up a random name to tell the story of the 1st mention of raxxla
+Atlantis, El Dorado, Prester John - I'd say like 25% hint, good chance it's just to add filler to the codex entry
+Fernweh - I'd say like 75%, this is a shady AF word to use and it's translated as-is, quoted, into all other languages including German
+The Dark Wheel logo & codex picture - Logo is like 99% hint, codex pic 60% since they could have just photoshopped some visual elements together for a pic, like the menu
+Stated facts about Raxxla: it's a celestial body, etc - 99% hint, codex seems really definite
+Stated facts about the dark wheel, getting invited, 8th moon of a gas giant - Either 99% hint, or the codex is 100% trolling
+
+But for me, it gets less reliable the farther out you go.
+The poem "Astrophel and Stella"? Well that's based on a name similarity to a possible hint, and it's only accessible in 1 language really. I'd give it 50% tops.
+Leaping from vague descriptions of someone's face in the poem to astronomical features? Well, at best like 10% of the poem is a clue, and interpreting it correctly is like another 10% chance.
+So poem analysis seems risky: 10% * 10% * 50% * 99% * 80%= 0.4% chance
+
+Etc. I mean, assuming Raxxla is out there, you can always just explore aimlessly without purpose, like a vagabond, or you can use the codex for inspiration on places to go.
+Reactions:
+Jorki Rasalas

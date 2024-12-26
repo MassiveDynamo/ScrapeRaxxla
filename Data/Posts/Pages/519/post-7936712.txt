@@ -1,0 +1,17 @@
+PeteACarter
+P
+Aug 8, 2019
+#10,365
+Can anybody translate equatorial co-ordinates to galactic coordinates? Or better still, is there a tool that will do it?
+
+I would very much like to know what systems, if any, are at the following locations, but my math simply isn't up to it.
+
+Right ascension: 1h 1m 3s / Declination: 18° 8'00.000''
+Right ascension: 8h 18m 3s / Declination: 1° 1'00.000''
+Right ascension: 18h 1m 24s / Declination: 24° 12'01.000''
+Right ascension: 6h 5m 18s / Declination: 14° 23'05.800''
+
+Any systems at these locations are my new Raxxla candidates
+Last edited: Aug 8, 2019
+Reactions:
+[PS4] Filthymick420

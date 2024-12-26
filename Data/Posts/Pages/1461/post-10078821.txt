@@ -1,0 +1,23 @@
+Jorki Rasalas
+Feb 12, 2023
+#29,212
+athulin said:
+Question 2: I somewhere above came across a post with the idea that planetary rings would be a good place to hide stuff, as they are so difficult to search.
+
+Has anyone looked for search parameters in rings? Such as: does detection distance differ for ship, and totally inerts object, such as a powered-off ship -- will it be discovered at a distance or not at all? Or depening on what scanners are used? I'm wondering if there is a way to estimate a search effort through a planetary ring, once a suitable one has been discovered. This may be more in line with a search for a DW starport, but until there is reason to discriminate, it does not seem impossible that it may be useful for Raxxla searches as well. The origin of this is obviously DB's mention in some interview that Raxxla (was it?) might be easier to find if many pilots were searching (from memory)..
+That last bit seems to be an urban myth. I’ve searched for the source of that rumoured DB statement but never found it, though it might feasibly have been in an early FD livestream since a couple seem to have been removed.
+Koben reported a DB saying which I cant track down & I suspect is part & parcel of that “a group of pilots might stand a better chance” which is how I recall it-the annoying thing is that I vaguely remember seeing him say something along these lines in of the few livestreams I’ve ever watched. I started playing aorund November 2015 and I watched livestreams for a while after that, and on major game updates.
+The Quest To Find Raxxla
+That makes perfect sense in that "if enough people scan it", didn't necessarily mean a scan for bodies, just the first real clue by just listening. Hidden in plain 'sight'
+forums.frontier.co.uk
+
+Dont think the first bit is answerable. FD appear to have the ability to adjust detection range for individual objects-one megaship wasn't detectable until you dropped out at the asteroid cluster where it was located (perhaps another hint). It might be that Raxxla is an object/NPC/Guardian AI/thing that is not detectable by any scanner we have...we simply don’t know what it is!
+
+My guess is that the codex TDW article is a strong hint by that Raxxla is (or may be found in/on) a station or similar that is not detectable by normal means...which is why I think the Potato Hunt is a waste of time, but then I’m getting very pessimistic about Raxxla!!
+
+I suspect Raxxla might be in/on something that is hidden in the rings of Saturn...I’ve spent many hours looking but not seen anything out of the ordinary, but it is interesting that if you fly in the ring gap the individual rocks are not shown on the scanner as they appear visually in front of you and then disappear from vision behind you. And the three arcs shown in the Raxxla logo are typically shown on the entrance to asteroid bases; the hexagonal theme IMHO strongly suggests the hexagonal storm on Saturn, the sixth planet with six in-game moons.
+
+But in the absence of seeing any encouraging signs I keep looking at alternative hypotheses. Currently at Eden awaiting NPCs that used to seem to appear and disappear out of nowhere (last time I played was about a week ago and there weren't any NPCs whereas they used to be common about a year ago when I was there last). When I was searching for comets I found NPCs often seemed to followed me or were already there.
+Last edited: Feb 12, 2023
+Reactions:
+Exekrator, Rochester and Macros Black

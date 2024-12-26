@@ -1,0 +1,25 @@
+CMDRCorrMorningstarFelian
+Dec 27, 2023
+#32,770
+Louis Calvert said:
+In all the games so far, our ability to travel FTL between stars is entirely controlled by the mapping software.
+
+In Elite Dangerous, as we all know, that's Galmap.
+
+Losing an entire star system would be as easy as just not including it in Galmap, even if it's there, we wouldn't be able to ever reach it.
+
+Whoever controls Galmap controls the (human) galaxy, fundamentally... and covertly.
+You act like we don't know who has the keys . Look no further than Sirius Corporation (reverse engineered drives in Sol), Saud Kruger (developed shipboard interface via subsidiary Astrogator - all ship manufacturers use this interface), and Achilles Corporation (developed station interface and CMDR interfaces in concourses and settlements). Sirius Corporation and Achilles Corporation jointly developed navigation lock software.
+
+The fact Quirium appears to be merely Hydrogen fuel doesn't really alter culpability here. If you have doubts, kindly explain why Sirius Corporation has the closest colonies to Polaris.
+
+Vodel Corporation is probably in on it, too, as developing Scarab and Scorpion SRVs would have required working with: Sirius Corporation (SRV -> Ship comms), Saud Kruger (interface development), and Achilles Corporation (middle-ware layers that work with comms, stations, settlements, installations, etc.).
+
+Also, if you are a carrier owner you do the bidding of the big three corporations and Vodel. Go to camera suite and look at what you haul.
+
+A lot of this is based on The Antares Liner which was a modified version of the Beluga from Saud Kruger. This pretty much implied that Sirius Corporation and Saud Kruger (or some earlier version of Hassan-Kruger and Astrogator) were working together. Additionally, this may account for persistent rumors of Raxxla migrating around the galaxy. Note: The first event happened on Christmas Eve, 2286.
+
+P.S. - The jump between systems very much resembles an eye winking.
+
+
+Last edited: Dec 27, 2023

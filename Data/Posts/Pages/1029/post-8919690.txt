@@ -1,0 +1,20 @@
+Jorki Rasalas
+Jan 26, 2021
+#20,565
+Emperor said:
+following on from my last reply on voice attack, it's not limited to voice activated macros you can use keyboard and joystick macros....
+
+here's the options for a joystick...
+
+View attachment 205610
+
+if it helps with the pain and frustration a little it's worth the $10 U.S. (£7.32 according to Google).
+
+I already have Voice Attack. Got it a few years ago intending to create a voice profile like ANNA that was built for SC (see from 3 mins
+Source: https://m.youtube.com/watch?time_continue=269&v=fYgFriRo5FQ&feature=emb_logo
+), to increase entertainment value of gameplay. However I didn’t have much success in getting it to recognise my commands vs false recognitions and gave up. But I had forgotten that it also has button recognition as well as voice. May run it up today and try it out. Didn’t get chance to play yesterday, but it looks like cold & rain all day today, British weather! How can it be both below zero and raining, shouldn’t it at least be sleet if not snow?
+
+My problem may be that I have a shift button set up on both throttle and stick, one pressed shifts the buttons on the other device, so I need something that will recognise a button press on both devices before issuing the required key sequence. ED allows me to do that in-game but I’m stuck for the windows commands to control video recording. But I’ll investigate!
+Last edited: Jan 26, 2021
+Reactions:
+[PS4] Filthymick420 and simulacrae

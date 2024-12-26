@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Mar 29, 2023
+#29,628
+Jorki Rasalas said:
+No I was asking if we have any deciphering experts on the thread. I’ve already tried those tools, with no success, but then I am definitely not a cypher expert
+Most things in Elite Dangerous are merely hidden via language or symbols to obfuscate the connection. For the few actual encrypted messages we have out there, we generally had something that swapped characters or had symbols that represent letters. Would need to see what you suspect has something buried in some form so we can determine what exactly we are up against. Encryption is but only one method to hide things in plain view. Honestly, sometimes esoteric symbolism/messages are more effective than encryption itself because you have to realize there are more layers.
+Last edited: Mar 29, 2023
+Reactions:
+Dox Paradox and R3aktor

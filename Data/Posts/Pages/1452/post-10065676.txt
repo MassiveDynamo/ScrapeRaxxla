@@ -1,0 +1,12 @@
+CMDRCorrMorningstarFelian
+Jan 24, 2023
+#29,026
+Frankymole said:
+So which are Level 2 scans and which are Level 3 (as per the CMDR stats in your Codex)?
+Level 1 - passive scanning whilst flying through a system (targeting body not required). Details will appear mid-screen. This amounts to loading it into navigation panel if first discovery and loading orbital lines (if enabled).
+
+Level 2 - FSS scanning or targeted passive scan (non-FSS). You know this is happening when the animated hexagon appears and there is several seconds of humming as scanner gets details. If you have EDDiscovery voicepack enabled and option set body details are read out. Includes composition and atmospheric details.
+
+Level 3 - DSS scanner which gets details beyond basic orbital parameters and inhabited POIs. Also used for locating geologic and biological POIs.
+Reactions:
+Frankymole

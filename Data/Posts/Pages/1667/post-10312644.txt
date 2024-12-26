@@ -1,0 +1,18 @@
+Jorki Rasalas
+Feb 10, 2024
+#33,328
+"Raxxla is apparently in a system that has been honked but not discovered. Is not virtually every system in the bubble discovered?"
+
+Evidently Raxxla has been observed (somehow- either by pilot visit or astronomical telescope observation or infered from a gravitational anomaly detection) otherwise we would not be aware of it at all...but likely it's significance was not realised by anyone who has honked it and then jumped out of the system- so it could be anything, anywhere, but is clearly not named as "Raxxla" -else it would have been found on day one by galmap search/file miners. It may be something that does not show up on a honk, and it was only a few years ago that it was revealed that our (formerly "advanced") scanner which originally had "infinte range" within a system actually did not detect some objects until within a finite distance away (e.g. Guardian surface sites).
+
+There has never been any lore/FD explanation of why Sol/Triton is permit locked, nor how to get that permit, so it could be Raxxla (or Raxxla could be an object on Triton's surface). Same possibility applies to Sol/Luna.
+
+It could be a "comet", which are in-game but with no graphical representation and it's very hard to drop out at their position within a system, even if you know where they are (try in Pareco, 6 stations are orbiting one).
+
+It could be the one Black Hole in-game that actually leads somewhere if entered...that hypothesis is a good fit for the "Omphalos Rift" hint.
+
+It's possible that FD have all along been using a bit of artistic licence when talking about Raxxla, using the name for both the "Omphalos" hyperspace trigger and the actual system loaded by it but held on FD server and only downloaded when the trigger is pulled. The "Omphalos" could be disguised as anything, from a featureless moon, specific crater, black hole, "comet", NPC, ...to a strangely shaped reflecting pool inside a space station.
+
+So, there is no valid argument that Raxxla is not in the bubble because it has not yet been found...it must have been found (because we are aware of it), many times if it's in the bubble, but the finder has just not realised.
+Reactions:
+CMDRCorrMorningstarFelian, Quaero and Rochester

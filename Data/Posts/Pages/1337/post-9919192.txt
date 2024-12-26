@@ -1,0 +1,10 @@
+Pyroboros
+Aug 20, 2022
+#26,729
+Ataxia said:
+A hair off topic.
+
+Search 'psr' in game for a syatem. Mine seems to glitch out about 11k ly away.View attachment 318585
+There are a few such systems out there. late 2021 there was a bug. So the cursor did not snapped back as long as you did not moved the mouse. For the PSR System there are some clusters of Neutrons. I spent some time late 2021 on those Systems but there is no known way to get there (exept been a Y-Tuber asking FDEV for a Teleport ). they have valid coords for Stellar Forged but lay outside the GalMap bounds. in fact only 128 022 of the 1 048 576 Possible 1280ly Sectors are in the GalMap bounds. 12.2% and of those 12% the vast majority has not a single system in it. Basicly Elite has the potential for as much Systems as No Man Sky in a single Galaxy. I aslo tried to find if the Magellan Clouds may lay in the addressable Space, they do have a measurable parallax but i do not know how to calc a distance and direction base only of parallax.
+Reactions:
+Ataxia

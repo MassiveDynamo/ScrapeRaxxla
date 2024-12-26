@@ -1,0 +1,6 @@
+MadDogMurdock
+Aug 16, 2017
+#492
+The easiest way to hide Raxxla in plain sight would be to remove the system from the map.
+
+It would still be visible in the skybox but then if it's not in the map, how would you jump to it even if you could take a full skybox survey image and properly identify and label every visible star to rule them out.

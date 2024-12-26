@@ -1,0 +1,40 @@
+Xaintly
+Mar 22, 2019
+#6,993
+Yes, we also keep returning to the "Raxxla is close to Sol because early hyperdrives couldn't go very far" argument.
+
+Pro:
+Makes sense from a logic, lore and story point of view
+
+Con:
+We have no idea what factors were taken into consideration by FDev when choosing the location of Raxxla
+All indications seem to be that David Braben personally chose the location of Raxxla and few people at FDev even know what it is
+For all we know, David just threw a dart at the milky way, or rolled a 1d400-billion sided dice and stuck it in a random system. You'll recognize it because its planet icon on the system map will be Trollface.
+Pretty much every system within about 1000ly of Sol has been explored, even down to mapping the worthless ice worlds
+Braben/FDev doesn't act like he's treating Raxxla as a major game element that he's annoyed we haven't found yet. He grins and smiles and acts like it's basically an easter egg.
+They probably wouldn't want a big easter egg to be something so easy to find that it's discovered in the first 6 months and then nobody cares about it anymore, so they'd probably NOT want to put it right in the bubble.
+
+So that leaves us with few options:
+Raxxla is not close to Sol
+Raxxla is in an asteroid belt (nobody explores those since they won't show your name and have no obvious benefits)
+Players are prevented from going to the system Raxxla is in (eg, permit-lock)
+Raxxla is disguised, or an unusual POI or body that isn't discoverable by normal means
+
+If FDev had said one way or another whether "some commander has honked the system" that would be a massively helpful clue.
+Yes = Raxxla is 99% likely to be in the bubble or near something interesting
+No = Raxxla is 99% likely to be permit-locked or in some random system you can't find without getting a hint
+
+If this was old-school Star Wars, where they had some guy who's whole job was to keep the lore consistent and he was consulted on the placement of Raxxla, then for sure, it's within like 600ly of Sol, tops.
+But all indications are that David has like 100% creative control over the game and if he says 'stick this object in Gru Hypu F-U 92-69' then nobody's going to argue with him about how well that fits into the lore.
+If someone stumbles on it and is like ' why is it 30k ly from sol, nobody could ever get that far with the old hyperdrives' they'll be like 'Alex Ryder's dad was a raxxlan wizard and he used magic to get there'.
+
+Ideally, people should ask more good questions on a livestream or official forum about this.
+Not "Does Raxxla exist?" or "Where is Raxxla" since they obviously can't tell us, but any metagame question like this:
+Is Raxxla something any commander could stumble upon by accident?
+Could it be found by a player who's only played a week, doesn't have horizons and has just a fuel scoop & a cobra 3?
+Has any player been in the same system as Raxxla? [Better: How many players?]
+Have any recent game changes (eg FSS, mapping) made it easier to find Raxxla than before?
+If someone were to find Raxxla, could another commander also find it by doing exactly the same actions the first person did?
+Last edited: Mar 22, 2019
+Reactions:
+Ton618 666, JethroGuardian, Edelgard von Rhein and 1 other person

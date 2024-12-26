@@ -1,0 +1,11 @@
+Vetinari
+V
+Jul 29, 2020
+#18,136
+Nav Panel - shows <20LY jumps + your destination if set and further than 20LY
+
+I thought it showed all but obviously theres a certain limit to the number it shows, if 100 systems in 10LY it not going to show all them plus the ones up to 20LY.
+
+dunno what the number is though, will have to count.
+Reactions:
+PeteACarter, John Stoutbeard and [PS4] Filthymick420

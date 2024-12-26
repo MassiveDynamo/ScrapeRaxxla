@@ -1,0 +1,25 @@
+Louis Calvert
+Dec 27, 2023
+#32,768
+Louis Calvert said:
+Hey folks. Nothing major, just wanted to share this, (likely already been noted, but couldn't find it.)
+
+Omphalos Infotech was changed to Unified Infotech some time between April 18 and May 7 2019.
+Just an update on this: There was an update patch on May 1st 2019, which is apparently when Omphalos Infotech was changed to Unified Infotech in the UC Codex entry. The previous update was December 11th 2018, which is the one that introduced the Codex - so the May 1st update was the next one to make any changes or fixes.
+
+However - the patch notes don't mention this change at all? Have I missed a patch between December 11th and May 1st?
+
+Worth noting: The UC entry is voice acted. That means they presumably got him back to re-do the entry! That's a non-trivial thing, it's not just changing one word in the text.
+
+
+I think it's worth considering this in the hunt for Raxxla:
+
+Scenario 1 - Error: There is no connection between UC and Raxxla, the word Ompalos was used in error, they decided to re-write it to remove confusion.
+
+Scenario 2 - Spoiler: There is a link between UC and Raxxla, but it was never meant to be revealed as obviously.
+
+Scenario 3 - Coverup: It was always intended to be implemented then removed, as a planned "coverup" as part of the Raxxla narrative in-game.
+
+I can't really think of any other likely scenarios. Can any of you?
+Reactions:
+Philip Coutts, Adel and CMDRCorrMorningstarFelian

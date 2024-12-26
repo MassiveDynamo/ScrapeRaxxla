@@ -1,0 +1,19 @@
+Adel
+A
+Apr 15, 2022
+#25,997
+Jorki Rasalas said:
+Ah, then maybe later I’ll run the gaming machine up and do a check, since I kept sysmaps of most if not all that I came across. I remember there was one system that had five anomalies, but I don't think it contained five stars...so maybe this phenomenon is Raxxla?? We need to get @Rochester to send in a clarification request to Customer Support, he seems to be the only one that can elicit any response from FD.
+
+I’ve often said since we don’t know what it is, then how will we know when we find it!
+
+But first, some household chores!
+
+Edit: ah, ninjad by Cmdr Rockbite!
+Interesting hypothesis, good luck in testing it!
+
+Edit2: yes, the anomaly was often a dot with a nebulous cloud that expanded and shrank around it, then the dot faded out entirely, but sometimes there was no dot. Hence my belief it was something to do with how the CME is programmed, and the dot represented the star. Maybe they used a separate graphics layer as part of the processing but forgot to blank it? But I’m no graphics expert and we really ought to get it clarified by FD, but I get totally exasperated by their issue process which just ignored my previous bug reports. is good at phrasing a note to Customer Support which elicits a response, even if it’s not helpful. Perhaps a suitably phrased question as to whether this phenomenon we found is Raxxla might trigger them to go and ask DB....
+Click to expand...
+You made me wonder something: were anomalies been introduced in same time as the codex entry of Raxxla or was it before/after ?
+In the game market, there is something called "particles anomaly" that noone ever found a way to get them even with research limpet controller (whatever the anomaly type).
+So i'm afraid if Raxxla is linked to anomalies, it could be just as broken as them (anomalies are broken since their beginning...).

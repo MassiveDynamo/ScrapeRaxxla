@@ -1,0 +1,32 @@
+yelboc
+Jul 2, 2019
+#9,228
+Reporting in on the crane constellation:
+
+All systems listed in the Wikipedia article have now been checked. Systems with GG8's were scanned and 8th moons mapped including moons of moon options. The eigth moons were eye-balled with polar and equatorial orbits to look for any moving objects around them.
+
+Sadly nothing of interest found. No systems matched the LYTA star types and no T type stars were found at all.
+
+The S-type star in pi-1 gruis was interesting as its very large making its disk clearly visible upto 1000ls and the correct colour for the DW codex image, but no GG8 in that system
+
+Some stars are not in game under any name I could find for them. They are:
+BC Gru
+CE Gru
+RZ Gru
+U Gru
+WASP-95
+
+I suspect the reason they are not in game is that they have no established distance from SOL in RL astronomy. Also WASP-95 may have been added to the catalogue after ED was launched.
+
+Another theory bites the dust !
+
+Special mention to CMDR Honeydapooh who had covered most of the ground after I first mentioned this theory. Thanks for helping drive this forward. There were still a couple of systems left to be checked though.
+
+Annexe:
+From here:
+whats the significance of Lyta Cranes name? Its definately odd - do we look for L-Y-T-A systems in general? Do we check out the lyra constellation too?
+It didnt take long to search a constellation list - should we set up a project to map all constellations between a group of comdrs?
+S-type stars - there are lists in RL astronomy that might be worth exploring. Work for DW search has concentrated so far on EDSM listed systems.
+other coedx possible matches - RL lists there also..
+Reactions:
+Macros Black, Count dEstard and PeteACarter

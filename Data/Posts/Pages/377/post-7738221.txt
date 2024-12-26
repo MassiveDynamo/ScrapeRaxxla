@@ -1,0 +1,7 @@
+Dartay
+D
+Apr 17, 2019
+#7,527
+Jorki Rasalas said:
+Named “GIGO”?
+Assuming most of the components in the picture are garbage -- an accurate and representative skybox could in theory still lead the software to an approximate location.

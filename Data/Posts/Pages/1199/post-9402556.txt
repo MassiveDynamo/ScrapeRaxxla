@@ -1,0 +1,19 @@
+simulacrae
+Jul 13, 2021
+#23,974
+Jorki Rasalas said:
+According to EDSM Sag A* is located at: 25.21875 / -20.90625 / 25899.96875.
+Cant you just move 25.2/20 in the galmap & see whats there/close then go hunt directly?
+Is there a way of showing galactic coordinates when flying??
+Or am I being stupid due to slow breakfast coffee?
+
+Because if u look at the galactic center map Sag A is on it and most definitely not at the center.
+
+The codex map and the galactic sectors are drawn around a circle centered roughly where i pointed out. We have been told to look for an omphalos… and given maps that point to a center other than Sag A…. Seems like it could be a clue to look there…
+
+Ya im out there now - you can get a pretty good idea of coordinates just looking at the grid in the galaxy map
+
+Still working on my coffee too… im trying to get a distribution of the stars in the y axis and then get a center that way… instead of hoping that the y value of Sag A is the answer… seems like there are more stars in the negative in the center … so expecting it to be lower
+Last edited: Jul 13, 2021
+Reactions:
+Jorki Rasalas

@@ -1,0 +1,19 @@
+clavain
+May 20, 2021
+#23,318
+Jorki Rasalas said:
+I’m not aware of any carry over from the books. Witch’s Reach was in one (Wanted), but cant be entered due to unknown permit lock-unless there’s a clue in the book how to get the permit??
+Hah, the perfect segue to reveal my long-awaited Odyssey spoiler - Witch's Reach system description now says no permit is issued, period. Wrap some tinfoil around that.
+
+In the "new" Galaxy map, permitted systems no longer show "permit required" when you mouse over them, and they simply say "Route Unavailable" when you try to plot a route, without giving the reason why. You have to look at the System Information tab (they have changed everything, it is all prettier but less useful to use) where you will (sometimes) see that a permit is required, and possibly other details. For example, Sol says only that "The permit for this system can be obtained from the Federal military". Peregrina says "The permit for this system can be obtained via the Peregrina aristocrats faction".
+
+Here is the real spoiler bit, Witch's Reach says "This system is locked by the Pilots' Federation, no permits are currently issued". LFT 509 says the same thing. That would have been nice to know for the last six years or so, huh?
+
+Polaris doesn't say anything in its system description. Whether that means it is unlocked for Odyssey, or a bug, not sure. It just gives a "Route Unavailable" when you try to plot one, which is the same message you get when you try to go outside the bounds of the Alpha "Bubble" in Phase 2.
+
+The sector-wide locks all seem to be the same as Polaris - no Permit Locks indicated any more, and just a "Route Unavailable" when you try to plot to one of the systems. Whether that means anything who knows.
+
+Some how the forums have not been notifying me of new posts here, will have to get caught up later today.
+Last edited: May 20, 2021
+Reactions:
+Dartay, Exekrator, Jorki Rasalas and 4 others

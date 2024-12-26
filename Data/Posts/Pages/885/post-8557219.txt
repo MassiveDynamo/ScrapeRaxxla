@@ -1,0 +1,8 @@
+The_Narwhal_King
+T
+Jun 26, 2020
+#17,683
+alexzk said:
+I had purchased some system on the way with this function, then I jumped there and it was completely 1st mapped by me including star.
+Not sure how that works ... maybe when FDev jump there on live UC registers it as "data present" even if they don't put own name on map ...something to think how it works and how to use
+anything on any of the planets? any landable sites?

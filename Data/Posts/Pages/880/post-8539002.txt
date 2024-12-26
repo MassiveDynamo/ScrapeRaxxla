@@ -1,0 +1,18 @@
+Roen Soul
+Jun 17, 2020
+#17,593
+For those who want some hints how to mess around with Amiga version...
+
+If your playing old Elite with PC...
+With a program called PC-tools you can edit memory with hex39 to get the money...
+
+And for those who has MSX version of Elite...
+During count down press keys in order.. H 5 F targetsystem ..
+Replace target system with the system you want to jump to...
+
+Have fun.
+Attachments
+Screenshot_20200616-030250.png
+989.1 KB · Views: 362
+Reactions:
+Mrrshal

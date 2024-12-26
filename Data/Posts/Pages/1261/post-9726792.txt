@@ -1,0 +1,23 @@
+electro
+Feb 2, 2022
+#25,214
+Adel said:
+When you honk Sol, it says "46 bodies found".
+In the logs:
+
+JSON:
+{ "timestamp":"2021-11-05T17:11:48Z", "event":"FSSDiscoveryScan", "Progress":1.000000, "BodyCount":40, "NonBodyCount":51, "SystemName":"Sol", "SystemAddress":10477373803 }
+
+40 Bodies in Sol
+The missing from 46 to 40 are:
+
+Now "What other unknowns in sol?" either he speaks about the six above or the "NonBodyCount" (51 of them).
+
+Sol has
+
+=> So 20 out of 51 NonBodies.
+=> 31 Unknown "NonBodies"
+
+I'm in deep space for now so i don't know what are the signals in Sol (installations, etc), i just remember there are 2 or 3 ancient probes + "voyager" tourist beacon (already counted).
+Click to expand...
+Sol 9+10?

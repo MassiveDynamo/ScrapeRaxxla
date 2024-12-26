@@ -1,0 +1,10 @@
+PeteACarter
+P
+Aug 30, 2019
+#11,580
+bluecrash said:
+Are you saying it's coded into all the .exe files?
+Quite an interesting idea. Use the GUID of our hardware (or commander might make more sense, in case we change machines) as a seed for their famous procedural generation technique, so it appears in a different system for everybody.
+The we know where it is statement would still technically be true as it would be deterministic for every cmdr.
+Reactions:
+[PS4] Filthymick420

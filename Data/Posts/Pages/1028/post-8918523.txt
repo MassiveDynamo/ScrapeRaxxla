@@ -1,0 +1,6 @@
+electro
+Jan 25, 2021
+#20,558
+Noticed that some systems doesnt say "Full system scanned" when everything in DSS is scanned. Clue?
+Reactions:
+[PS4] Filthymick420

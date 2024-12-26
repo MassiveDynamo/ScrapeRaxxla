@@ -1,0 +1,25 @@
+Jorki Rasalas
+Sep 24, 2020
+#19,041
+alexzk said:
+Not sure what "subdwarf" means >: Like body? But then main star must be huge O/B like and list is short.
+For API limit was 100ly around, so doing next:
+Center: Sol
+Radius: 100ly
+Main star: M dwarf
+Must have at least 3 giants.
+
+Why are you filtering on “must have at least 3 GG”?
+
+If I remember the star classifications correctly “subdwarf” would be a type M VI ( that matches the codex pic after colour correction to make the rear station lights match those of Aulin Enterprise), however it might be safer to filter on any M type regardless of subtype. I guess within a 150ly radius of Sol since the Wiki says that is the size of the bubble.
+
+AHTW says:
+
+SPOILER
+
+I don’t know if that means there is only an M type, asteroid belt, and a single Type3 GG in the system, or whether there are other planets. I suspect only a single GG in such a system would be very unusual? I’m also assuming the quote means a Type 3 GG from Sudarsky’s classification (https://en.m.wikipedia.org/wiki/Sudarsky's_gas_giant_classification).
+
+Edit: noting the statement about the station’s gravity level it might perhaps be sensible to filter on a radius around Achenar?
+Last edited: Sep 24, 2020
+Reactions:
+Dr. Lexus, Fiera, Vasquess and 1 other person

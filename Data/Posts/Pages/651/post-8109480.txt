@@ -1,0 +1,12 @@
+Koben
+Oct 27, 2019
+#13,019
+Han_Zen said:
+UA/TS will Morse the local system / body / station name. It does this until it scans our ship.
+It does not scan SRVs, so at the crash sites keeps doing the name Morsing.
+
+Thanks, mate! The funny part is that the Thargoid Sensor will scan my ship as soon I drop it...
+
+Does it resume morse code the current location if I fly off of it by 1km?
+Reactions:
+[PS4] Filthymick420

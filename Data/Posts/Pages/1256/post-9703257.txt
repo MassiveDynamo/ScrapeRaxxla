@@ -1,0 +1,24 @@
+Merlin StWahgwaan
+Jan 17, 2022
+#25,120
+yelboc said:
+You will have to write some software. The EDSM (Eddb really?) data base is available online (see spansh's website https://spansh.co.uk/dumps. Its quite a big file, ofc. ) You will need to write some code to measure how far each star is off of your line and then present the closest 10 or whatever you want. The file is just text, so scanning it isnt too hard, just requires patience. The format is self explanatory to a large extent.
+
+The database has every star there is out to at least 300LY and plenty more further out though with less complete coverage as you go outwards from Sol.
+
+Good luck!
+It's a great idea but I run into 2 walls with that...
+
+First and foremost, those json files are so large, even the smaller ones, that I can't seem to find a Json viewer/editor that can actually load a file to completion, even with 32GB of ram and an additional 32gb of vram on an m.2 ssd.... total committed ram available in my PC is 79.8 GB. I was at 98% usage and only about half way thru parsing the galaxy with stations .json when it finally pooped out and went to not responding for over 30min before I force closed it. That was the best I ever got. Other viewers would load like the first 200 or so lines, but fail loading the rest.
+
+Either way, that means I can't load the information in anyway that I can use or edit to reduce the info to just system names and coordinates.
+
+
+Then the second wall.
+Even if I can load the entire file and remove the extraneous information, I have zero experience withing a program, especially one that could take the information and basically create my own partial galmap, by plotting the points in a 3d space and allowing me to insert lines/course possibilities that are derived and projected but that don't interfere/interact with the overlaid plot/course lines....
+
+
+Its all over my head.
+
+I almost wish I knew VR programming, because having a VR environment that populates the points and letting me walk thru them would be super amazing, but even without that, creating an interactive galmap of know stars, outside of the game, with lost of additional plotting and searching abilities, would be a huge thing....
+But ultimately I'm not capable and know no one who is :-(

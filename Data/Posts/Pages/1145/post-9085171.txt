@@ -1,0 +1,14 @@
+alexzk
+A
+Apr 13, 2021
+#22,888
+Koben said:
+I've been saying that for quite some time now... that Raxxla may not be a signal you can lock-to-drop but you have to fly there in SC then drop in normal space and you'd find it because you would already know where to look for it.
+
+Guess where we have an Asteroid Belt with no lock-to-drop but we can fly there in SC? R.: Sol
+
+Not saying Raxxla is there, but maybe something leading to it...
+It's a bit different though. Game cannot show 2 things in same location so it shows belt. Now to keep it hidden it must have same orbital speed as belt. Because ... FDevs moved that beacon manually 2 days ago and today it is inside belt again -> meaning different orbital speed. Maybe because of masses.
+So only we learn for sure - belt WILL hide anything if it is in same position as belt.
+Reactions:
+[PS4] Filthymick420

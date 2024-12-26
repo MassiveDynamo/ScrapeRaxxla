@@ -1,0 +1,5 @@
+Noobilite
+Aug 25, 2019
+#11,290
+I think the col 132 and wregeo stuff is in the wrong direction. Is there a messed up negative or positive? I might be missing how the calculation is supposed to work though. Is it for the same thing I was doing?
+Last edited: Aug 25, 2019

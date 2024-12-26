@@ -1,0 +1,31 @@
+Louis Calvert
+Jan 24, 2024
+#33,126
+D7 said:
+Yeah, I,m going to play a little more with settings and few more tries. Earlier this morning I had some slightly different setting and could swear the larger lobe area looked like a gas giant with a full ring looking maybe 20 degrees off edge and a maybe a small planetoid (dark). Agree looks like the gas giant doubles as a circle with inner structure. One look this morning made it look like the dark wheel symbol in the codex selection menu (or perhaps more like the generation ships symbol in the codex menu) but I had to go and forget the settings. Ill look more into this. Y'all have noticed the obvious similarities in those two symbols right?
+I've been doing a lot of experimenting.
+I'm reasonably certain that these aren't noise or random patterns, since they remain when I filter out the heavy noise and they remain completely consistent between jumps.
+Much like the Landscape Signal, they are strongly left-channel biased too (I don't know why this might be, it could be my setup for reasons I don't understand?).
+This has noise filtering and tweaked spectrogram settings:
+
+
+
+This shape is consistent in all the recordings I've made of hyperspace, always in exactly the same place. Actually, it's repeated.
+
+This shape appears in the middle of a blobby shape that I think of as being "shadows":
+SPOILER: SPECTROGRAMS SHOWING SHADOW PLACEMENT AND REPEATS
+
+
+
+
+
+You can see in the spectrograms above that the little slanted vertical lines overlay the shadows and are not part of the same audio layer - these slanted lines are what we hear as the whispers. The blobby shapes don't exactly coincide with any visual or audio in the jump that I can see so far, they appear to be very subtly part of the background.
+
+As D7 said, it's much harder to see on these images than it is on Audacity itself, so I highly recommend (as usual) everyone give this a go for yourself and try to bust it.
+
+So - If these are indeed intentional shapes: What could they mean? Can anyone get a better, cleaner image of them?
+Attachments
+1706062490566.png
+16.5 KB · Views: 271
+Reactions:
+D7 and Quaero

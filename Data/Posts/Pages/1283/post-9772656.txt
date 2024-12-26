@@ -1,0 +1,11 @@
+Korlod
+K
+Mar 13, 2022
+#25,659
+When Stellar Forge generated the galaxy, it generated a name for every system and object in it at the same time based on it’s location/sector. That formula was cracked a long time ago and has been shown to be accurate. After generation of the galaxy, FD went in an hand named and/or otherwise adjusted some systems so that we as humans could read/remember/find them/correlate with lore and had to then add a reference to these names to the Forge database. Think of it kind of like the searchbar is making a DNS request and can retrieve based on either the human readable name (if there’s an entry) or the machine generated one. The section of space we’re dealing with happens to be called Wregoe based on the generated name.
+
+Now, as to why the only ”named” comets can be targeted from outside of the existing system likely has to do with the fact that the search bar database is likely set to search “current system” first then “renamed bodies” and then finally the Forge generated ”SystemID” only (for expediency otherwise they’d be searching trillions of objects and returning many that you have no interest in actually targeting) so the “SystemID” + “BodyID” returns null or something similar in fully Forge generated systems whereas the named bodies return a location.
+
+Why some crash the game while in system probably has to do with bad data getting returned due to a human-induced bug.
+Reactions:
+Rochester, Zieman, John Stoutbeard and 2 others

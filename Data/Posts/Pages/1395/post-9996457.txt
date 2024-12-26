@@ -1,0 +1,32 @@
+Rochester
+Nov 14, 2022
+#27,892
+Louis Calvert said:
+Revisions to the Raxxla Logo
+While I'm waiting to hear back from CS about Mimas, I wanted to take a pass at this since I see a lot of ideas based on the number of dashes in the hexagon.
+
+The Original rebuilt Raxxla logo that we all use is great - actually it's better than the one in the codex, more care has been taken over it, and I think that's possibly unfortunately led to some theories about the number of dashes being more significant than it might actually be.
+
+I worked as a graphic designer for 20 years: Looking at the codex logo I can see that whoever made it simply drew a hexagon then simply converted the outline to dashes -takes about 1 minute to do. You can tell because of the uneven distribution of the dashes around the corners.
+
+
+
+I can't match it exactly since I don't have access to higher-end software since I retired but even with free Inkscape I've been able to illustrate it here well enough for this example. With Illustrator or Corel software I could have set the correct line weight and kerning between dashes to exactly match the distribution from the codex - i'd be surprised if it wasn't actually one of the pre-set dashes.
+
+I can't remember who rebuilt the logo a while back (sorry!), like I said they did a job and this is absolutely not bashing their recreation work (except this one little bit of accuracy) - I suspect they spent more time and care recreating it that the original creator, no doubt.
+
+For this reason I'm pretty certain that the in terms of a "clue". It only significant because of the more carefully balanced recreation.
+Click to expand...
+Yup I concur, something I take for granted, I noticed that too so my gut never attributed anything to the ‘number of dots’ myself also being from the creative industries. It’s a good point to make as it will hopefully rule out one avenue of foil and save time.
+
+I presume the dashes are a simple graphical illustration of a hidden object; a broken / dotted line.
+
+Raxxla has been described as hidden or lost or more importantly 'obfuscated' - to darken, to make obscure, confuse, to be evasive, unclear, hide from view.
+
+Those dotted lines could be used for a number of purposes, but it could simply represent a diminished boundary, indicating the hidden parts of an object.
+
+By convention, technical and engineering illustrations use a solid line for what is visible and the dashed or dotted line to indicate concealed lines and edges, usually on the reverse of an object.
+
+Last edited: Nov 14, 2022
+Reactions:
+Louis Calvert

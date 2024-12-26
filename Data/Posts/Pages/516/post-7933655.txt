@@ -1,0 +1,16 @@
+Xenia_K
+Aug 6, 2019
+#10,305
+PeteACarter said:
+I may have said this before, but I have come to the belief/hope that Raxxla will be largely uninteresting in it's own right, but unlock the DW, which may bring additional game play.
+
+I cant imagine that FD have a bunch of servers, ready with an alternative galaxy loaded. Although that being said, I believe they use AWS, which would make it possible for them to do this, whilst spending close to 0 money. If they have, then the 1st CMDR should expect the load screen to last about 40 minutes, whilst the auto scaling group spins up some EC2 instances and the game loads!
+
+Edit - Even more possible, if they have a failed model of the Milky Way left over from Stella Forge development and testing. Create a galaxy that doesn't look like the milky way and hey presto, new galaxy!
+
+Damb it - I'm talking myself back into Raxxla being the end game!
+Click to expand...
+
+as I understand it they only need the model on the server, system details will be generated upon first discovery only - hence it shouldn´t take to much server-space....
+Reactions:
+PeteACarter

@@ -1,0 +1,15 @@
+Jorki Rasalas
+Aug 22, 2019
+#11,168
+Han_Zen said:
+It's also worth noting that FD can modify proc. gen systems, after their generation. They can both insert assets and modify Stellar Forge objects.
+An example of this is Hypuae Aim ZP-R b48-0 that has a gas giant, named Travis Green. This one has been in the game since launch. Probably named by a backer.
+
+It's also worth noting that even though I have fully explored Hypuae Aim ZP-R b48-0, Travis Green is not searchable in the galaxy map.
+
+Interesting that something exists in-game that is not searchable in the galmap. I suspect this is a bug, possibly they renamed the gas giant for the backer but didn’t change its original name in the Stellar Forge database, so “Travis Green” is only in the system map/description. Worth reporting as a bug though, just to see their reaction?
+
+Edit: have you tried searching for it using the normal naming convention? Never tried doing that for a gas giant, not sure if it works...
+Last edited: Aug 22, 2019
+Reactions:
+PeteACarter and Scytale

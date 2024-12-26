@@ -1,0 +1,17 @@
+Merlin StWahgwaan
+Dec 22, 2023
+#32,681
+I also wanted to note, I found another odd thing and while speaking of factions, I should mention it...
+
+INARA, gets its faction information from? like if it's a player faction or not?
+it must be from our logs/journal files right, when we scan the system/dock at a station?
+
+I ask because so far, the only Minor Faction that I've been able to find on INARA that doesn't say simply YES or NO in the PLAYER FACTION spot, is in fact, The Dark Wheel, in ShinDez.
+it's listed as "Related" instead of Yes or No with a definition of "an existing NPC Faction related to players"
+
+questions:
+are there any other factions on INARA listed this way? there doesn't seem to be a way to search by this information other than check each one manually . ...
+
+is this tag given by INARA, or by the game in our logs? if the game, then we probably need to find more factions like that, or continue to attempt to expand this one's influence, which is only controlling 17 systems, which isn't a lot in the grand scheme of things, it might take until they control 25 or 50 systems at the same time, before that faction gets "shutdown" by the real DW, or unlocks some other game stuff/storyline/ect.
+Reactions:
+Louis Calvert

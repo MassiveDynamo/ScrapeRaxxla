@@ -1,0 +1,31 @@
+El Saico
+Sep 17, 2024
+#34,850
+Louis Calvert said:
+To me that's a good interpretation - the Toast is a sort of map.
+
+I'm convinced "To the jewel that burns on the brow of the mother of galaxies!" means Saggitarius A. I go into more detail in my thread about why that is. "To the whisperer in witch-space, the siren of the deepest void!" I think is a multi-part clue that encourages us to listen to space. It's also a coded reference to the lore aspects that relate to NPCs who have similarly 'heard the siren'. I go into a lot more detail on my thread, but there's a lot of references to the siren/whisperer aspect in the Lore (Halsey, FR, Romero, etc.). I also think that's the origin of the original members of the Dark Wheel - people who 'heard' the siren (whatever that means, it seems to resemble madness or eccentricity).
+
+Together these parts basically mean: "To the centre of the galaxy, listen for the song/signal/sound" - that's the Landscape Signal, which does sound like a ghostly singing at times.
+
+The last part is the bit I'm least convinced by my explanation for, but it fits well enough and I've not heard a better one - I think it just reinforces the idea of a long hard journey (which travelling to the centre of the Galaxy used to be) - though it's entirely possible that the idea is that we solve the Landscape Signal to get "The next clue", which will make sense of that part of the Toast - especially if it really is a sort of Galaxy-hopping-space-tunnel.
+
+I think the LAndscape Signal origin point is the Omphalos Rift, which is a portal/hole in space that leads to Raxxla - though what Raxxla is is something I'm still not sure about. I think it's in Hyperspace whatever it is, or somehow linked to Hyperspace in a way, it might be a sort of Hyperspace Hub... not sure.
+
+I maintain that there are very faint hidden images in the Landscape Signal and that's what we should all be focusing on solving.
+
+
+
+This style puzzle is the same as the format used for the Thargoid "map" (though a much harder version of it). In my thread I go into a lot more technical detail about why it's so hard, and why it's been missed for so long.
+
+Fundamentally whether anyone thinks my interpretation is correct, there an artificial signal coming from a location near Stuemeae JM-W C1-5825. Fdev have confirmed that it's "working as intended" and as far as anyone knows it's been there since the start of the game. It's one of the few remaining "mysteries" in the game and since Raxxla is basically the only real remaining mystery that's broadly unsolved, then if nothing else it makes the Landscape Signal a high candidate for Raxxla.
+
+
+
+I can definitely (still) see faint images in there when viewed as a spectrogram, and I'm still (even almost a year later) shocked that no-one else is chasing this. It's accessible to everyone playing the game on any version with any ship and any skills.
+Click to expand...
+A more precise triangulation of the signal got within ~0.075ly of (14.971, -25.043, 25894.964). This notably includes (15, -25, 25895); the origin point of three boxels which, interestingly enough, all cover the location of Sagittarius A* - inspiring thus the launch of their Landscape Expedition.
+
+My suspicion is: whatever FDev uses to "position" distant audio sources like this one is not granular enough to take individual systems as origins, only boxels, so they used the closest possible approximation to Sagittarius A*, which means it's indeed the intended target. The problem being, what to do from there...
+Reactions:
+Rochester and simulacrae

@@ -1,0 +1,4 @@
+Comandante
+Apr 8, 2018
+#2,136
+I didn't know this (I've never actually used jet boost from a star!) but if you get the boost but don't jump and log off, the changes are persisted so when you log on next time, you still have the extended range.

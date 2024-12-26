@@ -1,0 +1,12 @@
+Xaintly
+Mar 13, 2020
+#15,657
+Panzertard said:
+But again, in case Fdev has been clever perhaps we need to perform the 'the set of actions' within a timeframe of 30 days so it will be harder to discover the correct sequence.
+If there is a set of sequences that is.
+
+Without any hints, this would be nearly impossible.
+Elite tracks hundreds of stats; furthest distance from starting point, total distance traveled, black markets traded with, total markets, kills, bounties, passengers, beacons, etc...
+If they put an additional limiter, like do X combination within 30 days, that would be especially evil.
+Reactions:
+Vetinari and [PS4] Filthymick420

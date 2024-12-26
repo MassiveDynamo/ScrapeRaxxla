@@ -1,0 +1,9 @@
+Noobilite
+Jan 26, 2019
+#5,472
+I'm assuming he's hinting that it takes along time to move and you wouldn't notice it in real time. That would logically be one way to hide it. Make it move slowly.
+
+Assuming it can be far away enough to not be visible.. Is there a range of speed and distance that stops short range real time paralax checking from working in ed solar systems. I'm not familiar with the numbers. Figuring that out might give an immediate zone to check in each solar system.
+Last edited: Jan 26, 2019
+Reactions:
+Scytale

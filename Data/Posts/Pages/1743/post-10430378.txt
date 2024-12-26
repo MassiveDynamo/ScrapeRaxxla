@@ -1,0 +1,21 @@
+Neestar
+Sep 18, 2024
+#34,853
+Rochester said:
+@ Neestar - O7 not intentionally.
+
+Combination of bad day in the office, speed typing (auto-correct) and a stream of consciousness.
+ah ok, no worries! o7
+Ian Doncaster said:
+The Odyssey license should let you access all three of Odyssey Live, Horizons Live and Horizons Legacy (though the latter will require an extra download).
+ok i might've asked this before but i've forgotten: So how do i know which version i go into or have access to while i'm playing, like for example when i'm on the Galaxy Map picking stars to jump & such?
+
+Is it all just seemless for me since i "own" both versions? Or is it like some onscreen prompt saying "you are about to enter EliteDangerous: HORIZONS phase" or whatever?
+
+i also see one of my ingame friends-list players is showing up online as being listed within "ED: Legacy" or something. What does that mean exactly?
+Ian Doncaster said:
+What coding would possibly require galaxy-level sound sources to be attached to a corner of a boxel? Why would anyone do it that way in the first place when the maths to locate a sound in space is exactly as easy - easier, since it doesn't have a superfluous rounding step! - when using full-resolution coordinates, and they have to be able to calculate the direction of out-of-system objects more precisely than "nearest boxel" anyway to stop the starbox looking very silly.
+As a former QA & rudimentary 'coder' ( SWG ) , i tend to agree with you there ^ yep. However, something just occurred to me: Remember that aforementioned permit-locked planet 'LAVE 2' i stumbled upon ( without knowing it was commonplace) in my previous post earlier? Well, that planet is run by the..... 'Lave RADIO Network' . hmm.... coincidence?
+Last edited: Sep 18, 2024
+Reactions:
+Rochester

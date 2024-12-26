@@ -1,0 +1,14 @@
+Ian Doncaster
+Sep 19, 2024
+#34,888
+marx said:
+I suppose I should have put more emphasis on the part where it has to work from anywhere in the galaxy, and also on the finisher, that even if this was originally a quick-and-dirty implementation, if Frontier wanted the sound to come from one system, they had many years to correct that. But they didn't, so they likely don't.
+To be clear, I certainly believe that whatever the sound is, it is coming from where Frontier intend the sound to be coming from, and if it's not coming from a (visible) system, that's because it's not supposed to.
+
+It's the theory "it's supposed to be the sound of a particular system, but for technical reasons it comes from somewhere else entirely" I don't find plausible.
+
+Virtual Yoda said:
+IF (big if) my theory is correct, the Galactic cords for the Landscape signal should be (25.217,−20.9077,25895)
+That's quite some distance from where the sound is currently coming from - about 10 LY in X and about 5 LY in Y, going by the work done to narrow down its position so far.
+
+Do you mean "should be" in the sense of "the sound should be coming from there but isn't"?

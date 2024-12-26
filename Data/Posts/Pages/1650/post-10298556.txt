@@ -1,0 +1,13 @@
+D7
+D
+Jan 14, 2024
+#32,995
+Louis Calvert said:
+I'm very sure these are all ship noises. The fact that it changes depending on the ship type shows just how much detail Fdev put into the cockpit sounds
+
+You can test this very easily by pointing 180 degrees away from the centre of the galaxy you'll get a 'non signal' recording, then you can compare! If the bars are still present, then it's ship noise.
+
+Yup - a control sample is needed in ALL cases like this. Without a control sample and very rigorous differential analysis I put zero credence in anything like this. It would be desirable if the control sample was actually subtracted from the test recording before analyzing differential results. But you would want to experiment with how you acquire a control sample. Pointing normal to the galactic plane and far from any stars or other galactic phenomenon is needed because if you point into another direction that has another galactic sound (sound B) then when you subtract the control you can get a false positive signal embedded which is actually the negative of sound B.
+Last edited: Jan 14, 2024
+Reactions:
+Emperor

@@ -1,0 +1,20 @@
+PeteACarter
+P
+Jun 8, 2020
+#17,144
+FalconFly said:
+That was my thought back then as well, I simply assumed this would be just a String Error and simple oversight.
+
+Just the separate Reputation thing would be a different thing (already being Allied), which is what caused most of the confusion on my side.
+I believe doing Tasks based off Pilots Federation Rescue MegaShips (SAR, Thargoid Combat Bonds) was a new code segment to the Game, which possibly introduced a separate new Reputation Branch - at least that's my best theory.
+
+The ASCII String error alone wouldn't be surprising, I'm used to those (i.e. getting pulled by a Pirate NPC while holding uncommon Cargo such as Deep Space Salvage : also results in the NPC Text demanding what looks like placeholder Strings that someone simply forgot to fill)
+Click to expand...
+No, that's the devs beeping out the expletives the pirate are throwing at you...
+
+Drop 1 unit of @!').@! Kumatra cigars or your @)'!@)@@ finished...
+
+You scratched my @.)!.!)! paintwork! ;-)
+Last edited: Jun 8, 2020
+Reactions:
+simulacrae and [PS4] Filthymick420

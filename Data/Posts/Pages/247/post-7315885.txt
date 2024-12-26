@@ -1,0 +1,20 @@
+SpocksOddSocks
+Jan 4, 2019
+#4,933
+Han_Zen said:
+- The obfuscated area is not fixed on windshield, it follows your view.
+- The cockpit and ship is litt by the starlight, even when the star is totally black.
+- The effect is the same from all directions and does not seem to be limited in distance outward from the star.
+- The effect is the same in external camera and when the ship is without power.
+
+If this is active obfuscation(not a bug), it's either something that 'affects the pilots eyes' or it's the ship(and Remlock mask) that does it.
+
+There are a few Galnet articles that may hint that this may be something real:
+
+
+Click to expand...
+
+Quick update, I can confirm I'm seeing the same thing. Currently sitting at 85,565ls from the star, and there is still a small area in field of view where the star is covered. Moving my head slightly at this distance does indeed reveal the star, and it works the same in camera view.
+
+It is the same in normal space and supercruise, and if you turn off the hud and enter FSS, you see the same thing there.
+Last edited: Jan 4, 2019

@@ -1,0 +1,9 @@
+FullM3talX
+Dec 5, 2019
+#13,781
+i have a vague idea of where to start. by using the sentence "the key that is also the door". FD has a history in using encrypted text in their puzzles, that are solved by using decryption tools. i know that many encryption tools use a key aswell as the text you wish to encrypt/decrypt, both wich you need to provide. so im going to try and encrypt/decrypt the word raxxla, by using raxxla as the key aswell as the text to encrypt/decrypt. (the key that is also the content, so to speak) and see what it spits out. but it might take a while. there is soo many encryption tools and so many different algorithms. hopefully something like a system name comes up.
+
+but it could also be something in game or lore related that doesn't require external tools and encryption but rather just your sherlock holmes skills. only im gona do the encryption part first, to take it off the list, since it's the most boring one.
+Last edited: Dec 5, 2019
+Reactions:
+[PS4] Filthymick420, BluWolve and Han_Zen

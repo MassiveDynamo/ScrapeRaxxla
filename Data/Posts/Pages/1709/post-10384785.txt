@@ -1,0 +1,12 @@
+Jorki Rasalas
+Jun 2, 2024
+#34,174
+Interesting Discord/EDSM post from Spansh on his search data source:
+"I stopped importing bodies from EDSM a few months ago, it contains too much bad data. I used to import the systems and bodies from EDSM at the beginning of each month using the archive from @Bravada Cadelanne. It did contain about 50,000-100,000 systems each month that did not go through EDDN and up to 500,000 bodies. However it also contains systems with incorrect coordinates which end up needing to be fixed manually which takes quite a lot of time. EDSM stopped sending uploaded data to EDDN a couple of years ago so those systems/bodies will stay only on EDSM until the site purges them and they will then be lost forever (except for the archive at edgalaxydata.space). Since EDSM also doesn't import NavRoute data it means that there is no longer a source of all known data in concise format. The appropriate solution is to get people who only upload to EDSM to also upload to EDDN (probably using EDDiscovery if they would like to upload old data)"
+
+So, EDSM doesn't now seem to be as reliable as Spansh search data!
+
+I'm remembering all the data I supplied on my long trips into the black, hunting potential Gravitational Wave sources (binary/ternary BH etc), Distant Worlds2, investigating with @Han_Zen the strange visual objects found in many systems maps...thousands of ly worth of data, but it will be lost as it's unlikely those systems will be revisited for EDSM within 2 years.
+Last edited: Jun 2, 2024
+Reactions:
+simulacrae, Macros Black and Rochester

@@ -1,0 +1,12 @@
+alexzk
+A
+Apr 30, 2020
+#16,261
+You need to think as programmer .. some things are hard to implement, for example counting visited "anything" just for raxxla ...would be waste of invested dollars. Because will use extra field in DB.
+You can use only what already exists to hide ester egg. Sooo ... my point is it must be 100% combination of some game mechanics & stats.
+
+For example, as u're tripple elite now, go try to make many quests for minors ("farm rank") until u get "mysterious stranger". Maybe couple times.
+This combination seems viable, as tripples who bothers that quests are rare.
+Last edited: Apr 30, 2020
+Reactions:
+Machina Ergo Sum, [PS4] Filthymick420 and Han_Zen

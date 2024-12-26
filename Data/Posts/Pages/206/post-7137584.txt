@@ -1,0 +1,23 @@
+Jorki Rasalas
+Nov 3, 2018
+#4,113
+OK, I’ve come to a standstill in my current Questing, but thought it’s time to report. I assumed that “It's a journey that everyone has to travel for themselves" was a clue, leading to Elite & the (now disappeared) Shinrarta Dezhra TDW missions which others had undertaken without result. So I mooched around SD, found Weapon fire USS threat levels 5 & 6 near SD AB2 FA, which has a suspiciously orbital inclination (maybe a captured planetoid?), but level 5 was just a pirate attack & couldn’t relocate the level6. Nothing found in “gap” between orbital rings of AB2 E & F.
+
+I thought I’d try to treat “A certain celestial body. Place that isn't a place, door that is also the key. The myth." as a riddle using EDSM data (by previous FSD-range arguments I assumed R is located close to/within the human bubble). Given that DB said R has been in-game since the beta I considered the game mechanics & suspected either there’s a cryptogram to solve with a key (the key being “home”, “gate”, “life” or Hope?) or perhaps the trail leads to a locked system permit. Forum query response suggests no outstanding cryptograms. Given there are several unpopulated locked systems in the bubble this seems a viable hypothesis, but how to get the permit?
+“Place that is not a Place”: Witchspace, Black Hole, “nowhere”, “no place” (song by Rufus du Sol), Home (in Reorte), Hope, Happiness, (other emotions named in-game?), Greek(-Utopia), Latin(-Nusquam, Calquing, Numquamia), Neverland, Heaven, “unnamed”, “noname”, Plaice (fish), Home could be Sol/Earth from where humanity originated. Placet system? Various stations named Laplace. “Hope” rang a bell and I realised the name Shinrarta Dezhra means “Life, she saw, hope" from a mixture of Russian and Arabic, which might have triggered DB/MB riddle setting mode...
+“door that is also the key”: gateway (1589 in EDSM), trapdoor (none), black hole, doorway (none), portal (none), port? (3,447 in EDSM), opening (none), hatch (3819 stars, 3451 planets, 1 station- hatch’s memorial/zeta lupi), entrance (none), entry (none), exit (none), egress (none), ingress (none), aperture (none), gate (4 stations: Alioth/Golden gate, Aztlan/Tannhauser gate, Gru Hypue ks-t d3-31/Gagarin gate, Kashyapa/Vihara gate), wicket (none), education? (None).
+
+I checked out:
+GATEWAY system (formerly Oltigu), close to SD, planet 1 is called Hope, which has Orbis station Dublin Citadel. Nothing found -8.5kls from sun or +21kls, nothing found around gateway 1, 2, 3 or 4. EGP operative in DBX named Hope seen in system...didn’t have an FSWS & he didn’t reappear! Gateway has a UCB reportedly pointing to San Tu science installation (but that seems to lead to crashed goid ship on HIP 17403.
+Also LFT 361/Hope Gateway -orbis
+Ran missions from both Dublin Citadel & Hope Gateway. Remembered Premonition’s/Alessia Verdi’s speech about TDW being a conglomerate of like-minded organisations & spotted that Official Gateway Nationalists have same triangular background symbol (reminiscent of Pilot Federation/Guardian triangular symbology) as Dominion of LFT 361 (both dictatorships, this symbol seems to be common to dictatorships)-perhaps you need to become allied with all parts of the real Dark Wheel to get the R permit? became allied with both these factions but no result (n.b. TDW in SD is, surprisingly, democratic).
+Also checked out Sirius, Eitha/Song gateway (Eitha means Greeting (SAfrican) or Extreme(welsh) & a song has a musical key! (remembered “Silent Song of the Spheres”) but no obvious clues. Inspected mission board & outpost exterior.
+Mooched in Beta Hydri (permit lock)/Homeland/Stevenson Base, planet Endl with Black Mausoleum-orbis, also in
+Aztlan (mythical place of origin of the Aztec peoples)/Tannhauser (opera) Gate-orbis, nothing found in system.
+
+Frustrated of Mu Leonis!
+
+edit: forgot to say that for this investigation I also changed the name of my ship to HOPE, just in case that triggered something.
+Last edited: Nov 4, 2018
+Reactions:
+PeteACarter, ThevilOne, ilo and 1 other person

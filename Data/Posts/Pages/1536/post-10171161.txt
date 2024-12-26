@@ -1,0 +1,8 @@
+John Stoutbeard
+Jun 26, 2023
+#30,711
+Jorki Rasalas said:
+using the orrery view (which was strangely delayed...)
+Just a minor derail; There's an annoying bug, where your position in the view is 'flipped or reversed', so when you're on one side of the system, suddenly the orrery view shows you in a totally different place. Haven't found a way to fix it, it makes it hard to discover things like this using the view.
+Reactions:
+Jorki Rasalas

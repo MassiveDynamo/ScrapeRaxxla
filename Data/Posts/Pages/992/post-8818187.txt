@@ -1,0 +1,12 @@
+Elliot Coleman
+Nov 27, 2020
+#19,835
+So....the only one on the list that shows up is WISE 0855-0714, which turns out to be a Federal system.
+
+Given some light research, I settled on OTS 44 (rogue proto-star/gas giant), an interesting specimen that is supposedly a proto-star with a dust ring. It's in the Chameleon constellation, near IC 2631 (can't find this nebula in game...unless it's supposed to be the Chameleon nebula). IC 2631 is illuminated by HD 97300 (aka HIP 54557). I've spent the last hour checking proto-stars all around this area and nothing.
+
+Also, nothing showing up on my nav panel that doesn't look like a normal system. I'm not entirely sure what determines star designations. As of this writing I'm in Chamaeleon Sector JH-U b3-4...what do these letter/number designations mean?
+
+Not an exhaustive search, nor do I feel like I'm done just yet. But, I suspect if FDev put rogues in game they're set up as normal systems or within normal systems (as is the case with WISE 0855-0714).
+Reactions:
+Dr. Lexus, Hanerib, Macros Black and 2 others

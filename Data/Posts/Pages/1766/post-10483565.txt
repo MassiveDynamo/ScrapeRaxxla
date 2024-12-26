@@ -1,0 +1,47 @@
+Jorki Rasalas
+Nov 15, 2024
+#35,312
+@selbie
+"Lore-wise our ship FSDs lock on to objects with distinct enough mass. The lowest mass game objects categorised as stars available to us are VII white dwarfs."
+No. I suspect your ED astrophysics is a little out there, or I'm misunderstanding what you're saying (not much sleep last night!!). I think the FSD locks onto the primary body of whatever system you have selected. That should be a star, but the specification of Star Type in the Elite Dangerous Player Journal is quite wide:
+"
+15.2 Star Descriptions
+(Main sequence: O B A F G K M L T Y
+(Proto stars: TTS AeBe
+(Wolf-Rayet: W WN WNC WC WO
+(Carbon stars: CS C CN CJ CH CHd
+MS S
+(white dwarfs: D DA DAB DAO DAZ DAV DB DBZ DBV DO DOV DQ DC DCV DX
+N (=Neutron)
+H (=Black Hole)
+X (=exotic)
+SupermassiveBlackHole
+A_BlueWhiteSuperGiant
+F_WhiteSuperGiant
+M_RedSuperGiant
+M_RedGiant
+K_OrangeGiant
+RoguePlanet
+Nebula
+StellarRemnantNebula
+"
+We dont know whether or not some of these objects (X, RoguePlanet) exist in-game, just that the Star Description specification allows for them (and it could be pure FD obfuscation!).
+
+The definition for "4.9 FSDTarget" is
+Parameters:
+ Starsystem
+ Name
+ RemainingJumpsInRoute
+ StarClass
+
+StarClass seems to be any of the Star Descriptions above. Starsystem is the ID64 number allocted to it and name is allocated from the region+ mass-related naming convention (or a hand-allocated name, e.g. "Sol")
+System name guide, yes the system name reveals the main star, mostly..
+I noticed the system names have a system. How is this useful? 1. You can search for black holes and O stars or other rare stuff (kinda) 2. You can predict the main star of the next jump, by the name without opening galmap. 3. You can predict all star types shown in your nav panel, if you dont...
+forums.frontier.co.uk
+
+DB js keen on astronomy and wanted to make the game as realistic as feasible so I think normal astronomy references can be applied. Now from Wikipedia "the mass of a Y-type brown dwarf is typically between 3 and 29 Jupiter masses (MJ), but is usually less than 21 MJ. Y-type brown dwarfs are the coolest brown dwarfs, with surface temperatures as low as 200 kelvin, which is similar to Earth's surface temperature, whereas ... the mass of a White Dwarf typically lies in range 0.17 to 1.33 Solar Masses, and ... Jupiter Mass =0.000955 Solar Mass".
+
+So in ED, as in real life, a Brown Dwarf is much smaller and cooler than a White Dwarf, and a Rogue Planet could be even smaller (e.g. Earth= 0.0031463520 MJ), but the FSD would still be able to jump to it since it would form it's own in-game "system". The system mass for it woild be so small that it would have to be classed as an "A-mass system":
+
+An exotic star would be fairly heavy, & probably represented in-game as a Neutron Star. A Rogue Planet could be a single planet in its own "system". We wouldnt be able to detect it was a Rogue Planet until someone jumps in and reports that system with a very low single planetary mass (I assume EDSM and Spansh etc do that test when data is submited).
+Last edited: Nov 15, 2024

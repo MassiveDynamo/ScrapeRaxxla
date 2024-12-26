@@ -1,0 +1,22 @@
+Jorki Rasalas
+May 19, 2020
+#16,497
+Han_Zen said:
+I don't think they have anything to do with the Magellanic clouds. The angle and distance between them are to different in the two systems, to make any sense.
+
+They look designed. I have seen them close in VR and they have a deliberate shape and animation. In the map they are located in a plane between the planets / stars and the background stars. When you pan the map, they move about half distance of the regular bodies.
+
+The animation is a fade in / fade out sequence. They show up after about a minute, grow for a few minutes and then fade out again. In the middle of the animation, a brighter central dot shows.
+
+From Deneb(small dots are background stars):
+
+
+Their position is fixed in the system map. Once the system is scanned, you don't have to be in the system to see the effect.
+
+If this is a bug, I would guess it's something that spilled over from the VR system map. That one has some similar (not exactly the same) effects and no background stars.
+Click to expand...
+
+Mmm, Was thinking perhaps FD had implemented Dark Matter lensing of the Magellanic Clouds!
+No, if they’re animated then don’t think they can be graphic artefacts. Possibly a hint to the existence of anomalies? But in that case don’t see why they’re only in two systems, and presumably when you fss they don’t show as such in-system? But then weird they don’t show until the system has been scanned? As you say it might be a bug carried over from VR, definitely worth people raising bug reports to see what the Dev comment is.
+Reactions:
+Machina Ergo Sum, [PS4 Pro - PC] earthtone99, Han_Zen and 2 others

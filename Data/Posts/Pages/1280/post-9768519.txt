@@ -1,0 +1,30 @@
+CMDRCorrMorningstarFelian
+Mar 11, 2022
+#25,596
+Hear me out - we fundamentally misunderstood Faraway and it still exists. This can be backed up from looking at quirium based purely from an in-game lore standpoint and adding some very basic science.
+
+1) Hyperspace technology arises in Sol with Li Qin Jao who's team ultimately establishes Sirius Corporation. It was slow and finicky but it got us to the stars. Era of rapid expansion begins in earnest by 2230 (per "Early Colonies" tourist beacon in Delta Pavonis). This push is made up of individuals and corporations. Navigation was independent at this point already. Jumps are not externally configured but they are slower.
+
+2) If you read closely about quirium, Galnet states it's formula which was a secret which was lost (see "Galactic News: Hyperspace - https://community.elitedangerous.com/galnet/uid/586f796c9657ba3357039d07 ). The question should be was it really? Taken from from purely scientific point there are few energy sources that match the punch of either fusion of hydrogen or the matter-antimatter annihilation reaction. We have both in the game so no it wasn't lost. We also have recipes for FSD boosting without a white dwarf or neutron star. In the game we use hydrogen fuel which is run through a fusion reactor (type 2b hyperspace) per the in-game description of hydrogen fuel:
+
+
+What we know about Quirium per the old wiki (https://wiki.alioth.net/index.php/Quirium) it is described as follows:
+
+Quirium is produced industrially in vast quantities and sold for a few Credits per LY. Due to the low cost, and almost universal availability, small scale production rarely makes sense, but it may also be produced on board a ship by harvesting plasma from the corona of a star with a fuel scoop either in emergency, or for far space research where normal supplies may not be available.
+
+-could be produced industrially in huge quantities
+-sold for credits per lightyear
+-near universally available
+-can be harvested from plasma from the corona of star with a fuel scoop
+
+This means Type 2b hyperspace wasn't dependent on Thargoids so much as a reaction to Thargoids. We needed fuels that wouldn't ignite when our ships were hyperdicted. We needed a way to get back to safety as quickly as possible if the ship didn't possess weapons (supercruise). This was solved via a mini-fusion core and a navigation computer that not only locks jumps but locks out human ability to power off the FSD during inter-system jumps (just try to kill power during a high-wake jump). Mis-jumps still can happen and you can readily demonstate this by killing power to your FSD during supercruise.
+
+So what was GalCop wanting kept hidden - the fact Faraway never died. Faraway, in fact, may have predated Lave itself because it is older than humanity itself and may even be known by another name: RAXXLA. Faraway, in fact, matches the stargates as described in "Tour of the Universe" and the novella "The Dark Wheel".
+
+Here's the description per Holdstock and Malcolm Edwards "Tour of the Universe" of a stargate. Sounds awfully familiar to description of Faraway in The Dark Wheel doesn't it?
+
+Google Drive: Sign-in
+Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).
+drive.google.com
+Reactions:
+John Stoutbeard and Adel

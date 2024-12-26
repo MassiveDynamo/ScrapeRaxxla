@@ -1,0 +1,10 @@
+alexzk
+A
+Feb 3, 2020
+#14,968
+Jorki Rasalas said:
+Still out in the black trying to match star patterns to Horizons start screen with the Orbis.
+I have fss scanned Sifi KX-S d4-10. There is a gas giant showing in the spectrum response and 9 bodies reported but only 8 are detectable. There is a distant orbit line, but no gas giant appearing on it. I have logged to desktop and back but the planet has not appeared . Bug reported!
+I had something like today twice "data broken error, please retry" or something happens in FSS. Then all scanned. Then you open map and see like 4D moon missing. (like 4C and 4E there), full reclick by FSS around 4 fixed ...
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

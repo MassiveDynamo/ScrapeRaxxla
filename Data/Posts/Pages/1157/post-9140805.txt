@@ -1,0 +1,6 @@
+Spaceman Spiff
+May 4, 2021
+#23,127
+CMDRCorrFelian said:
+There is something out there - random signal source I keep passing in the SDO patch of planetismals that are the furthest out from Sol. I was heading back to Columbus station in Sol and 454,000 or greater distance. It appears very quickly and disappears but even low throttle supercruise is really fast that far out. It doesn't orbit anything.
+So this is something you are seeing in the Nav Panel?

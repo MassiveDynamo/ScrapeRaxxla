@@ -1,0 +1,8 @@
+Jorki Rasalas
+Jan 16, 2022
+#25,106
+Started to set up new hosas this morning (swapped second VKB NXT to replace old CH Combatstick, xmas treat to myself), but it seemed that while most of the binds were saving OK those down at the bottom of the list (e.g. for Replay, DSS & FSS) weren’t, even though I definitely “applied” before closing the list. Is this a known bug? Unfortunately GSP before I could confirm (grandkids stopped play) in the xml file.
+
+Edit: 6 hours later & seems to be working ok now apart, however, from freecam binds where I cant seem to apply a two-button shift button+another button combination. Seem to vaguely remember something like this in the dim & distant past when I set up the previous hosas & ended up having to edit the xml to implement the button combo.
+Grandkids have gone, I’m shattered! Are 4 year olds congenital vampires, sucking the energy out of you?
+Last edited: Jan 16, 2022

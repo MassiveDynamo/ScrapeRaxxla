@@ -1,0 +1,6 @@
+selbie
+Dec 17, 2023
+#32,571
+While on the topic of Thetis, I found out how to shift down the inaudible range, and the strange audio shapes are her own voice, but has been duplicated and mirrored across what appears to be the entire spectrum range repeating in bands of about 1300 Hz each. So whatever is corrupting them, was retransmitting some kind of feedback loop.
+
+For reference this is how a human voice appears in a spectrogram. Note the lines only go one direction, but the Thetis bands are mirrored on each other.

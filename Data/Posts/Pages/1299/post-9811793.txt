@@ -1,0 +1,6 @@
+Zieman
+Apr 14, 2022
+#25,978
+Thatchinho said:
+Where did the Gamma thing come from? I’ve heard it many a time, but don’t know the source for it.
+There was a period between Beta testing phase and official launch of E: D. It was called Gamma testing phase, but any progress made then was not reset at launch time. Many (me included) fell to the idea of 'vertical slice' at that time. Alas, E: D 1.0 was just Gamma with some bugs fixed (and some introduced).

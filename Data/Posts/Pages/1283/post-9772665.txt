@@ -1,0 +1,13 @@
+Jorki Rasalas
+Mar 13, 2022
+#25,660
+Yes, I understand these are real system names, but it’s new to me that FD renamed Sol, Shinrarta etc; how do we know those are the original names? Where do they come from?
+
+Is this from the livestream on Generating Galaxies (not the exact title, it was a long time ago! Dr Ross??) that FD did? I dont think I ever watched that.
+
+So this “searchbar overflow method” uses a real/former system name but subtracts a value for the bodyID to generate a value which can be found within the system map?
+
+I feel as though I have been given insufficient information! (Tremors reference! )
+
+Edit: ah, ninjad by Cmdr Korlod who has answered some of my questions! Thank you!!
+Last edited: Mar 13, 2022

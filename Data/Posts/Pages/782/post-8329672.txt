@@ -1,0 +1,11 @@
+John Stoutbeard
+Mar 12, 2020
+#15,634
+Vetinari said:
+Same here, intermittently turns off auto-decelerate for no apparent reason. Re-log to home and back into fdev Server usually (but not always) does the trick but no idea why or whats happening.
+I've had incidents where either a bug prevents keyboard usage just in Elite, or that some other application wins the race to become the topmost (active) application. The bug is sort of 'well known'.
+If the Elite-window happens to loose focus then controls may stop work. It's been applications like Ed-app overlays, discord and similar apps that I have integrated while playing. I don't recall exactly which over the time. As of the Input shifting to active app, is by design in Windows.
+
+Anyway, advise is to assume bug/minor problem rather than ingame mechanics, while keep maintaining vigilant for something that could debunk it as such.
+Reactions:
+[PS4] Filthymick420

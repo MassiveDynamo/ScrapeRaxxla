@@ -1,0 +1,10 @@
+D7
+D
+Feb 9, 2024
+#33,321
+Quaero said:
+I like the idea though. This was kind of the same thing I was thinking but To position my ship jumping into/ through the black hole. Most likely a specific origin and destination system required to bypass rebuy screen. Potentially a prerequisite set of accomplishments and perhaps key systems visited also, just because the game can track all that easily and I'm also trying to think like a game Easter egg at this point lol
+Interesting. I have never tried to set a hyperspace jump such that it my reticles are dead head straight on a black hole. I assume unless FDev made a special case exemption, that the jump would get rejected for being blocked ("destination target obscured").
+Last edited: Feb 9, 2024
+Reactions:
+Quaero

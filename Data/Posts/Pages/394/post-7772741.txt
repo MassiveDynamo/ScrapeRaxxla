@@ -1,0 +1,14 @@
+Yagi Uda
+Y
+May 3, 2019
+#7,872
+Yagi Uda said:
+I've not seen more on this so far this week. The long string of text contains lower case a-z, upper case A-Z, 0 to 9 digits, spaces, and separated by carriage returns. That's 26+26+10+2 = 64. Base64 (perhaps swapping space and CR with + and / or alternatives) can be converted into other formats (inc. pictures) which might give a clue, but so far I've not had any type of success when converting. There's a lot of characters shown here - it might be a single string if you look at the carriage returns as being just another character.
+
+This may not be the right track.
+
+I did check if the text is a new thing, and not something that was old but I'd forgotten about. I only found very recent Google references. One of them was the code subreddit considering if the text was scrambled or ciphered. English average word length is 4.5. The text we have has an average of 6.9. Not so many short words that we might find in English. (This is assuming use of English and not another language.) If not plain text, then what about system names similar to the earlier comment of CMDR names (but we need to figure in the hyphen in system names)
+
+Another stumbling block is that there are instances of space in the middle of the 'words', but we would not be able to work out from the image if there was meant to be a space at the end of a word (again, assuming the space should be translated to something else.)
+
+Whilst there are upper and lower case letters, and numbers, they are not appearing uniformly. 245 a-z, 61 A-Z, 22 0-9, and 4 spaces. Not all words have a capital letter, or a number.

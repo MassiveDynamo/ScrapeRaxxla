@@ -1,0 +1,24 @@
+Dox Paradox
+Sep 6, 2024
+#34,730
+Ian Doncaster said:
+Silly idea based on "only once a suitable test of courage and skill has been discreetly administered, and passed" from the Dark Wheel codex.
+
+If your ship is destroyed, you respawn aboard the nearest station (unless Wanted or Hostile or there is no station).
+If that works for the Dark Wheel station, maybe the test of skill is figuring out where it is, and the test of courage is being confident enough that you're right that you eject and are picked up by them.
+
+The change to reappear at the nearest station rather than always your last-docked one was introduced in 3.0 so was certainly there when the Codex was added in 3.3.
+
+(I won't be testing it on my current survey run - it's not really compatible with carrying the cargo and flying a fairly slow ship)
+Click to expand...
+It is an interesting idea, which I hope is false.
+How painful would it be game-play-wise to test dozens of systems?
+
+I know it's a long dead horse but the closest I've been in-game to a test of courage, skills, and dare are the heist missions for unknown strangers.
+A few days ago, I (again) did one, including escaping drones' missiles, and defense turret lasers, while finding a way in a maze-like base with different access ramps all closed by force-field doors I had to jump above with the SRV.
+I understand TDW and Raxxla were (supposedly) implemented before planetary landing was possible.
+But couldn't FDev silently update the range of possibilities to match the game's evolution?
+Now I have completed the heist, the file is worth 1 million something. But the mission text says "bring it back to us" and not "sell it wherever you want for profit".
+So, I wonder if someone has tried to KEEP the downloaded data for a while (until the mission expires? longer?), which means having to NOT die to keep the data, and see if a new contact wants the data delivered somewhere...?
+Reactions:
+Ravenloft45 and Ian Doncaster

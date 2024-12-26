@@ -1,0 +1,20 @@
+Yuki Estelle
+Jan 4, 2021
+#20,254
+Darth Ender said:
+I still think it's more likely fdev is hiding raxxla in an asteroid belt in some otherwise uninteresting system. But if raxxla isn't a ship and is instead some stellar object, then i think making it accessible by jumping from some specific starting point with a specific destination is the next best way to hide it and would make for an interesting way to make it obvious yet still a puzzle.
+
+to make it a little bit obvious for the jump idea, you'd focus on singular permit locked systems that can't be acquired of which there are more than 1 possible option somewhat near the bubble. LFT 509 or polaris ...both have leaked internal makeups despite being permit blocked that make them stand apart from any random permit locked system.
+
+That is, unless the permits for these systems are acquirable via missions. Wouldn't be the first time fdev thought it was a good idea to hide clues in local news of certain stations at certain times and nobody saw them because fdev has given players no reason to think any given random station is special enough to check on them out of the thousands in the game.
+Click to expand...
+
+All are valid assumptions at this point, we've seen the lengths they're willing to go when hiding both puzzles and their solutions. Though I doubt the leaked internal system makeups mean much, since I recall Fdev saying that some permit-locked systems could be zones for future planned events and expansions. It is slightly suspicious that one or two had an eighth moon orbiting a gas giant.
+
+Regardless, Fdev doesn't strike me as the type of developer to toss it's community a "needle in a haystack" problem. It gives me the impression that there's a trail of breadcrumbs leading from an obvious beginning to a less obvious end. Which of course begs the question: Where is the obvious beginning?
+
+At the risk of returning to square one, the Toast is likely a strong contextual clue that only makes sense once you find the starting location, but provides subtle hints if you haven't. Since Fdev seems to enjoy building their puzzles using in-game mechanics (such as local news, audio logs, beacons etc) I would wager that the Toast isn't the only clue and behaves more like a key. Our job is to find the door.
+
+In any case, it's all specualtion. I look forward to the day when we're slapping our heads going, "How did we not see that, it was so obvious!"
+Reactions:
+Ruby_Empress, Hanerib, Fiera and 1 other person

@@ -1,0 +1,25 @@
+yelboc
+Jan 17, 2022
+#25,122
+Merlin StWahgwaan said:
+It's a great idea but I run into 2 walls with that...
+
+First and foremost, those json files are so large, even the smaller ones, that I can't seem to find a Json viewer/editor that can actually load a file to completion, even with 32GB of ram and an additional 32gb of vram on an m.2 ssd.... total committed ram available in my PC is 79.8 GB. I was at 98% usage and only about half way thru parsing the galaxy with stations .json when it finally pooped out and went to not responding for over 30min before I force closed it. That was the best I ever got. Other viewers would load like the first 200 or so lines, but fail loading the rest.
+
+Either way, that means I can't load the information in anyway that I can use or edit to reduce the info to just system names and coordinates.
+
+
+Then the second wall.
+Even if I can load the entire file and remove the extraneous information, I have zero experience withing a program, especially one that could take the information and basically create my own partial galmap, by plotting the points in a 3d space and allowing me to insert lines/course possibilities that are derived and projected but that don't interfere/interact with the overlaid plot/course lines....
+
+
+Its all over my head.
+
+I almost wish I knew VR programming, because having a VR environment that populates the points and letting me walk thru them would be super amazing, but even without that, creating an interactive galmap of know stars, outside of the game, with lost of additional plotting and searching abilities, would be a huge thing....
+But ultimately I'm not capable and know no one who is :-(
+Click to expand...
+I've done similar things in the past, but I have access to matlab which makes life easier for me - its an engineer's programming language (the free Octave might be a possibility or else python can probably suffice ). You shouldn't try to load the whole file - parse it byte by byte on the disk - trying to load 100GB into memory is not a good idea. Its just text with nice formatting characters - you can read byte by byte until you get a pair of '[' ,']' and then you know you got a whole system. Etc.
+
+But it seems like you haven't got the skill base for the rest of the task, in which case your only hope is to inspire someone else to do it for you. I'd offer, but I have far too many other things to do, and I'm not inspired enough to overcome my intertia activation energy. I would recommend learning to do it - that way your hunt for Raxxla is achieving something useful
+Reactions:
+Adel

@@ -1,0 +1,11 @@
+alexzk
+A
+Mar 15, 2021
+#21,996
+about clouds ...there is a setting in xml file - "density of local dust". It has some value like 0.13 for minimal settings and 0.0 for high. Point is, if you set it like 0.001 on high u will see dust here and there. I made it because I assume dust cannot be complete invisible (0.0). And I see nice clouds everywhere now.
+
+
+<GalaxyMap>
+<LocalDustBrightness>0.001</LocalDustBrightness>
+</GalaxyMap>
+Last edited: Mar 15, 2021

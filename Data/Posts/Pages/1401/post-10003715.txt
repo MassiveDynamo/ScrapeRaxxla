@@ -1,0 +1,30 @@
+SongOfTheVoid
+Nov 23, 2022
+#28,020
+For each bodyid to be checked, you have jump to a nearby system, turn round, in galmap select the candidate system as your next jump, go back to the cockpit view and check you’ve got the correct system highlighted. Drop out of supercruise and Exit the game back to the desktop. You then need to use a calculator which can handle 64 bit numbers to generate for that candidate bodyid the corresponding ID64, (not yet found a spreadsheet that can handle this).
+
+Find the appropriate MISC file for the game version you are playing:
+
+For EDOdyssey:
+
+C:\Users\Username\AppData\Local\Frontier Developments\Elite Dangerous\Options\Player\Custom.4.0.misc
+
+For EDHorizons:
+
+Users\Username\AppData\Local\Frontier Developments\Elite Dangerous\Options\Player\Custom.3.8.misc
+
+Open it with your text editor. You’ll see the <RouteDestination> value will be set to the target system’s ID64. You need to insert the ID64 you calculate for the bodyid into the entry <RouteDestinationBody Value="512" />, changing that “512” for your ID64.
+
+The value to be inserted is obtained from the formula
+
+Candidate bodyid ID64=(bodyid*2^55)+system identifier
+
+=(bodyid*36,028,797,018,963,968)+system identifier
+Click to expand...
+Your telling us that "Fdev provided this method" in which you alter files accessed by the game in a attempt to extract hidden not public information from the game by exploiting the client to load manually edited values?
+Im going to say your either outright lying or id suggest showing proof of this supposed provider from Fdev for this method as altering files loaded by the game without it being authorised "GUI" only changes is a breach of the EULA and as what your saying is 100% NOT GUI related and is related to extracting information from the game you wouldnt otherwise have, thus is a clear breach and is easily under the branch of datamining via exploitation of the client via modified game client files.
+@Ozric Ive Quoted the offending section, please note a) Altering of ED Files, b) for NON-GUI only purposes and c) To trick the client into loading the manually edited values in the file so it provides information otherwise not provided to players....
+To be clear im sure you may believe its acceptable but the fact remains its really not and anything like that should rightfully be called out when seen so bad behaviours or erroneous beliefs can be corrected...
+Last edited: Nov 23, 2022
+Reactions:
+CMDRCorrMorningstarFelian

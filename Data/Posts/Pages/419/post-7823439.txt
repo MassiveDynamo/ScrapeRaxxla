@@ -1,0 +1,6 @@
+Midian Cabal
+May 30, 2019
+#8,372
+yelboc said:
+Neither F10 or PrinScreen work for me. Maybe FRAPs is what I need... thanks. Not sure I could bear win10 for the sake of screenshots
+Try with Alt+PrintScreen or Win+PrintScreen.

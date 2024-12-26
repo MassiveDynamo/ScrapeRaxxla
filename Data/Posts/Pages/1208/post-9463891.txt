@@ -1,0 +1,8 @@
+Jorki Rasalas
+Aug 13, 2021
+#24,149
+CMDR Davanix said:
+Havnt found one of these in a long time, two systems beside eachother, same name, same catalog name for both HD and HIP, Same main star except one has two other companions HD 127733
+A common problem. Creation data for them fed into stellar forge sourced from different star catalogues with slightly different positions. FD seem to have been a little lapse in their data quality control.
+Reactions:
+simulacrae, Rochester and CMDR Davanix

@@ -1,0 +1,16 @@
+Jorki Rasalas
+Mar 23, 2021
+#22,341
+Thatchinho said:
+There's also a date in the Adamastor's logs where the contents are missing. It's prior to arrival at the LP.
+
+Also a question tied to the above about whether the Adamastor started at Chukchan, went somewhere, then went to the LP, or whether it started elsewhere, went to Chukchan, and then went to the LP.
+
+Lots of unanswered speculative stuff as well, of course, but the missing data from the date stands out as a clue that has not been resolve.
+
+It is possible the partial flight plan was falsified and, as you say, she went somewhere for some purpose and the log was deleted. She was only fuelled for 370 ly, so must have refuelled somewhere, either before or very near to the LP.
+
+The logs are clear that she was originally heading for an Azimuth facility out towards Barnard’s Loop, and the three systems mentioned (HIP 39748, HIP 33386, & LP in Synuefe XE-Y c17-7) are definitely on a straight line out that aways. She received updated orders at the LP which diverted her to the Coalsack. BUT where did she refuel? If she could fuel scoop then why bother stating the 370ly range? Doesn’t make sense! And the LP message is a lot of text to say just ”LONG 38.0 615 ly body 3“, then there is evidently the word “west” (Oest in the French version, so must be significant part of the message) and a coded “North” plus some parts that seem to me to be further distances. Logically that message should provide explicit directions to Musca Dark Region PJ-P b6-1 3 (11.86 , -38.0), and quite possibly to a refuelling post/rendezvous. It may be a puzzle for the playerbase, but it must be logically valid too!!
+Last edited: Mar 24, 2021
+Reactions:
+[PS4] Filthymick420

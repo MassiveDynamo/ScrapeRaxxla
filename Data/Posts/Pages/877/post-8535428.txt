@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jun 16, 2020
+#17,528
+Mrrshal said:
+Got Orange Sidewinder first time this patch, trying to drop in to signal source. Game stuck in the drop out loading (that blu haze tunnel) and after minutes disconnect.
+
+Probably Frontier failed to load Raxxla/DW instance for me and crashe dthe server XD
+Joking.
+______Or not?
+
+No, game stuck in hyperspace tunnel is a networking issue. Used to happen a lot, but things were improved significantly. Anyone else in your house using the internet, maybe streaming movies?
+Reactions:
+Dr. Lexus and PeteACarter

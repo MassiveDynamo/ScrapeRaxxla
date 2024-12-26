@@ -1,0 +1,16 @@
+Jorki Rasalas
+Feb 5, 2022
+#25,238
+Lakon Spaceway said:
+The search bar is universal cartographic, and it is for finding systems. If you've visited the system before, you can then find bodies using the system map. If you haven't then you need to got to the system, honk it on discovery scanner to find how many bodies there are in the system, and, then, use the full spectrum scanner to find bodies. To find places of interest to explore on the bodies, use a detailed surface to map the body 100%. Sometimes you need to then enter orbital cruise around the body before the places of interest on the surface show up in your navigation pane.
+
+Ha ha ha, good joke. You do of course realise that most of us on this thread have been playing for many years!??
+
+The question is whether it is acceptable to make use of an exploit, via the system search dialog and system logfiles, and in particular to automate that exploitation as recent discussion has implied.
+
+P.S. In any case I don’t think it’s going to find Raxxla. I’m pretty convinced that Raxxla is disguised as an ordinary object and won’t be revealed until you perform some specific action-e.g. enter a tunnel (“omphalos”?) in an installation
+
+PPS and please excuse me if Im grumpy. Copawlot had a fit yesterday, then again at 01:00 last night and I had a disturbed night afterwards with him, so a lack of sleep and an increasing annoyance with dogsh.. everywhere. Just had to clean up the kitchen
+Last edited: Feb 5, 2022
+Reactions:
+rOmiLaYu and Macros Black

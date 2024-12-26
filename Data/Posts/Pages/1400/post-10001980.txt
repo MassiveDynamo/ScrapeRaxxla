@@ -1,0 +1,35 @@
+cmdr_imonix
+C
+Nov 21, 2022
+#27,994
+Rochester said:
+Needs to be repeated by another to be verified in my opinion but off the cuff it looks more like a graphical or instance bug?
+
+Are you in the system which this anomaly occurs or in a different system?
+
+If your in a different system, then your in a different ‘instance’ so those stars ought to be presented within the flat 2D image of the galaxy, which forms around your visual background.
+
+If that’s the case it’s odd if they glitch in that way because they like all the other stars in the back drop are not actually there, it’s just a graphical illusion.
+
+If you’re in those system/s then they could glitch for some reason unknown? Needs replication to rule out. Report it to FD as a bug.
+Click to expand...
+Many thanks for your reply:
+
+"Needs to be repeated by another to be verified in my opinion but off the cuff it looks more like a graphical or instance bug?"
+
+-- Agreed - I am happy to remain in the instance and 'team' to invite someone to the exact normal space location.
+
+"Are you in the system which this anomaly occurs or in a different system?"
+
+-- I'm in the same system as in the video - I have been to local systems and the peculiarities do not occur there.
+
+"If your in a different system, then you're in a different ‘instance’ so those stars ought to be presented within the flat 2D image of the galaxy, which forms around your visual background."
+
+-- As Above
+
+"If you’re in those system/s then they could glitch for some reason unknown? Needs replication to rule out. Report it to FD as a bug."
+
+-- ?Bug already reported - https://issues.frontierstore.net/issue-detail/55419 - I expect it to expire unnoticed by FDEV
+Last edited: Nov 21, 2022
+Reactions:
+Jorki Rasalas, 3navis, Louis Calvert and 1 other person

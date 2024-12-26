@@ -1,0 +1,8 @@
+simulacrae
+Sep 8, 2024
+#34,746
+Ian Doncaster said:
+It's in the journal, so you can find it on EDSM or Spansh. It's essentially a numeric translation of the system's default name (i.e. Wregoe AC-D d12-0 rather than Sol), which ensures uniqueness - they are not sequentially allocated and there are a lot of gaps.
+
+Thanks! So its like a seed number- generating the original name from the simulation creation. Very interesting. Makes me wonder how much of the system is being generated from that number. I guess there is a thread on the exploration forum on this i am missing
+Last edited: Sep 8, 2024

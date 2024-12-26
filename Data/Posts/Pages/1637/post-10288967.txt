@@ -1,0 +1,82 @@
+Louis Calvert
+Dec 23, 2023
+#32,721
+Landscape Signal (or as I like to think of it, the Siren Signal), is fascinating. I've been duplicating the IRH groups (excellent) methodology and getting the same consistent results.
+
+Even if it's only the signal and nothing else, it's something completely unique. There's the spectrogram signal itself, and completely separately there's the 'singing' audio. They aren't the same part of the signal (i.e. the spectrogram part with the 'mountains' isn't the same as the part with the signing.), but you don't get one without the other - they're part of the same signal.
+
+What this means is that someone deliberately created this audio unlike anything else in game, and placed it in a specific location.
+
+Past Research; some questions?!
+IRH did a great job of narrowing it down and producing a really good report on how to find it and the methodology they used to triangulate the location. I was able to replicate what they found using the same methods, and I was able to prove to my satisfaction that the signal wasn't coming from anywhere else.
+
+However; I'm having a lot of trouble recreating Canonn's research though. I don't know how they managed to apparently narrow the signal down to essentially an area the size of a solar system, there's no methodology listed on their website.
+
+Canonn’s commander Seventh_Circle performed his own measurements of the signal and concluded that it was within a 0.2 ly radius sphere at Galactic Coordinates 14.889 / -25.061 / 25894.980. Using 4 measurements that were closest in value, he narrowed it down further to 14.971 / -25.043 / 25894.964 with a radius of 0.075ly
+
+That's all it says. I've really struggled to understand how Commander Seventh_Circle got the fidelity of the signal to narrow it down so small, even knowing where they think it is (it's about .64ly outside Stuemeae JM-W c1-5825), I can't get narrow enough readings to confirm it - the ship's 'signal-receivers' are very wide-angle, and lack fidelity.
+
+I'm still trying to gather more data. I assume Canonn's correct... but I want to do it for myself.
+
+Is it Raxxla?
+I am feeling confident that this is indeed the "Siren of the Deepest Void" that is mentioned in the Codex. Nothing else in-game fits so well as literally something singing near the core of the galaxy. Whether it's simply a marker or whether it's actually the location of Raxxla though... that's a thing.
+
+I also think the general idea matches a lot of the rest of the codex clues, and also maybe what Brookes and Braben hinted at.
+
+SPOILER: OLD SKOOL CLUES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Siren Signal is hand-placed, so the choice to place it outside any known system is deliberate.
+
+My guess is that either:
+
+a) You can jump to it, like a star, under certain conditions. And that's the next part of the puzzle.
+b) We're not meant to get to it, it's just a general marker to indicate something. And that's a different next part of the puzzle.
+c) We're not meant to get to it... yet (but in that case, why not put it in a star system and permit lock it?). And that's a dead end.
+
+Further investigations:
+I am highly suspicious of Universal Cartographics. The renaming of the UC Codex from Omphalos Infotech sneakily suggests that maybe it was an accident, altering it later might have been thought of as better than leaving it. The other option is that Fdev wanted to remove any possible red herrings. I've been digging into UC, but obvs there's very little info.
+
+ChatGPT has some weird ideas about Cynthia Sideris, can anyone think why? I'd assume all it knows about Cynthia is what the wiki and similar sources say?
+
+SPOILER: CHATGPT ON CYNTHIA SIDERIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I've no idea how ChatGPT got that so far off the mark. It's really interesting though that Martuuk's description does fit really nicely with the idea that she'd be unlocked through interactions with UC:
+Elvira Martuuk is a well known explorer although she is rumoured to have once been a deadly assassin before heading out into black. Some have claimed she needed to 'cool off' after a particularly high profile case, so went exploring, but Elvira denies it. She is fascinated by all things alien, and has become expert at spotting human fakes. Her reputation is such that her base is rarely troubled by freebooters. She believes in being self-sufficient, and her tight-knit group grows all their own food. Develop your relationship with her to discover another engineer.
+
+Can't help but feel a skilled Engineer specialising in exploration mods, who's part of a tight-knit, self-sufficient group who's fascinated by alien things is... well frankly she's part of The Dark Wheel isn't she?
+
+I'd love to know why ChatGPT has linked Martuuk with her exploration and love of alien things to Cynthia Sideris, chair of literally the company that's mapped the entire galaxy (somehow), and controls all the exploration data, and controls where we can and can't go via permit locks (which are enforced via the mapping system, even if they originate elsewhere).
+
+Universal Cartographics is a decent candidate for "some kind of sinister cabal (or sole tyrant), which has leveraged its power to establish covert dominance over humanity".
+Reactions:
+Merlin StWahgwaan, Rochester, selbie and 1 other person

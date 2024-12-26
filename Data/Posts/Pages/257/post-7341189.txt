@@ -1,0 +1,4 @@
+Jorki Rasalas
+Jan 13, 2019
+#5,133
+What’s happened to famine systems and getting datamined wake exceptions in 3.3? Trying to get a level 5 fsd and cant get above level 2 cos they’ve disappeared...

@@ -1,0 +1,8 @@
+[DAX]
+Apr 29, 2019
+#7,824
+Count dEstard said:
+Concerning decoding the text this little tool might be helpful: https://gc.de/gc/vigenere/
+Another decryption tools site: https://kayahr.github.io/canonn-decryptor
+It may be not a Vigenere after all.
+I have tried several cyphers and keywords, no success yet...

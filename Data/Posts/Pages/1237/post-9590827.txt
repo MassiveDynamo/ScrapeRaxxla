@@ -1,0 +1,14 @@
+Jorki Rasalas
+Nov 5, 2021
+#24,721
+Adel said:
+Go to C:/%userprofile%/Saved Games/Frontier Developments/Elite Dangerous/ and you can find station names in files "Journal.xxxxxxx.log" (dont know what xxxxx are for but there are number. I just pick the last file modified).
+In the example below, there are 2 keys: "StationName" and "StationType".
+
+SPOILER: CODE
+
+PS: it's the first time i use beacons so i'm sorry if used them wrong.
+Click to expand...
+Thanks, that’s what I expected, but the crux of the question is do we get the same information as the nav beacon scan from an fss scan (e.g. if there is no, or damaged, nav beacon)?
+Reactions:
+Adel

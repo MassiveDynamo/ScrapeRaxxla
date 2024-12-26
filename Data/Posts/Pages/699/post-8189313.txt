@@ -1,0 +1,14 @@
+Garand1987
+G
+Dec 11, 2019
+#13,970
+Alerta Antifa said:
+There is a classification Rogue for planets in game, but none ever found.
+The way the game is currently built, a rogue type planet would either be wrongly classfied on map as a Brown Dwarf (real world astronomy is unsure whether some spotted objects are dwarf's or Rogue planets) or only be in a system for a limited time (when its orbit brings it to the edges of a system).
+My guess would be that a Rogue would only be in system at certain times, for a week, after a server update, then leave the system again, until x amount of time has passed and the update adds it back again, would be easy to miss one this way. Maybe some of the mythology people have dug up around Raxxla could indicate a date, a religious celebration from history? But even then you would have to know what system, or have a team of people in a number of systems at a certain date to chek.
+True. Idk if it would be incorrectly marked as a brown dwarf tho since a brown dwarf is a type of in game object with its own model type, and a rogue planet is its own classification with what, I would assume, is a different model type/types.
+Rogue planets I suppose could jump system to system on updates, but that would seem an odd way to approach them since once a rogue planet is in interstellar space, even at high speeds, it would be millennia or eons before it reached even a star that’s relatively close.
+Would it be possible that they’re on the galmap but would simply never be selected by the plotting system since it plots by stars? So you’d have to find a body manually that is not only not luminous but small enough that the object itself wouldn’t be visible on the map?
+Or perhaps there is a randomized chance that when jumping between systems that you may get caught by its gravity well and pulled from hyperspace like a Thargoid hyperdiction? They’d probably be stationary objects as far as the game is concerned because even at high speeds they’re so slow by galactic standards that they might as well be motionless.
+Reactions:
+[PS4] Filthymick420

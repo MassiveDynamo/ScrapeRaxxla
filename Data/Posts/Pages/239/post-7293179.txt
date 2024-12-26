@@ -1,0 +1,19 @@
+CyberTribe
+C
+Dec 26, 2018
+#4,780
+Stinja said:
+Regarding the rumoured Dark Wheel station, is there any way to interrogate EDDB / EDSM's database directly, with a search for systems with gas giants >= 8 moons?
+
+If it is in/near the bubble, it may have been honked already, and would give a more focused list of systems + moons to check.
+
+Too much gas giants with 8 moons.
+Like, literally, thousands of them, even close to the bubble.
+
+I've seen a databse dump, for wich you can querry all bodies, ending with "H", so that kind of list is compilable, but still, i'd guess we need to at decide on a region of search. (Database dump can be found here https://eddb.io/api)
+
+Also, there's no guarantee that system was honked and reported to EDDB/ADSM.
+There was rumor about either system with DW station being honked, or ssytem, containg raxxla, being honked (if those are really diffrent systems), but that rumor never got any solid proof, the best i heared is that some dev said that on some of offline meeting, so no records of that exist.
+
+The station on the intro screen does look like it could be the DW one, but that shot is almost 100% not an ingame shot, but a compilation of objects. And not enough info for triangulation there.
+Last edited: Dec 26, 2018

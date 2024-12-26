@@ -1,0 +1,28 @@
+Emperor
+Jan 14, 2023
+#28,902
+Rochester said:
+Just a note regarding AI interactions.
+
+The bot bases it’s answers upon the questions asked of it, it is not truly ‘objective’; one can unintentionally lead the bot.
+
+Eg as with the examples above, I did something very similar, the responses change each time, also if I would open with one particular line of questioning, then change the direction, my previous requests influenced the conclusions.
+
+Cmdrs be careful of utilising bots to generate textual responses as it is not true insight nor analysis; the bots use your prompts to build a response, and a limited library of text (the internet - yes the internet IS a limited library and is NOT the hub of all knowledge).
+
+If utilising this process, look not at what it produces as a whole (and please don’t quote AI, if you do make sure to reference the source as this text then falls into the internet waters as ‘new data’).
+
+Instead look at it as a randomisation game, it can be useful in identifying abstract or unique references.
+
+Example: in one of my own AI prompts around Paradise Lost and Celestial Spheres it did identify the names of all of the Muses… this was interesting, due to it giving prominence to one Muse in particular; who doesn’t actually appear or is named in Paradise Lost… so technically it generated a falsehood mixing references, as John Milton did not directly quote/utilise bother sources, he invented his own… however the bot was unable to replicate this response, even when I fed it the exact question on several attempts.
+
+Just a cautionary note… don’t be overly reliant on bots… they’re actually pretty stupid,
+
+
+
+
+
+Click to expand...
+It warns you of what it can do and can't and says may contain errors and you should check the results... Only humans would ignore that . It's just a natural language query tool that's amazing at doing so much more than a search engine... Don't be afraid of new technology just use it appropriately I would suggest, after all you could use the exact same warning for using a Google search and it gave me a cautionary note every time I asked it a question... I guess the question is did you completely disagree with the answers? Would it help suggest new ideas by analysing the data it does have... Can you think of a way it may help initial theories you may have? I asked it about astronomy, mythology and it was certainly good at answering them and you can ask why it comes up with the responses and correct it when you see something wrong... Truly fascinating for effectively a beta/free service (when it's not off line due to demand!)
+Reactions:
+CMDRCorrMorningstarFelian and Rochester

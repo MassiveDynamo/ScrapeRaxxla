@@ -1,0 +1,112 @@
+clavain
+Apr 3, 2021
+#22,652
+Update 1: 1/3 of the way through the list and found one additional astronomer since original post.
+Update 2: Almost halfway. Some new additions and some interesting outliers which may throw a wrench into the "all famous astronomer surname systems are in the Orion observational bias are" assumption
+Update 3: Three more outliers, Araki, Bok and Zhang. Two more in the Orion bias zone. 38 total, 33 astronomers. About 50% complete on going through the list.
+
+So, I was bored this afternoon and thought I would take a look at part of @CMDRCorrFelian 's theory, as I knew which region of space with systems named after astronomers he was referring to. This is in that narrow band of observational bias of stars that runs through the Orion Complex, but I did not realize quite how many named systems there are out there.
+
+I used this list: https://en.wikipedia.org/wiki/List_of_astronomers
+and sorted it by year of birth, then checked each surname (or in some cases, like Chinese etc., full names) against the Galaxy Map. I managed to get to Frank Drake b. 1930 before getting bored of inputting names (or variations of names), which is not quite 1/2 of that list.
+
+Below is the list so far of identified systems in that stretch of space, sorted by distance from Sol. They are all within 1307 and 1378 LY of Sol. I've attached a screenshot so far as well. A few cosmonauts/astronauts are also out there, I've starred them in the list below for now. That's 38 star-lovers so far (33 of them astronomers) and there are likely more.
+
+Some observations:
+I'm assuming there is no Barnard, Haro, Herschel, Kepler, Melotte, Messier, Pismis, Ross, Shapley, Struve, Swift, Trumpler, or Wolf, as those are common naming systems/named sectors/nebulae, and I was too bored to cycle through all the systems starting with those names to see if there might be one that is just the surname.
+Only one Chinese astronomer in the group, at least that I have found yet. I find it odd that none have turned up yet, nor are there any Russian astronomers (hence the cosmonauts perhaps?). So eventually I am going to check these two lists as well: https://en.wikipedia.org/wiki/List_of_Russian_astronomers_and_astrophysicists and https://en.wikipedia.org/wiki/Chinese_astronomy#Famous_Chinese_astronomers
+Banneker is the furthest astronomer away at 1377.96, Galle is the closest in the Orion Complex at 1307.58 (Conrad is a bit further out, astronaut)
+Excluding other outliers not in the Orion region and that don't follow the surname-only naming basis such as Campbell's Hydrogen Star at 16,277.69LY, and Babcock's Star at 5,094.11, and others (Luyten's Star at 107.43, Van Maanen's Star at 90.97, Merrill's Star 15,488.51, Wachmann's Flare Star 126.12, Wheeler's Star 719.74 etc).
+Araki, Bok, Chandra, Saha and Zhang seem to be outliers to the outliers as they are not in this region at all, but follow the naming convention, and are quite close to Sol, so I have put them in the list for now.
+may have missed names with different transliterations (Arabic, Persian or Chinese etc.) as well as with articles (French, German, Dutch etc. depending on whether the article is included in the system name and if so how, i.e. if there are spaces or not, apostrophes or not, and the like).
+many other astronomers on that list are represented with station or planet names, but not system names.
+these may simply be in here as tributes, esp. as there are also cosmonauts and astronauts, but it is strange that they are all in the Orion Complex observational bias area, and not spread out more through the Bubble or wider galaxy
+as they seem to point to and lead through the Orion Complex, and point to the Horsehead Nebula, perhaps this is simply another clue as to where the Thargoids were coming from that we were supposed to pick up on earlier, and may not have anything to do with Raxxla?
+Perhaps visiting/mapping all of these systems, in distance order from Sol, makes one an honorary star-lover and you get TDW invitation? Or unlocks a permit somewhere?
+
+
+If anyone feels like carrying on past Dyson and seeing if there are others and adding to this, fill yer boots. Just sort by DOB first so you get the same running order I had. I might get back to it again depending on which shiny thing next catches my interest.
+
+Zhang 79.97 [not in Orion Complex observational bias zone]
+
+Bok 130.66 [ditto]
+
+Saha 135.91 [ditto]
+
+Chandra 172.53 [ditto]
+
+Araki 201.92 [ditto]
+
+Scott Carpenter* 1301.98
+
+Galle 1307.58
+
+Brahmagupta 1309.65
+
+Lowell 1312.18
+
+Oort 1317.87
+
+Eddington 1320.00
+
+Gauss 1325.55
+
+Celsius 1328.97
+
+Mitchell 1329.75 [likely Maria Mitchell early female astronomer]
+
+Laplace 1334.06
+
+Eratosthenes 1334.56
+
+Lagrange 1337.07
+
+Cassini 1337.60
+
+Walker 1337.78 [likely Anne Walker early female astronomer]
+
+Halley 1337.86
+
+Feoktistov* 1338.08
+
+Popovich* 1338.92
+
+Huygens 1342.67
+
+Tombaugh 1348.17
+
+Le Verrier 1351.96
+
+Komarov* 1353.09
+
+Brahe 1353.55
+
+Ptolemy 1354.56
+
+Galileo 1355.30
+
+Hawking's Reach 1355.92
+
+Copernicus 1360.07
+
+Newton 1365.97
+
+Aryabhata 1368.43
+
+Bessel 1372.46
+
+Khayyam 1376.24
+
+Hipparchus 1377.07
+
+Banneker 1377.96
+
+Conrad* 1378.59
+
+
+
+
+
+Last edited: Apr 5, 2021
+Reactions:
+Ravenl0ft, Han_Zen, simulacrae and 4 others

@@ -1,0 +1,23 @@
+Jorki Rasalas
+Oct 30, 2024
+#35,158
+Rochester said:
+Well in honesty I’ve not utilised my PC since Odyssey rolled out and it gave up the ghost of the GPU and my wife bought me a console.
+
+But irrespective when it was working, the PC nor my internet speed nor connectivity were ever the issue.
+
+Pre-steam updates through my FD launcher would take hours.
+
+After using Steam they took seconds.
+
+FD confirmed to me it was due to their server which was a bit glitchy, and problematic.
+
+My issue related to a 'Update Failed for file' error, which FD identified as occurring usually when an older installation of Elite Dangerous still has some remnants left behind and their patch fails to overwrite them. Even with a full system wipe.
+
+In short the FD service could not overwrite certain data because of an out of date / incompatible files from the FD side. The Steam service had a dedicated and up to date patch and distribution system and worked/s like a dream.
+
+FD essentially confirmed to me it was their service was not fit for purpose (at that time).
+Click to expand...
+So, if moving to a Steam version, do you have to delete all the existing FD installation? And if so how do you keep your character & possessions?
+Reactions:
+Rochester

@@ -1,0 +1,9 @@
+[Diplomacy] Carnegie
+May 29, 2019
+#8,341
+Tacticus2711 said:
+I’ve found a few in my journeys, they will have an X symbol on the system map with a line drawn away indicating they orbit no celestial bodie
+
+Actually that indicates that the planet is orbiting the barycenter of a binary (or multiple) star. You can tell by the body naming scheme - if a planet is orbiting stars A and B, it will have the name AB1. They're not rogue since they're in fixed orbits (although they may be rouge).
+Reactions:
+DevilFistX, Korlod, Exocortex and 3 others

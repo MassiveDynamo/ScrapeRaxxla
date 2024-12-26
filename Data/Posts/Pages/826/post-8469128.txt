@@ -1,0 +1,9 @@
+alexzk
+A
+May 19, 2020
+#16,520
+Old one, using 3 points u can't do too much. Most obvisious is to find "center of mass" if that would be triangle of infinite thin:
+SPOILER: CODE
+Last edited: May 19, 2020
+Reactions:
+[PS4 Pro - PC] earthtone99, Machina Ergo Sum, Han_Zen and 1 other person

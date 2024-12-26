@@ -1,0 +1,58 @@
+Vektorboson
+V
+Feb 19, 2021
+#21,207
+So, about yesterday's discovery, I'll begin with the hard facts:
+
+I was in the system "Wregoe CO-F c25-11"
+I was in the galaxy map and typed "veil north" into the search (it could also have been "Veil North", but you always get uppercase letters)
+the map centered on "Sifi KO-G b24-5"
+I noticed that the select-button was deactivated
+I selected another star, and I typed "veil north" again, and "Sifi KO-G b24-5" was centered again
+I still could not press the select-button
+I noticed that the route-button is enabled, so I pressed it and the game created a route to the system (this is was at 2021-02-18T20:35:22Z)
+I set a bookmark
+I only had 9 jumps to my target "HIP 54876", so i decided to finish my route (more on HIP 54876 later)
+I arrived at HIP 54876
+I opened the galaxy map and searched for "veil north", nothing happened
+I tried all kind of different things, selecting stars and searching again, "veil north" did not work
+I selected my bookmark of "Sifi KO-G b24-5" and noticed that the select-button is enabled again
+I created a route to "Sifi KO-G b24-5" and started my route toward it
+at the first or second jump the jump took a very very long time
+I repeatedly tried searching for "veil north", but it did not work
+The long duration of the jump (it was probably 30 seconds) was probably the server problems of yesterday.
+
+I currently can't find the reddit-thread where someone mentioned having found "Raxxla" in the same region of space as "Sifi KO-G b24-5", but I remember that there was nothing of interest in the system when the CMDR arrived and could not recreate the situation (or anyone else).
+I am still angry that I continued on my course instead of directly heading towards "Sifi KO-G b24-5". Now I'm going to have to try a lot of things so "veil north" works again.
+
+I was doing a lot of stuff yesterday; a lot of stuff in the galaxy map and lots of exploration in the bubble, so I now need to find the needle in the haystack.
+
+Yesterday I decided to delay my journey to the Soul/Heart-nebulas and I wanted to try out a few theories; I had two very specific on my mind:
+
+there are many planets and moons called "Gold"; when in the system map and you place your cursor on a planet called "Gold", then you have the center of the Raxxla-logo. So I searched "gold" in the galaxy map and I tried to visit all systems that I did not visit before; I stopped at HIP 49285, which has a station called "Gold City" (important for later!)
+I read the "Updated system permit list"-thread. I noticed something very interesting. The system HIP 87621 requires the "HIP 48762 permit". But the system HIP 48762 is not permit locked. This got me thinking: "the door that is a key". "HIP 48762" is exactly that. I noticed that both systems share the sequence "8762" in their name, so I obviously searched for "HIP #4876" and "HIP 7621#" which lead to two interesting systems:
+HD 238475
+HIP 54876
+Regarding "Gold City": after I found all those Gold-planets and -moons, it got me thinking about the Raxxla-logo again and the Trappiche Emerald. The Trappiche Emeralds are mostly found in Columbia, not Egypt, which made me doubt the Egypt-connection, so I thought about alternatives, and one of the interesting alternatives is the "Emerald City" from "Land of Oz".
+
+Emerald City - Wikipedia
+en.wikipedia.org
+
+Look specifically under "Inspirations"; Emerald City is inspired by the "White City". There actually is a "White City" ingame. So I read further:
+
+Land of Oz - Wikipedia
+en.wikipedia.org
+
+I noticed there is "Ix" in Land Of Oz and we have "Ix" ingame. Up until yesterday I thought Ix was related to the Dune-universe, but Land of Oz made sense. There are also a lot of witches in the book series, so this got my brain spinning, especially the "Wicked Witch Of The West", "- Of The East" and "- Of The North". That's how I arrived at "veil north".
+
+But I think "veil north" has a different meaning here. The biggest mystery I have been working on has been the Isis-system and I already mentioned the "Veil Of Isis" before:
+
+Veil of Isis - Wikipedia
+en.wikipedia.org
+
+So "veil north" means "veil up" means "lifting the veil". And I also found that Isis IX seems to be special, but I now think that it is actually "Isis Ix", relating to Ix from Land Of Oz.
+
+EDIT: Changed wrong search pattern HIP 8762# to HIP 7621#
+Last edited: Feb 19, 2021
+Reactions:
+SpocksOddSocks, Mrrshal, whollySteve and 2 others

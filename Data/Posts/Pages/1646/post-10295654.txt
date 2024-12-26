@@ -1,0 +1,66 @@
+Jorki Rasalas
+Jan 7, 2024
+#32,906
+Emperor said:
+"Nice to see the Landscape signal being further explored, though don't see how it fits any of the clues." - Because it's the maths/science stuff MB liked to do and from Drew's footnotes posted on the Formidine Rift we know how devious some clues can be?
+
+Anyway...I'm still thinking of the tour amongst other things ;-)
+
+"I suspect there's a reason for the route, and particularly for it ending in a system which is embedded in the highly visible string of stars leading to Orion" - it doesn't actually end Jorki, it's sends you back to the beginning (or round and round... then bend ) and so it's infinitely long (or less literally, it's sending you back the way you came)....
+
+
+
+Mattius discusses the number 8 and infinity which is interesting (including some of the more recent discussions here about Argo Navis and lots of mythology which I know is one of you're favourite investigations! ).
+
+RAXXLA = 8 (or infinity at the end of Vid 2... )
+
+Why SAP 8....?
+
+
+
+
+
+
+Guru gets a few shouts in part 2 too
+
+Returning back to the tour....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I've often wondered over the years how RAXXLA could limited to MB and DB whilst being hidden from Devs when they have full access to the code base, but when I read the footnotes it made perfect sense to me.... "Michael Brookes didn’t want the rest of fdev to know about it either as he thought it might get stopped, so it was a bit of a secret pact!" - He had control of the Galaxy and shaped it how he liked and didn't need to worry about the Devs or coding, he had God like control over the positioning, placement, naming and any system descriptions. He also hid clues in the Galnet articles and obviously wrote the early missions too...
+
+"EBP is a -13 caesar cipher which gave “ROC” – Right on, Commander".... if you use a -12 or +14 Caesar Cipher on SAP 8 you get GOD 8
+
+When i get 5 mins, I think I'll loop through the other combinations and see if they relate to any known star systems, regions...and I'm wondering if there's any ciphers used on the nos/text on these tricky things
+Click to expand...
+
+But... while it seems to be related to the way MB liked to embed puzzles it doesn't seem to be directly related to the Raxxla puzzle...but I look forward to a result.
+
+Mmm, circular tour? Just reread Contact by the great Carl Sagan....had forgotten it ends with
+SPOILER: SPOILER
+
+
+I think it is a myth that Raxxla is widely hidden from FDevs, & only DB & MB aware....there is no evidence for that hypothesis (though I suspect the knowledge is not widespread, e.g. from experience in this thread the Front Desk queries/bugs team are out of the loop). See
+Beyond - Chapter Four - Exploration Reveal18Oct2018 Will Flanagan (CM) with Adam Woods (Exec Producer) & Adam Bourke-Waite (Senior Designer). @1:29:58 AB-W said “that thing we haven’t shown” (i.e. the Raxxla codex entry) “there’s elements of that that are probably my favourite parts of this”.
+m.youtube.com/watch?v=rtmmmP_waf4&list=PL7glm5rbPHKw5-Bx_eQuz3SX7-dyAiyJh&index=9&pp=iAQB
+
+So I suspect at a minimum the senior designers would have been aware of the Raxxla puzzle throughout the game's life.
+At 18:30 into that vid there's a shot of travel through an icy asteroid ring. I've posted many times before how this would be an ideal location to hide Raxxla (or rather the "Omphalos Rift" trigger to download the Raxxla instance to the player's machine), and Will may/may not have given a hint to this in Edifying Will - EXO 21/03/2019 Will Flanagan with Sally Morgan Moore in Void Opal mining wing with EXO in an icy planetary ring. At 31:40 EXO said they’re really looking for Raxxla, Will zipped his mouth then said you are looking in the right place, you’re looking in an asteroid...
+m.youtube.com/watch?v=46QzuI83v0c&list=PL7glm5rbPHKxiVOcIBWj-Od-tIwEl94kD&index=6
+... No reaction at all from Sally, may have been a joke? May be not?...
+
+In fact, seeing FD humour over the years I wouldn't be at all surprised to eventually hear that they've actually shown us the location in some vid!
+Last edited: Jan 8, 2024
+Reactions:
+Han_Zen, Rochester and Adel

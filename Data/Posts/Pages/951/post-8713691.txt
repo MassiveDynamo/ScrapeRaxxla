@@ -1,0 +1,26 @@
+Jorki Rasalas
+Sep 22, 2020
+#19,020
+Han_Zen said:
+An interesting side not is that when the Codex came out, it was empty for everyone. Even for Commanders that had seen it all, before. This tells me that FD has never had much track on what we do at all and that there probably isn't any huge hidden database on each commander.
+Pre codex, it was just the stat page on the Right-panel. Now it is the codex.
+
+The only real gate that was present at launch and applicable to the Dark Wheel was the Founders permit. That permit would give access to do missions for the Dark Wheel faction. It does not have to be more complex than that. If you are allied when you find the station, you get invited. If not, you are not welcome.
+
+Yes, I’ve pondered a few times over the full stats recorded and whether TDW invitation could be calculated in-game from those. But what could trigger their interest as a “legendary group of adventurers, explorers, investigators and treasure-hunters; only a handful of the bravest and most competent pilots of each generation are honoured with an invitation to join”. I’m triple elite, member of 64 kylies club, friends with all current engineers, been to Sag A* & Beagle Point & Colonia. Dived more than my fair share of BH. Scanned a few thousand systems & first discoverer on quite a few. Still no invitation (unless I failed the test?). As a goody two-shoes I rarely go outside the law, don’t murder many (& they deserve it), never massacred civilians.....
+
+But I find it strange that nobody has yet found their station (unless they have & are keeping it quiet). Don’t believe Lyta Crane that it orbits 8th moon of a GG, but I do suspect it does not get instanced until you’ve passed the test, or it’s in a permit-locked system and the test gives you the permit (perhaps this is more likely). “Bravest & most competent pilots” does suggest perhaps BH or anti-pirate ops. I received the “agents sent after you” message once, ages ago, when I was BH to raise my combat rating. Perhaps you have to kill the agents to get it?
+
+Edit:
+Just looked at my notes from And Here The Wheel. Chapter 12 says:
+TDW are elite-ranked treasure hunters from a bygone age, tales of the Ryder family, they found monsters beyond explored space, they never found Raxxla but found something else-Soontill, a former Thargoid planet lost by them, full of Thargoid treasures that TDW (who are really the Ceepers (Circle of Independent Elite Pilots)) exploit.
+Ch13: In an explored planetary system, sufficiently far from civilisation to be of little interest, with a red dwarf star, an asteroid belt & a blue-green gas giant, the CIEP base orbits the gas giant & rotates with Imp standard gravity.
+
+So should we be concentrating around Soontill? Red dwarf star matches the codex pic.
+
+Edit2: think a blue-green GG is type 3. EDSM says there are 14,714! Can’t see how to add in type M subdwarf to the search filter!!! Spansh/bodies doesn’t do logical AND in the filtering (I asked him a while ago).
+
+Edit3: interestingly (or not) Neptune is in-game as a Type I, whereas it should be a Type III
+Last edited: Sep 22, 2020
+Reactions:
+Dr. Lexus, Fiera, PeteACarter and 3 others

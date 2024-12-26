@@ -1,0 +1,6 @@
+Sunyavadin
+Dec 7, 2022
+#28,279
+The interesting part is how in my experience and at least one of these videos it seemed to fade in and out halfway through the jump, in the same manner as the game draws the layers of the hyperspace jump animation. It would be interesting if we could dissect the actual rendering system used to draw that animation and the layers it's normally supposed to composite it from.
+Reactions:
+Louis Calvert

@@ -1,0 +1,19 @@
+Darth Ender
+D
+Apr 2, 2021
+#22,570
+clavain said:
+Actually it was on this thread, not the Threadnought, and at that time only one seemed to be in game: https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/page-42#post-6033937
+
+There might be an earlier post with the list of rogues here or on the Threadnought (pretty sure that was where it first came up but memory, first to go, etc. etc.), but I am pretty sure I used this list and checked them all in Simbad for all designations and checked all of those against the Galaxy Map: https://en.wikipedia.org/wiki/Rogue_planet
+
+But I may also have given up checking all the Simbad designations also, not sure.
+
+Rogue planets as a unit type exist, but none have been identified in the game.
+Comets also exist as a unit type, and 1 has been found, but it has no mesh.
+
+historically, raxxla was a station of sorts and a planet in another galaxy. I think in terms of elite lore, it makes the most sense to make raxxla a mobile station (basically a mega ship). Which is why after it's initial discovery, it was lost ...because it moved. This also benefits frontier the most, because even if raxxla is eventually discovered by a player, it wouldn't be a 1 time thing, and it probably wouldn't stick around long enough to do anything interesting. Then the next step would be trying to figure out where it will appear next in order to do any kind of tests or attempt to acquire any items/etc. something that may take additional years. This also lets them hide it from the system map and BGS, and position it in places like asteroid clusters and rings and such. If it's in normal space and not supercruise, it would be effectively impossible to find unless it jumps periodically to a known place of interest ... determining the time it can be found there would be the deciding factor on it's first discovery.
+
+Or they could go with the whole magic "jump to these locations in this order and a magic jump will occur that takes you to raxxla" method they've used in the past. But i highly doubt they'll go with a means of discovery that is only effective 1 time for something like raxxla in a multiplayer shared game.
+Reactions:
+clavain

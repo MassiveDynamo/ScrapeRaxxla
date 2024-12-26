@@ -1,0 +1,7 @@
+Jorki Rasalas
+Feb 5, 2020
+#15,025
+Looking at the Codex Cmdr stats & taking screenshots is an inefficient way to note the current stats. Is there a better way? Are they in the journal logs; if so anyone have some code to extract them?
+Does EDD show them? (There’s so much in EDD & I only use it to track travel history & convert screenshots )
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

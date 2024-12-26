@@ -1,0 +1,23 @@
+El Saico
+Sep 4, 2023
+#31,485
+Jorki Rasalas said:
+OK, have tested out yesterday's other thought, which was to go back to Paradise Lost and reinterpret the Toast as Jewel-Earth/Moon, Whisperer/Sire of deepest void-Sirius/Lucifer and Parent's grief/lover's woe - Fall
+because I spotted a system named Fall not far from Sol and the expulsion of Adam & Eve from Eden was a fall, god the father was aggrieved and Adam was a mite upset. Also "two angels find Lucifer, disguised as a toad, whispering into the ear of Eve as she sleeps", and he was the siren of the deepest.
+
+Went to Sol/Earth, then Sirius/Lucifer then to Fall...
+
+I've searched through Fall, dropped out at co-orbiting moons and rings, and checked the 3 asteroid clusters...nothing found, but again from the Journal file there are some unassigned bodyids that are likely "comet" bodies.
+
+Looking at these search strings, I reached a conclusion.
+I'm waaaay more adept at recognizing binary patterns on decimal numbers than it should be healthy.
+
+And it tells a little about how Stellar Forge handles these numbers. See - the main (in this case only) star in this system ends on 6, and if you subtract 6 from several of those values - or cut the 6 or 06 at the end - you get a power of 2.
+So, after some bit massaging, what I found was that, if you cut the bottom 17 bits (which, in less nerdy terms, means dividing by 131072)...
+
+You get the Body# value on the left. Meh.
+
+...although, if the expected values misalign or something, that'd be a weird anomaly.
+Last edited: Sep 5, 2023
+Reactions:
+Edelgard von Rhein, Han_Zen and CMDRCorrMorningstarFelian

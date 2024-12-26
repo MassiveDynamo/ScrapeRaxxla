@@ -1,0 +1,9 @@
+Bushido Brown
+B
+Aug 30, 2022
+#26,945
+Hey all,
+
+I've been flying around Haumea in Sol for a few days since it was mentioned in here, and it seems I keep getting a bug of sorts. Whenever I'm pointing my nose at the planet, I'm constantly scanning it? In SC all I get is the scanning sounds looping, and in normal space I get both the scanning sound and the little animated target panel. Both loop indefinitely and persist between logs.
+
+Is this a known bug? Some feature that I've half engaged with? I've scanned Haumea using detailed surface scanner etc. Can someone replicate this if it isn't a known bug please? You know how the madness can take hold...

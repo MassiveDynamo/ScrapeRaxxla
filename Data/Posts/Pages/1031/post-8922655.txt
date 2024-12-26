@@ -1,0 +1,13 @@
+Jorki Rasalas
+Jan 27, 2021
+#20,605
+Vektorboson said:
+Doesn't look like a graphical glitch to me.
+
+My guess: The light is actually far away; it's a spot/cone light with a very small opening angle.
+
+The reason is that the lighting angle within the cockpit does not change, only the intensity changes.
+
+I disagree. The lighting angle does, to me, seem to change a little between the examples in the videos I managed to get. But I think I am triggering whatever it is and passing beyond it before it reaches full brightness.
+Reactions:
+Dr. Lexus and [PS4] Filthymick420

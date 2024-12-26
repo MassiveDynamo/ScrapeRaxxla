@@ -1,0 +1,46 @@
+D7
+D
+Feb 21, 2024
+#33,485
+Ian Doncaster said:
+Bearing in mind that if the quoted distance was 0.1LY - on a jump system like the original Elite's which measures to 0.1LY accuracy [1] - the real value could be anywhere from 0.05-0.15 LY. The imprecision on where the graveyard is or even which side of the sun it's on is going to be negligible in that context. (And that still holds even if you assume the quoted distance as 0.10LY so between 0.095-0.105 LY as a range)
+
+[1] Technically the original Elite's jump system only measured to 0.4LY accuracy, but you had to really be paying attention to notice that.
+
+
+Oh, absolutely they do.
+
+It's just that planets and stars are generally far too big and slow moving to notice the effect. In the two minutes it takes you to fly from the Tionisla sun to New Caledonia, New Caledonia will move by less than its radius in the sun's reference frame. By the time you get into the planet's reference frame, being off by a fraction of a pixel on your initial course will be entirely unnoticeable ... and if at point you look back at the sun, it will take most of a day to move by its own diameter against the background stars.
+
+If you find a sufficiently -orbiting body, though, it gets a lot more noticeable. Mitterand Hollow is the obvious example - you can see that orbit extremely quickly in real-time, and drag any attached Fleet Carriers and signal sources around New Africa with it. Now try to drop out on one of the FCs around it using your navigation locks - just by eye. Even typo-d examples like that aside, something like Carcosa B1 orbits its star fast enough (and has a small enough reference frame of its own) that dropping out on the orbiting Amber Dock station can involve some unusual manuevers even with the benefit of navigation tools: going in a straight line from the star will not put you in quite the right place.
+
+Remember that you're normally travelling in supercruise at several Mm every second . Your target moving at <1% of your speed is going to be masked by you being even a degree or so off-centre on your flight path ... so it's usually unnoticeable. Dropping on a hidden POI at the L1 point of a planet would be a situation where it is extremely noticeable.
+Click to expand...
+
+Ian Doncaster said:
+Bearing in mind that if the quoted distance was 0.1LY - on a jump system like the original Elite's which measures to 0.1LY accuracy [1] - the real value could be anywhere from 0.05-0.15 LY. The imprecision on where the graveyard is or even which side of the sun it's on is going to be negligible in that context. (And that still holds even if you assume the quoted distance as 0.10LY so between 0.095-0.105 LY as a range)
+
+[1] Technically the original Elite's jump system only measured to 0.4LY accuracy, but you had to really be paying attention to notice that.
+
+
+Oh, absolutely they do.
+
+It's just that planets and stars are generally far too big and slow moving to notice the effect. In the two minutes it takes you to fly from the Tionisla sun to New Caledonia, New Caledonia will move by less than its radius in the sun's reference frame. By the time you get into the planet's reference frame, being off by a fraction of a pixel on your initial course will be entirely unnoticeable ... and if at point you look back at the sun, it will take most of a day to move by its own diameter against the background stars.
+
+If you find a sufficiently -orbiting body, though, it gets a lot more noticeable. Mitterand Hollow is the obvious example - you can see that orbit extremely quickly in real-time, and drag any attached Fleet Carriers and signal sources around New Africa with it. Now try to drop out on one of the FCs around it using your navigation locks - just by eye. Even typo-d examples like that aside, something like Carcosa B1 orbits its star fast enough (and has a small enough reference frame of its own) that dropping out on the orbiting Amber Dock station can involve some unusual manuevers even with the benefit of navigation tools: going in a straight line from the star will not put you in quite the right place.
+
+Remember that you're normally travelling in supercruise at several Mm every second . Your target moving at <1% of your speed is going to be masked by you being even a degree or so off-centre on your flight path ... so it's usually unnoticeable. Dropping on a hidden POI at the L1 point of a planet would be a situation where it is extremely noticeable.
+Click to expand...
+
+LOL- Ok I'll concede the game mechanics are probably somewhat realistic, but flying at these light speeds are not. You can get from the orbital drop zone of New Caledonia to 3.63 Ls L1 in 8 seconds. The planet has not moved much and you can correct on your way right up until you drop. It was not hard and I landed exactly aligned on the first try.
+Is two decimal places accurate enough and are the inputs (masses, etc..) accurate enough? That is a good question. The system Obery shows circular oritals, but I have never looked to see if they just do that as standard for all systems... my guess is they do.
+
+Now I will also grant that the visuals of the reticles being dead on may not be enough precision, but again, I only want to get to an approximate originating point to set a target for another system I would SC toward.
+
+BTW: There was nothing of note at L1.
+
+
+
+Last edited: Feb 21, 2024
+Reactions:
+Han_Zen

@@ -1,0 +1,8 @@
+yelboc
+Apr 10, 2019
+#7,408
+On "Princess Astrophel and the spiralling stars" - perhaps the sonnets are relevant (seemed like a false positive to me) and its some form of book cipher. The 'cunningly concealed facts about the mysterious locale in his book, as hints for those with eyes to see.' sounds like a clue to it being a cipher.
+
+The sprialling stars maybe referring to a fibonacci sequence, which is a favourite of DB and Fdev, so we need the right seeds and then look up the letters in the sonnets? Or something akin to that..
+Reactions:
+PeteACarter, Six6VI, Scytale and 2 others

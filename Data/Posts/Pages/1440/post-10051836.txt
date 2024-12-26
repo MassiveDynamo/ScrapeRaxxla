@@ -1,0 +1,9 @@
+CMDRCorrMorningstarFelian
+Jan 3, 2023
+#28,781
+John [Panzertard] Stoutbeard said:
+Is it normal to hear music (chiming kind) on Icy planets with atmosphere - even if all music is turned off in the Options (I manually set all to OFF, took the volume down plus muted it).
+Is this a bug in U14?
+That sounds like a bug given the steps you took.
+Reactions:
+John Stoutbeard

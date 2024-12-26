@@ -1,0 +1,9 @@
+Dox Paradox
+Apr 25, 2023
+#30,111
+Jorki Rasalas said:
+Next question- is there an easy way of checking for anagrams against known system names? Unfortunately I’m no programmer.
+And doing it manually is very tedious!
+There are websites hosting anagram resolvers. You'd still have to one system name at a time.
+Reactions:
+CMDRCorrMorningstarFelian

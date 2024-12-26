@@ -1,0 +1,9 @@
+Jorki Rasalas
+Oct 19, 2022
+#27,461
+Partly true, this was a method used a few years ago when hunting Project Dynasty bases in the Formidine Rift. Depends on your system hardware- possibly true if you have a PC with a mechanical hard disc drive for the game, but an SSD would be too fast for this effect. But I think the loading time can also be dependent on your comms quality, and probably also related to anything else happening on your PC at the time.
+
+Edit:
+There’s a keyboard combination to pull up an indication of the input data rate which is more reliable, but cant remember what that was.
+Reactions:
+Rochester

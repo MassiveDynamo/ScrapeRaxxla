@@ -1,0 +1,5 @@
+Cunder
+C
+Jan 18, 2021
+#20,390
+Just a thought but would it be possible to distinguish what is the center of the Bubble?

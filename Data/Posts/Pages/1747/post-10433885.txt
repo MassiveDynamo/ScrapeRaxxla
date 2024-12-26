@@ -1,0 +1,14 @@
+Macros Black
+Sep 23, 2024
+#34,927
+Neestar said:
+i am at your Carrier right now ( only about 4 hours after your announcement post ) and it won't let me land. Keeps saying "docking DENIED" with onscreen message saying "you don't meet the permission requirements" .
+
+Very disappointing and i'm very confused right now , after i made the very far trip all the way out to your carrier.
+
+Your carrier info tab says "Docking access: NONE" --- What's going on? Please let me know, thanks.
+I realised that I've set landing to None; I've set it back to All, so you should be able land (and purchase from Secure Trading).
+
+I'm sorry for the inconvenience.
+Reactions:
+Rochester and Neestar

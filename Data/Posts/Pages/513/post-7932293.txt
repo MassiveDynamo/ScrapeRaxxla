@@ -1,0 +1,33 @@
+CMDR Josky
+C
+Aug 5, 2019
+#10,260
+Han_Zen said:
+Time for a little tinfoil.
+
+I've tried to analyse the clues from the Codex in a slightly new way. The idea is that the Dark Wheel toast, is in Dark Wheel lingo and has to bee seen from their traditional perspective. Therefore I decided to build a hypothesis on the idea that 'Mother of Galaxies' is Galaxy 1, from the original Elite.
+
+What we have left of Galaxy 1, is the Lave cluster. This region is the biggest known anomaly in the galaxy. A bunch of systems are aligned in the galactic plane at Y = 48.75. The region also has an odd amount of planets with exactly one earth mass.
+
+I started checking with assumption that anything on the brow, should also be on Y = 48.75 or close. I therefore plotted lines like the Reorte - Riedquat line, to see what came up.
+I chose Riedquat as my local 'Omphalos', just to have a starting point.
+
+Projected in the Y = 48.75 plane, I got this.
+[spoler]
+
+[/spoiler]
+
+The Sifi EP-T b3-3 is only a reference system at exactly Y = 48.75.
+
+I then moved to Princess Astrophel and the spiraling stars. Assuming it means Vega and the stars in the Milky Way band. My Milky Way band is set to Y = 48.75.
+
+I also added a black line. This is the mystery line. If I have managed to plot correctly, this is the intersecting line between the Y = 48.75 plane and the Right ascension = 20h plane. I know this looks weird, but it's an attempt to fit the name as well in to the equation.
+
+Raxxla -> Ra = Right ascension, xx = 20, la = Lave or Lave altitude/ascension or 50(L=50) altitude/ascension.
+
+Interesting observations:
+
+Hope you find something interesting here. Perhaps @ could make a prettier plot?
+
+Here is my plot:
+Click to expand...

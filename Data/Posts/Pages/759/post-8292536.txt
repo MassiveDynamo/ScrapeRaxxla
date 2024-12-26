@@ -1,0 +1,32 @@
+Six6VI
+Feb 13, 2020
+#15,180
+Vetinari said:
+D2EA did a vid, called something like 'The shortest jump in ED' .
+
+
+
+It uses X fuel regardless to make x LY jump. You haven't 'moved closer' to it by SC towards it, its still X LY away, opposite is also true, if you fly in SC away from it it doesn't get further away and you don't need more fuel - its not in the same instance and the game effectively just starts at the star regardless of where you are in system. The LY distance between 2 systems is fixed.
+If you have full fuel tank you weigh more so max distance is reduced but it still would use X fuel to make the same jumps
+eg empty can jump Y LY, full tank weighs more can jump Z LY
+So if you run half empty you can jump but it should use the same % of fuel. Edit: or does it? Full cargo means cant jump as far so maybe uses X fuel per ton mass of ship including fuel and cargo.
+If it doesn't it will be a tiny fraction in the algorithm that's rounding a decimal point up or down and that's the difference, not really measurable by any standard.
+
+
+
+Don't put down to malice what can be put down to ego and people believing the wrong thing because they've never actually tested it against the available evidence. Some people who complain a lot haven't played for a while and it shows in their knowledge of the game as it is now.
+
+I will say however that I trust this thread 100%. I have asked off topic Qs here as have others and the answer has always been honest and correct or the debate is open and honest and opinions are given as opinions not facts usually.
+Click to expand...
+If it helps, I halved the fuel tank on my DBX (5C to 4C) to increase it's range.
+
+It has a 4H GBoost so I have to be mindful of star classes when route plotting as it consumes a larger percentage of the smaller fuel tank. If you look at the right panel / Ship / Statistics while fuel scooping you will see the Jump Range / Current decreasing in real time as your ship mass increases. Unladen only seems to count cargo rack space.
+
+In the last ~61 weeks I've never noticed (wasn't really looking for it lthough) a remote stellar target changing distance regardless of how far I've traveled within a system but, if you've ever done the Hudson run, roughly 1.2 Ly in supercruise you will notice your Jump Range / Current has increased relative to the fuel mass you've consumed during the trip.
+
+Intra-stellar distances are probably considered insignificant for jump calculations.
+
+[Edit: Found the D2EA vid. I'm curious if a relog would have forced a position update in new system?]
+Last edited: Feb 13, 2020
+Reactions:
+Vetinari, Machina Ergo Sum and [PS4] Filthymick420

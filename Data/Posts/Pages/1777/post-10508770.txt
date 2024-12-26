@@ -1,0 +1,19 @@
+Ian Doncaster
+Dec 14, 2024
+#35,530
+Jorki Rasalas said:
+but I suspect there is an FD problem in defining the total system population with no logical relationship to the station populations.
+The other way round in terms of game mechanics - the system population is simply the sum of the station populations.
+
+The station population is of course not necessarily intended to be "people living on board that station" and may be more "people supported by that station", especially in the case of stations orbiting ELWs and similar. But as with most smaller-than-a-planet scales in ED, it's fairly abstract as to what it represents
+
+(Odyssey settlements tend to have populations of around 1000-1500, and clearly don't have anywhere near enough space for that many people on site)
+
+Nezzie Muso said:
+but an orbis starport typically only has a small population (so says the wiki)
+The Wiki says lots of things and in this case it's probably just plain wrong - Orbis are one of the largest station types in the game and generally (though not always) associated with the larger populations.
+(e.g. Zaonce has an Orbis, a medium-pad Outpost, a few tiny planetary settlements, and a population of around 5.3 billion)
+
+HIP 10792 specifically is a deep-space system created later than the initial population of the game and those very often have oversized starports compared with their population levels (see also most of Colonia, the Pleiades, etc.)
+Reactions:
+Jorki Rasalas

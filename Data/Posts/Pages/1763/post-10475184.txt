@@ -1,0 +1,27 @@
+Inverted Walrus
+I
+Nov 7, 2024
+#35,246
+Han_Zen said:
+It wasn't me. As you see from the letter, it was Commander HexCube that contacted FD.
+I don't remember exactly, but I'm fairly certain that he posted the question on one of FD's social media accounts.
+Ah right, I wondered if HexCube was just a secondary alias for you.
+I'll have to find a way of contacting FDev that isn't just a generic support ticket, as I don't really want to waste their time.
+
+Beng_Ammon said:
+Some folks have messaged me about the "3d cube in side a 3d cube" and are having a hard time seeing it. Here is my crappy add:
+
+View attachment 407391
+
+dotted dark blue: the faces of the 3d cube closest to us
+
+light blue dotted: The faces of the inner 3d cube furthest from us
+
+Purple: The major faces of the outer 3d cube
+
+
+It forms arrows that basically says "The Sun" . Raxxla only appears in 3 of the arrows here.
+Click to expand...
+The tesseract idea is interesting. I've remade your diagram and tilted it 30 degrees to make it easier to see the layers.
+Reactions:
+Han_Zen, Rochester and Beng_Ammon

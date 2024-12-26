@@ -1,0 +1,23 @@
+Jorki Rasalas
+Jan 5, 2021
+#20,268
+J
+Han_Zen said:
+I think we can safely assume that FD values the mystery and legend of Raxxla and the Dark Wheel. I don't think they care if we don't find it. The mystery probably has more value than the actual Raxxla.
+
+The implementation of Raxxla is most likely relatively simple and within the scope known mechanics. The implementation may have changed over the years, as the game has evolved. The location probably hasn't.
+
+FD have later added the mystery of the Dark Wheel station. We have no confirmation yet, that it's actually in the game. If it is, it will not reveal it self to scans (running in minimum power). The same is probably true for Raxxla (obfuscated on the outer rim).
+
+Objects that aren't revealed by any form of scanning are practically impossible to find, without a form map. The Voyagers were found because we knew they were in the game, we knew they were in Sol and they were in the correct RL position. If Raxxla is implemented in a similar fashion, we are a few hints away from a map. We only know it's in the game.
+
+One important piece of the map, is likely to be in the Dark Wheel station. Personally I doubt there is any complex, hidden list of tasks that leads to an invitation there. It will have to be found the hard way, like Raxxla.
+Click to expand...
+
+Agreed. Also I don’t think Raxxla will be anywhere near as important/powerful/game-changing as many seem to have assumed. It is an Easter Egg tribute to Holdstock and the history of the game, so a nice thing to find but it will probably be very disappointing to many seekers.
+
+While a comprehensive exploration of every system within 200ly of Sol is underway in the Great Raxxla Potato Hunt (https://forums.frontier.co.uk/threa...can-every-system-within-200-ly-of-sol.531480/), that effort seems to be operating on the assumption that Raxxla will be found as a body or artificial object named “Raxxla” and easily detected by normal ship scanning if you enter the correct system. I suspect that assumption is incorrect!
+
+Given FD’s love affair with the Random Number Generator I strongly suspect that they are likely to have hidden Raxxla somewhere fairly obvious but it will not be immediately, or easily, detectable. This is why I tend to believe Koben’s assertion (https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8194682) that DB said (unconfirmed, in a now deleted video) that Raxxla is more likely to reveal itself to a group of Elite players at the correct place and if it is scanned (basic scanner is sufficient) enough; this clearly indicates RNG behaviour. That also ties in with the (again unconfirmed) rumour that MB said that the system containing Raxxla had been visited and honked but Raxxla wasn’t detected.
+Reactions:
+Fiera, Crimson Echo and Rochester

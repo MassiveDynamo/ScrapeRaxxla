@@ -1,0 +1,8 @@
+Jaiotu
+Apr 9, 2018
+#2,154
+[DS]_Skol said:
+Hm i remember this thing from some russian forum - guy said he found it on spectrogram. On question where is it he said "You must do it yourself, otherwise there is no fun in it - but when you find it be ready to run really really fast out of there"
+
+By "spectrogram" do you mean the ZX Spectrum? If so then the guy in that forum is blowing smoke. A lot of people claimed to have found Raxxla back in the day playing the original Elite but those folks are/were Trolling. It's been confirmed many times by both David Braben and Ian Bell that Raxxla didn't exist in any of the game ports of the original Elite. In fact the name "Raxxla" wouldn't have been possible from the lookup table used by the original game to generate system names. Here's an old interview with David Braben confirming that Raxxla was not in the original game:
+http://www.atlantis-prophecy.org/recollection/?load=interviews&id_interview=37

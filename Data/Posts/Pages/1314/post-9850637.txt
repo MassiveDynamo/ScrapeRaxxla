@@ -1,0 +1,55 @@
+SergMx
+May 29, 2022
+#26,274
+Jorki Rasalas said:
+No, this is logically incorrect and pure assumption. We know very little about Raxxla. We were told (by DB with some amusement) that we don’t know what Raxxla is, and that Raxxla has been in-game since the pre-release Gamma version, so it could be any of the object/event types that existed at that time:
+Star system
+Star
+Planet
+Moon
+Asteroid
+Asteroid belt
+Asteroid cluster
+Nebula
+NPC ship
+Station
+Shipyard
+Market
+Black Market
+Tourist Beacon
+Player ship
+Player ship type
+Player ship equipment module
+Module store
+Player rank level
+Player reputation level
+SRV
+Material
+Rare Goods
+Landing Pad
+Mission
+Mission type
+Combat Zone
+Resource Zone
+Hyperspace jump (the act)
+Hyperspace tunnel (the loading screen animation)
+Faction
+Signal source
+Datalink
+Music track
+
+However we do have a little bit of further information:
+Someone said of Shinrarta Dezhra that they were a tiny little bit disappointed FD didn't call the Founder’s World “Raxxla” and MB responded that “Raxxla is something different”.
+He also said:
+“Raxxla is something in the game world (not text) and very hard to find”
+“It’s not a random thing”
+“Anyone can find it, and more than once”
+
+And Drew Wagar reported that he talked with David Braben at bar after an award ceremony. I asked him "Is Raxxla in the game?" He answered with "Yes. And we know where it is." (I assumed the "we" meant Frontier Developments).
+
+So this mysterious thing has a location (which might be fixed, or might be moving but in a predictable manner), it can be found, & it’s not Shinrarta. This removes some of the possibilities from the list above, but not all...
+
+I’m currently hypothesising that it is a hyperspace jump that takes the player somewhere significantly different from the anticipated destination.
+Click to expand...
+1. The jump you describe is an interception of you by the Thargoids. And I've always wondered why that's the only thing in the Codex that counts as an encounter with the Thargoids.
+2. In other words, people have seen Raxla but don't realize it's her.

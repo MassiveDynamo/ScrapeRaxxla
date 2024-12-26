@@ -1,0 +1,23 @@
+Trotsky2112
+T
+Sep 18, 2019
+#12,348
+CmdrMcGreen said:
+Greetings Commanders,
+
+I just played around with the "siren of the deepest void" part and thought about pulsars. (Regarding this article: Biggest neutron star ever detected)
+So I searched GalMap for "PSR " (note the blank). I did not expect something spectacular to happen but..
+The view zoomed waaaay down the galactic plane and .. pointed to "nothing". Strange. I tested the search again and .. the cursor jumped a bit further and for a split second, I could see a cluster of stars. All names starting with PSR. Then they vanished again. This can be repeated again and again. The cursor jumps from one star to the next. The whole cluster is visible for a split second. Then "nothing".
+Has someone experienced this kind of "bug"? Or is there something hidden? Its not a single star, its a whole bunch of them there.
+Try searching for "PSR ". Or scroll the GalMap to 9180, 10985, 6650
+- Tested on PS4
+
+I also had another look at the "old" systems too. I created an overlay of all original elite stars on the original starmap. (including those of map 3, 6 and 8) and hoped to see a shape or something interesting. Nothing special there. Then I placed the "tattoo" and the assigned numbers on top of that overlay (rotated). No match. So I gave up.
+(I'll be back, old systems!!)
+
+The search goes on. What do you think about the PSR "bug". Maybe FDev is hiding something? There IS a cluster of stars.
+Click to expand...
+Yeah, that happens.
+Some kind of bug with systems, I forget what.
+Reactions:
+[PS4] Filthymick420

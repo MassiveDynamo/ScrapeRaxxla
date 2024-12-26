@@ -1,0 +1,12 @@
+ZeroHundred
+Z
+Jun 1, 2022
+#26,292
+Ok so I am attempting to be the very patient commander cycling through every col 70 sector system in the galmap one at a time... I immediately encountered an anomaly perhaps someone can explain. I started off with COL 70 SECTOR AA-A and it shows a short list. I can cycle through them and the first five show permit locked, but the next eight look different in the list (see image below) and just zoom to empty space with NO description.... can anyone explain what those entries are? Why can't I see them at all in the galmap? (in realistic mode, it should show all right?) I'm using Odyssey, have not tired in Horizon
+
+Edit: I've now checked the same in Horizons and only the first five appear, the other eight do not seem to exist in Horizons. Also, it is MUCH faster to check these in Odyssey as you don't even have to wait for the map to zoom to the location to see the permit lock, you can cycle through very quickly where is Horizons it has to scroll all the way to the location before you see the lock.
+Click to expand...
+So from that icon in the Galaxy Map I can tell it's supposed to be something link to larger galactic structures, usually used for Nebulas, (for example if you look up the Pleiades Nebula it will have that icon then show the Nebula but no specific star) as to why it's showing up for what are clearly star IDs I have no clue (unless as I look closer they aren't actually star IDs but larger star clusters indicated by the naming convention "Col 70 XXXXXXXXX H13" instead of "Col 70 XXXXXXXXXX H13-X")
+Last edited: Jun 1, 2022
+Reactions:
+CmdrKafka

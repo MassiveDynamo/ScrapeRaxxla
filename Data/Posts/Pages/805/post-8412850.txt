@@ -1,0 +1,32 @@
+Jorki Rasalas
+Apr 20, 2020
+#16,082
+Entertaining hypothesis, but slightly wrong
+
+Why is grass green? because it absorbs blue & red wavelengths to power photosynthesis:
+Why is Grass Green?
+The short answer is a green pigment called chlorophyll. The long answer is ...
+www.livescience.com
+
+Why is the Sun yellow? Although Sol’s emissions peak at around 540nm, which is green, the sun emits at all wavelengths and appears white. Atmospheric scattering of blue wavelengths makes the sky appear blue and the sun appear yellow. Astronomically speaking the Sun is a G2V type star, a yellow dwarf; if there were cats in space we might have a Red Dwarf (feeble attempt at humour, I have a headache!):
+
+What Color do YOU think the Sun is?
+https://www.quora.com/Is-the-Sun-really-green
+
+Sol’s G-classification is nothing to do with the colour green:
+G-type main-sequence star - Wikipedia
+en.m.wikipedia.org
+
+I think the Jesuit astronomer Fr Scechi devised the first star classification scheme (4 classes), but stellar classification has evolved into the scheme astronomers use today, which is based on the Harvard system (based on surface temperature) & MK scheme based on star luminosity
+History of Stellar Classification
+
+Current Harvard scheme (OBAFGKM) was defined by Annie Jump Cannon, who simplified Pickering’s earlier scheme which was alphabetically based (A - V) on measured amount of hydrogen/helium in the star’s spectrum.
+What is the origin of the OBAFGKM classification system?
+Once a body has been identified as a star it is classified into a subsection of either O,B,A,F,G,K or M (I think there are also 3 more letters recently added) What is the origin of this classifica...
+astronomy.stackexchange.com
+
+Edit: Annie Jump Cannon and Henrietta Swan Leavitt were two of “Pickering’s Harem”, a team of female lowly-paid assistants who did highly significant work. Henrietta made a breakthrough in measurments of Cepheid variable stars which allowed stellar distances to be assessed and so paved the way for Edwin Hubble’s later work on galaxies; so might she be said to be the “mother of galaxies”? She lost her hearing but according to her Wikipedia entry “The asteroid 5383 Leavitt and the crater Leavitt on the Moon are named after her to honor deaf men and women who have worked as astronomers.”
+Anyone looked for asteroid 5383 Leavitt??
+Last edited: Apr 20, 2020
+Reactions:
+Vetinari, Xaintly, [PS4 Pro - PC] earthtone99 and 7 others

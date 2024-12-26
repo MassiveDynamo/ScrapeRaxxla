@@ -1,0 +1,12 @@
+Jorki Rasalas
+Sep 5, 2023
+#31,500
+simulacrae said:
+Ok i give- whats this “system address” number?
+
+How are you seeing them? They part of the log data that is being shared ?
+The system address is given in EDSM if you look up a system. E.g. look up Hel and you’ll see:
+Hel [#2175124097379].
+It’s also reported in the Journal file.
+Reactions:
+CMDRCorrMorningstarFelian, Rochester, simulacrae and 1 other person

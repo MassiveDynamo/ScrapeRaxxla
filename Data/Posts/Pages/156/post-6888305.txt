@@ -1,0 +1,9 @@
+rOmiLaYu
+Jul 25, 2018
+#3,109
+Jorki Rasalas said:
+Since the phrase used was “where it is” I think the only thing we know is that it is not a wandering celestial body.
+
+Not only that, I would think that, given the way that the game works, it wouldn't even be possible to have a celestial body navigating the galaxy. Sure, within a system there is rotation and orbit and travel, but the game handles that on a micro-level with instancing. I wouldn't think it would be able to handle that on a macro-level, galaxy wide.
+Reactions:
+Stigbob

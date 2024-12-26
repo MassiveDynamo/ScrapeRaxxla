@@ -1,0 +1,47 @@
+Draco Clortho
+Jul 23, 2020
+#18,026
+Hello CMDRs!
+
+Few weeks ago I saw some of Drew's lore videos and these inspired me to join the hunt for Raxxla.
+
+After a lot of reading and learning about the subject I decided: I dont search Raxxla in the game, not in the lore, but I will search Raxxla in real life .. in 1984..when the legend was actually born.
+
+My first idea was: these “codes” (RAX XLA) show some similarities with 6502 (BBC micro processor) assembly codes. It was an interesting research, but it turned out as a dead end…
+
+I contiuned searching the original Elite documents, and found these:
+(sry, but these are needed in order to understand the following….)
+http://wiki.alioth.net/index.php/Random_number_generator
+and
+http://wiki.alioth.net/index.php/Oolite_planet_list
+
+(Anyway, as a hobby programmer I really admire these routines….)
+
+and in the ‘Where do these crazy names come from?’ section there is a downloadable spreadsheet… in the sheet the @@ characters represent the empty strings. Let's see the system 72 in Galaxy 1 … and imagine the empty strings marked as “xx”…its not unusual, at all.
+
+Here goes my theory for what happened.
+This is a fictional dialog between Robert Holdstock (RH) and David Braben(DB)...just for fun
+
+1983:
+RH- Hi guys, I need some system names from the game...for the novella…
+DB – Sure, I printed a testpage for Galaxy 1 yesterday..here it is
+
+The list looked like this on the paper:
+…
+71 EDINSO 3 ED | IN | SO | IN
+72 RA 3 xx | RA | xx | LA
+73 ARONAR 4 AR | xx | ON | AR
+...etc
+
+RH- Woa..cool names. What are these 2 character codes?
+DB – These are the name generator stuff, not inportant, these are not in the game…
+RH- So, some secrets? Hah...xx RA xx LA...RAXXLA..it sounds like a forgotten aztec god...or a treasure city….Can I use these?
+DB – yeah..why not…
+
+--- FEW MONTHS LATER ---
+“Remember: Raxxla!”
+
+So: I think Raxxla = Ra. It is in the Milkyway, it is in ED from start, in the Bubble, close to Sol...etc
+Though I really REALLY hope that RAXXLA myth is more than this )
+Reactions:
+[PS4 Pro - PC] earthtone99, simulacrae, Cmdr SpaceMerlin and 4 others

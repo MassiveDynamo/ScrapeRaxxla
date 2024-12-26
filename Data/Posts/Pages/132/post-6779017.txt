@@ -1,0 +1,7 @@
+Noobilite
+Jun 12, 2018
+#2,634
+ilo said:
+In that case when you go to the galaxy map the systems are already connected by lines by the game.. mystery solved!
+
+Can you simply load up all of the raxxla systems with the same starting values like OOSCS and see if it makes a picture of any type? I'm not sure how it works. I was assuming you can't simply make it only show certain systems together.

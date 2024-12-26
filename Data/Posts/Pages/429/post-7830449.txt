@@ -1,0 +1,17 @@
+stg213
+Jun 3, 2019
+#8,573
+DrewCarnegie said:
+The Raxxla Codex entry is a list of cryptic clues, because that's all we've ever had about Raxxla - and it explicitly states that everything is just rumors.
+
+Here's two questions for you to answer:
+
+1. Why add clues in v3.3 and not previously?
+2. How will people running a localized version of ED decode an encrypted clue when the text is completely different?
+
+1. to keep us searching
+1.1 to give 'no' clues
+
+2. because it's not meant to be nitpicked to infinity but to give a framework (history of myth, ties to TDW, anecdotal evidence and rumored content) -> all of this will work regardless of localization
+Reactions:
+[PS4] Filthymick420 and PeteACarter

@@ -1,0 +1,9 @@
+Jorki Rasalas
+Apr 13, 2020
+#16,031
+Filthymick420 said:
+How would one use RA and declination to find a location? For example, how would i use Right Ascension is 21h 45m 53s and the Declination is -12° 01’ 05 to find asteroid 19 Fortuna? Chasing a lead....
+
+RA+DEC just gives you a direction bearing in 3D from Sol, you’ll still need a distance along that bearing line to get ED galactic coordinates.
+Reactions:
+[PS4] Filthymick420

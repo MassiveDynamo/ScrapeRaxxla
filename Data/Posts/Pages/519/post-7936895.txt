@@ -1,0 +1,24 @@
+PeteACarter
+P
+Aug 8, 2019
+#10,371
+Han_Zen said:
+You are right.
+
+They can be calculated to galactic coordinates though. Traditional Galactic coordinates are rotation angle and elevation angle, compared to a line from Sol to Sag A.
+https://en.wikipedia.org/wiki/Galactic_coordinate_system
+
+Both these systems need a distance, to give ED coordinates. They are lines from Sol to as far as you want.
+
+EDSM gives both Galactic (with radius) and Equatorial coordinates from ED coordinates so there are ways to convert, if you know the distance. If not, you end up with a equation that gives x,y,z based on (r).
+
+Here is NASA's coordinate system converter:
+Click to expand...
+Are you a government agent? I just get
+Forbidden
+You don't have permission to access /coordinate_calculator on this server.
+
+https://en.wikipedia.org/wiki/Galactic_coordinate_system Yes. I found this. This was the link that convinced me my math skills were not capable of doing the conversion. Unless we are talking set theory/multi bag theory, I'm a bit useless with maths
+Last edited: Aug 8, 2019
+Reactions:
+[PS4] Filthymick420

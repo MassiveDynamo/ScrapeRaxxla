@@ -1,0 +1,7 @@
+Blaggerdy
+B
+Aug 28, 2022
+#26,913
+yelboc said:
+FDev themselves told us there is no secret in the federation Station numbers - just eye candy to make them seem more impersonal. They are not even unique - some stations share numbers, because of the way they are calculated from the system ID.
+I'd be interested in seeing that calculation or if there is any way to work backwards from station to system. Stations 2296 / 2297 (can't remember which) are the ones that I've been keeping an eye out for.

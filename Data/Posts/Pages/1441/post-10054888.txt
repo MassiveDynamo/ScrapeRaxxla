@@ -1,0 +1,30 @@
+Rochester
+Jan 8, 2023
+#28,810
+Jorki Rasalas said:
+@Rochester do you remember when the spellings were corrected? I seem to remember you challenged Support over the issue a while ago, & they responded IIRC the TB spellings were valid, but they were “corrected” shortly thereafter.
+
+I can confirm Support response was that there were no spelling errors it was intentional (from memory this was circa 2020) sadly the original post is no longer in my Support inbox, I would expect these expire after a certain time. Unless it was in the issue tracker / can’t recall.
+
+If there is evidence of this still occurring I would advise someone to submit it to Support (under permits), and first ask a direct question, but omit any references to DW/Raxxla.
+
+‘Following playing the game undertaking xxx action, the following faction name appears in my inbox xxx. Noticed that this spelling differs from the standard advertised spelling for that faction namely xxx. Can Support advise what to do, is this a misspelling and therefore a bug, in which case how do I report it, or is this something new?’
+
+If Support state the spellings are intended I would advise to cross-examine said response with:
+
+‘It’s evident that there exists multiple mis-spellings of this faction (give examples and list them) can you advise why this is, is this an error’
+
+If they continue to confirm they are intentional press further asking:
+
+‘Thanks for the confirmation, Can you explain why such a mis-spelling are used as this is confusing and makes it difficult to understand what to do in game’…
+
+I am now very aware that Support is NOT the fountain of all knowledge, that they likely utilise the same knowledge base we do. So it’s very likely they will state the spelling is correct, they likely would not be able to drill-down, initially, but if given enough evidence, at such a point they would ask a DEV…. If after that the story doesn’t change, you have your confirmation.
+
+I’m sorry I can’t assist at present as I’ve asked too many questions of late so I think I’m on their awareness list.
+
+Honestly, considering the spelling correction, my money is on it being a bug.
+
+I like the idea of a hidden mechanism but, if it were so I would propose FD would just use a different faction name, and not utilise a mis-spelling, as to do so further obfuscated the process to the point of it being counterintuitive?
+Last edited: Jan 8, 2023
+Reactions:
+SergMx and John Stoutbeard

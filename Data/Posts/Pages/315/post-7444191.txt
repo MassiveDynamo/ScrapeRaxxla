@@ -1,0 +1,14 @@
+Eckee
+Feb 27, 2019
+#6,291
+Han_Zen said:
+In RL you get an elliptical orbit, as soon as there is orbital eccentricity. that's how gravity works.
+Stellar forge has used off center circles as an approximation, in stead of the correct orbit shape. I believe this is still the case for all proceduraly generated orbits.
+
+You are right. Even though we have eccentricity as a parameter, it doesn't look like affecting the shape of orbits. I also suspect that only manually added bodies have real eliptic orbits.
+
+Proof:
+This is not a 0.11 eccentricity looks like
+
+Reactions:
+Han_Zen

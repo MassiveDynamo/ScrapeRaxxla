@@ -1,0 +1,8 @@
+Frankymole
+Dec 6, 2022
+#28,272
+Jorki Rasalas said:
+I’m definitely no graphics expert, but are we sure this phantom planet isn’t just another example of a graphics glitch, like the green glow that I reported & which turned out to be slow clearout of the colour lookup table? It seems to me that the timing has some similarity. Is it a planet visible at the start of the jump that slowly fades out?
+The one you get at the very start of jump is a glitch. It's just the planet you're nearest to (e.g. if high waking from outside a station in orbit around a planet). Though it can appear in front of you even if it's actually behind or to one side when you initiate the jump. Nothing remarkable, though you see newbie streamers sometimes react to it with amazement.
+Reactions:
+yelboc, Jorki Rasalas and John Stoutbeard

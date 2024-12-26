@@ -1,0 +1,12 @@
+alexzk
+A
+Aug 25, 2019
+#11,321
+Han_Zen said:
+If you search a bit, you will find online tools tha gives you what you need.
+This one probably does the job: https://www.triangle-calculator.com/?what=vc
+No. "Solve triangle" means find all angles and sizes but giving some.
+My code above was trying to find somethign like "Perpendicular bisectors"
+https://en.wikipedia.org/wiki/Bisection#Line_segment_bisector
+
+which is "the center of the circle through the three vertices" which is equal remote point from 3 others points. But ...wiki shows particular one on surface, in 3D for given triangle can be many including that one which is on triangle surface.

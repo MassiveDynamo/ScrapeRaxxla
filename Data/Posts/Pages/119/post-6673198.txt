@@ -1,0 +1,50 @@
+Jaiotu
+May 5, 2018
+#2,362
+Going off the theme that "RAXXLA" is somehow an indicator of a set of coordinates ...
+
+Anyone familiar with the way in which the original Elite galaxy created by Ian Bell and David Braben is familiar with the fact that all of the system names (many of which are still familiar in Elite: Dangerous) were procedurally generated. In other words the entire galaxy was generated from a specific seed when you booted up the game. This saved memory and disk space allowing the creation of 2,040 individual star systems spread across 8 galaxies. There was a specific lookup table used to generate each system name from "random" numbers measuring from 1 to 31.
+
+Here's the original lookup table:
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As you can see there was no way for the game to possibly generate a planet "Raxxla" as there is no number that corresponds to the letters "XX". The particular letter combinations were chosen because you could string any of them together to create a pronounceable (but nonsense) word.
+
+Thus "LAVE" was "21,22". TIONISLA was "23, 31, 29, 21" and "DISO" was "13, 7".
+
+Raxxla decodes to "20" ? "21". So the question is this: what does the XX stand for? Roman numeral twenty? X marks the spot? Cross it out and throw it aside?
+
+Is it possible to logically extend this table out from 31 entries until we discover what number "XX" would have been if the table had been longer? I'm not sure that there is any logical order to the list that would allow someone to do that.
+
+I don't know ... maybe we take a similar tact as the Rift only, instead of a line from Reorte to Riedquat, we draw a line from Sol through coordinates 20, ?, 21 and search every "Y" coordinate that falls along the "X/Z" axis?
+Last edited: May 5, 2018

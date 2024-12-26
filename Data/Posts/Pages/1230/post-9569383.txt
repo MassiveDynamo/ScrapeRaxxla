@@ -1,0 +1,13 @@
+Adel
+A
+Oct 23, 2021
+#24,594
+Just to save you some time:
+
+I was wondering that maybe asteroid belt in Sol have a special asteroid to interact with (pulse wave analyzer as it was said it could detect anomalies).
+BUT, no way to plot a route by selecting it. I have a red display "Selection Unavailable (no cluster present)".
+So i googled it and found that => Sol Asteroid Cluster Not Present but inside Sun? Elite Dangerous
+
+I did the same as the guy in the video and the belt is....inside the sun. It's not a bug, just the sun beeing the reference (0,0,0) of the system and as no cluster has been added in-game, it doesn't have a position. I assume that by default any object added without position written for it spawns at (0,0,0).
+
+I just lost my time with asteroid belt, i hope u won't loose yours .

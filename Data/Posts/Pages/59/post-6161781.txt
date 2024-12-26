@@ -1,0 +1,53 @@
+Thatchinho
+Nov 25, 2017
+#1,161
+Moribus said:
+We maybe don't even need to speculate. there's now at least one in-game way to bust whether 7ly was a max limit on a 3125-era cobra.
+
+Jameson's Cobra that's just been found - all you need to do is chart a course from Lave to the crash site, if you can't make that with 7ly jumps, you know the jump range was definitely more. If you can make it, well you know it's at least plausible that 7ly was the max range for a cobra.
+
+Personally I don't think it matters. Ryder's ship didn't use the Quirium drive (or, at the very least, not the later version used in the game), so even if you take 100% of everything in TDW as fact (which is definitely isn't), and even if you take everything in Elite 1 as fact (which it definitely isn't), then the one still doesn't relate to the other, and neither relate to the current hunt for Raxxla. We have no data on the jump-range of any early hyperdrive system, sadly.
+
+Hmm, do we have a date pinned down for Jameson's strike with the Mycoid Missile?
+
+Anyway, while we don't have the jump range of early hyperdrive system's confirmed, in some respects it's not the jump range that's the key thing, it's the distance travellable per unit time that reall.
+
+So we know that Sol -> Achenar involves some distances that are between 8.63 and 8.74 ly, but that's not the critical point.(https://forums.frontier.co.uk/showt...-Discussions?p=6159264&viewfull=1#post6159264).
+
+Sol -> Achenar is 139.5 l direct. Hyperspace was discovered in the early 22nd century. Achenar was colonised in the mid 23rd century.
+
+In general the expansion following the discovery of hyperspace was unmanned probes followed by manned craft.
+
+Achenar was specifically chosen by Duval because it had an ELW capable of supporting human life. - that strongly suggest the system had been scouted by unmanned probes first.
+
+It's stated that the journey was long and treacherous, but there's no indication that there was a gen-ship or suspended animation thing going on - Duval chose and lead the settlement of the system (via a convoy of ships, most of which arrived). She also ruled the system for a while before dying in a speeder crash.
+
+So let's pick a range of travel times and that gives us our range of travel distances per unit time.
+
+a. - 1 year = 139.5ly per year
+b. - 5 years = 27.9ly per year
+c. - 10 years = 13.95ly per year
+d. - 50 years = 2.79ly per year
+
+Let's then apply that for travel ranges, assuming for simplicity approx 1,000 years of hyperspace travel prior to the type 2b.
+
+Max range of travel =
+
+a. 139,500 ly
+b. 27,900 ly
+c. 13,950 ly
+d. 2,790 ly
+
+Some obvious assumptions there about there being a sufficient jump success % to make it viable, but Duval's mission in the early days indicate that's a reasonable assumption.
+
+Equally, the above calculations assumes no improvement in hyperdrive tech whatsoever from that used for Duval's journey to Achenar.
+
+So there we go. Some calculations for the maximum distances major colonisation expeditions could have reached by 3150 using only the earliest hyperdrive tech.
+
+All 100% lore and in-game info with maths applied.
+
+
+It's not unreasonable to assume that hyperdrive tech improved over those 1,000 years either, so those limits can realistically be upped.
+
+And that's colonisation expeditions - the bounds on unmanned and manned exploration can reasonably be put considerably higher.
+Last edited: Nov 26, 2017

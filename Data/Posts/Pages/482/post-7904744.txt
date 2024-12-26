@@ -1,0 +1,18 @@
+[Diplomacy] Carnegie
+Jul 18, 2019
+#9,637
+Count dEstard said:
+To add a little more sense for you: Today I saw a model of the human genome - you know that Helix. I thought, "hey might not spiralling stars be some kind of Helix, too?"
+
+And there we go: Helix Sector is there and I would not really call it explored, at least eddb and Inara wise. Might be a place to have a look. Still fighting whether I'll be out bug hunting in Maia tonight or going over to Helix.
+
+Oooh!
+Spiraling stars. I forgot!
+
+Last night I was flying around a system with a black hole approx 250 kLs from the main star. While doing a fly-by on a gas giant with moons (orbiting the primary) I saw a bright light (star or moon) fly from over my left shoulder, out in front of me and then curve away to the left again - probably lasted a couple of seconds.
+
+Later, I was flying towards an L-class star orbiting the BH. As the BH passed out of view to my left, the L-class in front of me started to spiral - I still had the star targeted and the red dot moved way out of the reticule. I shifted course slightly and it curled back to where it was supposed to be.
+
+Now system objects are not supposed to be affected by BH lensing - only the skybox is - but I was definitely seeing lensing effects on local bodies, just not when the light sources were behind the BH. I'm assuming it's some kind of weird bug since I couldn't get it to happen again, but it's worth looking out for if you're in a black hole system.
+Reactions:
+[PS4] Filthymick420, Rochester and Count dEstard

@@ -1,0 +1,17 @@
+killbot_2000
+K
+May 25, 2021
+#23,413
+yelboc said:
+Re: Qixi and the weaver girl tale: It has come up before, but not to say that anything is wrong or right with it...
+
+The Quest To Find Raxxla
+Always thought the colors meant night vision would be involved in finding it Except Raxxla has been in-game since the gamma, whereas night vision only came in quite recently; so I think it might help but can’t be essential to finding it.
+forums.frontier.co.uk
+Click to expand...
+THANKS! i was almost sure it had been hypothesized before but these raxxla threads are so bloody long. surely you cant expect me to go through all 23000 posts XD. its not particularly complex theory like some of the code/hexedit/rgb ones anyway.
+im realy curious whats out here now that we have space legs. this post is from 2 years ago. maybe something changed or we have new info. it does seem to make a lot of connections. going to check it out tomorow.
+
+" My first though was the Keyed Vigenére Cipher. I used 'RAXXLA' as the cipher text and 'HEXEDIT' as the Keyword (or passphrase). The result was 'KWATIS'. Again, not being very experienced in the game I hadn't heard of a system called Kwatis but I figured I'd give it a try. I plugged it in and was about 99.9999999% sure the cursor in the galaxy view would NOT move and I wouldn't hear the revving noise as it did. Lo and behold, I typed it in and it took me straight to a system called Kwatis."
+Reactions:
+Ravenl0ft

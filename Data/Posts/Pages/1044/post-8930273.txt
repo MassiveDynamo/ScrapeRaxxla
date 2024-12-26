@@ -1,0 +1,22 @@
+Jorki Rasalas
+Feb 2, 2021
+#20,866
+{SAS}Stalker said:
+My biggest issue is and always has been that it's impossible to differentiate between what's intended and what's a bug. This wouldn't be a problem if FDev stepped in and said "sorry guys that's a bug" but because it probably suits them to keep this "mystery" or indeed any mystery going, they wont.
+
+It's incredibly unfair to be honest to be searching for a needle in a galaxy sized haystack when the haystack is full of fake broken needles.
+
+I can deal with FDev not dropping raxxla clues or hints but I think it's beyond unfair if they knowingly let us chase shadows they've created in error, that would be incredibly poor form and very damaging to customer trust.
+
+I imagine they read this thread and we need to be able to believe that what we are doing and what we are seeing is intended.
+Click to expand...
+
+I have some sympathy with this (quite a lot actually!) having just been caught out by the green glows in Sol which turned out to be a lighting bug, but which initially resembled the colour of light from Guardian artefacts... on the other hand it’s very complex software and there are bound to be bugs. As you say the real problem is that the feedback to players on what is a bug sometimes seems to be a bit limited. There may be a reason for this- while DB, MB, Producers, and I suspect a few others like the Community Managers etc are quite likely in on the Raxxla secret (the biggest mystery in the game?), but I would be surprised if the bug investigation team are. Perhaps some but not all. Simply because bug investigation and maintenance are often the areas where new recruits and interns work so they’re not going immediately to be given the key to the Crown Jewels. This leaves the player base in a pickle as we then don’t know how to report something which may be Raxxla-related. If reported something significant might be rejected as just a bug by someone not in on the secret. Yet again, FD are only human and make mistakes, and they tend towards not releasing information since anything they do say may inadvertently leak some information-we are masters at decoding hints!
+
+except for the Raxxla logo!
+
+DB and MB used to read the old Canon threads. I’ve not seen much evidence that FD read this thread
+Perhaps they don’t want to catch our space madness!
+Last edited: Feb 2, 2021
+Reactions:
+Fiera, simulacrae, FluxApexHype and 5 others

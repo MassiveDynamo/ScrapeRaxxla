@@ -1,0 +1,22 @@
+Machina Ergo Sum
+Apr 5, 2020
+#15,924
+Jorki Rasalas said:
+Sound recording advice from the old Canonn UA thread:
+ED sound recording
+There are a few tricks to assist your audio detection rate:
+If you can change "Windows Sounds, Playback-devices" the you device and the tab for "Advanced". Select 24Bit 48000HZ or better.
+In Elite, Audio options: Select "Night Time" mode. And you can safely disable music. (Screenshot provided at the end of the video)
+Fly as silent as you possibly can. F/A Off will turn off the engines. Intermittently turn F/A on if you need to adjust your course
+better still switch to your external camera and move the camera as close to the source of the noise as you can leaving ship at a distance.
+
+In Audacity you can switch the track to spectogram mode which makes it a bit easier to see if there is something interesting embedded.
+On the track next to the X is a drop-down menu usually labelled "Audio Track" in the menu you can select spectogram mode
+In the same menu is "Spectogram Settings"
+Algorithm: Frequencies
+Window Size: 4096
+Window Type: Guassian (a=3.5)
+You might find changing max frequency to 5000 or so might make something pop out. If you see anything that looks like an image you might want to have a fiddle with settings to tray and get a better image
+Click to expand...
+
+Well for this particular sound, you need music to be on.

@@ -1,0 +1,10 @@
+Rudolphus
+Apr 3, 2019
+#7,208
+Co
+Thatchinho said:
+Ah, ok, I see. If I'm following you correctly you're talking about an additional message concealed in the text of the logs. Not aware of anyone looking for that kind of stuff. @anyone else?
+
+Oh, and just for the avoidance of doubt, I was suggesting that you were talking about using an actual hexeditor. (It just wasn't clear what you actually meant. )
+Could it be this? or HIP 23759
+Last edited: Apr 3, 2019

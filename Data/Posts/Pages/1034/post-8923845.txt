@@ -1,0 +1,25 @@
+Vektorboson
+V
+Jan 28, 2021
+#20,675
+clixer said:
+Shoutout to the Independent Raxxla Hunters, some seriously impressive work done in the last few days. Here are all the video links from the investigation channel.
+
+youtu.be/FQLM1naJQCA (Spliffz - green glow)
+youtu.be/01eG3gr0VKA (Spliffz - green glow)
+youtu.be/mhhGyzSbeyU (Spliffz - map teleport)
+youtu.be/t14kFActDvM (clixer - green glow)
+youtu.be/MCTjPxpQlBs (Falconscreech - green glow)
+youtu.be/pjaktBqYTj0 (SteelQuagmire - green glow)
+(Spliffz - map teleport)
+(SteelQuagmire - green glow)
+(SteelQuagmire - green glow)
+(Spliffz - green glow external cam)
+
+Unfortunately I haven't had time to watch them all and look for patterns, hopefully this is useful to someone.
+Click to expand...
+
+It looks like some of those videos can be explained by ship contacts on the radar. I think the second last (SteelQuagmire - green glow) is the most obvious: The glow starts to appear, the light coming seemingly from behind. Then a friendly ship contact appears on the radar: Behind the player and above; as the friendly contact moves away, the light also gradually disappears.
+On other videos you see ship contacts roughly in the direction from which the light is coming (notice especially how the shadows in cockpit act, when the ship is rotating).
+
+In some of the videos there are no ships on the radar at all. But seeing how the ship contact appeared in the middle of nowhere in the second last video, the glow could indeed stem from ships not visible on radar.

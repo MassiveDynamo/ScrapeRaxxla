@@ -1,0 +1,23 @@
+Darth Ender
+D
+Oct 11, 2019
+#12,711
+yelboc said:
+Barcodes have a start sequence and a stop sequence and a character set for encoded characters in between . The width numbers carry no more information than the image, so your statement is empty.
+
+Either:
+The sequence fits a code-set I haven't come across
+The start/stop isn't present, making identifying the code-set harder
+It uses a non-standard format ( which is tough without a key as it were)
+Its just eye candy and carries no information of use (most likely)
+But I learnt a bit more about bar-codes on the way so that was cool
+
+There is one more possibility - if the barcode changed depending on the ship's name, then we'd have been given a key to decode that type of barcode. Is it the same on all ships? (seriously clutching at straws though..)
+Click to expand...
+
+You'd have to drop the image to the width numbers regardless of how it's encoded, since no non-custom barcode reader is going to scan it.
+And if you've done that part of the work, which you'd have to do anyway, you could easily check to see if it's ascii if you knew what the name of the ship was that was associated with the barcode, since decoding the width to ascii would be straight forward, with every 2 digits being 1 character.
+
+If it's not ascii but still varies based on the ship name, then meh. have fun with that, either way, it's not going to give you any interesting information.
+
+Solving puzzles is fun and all, but there are better uses of time. Especially if you're goal is to find raxxla... the answer is not going to be in the form of a puzzle to solve. Such a thing would at least make a itty bitty amount of sense if there were people at fdev who were still being paid to create such content.

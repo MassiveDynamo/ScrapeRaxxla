@@ -1,0 +1,41 @@
+yelboc
+Aug 28, 2019
+#11,479
+alexzk said:
+https://docs.google.com/spreadsheets/d/1xC0VegRXUc1taHG4f3nE3K_Lb62QSge6EOXNHwjdiqs/edit#gid=0
+Intresting name there ...
+
+CD-39 6137 Exploration ~ 2 100 Ly Celestial Gem
+
+There is more detail in this spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1eu30UyjpQrWexAglwD1Ax_GaDz4d7l8KD76kSzX4DEk/edit#gid=0
+
+This is a user submitted tourist beacon, so the text is a player's wording. The notes don't mention why he/she/it/they called it that:
+
+0016 Celestial Gem CD-39 6137 TOURIST Series 1 User Submitted 0016.png This minor system in notable only because of its early membership of the Alliance, joining in 3232. This membership granted the colonists significant technological improvement on their existing lot.
+
+<Edit: looks like the text is wrong in the spreadsheet - the picture link shows the correct text.. >
+
+The Beacon numbers go in sets as they were populated. There are quite a few missing beacons in this list, so clearly there is more stuff to be found and a block of them are in the Elite History section. Seems likely that this supports the theory that some of the existing permit locked systems can be unlocked if only we can work out how. Or else the remaining Lore beacons are not in populated or explored bubble systems..
+
+Beacon Number Range Type Notes
+0001-0112 User submitted Many not found (they are widespread in the galaxy)
+0113-0251 Elite History (Lore) Completely discovered
+0252 ? could be lore or user? not found
+0253-0648 User Submitted Mostly found - a few may be misidentified..
+0649-0715 Elite History (Lore) A block from 0650-0663 are not found
+
+I have a couple of questions for those who were in game at the start:
+When were Tourist Beacons added?
+When was the request for user submitted beacons and when were they included?
+If they weren't in game for Gamma then you wouldn't need them to find R. as originally implemented. Of course its possible the codex refers to them as part of the retconn.
+
+The system is in the blue nebula NGC3132. The system has a Y star with 8 'moons' - if you accept Y's as gas giants...
+
+https://www.edsm.net/en_GB/system/bodies/id/209097/name/CD-39+6137
+
+May be worth a look, just to be sure
+Last edited: Aug 28, 2019
+Reactions:
+Edelgard von Rhein and PeteACarter

@@ -1,0 +1,87 @@
+Han_Zen
+Apr 4, 2021
+#22,664
+clavain said:
+Update 1: 1/3 of the way through the list and found one additional astronomer since original post.
+
+So, I was bored this afternoon and thought I would take a look at part of @CMDRCorrFelian 's theory, as I knew which region of space with systems named after astronomers he was referring to. This is in that narrow band of observational bias of stars that runs through the Orion Complex, but I did not realize quite how many named systems there are out there.
+
+I used this list: https://en.wikipedia.org/wiki/List_of_astronomers
+and sorted it by year of birth, then checked each surname (or in some cases, like Chinese etc., full names) against the Galaxy Map. I managed to get to Frank Watson Dyson b. 1968 before getting bored of inputting names (or variations of names), which is not quite 1/3 of that list.
+
+So far, here are the identified systems in that stretch of space, sorted by distance from Sol. They are all within 1307 and 1378 LY of Sol. I've attached a screenshot so far as well. A few cosmonauts/astronauts are also out there, I've starred them in the list below for now. That's 29 star-lovers so far (25 of them astronomers) and there are likely more. I'm assuming there is no Barnard, Herschel, Kepler, Messier, Struve, Swift or Wolf, as those are common naming systems/named sectors/nebulae, and I was too bored to cycle through all the systems starting with those names to see if there might be one that is just the surname.
+
+Some observations:
+
+
+If anyone feels like carrying on past Dyson and seeing if there are others and adding to this, fill yer boots. Just sort by DOB first so you get the same running order I had. I might get back to it again depending on which shiny thing next catches my interest
+
+
+Galle 1307.58
+
+Brahmagupta 1309.65
+
+Lowell 1312.18
+
+Gauss 1325.55
+
+Celsius 1328.97
+
+Mitchell 1329.75 [likely Maria Mitchell early female astronomer]
+
+Laplace 1334.06
+
+Eratosthenes 1334.56
+
+Lagrange 1337.07
+
+Cassini 1337.60
+
+Walker 1337.78 [likely Anne Walker early female astronomer]
+
+Halley 1337.86
+
+Feoktistov* 1338.08
+
+Popovich* 1338.92
+
+Huygens 1342.67
+
+Le Verrier 1351.96
+
+Komarov* 1353.09
+
+Brahe 1353.55
+
+Ptolemy 1354.56
+
+Galileo 1355.30
+
+Hawking's Reach 1355.92
+
+Copernicus 1360.07
+
+Newton 1365.97
+
+Aryabhata 1368.43
+
+Bessel 1372.46
+
+Khayyam 1376.24
+
+Hipparchus 1377.07
+
+Banneker 1377.96
+
+Conrad* 1378.59
+
+
+
+
+
+Click to expand...
+This is funny: Lagrange 1337.07
+
+Lagrange Elite salute
+Reactions:
+SergMx, simulacrae and clavain

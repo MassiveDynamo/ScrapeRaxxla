@@ -1,0 +1,14 @@
+Noobilite
+Jul 5, 2018
+#2,890
+Crimson Echo said:
+https://imgur.com/a/NsnhSHD
+
+From the Log it looks like it was an npc. I tried to catch the wake, but it disapeared just before i could get to it.
+
+{ "timestamp":"2018-07-03T19:04:14Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rob Holdstock;", "From_Localised":"Rob Holdstock", "Message":"$Propagandist_Patrol05;", "Message_Localised":"Get combat bonds today, fight for the winning side!", "Channel":"npc" }
+
+
+
+Well, that might count as a little bit obvious. It will be funny if you find raxxla and it's filled with NPC's named after all the authors and developers related to Raxxla. 8)
+Last edited: Jul 5, 2018

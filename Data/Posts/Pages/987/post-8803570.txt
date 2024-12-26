@@ -1,0 +1,15 @@
+GURU-951
+Nov 20, 2020
+#19,740
+Crimson Echo said:
+I have been looking into finding new/undiscovered tourist beacons with possible lore/hints. (passenger missions like sight seeing missions seem to be how the game intended player to find lore stuff if they did not already know where to look.) Not certain if these are new, but the Beacon in Gabraceni (0323) seems to be broken (no text). The system has an 8th moon, and is basically 70 ly directly below the old worlds. The lack of text makes me think this TB should not have been spawning as a mission target, or is meant to reference something as yet undiscovered. ( it seems odd only this and the elephant trunk (invalid destination) mission target are bugged)
+
+Tourist Spot 366 in HIP 90246 mentions both luck (possible indirect reference to trinkets?) and sinister black ships ( TDW or Inra?) operating nearby. (300k ls to the visitor beacon). There seems to be a persistent poi (blue circle) in the canyon, but landing a ship reasonably nearby was a pain. (I plan to go back latter in a smaller ship to look into it more).
+Edit: went back in an Asp Explorer. Does not look to be truly persistant, but has a high spawn rate for pop up poi. Most poi were bog standard, but one i had not seen before (probalbly just a variant of the normal such pop up poi sites). It was a small sort of pyramid shaped building with a scannable data point in the form of a crashed satellite (not a nav beacon). This poi was not in the canyon, but in the flat region between them. Lots of POI were spawning in the canyon as well, but most were near impossible to get to. (the wall was to steep for the srv to deal with easily.
+
+Tourist Spot 127 in Olgrea mentions Mic Turner, and also has an 8th moon of a gas giant. (deep in Alliance space)
+Click to expand...
+I like your approach. I feel we share a similar take on it. Passenger missions are indeed fun filled, and very immersive. They're also the only mission type that asks you to participate in all three trades. Some passengers ask you to fight, some ask you to trade and some ask to explore, and mixed in with that we learn about the lore, along with many other hidden tid bits of information about Elite. If we're currently being tested, this would be a perfect way of carrying that out, and a perfect way for us to gain valuable experience, on all levels.
+Keep it up.
+Reactions:
+[PS4] Filthymick420

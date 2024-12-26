@@ -1,0 +1,21 @@
+Thatchinho
+Feb 18, 2019
+#6,131
+Han_Zen said:
+Distances in 3D are like bubbles.
+
+Two bubbles(known systems) will give four intersections(correct distance to both). Add a third and you are down to two intersections.
+
+In most cases only one of those will contain a system.
+Minor technical point - the intersection of two spheres is a circle, so is an infinite series of points (except in the special case where the sum of the radius of the spheres is exactly the same as the distance between the centre of the spheres, in which case the intersection is an infinitesimal point.)
+
+Except in the special case above a third system or sphere is always needed to be able to calculate specific points.
+
+
+Additional note for anyone who finds themselves having to try this stuff - if searching for systems via one of the databases a different approach can be done which can sometimes work with 2 systems or occasionally even 1, as when searching the database you don’t have to actually calculate the points of intersection, you just have to run a search on the database along the lines of {Find systems where ‘distance from system a’ = ‘distance 1 +/- error’ And ‘distance from system b’ = ‘distance 2 +/- error’ And etc.}.
+
+The error value on the distance has to be included to allow for rounding errors and approximations in the figures being used.
+
+The issue with this approach is that if a system isn’t in the database then you will have no direct way of knowing it’s not there if you do get some results, and if you don’t get any results then you don’t know specific locations to check in game, whereas if you calculate the co-ordinates and don’t get a match for the co-ordinates from the database, then you know there’s a high chance there’s a system that’s not in the database, and can check the locations directly in game via Galmap.
+Reactions:
+Han_Zen and Alexium67

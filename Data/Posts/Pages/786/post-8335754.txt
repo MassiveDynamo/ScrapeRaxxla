@@ -1,0 +1,16 @@
+Jorki Rasalas
+Mar 18, 2020
+#15,719
+SkyRock said:
+can anyone tell me the closest guard system from Sol? how many light years?
+
+The Canonn list of Guardian sites is at https://docs.google.com/spreadsheet...7I1VCMwIST1I6XuSOHBAS1a8rLFxmnSbO4Br/pubhtml#
+
+However an EDDB search on Guardian systems says nearest to Sol is https://eddb.io/system/6288087 at 500ly.
+
+You don’t say what type of Guardian system you’re after: ruins, structure, beacon, so you’ll have to cross check the eddb list with the Canonn site.
+
+Edit: you can always set your galmap to show allegiance Guardian and Feds then eyeball and copy/paste the guardian system name into google to check what type of site(s) are available. If you’re thinking of getting Guardian blueprints then I’d suggest first watching Cmdr Exigeous’ videos.
+Last edited: Mar 18, 2020
+Reactions:
+Macros Black, Machina Ergo Sum and [PS4] Filthymick420

@@ -1,0 +1,28 @@
+Adel
+A
+Mar 5, 2022
+#25,549
+John [Panzertard] Stoutbeard said:
+This is interesting indeed.
+Worthy note: You may have to get within 100km (fly slow) to be to get within it's influence. Otherwise it will just behave as any other 'runway zones' (like planets/statiosn that was bugged when you cant catch their influence zones)
+I think you're speaking of another method to catch them.
+As we follow a signal source in the left panel, we have the higher precision when exiting supercruise.
+
+Btw, Pareco system:
+
+JSON:
+{ "timestamp":"2021-11-05T18:03:13Z", "event":"FSSDiscoveryScan", "Progress":1.000000, "BodyCount":1, "NonBodyCount":11, "SystemName":"Pareco", "SystemAddress":3034117572971 }
+
+{ "timestamp":"2021-11-05T18:04:13Z", "event":"Scan", "ScanType":"NavBeaconDetail", "BodyName":"Pareco", "BodyID":0, "StarSystem":"Pareco", "SystemAddress":3034117572971, "DistanceFromArrivalLS":0.000000, "StarType":"TTS", "Subclass":9, "StellarMass":1.171875, "Radius":820324032.000000, "AbsoluteMagnitude":4.231644, "Age_MY":16, "SurfaceTemperature":6106.000000, "Luminosity":"Vab", "RotationPeriod":432611.319932, "AxialTilt":0.000000, "WasDiscovered":false, "WasMapped":false }
+{ "timestamp":"2022-03-05T16:18:36Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco Comet 1", "BodyID":1, "BodyType":"SmallBody" }
+{ "timestamp":"2022-03-05T16:23:08Z", "event":"SupercruiseExit", "Taxi":false, "Multicrew":false, "StarSystem":"Pareco", "SystemAddress":3034117572971, "Body":"Pareco Comet 2", "BodyID":2, "BodyType":"SmallBody" }
+ID3 = Asire Dock (Outpost)
+ID4 = Crown Orbital (Orbis)
+ID5 = Webb Station (Orbis)
+ID6 = Phillips Market (Orbis)
+ID7 = Garden Ring (Outpost)
+ID8 = Neville Ring (Orbis) crashed the game when targeted
+
+{ "timestamp":"2021-11-05T18:04:13Z", "event":"NavBeaconScan", "SystemAddress":3034117572971, "NumBodies":1 }
+Reactions:
+John Stoutbeard

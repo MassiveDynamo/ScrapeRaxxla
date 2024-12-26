@@ -1,0 +1,17 @@
+Han_Zen
+Jan 10, 2020
+#14,578
+Ren Solsen said:
+3-@@-RA-@@-LA is (apparently) how the C64 game generated the name for system RA. 3 meant only the 3 first slots should be printed @@-RA-@@. The "@@" were silent. The @@, RA and LA came from a seed. Same seed with values from 1 to 8 in a modifier gave names for all the galaxies. Only Ra had any remote connection with Raxxla by having the right syllables. If we swap the silent @@ to XX and forget the "3" modifier we get XXRAXXLA. There isn't any other system on all the galaxies where something of the sort can happen, and there wasn't any other part of the seed that could be replaced for XX and still remotely work. RA is the only of the old systems in the current game that is out several jumps away. I'm not saying it is RAXXLA, but it might be where it is activated or jumped to, or whatever...
+
+The above part is an observation, now the crazy theory:
+
+The old worlds in-game are documented and researched, most of them were directly connected between them in the original game (including RA - hence the oddity). And some are in further parts of the galaxy and seem oddly unconnected and lacking a purpose to be included in the new game (see Drew's). My guess is that RA is the key and the oddball worlds are somehow the direction markers. Jumping or travelling between the 2 with RAXXLA activated would bring you to different sectors all across the galaxy map. Shortcuts! Raxxla as a network of wormholes. What could be more valued for a privateer than a quick shortcut to reach any part of the galaxy? The number and location of permit locked sectors could indicate this.
+
+Unfortunately, I don't have a clue how to activate it or how to test it. If Any of you have been researching RA or have any idea how to validate this, please let me know.
+Click to expand...
+Ra is tricky. Is it an old world, or isn't it?
+
+It's an Elite Galaxy 1 system, but it's also an Egyptian deity. There are probably 50 other in ED.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

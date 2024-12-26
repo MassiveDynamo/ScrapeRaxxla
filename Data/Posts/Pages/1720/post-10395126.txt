@@ -1,0 +1,150 @@
+Spidermustdie
+S
+Jul 2, 2024
+#34,397
+Jorki Rasalas said:
+Ok, that suggests it's time for me to openly disclose my current theory, Which is:
+1) Raxxla is located within Alliance space (lead character Julia strongly hints at this in MB's Elite Legacy novel); this seems to be supported by the Paradise Lost cosmography identified by @Rochester in-game, where God's realm (the Empyrean) seems to be located in Alliance space (above Fall and Gateway systems)...assuming we are looking for "Paradise"/Milton's "pendent world" as possibly hinted by the final tourist beacon in the Brookes Memorial Tour.
+2) the book title mentioned in the codex "Princess Astrophel and the Spiralling Stars" contains a subanagram of the system within which Raxxla is concealed.
+3) a further possibility is that the book title is the same as MB's Elite Legacy description of Julia's children's book as “about a young man’s quest to save a princess from an alien dragon”. Hence the system name may reflect something related to an "alien dragon", but my confidence in this particular hypothesis is limited.
+4) The garden design from Li Qing Jao station in Sol is a visual clue. I have already shown that the toast could have been meant to lead us to that station.
+
+
+I did a Spansh search on systems (around 1500 results) within 66ly of Alioth to capture all in Alliance space. I then put these into a spreadsheet and wrote a subroutine to check for system name as an anagram of that book title. That whittled the possibilities down to around 100. I then went through EDSM and checked which of those had ringed bodies (list whittled down to 57), since the Li Qing Jao space station garden design middle and final panels seems to hint at a system containing a ringed body with 6 features (I suspect mineral hotspots). I then checked those 57 systems to find those that have 6 hotspots, whittling down to 13 candidate systems. I then added back in Sheela Na Gig, which has 6 ringed Gas Giants & 6 hotspots in a ring, & a google search showed Sheila/Sheela as a dragon name, however the system name is a subanagram of "Princess Astrophel.." & it doesn't seem to fit the garden design, so I discount this as a probable solution. Photos I took of the 6-spot rings are in Imgur...
+
+The final results are here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I think this analysis has whittled down the prime candidate Raxxla systems to a mere two:
+1) OT Serpentis
+2) Dahan
+
+OT Serpentis is my leading contender. It just seems so right in view of MB's love of Milton! It has 1 Ringed Body. Ringed body ABC1 and the system map seems to exactly match the 4 bodies apparently shown in the Garden middle panel. It complies with Paradise Lost mythology! -the system name contains as subanagrams both "Sin" (Satan's daughter, so the Princess of Hell, and Satan was a fallen star ("for those with eyes to see it sounds like "astro fell"!) and "Serpent" (Satan's form when whispering temptation to Eve, and "Serpent" is another name for "Dragon", specifically the Chinese Teng/Long dragon). It is also the only "serpent" named system within Alliance space. OT Serpentis C also has an A belt with 3 clusters which I checked, but nothing found!
+
+
+It seems Dahan system was so named from the outset of the game. "Dahan" is a subanagram of "princessastrophel..." Dahan could mean "the Han dragon" (as in "boyz from da hood") & "han" is the dragon that became the emblem of the Chinese Han Dynasty. Dahan planet 2 is named Hathor ( an ancient Egyptian goddess, mother and consort of the sky god, she wore a headdress of a sundisk, hence "jewel that burns on the brow of the mother of galaxies") . Moon 2a is named "Coltan", a metallic ore source of Tantalum (essential to FSD drives). Hathor's fifth moon is named "Wanderer" , i.e. "vagabond" (from the orrery it has an odd orbit, not coplanar with the other moons, so could be a captured rogue body or moon-sized 'ark ship'). Third moon ("Smithy's claim") has Coriolis station Dahan . Following Wanderer in the system map is planet 3 a gas giant (sole example in-game? also R1, R2, R3 is unusual ring naming) ...system reserves are supposedly depleted (not convinced from what I see with Pulse Wave Analyser), hence less likely to attract miners-obfuscation? Dahan system is a good fit for the middle garden design if the moons are ignored (obfuscation?). There is an empty path through the outer edge of Hathor's LTD spot -presumably something has swept a clear path? and presumably it will have acquired an LTD coating, which might match the Raxxla logo dark shapes?
+
+
+So I'm toying with the possibility that MB repurposed the Dahan system name clues (in-game from 2014 release) to generate the December 2018 codex's Alleged Toast, which more specifically pointed us to the garden design, pointing to Paradise Lost cospmography, pointing to Alliance space for the Emprean, though of course it could have been intended all along and "the codex toast" was intended to be a strong hint..I think he was frustrated we had not found his little easter egg after he had clearly put a lot of effort into the in-game storyline!
+
+
+As an interesting speculative aside & not relevant to this analysis: Now it seems Drew Wagar and MB were buddies. Drew's novel Elite Reclamation (published May 2014, just prior to game release) started with a 3297 Imperial invasion of Prism system to obtain the fsd-essential mineral Tantalum; many called the lead character of that novel Kahina/Salomé (who was killed then resurrected) a witch! She was a natural pilot and loved deep exploration (she exposed "The Club" after checking out Rebecca's (old lady in the hospital bed) history and found the Club's lost Formdine Rift bases). The biblical Princess Salomé's dance of seven veils is very reminiscent of Ishtar's journey to the Underworld.......so was Salomé "Astrophel"? or perhaps Salomé as both whisperer and princess? . If Elite Legacy contains clues then Elite Reclamation might also, or might just be expanding the depth/breadth of the mystery?
+
+
+In either case I think Raxxla is hidden within one of the planetary rings in OT Serpentis or Dahan. The former has one possible ringed planet, but the latter has two ringed planets and the directionality that may be implicit in the Toast could point to one of Dahan 3's rings, or it could be Hathor. I have been looking in both systems with no success- it is hidden very well! I have also had a quick look at Wanderer to see if it might be hollow but nothing obvious (mm, didnt check the comparitive density!). Also scanned Dahan Gateway repeatedly-no response. BUT the Pendent World quote from Milton's Paradise Lost MB's favourite book!) is used in the final tourist beacon of the Brookes Memorial Tour and ends "This pendant world, in bigness as a star. Of smallest magnitude close by the moon" -has had me wondering today if it (or the "Omphalos Gateway" to it) is something very small and close to a moon (possibly Wanderer)....either in OT Serpentis or Dahan.
+
+The difficulty in finally resolving this puzzle and locating Raxxla is the fuzziness of the Raxxla logo, and the right panel of the garden design! Do they contain specific location meaning? I have toyed with the possibility that the 33 dots in the Raxxla logo is an indication of orbital circumference as a hint to the orbital radius to search at, & of course the white spaces between those black dots might or might not be significant. It could be a circular 33 or a hexagonal, and the distance could be Mmetres or light seconds. I think this suggests potential search radii at:
+circular:
+10.5ls, 5.25ls, 5,252Km, 10,500Km
+hexagonal:
+5.196ls, 4.33ls, 5,196Km, 4,330Km
+10.39ls, 8.66ls, 10,392Km (0.035ls), 8,660Km (0.0288ls)
+
+If that gives anyone encouragement in the Quest then my personal journey is complete! I've been looking around in these two systems for the last couple of weeks, on & off, but in real life I really must catch up on major DIY that was put on hold last September when 43kg of a chocolate Labrador lummox jumped on the bed during the small hours, landed on my knee and ruptured the meniscus and ligament....
+Click to expand...
+Wow that's pretty thorough. I'll drift around there when I get time.

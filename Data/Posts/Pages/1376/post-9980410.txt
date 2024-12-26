@@ -1,0 +1,29 @@
+Han_Zen
+Oct 24, 2022
+#27,508
+Jorki Rasalas said:
+I’d say this thread is all about the pursuit of truth and justice Raxxla, so anything pertinent to that is relevant. However we have seen an overabundance of trolling, fixation on unreliable/retconned lore, red herrings and urban myth being promulgated, some clearly with malicious intent, and the mental health of some posters has been more than a little suspect. So I think we should always insist on getting the source references tied down and the veracity of information ascertained where possible. That’s not to say we should discount anything that is not corroborated (I still believe Ascorbious’ report of MB saying that the system with Raxxla had been visited but it hadn’t been spotted- not corroborated but sounds likely).
+
+This rumour is interesting because we were reliably informed there is/should be a Raxxla storyline in-game, and I don’t believe the Codex hints fit the definition of a storyline. It makes sense for the old E/F (I think red herring) missions to be replaced with something else after they were deleted. And a rare tourist mission would fit the bill nicely. To me it fits with the way the game is designed and the way FD expect gameplay to run. (Edit 2: I suspect Raxxla was initially inserted as a pure Easter Egg, but after a while FD realised it was too hard to find by sheer chance so deleted the old E/F red herring missions and replaced by a true mission-based storyline that should lead to Raxxla, but Ive never seen any hint of one, though admittedly I haven’t done all that many passenger missions.)
+
+No pix then it didn’t happen has been our approach....
+
+So come on Han_Zen; source reference and associated evidence please!
+
+Edit: You ninja’d me!
+No, If the crash wasn’t intentionally caused then the crash dump file is IMHO a legitimate source!
+However it could be another FD red herring! How can it be checked??
+& in Odyssey or Horizons (3.8 or 4.0?)?
+Click to expand...
+It was in Odyssey. In 30 Comae Berenices. I think I was in the system map, but I'm not sure.
+
+I just searched for 'Raxxla' in the text dump.
+
+Full text was: "Well, if you're looking for adventure, I have a pretty solid lead on the location of Raxxla... ^ \ Mission_VIP
+Mission_PassengerTimeWindow
+Mission_PassengerPayment
+Mission_PassengerRaceOption"
+
+Now I feel bad. Like I wasn't supposed to see it.
+Reactions:
+Macros Black, simulacrae, Jorki Rasalas and 1 other person

@@ -1,0 +1,20 @@
+Emperor
+Dec 11, 2023
+#32,448
+@Louis Calvert - Anyone at Cannon done analysis on the MB Memorial Tourist Beacons audio when in FSS?
+
+I was poking around at Artemis having mapped "The Underworld" and seeing if there were any unusual transmissions from Col 70 sector fy-n c21-3 and towards Barnard's loop (as well as other directions) and noticed the tourist beacon was quite noisy...
+
+I haven't checked any other's yet to see if it's a std audio for MB tourist beacons (or other beacons), but thought I would ask before I do as there's nothing on the Cannon page I could see (https://canonn.science/codex/brooks-galactic-tours-beacon/)
+
+I did have a quick play in Audacity... Which based on the sound the spectrogram turned out how I expected...
+I am thinking binary in there with the diff heights of the bars or something similar...
+I did apply a few settings spectrogram setting (including the old Tharg ones for Col 70).... but couldn't see any Raxxla picture though!
+
+
+
+
+Here's a recording, while it's 3 mins long the audio message is short so lots of looping...
+Source: https://www.youtube.com/watch?v=cOXcKGWcWMI
+Reactions:
+Rochester, Adel, Jorki Rasalas and 1 other person

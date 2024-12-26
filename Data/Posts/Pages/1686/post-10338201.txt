@@ -1,0 +1,13 @@
+Ian Doncaster
+Mar 23, 2024
+#33,704
+Jorki Rasalas said:
+Aha- IF could extract (how?) those 909 into a spreadsheet then could filter out the player groups, filter out duplicate home systems which would give the Alliance systems...but I think that would be the current Alliance bubble size, how to check for the 2015 systems?
+If you're only checking home systems then that should rule out expansions - there will be a lot of duplicates.
+
+Finding a convenient source of home system and PMF type data for factions isn't obvious nowadays (EDSM and Spansh don't seem to hold the data; Inara does but only provides one-at-a-time viewing of it) but I'll ask around.
+
+EDIT: The old EDDB data is preserved at https://edgalaxydata.space/EDDB/dumps/ - for something like this, not having the last year or so of changes might actually help!
+Last edited: Mar 23, 2024
+Reactions:
+Jorki Rasalas

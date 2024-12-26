@@ -1,0 +1,16 @@
+CMDRCorrMorningstarFelian
+Nov 2, 2023
+#31,935
+SergMx said:
+Open floors, yes. I've been researching them for a long time and didn't realize ... There are a lot of things in the game that I don't understand, carefully crafted doors in ruins.
+The ground engineers have a window to a hall, in this hall there is a man, standing near the computer and with his back to us.
+
+But most of all I like to study the billboards ....
+"Live Routing". That is Raxxla/Frameshift infrastructure. That is far from the only place that shows up, too. Surface port antenna have it. Some surface sites that don't even have docks have it. Faraway utilized external jump configuration. How does that happen? Each system utilizes HoloDirect and GravDistort communication to establish the jump (the nodes of the network are stations, outposts, orbital installations, surface ports, surface settlements, surface installations, and ad-hoc nodes CMDR SRVs, ships, fleet carriers, and your CMDR themselves with the Duradrive on our wrist.
+
+Remember, a fleet carrier uploads telemetry at 40 seconds to jump. That means it is communicating with Raxxla/Faraway/Monolith Network and opening a wormhole to jump through to the destination system. I don't know if Omphalos Rift is the wormhole that opens up anytime you jump either in a normal ship or fleet carrier but it might. Wake scanning has been a thing since the beginning as Sidewinders were not originally warp capable and had to follow the warp wake of the vessel they escorted.
+
+You do realize that when you you dismiss your ship that it raises up from the surface and engages Frameshift as soon as it hits 2 kilometers and then vanishes into a higher dimension? They couldn't have made this much more obvious. You even get the very bright flash and thunder-clap. Additionally, landing on planets the long blue tunnel is the ship phasing back into reality (real-space).
+
+Still working on the intergalactic portions of this dang thing.
+Last edited: Nov 2, 2023

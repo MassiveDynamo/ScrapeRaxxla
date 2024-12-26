@@ -1,0 +1,24 @@
+Rochester
+Feb 23, 2022
+#25,436
+Merlin StWahgwaan said:
+Not that I'm aware of.... as well, I don't believe anything has ever come of it either
+
+Edit: also I believe it's been suggested to overlay that signal on the galaxy map from EDSM or somthing, and it lines up, sort of, to Colonia and Sag A*.
+Though I haven't seen a good version of it done and I don't believe it actually lines up, BUT it could be able too if its just a matter of having the right scale on the map and the signal... idk... but yea XD
+I always suspected this was either a bug or more probably just background ambience seeing as Cmdrs have triangulated the location and found nought there.
+
+This was put to the CM AT and he said he wasn’t aware of it, albeit he did admit there was historical content in game prior to his employment which he had no idea about but he seemed genuinely surprised by the ‘content’ saying that it ought to be reported as a bug for investigation, but he didn’t think it was a bug, just somewhat odd…
+
+Obviously it may be difficult to get confirmation out of FD.
+
+In my experience I’ve found that if one directs a question so that it illustrates content perpetuates an impression players ought to interact with it, by its presence in game, it affirms it is active, this usually is enough to enable FD to identify it as a bug to confirm the customer is not wasting their time chasing windmills… or something to that effect.
+
+It then stands to logical reasoning that if it’s not confirmed as a bug it is genuine content; or tied to a narrative, or never turned on, or partially implemented…etc etc.
+
+I suspect it’s just poorly implemented ambient noise for Sag A.
+
+Source: https://youtu.be/FYNGKV8fZ6Y
+Last edited: Feb 23, 2022
+Reactions:
+SpaceGoblin

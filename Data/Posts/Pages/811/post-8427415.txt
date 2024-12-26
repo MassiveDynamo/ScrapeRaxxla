@@ -1,0 +1,14 @@
+Jorki Rasalas
+Apr 27, 2020
+#16,218
+CmdrMcGreen said:
+Greetings Commanders.
+
+I found a strange bug. I was returning from a short exploration trip, parked in a nice quiet system and quit ED. Then I saw that I've earned a trophy called "What did you do?".
+Eh? What did I do? Nothing, jumping around. Then I saw that what the trophy means "Got a bounty of 100000". What the..
+I started ED again, but there was no bounty. Man, I thought that I've scanned a "forbidden" system
+Now I'm way above the bubble and I still have no bounty but the trophy remains. Strange.
+
+Maybe you should report this as a bug. What machine type are you on (PS/console)? EDSM badge award mechanism seems to be broken (I had a badge awarded about 6 months after the event, still not got Hutton Orbital visit badge even though I’ve been there many times). Dont know about console badges.
+Reactions:
+Machina Ergo Sum and [PS4] Filthymick420

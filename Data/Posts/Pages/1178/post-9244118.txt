@@ -1,0 +1,16 @@
+simulacrae
+Jun 1, 2021
+#23,557
+Han_Zen said:
+I'm having a bug or feature moment in Spica, at the moment. I'm trying to fly to the gravity centre of the system, in the orrery map. That should be simple as this is a binary system with two large stars, about 12 AU apart.
+
+When flying from Spica (smaller star) to Spica B (larger star), my marker jumps shortly before I get it to the centre. It ends up way out on the far side of Spica B.
+
+I can't be bothered to bug report it. Has anyone had similar issues, in other systems?
+
+Havent tried it in other systems... but just tried it in Spica myself ... yup same issue.
+
+edit: Just tried it in Synuefe CF-P c22-32... same issue.
+Last edited: Jun 1, 2021
+Reactions:
+Vetinari, Han_Zen and [PS4] Filthymick420

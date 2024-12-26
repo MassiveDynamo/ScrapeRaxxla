@@ -1,0 +1,34 @@
+Alexium67
+Feb 2, 2019
+#5,679
+Alexium67 said:
+One question. Did anyone tried to look further at such thing as the strange square lights or windows on the stations? It look like the Braille code. Each "symbol" is the combination of max 4 square lights. All this lights looks like central part of Raxxla logo from the Codex.
+
+Screenshot:
+https://imgur.com/zhHCOeb
+Googled some. It is very similar to Braille's digits in so named "Computer Braille Code". All digits are combination of 4 squares. For some reason I think it should reading with the top (of the symbols) at center of construction:
+
+146378 (top one)
+146378 (right one)
+377378 (left one)
+
+
+BloodRedCobra said:
+Numbers take 5 pings in Morse, which would make station coding unlikely to give a location. if you want to decode it, though, or try, Wikipedia has a Morse translation sheet. It'd at least fit the "Every Commander has to..." tip
+
+Alternatively if you message or reply to send me the pairings (as I cant load that image on my device) I'll (try to) translate and post to thread, use hyphens for short and underscore for long, using periods (to show "stops") to separate pairs. Sentence separation will likely be impossible pretranslated.
+
+Example:
+
+---- . -- .
+
+This isn't what I thought I'd be using those history lessons for.
+Click to expand...
+Sorry but I can't interpret it as the Morze code. I'm not skilled enough for it.
+
+
+---
+Now I going to check outer station lights and other stations. It may be just a single texture.
+
+Added later: I found some other screenshots of this construction. Same pattern. So it is just a texture.
+Last edited: Feb 2, 2019

@@ -1,0 +1,11 @@
+Jorki Rasalas
+Aug 2, 2021
+#24,089
+Rochester said:
+I cannot find my original bug report but, I did ask FD about spellings and spelling errors regards these. And their response was something along the lines of ‘all spellings are correct’.
+
+I would suggest where such anomalies occur we raise them as tickets as a litmus test, but always to provide a context,
+The trouble with the current method of raising tickets is that unless sufficient players support them they never get past the initial "Confirming" stage, then they timeout and are ignored. Which is a good management way of cutting down programming effort dedicated to bug fixing etc. It's just one thing that ticks me off with FD management at the moment!
+Last edited: Aug 2, 2021
+Reactions:
+Rochester

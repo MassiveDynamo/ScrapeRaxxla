@@ -1,0 +1,36 @@
+Jorki Rasalas
+Jun 24, 2024
+#34,302
+Ian Doncaster said:
+Sure, though Raxxla being one of those server-side POIs would be a straightforward way to hide it too. So long as its physical appearance is a combination of assets already in-game there'd never be any evidence.
+
+The "data miners" are a bit overstated, of course. Looking through the files for plain-english strings is about all most of them do; even a client-stored Raxxla would be trivial to hide from them.
+
+
+The report was that someone from FD might have said this. Actually tracking down a source of who, where, or what that isn't years after the claimed time it was said is tricky. My suspicion is that it's still a merger in memory of two different events that did happen in the 2016ish timeframe
+- Frontier confirms that Raxxla is in game and "they know where it is"
+- a player claims to have found Raxxla in a system that had previously been visited (then, as usual, disappears without trace without providing any way to verify this)
+
+As an "absence of evidence evidence of absence" point, there were also a bunch of threads in the 2016/2017 timeframe speculating that this have happened ... to which no-one replied saying "oh, yeah, MB said that in ...", which it seems like someone might have.
+
+
+The contents of the ring are generated at a layer down from the ring itself, yes, so the individual asteroids don't get body IDs (neither do the individual hills and craters on planet surfaces, by analogy)
+
+You can kind of see hints of how the ring systems are done by looking at them from a distance as they're loading in. With some gaps in the explanation:
+1) define the ring itself as a flat disk with an inner and outer radius, rotating at a constant angular speed - this data is probably provided from the system level stellar forge
+2) break the ring into rectangular blocks (they might be very slightly off-rectangular in practice because they need to tile around the disk, but close enough)
+3) give each block a seed number based on its position in the ring to generate its basic contents and place the asteroids, which are then stationary relative to the rotating disk.
+4) overlay on top of that modifications to mineral content for RES and hotspots, as well as the removal of asteroids within the box of ring-embedded stations
+5) store a list of recently laser-mined (per-player) and exploded (universally) asteroids and apply that too
+As the player moves around, load it more rectangles in the direction they move, unload the ones they move away from, have some "long distance" generic rock textures to make the unloaded bits of the ring still visible.
+
+Most of this probably wouldn't be a useful mechanism to hide Raxxla - anything in the actual procgen seed for the asteroids would have the problem of appearing likely countless times across the galaxy, it's not the sort of mechanism where it's easy to guarantee "exactly once". But something in part 4 would allow an invisible POI to be defined (server-side) which then caused the generation for the rectangle containing it to be run very differently to standard, and "exactly once" can be guaranteed that way.
+
+(The catch, of course, is that even if the player base was told definitively that Raxxla was in a particular planetary ring, with no other clues it would still take years to search for it, because those things are huge)
+Click to expand...
+Thanks, that makes things a little clearer! Yep, planetary rings are huge! Without a more precise indication of its location then this Quest loses its attraction as an intellectual puzzle...but I can't imagine MB would have wanted that. It makes sense (if you believe they are valid clues, - I do!) for the right hand panel of the garden design and/or the codex Raxxla logo to provide that precise hint, but I'm just not seeing it. I think the logo hints at an "asteroid station" hidden in a ring, i.e. based on extant Coriolis or asteroid station designs but probably with some handwavium.
+
+Twas Ascorbius who reported that saying. I queried him about it and reported back in this thread (just a few pages ago? ). In my FD Quotes thread (see my signature) there was a link to his Twitch stream where he said it. That link might no longer be valid (edit- just checked & still valid link) but I have also found it by Google search.
+Last edited: Jun 24, 2024
+Reactions:
+Rochester and Ataxia

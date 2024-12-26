@@ -1,0 +1,11 @@
+Jorki Rasalas
+Feb 8, 2020
+#15,103
+Crimson Echo said:
+If one is trying to find asteroids without a signal to drop on in sol the most obvious option is the trojan asteroids in the sol/jupiter system. The location can be found by matching both range to sol and range to jupiter, and using the orbit lines to align one self into the ecliptic. (alternatively a distance to another body/bodies could be used to ensure one is properly located more precisely, but that is more involved than just lining up the orbital paths shown in the game visually.)
+
+LaGrange points are the obvious location to place a station etc that is trying to avoid detection due to the relative stability of the orbit, and the relatively minimal station keeping thrust required to stay on station/in place.
+
+I don’t think greek/trojan asteroids are implemented in ED. I searched for them at L4/L5 points of Jupiter, Saturn and Uranus. Nothing showed!
+Reactions:
+Six6VI and Machina Ergo Sum

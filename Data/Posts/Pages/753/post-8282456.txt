@@ -1,0 +1,12 @@
+Koben
+Feb 6, 2020
+#15,046
+Noobilite said:
+Wait, wait, wait, wait... This indicates that flying manually does reduce the fuel use and jump range from manual flying. Someone told me it still uses the origin system to determine jump range and there was no point flying out to the location. Which way does it work. If I fly to a system with lots of fuel can I jump for less total fuel to another system? If so I can go explore some stuff I wanted in a feulaconda like I originally wanted to.
+
+I've done this... built a jump Conda with 120t of fuel in the tank.
+The trick is to target the system (not plot route) in the galaxy map.
+You must use your left panel to follow the distance and make the jump for it to work.
+Last edited: Feb 6, 2020
+Reactions:
+3navis and Machina Ergo Sum

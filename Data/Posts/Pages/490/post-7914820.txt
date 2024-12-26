@@ -1,0 +1,77 @@
+Thatchinho
+Jul 25, 2019
+#9,784
+CMDR Maylor Rom said:
+I assume you want the link for the EDMC plugin for Canonn?
+
+Thargoid Data: We need your help | Canonn Research Group
+With reports that Thargoid interactions are spreading, we want to introduce some scientific rigor into the capture of the data, and for that we need your help.
+canonn.science
+Click to expand...
+Thanks. It was the Thargoid Data Gathering effort that I knew about so that helps.
+
+Coming back to your post...
+CMDR Maylor Rom said:
+Granted, but how does a plugin for EDMC which searches for the unknown location of Thagroids differ from looking for the unknown location of Raxxla. Both are unknown locations and no one has any information what-so-ever on the location of Thagroids, their home world or undiscovered bases. The Canonn plugin just sends you on searches for the suspected locations, based on nothing more than someone elses speculations. We know nothing more about the possible locations of Thagroid bases as we know about the possible location of Raxxla. In both cases, we are searching in the dark for both, but one we have a plugin for.
+Ok, so there's some gaps between what you're saying and what's been going on to the best of my knowledge. Those gaps could be stuff that I've missed so please provide any supplemental links if that's the case.
+
+Let’s start with the basics.
+
+Originally data was being entered manually into spreadsheets.
+
+What the plugin did was to automate the data capture and spreadsheet data entry.
+
+The plugin started out with USS info, which allows data on Thargoid related USSs to be gathered and collated.
+
+That’s in response to player actions - resolving USSs types.
+
+It was known that some USSs were Thargoid related and so those were specifically being looked for.
+
+It was then extended to hyperdictions - again, definite events happening to players.
+
+So there’s a key principle there - established events are being recorded, and the plugin automates it.
+
+In terms of the patrols, that’s not something I’ve had much involvement in, but as I understand it, the plugin references a spreadsheet of locations of interest and pushes nearby ones to players, including info on what should be looked for.
+
+Let’s come back to the Thargoid stuff.
+
+There’s lots of info on Thargoids. And lots of things that can be read and linked to Thargoids. We’ve already covered two.
+
+In terms of bases, there’s the Thargoid Structures in and around the Pleiades. Definite things which a plugin can capture the discovery of.
+
+Further on those:
+
+- There’s two types of site, Active and Inactive
+
+- Active sites have an accessible Thargoid Device, which when correctly activated allows the location of several more Thargoid structures to be worked out.
+
+- This results in a network of sites which link to each other. (The nature of it’s on this kind of form- Site A links to B, C, D. Site B links to E, F, G. ... Site M links to A, F, Y. etc. etc.)
+
+- In an inactive site, the Thargoid Device can’t be accessed. This results in a semi-broken node in the network. The inward links from other sites to that one exist, but the outward links from that site to others don’t exist.
+
+- Due to the broken nodes, there’s a possibility that a site exists where the links to it are broken because they’re all from inactive sites. This would mean that the site can’t be discovered by following the chain.
+
+- At one point at least a site of that nature had been found (though links to it may have later been found, I’d need to check and confirm).
+
+- The Thargoid Structures appear in systems with specific criteria.
+
+- So, a search can be defined.
+
+Search criteria:
+Within X ly of Merope
+System has Y types of bodies
+System doesn’t have a known Thargoid Structure
+AFAIK, that particular search has been concluded.
+
+However, as you can see, there’s a clear defined search which can be co-ordinated. We could just as easily do the same here in that situation.
+
+Is there something else you’re specifically aware of in terms of searching for Thargoid bases?
+
+Also the same question for a homeworld.
+
+The homeworld one’s a bit daft IMHO anyway. Loads of known Thargoid related areas are permit locked. They’re millions of years old as a galactic civilisation, and it’s very likely that ‘the homeworld’ is essentially meaningless now anyway. Looking for a homeworld seems to me to be more like an exercise in chasing deafult sci-fi cliches than a realistic search for something.
+
+Coming back to a very basic point in terms of searching, and the use of the plugin, the FSS scan will now give the numbers of Thargoid signals detected on/around a body. This can be reported by the plugin and the data collated and analysed. What would be the equivalent be for the search for Raxxla?
+Last edited: Jul 25, 2019
+Reactions:
+Han_Zen, Deleted member 52630, [Diplomacy] Carnegie and 1 other person

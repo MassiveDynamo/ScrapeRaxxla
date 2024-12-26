@@ -1,0 +1,21 @@
+Louis Calvert
+Oct 2, 2024
+#34,995
+Spidermustdie said:
+Also wasn't there an galnet article that referenced Omphalos Cartographics and then was altered to omit it? I promise I'm working to something here lol
+No. It was the early version of the Codex entry on Universal Cartographics that was changed to how it presently is at some point between April 18th 2019 and May 7th 2019 quietly and with no patch note announcement that I've ever found.
+
+This post made on April 18th 2019 says "Omphalos Infotech" (to clarify, this is the last dated mention of it still being Omphalos infotech, it's not the only mention of it)
+This post made on May 7 2019 reveals the change to "Unified Infotech"
+
+Doesn't appear to be mentioned in the May1st 2019 patch notes:
+https://forums.frontier.co.uk/threads/april-update-patch-1.510622/
+
+This was previous patch, December 11th 2018: https://forums.frontier.co.uk/threads/beyond-chapter-four-3-3-patch-notes.463020/ just to check too.
+
+The Codex was launched into the game on December 11th 2018, which means the Codex entry was changed approx 4 months after launch - as far as I can tell this is the first post-update patch, so maybe they had to wait that long). Note: there as a post a little later saying they noticed it 'just after the update', so it was stealthily done on May 1st (I mean, it must have been because there as no other patch, but this is some supporting confirmation).
+
+This also means that the audio for that entry was also changed!
+Last edited: Oct 2, 2024
+Reactions:
+Ataxia, Ian Doncaster, Rochester and 3 others

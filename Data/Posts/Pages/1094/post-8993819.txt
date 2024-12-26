@@ -1,0 +1,17 @@
+clavain
+Mar 10, 2021
+#21,874
+OK folks, prepare to be mesmerized, stunned, and/or lulled to sleep. To stave off space madness, I've been reading a lot and slowly getting caught up on various things.
+
+One of the things I came across was Cmdr Yelboc's website and his transcription of Astrophel and Stella (referenced in the Raxxla codex) in full (among other stuff on his website, worth checking out if you have not seen it before): https://vagabondsofraxxla.wordpress.com/astrophel-and-stella/
+
+This got me to thinking about clues "cunningly hidden" for those "with the eyes to see" line from the Codex for Raxxla. So I pulled out the first 20 lines with the word "eyes" or "eye" in the full text, and started looking for possible simple transpositions and the like. There are 85/85 such lines I believe, so this is roughly a 25% sample. If there is a pattern anywhere in the text, hopefully it would be visible or emerging somewhere here.
+
+Yup, look at me Mum, I'm sciencing! No spreadsheet though, just the transcript and the attached file, which hopefully is readable and maintained its formatting (pasting it as inline code here did not). Format in the file is what appears above/below "eye" or "eyes" in the line it appears, where an underscore represents a space. The columns after each line are the first and last letter of the line "eye" or "eyes" appeared in, the first and last letter of the following line, and the first and last letter of the preceding line, and if there is any punctuation in that spot I have put the preceding letter and the punctuation in square brackets (yeah I know there were likely better ways to present this, but this is how I started so this is what you got - live with it.) There are also all sorts of other simple transposition stuff you could do (first and last word of the preceding and following lines might have been a better choice, or the complete word or words above or below eye/s, but again this is what I have started with and if anyone else wants to build on that feel free, I might at some point).
+
+Anyways, just thought I would share the space madness. Onwards!
+Attachments
+raxxla eyes to see.txt
+2.6 KB · Views: 153
+Reactions:
+Macros Black, yelboc, Han_Zen and 2 others

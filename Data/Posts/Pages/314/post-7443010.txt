@@ -1,0 +1,7 @@
+Han_Zen
+Feb 26, 2019
+#6,274
+Eckee said:
+I thought all planets have “apoapsis” and “periapsis”, I think the in-game terms were different though.
+
+ED uses cocentric circular orbits, as an aproximation.

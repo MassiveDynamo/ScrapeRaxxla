@@ -1,0 +1,26 @@
+Jorki Rasalas
+Mar 12, 2022
+#25,638
+Adel said:
+I think i found something in ShinDez BUT i don't want to put too much hope on people.
+It's a strange thing: i posted ShinDez system bodyIDs some weeks ago, pointed that there were 12 comets in the system but as i only was looking for bodies, i didn't pay much attention to ... stations!
+
+SPOILER: LOOK AT THAT (SHINRARTA DEZHRA)
+
+
+Do you see what is missing? (look at BodyIDs)
+
+
+So i think now, as some people, that there is indeed something in Shinrarta Dezhra, and it should be located between the Star A and Founders World!
+The problem is that targeting ID68 just crashed the game, ID69 (Jameson Memorial too but we can Supercruise Exit to it).
+
+I looked for Sol too but there is no gap between BodyIDs, so either there is no hidden station in Sol or it should be after Titan City (BodyID:55)
+
+BodyID68 is:
+Click to expand...
+Yes, I see BodyID 68 is missing, and it is likely to be a station since Jameson Memorial is BodyID 69, but are you sure they are numbered consecutively? Because from the Start Menu pic I would have expect a hidden station to be at one of the twin moons of the AB planets.
+
+Why does targeting it cause a crash? Probably some logic to prevent exactly this way of finding it!
+But there must be another Way! ( darned Mandalorian!)
+Reactions:
+Adel

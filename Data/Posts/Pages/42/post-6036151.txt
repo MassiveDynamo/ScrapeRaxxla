@@ -1,0 +1,34 @@
+clavain
+Oct 15, 2017
+#834
+OK, so here is the full scoop on the possible rogue planets from the Wikipedia link posted earlier.
+
+tl;dr
+the only two that seem to be in-game from that list are WISE 0855-0714 (discussed above) and UGPS 0722-05 (which has no system info available as I have not visited it, yet.) It is possible that some of the others are on the Galmap under an abbreviated identifier format, but I tried as many as I could, and some do not even appear in Simbad as far as I can tell, although someone with more Simbad-fu than I may want to confirm those ones.
+
+Here is the long version of my search results for anyone who might want to follow up on them:
+
+"NOT FOUND" below means not found under any of its Simbad identifiers on the Galmap, including some speculative shorter formats I tried out based on existing survey identifiers in Galmap (i.e. SDSS J1110+0116 for SDSS J111010.01+011613.1)
+
+
+OTS 44 - NOT FOUND
+S ORI 52 - NOT FOUND (cannot actually find S ORI 52 in Simbad at all, only other identifier found online was S Ori J0540092-022632 which also is not in Simbad or on the Galmap. S Ori cluster does not appear to be in their database and may be being cataloged as [BZR2011] not S Ori)
+Cha J110913-773444 - NOT FOUND
+UGPS J072227.51-054031.2 - UGPS 0722-05 on Galmap. System information not available.
+[MPK2010b] 4450 - NOT FOUND
+CFBDSIR 2149-0403 - NOT FOUND (in Simbad under full designation CFBDSIR J214947.2-040308.9)
+MOA-2011-BLG-262 - NOT FOUND (in Simbad as MOA 2011-BLG-262, without the first hyphen)
+PSO J318.5-22 - NOT FOUND (not found in Simbad also: PSO is a survey identifier in Simbad but no database entries for it yet apparently)
+2MASS J2208+2921 - NOT FOUND (not found in Simbad also, should have longer formal designation)
+WISE J1741-4642 - NOT FOUND (not found in Simbad also, should have longer formal designation)
+WISE 0855−0714 - on Galmap as that designation, but dwarf system with three planets (not a rogue planet)
+2MASS J12074836–3900043 - NOT FOUND
+SIMP J2154–1055 - NOT FOUND (not found in Simbad either, even under formal designation SIMP J21543454-1055308)
+SDSS J111010.01+011613.1 - NOT FOUND
+2MASS J1119–1137 - NOT FOUND (in Simbad as TWA 42)
+WISEA 1147 - NOT FOUND (in Simbad as 2MASS J11472421-2040204 )
+
+Edit: I'm off to UGPS 0722-05 to check it out.
+Last edited: Oct 15, 2017
+Reactions:
+LemingIrski, Scytale and Thatchinho

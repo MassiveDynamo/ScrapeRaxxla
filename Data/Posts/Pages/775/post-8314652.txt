@@ -1,0 +1,12 @@
+Jorki Rasalas
+Feb 28, 2020
+#15,489
+Thatchinho said:
+As @Han_Zen says, he highlighted it a while back in this thread. I then went, checked and confirmed the phenomena. So first step of independent confirmation is done and it’s not a hardware specific/individual setup specific thing.
+
+What we really need now is an avenue for checking the bug possibility, without having to go through the risks of actually raising it as an issue!
+
+Mmm? Why would raising a bug report on it form a risk?
+Puzzled of Mu Leonis
+Reactions:
+[PS4] Filthymick420 and Machina Ergo Sum

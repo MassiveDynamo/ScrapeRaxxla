@@ -1,0 +1,19 @@
+Ian Doncaster
+Sep 22, 2024
+#34,916
+Picking a rough 50LY radius from Thetis, systems with 5 or fewer bodies (planets or moons), at least one body ringed:
+Beta Pictoris *
+9 G. Carinae *, +
+LTT 2513
+BPM 72493 *, +
+LAWD 27
+Niu Bese
+StKM 1-442 *
+Pichanto
+Dyindumasci
+Hakkaia
+
+*: still has five or fewer bodies if stars are also counted
++: two or fewer bodies, counting planets and moons only (though in 9 G. Carinae the rings are around a Y-dwarf star)
+Reactions:
+Macros Black and Rochester

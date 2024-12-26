@@ -1,0 +1,46 @@
+CMDRCorrMorningstarFelian
+Apr 8, 2021
+#22,785
+The interesting this about this about this is almost inevitably you will end up in a region circling Ursa Major... also it is four points probably and not six.
+
+The two best possibilities for the "jewel on the mother of all galaxies" based on shear obviousness and brightness are Sirius and Arcturus (two of the single most bright stars in the sky). They are also visible in the stream of stars representing the Milky Way Galaxy.
+
+As far as the next key phrase "the whisperer in witch-space, the siren of the deepest void" the next candidate is the Canes Venatici's Giant Void (the largest of the confirmed voids in the known Universe). See https://en.wikipedia.org/wiki/Canes_Venatici . This seems to be both a reference to the danger/excitement of exploration and a very certain region of the sky. If I was guessing, I'd try Cor Caroli (yes it is the brightest star in Canes Venatici - https://en.wikipedia.org/wiki/Cor_Caroli) next (by the way it's part of the Great Diamond asterism - https://en.wikipedia.org/wiki/Great_Diamond - in the North celestial sphere that Arcturus is part of).
+
+Then we have "The parent's grief, the lover's woe, and the yearning of our vagabond hearts". This has two major interpretations but only one refers to a single collection of stars:
+
+1) Reference to the Trojan War more broadly but specifically to Thetis and Achilles (her son). It goes pretty deep there are prophecies about both. Thetis sacrificed multiple children in efforts to make on of them immortal out of fear of these prophecies. Finally, she commissioned the shield of Achilles that highlights the constellations in the immediate region surrounding Ursa Major (allegorical only).
+2) Demeter / Persephone / Virgo Constellation (Virgo actually has represented both). Demeter lost her daughter to Hades and caused a crop failure due to her sadness. Persephone and Hades (her husband) can only see each other for 6 months or so a year (myth of the Seasons). Vagabond hearts is the connection to the fact it is story of love and loss and death and life. Start at Spica (the next part of the Great Diamond).
+
+Which considering the hits on the Great Diamond you may want to consider going to Denebola (yes, all are in game). Also, check Regulus as it is also occassionally considered as part of the Great Diamond.
+
+If this actually works (it might given it fits pretty well), please kindly credit me as I am hunting down the Achilles / Thetis connection.
+
+P.S. All the constellations referenced are singled out in the Elite Dangerous OST (original sound track).
+Han_Zen said:
+It's always fun to interpret the hints in the codex and other places, but what are we looking for?
+
+I'm not talking about Raxxla being a planet, a ship or a hole in space. I'm talking about what FD are trying to tell us with the hints.
+The codex says: "The earliest documented stories tend to agree on several points, however: that Raxxla is a
+definite place, and that it holds a mystical secret."
+
+A definite place requires coordinates. Nothing else. Coordinates can be many things though. Regular ED coordinates have a starting point (Sol), a plane (Galactic) and X,Y,Z in ly. That is quite a lot of info to put into mystical hints. It can however be done relatively simple, without using know staring positions, assumed planes and specific units of measurement.
+
+The TDW toast is a possible example:
+
+Starting position: the jewel that burns on the brow of the mother of galaxies
+An axis (direction): (from) the whisperer in witch-space, (to) the siren of the deepest void. - Ideally this axis goes through the starting point, but it's not required. Parallel works.
+A plane that the axis penetrates: (a triangle formed by)The parent's grief, the lover's woe, and the yearning of our vagabond hearts.
+
+If we could decode all the six bits to systems, we would have an exact point in space.
+
+This is just an example of the amount of information needed and how a hint could be structured. Keep looking.
+Click to expand...
+Attachments
+TheGreatDiamond.png
+24.2 KB · Views: 93
+EliteDangerousOST_ConstellationReferences.png
+60.6 KB · Views: 113
+Last edited: Apr 9, 2021
+Reactions:
+TrillClinton and clavain

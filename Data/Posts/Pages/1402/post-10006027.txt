@@ -1,0 +1,19 @@
+SongOfTheVoid
+Nov 25, 2022
+#28,036
+Sublime said:
+Okay, did I say I’ve made any modifications to the files? No, I didn’t, and I haven’t. All I said was that it’s not against the rules to change config files. There are numerous threads published out there providing assistance with how to do it.
+
+Looking at log files and modifying configuration files is not “inserting values into memory” the way you’re implying. You’re not editing the memory space. It’s not data mining.
+
+Go ahead and call them. Drive over to the office and speak to them in person even.
+
+Have a nice day.
+
+Edit:
+Also, your threatening reply to me is quite bordering on harassment.
+Click to expand...
+Get a grip on reality theres no threat at all when someone points out wrong doing hiding behind "But ima pretend to be a victim" doesnt fly, Carry on throwing coal onto it though I dont really care about anything other than facts which from my perspective are simply:
+People have put forth information that promotes behaviour that allows the person to extract information from the game not meant to be accessible by abusing the unsanitised nature of the input parameters in the loaded file, which I KNOW to be a bug as Inputs are supposed to be sanitised...
+People promoting such behaviour should have it corrected when stated by them, there is a difference between accidental misunderstandings of a innocent nature and people doing things knowing what they are doing is abusing a bug and therefore, with intent, are exploiting additional data from the game.
+Phoning Fdev lets me get clarification directly from them to the situation, the ability to report the unsanitised input bug exploitation going on and request that they put a little reminder out reminding people politely of what is allowed and not allowed modifications and various datamining-is-forbidden reminders.

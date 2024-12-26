@@ -1,0 +1,19 @@
+Ian Doncaster
+Oct 17, 2024
+#35,079
+The original Dark Wheel description - combined with the Codex description - also does include a bit more ambiguity.
+Different - but associated - things can have the same name: is "Colonia" a nebula, a star system, or an inhabited region. Of course, it's all three.
+So in the original Dark Wheel ... is Raxxla the planet, or the alien gateway there? The Codex certainly blurs the two concepts a bit.
+
+
+In game terms:
+- we started the game not able to land on planets, so either Raxxla is a planet and discovering it a simple matter of "find the planet called Raxxla", or the object we're looking for is actually orbiting the planet, and we'll know the planet is Raxxla because it has an alien gateway orbiting it, rather than because it shows up as "Raxxla" on the navigation panel.
+- that gets back to "if it's a planet and near the bubble, why has no-one already found it?". Planets aren't exactly difficult to find; in/near-bubble space has been thoroughly scanned by conventional means
+
+
+Possibilities if it is a planet:
+- it's not all that near the bubble. My recent tour I was finding unscanned planets 600 LY out and entirely fresh systems 1000 LY out, which is still pretty close
+- it's a hidden planet, so it won't show up on FSS or the old ADS; it's a long way out of the system and you have to pick it up with parallax (like the old BDS/IDS would have trained us to)
+- it's in a hidden star system, so you'd first have to find that by noticing a suspicious extra star on the skybox from a nearby system, then figure out a way to get there.
+Reactions:
+Korlod and Han_Zen

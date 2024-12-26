@@ -1,0 +1,25 @@
+Ian Doncaster
+Jan 20, 2024
+#33,053
+Ian Doncaster said:
+The idea of trying to jump through its coordinates might be the right one.
+Well, I had a go at this, with a slight refinement:
+- I'm trying to get to a coordinate in interstellar space
+- In the previous Elite games, the only way to get to non-system space was a misjump
+- In Elite 1, a misjump would put you half way between start and destination systems, and could be deliberately triggered by holding max pitch up when entering hyperspace
+
+So, I narrowed down the list of jumps which go (almost) through the boxel corner to those where source and destination systems are (almost) equidistant, and the total jump distance is within the ~40 LY available in 1.0.
+
+Then I tried the best six, with various ways of holding maximum pitch while the jump completed (supercruise, normal space, FA-off or on, etc).
+Juenae VC-E c1-218 / Stuemeae UY-S b3-174 (26.52)
+Juenae ZI-C c2-404 / Stuemeae GG-Y c6966 (31.45)
+Juenae VT-J a8-16 / Stuemeae GG-Y c4450 (23.94)
+Stuemeae TY-S b3-40 / BC-B d1-2221 (36.10)
+Stuemeae JM-W c1-8730 / Juenae WC-E c1-2744 (19.54)
+Juenae TY-J a8-26 / Stuemeae GG-Y c5668 (11.45)
+
+Naturally (or I'd have led with that bit), nothing unusual happened at all.
+
+Still, it seemed worth a try. Might give a few of the other less-good pairings a go while I'm out here.
+Reactions:
+Quaero and Louis Calvert

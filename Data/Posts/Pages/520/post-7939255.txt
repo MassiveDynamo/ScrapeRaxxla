@@ -1,0 +1,674 @@
+bluecrash
+Aug 9, 2019
+#10,389
+Jorki Rasalas said:
+Oh, alright then, if we’re being picky,
+“There are only four books that mention Raxxla and ...”
+
+
+SPOILER
+
+Edit: but from what I remember none of the latter three discuss any potential details or location of Raxxla, where the first one did.....
+Click to expand...
+
+
+All 75 mentions of the word Raxxla, from lore, books, galnet:
+
+• Beacon: Children of Raxxla Staging Post [Eafots BP-I D9-35]
+In mid-3302 the Children of Raxxla set up an outpost near the Heart and Soul Nebula in order to support investigations into a mysterious area of space known as the 'Formidine Rift'.
+
+--------------------
+• Beacon: Commander Salomé Hijacked In Cemiess [Cemiess]
+On August 23rd 3302 articles published by the Imperial Citizen may have inspired an act of violence in the Cemiess system over the weekend. Commander Nodus Cursorius of the Chapterhouse of Inquisition reported a transmission from Commander Salome' of the Children of Raxxla, indicating that her ship had been attacked by unknown forces.
+The Imperial Citizen had suggested that Commander Salome' is in fact Senator Kahina Tijani Loren of the Prism system. The publication also implied that she had engineered the events that led to her family's death in order to position herself as heiress of the Loren family dynasty.
+
+--------------------
+• Beacon: Patreus' Flagship Attacked [Eotienses]
+On November 4th 3302 eyewitness reports from the Eotienses system indicate that an attack has taken place on Admiral Denton Patreus' flaship, the INV Imperial Freedom. The Majestic-class Interdictor was heavily damaged in the altercation and was ignominiously forced to withdraw from the field of combat.
+an organisation known as the Children of Raxxla claimed responsibility for the attack. In a statement, the organisation said it had been "backed into a corner" after diplomatic entreaties regarding Kahina Loren - whom it referred to as Salomé - had gone unanswered.
+
+--------------------
+• GalNet: 3302 08 23 - Freelance Report: Commander Salomé Hijacked in Cemiess [https://community.elitedangerous.com/galnet/23-AUG-3302]
+Recent articles published by the Imperial Citizen may have inspired an act of violence in the Cemiess system over the weekend. Commander Nodus Cursorius of the Chapterhouse of Inquisition reported a transmission from Commander Salomé of the Children of Raxxla, indicating that her ship had been attacked by unknown forces.
+
+A transcript of Commander Salomé's distress call follows:
+
+"Heavy fire...mayday! Imperial markings! Traitors... Shields are down, we're taking damage...it's... I thought I sensed his arrogance! How dare... We're being boarded. I only have moments. Please get word to the Children of Raxxla, tell them I have new information. The Rift, Hawkin's Gap and the Conflux are connected with strange happenings in the Pleiades. They must find out before..."
+
+At that point Commander Salomé's transmission was silenced. Despite a thorough search, no sign of her has yet been found.
+
+The Imperial Citizen had suggested that Commander Salomé is in fact Senator Kahina Tijani Loren of the Prism system. The publication also implied that she had engineered the events that led to her family's death in order to position herself as heiress of the Loren family dynasty.
+
+Jaiotu
+
+--------------------
+• GalNet: 3302 09 19 - Galactic News: Kahina Loren Implicated in Patreus Assassination Attempt [https://community.elitedangerous.com/galnet/19-SEP-3302]
+Sources close to the Imperial Senate have released a statement indicating that Lady Kahina Tijani Loren, erstwhile senator of the Prism system, has been charged in connection with the attempted assassination of Admiral Denton Patreus.
+
+Prior to this development, Lady Kahina had not been heard from since mid 3301. Details of her recent activities are shrouded in mystery, although under the alias Commander Salomé she has been linked to various revolutionary organisations, including the Children of Raxxla, the Phoenix Group, the Dark Wheel and now Emperor's Dawn.
+
+After Lady Kahina went missing in the Cemiess system last month, the Children of Raxxla attempted to destabilise the system's economy to force system authorities to reveal her whereabouts.
+
+"Her intentions are clear," said a reporter for The Imperial Citizen. "She hates Patreus for his takeover of the Prism system - which I might point out was entirely legal - and harbours ridiculous delusions of becoming Emperor. She's been sowing seeds of discontent everywhere she goes. As we reported last month, she is dangerously unstable and an irresponsible warmonger. Now that she's been caught, she should be dealt with harshly. The same applies to the factions loyal to her."
+
+Princess Aisling Duval also addressed the arrest, saying: "I was always suspicious about her. Now her true colours have been revealed. I hope she receives a just punishment for her atrocious crimes. I wouldn't be surprised to discover she was behind the instability of the past year. My thanks go to our loyal Imperial security services for their diligence."
+
+Lady Kahina has reportedly been moved to the Achenar system to await trial.
+
+--------------------
+• GalNet: 3302 11 04 - Galactic News: Patreus's Flagship Attacked [https://community.elitedangerous.com/galnet/04-NOV-3302]
+Eyewitness reports from the Eotienses system indicate that an attack has taken place on Admiral Denton Patreus' flagship, the INV Imperial Freedom. The Majestic-class Interdictor was heavily damaged in the altercation and was ignominiously forced to withdraw from the field of combat.
+
+An organisation known as the Children of Raxxla has claimed responsibility for the attack. In a statement, the organisation said it had been '"backed into a corner" after diplomatic entreaties regarding Kahina Loren - whom it referred to as Salomé - had gone unanswered.
+
+The attack appears to have been a response to the 'guilty' verdict passed on Loren last week, and based on the assumption that she was aboard the INV Imperial Freedom. Vessels bearing Children of Raxxla markings were witnessed intercepting escape pods ejected from the beleaguered Interdictor.
+
+The Children of Raxxla spokesperson said the group "harboured no ill will towards Patreus", and that "the guilty parties continue to lurk in the shadows".
+
+Imperial security forces have condemned the attack, saying:
+
+"This group has shown its true colours. Kahina Loren was known for inciting violence, and these terrorists are clearly intent on continuing her legacy."
+
+The damage to the INV Imperial Freedom represents a blow to Admiral Patreus' ambitions to strengthen the Imperial fleet, exposing these battleships' vulnerability to attacks from well-organised independent forces.
+
+--------------------
+• GalNet: 3302 11 17 - Community Goal: Competing Appeals for Exploration Data [https://community.elitedangerous.com/galnet/17-NOV-3302]
+The Federal astrocartography department has issued a public request for exploration data. Mark Devene, head of the department, elaborated on the nature of the appeal:
+
+"We are looking for data from three specific zones in order to verify certain hypotheses. We want high-quality information on system configurations, planet types, spectral classes and compositions."
+
+"We are looking at the following coordinates: PLAA AEC IZ-N C20-1, PRU AESCS DL-W C15-37 and EAFOTS EU-R C4-1. Explorers might be more familiar with the colloquial names for these areas - Hawkin's Gap, the Conflux and the Formidine Rift. Pilots should travel to one of these locations and investigate out to a radius of 200 light years."
+
+The Tau Ceti Crimson Legal Solutions has volunteered to coordinate the Federal operation. Meanwhile, mysterious organisation The Children of Raxxla has issued an identical request, claiming the data will be used to prove the innocence of the group's leader, Kahina Loren.
+
+Both campaigns begin on the 17th of November 3302 and will run for two weeks.
+
+--------------------
+• GalNet: 3302 12 01 - Galactic News: Exploration Data Appeals Conclude [https://community.elitedangerous.com/galnet/01-DEC-3302]
+A spokesperson for The Children of Raxxla has announced that its appeal for exploration data has received the enthusiastic support of the galactic community, which delivered large quantities of astronomical data to Sereborv Terminal over the past two weeks. A competing initiative from the Federation proved less popular with the galactic community.
+
+In a brief statement, the spokesperson thanked those who had contributed to the initiative, and continued to say:
+
+"We know there are secrets buried in this data. We only hope we can unlock them in time."
+
+Pilots who contributed to the initiative are now free to collect their rewards from Sereborv Terminal in the HR 6421 system.
+
+--------------------
+• GalNet: 3302 12 23 - Galactic News: Federal Exploration Programme in Disarray [https://community.elitedangerous.com/galnet/23-DEC-3302]
+Last month, the Federation launched an appeal for exploration data from a number of remote locations. A competitive appeal was simultaneously launched by a mysterious group known as the Children of Raxxla, which succeeded in completely derailing the Federal initiative. Karl Devene, head of Astrocartography at Mars High, was forced to resign as a result.
+
+Federal exploration projects are currently on hold as a result of the failed initiative, and Devene's successor has not been announced. Meanwhile, the Children of Raxxla has yet to reveal any findings from the data it received, leading some to speculate that the organisation never intended to.
+
+"I believe it was a cynical attempt to sabotage Federal research," said a spokesperson for Mars High Astrocartography. "It was never about exonerating Salomé - they just used her plight to gain the data at the expense of the Federation. Unfortunately, the galactic community proved itself easily manipulated."
+
+Other commentators have concurred with the analysis. Jackson Trent, associate editor of The Imperial Citizen, said:
+
+"I don't understand the allure of Raxxla. They attacked Patreus's flagship and have proved themselves to be criminals of the worst kind. Patreus dealt with Emperor's Dawn - perhaps it's time for him to deal with the Children of Raxxla."
+
+Salomé, known in Imperial circles as Kahina Loren, was killed when the convoy transporting her to Koontz Asylum was interdicted and destroyed. She had been convicted of the attempted assassination of Denton Patreus.
+
+Meanwhile, independent pilots returning from the expedition have reported a series of curious beacons in deep space, but few details have surfaced.
+
+--------------------
+• GalNet: 3303 02 03 - Galactic News: Children of Raxxla Release Report [https://community.elitedangerous.com/galnet/03-FEB-3303]
+The Children of Raxxla, based in the HR 6421 system, have released an analysis of the exploration data recovered by the galactic community in November last year.
+
+A spokesperson for the organisation said:
+
+"There was a vast amount of data to sift through, but our analysis led to some notable discoveries in the Formidine Rift, the Conflux and Hawkin's Gap. There are indications that some kind of covert mission took place in these regions back in the 3270s. So far we have found shipwrecks, beacons and abandoned settlements dating from that time, and logs and records relating to this strange mission."
+
+"It appears that a fleet was despatched, over 30 years ago, to install a series of beacons in the region. None of the ships returned to their point of origin. It seems that this mission was called 'the Dynasty Project'. The purpose of the mission isn't yet clear, but it was evidently a massive undertaking, particular given the technological limitations of the time - it would have taken a year to complete that journey 30 years ago."
+
+The spokesperson was asked if the data supported the organisation's belief that Kahina Loren was innocent of the attempted assassination of Admiral Denton Patreus.
+
+"Unfortunately there is nothing in the data that throws new light on Salomé's demise. But before she was arrested, she indicated that these three sectors were significant. We now believe that that is why she was killed."
+
+--------------------
+• GalNet: 3303 04 16 - Galactic News: Curious Message Discovered [https://community.elitedangerous.com/galnet/16-APR-3303]
+A group of EM-transmission technology enthusiasts in the Tionisla system claims to have found a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla.
+
+A spokesperson for the group, which calls itself The Hamsters, said:
+
+"It was inside one of the beacon modulator wave harmonics, and it seems to be some sort of rhyme. We've studied it but have come up with nothing, so we thought we'd share it with the galactic community."
+
+The message is reprinted in full below.
+
+The river to the underworld
+
+Gaia's daughter all unfurled
+
+Fourth minor bear in vain
+
+By viper's sting was slain
+
+Also known as Nemesis
+
+The doom of Chimera
+
+She is tasked with soothing pain
+
+Suckling Odysseus from afar
+
+Mother of the mother of
+
+Leader of the Titans
+
+He transformed into a hawk
+
+A daughter of Daedalion's
+
+The piercer was how he was known
+
+Mother of Ulysses
+
+Ruler of the winds
+
+God of night, primordial flees
+
+Zeus' namesake now lies in Sol
+
+Achilles' favoured horse
+
+Women of vengeance infernal
+
+The vain queen rides not forth
+
+A final word, a course to follow, a poor miser's sum
+
+If you would understand it all, seek Fibonacci's Zephyrum
+
+--------------------
+• GalNet: 3303 04 26 - Freelance Report: Formidine Rift Discovery [https://community.elitedangerous.com/galnet/26-APR-3303]
+A few days ago, a curious message was discovered by the Hamsters, a group of EM-transmission enthusiasts in the Tionisla system. A short time later, a combined effort from the Children of Raxxla and several other groups decoded the message and discovered it pointed to the Syreadiae JX-F c0 system in the so-called Formidine Rift.
+
+Travelling to the system, pilots discovered a bulk cruiser called the Zurara. The ship's logs painted a haunting picture, indicating that the ship's crew sabotaged the vessel before killing themselves. The Zurara had been adrift in the system ever since.
+
+ABish
+
+--------------------
+• System: 17 Draconis
+The Order are a secret society obsessed with seeking out the mystery of Raxxla. They are violently dedicated to eradicating all alien life from the Milky Way to ensure human safety, hindering all progress into alien research other than our own, and seeking out all secrets in the universe. They are known to operate through infiltration and deceit to gather intelligence for our own gain.
+
+--------------------
+• System: Bango
+Septum Industries is a corporation established by a group of wealthy traders, miners and explorers. The corporation is very loyal to the Federation but has been known to deal with the Children of Raxxla and other pirate and anti-Federation groups.
+
+--------------------
+• System: HR 6421
+This is the home system of the Children of Raxxla - they are the self-proclaimed descendants of the inhabitants of Raxxla, a mythical planet spoken of only in whispers and in children's bedtime stories. The Children of Raxxla are truth seekers attempting to solve the mysteries of the universe and find their long-lost home.
+
+--------------------
+• System: Kraurno
+Raxxla Research is dedicated to exploring the unknown. All secrets and mysteries can and will be unlocked.
+
+--------------------
+• System: SEAGULL SECTOR DL-Y D3
+Black Rock Military is an independent faction based in the Seagull Nebula. The organisation provides military and exploratory services and operates out of Hell's Port. It is also rumoured that Black Rock has ties to the Children of Raxxla, often providing them with support for deep space black-ops missions.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+She hasn't contacted us. She promised she would. Something must have gone wrong ...
+
+Erimus led a faction known as the Children of Raxxla. They had a chequered history, born due to a heady mix of dissatisfaction with the politics of the core worlds and a desire to uncover the mysteries of the cosmos they had reason to suspect had been concealed by those in authority. They were an eclectic mix of explorers, entrepreneurs and disaffected combat-hardened veterans.
+
+Beside him stood a woman, with short-cropped dark hair and a vaguely Asian look about her. Alessia Verdi acted as the spokesperson for the group, heading up their communications division. Her expression was taut too, with lines of worry etched on her face.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Alessia nodded. 'I will scan her route and then return as soon as I can.'
+
+Their leader was the ex-Senator of the Prism system - Lady Kahina Tijani Loren, known to the Children of Raxxla as Salomé. It was she who had issued their proclamation.
+
+I can recall her words, still ringing in my ears ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Fight for freedom, fight for peace and fight for a stable and prosperous future for your children, and your children's children.
+
+'Join us. Become a child of Raxxla.'
+
+And they had come ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Hundreds upon hundreds of commanders had joined the cause. Some joined because they believed, others because they wanted to make a gesture to the authorities, others just for the exploration quests that the Children had made the heart of their missions.
+
+The Children of Raxxla had taken part in the expedition to Beagle Point, that far-flung system across the galaxy, diametrically opposite to Sol, seeking clues about the myths and legends that filtered back from the darkness. Salomé herself was investigating something; she had undertaken her own quests and asked for assistance on numerous occasions. The Children had always come to her aid.
+
+But now ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Salomé accessed the comm system, rapidly typing out a message.
+
+Erimus, advise the Children of Raxxla to expand their expedition to the Formidine Rift. Whatever lies there, we must be close to discovering it. It is vital that we find out what it is. I'm sorry I can't meet with you in person ...
+
+She gestured for the first line of the text to be sent, but the comm system buzzed angrily in return.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+The transmission crackled again. The woman's tones were calmer now, measured, but still laced with fear.
+
+'Commander Lyrae. We're ... boarded. I only ... moments. Please get ... the Children of Raxxla ... Commander Erimus ... tell them I have uncovered ... The Rift ... Hawking's Gap ... Conflux are somehow ... strange happenings in the Pleiades ... they must find out before ...'
+
+There was a rapid burst of noise, shouts and scuffles, then the comms went silent, other than the faint background hiss of distant stars. As she watched, the now vacant holofac was filled with a news article from the Imperial Citizen. Lyrae listened in bewilderment and increasing anger as the article played out.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Who are they and what the hell do they want?'
+
+'Their idents show them to belong to a faction called the Children of Raxxla, sir,' the operative said, shaking his head in bewilderment. 'They claim we're holding somebody and demand her release.'
+
+'Who?'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'They will not get what they want,' Salomé returned, 'I have taken steps to ensure that.'
+
+'Your dalliance as the patron saint of explorers?' Gerrun answered. 'The Children of Raxxla? They are busy making fools of themselves here in Cemiess as we speak, pawns in the game and unaware they are being played. Those we serve have means, subtle and otherwise, to extract what they wish from you.'
+
+'Then let Hassan go, at least,' Salomé said. 'He was merely my pilot. He is innocent of this intrigue and has done nothing to harm you!'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Cuthrick saw Corrigendum purse his lips.
+
+'You mean the Children of Raxxla blockading and assaulting ships in Cemiess? Ill-advised, I'll warrant, but somewhat understandable given the circumstances. I've done my best to discourage them from doing anything similar again.'
+
+'Patience wears thin,' Cuthrick replied. 'But precipitate action oft goes awry.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Gerrun sighed. 'Would you care to clarify and supply some background detail?'
+
+'Salomé is the name of an itinerant spacecraft commander,' the agent replied. 'She first came to our attention in mid-3300. She has been involved in several obscure missions across the galaxy and was confirmed to have been present in the Distant Worlds Expedition earlier this year. She has been linked with several disaffected minor factions, including the Children of Raxxla, the Phoenix Group, the Dark Wheel and now, the Emperor's Dawn.'
+
+'Is there a point to this?' the judge interjected.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Lestenio was shorter and stockier, with a heavier build. He simply nodded without saying anything. He wore a long grey coat zipped at the front, it ran almost down to the floor. His hands concealed in deep pockets.
+
+'Ah, the Children of Raxxla.' The spiky-haired woman began. 'How sweet. I trust your trip was safe, Commanders?'
+
+'Safe as it can be in this day and age,' replied Thorn.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Gerrun's voice broke the flow of the recording and it stopped, the figures motionless on the holofac display.
+
+'As we can see, Commander Salomé, our Lady Kahina herself, is present with individuals who claim to represent the Children of Raxxla, the Phoenix Group and this mysterious Dark Wheel. All factions known to be associated with low-level criminal activity.'
+
+'Go on,' the judge said.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Commander Shabooka cast his mind back over the last few months.
+
+He had met Kahina once, or rather Commander Salomé as she had called herself then, on the far side of the galaxy on one of the desolate worlds of Beagle Point. He'd taken part in the famous Distant Worlds Expedition which had charted a course to the far side of the galaxy. She, and members of her adoring troupe of zealous followers, the Children of Raxxla, had dramatically overflown the landing point. He remembered what she had announced at the time.
+
+We are searching the void for the mystery of Raxxla, the secrets of the Rift and whatever else we might find ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+He had met Kahina once, or rather Commander Salomé as she had called herself then, on the far side of the galaxy on one of the desolate worlds of Beagle Point. He'd taken part in the famous Distant Worlds Expedition which had charted a course to the far side of the galaxy. She, and members of her adoring troupe of zealous followers, the Children of Raxxla, had dramatically overflown the landing point. He remembered what she had announced at the time.
+
+We are searching the void for the mystery of Raxxla, the secrets of the Rift and whatever else we might find ...
+
+All is not well in the core worlds. Thus, I must soon return. But keep that exploration data safe ... it is far more important than you know ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Commander?'
+
+'This travesty has just hit the wideband newsfeeds,' Corrigendum reported. 'I've already been told the Children of Raxxla, amongst other groups, are up in arms. No telling what they will do. They're apoplectic.'
+
+'Warn them any action they take may play directly into the hands of those who are holding her,' Cuthrick instructed.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+A dark-hued Cutter, flanked by two Anacondas, unleashed a devastating barrage at them, the shields before the bridge flickered and flashed as they struggled to repel the assault.
+
+'Ship markings indicate they are from a faction called ... er ... the Children of Raxxla, sir.'
+
+The captain was none the wiser, he'd never heard of them.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+But they snatched her out of our hands, this travesty of a trial ...
+
+They'd given Patreus a bloody nose in the Eotiensis system over the affair, in the hope that Salomé might be rescued. But there was no sign. She hadn't been aboard Patreus' flagship after all. She was gone and her secrets were lost with her. Forcing the flagship to retreat had given some of the more vociferous and impatient types in his faction something to do, but Erimus had a nagging doubt that the event was being stage managed elsewhere and that the Children of Raxxla had inadvertently played into the hands of whoever it was that was determining the course of events.
+
+Everything we do is making this go south. And we've searched, long and hard. We're still no closer to solving this mystery ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Whilst we were busy agonising over Salomé, they've been prepping for a mission into deep space!
+
+Taking a breath he hit the intercom. The answer was immediate. Zenith Ddraiglas was one of his closest associates, a member of the trusted inner circle of the Children of Raxxla.
+
+'Sir?'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+I guess this is when we find out whether those words she spoke were true.
+
+He cast his mind back to the founding moments of the Children of Raxxla, ironically a piece of 'evidence' that had been used against Salomé in the trial.
+
+'She can engender loyalty and adulation ... '
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'So I take it you're not planning on running support for this ... what are they called?'
+
+'Children of Raxxla.'
+
+'Yeah, them.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'And a pretty girl, my friend,' Drew said, pointing a finger at Felix, 'as you know from bitter experience, is a very bad reason to be getting involved in anything.'
+
+Felix laughed again. 'I'm guessing most of their support is because she's sassy. If she were as ugly as sin and as old as Raxxla we probably wouldn't be having this conversation.'
+
+'Did you see her face off with Aisling on the holofac?' Drew asked. 'That was the only time I actually agreed with her. She has a line in invective, I'll give her that.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Did you see her face off with Aisling on the holofac?' Drew asked. 'That was the only time I actually agreed with her. She has a line in invective, I'll give her that.'
+
+'True enough. Time to make up our minds though, my friend. Ships are already en route to Mars and those Raxxla nutters' outpost. Folks are taking sides. They'll be getting underway soon.'
+
+'My choice is between supporting a spoiled brat of an Imperial ex-senator who abdicated her responsibilities to go vacationing off into the void, or supporting a bunch of arrogant Federation flux-stains ...'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+From across the chart, factions aligned with the Empire had responded to the invitation. The HR 6421 system was buzzing with ships. Comm lines were running at capacity.
+
+Jellicoe and Alessia stood with him, organising the arrivals and the communication backlog. Everything was set. Everyone was here. Alessia had been on the go for more than two days in her role as spokesperson for the Children of Raxxla. Erimus knew she must be exhausted, but no trace of it showed on her features. He was lucky to have Alessia Verdi on his staff.
+
+Representatives of those factions awaited him below. He'd heard of all of them. Some he knew. A few he could trust.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Commander Isaiah Evanson, the representative of Loren's Legion and sent by the revered Commander Corrigendum himself, was perhaps the closest ally. The Legion didn't always approve of the Children's actions, but offered support when they felt it was in Salomé's and Prism's interest - though Isaiah always referred to her as Lady Kahina in reverent tones.
+
+Alex Ringess of the League of Star's Pilots was another trusted friend, bringing huge exploration experience. The LOSP were perhaps one of the oldest and longest serving allies of the Children of Raxxla, having worked with them for years.
+
+The others were a mixed bag.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Spare us the self-promotion,' replied a rough looking man from the other side of the conference room. Erimus looked across at Commander Asamith. He'd come representing the Da Vinci Corp. His body language did not look encouraging. His arms were folded and he was leaning back, disconnected from the conversation. 'We all have concerns over the state of the Empire and have had so for a long time.'
+
+'I am more concerned over how the Federation will respond to this competitive stance,' interrupted another man standing to Asamith's left. He was younger, an explorer with an outfit called the Rock Rats, one of the smaller factions present. 'We risk much in supporting the Children of Raxxla. The Empire is not united on this and the Federation remains unbowed. We risk making powerful enemies of them with this alignment.'
+
+'You do not need to renege on your existing relationships to support us,' Erimus countered.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Here we go ...
+
+Corwin Ryan was the head of the Prismatic Imperium, a powerful political lobby that held the system of Cubeo on behalf of Princess Aisling Duval herself. They were far bigger and more powerful than the Children of Raxxla. They were far bigger and more powerful than most of the other factions combined.
+
+Sway them and I sway this group, lose them and ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'We need you to join us in searching these areas,' Erimus said, focussing back on the conversation and looking directly at Corwin. 'We alone do not have the resources to cover it in the time period allowed. The Federation has the reach, if we're to compete with them ...'
+
+'And what will you do with the data recovered?' Corwin replied. 'The Children of Raxxla don't have the most honest of reputations. Some brand you terrorists. I tend to agree with them. Why should we trust you now? What guarantee can you give us that you will publish the results of research based upon the data retrieved?'
+
+'I can only give you my word,' Erimus said. 'Whatever this is, shadowy forces want it concealed. It's been hidden for decades. This may be our last chance to uncover the mystery. I will personally guarantee you all carte blanche access to whatever we find. We're not the Federation, we couldn't suppress it even if we did want to!'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'And uh, I bring friends ...' Dr. Kaii's voice continued. 'We have many pilots from the Earth Defence Fleet with us. In fact, looks to me like pretty much anyone from anywhere is right here.'
+
+The comms crackled again. 'This is Commander Finn McMillan, ready to serve the Children of Raxxla. We await your orders.'
+
+Further comms crackled in an overlap of voices, all reporting their readiness and eagerness to depart.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Further comms crackled in an overlap of voices, all reporting their readiness and eagerness to depart.
+
+'The Children of Raxxla called for assistance,' Erimus said, feeling tears forming in his eyes. 'The independents have answered.'
+
+Silence reigned in the conference room for a long moment.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Corwin clearly enjoyed his moment. He stepped forward to glare at Erimus across the table.
+
+'This had better be worth it, Erimus of the Children of Raxxla.'
+
+Erimus stared back, struggling to stop his body from shuddering.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Arissa chuckled. 'Tall tales must start somewhere, no?'
+
+Salomé frowned, 'You believe in ... Raxxla?'
+
+'No, I don't,' Arissa replied. 'But I believe in the power of misdirection, confusion and obfuscation. Myths and legends are inhabited by those who want to direct attention elsewhere. They take the dreamers and the romantics and use them.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Zachary smiled. Salomé waited expectantly.
+
+'These Children of Raxxla folk, searching out in the darkness at your whim. May I ask what they have found?'
+
+Salomé smiled in return. 'You may ask. In truth, I do not know. I have no way to contact them at present without revealing I am alive.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Whoever gets this new technology up and running first is going to launch a preemptive strike,' Corrigendum said. 'Classic tactics if you have an advantage over a well-matched opponent.'
+
+'There is more,' Cuthrick said.' We have received word from your friends, the explorers of the Children of Raxxla.'
+
+Salomé looked up. 'Yes?'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Excellent. The exploration data?'
+
+'Likewise,' Exo replied. 'Whilst embarrassing for the Federation, the overwhelming support of the mission by the collection of minor factions rallying to the Children of Raxxla banner has played to our requirements precisely. Almost all the Dynasty expedition material has been recovered and the explorers remain completely unaware they have been manipulated into retrieving it. Quite a coup for us, I would say.'
+
+'Masterfully arranged,' Infrastructure added.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Location unknown, Formidine Rift, Uninhabited
+
+The Formidine Rifters had no central authority, no real co-ordination. Some of them were members of minor factions such as the Children of Raxxla, others distrusted any authority or power and were lone wolves, exploring at their own behest. They had one thing in common, a willingness, or perhaps craziness was a better word, to go looking for secrets in the darkness.
+
+Commander Joshua Hales had synched up with them via long range comms. He hadn't been the only one to stumble upon derelict outposts deep in the void. He suppressed a shudder as he remembered the voice he'd listened to from an expedition log from 3270.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+No one had said anything, it looked like it was going to be up to him.
+
+'I called this meeting to give us the opportunity to compare notes on what we've found,' Joshua began. 'We've been out in the dark for weeks. We all know the clues that led us here, the community mandate from the Federation and the call to compete from the Children of Raxxla. Together, we have found evidence of this strange mission more than thirty years ago.'
+
+'The Dynasty mission,' Lyrae said. Joshua could tell it was a female voice, but that was all.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Luko chuckled. 'People go where they are led. These people can set a trail and we will walk it, we will not even realise.'
+
+'You'll be telling me Raxxla is real next,' Tsu scoffed.
+
+Luko shrugged. 'This I do not know, but I think it is more likely to be real than not. These people, they claimed to know ...'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Luko shrugged. 'This I do not know, but I think it is more likely to be real than not. These people, they claimed to know ...'
+
+'Wait,' Raan couldn't hold back. 'Raxxla is a fairy story for children, what you're talking about is those crazy stories about the Dark Wheel ...'
+
+'Not the same.' Luko shook his head. 'Not the same at all. They need no names, no identification. They just are. As for Raxxla, what better way to hide it than make it out to be a myth? Only the crazy ones go looking ...'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Wait,' Raan couldn't hold back. 'Raxxla is a fairy story for children, what you're talking about is those crazy stories about the Dark Wheel ...'
+
+'Not the same.' Luko shook his head. 'Not the same at all. They need no names, no identification. They just are. As for Raxxla, what better way to hide it than make it out to be a myth? Only the crazy ones go looking ...'
+
+'And what is this conspiracy, then?' Tsu demanded. 'What is this big secret your contact is supposed to have uncovered? And why can't she just tell you, and tell us?'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'They're trying to sweep it all away,' Salomé said. 'They must know that we're the only ones who know anything now ... You mentioned some good news? We could do with it.'
+
+Cuthrick nodded. 'Loren's Legion have received a transmission from the Children of Raxxla organisation. A discovery has been made out in the Formidine Rift location, ratified by a certain Commander Erimus of your acquaintance. They have found a code word.'
+
+'Which is?'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Do you have any further instructions for me?' Cuthrick asked.
+
+Salomé took a deep breath. 'We are going to attempt to locate this ... whatever it is. With this bounty raised, many will seek to kill us. I hesitate to ask, but I must call upon the Children of Raxxla, Loren's Legion and any others who will help us to organise an escort in case we need to ...'
+
+Cuthrick licked his lips. 'With the greatest respect, my Lady, the Children of Raxxla are explorers and Loren's Legion is not a mighty force when measured against ...'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Salomé took a deep breath. 'We are going to attempt to locate this ... whatever it is. With this bounty raised, many will seek to kill us. I hesitate to ask, but I must call upon the Children of Raxxla, Loren's Legion and any others who will help us to organise an escort in case we need to ...'
+
+Cuthrick licked his lips. 'With the greatest respect, my Lady, the Children of Raxxla are explorers and Loren's Legion is not a mighty force when measured against ...'
+
+'It is what I ask,' Salomé said. 'There are few I can trust. They have proven themselves to be loyal factions.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Bill smiled. 'Glad you can see reason.' He held the holofac out to her and she jabbed the unlock code into it, struggling with the bonds that still tied her wrists. The display flickered and activated.
+
+Bill took the commtab and interfaced it with the holofac system. 'All her exploration data, and the secret transmission from the Children of Raxxla. Every Earth-like world in the vicinity of the Rift, the Conflux and Hawking's Gap.'
+
+'And the wake concealment technology?' said the man identified as Society. He wasn't as large as the first man, but he was also somewhat overweight, his voice jovial and upbeat. 'We don't want to forget that now, do we?'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+The bounty hunter smiled, his lips just visible on the holofac display.
+
+'The Children of Raxxla?' Besieger replied. 'I know all about them, their allies in Loren's Legion and the disarray they call their "allied coalition." Your wish?'
+
+The glove-handed man paused before letting out a heavy sigh. He gave a terse instruction.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Salomé smiled grimly at the deception. Before her were three vessels, each visually identical to her own, even down to the name plates. Bright white Imperial Clippers, a phalanx of Seven Veils drifting in the darkness, thousands of light seconds from the blue-white glare of 46 Eridani.
+
+Erimus had sent her a quick overview of their strategy. Run, hide, evade, flee and disorientate. It was the only way to get to the core worlds and evade the bounty hunters. Fighting was the very last resort when all others were exhausted. The ships were built for speed and stealth. The Children of Raxxla and Loren's Legion had called for assistance. Thousands had responded, individuals, groups and factions. More than could be counted.
+
+Others had not, but had laid their own plans in secret.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Others had not, but had laid their own plans in secret.
+
+Pilots had volunteered to fly other seemingly identical ships, with commander profiles set to emulate her own, a ploy to divert attention away and spread the bounty hunters out more thinly. Fewer eyes on the primary target, fewer chances. Similar ploys had been arranged for Raan, Tsu and Raan's friend, Yuri. Salomé had not been pleased about endangering another life, but Yuri's record spoke for itself and the Children of Raxxla vouched for his prowess based on his Arena reputation. Raan had told her she could trust him. The more targets there were, the less likely any particular target was to get selected.
+
+Commander Zenith Ddraiglas had been assigned by Erimus to be her wing leader, accompanied by the most trusted and capable pilots, Commanders Eisen and Isaiah Evanson. Similar arrangements had been made for Tsu and Yuri. Commanders Adurnis, Chriswoo and Mesa Falcon were to protect the Alliance woman; Commanders Red Ryderr, Azrael Dirge and Stephen were set to escort Yuri.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Tionisla, we make for Tionisla. There's a beacon ...
+
+'She's running!' came the communique from the Children of Raxxla.
+
+'Time to go.'
+
+--------------------
+• Book: Elite Dangerous: Premonition
+'Now what?'
+
+'He does whatever that Imperial prima donna told him to,' the supervisor replied. 'Get our groups into the surrounding systems and clear them out. Get word through to the Children of Raxxla that we've got a successful outcome. Divert the wing to assist Salomé, sounds like she needs all the help she can get ...'
+
+Tsu saw Raan's Fer-de-Lance appear as a marker on her scanner. She flipped on the toggle for her wing beacon.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+How dare you die and leave us like this! How dare you leave me!
+
+He cast his mind back over everything that had transpired since he'd joined the Children of Raxxla. The disenchantment with the established powers, the encounters with the mysterious; the subterfuge and the searching. The clues, the logs, the endless travels in the deepest void. All had led to the unmasking of a conspiracy beyond all the powers combined.
+
+But without you ...
+
+--------------------
+• Book: Elite Dangerous: Premonition
+Erimus would have smiled once, but not now, not today. Tal's report was the official version, and thus not the truth.
+
+On the desk before him lay a letter, sealed with the emblem of the Children of Raxxla. He knew the contents, for it was he who had written them.
+
+... we must find a new purpose ... and there must be a new leader.
+
+--------------------
+• Book: Elite Dangerous: Premonition
+To make an end is to make a beginning. So be it. Farewell, Salomé ...
+
+A woman laid her hand on his shoulder. He looked up into the eyes of a friend. Alessia Verdi had been there from the beginnings of the Children of Raxxla.
+
+Grey eyes ... funny ... I never noticed that before.
+
+--------------------
+• Book: Elite: Legacy
+This journey away from home resurrected her desire to explore. She listened to the tales of the traders when they visited and she liked Darius and Simeon's stories of their bounty-hunting days most of all. Freeholm was a quiet starport in a dull system, and her father might be content with that, but she wanted to see the places she had heard about.
+
+As a girl she'd even dreamed of being the first pilot to discover Raxxla. Her father disapproved of such tales when she'd been a child. Even so, the desire to head into deep space called to her.
+
+With just the six of them to defend Freeholm, there had never been time or the opportunity for her to venture far from the station. She didn't begrudge that, she enjoyed flying the Eagle. It was the same model as her father's and a fine ship. She wanted to see more of the galaxy and maybe if they were really expanding the defence force then she could broach the subject with him.
+
+--------------------
+• Book: Elite: And Here The Wheel
+Another cough; blood spittled his lips. 'I've failed you. I tried to keep you away from them. I tried. But I failed. Now you have to go back. To the beginning, you have to go to Soontill.'
+
+Robert sniffed, holding his delirious father tight. Soontill? Next he'd be talking of the Masked Mamba or Raxxla.
+
+Jordan sighed and closed his eyes.
+
+--------------------
+• Book: Elite: And Here The Wheel
+'Elite-ranked treasure hunters,' corrected the Admiral.
+
+'From a by-gone age, searching for Raxxla,' Gunn said.
+
+The Admiral nodded. 'From a by-gone age indeed. They never found Raxxla. But they found something else.' He activated the holo-projector and a map of the galaxy materialised before him. 'Neither of you were born at the time but when the Thargoids made their first peaceful contact, an inter-species convention facility was established. In the initial meetings the Thargoids mentioned a lost world; a world that they had once colonised and where they had completed amazing technical work. A world that even to them held an aura of magic. But they lost contact with the world and were unable to find it again. Covert surveillance recorded them discussing whether to ask humanity for help, though ultimately they didn't respect or trust us enough.
+
+--------------------
+• Book: Elite: And Here The Wheel
+'From a by-gone age, searching for Raxxla,' Gunn said.
+
+The Admiral nodded. 'From a by-gone age indeed. They never found Raxxla. But they found something else.' He activated the holo-projector and a map of the galaxy materialised before him. 'Neither of you were born at the time but when the Thargoids made their first peaceful contact, an inter-species convention facility was established. In the initial meetings the Thargoids mentioned a lost world; a world that they had once colonised and where they had completed amazing technical work. A world that even to them held an aura of magic. But they lost contact with the world and were unable to find it again. Covert surveillance recorded them discussing whether to ask humanity for help, though ultimately they didn't respect or trust us enough.
+
+'When we translated the covert recording, the name of the planet was 'Soontill'.'
+
+--------------------
+• Book: Elite: And Here The Wheel
+Brown laughed. 'Come off it old man. They're just a legend.'
+
+'So is Soontill. The Dark Wheel has been around for centuries, always led by a Ryder, always hunting for Raxxla; until we learned of the legend of Soontill.
+
+'At that stage Alex Ryder had two sons: Neptune and Oberon. Oberon believed he could find Soontill. Neptune considered anything other than Raxxla to be irrelevant. Arguments ensued and we split from the Dark Wheel. We followed Oberon and formed the Circle of Independent Elite Pilots with the goal of using Soontill's power to protect humanity.'
+
+--------------------
+• Book: Elite: And Here The Wheel
+'So is Soontill. The Dark Wheel has been around for centuries, always led by a Ryder, always hunting for Raxxla; until we learned of the legend of Soontill.
+
+'At that stage Alex Ryder had two sons: Neptune and Oberon. Oberon believed he could find Soontill. Neptune considered anything other than Raxxla to be irrelevant. Arguments ensued and we split from the Dark Wheel. We followed Oberon and formed the Circle of Independent Elite Pilots with the goal of using Soontill's power to protect humanity.'
+
+Robert snorted. 'You screwed that up, didn't you?'
+
+--------------------
+• Book: Elite: Tales From The Frontier
+'I'm afraid not,' said the captain. 'The Pinacotheca is, and always has been, the property of the Federal government. But I'm sure we can come to an amicable agreement for the time being. Perhaps you would care to meet and-'
+
+'Do you know who I am, son? I'm Vice-Admiral George D. Crackenspacken and I'm the biggest ole this side of Raxxla. That's the only thing we'll agree on. Now go tell your CO that I'll take it from here.'
+
+'I am the commander of this force, Vice-Admiral.'
+
+--------------------
+Reactions:
+Xaintly, Tigorath, [PS4] Filthymick420 and 4 others

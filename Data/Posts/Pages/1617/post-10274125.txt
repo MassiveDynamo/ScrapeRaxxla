@@ -1,0 +1,19 @@
+Ian Doncaster
+Dec 3, 2023
+#32,321
+SergMx said:
+For example, earlier it was said that Raxxla can be obtained after confirming all the findings in the codex in all sectors ?
+Why do we think this is not the case ?
+The obvious answer is that the Codex wasn't available until 3.3, and had substantially more entries added to it in Odyssey, and then a couple more have come in related to the Thargoid Spires so anything depending on a full set of Codex confirmations would have been impossible for the first four years / seven years / until Update 17 / until six years from now.
+
+Same applies to anything which wasn't possible in 1.0 (which is most of it)
+
+Suhurrat said:
+Technically, you can jump both long and not so long distances. If we take into account that hyperdrives existed a long time ago, just made in different ways and using different fuel - then it is quite possible to assume that someone crazy thought of charging their engine from a neutron star, get lost in space, found out raxxla and etc.
+Note that the boosts obtained from WDs and especially from NSs are by word of Frontier quite a bit more effective than they're supposed to be (it was a bug in 2.2 Beta, but prominent explorers were so enthusiastic about it that they decided to keep it), if that affects your thinking.
+
+CMDRCorrMorningstarFelian said:
+We have fuel scoops by invasion of Achenar following Mudlark extinction (trip to Achenar from Beta Hydri started Fall 2323). I would say it is exceptionally likely we had fuel scooping before we left Sol. So, enhanced jumps should be viable. Additionally, I have sincere doubts that a jump limit of 7 lightyears was ever a thing. This seems like propaganda. Jump range is based on mass, fuel tank size, and mass of modules plus any cargo. There is not anything that should ever really have limited it to 7 lightyears maximum.
+It's never stated in the original game or manual whether the 7 LY limit is for the Cobra III you fly or a more general thing. (ED is the first game that makes jump range dependent on current mass rather than maximum laden mass, but that could be viewed as a simplification in the previous games).
+Reactions:
+Ughkoff, El Saico, Louis Calvert and 1 other person

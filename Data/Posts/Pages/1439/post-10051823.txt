@@ -1,0 +1,8 @@
+John Stoutbeard
+Jan 3, 2023
+#28,780
+Is it normal to hear music (chiming kind) on Icy planets with atmosphere - even if all music is turned off in the Options (I manually set all to OFF, took the volume down plus muted it).
+Is this a bug in U14?
+EDIT: Yes, most likely - the 'space choir/chime' is still playing as well, when I fly out of the atmosphere.
+Disregard. Can't get rid of these tunes.
+Last edited: Jan 3, 2023

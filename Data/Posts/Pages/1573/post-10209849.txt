@@ -1,0 +1,29 @@
+Jorki Rasalas
+Aug 31, 2023
+#31,456
+Comandante said:
+Where is your ED-specific source for this? I'm interested.
+
+Personally I believe (and have stated it before in this thread) that you need all the Elite ranks; without any proof, of course. To me it 'makes sense', given how 'hard' it is (for example) to get a G5 suit or to get a ship that's behind an Imperial or Federation rank. Can't imaging any Tom, or Harry coming across Elite. Well, so far nobody has. YMMV, of course!
+
+I'd be interested to know how many here have (is it 5?) all the Elites who are searching for Raxxla.
+
+Good luck with your search, CMDR!
+
+o7
+There is none for ED.
+This idea comes from the original Holdstock 1982 game’s novella “Elite: The Dark Wheel”
+http://www.iancgbell.clara.net/elite/dkwheel.htm:
+
+“
+One thing's for sure,' Rafe went on drily. 'Unless you get there, unless you become élite, you'll never get to Raxxla. And you'll never know exactly what your father was searching for.'
+”
+We dont know whether this is still (or ever was) canon for ED. My personal opinion is that it is not, that it was but it was removed.
+
+I think MB used it in the original puzzle implementation to remain canon with the novella; on gaining Elite rank you get the Shinrarta Dezhra permit and access to everything therein. In the early days the SD tourist beacons had several different versions of spelling for Pilots’ Federation (search for my earlier posts on this) and I think that was supposed to indicate to us different factions within PF, one of which was the Real Dark Wheel (TB0250 tells us so). Those spelling differences were bug reported to FD and the early lack of reaction tends to support this theory.
+
+However I think that around 2016 MB simplified the puzzle, removing the old E/F missions (which were given by PF against the interests of the “Dark Wheel” faction that resides in SD, supporting the idea they were a false front). The PF spelling differences have been corrected, so there seems to be nothing left in-game to support different PF factions and a Dark Wheel storyline. So I suspect any requirement for elite rank has also disappeared. Its a pity because that would have been a good strong logical storyline for us to follow. The focus seems to have all been moved onto the Thargoid War storyline.
+
+But I’d encourage anyone to play as they wish-it is a game so should be enjoyed!
+Reactions:
+CMDRCorrMorningstarFelian and Rochester

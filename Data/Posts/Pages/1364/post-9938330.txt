@@ -1,0 +1,19 @@
+Bushido Brown
+B
+Sep 11, 2022
+#27,269
+yelboc said:
+from what I gather, hand-authored systems get their data from several different places. There is the original SF data, and then there is a default override provided from the client files (the contents of overriden systems at the time the client file was created), but the servers also provides modifications to the client data file if they think there has been any changes (like BGS stuff). So its possible for inconsistencies to arrise between different views of the system, which may explain your issues.
+
+It may be that in H-A systems, the SF codes you are using to id bodies are being looked up in the local files, and if they're not found it might cause weird things to happen. This may be caused by the client file being outdated and, because there is no BGS update, there is a discrepancy between what the client file says the body IDs are and whats on the server when galmap does a search.
+
+Just guessing, it might explain these oddities.
+Click to expand...
+I'll defer to your knowledge on these mechanics, but this still points to it being a hand-authored system, doesn't it? That's a curiosity if nothing else.
+
+Dropped into Beta Hydrae.
+Charged on the NS, galmap won't let me plot a route taking the range into account. Might be because the NS is not the primary? Galmap isn't perfect when it comes to NS's...
+No other funniness with the supercharge. Registers the damage immediately, not lost it yet.
+
+Flew into the BH for a while... Jumped to Spica on a whim.
+Last edited: Sep 11, 2022

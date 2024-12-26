@@ -1,0 +1,18 @@
+Ian Doncaster
+Sep 20, 2024
+#34,898
+Don Alvarez said:
+The only way in game to tell is that player factions will have a description or flavor text viewable in the galaxy map when you select their home system. This was added to the home system when the faction was placed in the game.
+And that's not a completely reliable measure for two reasons.
+
+1) Some Frontier-placed factions also have that
+2) Occasionally due to admin errors the flavour text and the faction home system are in different places, usually but not always nearby
+
+The CQC home system CD-43 11917 is a good example of both:
+- it has some flavour text for CQC Holdings (Frontier-placed NPC faction, though with various player supporters too)
+- it also has some flavour text for Atlas Corporation whose home system is the nearby Lambda Arae
+
+
+Historically there was also the problem that description text was only added on client updates, whereas new factions could appear any time, so for the first several months of a PMF's life it might not have an associated system description. Now that PMF addition has ended that's no longer an issue, but it might potentially be causing confusion in assessments made several years ago.
+Reactions:
+Don Alvarez, Rochester and Darrack

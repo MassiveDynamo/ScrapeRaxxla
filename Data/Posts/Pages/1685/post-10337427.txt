@@ -1,0 +1,8 @@
+Jorki Rasalas
+Mar 22, 2024
+#33,686
+El Saico said:
+I've just started building a model of the bubble in Blender, to visualize patterns across mythologies/motifs/sectors myself.
+
+For performance reasons it's restricted to the named systems, so not even those from the HD / HIP / Gliese et al. catalogs are present. And there's still the issue of learning Blender in the first place.
+Named-systems-only suits the subanagram hypothesis.

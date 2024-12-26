@@ -1,0 +1,33 @@
+Louis Calvert
+Dec 31, 2023
+#32,805
+Edelgard von Rhein said:
+So, if I understand this correctly, you think there might be as many as five other landscape signals out there that have not been found because not enough people drop out in normal space and listen whilst their ship is pointing in the right direction?
+Yes - the number is a guess though. I suspect 6 (I think the Landscape is the "base" signal) that more is added to. To clarify, in the logo I think the Landscape Signal in the central circumpunct with the three radial brackets representing sound, and the six surrounding hexagons represent fragments of the map. I suspect the dotted line represents "though" as in, listen through things.
+Edelgard von Rhein said:
+What other directions have been checked? e.g. M31 Andromeda, M33 Triangulum, the Magellanic Clouds, the Thargoid system that Probes point to in Col 70 Sector, Merope, Gamma Velorum (Regor), the Horse Head Nebula?
+There's no other sound like the Landscape Signal out there. From the source you can "put it to your back" and listen across the entire galaxy in every direction and there's nothing else out there.
+
+I suspect the other signals are more local, like specific to planetary systems or even stellar bodies themselves, maybe nebula when you get close enough. As you know, sounds don't travel outside solar systems (you can't hear Sgr A* outside the system, for example). The Landscape Signal is unique in that you can hear it everywhere - but, that doesn't mean there aren't more local sounds engineered in similar ways.
+
+I personally think that the reason for this is so that you can aim at the Landscape signal with something between you and it (like say a moon or planet) and the signals of both combine to fill in one of the blank areas in the Landscape signal.
+
+I have tried doing this will all Guardian Objects and the Thargoid Sensors, and there's no changes. It might work with other objects, but I suspect it's stellar objects/locations rather than cargo items, or it wouldn't require much travelling and exploring to do.
+Edelgard von Rhein said:
+Has there been any work done to determine if the signal has a musical origin? Is there an instrument that produces a spectrum like that or is it synthetic?
+I'm not an expert, but I've done my best to look into that a bit (more research is always better though). I've also recorded audio from planets and stars and generally had it recording while flying around and there's nothing else that even comes close to being similar. From what I can tell nothing should 'naturally' make things that look like that in audio tracks - again, no expert - but from what I've found it appears very deliberate and is done so as to make an image, not a sound.
+
+I've also filtered the Landscape Signal to remove noise and listened to the 'mountains' themselves and they're barely discernible as just faint rising or falling notes, very artificial. Look up Audio Steganography, you can see vids of people using software to encode images in sounds. From what I have seen so far, the sounds present in the Landscape Signal sound basically the same (sort of a synthetic tone).
+
+As for the other features - the singing and low frequency 'warbles', the singing sounds like real singing notes, and the warbles sound sort of like distorted birds to me (though I'm sure they're synthetic notes). I don't know if they serve a purpose, but since they're present, repeating, and you can hear them, I assume they are there intentionally. The singing I think it related to it being a 'siren', and is there to encourage investigation.
+Edelgard von Rhein said:
+Sorry for all the questions!
+No no! this is good. I shared it specifically because the more people looking at this the better It'll either turn out to be nothing, or something...
+Edelgard von Rhein said:
+I guess I am wondering why a puzzle would be hidden in this way - is it the key to Raxxla or something else?
+
+For a single player, I wonder if it would be quicker to head out to the Rim and pan across the Milky Way rather than survey the whole sky from within the Bubble... .
+I suspect the other locations are found via solving other clues. Maybe there are some location clues in the Landscape signal as a starter, and I suspect there might be some in the Codex. As with most map puzzles once you get parts of it, it tends to then power itself along. It's entirely possible the Codex is simply one clue that's intended to give us a start, figure that out, combine it with the Landscape Signal, and you get the next clue.... and so on.
+Last edited: Dec 31, 2023
+Reactions:
+CMDRCorrMorningstarFelian

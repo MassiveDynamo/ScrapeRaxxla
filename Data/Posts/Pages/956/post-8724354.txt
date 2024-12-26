@@ -1,0 +1,15 @@
+Jorki Rasalas
+Sep 30, 2020
+#19,106
+alexzk said:
+Just installed EDMC + plugin which shows me nearest bad scanned for EDSM system.
+Darn, they're all 100% mapped for UC, by 1-2-3-4-6 commanders, some have DSSed planets. And nobody bothered to upload log to EDSM.
+That is 300ly from bubble.
+How can we trust it in searches? >:
+
+We can’t, not completely, but it’s all we’ve got.
+
+Most systems in/around the bubble would have been scanned early after the game release & presumably therefore before many people had adopted EDSM or the apps (e.g. EDDiscovery) that feed it with data. So there are going to be holes in EDSM coverage until later commanders repeat the visits to those systems and upload.
+Last edited: Sep 30, 2020
+Reactions:
+yelboc, PeteACarter and [PS4] Filthymick420

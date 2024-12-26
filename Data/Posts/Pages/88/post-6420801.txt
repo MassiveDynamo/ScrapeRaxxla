@@ -1,0 +1,8 @@
+[Diplomacy] Carnegie
+Feb 16, 2018
+#1,747
+Gaiseric said:
+No, not the blue circlets. Here's a video, but I've noticed that they are almost invisible on some monitors. They are quite prominent on my centre monitor which I use for playing the game but nearly invisible on both side monitors (I am using three) despite one of them being nominally exactly the same model. It's not possible that I am the first person to see these? Is it?
+
+I see those on EVERY landable, inside and outside the Bubble.
+I've always assumed they're a visual cue to help you see movement when you rotate the view.

@@ -1,0 +1,15 @@
+Han_Zen
+Nov 19, 2021
+#24,814
+Zieman said:
+Yes, I'm quite sure.
+
+There's a parameter called "orbital eccentricity" in astronomical bodies' stats.
+Most of planetary (and their moons) orbits in game are pretty circular (OE zero or near zero), but there are planets with OE well over 0.9 around, one famous example being "The World of Death":
+View attachment 275866
+
+One other, (much) less famous, and not as extreme (OE less than 0.9), is this lone Ammonia World:
+View attachment 275867
+Click to expand...
+The World of Death is an example of what I'm talking about. It is quite extremely eccentric, but the orbit does not look elliptic. It looks like a wheel, with an offset hub.
+I would expect the shape of the orbit to be visibly stretched. It could be just the map that makes it hard to see.

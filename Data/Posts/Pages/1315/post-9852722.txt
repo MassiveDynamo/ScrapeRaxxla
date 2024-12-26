@@ -1,0 +1,16 @@
+CmdrKafka
+Jun 1, 2022
+#26,291
+Macros Black said:
+The only way I know of to examine the sector is to use the Next button (in Horizons) to if all the systems in Col 70 Sector are permit locked (by a very patient CMDR...)
+
+[Diplomacy] Carnegie said:
+FYI - the Next button only cycles through 100 systems. So you'd need to construct your searches appropriately.
+
+Ok so I am attempting to be the very patient commander cycling through every col 70 sector system in the galmap one at a time... I immediately encountered an anomaly perhaps someone can explain. I started off with COL 70 SECTOR AA-A and it shows a short list. I can cycle through them and the first five show permit locked, but the next eight look different in the list (see image below) and just zoom to empty space with NO description.... can anyone explain what those entries are? Why can't I see them at all in the galmap? (in realistic mode, it should show all right?) I'm using Odyssey, have not tired in Horizon
+
+Edit: I've now checked the same in Horizons and only the first five appear, the other eight do not seem to exist in Horizons. Also, it is MUCH faster to check these in Odyssey as you don't even have to wait for the map to zoom to the location to see the permit lock, you can cycle through very quickly where is Horizons it has to scroll all the way to the location before you see the lock.
+SPOILER: SCREENSHOT
+Last edited: Jun 1, 2022
+Reactions:
+Macros Black

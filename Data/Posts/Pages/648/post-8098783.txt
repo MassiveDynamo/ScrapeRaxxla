@@ -1,0 +1,10 @@
+-=fox=-
+F
+Oct 22, 2019
+#12,942
+If you build a route with a jump into only one system, then after the jump, the sound file is played. At the same time, I noticed that if there are guardian beacons in the system, then this is a certain type of sound file. The theory is as follows: if there is any object in the system associated with R or DW, then the file must be some kind of special one.
+
+P.S
+Sorry for Google translation.
+Reactions:
+Rochester, Vetinari, Han_Zen and 1 other person

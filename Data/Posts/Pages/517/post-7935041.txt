@@ -1,0 +1,20 @@
+Edelgard von Rhein
+E
+Aug 7, 2019
+#10,321
+yelboc said:
+Given FDEv's love of procedural generation, is there perhaps a procedural mapping between the positions of the 1984 elite versions of the old worlds, and their ED counterparts? Such a mapping may be complex as its goes from 2d-3d.
+
+There is a spreadsheet linked from here with the original coordinates:
+
+http://wiki.alioth.net/index.php/Oolite_planet_list
+
+Some posibilites:
+This is my previous list of Galaxy 1 systems in game from this thread:
+
+Click to expand...
+This subject was mentioned in one of the Kickstarter Fiction Diaries with Michael Brookes iirc. They brought the FFE map of inhabited systems into ED but had to deal with the fact that that map was very squashed, so some distances would not be the same. It was not a case of bringing the Galaxy Maps from the 1984 Elite into ED. Then they had to merge it with ED's procedural generation... . I don't think it was easy.
+
+In general, I would be cautious about discussing alignments but, as the Formidine Rift mystery showed, you can take the systems once they are in place and use any pair of systems you like to create a heading to follow. It also means you can pick almost any point in the Milky Way and find a pair of systems in the Bubble that line up with it, then rename and handcraft things in those systems.
+Reactions:
+Thatchinho and PeteACarter

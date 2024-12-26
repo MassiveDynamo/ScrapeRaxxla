@@ -1,0 +1,25 @@
+Dox Paradox
+Sep 4, 2022
+#27,086
+Jorki Rasalas said:
+There is no tool currently that will automate this comet search (which is presumably why it has taken 7 years until we are able to search for them), hence my request if Pyroboros was able to develop one...but be aware it is just my hypothesis that Raxxla may be hidden as a comet; I could be wrong... every previous hypothesis of mine seems to have been wrong & Ive had quite a few over the years!
+
+Read Pyroboros’ posts. Think the two main ones for this were
+The Quest To Find Raxxla
+Remember, my theories were forged in the kiln of Canonn Science. Not even they could find an effective way to kill them off. Trust me, it was attempted many times, but I was better at finding critical holes than they were (even in my own theories). I used to be their golden boy. Your going...
+
+Basically you get the system id64 from EDSM, enter it into a copy of Pyroboros’ spreadsheet to identify the potential StellarForge search strings (which the galmap search tries to resolve into ID64 identities of the system bodies). Enter the system & scan the nav beacon (or do a full fss) to identify the normal astronomical bodies in your journal file (if the system is a new one and not in EDSM then the system id64 is also given for the star in the journal file) . Use a text editor to inspect the journal file & identify the bodyid of each, then use the StellarForge search strings in the galmap (search, then bookmark it, then target the bookmark) to target those missing identifiers and in-game go drop out of SC at that position. That then puts the bodyid into the journal file, open it and see what it was, then carry on with the next until the game crashes when you select the next identifier which means it is invalid and there are no more missing bodies. It is a slow process. I spent the whole of Yesterday afternoon searching Reorte. The comet bodyids are unknown until you drop out of supercruise at them...
+
+MB did say “Raxxla is very difficult to find”!
+
+Edit: I’m using a LibreOffice spreadsheet to help document the system id, bodyid numbers, corresponding search strings, and the body names. Just as a document, no automation. I search for “bodyid”, “ring” & “null” then copy each journal body name & paste it against the corresponding bodyid in my sheet. It should be easy for a programmer to automate that process of copying the information from the journal file, but my spreadsheetfu is weak and the free text formatting of the journal file defeats me...I am no programmer!
+
+I’ll provide a link to my document soon
+Click to expand...
+What would be cool is request a stellar system database via an API.
+I don't know how third party tools have populated their database. Is it only with user inputs, or do they have access to data provided by Frontier's API ?
+If yes, we could query directly the database bypassing Galmap and speeding things up immensely. Don't think it would be allowed to query 400 000 000 000 systems in one go tough, but there may be a legitimate use-case...
+Another approach would be to use a tool like WireShark. Maybe the data we are looking for are sent by the server in one go once we jump in (like, all the body ID's of the current star system).
+Maybe worth a try, but personally I'm reluctant to resort to this sort of methods because it is so "out of the game".
+Reactions:
+Ataxia

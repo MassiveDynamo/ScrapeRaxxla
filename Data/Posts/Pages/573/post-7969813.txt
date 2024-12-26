@@ -1,0 +1,11 @@
+yelboc
+Aug 27, 2019
+#11,448
+Noobilite said:
+What if the station is hidden in plane site. Instead of being dead, it's being used and under a different name. What if it's revealed by going over all of the FSD#s to discover what it is somehow. Like it doesn't have an FSD number because it's out of the range of the FSD#'s.
+
+This is one of the few things that can be tested thoroughly. If you know where all the official stations are via FSD# and one is out of the 9999 range. Then you have your answer. It could be right under our noses. Has anyone found them all yet and confirmed their potential numbers etc.
+
+Just to pick up on your point on FSD# - at least in this case we know from FDEV themselves that FSD# have no mysterious content. This has come up twice before in this thread, and in another thread the graphics designer himself confirmed that the FSD# is just eye candy to give Federation star-ports a more impersonal feeling. We also know the algorithm by which they are calculated from the system's id code. No known variations exist, and that's not surprising as its purely procedural.
+Reactions:
+Six6VI and Jorki Rasalas

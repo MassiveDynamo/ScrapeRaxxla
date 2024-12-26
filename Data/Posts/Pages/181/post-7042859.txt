@@ -1,0 +1,6 @@
+Scytale
+Banned
+S
+Sep 24, 2018
+#3,607
+Anyway, there is an intrinsec inconsitency in all this GalMap and NavPanel stuff. We shouldn't know the coordinates of every single system in ED. We should gradually discover the systems when exploring. Kind of "fog of war".

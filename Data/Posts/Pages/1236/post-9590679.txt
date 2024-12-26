@@ -1,0 +1,25 @@
+simulacrae
+Nov 5, 2021
+#24,719
+Rochester said:
+Spatial analysis
+
+Simple thought, which likely someone has already collected data for but also very probably, based upon other similar hypothesis, is totally arbitrary…
+
+Does the distribution of game elements (such as lore) form spatial patterns (especially when combined with other data) and do they correlate?
+
+Humans are complacent and our behaviours do fall into patterns, I’ve always wondered if this relates to how Developers implemented elements.
+
+Ironically this is something I do have a lot of RL experience in; but sadly this is also something I don’t have the time to undertake due to RL commitments…
+
+I presume many are totally arbitrary considering FD likely applied algorithms to flatten distribution / Stella forge etc. But there is always the possibility that someone slipped up, that said ‘even’ distributions when viewed in totality, identify certain ‘hot-spots’ or ‘intelligence gaps’.
+
+Such a map could also highlight known dead points, eg systems based on player content could be singled out…
+
+Such an undertaking is not outside the realms of possibility given the existence of third party tools and collective working, the obstacle really is just time availability, especially if said data is meaningless.
+
+Still it would be a sight to behold. I’ve not really looked into such tools like EDSM etc for the reasons set out above, and no idea if such tools have layer filtering or even link analysis functions like various official GIS systems, still it’s a laborious job.
+Click to expand...
+Ya ive toyed with this and have used ArcGIS and Pandas with some of the data, but not on a very large scale. Will have to think about this.
+Reactions:
+Rochester

@@ -1,0 +1,17 @@
+Jorki Rasalas
+Sep 5, 2023
+#31,486
+El Saico said:
+Looking at these search strings, I reached a conclusion.
+I'm waaaay more adept at recognizing binary patterns on decimal numbers than it should be healthy.
+
+And it tells a little about how Stellar Forge handles these numbers. See - the main (in this case only) star in this system ends on 6, and if you subtract 6 from several of those values - or cut the 6 or 06 at the end - you get a power of 2.
+So, after some bit massaging, what I found was that, if you cut the bottom 16 bits (which, in less nerdy terms, means dividing by 256)...
+
+You get the Body# value on the left. Meh.
+
+...although, if the expected values misalign or something, that'd be a weird anomaly.
+Theres a video on it
+Source: https://m.youtube.com/watch?v=Vz3nhCykZNw
+Reactions:
+Macros Black, Han_Zen, El Saico and 1 other person

@@ -1,0 +1,48 @@
+nicedevill
+Mar 9, 2019
+#6,455
+Dark Wheel station could be the key to finding Raxxla
+
+
+The way I see it
+
+Raxxla is confirmed to be in the game
+We are having trouble to find Raxxla directly because Dark Wheel finally found it and hid it from everyone 'not worthy' (speculation)
+If Raxxla is inside permit locked system, could Dark Wheel be the ones that can issue the permit?
+So, finding Dark Wheel station may be the first and most important step in fulfilling necessary attunement to enter/use Raxxla (whatever that turns out to be).
+
+
+Some important observations
+
+Frontier clearly wants us to find this station. Quote from Codex: "...this starport is still in use, and is the only means whereby the genuine Dark Wheel can verify its identity; new inductees can examine the record and artefacts preserved there, and thus satisfy themselves that the group has indeed been operating for centuries."
+Frontier said that there will be no clues besides what's written in the Codex, which would imply that there will be no false leads either (common sense)
+Another quote from Dark Wheel Codex entry: "...the original group was based in a disused starport orbiting the eighth moon of an unnamed gas giant. The station was toroid, hence 'wheel', and operated with a minimal power output so as to avoid detection, hence 'dark'."
+Therefore, the image of Dark Wheel station in Codex is the most important visual clue which I'm basing my research on.
+
+
+What I did
+
+I've been using a list of all 8th moons that are orbiting gas giants (up to 500 Ly from Sol, but Delphi may be better choice) which was compiled by CMDR Fartlily by pulling large amounts of data from EDSM json files and filtered to show only said bodies (8th moons). There are 5031 moons that satisfy this criteria, but after I started to check them out and compare them to Codex image I've noticed that:
+
+a) moons are too far away from the star
+
+or
+
+b) star is just too small to match the Codex image perfectly
+
+Naturally, I started to think how to narrow the search pattern even further and decided to check moons only orbiting first gas giant in the system. There was one moon at 684 Ls distance from main star (closest I could find so far), but the moon was still too distant and nothing like Codex image.
+Next, I filtered map with only M and T-type stars for which I believe are only types that match the Codex image. And finally, I decided to skip populated systems simply because there is no way such secretive faction would risk being detected due to random traffic.
+
+I approached every moon that matched my criteria with my ship and went full circle around it looking carefully for very faint station light, but inside 200 Ly area I found nothing so far. I will keep looking, but that list definitely needs more refinement so I contacted author to see if he can help any further.
+
+Finally, to sum it up, these are my guidelines for finding the right 8th moon of a gas giant with Dark Wheel station in its orbit:
+
+It's in a system with M or T-type star
+Moon is orbiting first or possibly second gas giant
+System is unpopulated
+
+It is just theorycraft so feel free to correct me or make a suggestion.
+
+o7
+Reactions:
+[PS4] Filthymick420, Rochester, Ton618 666 and 3 others

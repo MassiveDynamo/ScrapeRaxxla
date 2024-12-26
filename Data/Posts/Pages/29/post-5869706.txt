@@ -1,0 +1,58 @@
+AndyJ
+Aug 29, 2017
+#575
+Jorki Rasalas said:
+MacrosTheBlack said:
+It's been a long time since I've seen the missions mentioned in the OP. As far as I can see there's nothing special about the current missions (all factions) from Jameson Memorial than in any other system/station. Only minor curiosity is that I haven't seen any missions from other systems to Shinrarta Dezhra.
+
+Elite & Founder missions are still on the mission board, they're just 'ordinary' missions.
+So perhaps FD took an editorial decision to postpone the Raxxla story arc for a while.
+
+That's not the history of the missing missions...
+
+When Horizons launched they changed the missions with the intention that they should only appear at Jameson's Memorial (which for Dark Wheel makes sense) as previously they appeared everywhere. (change log)
+
+They basically haven't been seen since, and a bug report was logged but ultimately no answer from QA as to whether this was a bug or not. (Link: "or Founder" missions no longer generated since v1.5/Horizons?)
+
+Then when the mission boards were re-worked and because they still weren't showing up, I asked if they'd be reappearing and if the Founders 'rank' was still being considered by the new mission generation in the Countdown to the Engineers beta livestream Q&A - https://forums.frontier.co.uk/threa...m-part-2-today-at-7pm-bst.244890/post-3810621
+
+The removal of rank-locked missions was addressed in the livestream, but not the questions regarding Founder's missions - so I asked in the thread if we could have some answers to those questions and got this answer- see the bolded part
+Hi,
+
+I did have a founder answer but we ran out of time. There are a couple of founder only variants of missions in for 2.1. They will be more rewarding variants of a couple of the templates you know. It's what we could do for 2.1 and we want to try to find time to work on them later.
+
+To clarify, missions require you to be a founder or elite, so the only rank gated missions in the game.
+
+Adam
+(https://forums.frontier.co.uk/threa...m-part-2-today-at-7pm-bst.244890/post-3816046)
+
+This is where the Sensitive Supply Operation mission came from. If there are any others, I've not really noticed them but do spend very little time at JM.
+
+Anyway I asked again in December in the Mission Changes Feedback thread about the status of the still missing missions and Adam said:
+
+I will try to look into this, they should still be available. Obviously this doesn't seem to be the case.
+(Link: Mission Changes Feedback thread)
+
+Nothing has changed as far as I can tell.
+So were they left out in 2.1?
+Have they since been added back but aren't appearing for some reason? Perhaps the same reason that hid them in 1.5/2.0?
+
+Who knows? I've asked yet again in the 2.4 beta forum, and it's not drawn any response from FD so far.
+
+Anyone else who's interested in getting an answer, well please do add your voice into this thread:
+Is there any hope of seeing the "Elite or Founder" missions returning?
+
+I've had a few reps sent my way for posting it, but really I think it will help much more if other people add their questions to the thread too and bump it back into page #1, otherwise it'll probably just disappear and go unanswered again.
+
+Thanks & o7 Commanders!
+
+
+[edit 15/10/2020] fixed the broken links caused by the forum migration.
+Also, to put everything in one place, here's the response I got when I raised the issue again during a livestream back in September 2017-
+6. Will the “Founder or Elite” missions ever get added back into the game?
+
+Nothing to talk about on this right now.
+(From Spoiler for "QUESTIONS FROM 07/09/2017": https://forums.frontier.co.uk/threads/livestreams-questions-and-answers-thread.375883/post-5898193)
+Last edited: Oct 15, 2020
+Reactions:
+Rochester, madbilly, Macros Black and 1 other person

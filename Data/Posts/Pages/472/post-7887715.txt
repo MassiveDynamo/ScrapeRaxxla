@@ -1,0 +1,33 @@
+Thatchinho
+Jul 8, 2019
+#9,426
+Jaiotu said:
+If Tau Ceti is indeed the starting point for searching for Raxxla then perhaps we should be looking for the Mayflower '97. Easily the most famous of all the Generation Ships in Elite lore and one which, as far as I am aware, has not been discovered in Elite Dangerous. The ship reached Tau Ceti ... and then just "kept going" never to heard from again ... at least until the 3250's. From the journals of Frontier: First Encounters:
+SPOILER
+
+
+
+
+
+
+
+
+
+Edelgard von Rhein said:
+When I look at this I see the central three arcs and the outermost blocks rotating left but the dashed line seems to be rotating in the other direction and each dash seems to have a 'hat'. Interesting visual effect, though I'm not sure what to make of it.
+
+The Mayflower 97 would be about 725 LY from Sol in 3305, depending on whether or not it slowed down to send people to Tau Ceti. Draw a line from Sol through Tau Ceti and extend it until it's 725 LY long and where does it wind up?
+Assuming the direction of travel is still along the straight line Sol - Tau Ceti, and there's been no change in the realtive positions of Sol and Tau Ceti, then the unit vector for the direction is:
+
+-0.031414797, -0.955533398, -0.293204769
+
+Multiply each by the total distance travelled from Sol to get the co-ordinates.
+
+I think we're getting into some considerable assumptions about the distance though, so a range would need to be calculated.
+
+Edit - I'll do the calculations of bounds in a bit, just posting the basic bits now so other can calculate the co-ords based on their own travel distance estimates.
+
+Edit 2 - Co-ordinates calculated by @ironshirt are correct for 725 from Sol, using the unit vector based on the stated assumptions.
+Last edited: Jul 8, 2019
+Reactions:
+ironshirt and Count dEstard

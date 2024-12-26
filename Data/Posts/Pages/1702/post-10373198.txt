@@ -1,0 +1,20 @@
+CMDRCorrMorningstarFelian
+May 11, 2024
+#34,033
+Doctor Dread said:
+"...to implement."
+
+Something Raxxla WAS in the original(s) code at the beginning. Not working as a feature (I made Elite rank in 1985 on C64, knew it inside out, no Raxxla whatsoever ingame) but it was written in .
+Ian Bell confirmed it was there (written in a code), and removed for the later editions.
+
+So I'd gladly hex the crap out of the original, if only someone can unpack it.
+A single line "Raxxla xyz" would make a breakthrough.
+If memory serves me correctly from talking to folks on Discord, forums, and general research, the first game was written in 6502 assembly code. Even if you know how to get at underlying code, good luck making any sense of it. Yes, I know programming. No, I won't help. Not getting banned over this foolishness.
+
+Obviously, don't do this. Frontier Developments Elite Dangerous TOS forbids (though would assume this applies to all prior games too):
+... translate, reverse engineer, decompile, disassemble or create derivative works based on the whole or any part of the Game or use, reproduce, distribute, translate, broadcast, publicly perform, store in a retrieval system or otherwise deal in the Game or any part thereof in any way;
+
+TL;DR: Just don't.
+Last edited: May 11, 2024
+Reactions:
+Ataxia, Rochester and Doctor Dread

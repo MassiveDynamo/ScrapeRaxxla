@@ -1,0 +1,11 @@
+CMDR Woland92
+Mar 6, 2019
+#6,387
+Spaceman Si said:
+Considering they still haven’t fixed the “planet already scanned” bug with the DSS, and the FSS had some fun times with repeating evey scan of an asteroid cluster, my money would be on a bit of a bug
+
+Just tried to submit a bug report on this to see if they responded with the “working as intended” message. Unfortunately, the page won’t load when I try to create a new ticket. The bug page is now bugged.
+
+Hey dawg, I saw you like to report bugs, so we bugged the bug report page to let you submit a bug report bug report.
+Reactions:
+Marco Santos and Spaceman Si

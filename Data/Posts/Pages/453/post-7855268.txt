@@ -1,0 +1,10 @@
+[Diplomacy] Carnegie
+Jun 18, 2019
+#9,047
+Suitret said:
+On the other hand I am now heading to Colonia, and I just passed through the Eagle Nebula, didn't scan more than a couple of systems but... there are a bunch of lined up stars there, an aglomerate of F type stars that are all lined up in a funny way. Anyone looked at it? I know that this is old stuff but something tells me that place, those stars seem like they want to tell something but I couldn't figure it out. Maybe it was just my eyes, I counted them, (tried some crazy hexa codes and vigeneres and what not but 0)rotated them on the galaxy map but, nothing came out of it lol.
+
+Star sausages are a thing, all over the galaxy.
+It's an artifact of the catalogs used to populate the Stellar Forge with real-world stars, where clusters have been mapped (usually 2MASS surveys). They should be 'spherical' but the came out as lines, all pointing away from Sol.
+Reactions:
+Suitret

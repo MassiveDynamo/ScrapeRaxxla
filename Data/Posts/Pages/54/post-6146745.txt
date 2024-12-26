@@ -1,0 +1,17 @@
+Thatchinho
+Nov 20, 2017
+#1,065
+Moribus said:
+I'd love some more details from Fdev of how the Faraway systems worked (in ED Lore). It's clear they adopted the general principles from TDW, but I'd like to know how Fdev considers it works in the updated history.
+
+We also don't know what limits the jump range, even now. It might be that Hyperdrive can jump a huge distances *maybe there's no upper theoretical limit*, but that there's a "safe" limit, and if you push it further you increasingly risk a misjump. So, maybe 7ly for the old Cobra (or all old drives) was simply the safest maximum distance to jump, but the explorers/pathfinders exceeded that limit, risking death, for the payoff.
+
+Something like: 7ly = 100% safe, 14ly = 50% safe, 21ly = 20% safe, 500ly = 0.01% safe, etc. It might be that for safety reasons commercial hyperdrives were simply locked to the safe distance.
+
+I know it's a totally different jump system, but the 2b hyperdrive you could force a misjump, and if you didn't explode you could end up dozens, hundreds or thousands of LY away from where you were, regardless of the actual range of the drive - that at least suggests that travelling massive distances is possible - stabilising it seems to be the only real issue.
+
+Well strictly speaking the Faraway system wasn't the hyperdrive system, it was just the first commercially available system. I think this needs to be treated akin to commercial airflight, with air-traffic control etc.
+
+As you say, a misjump could lead to all sorts of complications. From the descriptions in TDW, Faraway seems to be more a method for giving a highly controlled and safe jump route and co-ordinating all the traffic trying to use that route.
+Reactions:
+Han_Zen

@@ -1,0 +1,20 @@
+Jorki Rasalas
+Jul 15, 2022
+#26,449
+Ok, got it to work, a bit haphazardly, a couple of times in Horizons...before I had to retreat due to excessive room temperature. Sometimes could select a permanent signal source named “Pareco” for either of the two comet positions. Tried dropping out at it quite late (down to 400km away) and also at around 1 Mm or more. Couldnt see anything & nothing showing in the nav panel. Perhaps you have to drop onto it to show it?
+
+The reason I’m trying is because (Ive touched on this before, but it has recently been highlighted by Pyroboros’ body detection method):
+
+MB’s “Tiny little bit obvious” fits “SmallBody” data type (i.e. comet). The SmallBody datatype seems to have been dropped from the latest Journal spec (might be an error, or might be obfuscation).
+
+Pareco comet 2 has 6 orbiting stations (c.f. Raxxla logo!) - Asire Dock, Crown Orbital, Webb Station, Phillips Market, Garden Ring, Neville Ring (n.b. “Jewel on the brow”could be “Crown”). This seems to be highlighting this system, and comets, definitely a “little bit obvious”!! Pareco is also one of the system names that are anagrams of “Princess Astrophel and the Spiralling Stars” (“Eyes to see” codex clue). Pareco is a TT type star, & might fit the Raxxla codex pic (though no planets are visible in this system). So one of the stations or the comet itself?
+
+Thinking one of the stations might be/have/generate the Omphalos Rift? Or fly between the right stations to find/create the Omphalos?? comet 2 might be the Omphalos (‘navel’) as it’s in the centre of the station orbits. The owning faction is “Pareco Scholarly Collective of Inquiry, Experimentation and Cosmic Exploration Institute, a collective of Commanders that work to search out the mysteries of the universe no matter where it leads” - sounds like TDW! It’s a player faction but could have been founded by FD! This system was visited for the first time (from EDSM) by QUIETSQUIRRELPSYCHIC on 9 Jan 2015 23:38:03, quite early on and could fit the “system visited but Raxxla not found” rumour. Exploited by Yuri Grom, (could match the “Raxxla is exploited by powerful, twisted men” of Holdstock’s original novella).
+
+It could also match MB’s “ it’s in the game (not text) and very hard to find”, “it’s not a random thing” and “it can be found by anyone, and more than once” IF successfully dropping out of SC at it is a semi-random thing. Remember how fond FD were in the beginning of their RND functions and how hard it made the game! There was much complaint and eventually they relented and relaxed much of the RND functions, but I bet they’ve never relaxed the requirements for finding Raxxla!
+
+Has anyone got Allied with the Institute? Looked yesterday & they only wanted assassinations, which are out for me with my current hand problems.
+
+FD have never implemented comet graphics, even though comets have been in-game since the beginning and FD have had appropriate technology for some time (e.g. the trails of the surface probes), so why not implement them unless it would give away something they want to keep secret - Raxxla...??
+Reactions:
+Han_Zen, Rochester and Adel

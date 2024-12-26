@@ -1,0 +1,16 @@
+Ian Doncaster
+Oct 14, 2018
+#3,894
+Jah'bastah II said:
+Shinrarta isn't their home is what I'm saying, or it would say so. It's run by software like EDDiscovery mostly, not players. Had EDD or another plug detected TDW homeworld, the information would get priority. I could still be wrong, but I'm confident that I'm not. A question remains unanswered: Are there other means to determine a home system (preferably ingame)? I'm a 2 month old player that's only been doing exploration and engineer unlocks, so I don't know about factions.
+Home systems of factions aren't given in the journal information and must be deduced manually. Usually it's obvious (because they have the system name in their name, or it's a new player faction and therefore its home system is obviously the one it first appears in) or can be guessed with reasonable certainty (because the faction is only present in one system, though due to changes in how expansions used to work and the occasional bug, this is only 99.9% reliable, and it doesn't look like EDDB/EDSM *do* guess on that basis) ... in some cases it can be almost impossible to determine if you don't already know: in theory, the key distinction is that a faction can never Retreat from its home system - in practice, making tests of this can take some effort and mostly people don't try.
+
+So EDDB and EDSM only know what they're told by players. For example, https://eddb.io/faction/75131 is listed as "unknown home system". Its home system is (and can be proven to be) Pennsylvania, but no-one's entered that information into EDDB.
+
+TDW's home system is almost certainly SD, on the "only present system" basis. The only way to be absolutely certain would be to drop its influence to <2.5% and see if it goes into Retreat - if it's the home system, it won't.
+
+rOmiLaYu said:
+It's my understanding that SD is immune to the BGS.
+The primary station is under the control of the Pilots Federation itself, which is a non-influence faction.
+
+SD certainly has a "no conflicts and no inbound expansions" lock on it but probably nothing further - I think if you could get The Dark Wheel over 75% influence there they'd expand, but it's a large and high-traffic system so that might be tricky when they don't control any decent stations. They're about as close now as they've ever been, and there's still a big way to go.

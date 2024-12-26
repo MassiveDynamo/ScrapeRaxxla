@@ -1,0 +1,10 @@
+Ian Doncaster
+Nov 27, 2023
+#32,193
+Louis Calvert said:
+If this is accurate, then it means Raxxla (and whatever it contains) is very unlikely to be anything complex in terms of assets or function.
+The (implicit) requirement to be implemented with 1.0 capabilities narrows that down as well.
+
+Complexity might well come in through breaking it up into multiple "components" such that you can't just do a search on Frontier's internal database for anything labelled Raxxla - it won't appear in those terms.
+Reactions:
+Louis Calvert

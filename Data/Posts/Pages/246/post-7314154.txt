@@ -1,0 +1,63 @@
+Han_Zen
+Jan 4, 2019
+#4,902
+The Shades of Antares
+
+Antares is a star that has been part of Elite lore since FFE. At least in name. The crash of the highliner Antares has been in Galnet and the journals, on several occasions.
+
+There are several points to Antares that makes it interesting, from a Raxxla perspective.
+
+- Antares is one of the four Royal stars, marking the cardinal points of the ecliptic. https://en.wikipedia.org/wiki/Royal_stars
+SPOILER
+
+These stars would mark "the ends of the world" in ancient times. The outer rim of the sky wheel, so to speak. They were watchers or guards of the sky.
+Aldebaran (Tascheter) – vernal equinox (Watcher of the East)
+Regulus (Venant) – summer solstice (Watcher of the North)
+Antares (Satevis) – autumnal equinox (Watcher of the West)
+Fomalhaut (Haftorang/Hastorang) – winter solstice (Watcher of the South)
+
+I thought this fit rather well with the wheel and outer rim analogies, so I started investigating a bit.
+
+- Each of these stars are also associated with an Archangel(Aldebaran (Michael), Regulus (Raphael), Antares (Uriel), and Fomalhaut (Gabriel)). Archangel is a title that can be achieved in some Elite versions. This would replace the 'Commander', in front of your name.
+SPOILER
+
+Uriel is the Archangel of Antares. He is also the presider over Tartarus. Tartaurs is 'the deepest void'. As far below Hades as earth is below heaven. This is where the Greek goods put the defeated Titans and where the Watchers put the fallen angels in the Abrahamic mythologies.
+
+https://en.wikipedia.org/wiki/Uriel
+https://en.wikipedia.org/wiki/Watcher_(angel)
+https://en.wikipedia.org/wiki/Book_of_Enoch
+
+To be on the safe side, I went to all the Royal stars. The only place I found something unusual, was in Antares(surprise ).
+
+The hole star is actually obfuscated.
+
+In the Antares system we arrive at Antares B. The heavier, but smaller and dimmer companion. Antares is not visible. It should be, because the star is huge and bright. It's a super giant.
+
+Until you reach the distanse of about 84,000 ls, it's totally black.
+SPOILER
+
+The black disk just covers the star disk. It's actually possible to see the three small planets in orbit.
+
+The obfuscation area gets smaller and smaller as you approach 84,000 ls. At about 120,000 ls it covers the entire view field. I can look at the star out of the side window and it's still black. At 85,000 ls the star has to be almost in the center of the view, otherwise it's fully visible.
+
+Here at 95,000 ls, you can see the star starting to glow as it gets closer to the edge(red arrow) of obfuscation.
+SPOILER
+
+- The obfuscated area is not fixed on windshield, it follows your view.
+- The cockpit and ship is litt by the starlight, even when the star is totally black.
+- The effect is the same from all directions and does not seem to be limited in distance outward from the star.
+- The effect is the same in external camera and when the ship is without power.
+
+If this is active obfuscation(not a bug), it's either something that 'affects the pilots eyes' or it's the ship(and Remlock mask) that does it.
+
+There are a few Galnet articles that may hint that this may be something real:
+https://community.elitedangerous.com/en/galnet/uid/2d0472c6f8e7eee1966acb1f542cfb6a6689f379
+https://community.elitedangerous.com/en/galnet/uid/cf45ee72bfc41c59770ace38773cca30c44f214a
+https://community.elitedangerous.com/en/galnet/uid/577636439657babf44d2ca7d
+
+I haven't found anything else in the system, so far.
+There is a deep red patch on Antares A1 where the thick cloud cover is permanently gone, but it's har to see details.
+
+I recommend going to Antares and take a look.
+Reactions:
+Rochester, Edelgard von Rhein, Jorki Rasalas and 2 others

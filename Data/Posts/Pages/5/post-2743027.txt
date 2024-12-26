@@ -1,0 +1,17 @@
+Macros Black
+Aug 27, 2015
+#82
+Sound engineers wanted
+
+The black boxes contains voice fragments, but are terribly garbled. I managed to filter 1 into a barely audible voice, but my Audacity skills are terribly lacking. If someone with superior audiological skills could help process the black box sounds (or give pointers to help me improve my audiological skills to 'decode' the black box recordings myself) that would be great
+
+Some samples here:
+
+https://www.youtube.com/watch?v=sIU64jyMxJA
+https://www.youtube.com/watch?v=HdEXM2bfiUo
+https://www.youtube.com/watch?v=QsiQnRxgpyY
+
+PS: To any Audacity experts: Is it possible to setup a custom processing filter, to automate the processing of sound files?
+Last edited: Aug 27, 2015
+Reactions:
+Eoran

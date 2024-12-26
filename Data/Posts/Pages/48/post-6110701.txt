@@ -1,0 +1,14 @@
+Thatchinho
+Nov 7, 2017
+#960
+DrewCarnegie said:
+Thanks for the feedback regarding HD 93359 - Rep everywhere
+
+I checked out the nearest stars to where the map cursor takes you and found a couple that line up nicely on opposite sites. I did consider taking a long supercruise trip, but there's nothing in the skybox in the right direction - HD 93359 is A class so I'd expect it to show up if it was there.
+
+I'm going to assume it's a bug - I'll report it when I get home from work.
+
+I have to say, for a little while I did allow myself to believe I might have found an obfuscated system
+Does sound like a bug. Possibly an effect of searching for a system that isn't in game? I've had all kinds of weird things happen on the Galmap when I've made a mistake in the system name.
+
+Might be worth trying a few variants like changing HD to HE or swapping the numbers and seeing if similar things happen.

@@ -1,0 +1,7 @@
+Cmdr-Wotherspoon
+Feb 8, 2019
+#5,830
+Noobilite said:
+Has anyone figured out if there is a reason behind permit locks besides FD wanting to. Maybe there is an in game mechanic at play that causes this to happen. And maybe a way to reverse it.
+
+It's to provide fDev with scope for game expansions in the future. If everywhere has been explored or at least travelled through, it makes it difficult for fDev to drop in that amazing new alien civilization in season 8 or whatever. The amount of permit locked space increased significantly a couple of years after launch, presumably because fDev firmed up plans for future content and because exploration was proceeding much faster than originally expected.

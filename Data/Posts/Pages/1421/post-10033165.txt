@@ -1,0 +1,11 @@
+Louis Calvert
+Dec 12, 2022
+#28,413
+Robert Rockbite said:
+Though along such lines, too.
+But, knowing Fdev, that would probably be too easy.
+We should expect some grind, like star coordinates forming a set of equations.
+My personal favorite is "spiraling stars" as a coordinate transformation with a rotating/scaling matrix.
+Maybe, but I don't think anyone's actually tried it, have they? If so what 6 systems did they use as points (will save me time if someone else has done the work!).
+Reactions:
+John Stoutbeard and Rochester

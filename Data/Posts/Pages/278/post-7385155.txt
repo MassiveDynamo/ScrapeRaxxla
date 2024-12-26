@@ -1,0 +1,25 @@
+Ko Shiji
+Jan 28, 2019
+#5,546
+CMDR Beni Stingray said:
+Or would it be possible for FD to "remove" barnards loop for the start screen so its not totaly obvious where it is?
+
+The login screen has a pretty bright star as a sunrise. It's possible that the engine itself dimmed the background (to simulate our canopy darkening) enough to make Barnard's Loop too black to see. Take the login screen image and increase luminosity with a graphics program to see if you see traces of Barnard's Loop, and/or in-game go to 500? 1000? LS distance from a star where the HDR and bloom settings kick in to make it look like that, and see if you can still see Barnard's Loop.
+
+Beng_Ammon said:
+Numbered Stations
+
+Everything can be found in game.
+I believe we have had some clues since the start, but the riddles in the Codex entry are also clues.
+
+There is a numbered outpost that belongs to the Dark Wheel on the 8th moon of a gas giant in Shinrarta Dezhra. It has two buildings that look like circular water tanks and they have this decal of a star on their side and a very decal-y AR9 23. So it's not limited to orbital stations.
+
+The Codex entry is a map. 4 sentences in the toast at the top. Add the word "Go" in front, to change what sounds like a toast "To blah" into directions "Go to blah." And 4 paragraphs in the body, each with a different mythology reference (first Persephone, second Atlantis, Eldorado, etc., third Omphalos and Astrophel, fourth "fernweh"). And a last paragraph about Dark Wheel involvement.
+
+publicstaticvoid said:
+I wouldn't be too quick to throw Guru's claim to the winds.
+
+I'm not, but while he did give us the starting point, and helpful links, he did not give us something that's very necessary IMO: how to recognize that we've started / are on the right path. What the very first NPC contact in the series looks like. I figure once we experience it, we should be able to recognize more along the same lines, and thus continue, but without the first, we're left still blind, groping at all these hints and mythological references, without a clue.
+Last edited: Jan 28, 2019
+Reactions:
+CMDR Beni Stingray

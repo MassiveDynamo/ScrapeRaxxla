@@ -1,0 +1,17 @@
+Jorki Rasalas
+Jul 15, 2021
+#23,988
+simulacrae said:
+So my attempt to figure out a "y" value was essentially moving up and down in the galaxy map until i didnt see little blue selection dots
+
+SPOILER: SAMPLE DOTS
+
+gave me a rough upper and lower boundary of the thickest part of the galactic "bulge" - I did this highly scientific measurement five times and then took the middle points and averaged them and got a magical number of -113 for my "y"
+
+Therefore my projected center point is: 408 / -113 / 26941
+
+And drum rolll....
+Click to expand...
+The map in the codex seems like a clue, unless we’ve had a sensible explanation of the strange coordinate system used, and those two dotted circles...
+Reactions:
+simulacrae

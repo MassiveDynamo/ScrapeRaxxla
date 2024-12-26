@@ -1,0 +1,9 @@
+Jorki Rasalas
+Nov 13, 2020
+#19,706
+I'm still playing around with the bindings for my CH HOTAS, I did have a dot at the centre of the reticle with my previous binds to assist docking etc but that's disappeared. Thought it was mouse widget but that's not making any difference. Any ideas?
+
+NVM-mouse headlook off brought it back!
+Last edited: Nov 13, 2020
+Reactions:
+[PS4] Filthymick420

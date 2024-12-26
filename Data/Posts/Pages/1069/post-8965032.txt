@@ -1,0 +1,9 @@
+Vektorboson
+V
+Feb 22, 2021
+#21,367
+CMDR Davanix said:
+Servers have been up and down all day, the issue is with their networking company, been getting lag spikes, constant hyperspace, dropping issues and alot of other issues all day, its not just you dude
+No, that's got nothing to do with the servers. I'm talking about the physics which are executed on your computer. While flying in supercruise. The servers don't simulate you flying in a system.
+Reactions:
+[PS4] Filthymick420

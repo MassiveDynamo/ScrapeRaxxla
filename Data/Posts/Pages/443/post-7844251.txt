@@ -1,0 +1,55 @@
+Thatchinho
+Jun 11, 2019
+#8,853
+Macros Black said:
+Well, frak me. I did not expect this.
+SPOILER: LOCATIONS: HUMAN (2)
+
+And just for reference:
+SPOILER: SD A 1
+Without being there it's hard to tell exactly what's what, but everything will be accounted for normally.
+
+Locations shows both orbital and surface locations.
+
+Human includes:
+Combat Zones
+Stations
+Bases
+Installations
+Megaships
+Tourist Beacons*
+Crash Sites*
+Other includes:
+Listening Posts
+UCBs*
+Engineer bases*
+Some secret bases (according to some reports)
+Possibly some crash sites
+* is going of memory, is subject to things having changed in updates/patches and not every example necessarily being marked the same way.
+
+RESs don't show up IIRC.
+
+Then there's Guardian and Thargoid signals, though sometimes things are oddly allocated - almost more by 'plot / storyline' than what the actual signal source is.
+
+Plus there's obviously a chance of bugs misallocation in signal type. For example Site 42 is human, tied with the Thargoid side of things, but shows up as GUaridan (or at least did - it might have been fixed.
+
+From the screenshot, there's 11 notable signals - that'll be CZs, LPs, Tourist Beacons, etc.
+
+Anyway... if you do a shot of the navpanel for the bodies in question, it should be possible to identify what all the signals correspond to.
+
+It should be:
+
+Founders World: (2 human)
+Jameson Memorial
+A tourist beacon or CZ (just guessing this one)
+A1: 5(human, 1 other)
+Jameson Base
+Wandrei Base
+Nixon Enterprise
+Burke Beacon
+Wolfe Reach
+Pilots Federation Origin Tourist Spot 0244
+I would have thought that it was Jameson Base which was the 'Other', but maybe it was changed in the last update so that Engineer bases show as Human.
+Last edited: Jun 11, 2019
+Reactions:
+Midian Cabal, AOpsyche, Macros Black and 3 others

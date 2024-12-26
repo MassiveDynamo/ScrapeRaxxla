@@ -1,0 +1,32 @@
+Ian Doncaster
+Jan 24, 2024
+#33,154
+CMDRCorrMorningstarFelian said:
+There's only one Donaldson starport. It sits in Alioth.
+
+Donaldson in Alioth - station | Elite:Dangerous | INARA
+The companion site for Elite:Dangerous with the game database, market data, trade routes, outfitting, engineers, blueprints, crafting, Thargoid war, squadrons, logbooks, galleries, galaxy information and much more...
+inara.cz
+Click to expand...
+That requires a very selective and to me non-intuitive definition of what counts as a "Donaldson starport"
+
+In FE2:
+- "Donaldson Orbiter" is in Alioth and is an orbital station
+- "Donaldson Starport" is in Quphieth and is a surface station on the ELW
+- "Donaldson Town" is also in Quphieth and is a surface station on the rocky second planet
+- "Edwards Terminal" is the name of Quphieth's orbital station
+
+In Elite Dangerous:
+- "Donaldson Orbiter" in Alioth has been renamed merely "Donaldson"
+- there are 30 other stations in Elite Dangerous with "Donaldson" in the name which could be a renamed Donaldson Starport or Donaldson Town with equal claim to Alioth's Donaldson (in some cases rather better as they're at least surface bases rather than orbitals, though of course not on an ELW due to implementation issues)
+- there are two "Edwards Terminal" stations (exact name match) in Elite Dangerous, in the Totenis and Erisagirari systems, both of which are also orbital starports like the FE2 original
+
+It's hard to do an exhaustive search for every possible Donaldson in FE2 but I did also on a quick search of prominent systems find a planet called Donaldson (no suffix) - it's in the Cemiess system in FE2 as the third planet, though the Cemiess system in ED has completely different internals [1]. Perhaps Cemiess and Alioth are the same system and Quphieth has nothing to do with it?
+
+CMDRCorrMorningstarFelian said:
+I think the issue is clarified in the entry for Quphieth that stated Augustus Brenquith messages sent to Sol became increasingly unreliable over time.
+There's "increasingly unreliable" and "wrong about every single fact about the system including its location", though. And none of that can explain the post-colonisation differences in what the "Donaldson" starport was suffixed, whether it was in orbit or on the ground, etc.
+
+They clearly weren't intended to be the same system in FE2/FFE - different government, completely different location, different primary star class, Quphieth has a natural ELW planet and Alioth has three terraformed ELW moons, etc. so I'm dubious of readings of FFE-era sources which would suggest that they were the same system
+Reactions:
+Han_Zen and CMDRCorrMorningstarFelian

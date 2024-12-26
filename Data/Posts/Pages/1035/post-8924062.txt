@@ -1,0 +1,24 @@
+Djidjel
+Jan 28, 2021
+#20,687
+clixer said:
+Shoutout to the Independent Raxxla Hunters, some seriously impressive work done in the last few days. Here are all the video links from the investigation channel.
+
+youtu.be/FQLM1naJQCA (Spliffz - green glow)
+youtu.be/01eG3gr0VKA (Spliffz - green glow)
+youtu.be/mhhGyzSbeyU (Spliffz - map teleport)
+youtu.be/t14kFActDvM (clixer - green glow)
+youtu.be/MCTjPxpQlBs (Falconscreech - green glow)
+youtu.be/pjaktBqYTj0 (SteelQuagmire - green glow)
+(Spliffz - map teleport)
+(SteelQuagmire - green glow)
+(SteelQuagmire - green glow)
+(Spliffz - green glow external cam)
+
+Unfortunately I haven't had time to watch them all and look for patterns, hopefully this is useful to someone.
+Click to expand...
+
+I could only see something useful in CMDR Falconscreech's vid, it said 924 kLs from Sol. Asteroid belt is 1.1 - 1.6 kLs (my calculations, not FD's). Could be the closest belt limit, don't know exactly where FD put it in-game.
+When checking for the green-glow source, it might be useful to have Sol selected in order to get an accurate distance reading, so other cmdrs might use it to try to replicate.
+
+edit: typos

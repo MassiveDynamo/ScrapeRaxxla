@@ -1,0 +1,10 @@
+alexzk
+A
+Oct 6, 2020
+#19,174
+Tibercov83 said:
+So does a search using the above only show ones that have discovered? Or is it a search of all the systems in game?
+Such DB does not exists. Systems are created on 1st visit by commander, so even FDevs dunno. Next commander MUST upload his log to edsm.
+I use EDCM + "no red" plugin. It shows me plenty of known but never uploaded systems 300ly from bubble.
+Reactions:
+Vetinari, Fiera and [PS4] Filthymick420

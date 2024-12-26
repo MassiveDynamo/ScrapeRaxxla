@@ -1,0 +1,8 @@
+madbilly
+M
+Mar 1, 2018
+#1,866
+Macros Black said:
+So far no luck in finding SAP 8 Core Containers; just encountered the usual stuff, Hafnium 178 and Antiquities.
+
+Are SAP 8 core containers related to the "valuable salvage convoys" in the 1.2 patch notes? These convoys are for systems LFT 509, Isinor and Witch's Reach, none of which we know how to get the permit for, AFAIK. I also seem to remember that the mission system was updated at some point to only show systems for which we had the correct permit but I can't find the patch notes - have I remembered that right? Maybe we can't see the Elite/Founders missions because we don't have the permit for those systems. Maybe we need to get the permit first...

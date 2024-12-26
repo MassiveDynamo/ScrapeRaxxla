@@ -1,0 +1,18 @@
+CMDRCorrMorningstarFelian
+Dec 17, 2022
+#28,481
+Pyroboros said:
+Well...
+i aborted the first attempt after realizing it will need a bit over 3 years to complete.
+So i went and cleaned the text so it has no duplicates this alone was 3 hour computing.
+That means no counting for now, but when all systems mentioned have been filtered i can go to the original texts and count them.
+Only problem right now: Even whit the reduced text my PC has to check 135k Lines against 75 million known Systems. (approx: 43 Days computing)
+Also i am not quite Sure if the reduced text has still everything in it. It seems a bit small. It got from 4.5 million lines down to 135k lines.
+Sure there have been a lot of Duplicate Lines (From QuotesCMDR and all the CMDR Names) but it is a bit strange that it got this small (383130kb to 13986kb)
+I try to get my Raspberry running and than wait maybe i will hock a bell to it, or make it bark when done.
+
+if this is Data mining go ahead and shutdown EDSM have fun. Just because you call it Data mining does not make it data mining. And just because you found a lone Moderator that agrees whit you still does not make it data mining. Also i do not care if this will get any useful result, only thing that matter is to get any result.
+
+Edit: first match 39 Lambda Orionis which is strange and makes me more doubtful about completeness, cause it should bee 4 Sextantis
+Click to expand...
+If it is public data, I have no problems. Here's where you are running into problems: I know EDSM, in particular, hides certain systems as Polaris is findable on EDDB but EDSM it is hidden (via the normal web interface for each). I believe they hide unknown permits and anything within region locks. If you are only dealing in public scan data (stuff any CMDR would be able to access in-game) it is alright. The gray area is the fact that in-game until we get those region locks to fall you may be dabbling in non-public information. I just think caution is advisable here given public vs non-public data. Heck, with EDDiscovery you can download public scan data for all discovered systems. This wasn't for any reason other than use only what you can access on EDSM website or the API without requesting hidden data entries. I hold nothing against you personally.

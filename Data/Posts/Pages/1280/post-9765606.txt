@@ -1,0 +1,15 @@
+Adel
+A
+Mar 9, 2022
+#25,584
+Han_Zen said:
+Fun fact. If you search for the planet 'Grey' (Orrere) in the galaxy map, you will see that there is a comet in Lave.
+
+Grey's comet
+
+I have no idea who this Grey fellow is, but he has put his mark on the Old Worlds.
+Grey's Comet is indeed in Lave (BodyID 9). See below.
+
+SPOILER: LAVE SYSTEM
+Reactions:
+Han_Zen

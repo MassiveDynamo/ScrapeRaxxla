@@ -1,0 +1,43 @@
+Louis Calvert
+Nov 21, 2022
+#27,966
+I'm back with another Raxxla-Sol connection research update.
+
+Since so many people have found correlations between the Raxxla Codex and the Sol system, I decided to catalogue all the bodies in Sol comparing them visually and in data to circa year 2000 facts. A historical comparison, if you will. The project is more in-depth than I first thought, so I'll post what I have now and add the other bodies later and link the posts together.
+
+TLDR: Saturn and the included moons have clearly been very carefully recreated. Even Saturn's rings match the Cassini images extremely closely. Therefore, discrepancies between real-world Saturnian bodies and in-game bodies should be examined closely and not dismissed as "Fdev mistakes/lack of time".
+See also: Historical Comparison of Jupiter and its moons.
+
+Comparison of Saturn
+
+Overall Appearance:
+Saturn in 3308 shows visibly less banding than it did in the early 2000s. It is more "soupy" but does retain light banding and some minor storms are evident on the surface. The largest visual difference is on the North pole, where between 1980 and 2020 old-Earth astronomers documented in detail the "Saturn Hexagon". The centre of the hexagon featured the polar vortex storm, and a similar south polar vortex storm was observed in the early 2000s by the Cassini probe.
+Ring Structure:
+Saturn's Rings retain the overall structure of data from the early 2000s Cassini mission, the image above shows the comparison. The major difference can be noted in the B-ring. Historically the A and B rings were the thickest and most opaque rings, by 3308 the B ring has become almost translucent for unknown reasons.
+General Composition:
+Saturn itself is smaller in 3308 than historical records indicate, by 2,536km. Its atmospheric composition has dropped from 96.3% Hydrogen in the 2000s to 73.7% Hydrogen by 3308. Atmospheric Helium has increased from 3.25% Helium in the 2000s to 26.3% Helium in 3308.
+
+Comparison of Saturn's Moons
+
+Note: Major moons are defined as broadly spherical. Saturn's other moons are non-spherical and ranging from size from only a few km to under 150km. Mimas is the smallest spherical moon at 198km radius.
+Overall Appearance:
+Saturn's moons, by and large, are visually recognisable to historical records from the early 2000s. Two moons show major differences when comparing them to historical images. Enceladus notably shows less surface features and is considerably less spherical than it was in the early 2000s. Iapetus also shows considerably less surface features than in the early 2000s, specifically missing its unique 'two-tone' appearance and 13km tall mountainous ridge that runs for 1,300km in a straight line around the equator, giving it a well-recorded "walnut shaped" appearance. Despite these changes all the six present moons' radii match the data from the early 2000s.
+Composition Comparisons:
+Enceladus, Tethys, Dione, Rhea, and Titan all show changes in the percentage of ice in their crusts, and a comparable increase in the percentage of recorded rocky or rocky metallic materials. Titan's atmosphere seems to have remained stable at 89.4% Nitrogen and 1.4(6)% Methane since the 2000s Cassini mission. Iapetus however is considerably different compositionally. It seems to have lost all of its ice and in 3308 is listed as a "Rocky Body". Historical data from the 2000s show that Iapetus' composition is comparable to the other moons of Saturn, being a mix of around 80% ice and 20% Rocky material.
+
+Conclusion of the Saturnian System Comparisons with Historical Records:
+Human colonisation and mining of the Sol system over ~1300 years likely has resulted in depletion of planetary resources in the Saturnian system. The B-ring could have been extensively mined for water-ice, accounting for its thinning. The remaining moons similarly could have been mined for ice and water, perhaps the heating produced by human occupation contributed to the loss of ice material.
+
+Saturn's atmospheric changes are similarly likely the result of Hydrogen-skimming operations, and this may account for the visible differences in the cloud-layer formations of Saturn itself, and possibly for the reduction in Saturn's equatorial radius by 1,268km.
+Remaining Areas for Study:
+The polar vortex' and North Polar Hexagon's absence is hard to explain, other than possibly these 'storm' systems simply dissipated over the last 1300 years.
+
+It is difficult to fully account for Enceladus' present shape, however it was known even in the early 2000s that the moon was seismically active. Iapetus' different appearance and apparent loss of all ice without any change in radius or mass is more difficult to explain. Bris Dekker, a well-known Engineer located on Iapetus was unable to suggest any further lines of enquiry, merely commenting that "there's a lot of history in this system"
+
+Official channels have shown that Mimas' absence is known and should not cause concern...
+
+Comparisons of Jupiter and it's moons can be found here.
+Edit: updated with larger images for readablity
+Last edited: Nov 21, 2022
+Reactions:
+cmdr_imonix, GURU-951, Rochester and 1 other person

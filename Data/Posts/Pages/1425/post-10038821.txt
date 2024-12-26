@@ -1,0 +1,16 @@
+Louis Calvert
+Dec 17, 2022
+#28,500
+Pyroboros said:
+Only problem right now: Even whit the reduced text my PC has to check 135k Lines against 75 million known Systems. (approx: 43 Days computing)
+Also i am not quite Sure if the reduced text has still everything in it. It seems a bit small. It got from 4.5 million lines down to 135k lines.
+Sure there have been a lot of Duplicate Lines (From QuotesCMDR and all the CMDR Names) but it is a bit strange that it got this small (383130kb to 13986kb)
+I try to get my Raspberry running and than wait maybe i will hock a bell to it, or make it bark when done.
+
+
+Edit: first match 39 Lambda Orionis which is strange and makes me more doubtful about completeness, cause it should bee 4 Sextantis
+Brutal! Is there a way to share some runtime, like with citizens science projects? I'm very happy to help by lending computer time if that's in any way possible?
+
+I'm excited to see the list, I wonder how long it's going to be?
+Reactions:
+Ataxia, CMDRCorrMorningstarFelian and John Stoutbeard

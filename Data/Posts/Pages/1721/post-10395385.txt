@@ -1,0 +1,30 @@
+Ataxia
+Jul 3, 2024
+#34,418
+Louis Calvert said:
+I saw a youtube vid recently, they said they were unable to find any Imperial station broadcasting those sounds. Interesting if accurate. They said not every station broadcasts it, but they suggested it wasn't related to type or interior type. Not sure how accurate that is.
+
+I'm unsure if they mean anything (or even if they're numbers and letters) but it's very interesting and clearly someone during development decided to create this system rather than just have literally any other type of "sci-fi code bleeps" on loop. If nothing else it's yet another highlighting of the depth and complexity of audio use in the game.
+
+I do think Raxxla is an audio signal (to us) that's broadcast across the galaxy (in one form or another), so this may well be related in some way.
+
+I found 10x 4 character long sequences that appear twice each in the file.
+
+YBYC: 361 characters
+39LG: 179 characters
+C7L7: 3680 characters
+8NVT: 1871 characters
+G1WL: 3883 characters
+Y7CG: 1381 characters
+40ZR: 1129 characters
+R95B: 1806 characters
+AHF2: 84 characters
+9P13: 601 characters
+
+Each pair is seperated by the number of characters listed.
+
+This is from a 'translated' 6 hr audio file from one of the stations.
+
+their combined hex is - 16 9b 3e 60 74 ff 2b 56 54 69 70 e5 42 59
+Reactions:
+selbie and Louis Calvert

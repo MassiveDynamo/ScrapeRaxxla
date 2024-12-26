@@ -1,0 +1,19 @@
+Louis Calvert
+Nov 14, 2022
+#27,891
+Revisions to the Raxxla Logo
+While I'm waiting to hear back from CS about Mimas, I wanted to take a pass at this since I see a lot of ideas based on the number of dashes in the hexagon.
+
+The Original rebuilt Raxxla logo that we all use is great - actually it's better than the one in the codex, more care has been taken over it, and I think that's possibly unfortunately led to some theories about the number of dashes being more significant than it might actually be.
+
+I worked as a graphic designer for 20 years: Looking at the codex logo I can see very clearly that whoever made it simply drew a hexagon then simply converted the outline to dashes -takes about 1 minute to do. You can tell because of the uneven distribution of the dashes around the corners.
+
+
+
+I can't match it exactly since I don't have access to higher-end software since I retired but even with free Inkscape I've been able to illustrate it here well enough for this example. With Illustrator or Corel software I could easily have set the correct line weight and kerning between dashes to exactly match the distribution from the codex - i'd be surprised if it wasn't actually one of the pre-set dashes.
+
+I can't remember who rebuilt the logo a while back (sorry!), like I said they did a brilliant job and this is absolutely not bashing their recreation work (except this one little bit of accuracy) - I suspect they spent more time and care recreating it that the original creator, no doubt.
+
+For this reason I'm pretty certain that the number of dashes is irrelevant in terms of a "clue". It only seems significant because of the more carefully balanced recreation.
+Reactions:
+Ian Doncaster, Ski'Thor, Rochester and 3 others

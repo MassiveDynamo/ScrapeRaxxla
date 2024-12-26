@@ -1,0 +1,12 @@
+Crimson Echo
+Aug 19, 2020
+#18,449
+The 33 stanzas of the poem may be hinting in a different direction. Specifically related to the way locations in the galaxy are discretized (to the 1/32 Ly in each axis). Using 1/32 Ly gives 33 possible positions between 0 and 1 inclusive. (0/32, 1/32.... 32/32 =33 indices). If positions of valid points (based on 1/32 deltas) which have magnitude 1.00+/-0.005 (to allow the game to display the range as 1.00 are plotted there is a resemblance to the raxxla logo/symbol. (if you combine two of the views you get something similar to the raxxla symbol, but the relative scale of some features (the internal hexagon) is not seemingly correct.) The choice of 32 as a divisor is odd given they could have used much higher precision (assuming 32 bit signed ints where used for positions, and a 100k Ly radius galaxy.).
+
+Most of the systems of interest seem to typically have very low system ids. This might support that something was baked into the galaxy map structure prior to most of the proc generated systems being added.
+
+The only two known 'hidden' systems in the bubble are Zeladra II near sol and HIP 34104 near LFT 509. Both are near permit locked systems, and appear to be almost precisely 1.00 LY from their 'hosts'. Why name "test" systems, and why locate them a fixed distance from their hosts? (the game can deal with coincident systems so why put the test systems in displaced locations. They are less hidden as is than coincident systems would be.)
+
+A jump or misjump combination lock of sort could have been baked into the game by MB. The hyperdiction injection mechanic was planed from the start (only got added later into the live game after the goids where ready), and could have been repurposed for raxxla (or been the orginal reason for the mechanic to be developed in the first place.).
+Reactions:
+Machina Ergo Sum, PeteACarter, [PS4] Filthymick420 and 2 others

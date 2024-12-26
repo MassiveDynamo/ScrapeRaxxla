@@ -1,0 +1,30 @@
+CMDRCorrMorningstarFelian
+May 15, 2023
+#30,437
+Han_Zen said:
+The Thargoids are the main storyline in ED. They are a constant force in the Galaxy, that we have to learn to live with. There is always the possibility that Raxxla is directly linked to the Thargoids.
+I have a few points to pick with this. My interpretation is the main story is three-pronged:
+Understanding ourselves and how our technology came about especially as our tech predates Raxxla, Old Worlds Coalition, GalCop, and "First Thargoid War" (if indeed that happened at all).
+Understanding who and what the aliens we are presently facing actually are in the end. Is the human-centric version from Lave even accurate?
+Are mentions of the Oresrians from TDW novella relevant? Further, why the parallelism The Prophet/The Sanctum in Etain vs the Guardian logs about technology empowering the wrong aspects (in Etain this was log 8)? The Guardian logs have something similar in the form of long-standing divide that caused several civil wars. The Traditionalist-branch was militantly against modern technology as it separated Guardians from Nature. The Progressives became fond of the very tech the Traditionalists hated. I doubt this is mere coincidence. The third bullet point is basically a guess that what we call Thargoids are possibly the Traditionalist branch of the Guardians or the Oresrians. Given Drew Wager wrote about Klaxxian and Oresrians I hold out hope we may get clarity upon full on foot interaction with aliens. I think the Oresrians may be the Progressive Branch Guardians. Now, whether Guardians of the Free Spirit are Guardians or a human cult is another matter. I believe Holo-Me implies the CMDRs aren't normal humans.
+WARNING : There will not be much of lore that survives the next few minutes. Don't say I didn't warn you. Unfortunately, the Department of Temporal Investigations doesn't have the luxury of leaving much to chance.
+
+
+
+
+
+So let's get into where current explanations spectacularly decouple from what we can observe empirically:
+We have FSD before ever leaving Sol. This was necessary to send hyperspace powered probes in preparation for colonization. This is invented by a team lead by Li Qin Jao. This team is believed to ultimately founded Sirius Corporation which settled Sirius in 2339.
+We have fuel scoops utilizing Hydrogen fuel by invasion of Achenar in the early 2400s. This is recorded in the beacon Logistical Nightmare in Beta Hydri. It is suspected humanity was using Hydrogen fuel since the early chemical rockets relied upon liguid hydrogen as one a potential fuel source. Notably, the Space Shuttle from NASA used liquid hydrogen as one part of fuel.
+We get supercruise before the end of the Generation ship era as evidenced by the logs of the Venusian generation ship. Based on info from Phekda, one of the last colonies settled by generation ships, this could have happened somewhere around 2950 - 3000 given they arrived several centuries ago. This is solidly within Galactic Cooperative era (2696 - 3174).
+The precursor to Galactic Cooperative was the Old Worlds Coalition (2412 - 2696) was primarily known for production and distribution of Hydrogen fuel and was known to have close business ties with Sirius Corporation. This was especially true of Faulcon Manspace and Faulcon Delacy of Reorte who had ties to Sirius Corporation, Galactic Navy, and law enforcement groups (especially given the Viper line of ships).
+Quirium appears to therefore be the creation of an individual or organization hellbent on burying the past. The exact party responsible is unknown but the intent was clearly to bury the past.
+The Galactic maps available through Lave in the 3100s curiously act as if Sol doesn't exist despite the Lakon Spaceways Transporter and Lavian Brandy being linked to Sol. The Transporter was the vehicle first tested with hyperdrives in Sol sometime pre-2500. Meanwhile, Lavian Brandy is made in oak barrels imported directly from Sol. Apparently, the distinctive taste relies upon natural woods from Earth.
+Given all the supposed enhancements that made Frameshift supposedly distinctive have existed since the generation ships or prior, the claim this technology is new is a hard claim to blindly accept. This is ever more true given Antares and Starship One utilized Hydrogen fuel. This places the gap between origins of Hyperspace versus claimed new technology of the Frameshift Drive in 3297 at about 1,097 years. See the official history of hyperspace:
+Source: https://youtu.be/JyKdBTi7B1U
+
+Given all this, it may well be advisable to check into Janus Incorporated in Delphi even if it may potentially be non-canonical. The faction is an NPC faction in the heart of region where "Thargoids" were rediscovered. Delphi also may well be the most important system in the region. This becomes especially evident given that the official narrative seems highly suspect.
+
+Last edited: May 15, 2023
+Reactions:
+Hanerib

@@ -1,0 +1,7 @@
+Edelgard von Rhein
+E
+Jan 1, 2024
+#32,820
+I wonder if, rather than trying to match the signal to an in-game location, it might better match either a real-world mountain or even a book cover for something by Robert Holdstock? The problem with in-game terrain is that it is now tile-based, meaning there are similar formations everywhere that are rescaled and re-oriented by the procedural generation.
+Reactions:
+Rochester and CMDRCorrMorningstarFelian

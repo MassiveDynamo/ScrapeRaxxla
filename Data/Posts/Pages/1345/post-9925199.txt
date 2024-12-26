@@ -1,0 +1,26 @@
+Jorki Rasalas
+Aug 27, 2022
+#26,884
+Emperor said:
+Thargoid roar..... not a Thargoid mother ship/Queen but we woke up the Guardians...
+
+And perhaps we shouldn't have....
+
+Just a thought....
+
+Also I did a spectral analysis of the roar and couldn't see anything in it... Has anyone looked at the trinket noises for any hidden info in the sound?
+In Horizons I've listened to the Trinkets container floating in space and also to my ship carrying them. I can detect NO sounds!
+
+Edit: meant to retry but switching music options on one by one, but distracted by the Great Comet Hunt!
+
+But the sound settings recommended in the good ol days of analysing UA etc were:
+If you can change "Windows Sounds, Playback-devices" the you device and the tab for "Advanced". Select 24Bit 48000HZ or better
+
+In Elite, Audio options: Select "Night Time" mode. And you can safely disable music. (Screenshot provided at the end of the video)
+
+Fly as silent as you possibly can. F/A Off will turn off the engines. Intermittently turn F/A on if you need to adjust your course
+
+Better still switch to your external camera and move as close to the source of the noise as you can leaving your ship at a distance.
+Last edited: Aug 27, 2022
+Reactions:
+Crimson Echo and Emperor

@@ -1,0 +1,8 @@
+alexzk
+A
+Feb 7, 2022
+#25,264
+Merlin StWahgwaan said:
+Also, I cant remember if it was MB or DB or who... but I seem to vaguely remember someone from Fdev specifically hinting about needing to use outside tools as well, and that's how users discovered the thargoid sound map, until then they hadn't tried outside tools with it being a risk to breach of EULA.
+Technically speaking, you can put phone near speakers with running sound analyzer and it will show that image, no need to break something.
+And that was only once too.

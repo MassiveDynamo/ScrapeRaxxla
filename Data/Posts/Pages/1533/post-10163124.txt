@@ -1,0 +1,23 @@
+darkflemish
+Jun 13, 2023
+#30,649
+Rough idea to maybe to catch a rogue planet, which Raxxla could be.
+Little bit based on that project of scanning each grid around Sol.
+
+
+How many systems are there in a bubble of Sol of:
+10ly
+20ly
+30ly
+
+The idea is to place in each system one cmdr. (question is how many cmdrs must we have for this in each bubble)
+
+The cmdr scan the system and take notes about how many bodies in the system atm.
+
+Each of them do this each 1 or 2 hours to check if something is changed in bodies in their system.
+
+Maybe one cmdr noticed that one body has gone and another noticed one body is added.
+
+Maybe with this we can see from and to which system a rogue planet goes. If a rogue planet exists, of course
+Reactions:
+CMDRCorrMorningstarFelian

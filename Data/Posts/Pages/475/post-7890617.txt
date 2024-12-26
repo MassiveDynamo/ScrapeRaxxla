@@ -1,0 +1,7 @@
+Edelgard von Rhein
+E
+Jul 9, 2019
+#9,490
+yelboc said:
+Didnt we have it from Fdev that misjumps are not in ED?
+I believe so but I've tried to force one anyway with Thargoid Probes and Macros Black's help. No effect.

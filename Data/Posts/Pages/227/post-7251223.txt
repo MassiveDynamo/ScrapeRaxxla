@@ -1,0 +1,13 @@
+Edelgard von Rhein
+E
+Dec 13, 2018
+#4,523
+clavain said:
+It's not just you. I tried it during beta, couldn't figure it out after several attempts at setting keybinds/going through tutorial, gave up. Just upgraded, went through the tutorial again, set up keybinds again, and still can't figure it out or get it working properly with HOTAS. At least you managed to get to the point of actually exploring, I'm giving up until they retrofit the original honk. This isn't engaging gameplay even if you can get it working, it's just another grindy timesink. Sad, but not unexpected frankly. They've succeeded in killing the one thing that might have brought me back to the game. Oh well, maybe in six months the honk will be back.
+Sorry to hear you've been having trouble. I practised the FSS a lot in beta (as I started out in between Colonia and the Bubble) and have transferred the keybindings and setting over to live, where they work very well, although I do use keyboard and mouse. My technique is to:
+1) have the mouse set to move the FSS viewpoint around, with a sensitivity that allows it to move very quickly, without losing all fine control.
+2) zoom in/out is set to W and S respectively
+3) tuning the scanner is set to A and D for left/right, sensitivity also suitable for fast movement
+4) F enters and leaves the FSS
+5) I move a short way away (only 5-10 seconds of flight for dwarf stars, 20 seconds worked fine for a GIII giant today) from the primary star to try and get a clear view of most of the Ecliptic Plane before opening the FSS
+This means I have my left hand able to quickly control both the zoom and tuning whilst I move the view around. I have not yet scanned a system with 73 bodies but it takes several minutes to do one with 30+. I imagine it might take me 10-15 minutes to do one with 73 bodies, depending on how they were placed (and I sometimes have to look around a bit if a planet is way outside the Ecliptic Plane). If it's taking you 2 hours, then it sounds like you're moving the field of view around much more slowly than needed. So I can only suggest trying to fiddle with sensitivity and to see what works for you (would a hat switch work well for both tuning and zooming, maybe?).

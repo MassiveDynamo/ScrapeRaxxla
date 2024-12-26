@@ -1,0 +1,10 @@
+Han_Zen
+Jul 29, 2020
+#18,146
+Raxxla being a rogue planet, is possible. It is at least within the game-mechanics that were available in 2015. There has been several objects in the game, that did not pop up on the nav panel until you got close.
+
+I don’t think the dark systems were implemented. All systems in the galaxy are visible in the galaxy map. Any findable rogue planet needs to be in a star system. As rogue planet is defined as a star class, it has to be implemented as a special type of secondary star.
+
+If a rogue planet is it’s own system I’m afraid we have to punch the correct name in the galaxy map, to locate it.
+Reactions:
+Fiera, John Stoutbeard, PeteACarter and 1 other person

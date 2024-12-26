@@ -1,0 +1,17 @@
+Jorki Rasalas
+May 14, 2024
+#34,065
+Hiding Raxxla by making it an unnamed system (rather one who's name is suppressed in galmap) is a good hypothesis, though presumably it would still show in the nav panel to allow FSD jump to it. But how would Ross 629 match the clues we have? Is the system IRL in the region of the Empyrean (or Hell)?
+
+Edit: Frank Elmore Ross catalogued variable stars and stars with high proper motion-perhaps Raxxla is moving after all?!
+Frank Elmore Ross - Wikipedia
+en.m.wikipedia.org
+
+Edit2: I found a simbad page for Ross 629, it has other names & one of those might be used in ED. You could also check it's coordinates (e.g. Spansh body nearest system?)
+
+Simbad - Object view
+SIMBAD's App (PWA): The SIMBAD astronomical database provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system.
+simbad.cds.unistra.fr
+Last edited: May 15, 2024
+Reactions:
+Rochester

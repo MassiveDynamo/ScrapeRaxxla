@@ -1,0 +1,24 @@
+Vektorboson
+V
+Feb 22, 2021
+#21,344
+Speculation time.
+
+I got a new idea how to interpret the weird naming scheme in the Isis-system based on Sifi KO-G b24-5. This is actually kind of an idea that I had very early while playing the game.
+
+The naming in Isis is: Isis 1, Isis 2, Isis I, Isis II, ... Isis X
+
+Why does the naming change after 2? My guess is, that it's either a hint for base-2 or it's a hint for exponentiation.
+So basically:
+Isis VI = 2^6 = 64
+Isis VII = 2^7 = 128
+Isis VIII = 2^8 = 256
+Isis IX = 2^9 = 512
+Isis X = 2^10 = 1024
+I have a few systems visited where the age of the primary star is 64/128/256/a.s.o.
+
+So my current working theory what the Omphalos Rift might be:
+get to a system where the age of the star is 64/128/...
+go to "the place" (I currently have no idea) and log out
+wait for after server maintenance
+you are teleported to another system with a star aged 64/128/...

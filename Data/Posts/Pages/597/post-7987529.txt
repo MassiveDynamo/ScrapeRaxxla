@@ -1,0 +1,11 @@
+[Diplomacy] Carnegie
+Sep 6, 2019
+#11,939
+Thatchinho said:
+What’s the alternative to region locks? There’s only so much ‘oh yeah, many of you passed through an area but never spotted/encountered anything for... reasons’ that can be credible.
+
+That's partly why region/system locks are central to my Raxxla and TDW theories. Raxxla being randomly stumbled across by someone who wasn't even looking for it would be hugely disappointing.
+
+Also, from a technical perspective, region/system locks are a long-standing mechanism (present in the game since Raxxla was added) that can be easily tested by FDev without anyone needing to know where Raxxla is. Coding something specifically to obscure Raxxla or the TDW station is an unnecessary extra effort, and runs a risk of breaking whenever new features (eg the FSS) are added. Unlocking permits is the same - there's an existing, easily tested method for doing it.
+Reactions:
+[PS4 Pro - PC] earthtone99, [PS4] Filthymick420, Six6VI and 1 other person

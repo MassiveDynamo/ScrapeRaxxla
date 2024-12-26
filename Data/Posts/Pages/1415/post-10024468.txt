@@ -1,0 +1,22 @@
+Louis Calvert
+Dec 7, 2022
+#28,281
+The point is to simply find evidence for it, not endlessly guess
+
+As I suggested yesterday, if we can simply find one example of a similar video showing any planet that's visibly different, we can easily put a pin in this immediately and move on.*
+
+Therefore;
+
+a) If it's an asset of the planet the CMDR just left being loaded in incorrectly in front of them, then there will be examples of other planet types (icy, cratered, crazy mountains, non spherical, etc.), we'll be able to find videos of planets that are clearly different.
+
+b) If it's some kind of asset bug where a planet from the system is somehow loaded into the witchspace tunnel then we'll be able to find examples of any other planet type, like a gas giant, for example (which are very common).
+
+
+I'd like to gently and kindly and respectfully request no more armchair tech support on this, please. It's not getting us anywhere.
+
+What I would dearly love, please, is for all of you to googlefu some more videos up of this "bug" so we have more examples to look at So far we have 3/4 video examples of a similar-looking mostly featureless rocky-type world, and zero examples of anything else...
+
+
+* It's worth remembering that some reports of a planet in Witchspace are from before Horizons. Although we don't have a video of that, this would suggest that - if it's a bug - the mechanism for seeing a planet in witchspace may not be related to simply landable planets. This means that it's much more likely to see other planet types than just a rocky maybe brown planet.
+Reactions:
+Sunyavadin and John Stoutbeard

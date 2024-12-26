@@ -1,0 +1,15 @@
+Jorki Rasalas
+Nov 17, 2019
+#13,362
+Han_Zen said:
+Just pick the mass of a small asteroide. It probably doesn't make much difference at all, as the mass of the station is insignificant compared to the planet and the star.
+
+Actually, there may be a quicker and more reliable way...
+Is there any in-game station actually placed at a lagrange point???
+
+Edit: Doh, I knew I was having a brain-failure!
+Just need mass of star, planet & semi-major axis, station mass unnecessary.
+Need to do some in-game testing, unfortunately not tonight...
+Last edited: Nov 17, 2019
+Reactions:
+Han_Zen, Six6VI and [PS4] Filthymick420

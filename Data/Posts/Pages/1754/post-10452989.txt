@@ -1,0 +1,19 @@
+Han_Zen
+Oct 14, 2024
+#35,068
+Jorki Rasalas said:
+BUT
+Robert Holdstock didnt design or programme Elite Dangerous. We dont know how well, if at all, that original definition of Raxxla applies to Raxxla within ED. DB said we "don't know what Raxxla is", the implication of that is that Raxxla within ED may well not be a planet.
+
+I'm still expecting a hidden Guardian ark ship, after millenia of space dust accretion probably now resembling a hollow asteroid, and undetectable until you get up close.
+Personally I still expect it to be some form of planet.
+Before ED the only time Raxxla is mentioned in any official context, is in the Dark Wheel description. If they made Raxxla something else than that, it wouldn't really be Raxxla. It would be something else, that FD gave the same name.
+
+Even UC calls it a planet:
+
+
+The word 'Planet' is however quite vague. The original description of a ghost planet makes it even more vague. Even an artificial object of sufficient size and with an approximately spherical shape, could be considered a planet.
+The main problem with an artificial object ist that it would require a custom made, in-game 3D object. For quite a few years after release, all such object had to be loaded locally from the game client. Even now it would mean a lot of data to load from server.
+It is more likely that Raxxla uses a standard object, with some minor overrides.
+Reactions:
+Ataxia, simulacrae, yelboc and 1 other person

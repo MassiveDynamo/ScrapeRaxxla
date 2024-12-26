@@ -1,0 +1,41 @@
+Merlin StWahgwaan
+Apr 9, 2024
+#33,834
+Louis Calvert said:
+Yes. I use Audacity and a virtual cable. Output game sound to virtual cable, input virtual cable to audacity, then output sound from audacity to my headphones (or speakers or whatever). I have Audacity running on my second monitor with the sound running through it so I can see the spectrogram forming as I do stuff. You can also use a window overlay software to essentially make a little window appear over your game screen if you only have 1 monitor connected, the one I used is called "OnTopReplica".
+
+I've not tried Merlin's way but that seems great too, I think there's a lot of ways to work these things and I'm not expert, I did my setup for other reasons too
+
+Well, the addition was still made by Fdev (presumably Brookes since Drew talked about how Brookes worked on the system names and stuff). So it might be that it was convenient for him as part of a wider plan? Also, I'm not sure if the story itself is relevant, but the plot is interesting in many ways four us as Raxxla hunters (I'll spoiler it in case anyone wants to read the book for themselves).
+
+
+
+
+
+
+It has me me wonder what else lurks in the less well known novels. I'm going to try to read more of them
+
+
+Well, there's the mountain range in the Landscape (assuming that is representing Raxxla), and the Rift allegedly leads to other Universes so I'd say that's pretty spot on
+
+True, but I think it ties in with the Codex very, very neatly. I'll do a post shortly on how I think it all fits together. The Landscape Signal is essentially an in-game representation of the Siren Song that causes Fernweh in some people.
+
+
+That's a very good idea. I don't have Ancient Keys (they're too recent IMO), but I have all the Guardian junk and Relics, and two Thargoid Sensors with me, I'll see if I can find any nearby Anomalies and see if that does anyhting!
+
+
+I always assume someone has in the past, but it's always worth trying stuff like that.
+
+Hehe, yeah! I suspect the "where" is found through other clues, or by filling in more of the sound. I totally agree that it seems like we're being given a 'weak' or incomplete version and I've tried everything I can think of to get a stronger signal to no avail. That makes me feel like it's deliberately incomplete -a puzzle!
+
+I think about the earlier puzzles. You have a Listening Post that spits out coded audio at specific times. Decode that Audio to find more Listening posts and assemble the complete message from several of them (3 usually). Combined they give you a location to search for something. Then you have to go there and manually eyeball the surface of a planet to find the specific location.
+
+The fact that the signal appears to represent a planet surface does make me wonder if Raxxla was implemented fully in Horizons, and maybe Braben and Brookes didn't want it solved before then - maybe that's why the Dark Wheel missions were pulled, so as to slow down the hints?
+Click to expand...
+Have you, or has anyone, tried putting the various cleaned up versions of the Landscape signal, thru any 3D Sectrograph/visualizer software, like WhiteCap from SoundSpectrum?
+
+Just to see if it makes an actual 3D landscape image of anything?
+
+Just curious....
+Reactions:
+Louis Calvert and selbie

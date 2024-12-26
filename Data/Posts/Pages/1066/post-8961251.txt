@@ -1,0 +1,58 @@
+Thatchinho
+Feb 20, 2021
+#21,303
+Vetinari said:
+Maths Question:
+
+If we are searching 400bn systems for something that is possibly in 1 of them. Randomly jumping, how many systems on average will we have to search until we find the right system? There must be a probability curve surely. Wild guesses appreciated.
+
+Did you know that if 30 people are in a room its quite probable that someone shares a birthday with you? So it could be a lot less that I think, probably
+Not sure the question as phrased actually works.
+
+What’s fairly trivial to work out however is the 50/50 point - i.e. how many jumps would be needed to have a 50% chance of having jumped to the right system.
+
+That’s all based on how the question was set out though - 1 system out of 400 billion. Completely random system entry with no constraints.
+
+Spoilering, as while the actual bit to do on a calculator is trivial, working out how to get to that point takes a bit of explaining.
+
+SPOILER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m going to leave it to anyone who wants the answer to read through, check the logic and do the calculation for themselves.
+
+Enjoy!
+
+
+(There is of course quite a lot of flaws in how this models the Raxxla situation. Jumps certainly aren’t random, for example, rather they operate within various constraints. That could distort things massively in either direction dependent on how those constraints relate to where Raxxla is.)
+
+***disclaimer - it’s not my specialist subject, and working out probabilities can be a bit prone to things being missed or logical flaws, so a sense check of the above from others would be worthwhile.
+Reactions:
+Vektorboson and Vetinari

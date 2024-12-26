@@ -1,0 +1,110 @@
+CMDRCorrMorningstarFelian
+Dec 27, 2022
+#28,661
+Louis Calvert said:
+Hope y'all had a good few days whatever you do or don't celebrate
+
+Some of you may recall that I've been working on an attempt to reconstruct the Lore Bible up to 2296 in the hopes that it might help show if there was anything 'weird'.
+
+Sadly the overall results aren't as promising as I hoped. For those that want to see or reference the full thing, please see this google doc. If you find lore from in-game that fits within the time period that I've not included I'd appreciate it if you let me know and I'll add it in. Please note I'm not interested in anything from non-Elite Dangerous sources.
+
+For those that just want to see the reconstructed text, see the spoiler below. This is 99% Tourist Beacons, Galnet, and the Codex. I've made extremely slight tweaks to make some of it read better and chopped it around a bit, but I've not changed any details, you can find all the original sources in the google doc linked above. Please check all the sources for errors!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm interested to know what you all think. As I said there's no 'smoking gun'. I'd hoped to find a mysteriously blank section of time, or something weird. I don't think there's anything like that here.
+
+There are a few things I think are interesting to consider:
+
+1) As per my pervious posts, I still can't see any reason why were made in such a short time. Not sure it's significant to Raxxla hunting though. A lot of text went into the Generation ships, clearly a lot of thought, MB was describing Gen ships back in 2015. I personally think they're important to , it may be just the base narrative to set up any mystery they want in the future so getting that firmly established early on is a good idea.
+
+2) For what must have been a massive project using some high-end sci-fi ideas, there's actually no mention of the first Martian terraforming project at all, other than it failed. This is almost casually mentioned in the 2182 entry about life on Beta Hydri and Altair. My assumption is that it was started at some point after the first colony on Mars, late 21st Century, early 22nd - but that's a total guess since it's bizarrely never mentioned. The second attempt is also never explicitly mentioned until it's completed in 2291, that reference suggests it was stared around 2200, but again, no details whatsoever.
+
+3) Obviously this is the big ticket item - however, the discovery date of 2280 means it's found towards the very end of the second Martian terraforming effort, so it's probably not a Total Recall-martian-air-making machine. Sorry.
+
+4) Prior to 2296 the only actual known colonies were Tau Ceti, Beta Hydri, Altair, Delta Pavonis, (and Achenar). Of the four near Earth, no mention is made of specifically those four systems were chosen except Tau Ceti. Maybe the others had planets that were considered possible to terraform more easily than others? Who knows! I'd like to, but I assume the lack of information is because it's not important.
+
+5) . This gives us a very good idea of travel in this era. 139ly for an well-funded mission is considered extremely hard, there's reference that indicates not all ships made it. Later (not included in my timeline) we know that the Fed military fleet found it incredibly hard to reach Achenar a few decades later.
+
+In short... no. Sadly. I don't think actually adds anything new to the search. We're still left with the general idea that whatever Raxxla is, it was known widely enough to become a colloquial myth, but obviously considered something "lost" in the sense that you could go search for it.
+
+If you compare this research to the you can see the majority of the events in Elite Dangerous are basically the same, although some dates are shifted a little bit.
+
+The only really major thing that's jumped out to me doing this is that Tau Ceti has been adjusted in Elite Dangerous. In the earlier timelines it lists Tau Ceti 3 as the colony world. In Elite Dangerous it's Tau Ceti 2. That text mistake actually occurs in the text of so, not sure why that's a thing. Those of us that have been around for a while know that the Tau Ceti system in Elite Dangerous has been added to and changed over the years (the comet stations, etc.) and for a while after Odyssey launch (and still in the database) the newly added Tau Ceti 4 is called "Starty McStart Planet" for some reason. It's weird, but I don't know if it's significant. It's only really standing out because of the Tau Ceti reference in the Codex.
+
+We're still left with the options that Raxxla may have been detected remotely by FTL probes, telescopes, psychic visions, aliens visiting earth, etc. It may have been discovered in one of the four colony systems, or Sol itself. It may have been linked to the Martian Relic, but there's no obvious connection other than it's something weird that may relate to another weird thing. It may have been found by Duval's expedition to Achenar. It may have been found by any of the (presumably) unregistered or unrecorded expeditions that (presumably) were also happening.
+
+However, I'm sharing this so if anyone wants to look into it, you've got this to build off.
+Click to expand...
+You need to add into this colonization of Arcturus (2304 per system description - a mere 8 years after the rumor is known to exist). Of note, there is planet in that system called Discovery which may or may not be relevant. There is another system with a planet Discovery per EDDB, Exphiay (again whether that is a hint is anyone's guess).
+Last edited: Dec 27, 2022

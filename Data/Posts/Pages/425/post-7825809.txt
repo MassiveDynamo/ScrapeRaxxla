@@ -1,0 +1,17 @@
+Edelgard von Rhein
+E
+May 31, 2019
+#8,484
+AzoreanOutkast said:
+Well, like i just answered to another post here, the 1st time this happened to me was during the time we had that awfull bug with the FSS going sideways and didnt let u scan the systems, and that was how i ended up finding that this happened, cause i from that event onwards everytime i see a sun or planet that distant i tend to fly there to check if there isnt anything else, on some i end up finding new things, in others i get bumped cause there is nothing there...
+
+As the percentage goes, that i recall it readjusted, but i cant say with 100% certainty since i wasnt really paying attention to those finner details.
+
+I need to go to my pc log in and check what is in the history of what i did so far, but last trip i did and found this events, was to the left of the bubble, went 10k out before coming back in always on economical planning and i didnt saw that many, so far i got 7 situations like this that i found.
+But i have found alot of systems where the system was discovered already by someone, and mapped and still i use the FSS and find new stuff, reason may just be that those systems were visited before the FSS was introduced? So older discoveries and somehow something failed when they switched over but i cant tell ive been playing since January so i only know the FSS and nothing else.
+Click to expand...
+If you enter a system that has been partially scanned by someone else then, before you even complete the honk, you will see the bodies that had been scanned by other CMDRs (regardless of whether they were level 2 or 3 scans) but not those that had previously only been detected by a pre-3.3 honk (level 1 scans). Once you complete your own post-3.3 honk, you will get the total body count and can use the FSS to scan everything. It is not that unusual for CMDRs to have left distant worlds unscanned (especially if they are all icy), and if this is the case in a system, then these will be untagged. They will subsequently appear on the system map/nav panel when you scan them with the FSS. It may therefore seem like you find new worlds that were not previously there.
+
+If you find use the FSS and get to 100% bodies scanned X/X, then find that a subsequent honk reveals another Y bodies giving you X / (X+Y) and the corresponding percentage remaining, then that is a bug: all bodies in the system should be detected by the honk and be scannable (subject to occultation) from the jump in point. The 'system scan complete' message might be separately bugged, as it has been in previous builds, although it is working better than before. I have learned not to trust it, though I wonder if it can trigger if everything has been scanned before by another CMDR before you use the FSS, leading it to happen whilst you have a system complete of less than 100%. This needs checking, as I could be mistaken.
+Reactions:
+Jorki Rasalas, Jaiotu, Marco Santos and 2 others

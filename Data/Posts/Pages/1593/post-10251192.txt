@@ -1,0 +1,63 @@
+Ruby_Empress
+R
+Oct 31, 2023
+#31,858
+Emperor said:
+That's why Ross 54 / HIP 34104 has interested me for some years and I keep coming back to it as it just seems wrong.....
+
+I can search for them both and they appear as their own system in the galaxy map (Ross 54 being the main name), but you can't plot a route to them however you can try and jump to them but the game crashes for me.... and they both (Ross 54 & HIP 34104) are LFT 509 anyway......
+
+Post from earlier in this thread "The System's stars are so far apart, many times longer distance than hutton orbital, that it appears to pointing at empty space."
+
+Why Ross 54/HIP 34104 are noticeably not in LFT 509 (or why they exist at all on the galaxy map!) I don't know, but I agree it would be about .92 LY out from LFT 509 and somewhere good to hide a dark station or Raxxla?
+
+
+When I raised a ticket about HIP 34104 not appearing in the galaxy map but still being searchable () the response was:
+
+
+
+Could this be...
+- "A certain celestial body. Place that isn't a place"?
+- "door that is also the key."?
+
+
+
+
+The only other mention of LFT 509 in the game that I know of are in the release notes for the 1.2 Wings release where it mentions LFT 509 and two other systems.
+
+
+
+1.2 Wings Release Notes: "Adding valuable salvage convoys to three permitted systems: , Isinor, Witch's Reach"
+
+Why add in valuable salvage convoys to a system you can't enter?
+
+Outside of in game official FD LFT 509 references there was the turning the wheel exercise to get the Dark Wheel faction to expand in to LFT 509 (or grant a permit to the system by being within 20 LY) .... Which was admirable and failed to spawn anything..... (Which I thought needed the Pilots' Federation to be pushed out there myself )
+
+
+It's also a bit weird you can buy the market data for it... Which i did
+
+
+Then there's EDSM... Did CMDR IRREGULAR HUMAN honk and leave?
+(going by the 1 celestial body recorded on there he went to the 7th Moon of an un-named gas giant! LMAO)
+
+
+
+
+
+
+Finally I have raised a ticket for not being able to plot a route to Ross 54 (and it not loading the star types in the info), feel free to try it and confirm it and it may get a response and whether it's by design or not! :
+
+Just some thoughts!
+
+
+
+
+"Baddest Jerk Face's" posts that are mentioned in the podcast
+
+
+how can you jump to ross 54?
+
+ok i confirm trying to jump to ross 54 crashes the game
+Last edited: Oct 31, 2023
+Reactions:
+Emperor

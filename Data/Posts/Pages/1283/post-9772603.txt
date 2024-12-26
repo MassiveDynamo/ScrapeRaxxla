@@ -1,0 +1,11 @@
+Adel
+A
+Mar 13, 2022
+#25,656
+Rochester said:
+Do we know why it crashes the game?
+You missed it.
+Pyroboros said:
+why it crashes when the ID has nothing to point at is because the Searchbar returns something the Game did not expect and has no clue what to do.
+Reactions:
+Rochester and John Stoutbeard

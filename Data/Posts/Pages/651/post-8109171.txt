@@ -1,0 +1,9 @@
+Han_Zen
+Oct 27, 2019
+#13,016
+Koben said:
+Just out of curiosity... did we get anything from the Thargoid Sensor besides the fact it points to Merope and that morse code that would draw the ship carrying it?
+UA/TS will Morse the local system / body / station name. It does this until it scans our ship.
+It does not scan SRVs, so at the crash sites keeps doing the name Morsing.
+Reactions:
+simulacrae and [PS4] Filthymick420

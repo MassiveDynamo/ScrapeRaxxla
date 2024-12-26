@@ -1,0 +1,9 @@
+Jorki Rasalas
+Oct 29, 2024
+#35,146
+Ian Doncaster said:
+Some of this will be processing speed of comparing files for the update locally, rather than the download itself. Are you installed to a SSD or a traditional hard drive?
+
+Mine normally gets 20-30Mbps from Frontier's servers if I leave it to it, but if I do other stuff requiring disk access on the computer it drops to single figures.
+Mmm. Good question. Ive got an ssd for C:/, but hard drives for data etc. it's probably loading to the hard drive. But I get so bored waiting for it to download I don't have anything else going. I get bored waiting up to 15 - 30 minutes for the download to actually start!!
+Last edited: Oct 29, 2024

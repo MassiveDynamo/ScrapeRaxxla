@@ -1,0 +1,9 @@
+Chris Cuttner
+Dec 30, 2020
+#20,225
+Jorki Rasalas said:
+There are no belt clusters and hence nothing is targetable, which seems strange. Especially for Sol, humanity’s home system. Back in around 2016 when I first got the Sol permit the asteroid belt was targetable but it showed as being within the sun.
+
+the belt is still inside the sun and you can target it indirectly: first set a bookmark via the system map, then select/target it via the bookmarks.
+Reactions:
+Crimson Echo and Ruby_Empress

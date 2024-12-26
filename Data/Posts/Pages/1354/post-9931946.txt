@@ -1,0 +1,15 @@
+Pyroboros
+Sep 4, 2022
+#27,078
+Jorki Rasalas said:
+The systems and bodies and stations etc you visit, and sell/buy transactions & a whole load more of in-game events are stored in the journal files. They’re readable text & you can manually inspect these (thats part of the comet hunting process as its the only way you can get them identified) but theres a tool EDDiscovery which I heartily recommend to anyone. It keeps your history, allows you to easily search through it, gives you maps and a whole lot more capability, and it will automatically report your journeying to the EDSM database tool which is building knowledge of the galaxy for anyone to access (the game database can only give you information on systems you have visited).
+
+Ive been to Procyon many times, seem to remember its a useful system for getting missions towards the Sirius permit. Nothing found out of the ordinary, but if Raxxla “is very hard” to find then it could be there.
+
+Ive got and occasionally use EDObservatory, but it doesn't tell me about comets in the system which is what I wanted it for. Useful for identifying shepherd moons, binary moons etc. I gather you’re a software guru. How about creating a tool that helps to identify comets, HyperbolicOrbiters etc etc?
+
+Edit: this is supposed to be a multi-quote response to 3 posts. But doesnt seem to have worked, odd
+Click to expand...
+i am most certainly not a software guru. I do not have any idea how to make my python user friendly. There are others more capable than me starting to figure out the comet stuff. My code to fit a line between the Hyperbolic Orbiters i my self have no idea how this worked that was all numpy magic and i best burn that witch now.
+Reactions:
+Jorki Rasalas and simulacrae

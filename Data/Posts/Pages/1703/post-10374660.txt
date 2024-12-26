@@ -1,0 +1,21 @@
+Han_Zen
+May 13, 2024
+#34,046
+I was thinking a bit about portals. There aren't a lot of examples of portals in Elite. The only portal I can think of, is the Thargoid transporter in FFE. When you dock with that one, you are teleported to another similar ship.
+The transporter is in orbit around Polaris 4b and takes you to Miackce (probably Col 70 sector fy-n c21-3 in ED).
+
+The Thargoids are an old species. The transporter could have been there for Thousands of years. It was discovered by Mic Turner, who was killed like Jason Ryder.
+In FFE the portal only works once. If you go back to Polaris you can dock with it, but nothing happens. It was clearly controlled by the Thargoids, during the first jump.
+
+Could FD possibly have spun the Raxxla mystery around this device? Could it link to more than one location, in an ancient Thargoid network?
+
+Polaris would of course fit most hints in the codex. It is the pole star. It burns on top of the galaxy. The other stars spiral around it. It is the Omphalos point. It is even surrounded by a dragon.
+Polaris 4b is an unremarkable moon and a definite place. The transporter is an alien construct and Polaris is guarded by powerful, twisted men (INRA in FFE).
+
+If the mystery is constructed this way, the permit is the challenge. Or even a module or nav-computer hack that allows us to ignore permits. This would make it easy for FD to implement the Elite rank requirement and they could effectively limit the number of commanders that gets access at all. Help from the Dark Wheel may be an absolute necessity, to access Polaris.
+
+All this would be convenient, easy to implement and give FD full control.
+
+What do you think? FD usually keeps things quite simple, when it comes to mysteries. We aren't as good at that.
+Reactions:
+CMDRCorrMorningstarFelian, Rochester, simulacrae and 2 others

@@ -1,0 +1,12 @@
+Q Hung
+Q
+Sep 23, 2020
+#19,032
+Jorki Rasalas said:
+Anybody good at handling JSON files? It would be nice to download a data dump from EDSM and filter out systems with (only?) a type M subdwarf plus asteroid belt plus type 3 GG and see if there is anything within/near the bubble (it's not me I'm afraid!)
+
+That's... a lot of JSON. Like, 8.6 gigabytes or some such thing. I'm trying to get it to load into XCode at the moment but I'm having a hard time confirming if it's even formatted correctly.
+
+Q
+Reactions:
+Vetinari and [PS4] Filthymick420

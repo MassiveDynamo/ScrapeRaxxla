@@ -1,0 +1,24 @@
+Thatchinho
+Apr 4, 2019
+#7,260
+dezpe said:
+Yo folks,
+
+I was intrigued by the system names in the image posted earlier. So I got into the Galmap and tried some postions. I don't think that those system names are leading us anywhere. Is there anyone who knows where these come from?
+
+View attachment 126797
+
+deZpe
+Click to expand...
+Oh, it definitely ain't all labelled correctly. M42 is the Orion Nebula, and there's BL and the Horsehead in the plane between the Orion Nebula and Alnilam / Epsilon Orionis. Here's a shot to illustrate comparative visibilities:
+
+
+
+F Class star, so there shouldn't be any issues with colour saturation distorting things. Middle of the Orion Nebula targeted. No sign of the Orion Nebula. Barnards Loop is visible though (it's much more obvious in-game than in the screenshot). Upping contrast levels to the point of the Orion Nebula being as noticeable as the object marked as M42 would make BL stand out hugely.
+
+(This isn't taking into account the possibility of the menu screen image having had BL edited out of it of course.)
+
+Edit - having looked at this on mobile after posting on PC, BL is quite hard to see in the image. The contrast point still stands though, BL’s visible but hard to see, whereas M42 / Orion Nebula isn’t visible whatsoever.
+Last edited: Apr 4, 2019
+Reactions:
+ExoForce

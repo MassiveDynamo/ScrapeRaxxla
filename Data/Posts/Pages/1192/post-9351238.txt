@@ -1,0 +1,14 @@
+Han_Zen
+Jun 27, 2021
+#23,823
+Djidjel said:
+Ok, if this is true then we have the following possibilities:
+1 - if that cmdr honked the basic or intermediate scanner (pre-3.4 ED had basic, intermediate and advanced, and only the advanced could scan the whole system), and if Raxxla was further than 500 or 1000 ls then it's still hidden. (I find this the most likely scenario)
+2 - if said cmdr had the advanced scanner then he found the planet that holds Raxxla but didn't go there. It might mean it was not apparent at long distances and he had to visit each body and didn't - IMHO FDev were then giving us a hand here when they introduced the FSS, at least let's hope so.
+2a - if an EDSM/EDDB/INARA E: D account link was present then that system is on their databases (incompletely scanned most likely)
+2b - if the account wasn't linked then it's only present in Univ Cartographics (if the cmdr didn't blow the ship before selling the data) .... aaand we have nothing.
+If the legend of the honked system is true, the system has likely been visited many times since. The story is old. Jump ranges were limited and space was big, back then. I suspect the system is fully mapped in EDSM, by now.
+
+I believe your option 1. is most likely. Anything that doesn't show on scan is hard to find. Even locating the Voyagers was tricky and they were on a set course, at known velocity, in a known system. Imagine tracking down Proxima Centauri, if it didn't scan. That would be a monumental task, even though it glows and the orbital plane and distance are known. At 0.1ly, a system becomes very large.
+Reactions:
+Felix DiCestria, simulacrae, Exekrator and 2 others

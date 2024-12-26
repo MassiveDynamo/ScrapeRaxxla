@@ -1,0 +1,10 @@
+John Stoutbeard
+Mar 5, 2022
+#25,550
+Adel said:
+I think you're speaking of another method to catch them.
+I'm just questioning "if we drop out correctly sometimes" if the signal is flying away from us, to ensure having a higher chance at actually dropping out at something.
+When we had 'runaway signals' it was clear that the stations / objects just kept flying away from us if we couldn't "arrest the signal" when in supercruise. I know, those were bugs, but I always wait until "the signal has been arrested" so to speak.
+Last edited: Mar 5, 2022
+Reactions:
+Adel

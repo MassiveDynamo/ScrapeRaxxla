@@ -1,0 +1,25 @@
+Noobilite
+Jan 22, 2019
+#5,366
+It's probably the slow down effect combined with the hatch like thing on controllers. I use a mouse and keyboard to move. It slows down to hit targets and you can zoom in and out with the mouse wheel. I go slow to see the ground targets, but if you ignore them it's very fast. and you can move with the keyboard and push the mouse to move even faster. I might have ignored or lowered some sensitivity settings with that one.
+
+Yea, I kind of wouldn't be surprised if it's optimized for a controller. That kind of makes sense. They are always playing with them in streams. I didn't consider that.
+
+I actually have problems going too fast. If I ignore scans and go as fast as possible just hitting targets it starts to lag bad and kind of slows down how fast I can scan systems. But, yea, thinking about it, I bet they developed the whole system using those controllers....
+
+Does your hotas have a proper hatch or just the 4 direction type. That might help. Might even be better like with the mouse. If you can move with the hatch or something and then push with the joystick you can get double movement control with one hand if it's precise.
+
+I think I derailed the thread a bit. 8p
+
+Should I say my raxxla finding search I'm doing. It involves the spiral decoder thing(And similar techniques.). Although that pretty much says it all. Coordinates are all around the bubble and within 8k ly. It's quite odd how all such coordinates I come up with end up near the bubble. Not just near the bubble but making a square/rectangle around it...
+
+I actually took the Raxxla vs Rabbit name and found the difference between the letter values. Same thing. Surrounds the bubble...
+
+Difference is 22,22,3,19.
+
+That potentially gives 181,2222,319 with varying positives and negatives(still needs the double letter thing applied potentially). Perfectly hits the top and bottom most extreme stars above and below the bubble. And even makes a sqaure search area at the top and bottom of the galaxy just over/below the bubble. Also plane raxxla does the same. 181,2453,1230 or 181,2424,121. Vary all positive and negative values and you get a shape around the bubble each time. Always with vary sparse areas with a few stars in sight.
+
+I'm getting an anaconda when I get back to the bubble and checking those out. Very interesting systems potentially. Just need to find the jump distance as there are barely any stars at those spots. Some system have not been visited according to eddb. So, either they don't have the data or they are hard to get too.
+
+Aslo, raxxlas numbers add up to 80.. Maybe we need 80ly jump capability to reach raxxla.
+Last edited: Jan 22, 2019

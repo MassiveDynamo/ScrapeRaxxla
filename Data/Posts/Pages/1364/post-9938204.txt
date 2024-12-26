@@ -1,0 +1,16 @@
+Pyroboros
+Sep 11, 2022
+#27,263
+Jorki Rasalas said:
+I dont yet understand. How are these Rogue Signal sources being found? Are they the incoming Stargoids? Are they left behind by the Stargoids? Detail is lacking!
+it did appeared while i was hunting for comets/ Hyperbolic Orbiters in the Anomaly System. the HOs seem highly correlated too the Anomalys.
+As i got close to the HO for the System the anomaly was suspected to fly by it appeared in the NavPanel.
+Others also found this Signal just by flying in the general direction of the Anomaly. (without targeting via GalMap)
+exiting SC at them seems to fail to load some asset and causes a Game crash. (huge Spoiler assets look in crash dump for yourself if you are fine whit spoiler)
+
+It looks like non of it is Raxxla related. Only the build up for a new narrative in the Thargoid stuff.
+
+Something new to pewpew at.
+Last edited: Sep 11, 2022
+Reactions:
+Ataxia, OrdinaryMan, yelboc and 2 others

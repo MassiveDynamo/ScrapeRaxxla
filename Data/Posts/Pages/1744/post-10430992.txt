@@ -1,0 +1,16 @@
+Ian Doncaster
+Sep 19, 2024
+#34,878
+Dox Paradox said:
+Could you provide a short description of what was tried?
+There's fuller details in this thread if you scroll back to January, but my working model was:
+
+- as you say, dark systems are possible; we know Frontier has always had the possibility to hide selected systems from the map
+- in that case, it might be possible to misjump to it by plotting a jump between two other systems which exactly passes through it
+- while its exact coordinates might not be the boxel corner they in this theory at least can be assumed to obey the same 1/32 LY resolution as every other galactic-level object.
+
+So I grabbed an EDSM dump of system coordinates in that general area, and started looking for pairs where the line between them passes through. There were a lot, and so I restricted myself to those where the midpoint was at a valid coordinate within (or slightly outside) the estimated margin of error, and the range needed was less than the <40LY maximum possible pre-Horizons, and started carrying out those jumps.
+
+What I was missing, of course, was a way to actually get a misjump - so I tried the old Elite 1 method of maximum upward pitch while entering hyperspace. I would be fairly sure if this is the answer that you need to do something more deliberate than "jump between two systems", which anyone could stumble across accidentally, but of course knowing what would trigger a misjump is itself a really broad question even if the rest of the theory was right.
+Reactions:
+Dox Paradox

@@ -1,0 +1,14 @@
+Ian Doncaster
+Sep 19, 2024
+#34,876
+I think the problem with Raxxla itself being in the bubble is that it then needs a really good explanation for "why has no-one - including centuries of NPCs! - accidentally found it by now?" that would nevertheless allow someone who knew what they were doing to track it down fairly easily - whereas even a few hundred LY out in a non-descript system the level of concealment required to ensure no-one accidentally stumbles across it is so much lower.
+
+I don't buy the "there was a reference to it in 2296 so someone must have got there by then" line of argument; the earliest known references to both the existence of the Moon and attempts to reach it long predate 1969.
+
+Dox Paradox said:
+I don't believe it. Fdev closed the ticket as "work as expected" so the sound is correctly positioned.
+"Correctly positioned" doesn't mean "has anything to do with Raxxla", was my point. If it turns out to be unrelated there are other reasons Frontier might have put a sound in deep space.
+
+I do like the theory that it has something to do with Raxxla, incidentally - it fits fairly well with a lot of the Codex, and I went out earlier this year to try some experiments on reaching the source (without success, naturally) - but there remains the possibility for non-Raxxla explanations which don't require its position to be a bug.
+Reactions:
+Dox Paradox

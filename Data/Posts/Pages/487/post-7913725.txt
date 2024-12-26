@@ -1,0 +1,7 @@
+JulesD
+J
+Jul 24, 2019
+#9,730
+Jorki Rasalas said:
+does seem odd that mapping has to be done in SC...
+Suspect this is the instancing mechanics, doubt the planet actually exists as an object in normal space
